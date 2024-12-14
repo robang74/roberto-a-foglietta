@@ -1,7 +1,5 @@
 # Roberto A. Foglietta
 
-<img src="" height="" width="">
-
 Linkedin and beBee articles collected along the time in PDF format.
 
 ## Copyright
