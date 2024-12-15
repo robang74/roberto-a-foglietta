@@ -1,8 +1,7 @@
 #!/bin/bash -e
 #
-# (C) Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
+# (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
-
 
 if [ "$2" != "" ]; then
     for i in "$@"; do
@@ -38,22 +37,22 @@ $(cat html/default.css)
 " >$f
     cat $i >> $f
 
-    sed -i "s,^# \(.*\),<H1>\\1</H1>," $f
-    sed -i "s,^## \(.*\),<H2>\\1</H2>," $f
-    sed -i "s,^### \(.*\),<H3>\\1</H3>," $f
-    sed -i "s,^#### \(.*\),<H4>\\1</H4>," $f
-    sed -i "s,^##### \(.*\),<H5>\\1</H5>," $f
-    sed -i "s,^ *[-+\*] *> *\(.*\),<blockquote><li style='margin-left: 25px; text-indent: -25px;'>\\1</li></blockquote>," $f
-    sed -i "s,^ *[-+\*] \(.*\),<li style='margin-left: 25px;  text-indent: -25px;'>\\1</li>," $f
-    sed -i "s,^ *\([0-9]*\)\. \(.*\),<li style='margin-left: 25px;  text-indent: -25px; list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," $f
-    sed -i "s,\*\*\(.*\)\*\*,<b>\\1</b>,g" $f
-    sed -i "s,\*\(.*\)\*,<i>\\1</i>,g" $f
-    sed -i "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" $f
-    sed -i "s,^> \(.*\),<blockquote>\\1</blockquote>," $f
-    sed -i 's,\[\([^]]*\)\](\([^)]*\)),<a href="\2">\1<\/a>,g' $f
-    sed -i "s,^ *$,<p/>," $f
-    sed -i "s,^---.*,<hr>," $f
-
+    sed -e "s,^# \(.*\),<H1>\\1</H1>," \
+-e "s,^## \(.*\),<H2>\\1</H2>," \
+-e "s,^### \(.*\),<H3>\\1</H3>," \
+-e "s,^#### \(.*\),<H4>\\1</H4>," \
+-e "s,^##### \(.*\),<H5>\\1</H5>," \
+-e "s,^ *[-+\*] *> *\(.*\),<blockquote><li>\\1</li></blockquote>," \
+-e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
+-e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
+-e "s,\*\*\(.*\)\*\*,<b>\\1</b>,g" \
+-e "s,\*\(.*\)\*,<i>\\1</i>,g" \
+-e "s,^---.*,<hr>," \
+-e "s,^ *$,<p/>," \
+-e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
+-e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
+-e 's,\[\([^]]*\)\](\([^)]*\)),<a href="\2">\1<\/a>,g' \
+-i $f
     echo "
     </body>
 </html>" >> $f

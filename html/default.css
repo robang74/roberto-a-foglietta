@@ -14,3 +14,7 @@ a:visited {
 a:active {
     color: #fff060;
 }
+li {
+    margin-left: 25px;
+    text-indent: -25px;
+}
