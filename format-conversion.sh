@@ -25,7 +25,20 @@ for i in *.md; do
     fi
     echo "converting $i in html ..."
     f="html/${i%.md}.html"
-    sed -e "s,^# \(.*\),<H1>\\1</H1>," $i > $f
+    echo "
+<html>
+    <head>
+        <title>${i%.md}</title>
+        <style>
+$(cat html/default.css)
+        </style>
+        <link rel='stylesheet' href='custom.css'>
+    </head>
+    <body>
+" >$f
+    cat $i >> $f
+
+    sed -i "s,^# \(.*\),<H1>\\1</H1>," $f
     sed -i "s,^## \(.*\),<H2>\\1</H2>," $f
     sed -i "s,^### \(.*\),<H3>\\1</H3>," $f
     sed -i "s,^#### \(.*\),<H4>\\1</H4>," $f
@@ -40,6 +53,10 @@ for i in *.md; do
     sed -i 's,\[\([^]]*\)\](\([^)]*\)),<a href="\2">\1<\/a>,g' $f
     sed -i "s,^ *$,<p/>," $f
     sed -i "s,^---.*,<hr>," $f
+
+    echo "
+    </body>
+</html>" >> $f
 done
 
 echo
