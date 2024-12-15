@@ -2,7 +2,13 @@
 
 * Published May 18, 2024 - source [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
 
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg">
+<div align="center">
+
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/>
+
+</div>
+
+<div align="justify" width="820">
 
 Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM?trk=article-ssr-frontend-pulse_little-text-block), pubblicato il 18
 maggio 2024.
@@ -11,7 +17,11 @@ maggio 2024.
 
 Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
 
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png">
+<div align="center">
+
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png"><br/>
+
+</div>
 
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche il testo, nella sua parte essenziale, della notizia:
 
@@ -69,9 +79,11 @@ Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magar
 
 Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro svantaggio.
 
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488">
+<div align="center">
 
-* Europe Cina import export balance sheet and charts, right click to enlarge
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>Europe Cina import export balance sheet and charts, [click to enlarge](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png)
+
+</div>
 
 Le tabelle e i grafici qui sopra sono stati creati a partire da dati forniti da ChatGPT 4o riportando Eurostat come fonte. Ciò non implica che questi dati siano oro colato, anzi.
 
@@ -119,6 +131,8 @@ Poiché less is more, meglio partire dai vertici. Piuttosto che la WW3.
 ### Conclusione
 
 Penso che in questo articolo ci siano abbastanza spunti affinché una persona di mondo - che non sia nata ieri e che non abbia la memoria di un pesce rosso, ne l'arroganza di pensare che le genti di altre nazioni siano dei bifolchi ignoranti e degli stupidi al limite del suicidio - possa ricostruire la trama della crisi Ucraina dal 1992 al 2022 e - con un po' di nozioni storiche unite alla consapevolezza di quali meccanismi si celino dietro a queste controversie - prevedere quali siano le evoluzioni più probabili a breve termine.
+
+</div>
 
 <br/>
 
