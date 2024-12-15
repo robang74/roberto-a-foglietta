@@ -100,6 +100,18 @@ for i in *.md; do
     done
 done
 
+sed -e 's,href="\([^h][^"]*\).md",href="html/\1.html",g' \
+    -e "s,href='\([^h][^']*\).md',href='html/\\1.html',g" -i index.html
+
+zipfle=archivio-html.zip
+rm -f $zipfle
+if [ "x$1" == "x-z" ]; then
+    zip -r $zipfle img/ html/*.html index.html -x $0
+    zip -j $zipfle zip/README.md
+    du -sk $zipfle
+    echo
+fi
+
 fi; exit #######################################################################
 #
 # PDF creation is ignored
