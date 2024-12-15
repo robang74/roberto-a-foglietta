@@ -12,7 +12,7 @@
 
 [**`IT`**] Questo forum è aperto a dibattiti sui documenti inclusi in questa raccolta e su altri argomenti che possono entrarvi.
 
-* &nbsp;[this project discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
+* &nbsp;[think tank discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
 
 * **`roberto.foglietta`@`gmail.com`** for a direct contact
 
