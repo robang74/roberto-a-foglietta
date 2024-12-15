@@ -60,7 +60,7 @@
 
 ## Copyright
 
-&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
+#### &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
 
 All the files in this gihub repository are published **Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International** license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
 
