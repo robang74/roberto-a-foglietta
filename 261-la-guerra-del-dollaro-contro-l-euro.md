@@ -17,7 +17,7 @@ Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa
 
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche il testo, nella sua parte essenziale, della notizia:
 
-> Gli obbligazionisti stranieri vogliono che l'Ucraina riprenda il pagamento del debito dopo che il processo è stato sospeso nel 2022 a causa dell'inizio di un'invasione su vasta scala. Lo riferisce il Wall Street Journal con riferimento alle fonti. Gli interlocutori della pubblicazione affermano che un gruppo di obbligazionisti stranieri, tra cui BlackRock e Pimco, intendono fare pressione sull'Ucraina affinché ricominci a pagare gli interessi sul suo debito l'anno prossimo. Il gruppo, che detiene circa un quinto dei 20 miliardi di dollari in eurobond in circolazione dell'Ucraina, ha recentemente formato un comitato e ha assunto avvocati e banchieri per negoziare.
+> *Gli obbligazionisti stranieri vogliono che l'Ucraina riprenda il pagamento del debito dopo che il processo è stato sospeso nel 2022 a causa dell'inizio di un'invasione su vasta scala. Lo riferisce il Wall Street Journal con riferimento alle fonti. Gli interlocutori della pubblicazione affermano che un gruppo di obbligazionisti stranieri, tra cui BlackRock e Pimco, intendono fare pressione sull'Ucraina affinché ricominci a pagare gli interessi sul suo debito l'anno prossimo. Il gruppo, che detiene circa un quinto dei 20 miliardi di dollari in eurobond in circolazione dell'Ucraina, ha recentemente formato un comitato e ha assunto avvocati e banchieri per negoziare.*
 
 ---
 
