@@ -14,11 +14,11 @@ La preparazione è fondamentale, tranne in guerra. In guerra s'improvvisa! (sarc
 
 #### Nota
 
-(*) Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbianto ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obbiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obbiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Sopratutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
+(*) Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbinato ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Soprattutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
 
 ---
 
-### Del domani non vi è certezza
+### Del domani non v'è certezza
 
 Noi diamo sempre per scontato che possiamo fare domani quello che avremmo dovuto fare ieri, ma questo abitudine a posporre è controproducente e in alcuni casi sbagliata.
 
