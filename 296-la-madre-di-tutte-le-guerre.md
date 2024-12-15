@@ -1,5 +1,9 @@
 ## LA MADRE DI TUTTE LE GUERRE
 
+* Published Dec 15, 2024
+
+### Premessa
+
 **12 Dicembre 2024** - *200mila soldati europei in Ucraina: il "piano Trump" per congelare la guerra tra Mosca e Kiev. La nuova amministrazione Usa freme per congelare il conflitto ucraino. L'unica opzione? Affidarsi a contingenti europei sotto l'insegna delle singole nazioni.*
 
 Ma Trump lo hanno eletto come presidente degli USA oppure c'è un qualche trattato internazionale che non mi ricordo di aver letto per il quale può decidere dove spostare gli eserciti d'Europa?
@@ -14,7 +18,7 @@ La preparazione è fondamentale, tranne in guerra. In guerra s'improvvisa! (sarc
 
 #### Nota
 
-(*) Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbinato ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Soprattutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
+- Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbinato ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Soprattutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
 
 ---
 
@@ -68,8 +72,8 @@ In questo panorama già devastante, la destra europea (tranne quella svizzera) s
 
 L'ecologia, che è una scienza e come tale cerca di fornire delle soluzioni reali, è stata affidata a gente che s'incolla la mano all'asfalto oppure tira salsa sulle opere d'arte. Condiamo il tutto con arcobaleni e unicorni vari, e si finisce a fare la campagna di Russia, again.
 
----
+<br/>
 
-### Copyright
+## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
