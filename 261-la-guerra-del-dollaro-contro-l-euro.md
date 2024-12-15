@@ -1,3 +1,5 @@
+<div style="max-width: 820px; margin: auto;" align="justify">
+
 ## LA GUERRA DEL DOLLARO CONTRO L'EURO
 
 * Published May 18, 2024 - source [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
@@ -7,8 +9,6 @@
 <img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/>
 
 </div>
-
-<div align="justify" width="820">
 
 Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM?trk=article-ssr-frontend-pulse_little-text-block), pubblicato il 18
 maggio 2024.
@@ -132,8 +132,6 @@ Poiché less is more, meglio partire dai vertici. Piuttosto che la WW3.
 
 Penso che in questo articolo ci siano abbastanza spunti affinché una persona di mondo - che non sia nata ieri e che non abbia la memoria di un pesce rosso, ne l'arroganza di pensare che le genti di altre nazioni siano dei bifolchi ignoranti e degli stupidi al limite del suicidio - possa ricostruire la trama della crisi Ucraina dal 1992 al 2022 e - con un po' di nozioni storiche unite alla consapevolezza di quali meccanismi si celino dietro a queste controversie - prevedere quali siano le evoluzioni più probabili a breve termine.
 
-</div>
-
 <br/>
 
 ## Articoli correlati
@@ -151,3 +149,5 @@ Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
