@@ -1,6 +1,6 @@
-<div style="max-width: 820px; margin: auto;" align="justify">
-
 <div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
+
+<div style="max-width: 820px; margin: auto;" align="justify">
 
 ## LA MADRE DI TUTTE LE GUERRE
 
@@ -8,7 +8,7 @@
 
 ### Premessa
 
-**12 Dicembre 2024** - *200mila soldati europei in Ucraina: il "piano Trump" per congelare la guerra tra Mosca e Kiev. La nuova amministrazione Usa freme per congelare il conflitto ucraino. L'unica opzione? Affidarsi a contingenti europei sotto l'insegna delle singole nazioni.*
+> **12 Dicembre 2024** - *200mila soldati europei in Ucraina: il "piano Trump" per congelare la guerra tra Mosca e Kiev. La nuova amministrazione Usa freme per congelare il conflitto ucraino. L'unica opzione? Affidarsi a contingenti europei sotto l'insegna delle singole nazioni.*
 
 Ma Trump lo hanno eletto come presidente degli USA oppure c'è un qualche trattato internazionale che non mi ricordo di aver letto per il quale può decidere dove spostare gli eserciti d'Europa?
 
@@ -22,7 +22,7 @@ La preparazione è fondamentale, tranne in guerra. In guerra s'improvvisa! (sarc
 
 #### Nota
 
-- Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbinato ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Soprattutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
+* > Si riferisce a un sistema multi-videocamera single-view 360° a 8K 60fps sviluppato per Intel nel 2021 su hardware Intel con specifiche certificabili per l'uso militare che se abbinato ad un'intelligenza artificiale può portare un drone che voli ad alta quota a destinazione anche senza GPS capace di colpire obiettivi con grande precisione. Il fatto che il drone voli ad alta quota, relativamente alle quote di volo dei droni attualmente in uso, permette a questo, unito ad una traccia radar molto lieve, di passare inosservato e la capacità di volare, arrivare e colpire un obiettivo anche in completa assenza di GPS, però volando per l'ultimo tratto sotto l'altitudine dell nubi, rappresenta il superamento dell'attuale maggiore limite alle armi di precisione a medio raggio. Soprattutto considerando che in caso di guerra aperta, il GPS potrebbe essere uno dei sistemi messi globalmente fuori uso insieme a internet satellitare e ai cavi sottomarini.
 
 ---
 
@@ -44,7 +44,7 @@ D'altronde è ormai evidente che sia un'impresa impossibile ragionare con delle 
 
 ### Dove sarebbe la sorpresa?
 
-**13 dicembre 2025** - *Contro Russia e Cina serve una mentalità di guerra. Prendiamo dalla sanità e dalle pensioni i soldi per le armi. Mark Rutte segretario generale della NATO.*
+> **13 dicembre 2025** - *Contro Russia e Cina serve una mentalità di guerra. Prendiamo dalla sanità e dalle pensioni i soldi per le armi. Mark Rutte segretario generale della NATO.*
 
 <div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-002.jpg"><br/></div>
 
@@ -64,7 +64,7 @@ Quindi, non vi è alcuna sorpresa: war is war.
 
 ### Pensiero politico bipolare
 
-**13 dicembre 2025** - *Mercoledì prossimo, a Bruxelles, si terrà una vertice sull’Ucraina a cui parteciperanno il presidente Volodymyr Zelensky, il segretario generale della Nato Mark Rutte, il presidente francese Emmanuel Macron, il cancelliere tedesco Olaf Scholz, la presidente del Consiglio Giorgia Meloni, il premier polacco Donald Tusk, il premier britannico Kier Starmer, la presidente della Commissione europea Ursula von der Leyen, il presidente del Consiglio europeo Antonio Costa.*
+> **13 dicembre 2025** - *Mercoledì prossimo, a Bruxelles, si terrà una vertice sull’Ucraina a cui parteciperanno il presidente Volodymyr Zelensky, il segretario generale della Nato Mark Rutte, il presidente francese Emmanuel Macron, il cancelliere tedesco Olaf Scholz, la presidente del Consiglio Giorgia Meloni, il premier polacco Donald Tusk, il premier britannico Kier Starmer, la presidente della Commissione europea Ursula von der Leyen, il presidente del Consiglio europeo Antonio Costa.*
 
 Ora facciamo un passo indietro e chiediamoci come mai tutto quanto si è ridotto ad un dibattito bipolare (o forse schizofrenico) fra destra/sinistra, guerra/pace, buoni/cattivi, etc.
 
