@@ -1,14 +1,10 @@
 <div style="max-width: 820px; margin: auto;" align="justify">
 
+<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/></div>
+
 ## LA GUERRA DEL DOLLARO CONTRO L'EURO
 
 * Published May 18, 2024 - source [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
-
-<div align="center">
-
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/>
-
-</div>
 
 Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM?trk=article-ssr-frontend-pulse_little-text-block), pubblicato il 18
 maggio 2024.
@@ -17,11 +13,7 @@ maggio 2024.
 
 Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
 
-<div align="center">
-
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png"><br/>
-
-</div>
+<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png"><br/></div>
 
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche il testo, nella sua parte essenziale, della notizia:
 
@@ -79,9 +71,9 @@ Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magar
 
 Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro svantaggio.
 
-<div align="center">
-
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>Europe Cina import export balance sheet and charts, [click to enlarge](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png)
+<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>
+  
+Europe Cina import export balance sheet and charts, [click to enlarge](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png)
 
 </div>
 
