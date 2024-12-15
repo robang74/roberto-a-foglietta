@@ -6,6 +6,22 @@
 
 <br/>
 
+## Forum
+
+[EN] This forum is open for debates about documents included into this collection and other topics that may enter into it.
+
+[IT] Questo forum è aperto a dibattiti sui documenti inclusi in questa raccolta e su altri argomenti che possono entrarvi.
+
+* [this project discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
+
+* roberto.foglietta<span>@</span>gmail.com for a direct contact, instead
+
+[EN] You need a github account to post in that discussion forum or alternatively write to me by e-mail.
+
+[IT] È necessario un account github per postare in quel forum di discussione o, in alternativa, scrivermi via e-mail.
+
+<br/>
+
 ## Translations
 
 [**EN**] As much as possible most of the documents presented here will be translated in two languages: Italian and English. The first is the native language of the author and the second is an international idioma. As per thumb rule, PDF and raw markdown text documents can be translated using Google Translation online service. In a single call for each document. Or alternatively using a translation browser plug-in that can offer the translation during the navigation. Almost all documents, but not all, because some documents are obsolete or not so relevant anymore. Hence, some few documents are saved here just for sake of completeness of the backup or for a future reviewing and/or development.
