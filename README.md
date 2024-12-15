@@ -44,6 +44,14 @@
 
 <br/>
 
+## HTML pages
+
+[**`EN`**]  The shell script [html/md2html.sh](html/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash html/md2html.sh` runs on the top directory of the locally cloned repository.
+
+[**`IT`**] Lo shell script [html/md2html.sh](html/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash html/md2html.sh` sulla directory radice del repository clonato in locale.
+
+<br/>
+
 ## Related
 
 [**`EN`**] There are two other collections of texts that are worth listing here as they are related to this documentation work. Both of these collections make use, albeit in different ways, of artificial intelligence. In the first, the texts are peer-reviewed with an AI impersonating a collaborative agent-antagonist while in the second, the documents submitted to the AI are merely a dialogue cue to develop interaction with it. The date refers to the first commit.
