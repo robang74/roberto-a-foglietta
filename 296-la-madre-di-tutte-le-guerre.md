@@ -1,6 +1,10 @@
+<div style="max-width: 820px; margin: auto;" align="justify">
+
+<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
+
 ## LA MADRE DI TUTTE LE GUERRE
 
-* Published Dec 15, 2024
+* Published Dec 15, 2024 - source [Facebook](https://www.facebook.com/share/p/1Ews9Z3YEM/)
 
 ### Premessa
 
@@ -42,6 +46,8 @@ D'altronde è ormai evidente che sia un'impresa impossibile ragionare con delle 
 
 **13 dicembre 2025** - *Contro Russia e Cina serve una mentalità di guerra. Prendiamo dalla sanità e dalle pensioni i soldi per le armi. Mark Rutte segretario generale della NATO.*
 
+<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-002.jpg"><br/></div>
+
 Rido non perché l'idea di Mark Rutte faccia ridere e nemmeno per coloro che si scandalizzano di queste idee ma del fattore "sorpresa". Quale sorpresa?
 
 Se la gente combatte e deruba quella gente che vuole e lavora per la pace, è ovvio che come risultato avrà che vincerà la fazione di coloro che vogliono la guerra.
@@ -77,3 +83,5 @@ L'ecologia, che è una scienza e come tale cerca di fornire delle soluzioni real
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
