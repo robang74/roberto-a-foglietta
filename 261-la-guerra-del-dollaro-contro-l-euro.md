@@ -69,9 +69,9 @@ Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magar
 
 Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro svantaggio.
 
-<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png">
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488">
 
-* Europe Cina import export balance sheet and charts
+* Europe Cina import export balance sheet and charts, right click to enlarge
 
 Le tabelle e i grafici qui sopra sono stati creati a partire da dati forniti da ChatGPT 4o riportando Eurostat come fonte. Ciò non implica che questi dati siano oro colato, anzi.
 
