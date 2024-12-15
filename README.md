@@ -12,9 +12,9 @@
 
 [**`IT`**] Questo forum è aperto a dibattiti sui documenti inclusi in questa raccolta e su altri argomenti che possono entrarvi.
 
-* [this project discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
+* &nbsp;[this project discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
 
-* roberto.foglietta<span>@</span>gmail.com for a direct contact, instead
+* **`roberto.foglietta`@`gmail.com`** for a direct contact
 
 [**`EN`**] You need a github account to post in that discussion forum or alternatively write to me by e-mail.
 
