@@ -76,4 +76,4 @@ All the files in this gihub repository are published **Creative Commons Attribut
 
 Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version presented here apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
-Moreover, these licensing terms apply to the single document and to the entire collection as a collection, as well.
+Finally, these licensing terms apply to the single document and to the entire collection as a collection, as well.
