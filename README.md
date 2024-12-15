@@ -36,22 +36,6 @@
 
 <br/>
 
-## Translations
-
-[**`EN`**] As much as possible most of the documents presented here will be translated in two languages: Italian and English. The first is the native language of the author and the second is an international idioma. As per thumb rule, PDF and raw markdown text documents can be translated using Google Translation online service. In a single call for each document. Or alternatively using a translation browser plug-in that can offer the translation during the navigation. Almost all documents, but not all, because some documents are obsolete or not so relevant anymore. Hence, some few documents are saved here just for sake of completeness of the backup or for a future reviewing and/or development.
-
-[**`IT`**] Per quanto possibile, la maggior parte dei documenti qui presentati sarà tradotta in due lingue: Italiano e Inglese. La prima è la lingua madre dell'autore e la seconda è un idioma internazionale. Come regola generale, i documenti PDF e il testo grezzo markdown possono essere tradotti utilizzando il servizio online Google Translation. In un'unica chiamata per ogni documento. In alternativa, si può utilizzare un plug-in del browser di traduzione che può offrire la traduzione durante la navigazione. Quasi tutti i documenti, ma non tutti, perché alcuni documenti sono obsoleti o non più rilevanti. Pertanto, alcuni documenti sono salvati qui solo per completezza del backup o per una futura revisione e/o sviluppo.
-
-<br/>
-
-## md2html
-
-[**`EN`**]  The shell script [html/md2html.sh](html/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash html/md2html.sh` runs on the top directory of the locally cloned repository. The [html/default.css](html/default.css) is imported and embedded into the created page, to provide a dark theme. Unless the browser can find a local file named `custom.css` which can override the default CSS style. This allows users to change the style in a very easy and straightforward way.
-
-[**`IT`**] Lo shell script [html/md2html.sh](html/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash html/md2html.sh` sulla directory radice del repository clonato in locale. Il file [html/default.css](html/default.css) viene importato e incorporato nella pagina creata, per fornire un tema scuro. A meno che il browser non trovi un file locale chiamato `custom.css` che può rimpiazzare lo stile CSS predefinito. Questo permette agli utenti di cambiare lo stile in modo molto semplice e diretto.
-
-<br/>
-
 ## Related
 
 [**`EN`**] There are two other collections of texts that are worth listing here as they are related to this documentation work. Both of these collections make use, albeit in different ways, of artificial intelligence. In the first, the texts are peer-reviewed with an AI impersonating a collaborative agent-antagonist while in the second, the documents submitted to the AI are merely a dialogue cue to develop interaction with it. The date refers to the first commit.
@@ -65,6 +49,22 @@
 [**`EN`**] Despite the title the first texts collection is not limited to using ChatGPT but also chatbots like Mistral AI have been involved. The title of the project did not change because mainly it still fits and for keeping alive the links previously shared with other people. Moreover, while the first collection has a serious cut, the second is definitely oriented to a humoristic approach even when very serious topics are investigated.
 
 [**`IT`**] Nonostante il titolo, la prima raccolta di testi non si limita all'uso di ChatGPT, ma sono stati coinvolti anche chatbot come Mistral AI. Il titolo del progetto non è cambiato perché è ancora adatto per la maggiore e per mantenere vivi i link condivisi precedentemente con altre persone. Inoltre, mentre la prima raccolta ha un taglio serio, la seconda è decisamente orientata a un approccio umoristico anche quando vengono indagati temi molto seri.
+
+<br/>
+
+## Translations
+
+[**`EN`**] As much as possible most of the documents presented here will be translated in two languages: Italian and English. The first is the native language of the author and the second is an international idioma. As per thumb rule, PDF and raw markdown text documents can be translated using Google Translation online service. In a single call for each document. Or alternatively using a translation browser plug-in that can offer the translation during the navigation. Almost all documents, but not all, because some documents are obsolete or not so relevant anymore. Hence, some few documents are saved here just for sake of completeness of the backup or for a future reviewing and/or development.
+
+[**`IT`**] Per quanto possibile, la maggior parte dei documenti qui presentati sarà tradotta in due lingue: Italiano e Inglese. La prima è la lingua madre dell'autore e la seconda è un idioma internazionale. Come regola generale, i documenti PDF e il testo grezzo markdown possono essere tradotti utilizzando il servizio online Google Translation. In un'unica chiamata per ogni documento. In alternativa, si può utilizzare un plug-in del browser di traduzione che può offrire la traduzione durante la navigazione. Quasi tutti i documenti, ma non tutti, perché alcuni documenti sono obsoleti o non più rilevanti. Pertanto, alcuni documenti sono salvati qui solo per completezza del backup o per una futura revisione e/o sviluppo.
+
+<br/>
+
+## md2html
+
+[**`EN`**]  The shell script [html/md2html.sh](html/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash html/md2html.sh` runs on the top directory of the locally cloned repository. The [html/default.css](html/default.css) is imported and embedded into the created page, to provide a dark theme. Unless the browser can find a local file named `custom.css` which can override the default CSS style. This allows users to change the style in a very easy and straightforward way.
+
+[**`IT`**] Lo shell script [html/md2html.sh](html/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash html/md2html.sh` sulla directory radice del repository clonato in locale. Il file [html/default.css](html/default.css) viene importato e incorporato nella pagina creata, per fornire un tema scuro. A meno che il browser non trovi un file locale chiamato `custom.css` che può rimpiazzare lo stile CSS predefinito. Questo permette agli utenti di cambiare lo stile in modo molto semplice e diretto.
 
 <br/>
 
