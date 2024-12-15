@@ -1,12 +1,17 @@
 ## LA GUERRA DEL DOLLARO CONTRO L'EURO
 
-* Published May 18, 2024
+* Published May 18, 2024 - source [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf)
+
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg">
+
+Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM?trk=article-ssr-frontend-pulse_little-text-block), pubblicato il 18
+maggio 2024.
 
 ### Premessa
 
 Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
 
-[Rai News reports a Wall Street Journal news]
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png">
 
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche il testo, nella sua parte essenziale, della notizia:
 
@@ -54,7 +59,7 @@ Perché non mi pare che il mainstream abbia mai nascosto molto bene che le guerr
 
 ### La guerra contro l'euro
 
-Sotto questo punto di vista, anche la dottrina Wolfowitz (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica super potenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
+Sotto questo punto di vista, anche la [dottrina Wolfowitz](https://it.wikipedia.org/wiki/Dottrina_Wolfowitz) (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica super potenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
 
 Il che spiega benissimo il continuo logoramento delle fondamenta d'Europa, in particolare dopo l'introduzione dell'Euro (2000) e infatti anche se con una certa sorpresa all'epoca abbiamo visto lo scoppio della bolla delle dotcom, l'ingresso della Cina nel WTO, le violenze del G8 di Genova e la tragedia del 9/11, tutto quanto l'anno dopo.
 
@@ -64,7 +69,9 @@ Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magar
 
 Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro svantaggio.
 
-[Europe Cina import export balance sheet and charts]
+<img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png">
+
+* Europe Cina import export balance sheet and charts
 
 Le tabelle e i grafici qui sopra sono stati creati a partire da dati forniti da ChatGPT 4o riportando Eurostat come fonte. Ciò non implica che questi dati siano oro colato, anzi.
 
@@ -75,7 +82,7 @@ Con ciò non sto nemmeno affermando che le decisioni data-driven godano di una q
 Però, almeno, si può dire: questa è la zuppa che avete preparato per noi. Se non piace nemmeno a voi, perché diavolo dovrebbe piacere a noi?
 
 - Chi ha fatto questo orrore?
-- You, sir. (Picasso docet)
+- You, sir. (Picasso dixit)
 
 Suona ragionevole o no? Infatti.
 
@@ -117,13 +124,13 @@ Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 
 ## Articoli correlati
 
-- 22.02.2022 (22 Feb 2022)
+- **22.02.2022** - source [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta?trk=article-ssr-frontend-pulse_little-text-block) (22 Feb 2022)
 
-- The Russia's advantage (5 Nov 2017)
+- **The Russia's advantage** - source [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta/) (5 Nov 2017)
 
-- L'opinione dello Zar (2 Jan 2017)
+- **L'opinione dello Zar** - source [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (2 Jan 2017)
 
-- Opinions, data and method (3 Sep 2016)
+- **Opinions, data and method** - source [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (3 Sep 2016)
 
 <br/>
 
