@@ -124,6 +124,30 @@ Poiché less is more, meglio partire dai vertici. Piuttosto che la WW3.
 
 Penso che in questo articolo ci siano abbastanza spunti affinché una persona di mondo - che non sia nata ieri e che non abbia la memoria di un pesce rosso, ne l'arroganza di pensare che le genti di altre nazioni siano dei bifolchi ignoranti e degli stupidi al limite del suicidio - possa ricostruire la trama della crisi Ucraina dal 1992 al 2022 e - con un po' di nozioni storiche unite alla consapevolezza di quali meccanismi si celino dietro a queste controversie - prevedere quali siano le evoluzioni più probabili a breve termine.
 
+---
+
+### La dottrina Wolfowitz
+
+* Pubblicato il 3 dicemnre 2024 - source [Facebook](https://www.facebook.com/share/p/14WQuJDmz6/)
+
+#### La politica estera americana riassunta in un meme
+
+<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
+
+Ora questo meme può sembrare geniale, perché in qualche misura fa umorismo (o sarcasmo) sul riciclaggio di denaro pubblico. Però se guardiamo un po' più attentamente notiamo che ci sarebbe un altro passaggio da aggiungere.
+
+Al terzo punto andrebbe aggiunto: gli Ucraini muoiono (in guerra).
+
+Invece quel punto è stato completamente saltato. Eppure non è proprio irrilevante. Perché se il panettiere si mettono d'accordo per truffare il comune e riciclare soldi dal fioraio, è grave ma non irrimediabile.
+
+Quando invece la gente muore, è un'altra storia. O dovrebbe esserlo.
+
+Perchè gli americani dimenticano sempre questo punto? Perché nella loro cultura non c'è quel gran apprezzamento per la vita, in generale proprio - altrimenti avrebbero il sistema sanitario
+pubblico #1 al mondo e anche un sistema scolastico e pensionistico #1 al mondo - e poi in particolare perché coloro che vivono fuori dagli USA sono gente di serie B.
+
+É curioso che un meme, più umoristico che sarcastico, riesca a dire così tanto di una cultura e di una percezione. Però questo è la potenza comunicativa dei meme. Invece leggersi la dottrina
+Wolfowitz in vigore in politica estera dal 1992 è roba per eruditi.
+
 <br/>
 
 ## Articoli correlati
