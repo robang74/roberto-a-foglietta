@@ -1,10 +1,8 @@
-## ﻿La guerra del dollaro contro l'euro
+## LA GUERRA DEL DOLLARO CONTRO L'EURO
 
-Roberto A. Foglietta 
-GNU/Linux Expert and Innovation Supporter
-Published May 18, 2024
+* Published May 18, 2024
 
-### PREMESSA
+### Premessa
 
 Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa
 notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
@@ -14,16 +12,18 @@ notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche
 il testo, nella sua parte essenziale, della notizia:
 
-Gli obbligazionisti stranieri vogliono che l'Ucraina riprenda il pagamento del debito
+*Gli obbligazionisti stranieri vogliono che l'Ucraina riprenda il pagamento del debito
 dopo che il processo è stato sospeso nel 2022 a causa dell'inizio di un'invasione su
 vasta scala. Lo riferisce il Wall Street Journal con riferimento alle fonti.
 Gli interlocutori della pubblicazione affermano che un gruppo di obbligazionisti stranieri,
 tra cui BlackRock e Pimco, intendono fare pressione sull'Ucraina affinché ricominci
 a pagare gli interessi sul suo debito l'anno prossimo. Il gruppo, che detiene circa
 un quinto dei 20 miliardi di dollari in eurobond in circolazione dell'Ucraina, ha
-recentemente formato un comitato e ha assunto avvocati e banchieri per negoziare.
+recentemente formato un comitato e ha assunto avvocati e banchieri per negoziare.*
 
-### COSA NE PENSO?
+---
+
+### Cosa ne penso?
 
 Che sono teneri di cuore e anche molto ottimisti. Ottimisti riguardo, non solo agli
 interessi che saranno pagati, ma al capitale stesso.
@@ -39,7 +39,9 @@ Così Leopoli e Odessa, rimarranno a pagare gli interessi. Il capitale sarà ten
 "in gestione", invece, a tempo indeterminato ovvero fino al negoziato di pace che
 sancirà il nuovo status-quo, as usual.
 
-### ZAR SIGNIFICA CESARE
+---
+
+### Zar significa Cesare
 
 Qui sopra scritto "in gestione" e "as usual" sono da leggersi con tono sarcastico
 come se non sapessimo che le cose funzioni così o pensassimo che ad est siano
@@ -66,7 +68,9 @@ fatti da Napoleone o da Hitler. Chiusa la parentesi intellettuale, torniamo al
 dunque della questione o meglio alle truppe di terra, altra spina nel fianco, da
 inviare in Ucraina.
 
-### RISCOSSIONE CREDITI
+---
+
+### Riscossione crediti
 
 Così come impostata, il dispiegamento di forze di terra implica che si tratta fin dal
 principio di un'operazione di recupero crediti.
@@ -90,7 +94,9 @@ Perché non mi pare che il mainstream abbia mai nascosto molto bene che le
 guerre occidentali dalla dissoluzione dell'URSS in poi fossero condotte al solo
 scopo di "consolidare" l'ordine mondiale e quale "ordine" pensavate fosse?
 
-### LA GUERRA CONTRO L'EURO
+---
+
+### La guerra contro l'euro
 
 Sotto questo punto di vista, anche la dottrina Wolfowitz (1992) che afferma la
 supremazia indiscutibile - whatever it takes - degli USA come unica super potenza
@@ -133,12 +139,14 @@ sufficientemente a lungo diranno quello che vogliamo che dicano.
 Però, almeno, si può dire: questa è la zuppa che avete preparato per noi.
 Se non piace nemmeno a voi, perché diavolo dovrebbe piacere a noi?
 
-Suona ragionevole o no? Infatti.
-
 - Chi ha fatto questo orrore?
 - You, sir. (Picasso docet)
 
-### POTEVA ANDARE DIVERSAMENTE?
+Suona ragionevole o no? Infatti.
+
+---
+
+### Poteva andare diversamente?
 
 Con il "SE" si possono scrivere tante storie diverse. Così anche come con il
 senno di poi si comprendono tante cose che non erano chiare, evidentemente.
@@ -176,7 +184,9 @@ poi dato B l'altra dice non intendevo A ma Ah!
 Quel giorno è finita anche la pacchia. Quel giorno inizia a morire tanta gente.
 Poiché less is more, meglio partire dai vertici. Piuttosto che la WW3.
 
-## CONCLUSIONE
+---
+
+### Conclusione
 
 Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 mondo - che non sia nata ieri e che non abbia la memoria di un pesce rosso, ne
@@ -186,7 +196,9 @@ Ucraina dal 1992 al 2022 e - con un po' di nozioni storiche unite alla consapevo
 di quali meccanismi si celino dietro a queste controversie - prevedere quali siano
 le evoluzioni più probabili a breve termine.
 
-## ARTICOLI CORRELATI
+<br/>
+
+## Articoli correlati
 
 - 22.02.2022 (22 Feb 2022)
 
@@ -196,7 +208,8 @@ le evoluzioni più probabili a breve termine.
 
 - Opinions, data and method (3 Sep 2016)
 
+<br/>
+
 ## Share alike
 
-© 2024, Roberto A. Foglietta, licensed under Creative Common Attribution Non
-        Commercial Share Alike v4.0 International Terms (CC BY-NC-SA 4.0).
+&copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
