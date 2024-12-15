@@ -26,6 +26,22 @@
 
 <br/>
 
+## Related
+
+[**EN**] There are two other collections of texts that are worth listing here as they are related to this documentation work. Both of these collections make use, albeit in different ways, of artificial intelligence. In the first, the texts are peer-reviewed with an AI impersonating a collaborative agent-antagonist while in the second, the documents submitted to the AI are merely a dialogue cue to develop interaction with it. The date refers to the first commit.
+
+[**IT**] Ci sono altre due collezioni di testi che vale la pena elencare qui in quanto legate a questo lavoro di documentazione. Entrambe queste collezioni si avvalgono, sebbene in maniera diversa, dell'intelligenza artificiale. Nella prima, i testi sono sottoposti ad una peer-review con un'AI che impersona un agente collaborativo-antagonista mentre nella seconda, i documenti sottoposti all'AI sono solo uno spunto di dialogo per sviluppare l'interazione con essa. La data si riferisce al primo commit.
+
+* [chatgpt answered prompts](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#qa-dialogs-with-ai-chatbots) (2024-09-06)
+
+* [chatbots for fun (humor!)](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
+
+[**EN**] Despite the title the first texts collection is not limited to using ChatGPT but also chatbots like Mistral AI have been involved. The title of the project did not change because mainly it still fits and for keeping alive the links previously shared with other people. Moreover, while the first collection has a serious cut, the second is definitely oriented to a humoristic approach even when very serious topics are investigated.
+
+[**IT**] Nonostante il titolo, la prima raccolta di testi non si limita all'uso di ChatGPT, ma sono stati coinvolti anche chatbot come Mistral AI. Il titolo del progetto non è cambiato perché è ancora adatto per la maggiore e per mantenere vivi i link condivisi precedentemente con altre persone. Inoltre, mentre la prima raccolta ha un taglio serio, la seconda è decisamente orientata a un approccio umoristico anche quando vengono indagati temi molto seri.
+
+<br/>
+
 ## Copyright
 
 &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
