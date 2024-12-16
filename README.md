@@ -1,4 +1,4 @@
-<div style="max-width: 800px; margin: auto;" align="justify">
+<div style="max-width: 800px; margin: auto; white-space: pre-wrap;" align="justify">
 
 <div align="center"><img src="img/warp-speed-jump.jpg"><br/></div>
 
