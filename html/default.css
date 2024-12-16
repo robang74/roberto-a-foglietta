@@ -1,7 +1,10 @@
 body {
-    color: #f0f0f0;
+    color: #f8f4f0;
     background-color: #202020;
     font-family: sans-serif;
+    text-align: justify;
+    max-width: 800px;
+    margin: auto;
 }
 blockquote {
     width: 760px;
@@ -30,4 +33,18 @@ a:active {
 li {
     margin-left:  25px;
     text-indent: -25px;
+}
+img {
+    max-width: 800px;
+    height: auto;
+}
+ul.dqt {
+    position: relative;
+    left: -30px;
+}
+li.dqt {
+    text-indent: 0px;
+}
+blockquote.dqt {
+    width: 720px;
 }

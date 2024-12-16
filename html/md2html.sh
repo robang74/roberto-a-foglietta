@@ -4,14 +4,13 @@
 #
 
 function md2htmlfunc() {
-    local str;
+    local str=$(basename ${2%.html}) dir="html/";
+    test "$str" = "index" || dir=""
     echo -n "<html>
     <head>
-        <title>$(basename ${2%.html})</title>
-        <style>
-$(cat html/default.css)
-        </style>
-        <link rel='stylesheet' href='custom.css'>
+        <title>${str//-/ }</title>
+        <link rel='stylesheet' href='${dir}default.css'>
+        <link rel='stylesheet' href='${dir}custom.css'>
     </head>
     <body>
 " >$2
@@ -21,8 +20,8 @@ $(cat html/default.css)
 -e "s,^### \(.*\),<H3>\\1</H3>," \
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
--e "s,<div id=.firstdiv. .* white-space: pre-wrap,&-no," \
--e "s,^ *[-+\*] *> *\(.*\),<ul style='position: relative; left: -30px;'><li style='text-indent: 0px;'><blockquote style='width: 720px;'>\\1</blockquote></li></ul>," \
+-e "s,<div id=.firstdiv.*white-space: pre-wrap,&-no," \
+-e "s,^ *[-+\*] *> *\(.*\),<ul class='dqt'><li class='dqt'><blockquote class='dqt'>\\1</blockquote></li></ul>," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
 -e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \

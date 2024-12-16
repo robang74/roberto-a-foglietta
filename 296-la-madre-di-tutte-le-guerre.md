@@ -1,4 +1,4 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" style="white-space: pre-wrap;">
 
 <div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
 
