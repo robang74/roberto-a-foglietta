@@ -64,7 +64,7 @@ Quindi, non vi è alcuna sorpresa: war is war.
 
 ### Pensiero politico bipolare
 
-> **13 dicembre 2025** - *Mercoledì prossimo, a Bruxelles, si terrà una vertice sull’Ucraina a cui parteciperanno il presidente Volodymyr Zelensky, il segretario generale della Nato Mark Rutte, il presidente francese Emmanuel Macron, il cancelliere tedesco Olaf Scholz, la presidente del Consiglio Giorgia Meloni, il premier polacco Donald Tusk, il premier britannico Kier Starmer, la presidente della Commissione europea Ursula von der Leyen, il presidente del Consiglio europeo Antonio Costa.*
+> **13 dicembre 2025** - *Mercoledì prossimo, a Bruxelles, si terrà un vertice sull’Ucraina a cui parteciperanno il presidente Volodymyr Zelensky, il segretario generale della Nato Mark Rutte, il presidente francese Emmanuel Macron, il cancelliere tedesco Olaf Scholz, la presidente del Consiglio Giorgia Meloni, il premier polacco Donald Tusk, il premier britannico Kier Starmer, la presidente della Commissione europea Ursula von der Leyen, il presidente del Consiglio europeo Antonio Costa.*
 
 Ora facciamo un passo indietro e chiediamoci come mai tutto quanto si è ridotto ad un dibattito bipolare (o forse schizofrenico) fra destra/sinistra, guerra/pace, buoni/cattivi, etc.
 
