@@ -21,6 +21,7 @@ $(cat html/default.css)
 -e "s,^### \(.*\),<H3>\\1</H3>," \
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
+-e "s,<div id=.firstdiv. .* white-space: pre-wrap,&-no," \
 -e "s,^ *[-+\*] *> *\(.*\),<blockquote><li>\\1</li></blockquote>," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
