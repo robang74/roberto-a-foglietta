@@ -80,6 +80,10 @@
 
 [**`IT`**] Lo shell script [html/md2html.sh](html/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash html/md2html.sh` sulla directory radice del repository clonato in locale. Il file [html/default.css](html/default.css) viene importato e incorporato nella pagina creata, per fornire un tema scuro. A meno che il browser non trovi un file locale chiamato `custom.css` che può rimpiazzare lo stile CSS predefinito. Questo permette agli utenti di cambiare lo stile in modo molto semplice e diretto.
 
+[**`EN`**] One of the benefits of this approach is that a PDF document generated with some difficulty from an article published on LinkedIn is 8 times larger in size than one easily generated with this approach. But it is only the tip of the iceberg, in fact by using a git-oriented approach we have the complete revision control and obviously direct management of the data produced both in terms of availability and in terms of licensing.
+
+[**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
+
 <br/>
 
 ## Archives
