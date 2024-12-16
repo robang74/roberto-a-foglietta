@@ -90,7 +90,7 @@ Se invece ti propongo l'intero testo, cosa mi dici?
 
 > La selezione naturale porta al miglioramento [...] che da STEM ma che facilmente portano in grave errore i filosofi.
 
-**NOTA**: nel testo originale vi era un "che" di troppo, refuso di una correzione precedente alla pubblicazione che però è rimasta in quella piccola parte.
+**NOTA**: nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.
 
 ---
 
@@ -160,7 +160,7 @@ Ad esempio, la frase “sottili distinguo che da STEM” sembra incompleta o poc
 
 ### Prompt #5
 
-Hai ragione, la parola "che" è di troppo. Si tratta di un refuso nel testo sopravvissuto ad una precedente revisione di bozza.
+Hai ragione, la parola "**che**" è di troppo. Si tratta di un refuso nel testo sopravvissuto ad una precedente revisione di bozza.
 
 ---
 
@@ -172,17 +172,19 @@ Grazie per la precisazione! In effetti, senza quel “che” la frase risulta mo
 
 ## Considerazioni
 
-Ovviamente il post con banana artistica (non quella di dimensioni artistiche ma quella dello scotch) e supercazzola tarapia tapioca spiegata da ChatGPT o meglio sarebbe dire: catalogata dall'AI, perché in questo sono brave le intelligenze artificiali, a catalogare patterns. Quindi a discernere supercazzole da pensieri profondi, perché ad un lettore superficiale o frettoloso, le due cose possono sembrare simili.
+Ovviamente il post con banana artistica (non quella di dimensioni artistiche ma quella dello scotch di Cattelan) e supercazzola tarapia tapioca spiegata da ChatGPT o meglio sarebbe dire: catalogata dall'AI, perché in questo sono brave le intelligenze artificiali, a catalogare patterns. Quindi a discernere supercazzole da pensieri profondi, perché ad un lettore superficiale o frettoloso, le due cose possono sembrare simili.
 
-Qui patterns significa in questo contesto significa schemi ricorrenti, quindi idee o concetti che sono ricorrenti nella letteratura alla quale l'intelligenza artificiale è stata esposta e quindi sulla quale trained ovvero educata.
+In questo contesto patterns significa schemi ricorrenti, quindi idee o concetti che sono ricorrenti nella letteratura alla quale l'intelligenza artificiale è stata esposta e sulla quale è stata istruita (training).
 
-Ne consegue che per idee che sono originali oppure molto distanti da quelle ricorrenti - ma non necessariamente corrette infatti una bugia ripetuta all'infinito non diventa una verità - non sono comprensibili all'AI che invece tende a considerarle "sviste", anomalie - statisticamente parlando - che non riesce correttamente ad interpretare nell'ambito degli schemi ricorrenti. Nel testo originale proposto all'AI c'era un refuso, un "**CHE**" di troppo.
+Ne consegue che per idee che sono originali oppure molto distanti da quelle ricorrenti - ricorrenti ma non necessariamente corrette infatti una bugia ripetuta all'infinito non diventa una verità - non sono comprensibili all'AI che invece tende a considerarle "sviste", anomalie - statisticamente parlando - che non riesce correttamente ad interpretare nell'ambito degli schemi ricorrenti. Nel testo originale proposto all'AI c'era un refuso, un "**CHE**" di troppo.
 
-Essendo un'anomalia grammaticale, l'intelligenza artificiale l'ha correttamente identificata ma perché la grammatica italiana è un insieme di regole (patterns). Anche in questo caso, la novità (eccezione alla regola, anomalia rispetto agli schemi ricorrenti) pur nella sua banalità di refuso è stata rilevata ma non compresa.
+Essendo un'anomalia grammaticale, l'intelligenza artificiale l'ha correttamente identificata perché la grammatica italiana è un insieme di regole (patterns). Anche in questo caso, la novità (eccezione alla regola, anomalia rispetto agli schemi ricorrenti) pur nella sua banalità di refuso è stata rilevata ma non compresa nella sua essenza.
 
-Nel comprendere come funzionino le intelligenze artificiali cessiamo di averne paura (oppure cominciare ad averne davvero paura, dipende) ma anche a comprendere come funzioni il linguaggio nella formazione del pensiero e quindi nella **DESCRIZIONE** della realtà.
+Nel comprendere come funzionino le intelligenze artificiali cessiamo di averne paura  oppure cominciare ad averne davvero paura, dipende - ma anche a comprendere come funzioni il linguaggio nella formazione del pensiero e quindi nella sua inevitabile funzione di creare una **DESCRIZIONE** della realtà.
 
-È nella parola "descrizione" che potremmo cominciare davvero ad avere paura delle AI quando esse sono capaci di smontare, e a farlo senza inibizioni, le nostre illusioni che invece vorremmo fossero realtà piuttosto che articolazioni astratte del nostro pensiero (ideologie).
+È nella parola "descrizione" che potremmo cominciare davvero ad avere paura delle intelligenze artificiali quando esse sono capaci di smontare, e a farlo senza inibizioni, le nostre illusioni che invece vorremmo fossero realtà piuttosto che articolazioni astratte del nostro pensiero (ideologie).
+
+Se però arrivassimo a comprendere che queste idee preconcette (arbitrarie, relative o addirittura errate) sono per noi una forma di limitazione sia in termini di crescita personale sia in termini di capacità del fare e pensare, probabilmente svilupperemmo un’opinione più positiva e ottimistica rispetto a queste tecnologie.
 
 <br>
 
