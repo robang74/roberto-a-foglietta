@@ -124,13 +124,15 @@ Poiché less is more, meglio partire dai vertici. Piuttosto che la WW3.
 
 Penso che in questo articolo ci siano abbastanza spunti affinché una persona di mondo - che non sia nata ieri e che non abbia la memoria di un pesce rosso, ne l'arroganza di pensare che le genti di altre nazioni siano dei bifolchi ignoranti e degli stupidi al limite del suicidio - possa ricostruire la trama della crisi Ucraina dal 1992 al 2022 e - con un po' di nozioni storiche unite alla consapevolezza di quali meccanismi si celino dietro a queste controversie - prevedere quali siano le evoluzioni più probabili a breve termine.
 
----
+<br/>
 
-### La dottrina Wolfowitz
+## Update #1
 
 * Pubblicato il 3 dicemnre 2024 - source [Facebook](https://www.facebook.com/share/p/14WQuJDmz6/)
 
-#### La politica estera americana riassunta in un meme
+### La dottrina Wolfowitz
+
+La politica estera americana riassunta in un meme.
 
 <div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
 
