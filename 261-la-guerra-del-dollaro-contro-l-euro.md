@@ -35,7 +35,7 @@ Così Leopoli e Odessa, rimarranno a pagare gli interessi. Il capitale sarà ten
 
 Qui sopra scritto "in gestione" e "as usual" sono da leggersi con tono sarcastico come se non sapessimo che le cose funzioni così o pensassimo che ad est siano usciti da un uovo di Pasqua ieri.
 
-Evidentemente si sono dimenticati che Zar etimologicamente viene dalla parola latina Caesar che sopo la morte di Giulio Cesare (44 a.C) assurge a termine onorifico e generico per indicare l'imperatore romano. In particolare dall'ultima sillaba pronunciata con la S dura che suona come una Z.
+Evidentemente si sono dimenticati che Zar etimologicamente viene dalla parola latina Caesar che dopo la morte di Giulio Cesare (44 a.C) assurge a termine onorifico e generico per indicare l'imperatore romano. In particolare dall'ultima sillaba pronunciata con la S dura che suona come una Z.
 
 Accidentalmente "ovest" in russo si scrive "запад" ma si pronuncia "zapad" quindi i mezzi e le truppe da inviare a ovest vengono contrassegnati con la lettera Z. Ma per coloro che non prestano attenzione alle parole, tutto questo può sembrare un esercizio di puramente intellettuale.
 
@@ -51,7 +51,7 @@ Così come impostata, il dispiegamento di forze di terra implica che si tratta f
 
 Di fatto suggerendo che i caschi blu dell'ONU e le truppe scelte francesi vadano in missione, pagati dai soldi dei contribuenti, a garantire la pacifica o meno, riscossione degli investitori americani ed internazionali, invece che a morire con onore per la Patria.
 
-Considerando che il concetto di nazione omogenea in termini di mercato nasce appena dopo la scoperta dell'America (1492) e il relativo concetto di Patria utile nasce con la pubblicazione de "Il Principe" di Macchiavelli (1513) il quale a sua volta è considerato a ragione padre della politica moderna che egli stesso definì un'astuta truffa più economica dei rapporti di forza, mi sorprendo che per qualcuno sia una sorpresa.
+Considerando che il concetto di nazione omogenea in termini di mercato nasce appena dopo la scoperta dell'America (1492) e il relativo concetto di Patria utile nasce con la pubblicazione de "Il Principe" di Machiavelli (1513) il quale a sua volta è considerato a ragione padre della politica moderna che egli stesso definì un'astuta truffa più economica dei rapporti di forza, mi sorprendo che per qualcuno sia una sorpresa.
 
 Mi sorprendo perché dopo cinque secoli, le cose dovrebbero essere ormai state svelate o per lo meno istintivamente interiorizzate.
 
@@ -61,15 +61,15 @@ Perché non mi pare che il mainstream abbia mai nascosto molto bene che le guerr
 
 ### La guerra contro l'euro
 
-Sotto questo punto di vista, anche la [dottrina Wolfowitz](https://it.wikipedia.org/wiki/Dottrina_Wolfowitz) (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica super potenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
+Sotto questo punto di vista, anche la [dottrina Wolfowitz](https://it.wikipedia.org/wiki/Dottrina_Wolfowitz) (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica superpotenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
 
 Il che spiega benissimo il continuo logoramento delle fondamenta d'Europa, in particolare dopo l'introduzione dell'Euro (2000) e infatti anche se con una certa sorpresa all'epoca abbiamo visto lo scoppio della bolla delle dotcom, l'ingresso della Cina nel WTO, le violenze del G8 di Genova e la tragedia del 9/11, tutto quanto l'anno dopo.
 
-Con una certa sorpresa all'epoca perché non avremmo mai pensato che la dottrina Wolfwitz sarebbe stata declinata anche contro l'Europa e più in generale gli alleati storici.
+Con una certa sorpresa all'epoca perché non avremmo mai pensato che la dottrina Wolfowitz sarebbe stata declinata anche contro l'Europa e più in generale gli alleati storici.
 
 Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magari non ci era stata spiegata nella sua interezza, solo per la parte a cui dovevamo aderire, per esempio.
 
-Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui sub-prime che ha invertito il trend a nostro svantaggio.
+Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui subprime che ha invertito il trend a nostro svantaggio.
 
 <div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>
   
@@ -138,14 +138,14 @@ Ora questo meme può sembrare geniale, perché in qualche misura fa umorismo (o 
 
 Al terzo punto andrebbe aggiunto: gli Ucraini muoiono (in guerra).
 
-Invece quel punto è stato completamente saltato. Eppure non è proprio irrilevante. Perché se il panettiere si mettono d'accordo per truffare il comune e riciclare soldi dal fioraio, è grave ma non irrimediabile.
+Invece quel punto è stato completamente saltato. Eppure non è proprio irrilevante. Perché se il panettiere si mette d'accordo per truffare il comune e riciclare soldi dal fioraio, è grave ma non irrimediabile.
 
 Quando invece la gente muore, è un'altra storia. O dovrebbe esserlo.
 
 Perchè gli americani dimenticano sempre questo punto? Perché nella loro cultura non c'è quel gran apprezzamento per la vita, in generale proprio - altrimenti avrebbero il sistema sanitario
 pubblico #1 al mondo e anche un sistema scolastico e pensionistico #1 al mondo - e poi in particolare perché coloro che vivono fuori dagli USA sono gente di serie B.
 
-É curioso che un meme, più umoristico che sarcastico, riesca a dire così tanto di una cultura e di una percezione. Però questo è la potenza comunicativa dei meme. Invece leggersi la dottrina
+É curioso che un meme, più umoristico che sarcastico, riesca a dire così tanto di una cultura e di una percezione. Però questa è la potenza comunicativa dei meme. Invece leggersi la dottrina
 Wolfowitz in vigore in politica estera dal 1992 è roba per eruditi.
 
 <br/>
