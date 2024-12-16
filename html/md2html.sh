@@ -73,6 +73,7 @@ fi
 
 echo
 mkdir -p html
+rm -f html/[0-9]*.html
 
 for i in *.md; do
     if [ "$i" == "README.md" ]; then
