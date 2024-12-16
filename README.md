@@ -64,7 +64,7 @@
 
 <br/>
 
-## md2html
+## Website
 
 [**`EN`**] The shell script [html/md2html.sh](html/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash html/md2html.sh` runs on the top directory of the locally cloned repository. The [html/default.css](html/default.css) is imported and embedded into the created page, to provide a dark theme. Unless the browser can find a local file named `custom.css` which can override the default CSS style. This allows users to change the style in a very easy and straightforward way.
 
