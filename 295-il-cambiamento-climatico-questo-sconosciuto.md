@@ -32,7 +32,9 @@ Se in questo scenario aggiungiamo che i cambiamenti locali alterano l'equilibrio
 
 Aggiungiamo che il green-business è tarato su parametri arbitrari (finestrini) e non sui driver del cambiamento (volante), oplà.Scrive un utente di LinkedIn, [Fabio Fois](https://it.linkedin.com/in/fabio-fois-069bb566) a riguardo ha commentato:
 
-> Zichichi, se non erro, aveva quantificato il contributo antropico al cambiamento climatico in misura non superiore al 5%. [NdR: non superiore al 10%, ma secondo lui il 5%, la metà]
+> Zichichi, se non erro, aveva quantificato il contributo antropico al cambiamento climatico in misura non superiore al 5%.
+> 
+> Nota: secondo Zichichi non superiore al 10%, probabilmente il 5% - dichiarazione verificata dopo la scrittura dell'articolo.
 
 Non ho motivo di contestare la stima di Zichichi e non ho dati o un modello di riferimento pubblicamente disponibile per supportare quella stima. La prendo per buona.
 
