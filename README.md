@@ -1,3 +1,7 @@
+<div style="max-width: 820px; margin: auto;" align="justify">
+
+<div align="center"><img src="img/warp-speed-jump.jpg"><br/></div>
+
 # Roberto A. Foglietta
 
 [**`EN`**] Linkedin and beBee articles collected along the time in PDF format. Written and published under the personal brand **Roberto A. Foglietta** by Roberto Foglietta since 2016. This collection is presented here because with a certain regularity, usually 4 years, the social accounts are unilaterally deleted or frozen. The author's habit to print in PDF his articles and uploading on several Google Drive accounts made them last through adversities. The personal brand was created a little before 2000, in order to avoid existing and not desirable homonyms.
@@ -85,3 +89,5 @@ All the files in this gihub repository are published **Creative Commons Attribut
 Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version presented here apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
 Finally, these licensing terms apply to the single document and to the entire collection as a collection, as well.
+
+</div>
