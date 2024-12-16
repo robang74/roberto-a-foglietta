@@ -14,25 +14,15 @@ Questo articolo è stato scritto a partire da un post su LinkedIn dello stesso a
 
 > Piangete pure. Se questo vi fa star meglio.
 
-Non voglio supportare il machismo sfrontato ma è vero, l'azione è la risposta 
-definitiva. Ciò non toglie che anche un VERO uomo possa piangere, magari lo farà
-con lo un certo pudore ma ciò non toglie che poi si dedicherà all'azione.
+Non voglio supportare il machismo sfrontato ma è vero, l'azione è la risposta definitiva. Ciò non toglie che anche un VERO uomo possa piangere, magari lo farà con lo un certo pudore ma ciò non toglie che poi si dedicherà all'azione.
 
-Forse l'unica cosa buona della cultura woke è che anche gli uomini in alcune
-situazioni si possano permettere di sembrare deboli e vulnerabili, così come
-d'altra parte anche le donne possano essere competitive e maschili.
+Forse l'unica cosa buona della cultura woke è che anche gli uomini in alcune situazioni si possano permettere di sembrare deboli e vulnerabili, così come d'altra parte anche le donne possano essere competitive e maschili.
 
-Ma non è appiattimento, è solo un'accettazione ragionevole della VARIETÀ del mondo,
-della vita e delle situazioni. VARIETÀ, non come il cabaret ma come panta rei.
+Ma non è appiattimento, è solo un'accettazione ragionevole della VARIETÀ del mondo, della vita e delle situazioni. VARIETÀ, non come il cabaret ma come panta rei.
 
-Ecco un altro inghippo, l'altro grande inganno: confondere la VARIETÀ con la
-diversità, parola che implica necessariamente l'esistenza di una normalità e
-quindi di un conflitto con essa. Quando invece siamo tutti diversi, alcuni sotto
-alcuni aspetti o in certe situazioni, più di altri.
+Ecco un altro inghippo, l'altro grande inganno: confondere la VARIETÀ con la diversità, parola che implica necessariamente l'esistenza di una normalità e quindi di un conflitto con essa. Quando invece siamo tutti diversi, alcuni sotto alcuni aspetti o in certe situazioni, più di altri.
 
-Ma questo della diversità è una questione statistica, che appartiene più alla
-curiosità della scienza che all'etica o alla morale. Invece la VARIETÀ appartiene
-interamente alla sfera umana e quindi alla cultura umanista.
+Ma questo della diversità è una questione statistica, che appartiene più alla curiosità della scienza che all'etica o alla morale. Invece la VARIETÀ appartiene interamente alla sfera umana e quindi alla cultura umanista.
 
 **Senza varietà saremmo dei cloni, tutti uguali, come la banana.**
 
@@ -40,26 +30,13 @@ interamente alla sfera umana e quindi alla cultura umanista.
 
 > La selezione naturale porta al miglioramento della specie.
 
-Non necessariamente miglioramento, ma adattamento. La selezione naturale
-riguarda all'adattamento della specie NON dell'individuo, altro falso mito, creato
-da coloro che NON hanno capito la selezione naturale ma la vogliono sfruttare
-per propagandare i benefici dell'adattabilità degli "inferiori" in senso fantozziano
-(oh guarda sto parlando come il ministro Giuli, quasi). Ignorando una grande virtù,
-la disobbedienza sopratutto alla mediocrità e all'ingiustizia.
+Non necessariamente miglioramento, ma adattamento. La selezione naturale riguarda all'adattamento della specie NON dell'individuo, altro falso mito, creato da coloro che NON hanno capito la selezione naturale ma la vogliono sfruttare per propagandare i benefici dell'adattabilità degli "inferiori" in senso fantozziano (oh guarda sto parlando come il ministro Giuli, quasi). Ignorando una grande virtù, la disobbedienza sopratutto alla mediocrità e all'ingiustizia.
 
-Le altre dimensioni che distinguono l'individuo dalla specie, sono di natura
-statistica. La selezione naturale è indifferente al benessere dell'individuo e infatti
-agisce "selezionandolo" quindi sopprimendolo. In questo senso, non ha
-importanza quanti individui muoiano a patto che i rimanenti siano abbastanza per
-proseguire la specie e in questo vediamo qualcosa di simile al nazismo.
+Le altre dimensioni che distinguono l'individuo dalla specie, sono di natura statistica. La selezione naturale è indifferente al benessere dell'individuo e infatti agisce "selezionandolo" quindi sopprimendolo. In questo senso, non ha importanza quanti individui muoiano a patto che i rimanenti siano abbastanza per proseguire la specie e in questo vediamo qualcosa di simile al nazismo.
 
-Sicché ci sono dei principi in natura che sono quanto di più "giusto" possa esserci,
-letteralmente, ma che se vengono usati dall'uomo per forgiare la società ci
-troviamo di fronte a qualcosa come l'aberrazione del nazismo e l'epica della razza
-ariana come base genetica del super-uomo.
+Sicché ci sono dei principi in natura che sono quanto di più "giusto" possa esserci, letteralmente, ma che se vengono usati dall'uomo per forgiare la società ci troviamo di fronte a qualcosa come l'aberrazione del nazismo e l'epica della razza ariana come base genetica del super-uomo.
 
-Sono sottili distinguo da STEM (Science, Technology, Engineering and
-Maths) ma che facilmente portano in grave errore i filosofi.
+Sono sottili distinguo da STEM (Science, Technology, Engineering and Maths) ma che facilmente portano in grave errore i filosofi.
 
 **La varietà implica apprezzare i distinguo, per la diversità basta la normalità.**
 
@@ -67,21 +44,13 @@ Maths) ma che facilmente portano in grave errore i filosofi.
 
 ## Uso dell'AI
 
-Nella versione originale dell'articolo qui c'era la parte che è stata spostata dopo
-la conversazione con il chatbot. La ragione è banale, risulta inutilmente complicato
-spiegare cose anticipando gli eventi.
+Nella versione originale dell'articolo qui c'era la parte che è stata spostata dopo la conversazione con il chatbot. La ragione è banale, risulta inutilmente complicato spiegare cose anticipando gli eventi.
 
-Per procedere oltre basta dire che il chatbot è solo uno strumento tecnologico per
-quanto esso sembri oscuro e portentoso. Nella pratica è l'essere umano che interagendo
-con esso lo guida, come fosse un'auto.
+Per procedere oltre basta dire che il chatbot è solo uno strumento tecnologico per quanto esso sembri oscuro e portentoso. Nella pratica è l'essere umano che interagendo con esso lo guida, come fosse un'auto.
 
-Perché risulta utile dialogare con un chatbot? Perché fornisce spunti di riflessione,
-ci permette di affrontare un'idea da punti di vista diversi, ci aiuta a capire quanto
-quell'idea possa essere compresa, etc.
+Perché risulta utile dialogare con un chatbot? Perché fornisce spunti di riflessione, ci permette di affrontare un'idea da punti di vista diversi, ci aiuta a capire quanto quell'idea possa essere compresa, etc.
 
-Piccolo spoiler, la conversazione riserverà una piccola sorpresa a dimostrazione del
-fatto che se usato bene anche i chatbot hanno la loro grande utilità ma allo stesso
-tempo imitano soltanto il pensiero umano.
+Piccolo spoiler, la conversazione riserverà una piccola sorpresa a dimostrazione del fatto che se usato bene anche i chatbot hanno la loro grande utilità ma allo stesso tempo imitano soltanto il pensiero umano.
 
 **I chatbot funzionano come un specchio, imitano il nostro pensiero lessicale.**
 
@@ -191,39 +160,17 @@ Grazie per la precisazione! In effetti, senza quel “che” la frase risulta mo
 
 ## Considerazioni
 
-Ovviamente il post con banana artistica (non quella di dimensioni artistiche ma
-quella dello scotch) e supercazzola tarapia tapioca spiegata da ChatGPT o meglio
-sarebbe dire: catalogata dall'AI, perché in questo sono brave le intelligenze
-artificiali, a catalogare patterns. Quindi a discernere supercazzole da pensieri
-profondi, perché ad un lettore superficiale o frettoloso, le due cose possono
-sembrare simili.
+Ovviamente il post con banana artistica (non quella di dimensioni artistiche ma quella dello scotch) e supercazzola tarapia tapioca spiegata da ChatGPT o meglio sarebbe dire: catalogata dall'AI, perché in questo sono brave le intelligenze artificiali, a catalogare patterns. Quindi a discernere supercazzole da pensieri profondi, perché ad un lettore superficiale o frettoloso, le due cose possono sembrare simili.
 
-Qui patterns significa in questo contesto significa schemi ricorrenti, quindi idee o
-concetti che sono ricorrenti nella letteratura alla quale l'intelligenza artificiale è
-stata esposta e quindi sulla quale trained ovvero educata.
+Qui patterns significa in questo contesto significa schemi ricorrenti, quindi idee o concetti che sono ricorrenti nella letteratura alla quale l'intelligenza artificiale è stata esposta e quindi sulla quale trained ovvero educata.
 
-Ne consegue che per idee che sono originali oppure molto distanti da quelle
-ricorrenti - ma non necessariamente corrette infatti una bugia ripetuta all'infinito
-non diventa una verità - non sono comprensibili all'AI che invece tende a
-considerarle "sviste", anomalie - statisticamente parlando - che non riesce
-correttamente ad interpretare nell'ambito degli schemi ricorrenti. Nel testo
-originale proposto all'AI c'era un refuso, un "**CHE**" di troppo.
+Ne consegue che per idee che sono originali oppure molto distanti da quelle ricorrenti - ma non necessariamente corrette infatti una bugia ripetuta all'infinito non diventa una verità - non sono comprensibili all'AI che invece tende a considerarle "sviste", anomalie - statisticamente parlando - che non riesce correttamente ad interpretare nell'ambito degli schemi ricorrenti. Nel testo originale proposto all'AI c'era un refuso, un "**CHE**" di troppo.
 
-Essendo un'anomalia grammaticale, l'intelligenza artificiale l'ha correttamente
-identificata ma perché la grammatica italiana è un insieme di regole (patterns).
-Anche in questo caso, la novità (eccezione alla regola, anomalia rispetto agli
-schemi ricorrenti) pur nella sua banalità di refuso è stata rilevata ma non
-compresa.
+Essendo un'anomalia grammaticale, l'intelligenza artificiale l'ha correttamente identificata ma perché la grammatica italiana è un insieme di regole (patterns). Anche in questo caso, la novità (eccezione alla regola, anomalia rispetto agli schemi ricorrenti) pur nella sua banalità di refuso è stata rilevata ma non compresa.
 
-Nel comprendere come funzionino le intelligenze artificiali cessiamo di averne
-paura (oppure cominciare ad averne davvero paura, dipende) ma anche a
-comprendere come funzioni il linguaggio nella formazione del pensiero e quindi
-nella **DESCRIZIONE** della realtà.
+Nel comprendere come funzionino le intelligenze artificiali cessiamo di averne paura (oppure cominciare ad averne davvero paura, dipende) ma anche a comprendere come funzioni il linguaggio nella formazione del pensiero e quindi nella **DESCRIZIONE** della realtà.
 
-È nella parola "descrizione" che potremmo cominciare davvero ad avere paura
-delle AI quando esse sono capaci di smontare, e a farlo senza inibizioni, le nostre
-illusioni che invece vorremmo fossero realtà piuttosto che articolazioni astratte
-del nostro pensiero (ideologie).
+È nella parola "descrizione" che potremmo cominciare davvero ad avere paura delle AI quando esse sono capaci di smontare, e a farlo senza inibizioni, le nostre illusioni che invece vorremmo fossero realtà piuttosto che articolazioni astratte del nostro pensiero (ideologie).
 
 <br>
 
@@ -231,35 +178,35 @@ del nostro pensiero (ideologie).
 
 Intelligenza artificiale, etica e società
 
-* Il pensiero e il linguaggio (March 25, 2024)
+* Il pensiero e il linguaggio - source [LinkedIn](https://www.linkedin.com/pulse/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf) (2024-03-25)
 
-* L'importanza del metodo scientifico (May 24, 2022)
+* L'importanza del metodo scientifico - source [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-metodo-scientifico-roberto-a-foglietta) (2022-05-24)
 
-* L'A.I. è l'incubo della politica incapace (April 1, 2023)
+* L'A.I. è l'incubo della politica incapace - source [LinkedIn](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta) (2023-04-01)
 
-* A.I. - La tecnologia che fa paura (January 27, 2024)
+* A.I. - La tecnologia che fa paura - source [LinkedIn](https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf) (2024-01-27)
 
-* La grande mistificazione dell'uguaglianza (March 19, 2019)
+* La grande mistificazione dell'uguaglianza - source [LinkedIn](https://www.linkedin.com/pulse/la-grande-mistificazione-delluguaglianza-roberto-a-foglietta) (2019-03-19)
 
-* L'omogeneizzato non funziona (November 27, 2023)
+* L'omogeneizzato non funziona - source [LinkedIn](https://www.linkedin.com/pulse/lomogeneizzato-non-funziona-roberto-a-foglietta-cm2ef) (2023-11-27)
 
 Intelligenza artificiale, tecnologia e implicazioni
 
-* Usare l'AI per questioni complesse - p.1 (May 17, 2024)
+* Usare l'AI per questioni complesse - p.1 - source [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-roberto-a-foglietta-sybyf) (2024-05-17)
 
-* Usare l'AI per questioni complesse - p.2 (May 31, 2024)
+* Usare l'AI per questioni complesse - p.2 - source [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-p2-roberto-a-foglietta-gqxue) (2024-05-31)
 
-* L'etica della vita nella guida autonoma (November 5, 2018)
+* L'etica della vita nella guida autonoma - source [LinkedIn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta) (2018-11-05)
 
-* A job interview with ChatGPT v3.5 (December 7, 2022)
+* A job interview with ChatGPT v3.5 - source [LinkedIn](https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta) (2022-12-07)
 
-* Good prompt rules, even better (January 5, 2024)
+* Good prompt rules, even better - source [LinkedIn](https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf) (2024-01-05)
 
-* Miss Poppins vs Mr. Spock (March 27, 2023)
+* Miss Poppins vs Mr. Spock - source [LinkedIn](https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta) (2023-03-27)
 
-* LLM con fine-tuning in latino (February 2, 2024)
+* LLM con fine-tuning in latino - source [LinkedIn](https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of) (2024-02-02)
 
-* L'umana natura del diritto d'autore (May 10, 2024)
+* L'umana natura del diritto d'autore - source [LinkedIn](https://www.linkedin.com/pulse/lumana-natura-del-diritto-dautore-roberto-a-foglietta-p62ee) (2024-05-10)
 
 <br/>
 
