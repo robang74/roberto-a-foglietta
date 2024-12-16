@@ -30,11 +30,13 @@ Ma questo della diversità è una questione statistica, che appartiene più alla
 
 > La selezione naturale porta al miglioramento della specie.
 
-Non necessariamente miglioramento, ma adattamento. La selezione naturale riguarda all'adattamento della specie NON dell'individuo, altro falso mito, creato da coloro che NON hanno capito la selezione naturale ma la vogliono sfruttare per propagandare i benefici dell'adattabilità degli "inferiori" in senso fantozziano (oh guarda sto parlando come il ministro Giuli, quasi). Ignorando una grande virtù, la disobbedienza sopratutto alla mediocrità e all'ingiustizia.
+Non necessariamente miglioramento, ma adattamento. La selezione naturale riguarda all'adattamento della specie NON dell'individuo, altro falso mito, creato da coloro che NON hanno capito la selezione naturale ma la vogliono sfruttare per propagandare i benefici dell'adattabilità degli "inferiori" in senso fantozziano (oh guarda sto parlando come il ministro Giuli, quasi).
+
+Ignorando una grande virtù, la disobbedienza soprattutto alla mediocrità e all'ingiustizia.
 
 Le altre dimensioni che distinguono l'individuo dalla specie, sono di natura statistica. La selezione naturale è indifferente al benessere dell'individuo e infatti agisce "selezionandolo" quindi sopprimendolo. In questo senso, non ha importanza quanti individui muoiano a patto che i rimanenti siano abbastanza per proseguire la specie e in questo vediamo qualcosa di simile al nazismo.
 
-Sicché ci sono dei principi in natura che sono quanto di più "giusto" possa esserci, letteralmente, ma che se vengono usati dall'uomo per forgiare la società ci troviamo di fronte a qualcosa come l'aberrazione del nazismo e l'epica della razza ariana come base genetica del super-uomo.
+Sicché ci sono dei principi in natura che sono quanto di più "giusto" possa esserci, letteralmente, ma che se vengono usati dall'uomo per forgiare la società ci troviamo di fronte a qualcosa come l'aberrazione del nazismo e l'epica della razza ariana come base genetica del superuomo.
 
 Sono sottili distinguo da STEM (Science, Technology, Engineering and Maths) ma che facilmente portano in grave errore i filosofi.
 
@@ -58,9 +60,15 @@ Piccolo spoiler, la conversazione riserverà una piccola sorpresa a dimostrazion
 
 ### Prompt #1
 
-Questo testo sembra una supercazzola tarapia tapioca oppure è un pensiero profondo?
+Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero profondo?
 
 > La selezione naturale [...] in senso fantozziano.
+
+---
+
+### Nota #1
+
+La "[supercazzola](https://it.wikipedia.org/wiki/Supercazzola)" è un'espressione lessicale entrata in auge nella lingua italiana popolare a causa di un trittico di film [Amici Miei](https://it.wikipedia.org/wiki/Amici_miei) e una possibile traduzione in Inglese sarebbe "*razzle-dazzle trolling joke*" ma senza un intento politico o utilitaristico. Sono serviti due chatbot e diversi prompt per, infine, giungere a questa conclusione che la *supercazzola* celebra l'arte del dialogo per il dialogo, dello stare insieme attraverso un linguaggio che supera i limiti della razionalità. La ricerca della relazione sociale con gli altri anche quanto gli altri sono troppo diversi da noi per poter stabilire un dialogo profondo e ordinato. Insomma, la *supercazzola* non è un "*prank*" ma un "*joke*" per intenditori.
 
 ---
 
