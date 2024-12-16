@@ -1,0 +1,15 @@
+/* 
+ * void Cascading Style Sheet for overriding or customise default.css
+ *
+ ******************************************************************************/
+ body {
+    color: #202020;
+    background-color: #ffffff;
+}
+blockquote {
+    color: #000000;
+    background-color: #e0e8f0;
+}
+a:link, a:visited, a:hover, a:active {
+    color: #102040;
+}

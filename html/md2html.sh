@@ -6,9 +6,11 @@
 function md2htmlfunc() {
     local str=$(basename ${2%.html}) dir="html/";
     test "$str" = "index" || dir=""
-    echo -n "<html>
+    echo -n "<!DOCTYPE html>
+<html>
     <head>
         <title>${str//-/ }</title>
+        <meta charset='UTF-8'>
         <link rel='stylesheet' href='${dir}default.css'>
         <link rel='stylesheet' href='${dir}custom.css'>
     </head>
