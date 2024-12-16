@@ -24,7 +24,7 @@
 
 ## Index
 
-[**`EN`**] As PDF documents are converted to markdown, they will be added to this index, in anti-chronological order as the chronological one is present in the file list given the numerical index preceding it in the name. Instead, new articles will be written directly in markdown format. Date of first pubblciation is written in universal format, like YYYY-MM-DD.
+[**`EN`**] As PDF documents are converted to markdown, they will be added to this index, in anti-chronological order as the chronological one is present in the file list given the numerical index preceding it in the name. Instead, new articles will be written directly in markdown format. Date of first publication is written in a universal format, like YYYY-MM-DD.
 
 [**`IT`**] Man mano che i documenti in PDF saranno convertiti in markdown verranno aggiunti in questo indice, in ordine anticronologico giacché quello cronologico è presente nella lista dei file dato l'indice numerico che li precede nel nome. Invece, i nuovi articoli saranno scritti direttamente in formato markdown. La data di prima pubblicazione sarà riportata in formato universale come ANNO-MM-GG.
 
@@ -80,7 +80,7 @@
 
 #### &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
 
-All the files in this gihub repository are published **Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International** license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless states differently or not applicable due to a different and previous authorship.
+All the files in this gihub repository are published **Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International** license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless stated differently or not applicable due to a different and previous authorship.
 
 Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version presented here apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
