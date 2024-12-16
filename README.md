@@ -36,6 +36,8 @@
 
 * 296 - [La madre di tutte le guerre](296-la-madre-di-tutte-le-guerre.md) (2024-12-15) [[**`IT`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md)] [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)]
 
+* 295 - [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md) (2024-12-14) [[**`IT`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md)] [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)]
+
 * 261 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md) (2024-05-18) [[**`IT`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md)] [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)]
 
 <br/>
