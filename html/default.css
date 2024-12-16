@@ -1,6 +1,19 @@
 body {
-    color: #f0f6ed;
-    background-color: #1e1f20; 
+    color: #f0f0f0;
+    background-color: #202020;
+    font-family: sans-serif;
+}
+blockquote {
+    width: 760px;
+    color: #fff8f0;
+    font-size: 110%;
+    font-family: serif;
+    text-align: justify;
+    background-color: #302820;
+    border-left: 8px double gray;
+    padding: 8px 16px 8px 16px;
+    position: relative;
+    left: -40px;
 }
 a:link {
     color: #84cfff;
@@ -15,6 +28,6 @@ a:active {
     color: #fff060;
 }
 li {
-    margin-left: 25px;
+    margin-left:  25px;
     text-indent: -25px;
 }

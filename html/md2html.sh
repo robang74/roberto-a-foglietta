@@ -5,7 +5,7 @@
 
 function md2htmlfunc() {
     local str;
-    printf "<html>
+    echo -n "<html>
     <head>
         <title>$(basename ${2%.html})</title>
         <style>
@@ -15,20 +15,20 @@ $(cat html/default.css)
     </head>
     <body>
 " >$2
-    sed -e "s,§,\sect;,g" -e "s,°,\&deg;,g" \
+    sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
 -e "s,^# \(.*\),<H1>\\1</H1>," \
 -e "s,^## \(.*\),<H2>\\1</H2>," \
 -e "s,^### \(.*\),<H3>\\1</H3>," \
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
 -e "s,<div id=.firstdiv. .* white-space: pre-wrap,&-no," \
--e "s,^ *[-+\*] *> *\(.*\),<blockquote><li>\\1</li></blockquote>," \
+-e "s,^ *[-+\*] *> *\(.*\),<ul style='position: relative; left: -30px;'><li style='text-indent: 0px;'><blockquote style='width: 720px;'>\\1</blockquote></li></ul>," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
 -e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
 -e 's,\[\([^]]*\)\](\([^)]*\)),<a href="\2">\1<\/a>,g' \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
--e "s,^ *$,<p/>," -e "s,^---.*,<hr>," $1 | tr '\n' '§' >> $2
+-e "s,^ *$,<p/>," -e "s,^---.*,<hr>," $1 | tr '\n' '@' >> $2
     while true; do
         str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $2);
         if [ -n "$str" ]; then
@@ -53,7 +53,9 @@ $(cat html/default.css)
             break
         fi
     done
-    str=$(cat $2 | tr '§' '\n')
+    sed -e 's,</blockquote>\(@*\)<blockquote>,<br/>,g' \
+        -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $2
+    str=$(cat $2 | tr '@' '\n')
     echo "$str
     </body>
 </html>" > $2
@@ -108,7 +110,7 @@ sed -e 's,href="\([^h][^"]*\).md",href="html/\1.html",g' \
 zipfle=archivio-html.zip
 rm -f $zipfle
 if [ "x$1" == "x-z" ]; then
-    zip -r $zipfle img/ html/*.html index.html -x $0
+    zip -r $zipfle img/ html/*.html html/*.css index.html -x $0
     zip -j $zipfle zip/README.md
     du -sk $zipfle
     echo
