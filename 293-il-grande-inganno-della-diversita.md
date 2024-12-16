@@ -68,9 +68,11 @@ Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero pro
 
 ### Nota #1
 
-La "[supercazzola](https://it.wikipedia.org/wiki/Supercazzola)" è un'espressione lessicale entrata in auge nella lingua italiana popolare a causa di un trittico di film [Amici Miei](https://it.wikipedia.org/wiki/Amici_miei) e una possibile traduzione in Inglese sarebbe "*razzle-dazzle trolling joke*" ma senza un intento politico o utilitaristico. Sono serviti due chatbot e diversi prompt per, infine, giungere a questa conclusione che la *supercazzola* celebra l'arte del dialogo per il dialogo, dello stare insieme attraverso un linguaggio che supera i limiti della razionalità. La ricerca della relazione sociale con gli altri anche quanto gli altri sono troppo diversi da noi per poter stabilire un dialogo profondo e ordinato. Insomma, la *supercazzola* non è un "*prank*" ma un "*joke*" per intenditori.
+La [supercazzola](https://it.wikipedia.org/wiki/Supercazzola) è un'espressione lessicale entrata in auge nella lingua italiana popolare a causa di un trittico di film [Amici Miei](https://it.wikipedia.org/wiki/Amici_miei) e una possibile traduzione in Inglese sarebbe "*razzle-dazzle trolling joke*" ma senza un intento politico o utilitaristico. Sono serviti due chatbot e diversi prompt per, infine, giungere a questa conclusione che la *supercazzola* celebra l'arte del dialogo per il dialogo, dello stare insieme attraverso un linguaggio che supera i limiti della razionalità. La ricerca della relazione sociale con gli altri anche quanto gli altri sono troppo diversi da noi per poter stabilire un dialogo profondo e ordinato. Insomma, la *supercazzola* non è un "*prank*" ma un "*joke*" per intenditori.
 
 Per poi addirittura giungere a realizzare che l'arte della supercazzola sia uno dei pilastri fondanti della diplomazia, ovvero l'arte di continuare a dialogare con coloro che in tempi di oscurità della ragione e povertà materiale, si affronterebbero con il randello o il machete, piuttosto che con le armi e la guerra qualora si trattasse di diplomazia internazionale. Un ponte effimero ma necessario in assenza di strumenti più strutturali fra il *qui-ora-impossibile* e *domani-forse-possibile*. Oltre al fatto che distoglie da un confronto radicale, alleggerendo la serietà delle divergenze in attesa di una possibile soluzione pacifica.
+
+In questo contesto però il chatbot non ha approffondito questi aspetti quindi la sua propensione è quella di catalogare il termine *supercazzola* come scherzo (joke) o beffa (prank).
 
 ---
 
