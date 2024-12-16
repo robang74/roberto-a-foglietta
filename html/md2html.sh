@@ -15,7 +15,7 @@ $(cat html/default.css)
     </head>
     <body>
 " >$2
-    sed -e "s,§,\sect;,g" \
+    sed -e "s,§,\sect;,g" -e "s,°,\&deg;,g" \
 -e "s,^# \(.*\),<H1>\\1</H1>," \
 -e "s,^## \(.*\),<H2>\\1</H2>," \
 -e "s,^### \(.*\),<H3>\\1</H3>," \

@@ -1,6 +1,6 @@
-<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
-
 <div style="max-width: 820px; margin: auto;" align="justify">
+
+<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
 
 ## LA MADRE DI TUTTE LE GUERRE
 
