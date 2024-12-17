@@ -84,6 +84,10 @@
 
 [**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
 
+[**`EN`**] The shell script [html/html2pdf.sh](html/md2html.sh) converts the html pages into PDF document. The syntax is easy `html2pdf.sh [-g] [-c|-w] $finame.md` and allows to create a PDF also using `pdfcool.css` (blushift grayscale) and `pdfwamr.css`  (redshift grayscale) or a using a pure grayscale based on one of these two. Alternatively, we can use `custom.css`, otherwise the PDF will be produced with a black background as html pages have by default.
+
+[**`IT`**] Lo script di shell [html/html2pdf.sh](html/md2html.sh) converte le pagine html in documenti PDF. La sintassi è semplice `html2pdf.sh [-g] [-c|-w] $nomefile.md` e permette di creare un PDF anche usando `pdfcool.css` (grigio con toni di blu) e `pdfwamr.css` (grigio con toni di rosso) o usando una scala di grigi pura basata su uno di questi due. In alternativa si può usare `custom.css`, altrimenti il PDF verrà prodotto con lo sfondo nero come le pagine html hanno per default.
+
 <br/>
 
 ## Archives
