@@ -94,6 +94,22 @@
 
 <br/>
 
+## Warp meme
+
+[**`EN`**] Sun Tzu in **The Art of War** is written that the aim of the war is not winning but creating the conditions for a long lasting peace and at the beginning of that essay, he also wrote that "*The supreme art of war is to subdue the enemy without fighting.*" which clearly states that is not by violence which can achieved the best. Joseph Joubert quote reports almost an indentical concept "*The aim of argument should not be victory, but progress*". 
+
+[**`IT`**] Sun Tzu ne **L'Arte della Guerra** è scritto che lo scopo della guerra non è vincere, ma creare le condizioni per una pace duratura e, all'inizio di quel saggio, scrisse anche che “*L'arte suprema della guerra è sottomettere il nemico senza combattere*”, affermando chiaramente che non è con la violenza che si può ottenere il meglio. La citazione di Joseph Joubert riporta un concetto quasi identico: “Lo scopo dell'argomentazione non deve essere la vittoria, ma il progresso”.
+
+[**`EN`**] Moreover, Karl Popper proposed the falsification principle as a foundation pillar of science, he accepted the same concept, achieve the progress by a constructive confrontation. It is obvious that someone can decide at any moment to use violence to subdue us and this creates the unavoidable need of being ready for defending ourselves. However, as stated by Sun Tzu and elaborated by others in the next 25 centuries, the best way in acting is using the brain in a clever way rather than trusting the brute force only.
+
+[**`IT`**] Inoltre, Karl Popper ha proposto il principio di falsificazione come pilastro portante della scienza, accettando lo stesso concetto: raggiungere il progresso attraverso un confronto costruttivo. È ovvio che qualcuno può decidere in qualsiasi momento di usare la violenza per sottometterci e questo crea l'inevitabile necessità di essere pronti a difenderci. Tuttavia, come affermato da Sun Tzu ed elaborato da altri nei 25 secoli successivi, il modo migliore di agire è usare il cervello in modo intelligente piuttosto che affidarsi solo alla forza bruta.
+
+[**`EN`**] Finally, it is worth noticing that Fabrizio De Andrè, already in 1973, was singing: "*Today's intellectuals, tomorrow's idiots, give me back enough brain to serve my hands*". Here we are!
+
+[**`IT`**] Infine, vale la pena di notare che Fabrizio De Andrè, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*". Ecco qui, quindi!
+
+<br/>
+
 ## Copyright
 
 #### &copy; 2024, **Roberto A. Foglietta** \<roberto.foglietta<span>@</span>gmail.com\>
