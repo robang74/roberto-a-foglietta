@@ -82,7 +82,7 @@ fi
 
 echo
 mkdir -p html
-rm -f html/[0-9]*.html
+test -n "$1" || rm -f html/[0-9]*.html
 
 for i in ${@:-*.md}; do
     if [ "$i" == "template.md" ]; then
