@@ -27,7 +27,7 @@ function md2htmlfunc() {
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
 -e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
--e 's,\[\([^]]*\)\](\([^)]*\)),<a href="\2">\1<\/a>,g' \
+-e 's,\(\[*\)\[\([^]]*\)\](\([^)]*\)),\1<a href="\3">\2<\/a>,g' \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," $1 | tr '\n' '@' >> $2
     while true; do
@@ -60,7 +60,7 @@ function md2htmlfunc() {
     echo "$str
     </body>
 </html>" > $2
-    
+    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 }
 
 if [ "$2" != "" ]; then
@@ -69,17 +69,22 @@ if [ "$2" != "" ]; then
     done
 else ###########################################################################
 
+zip=0
 if [ -d "$1" ]; then
     cd "$1"
     echo
     echo "working path: $1 -> $PWD"
+    shift
+elif [ "x$1" == "x-z" ]; then
+    zip=1
+    shift
 fi
 
 echo
 mkdir -p html
 rm -f html/[0-9]*.html
 
-for i in *.md; do
+for i in ${@:-*.md}; do
     if [ "$i" == "template.md" ]; then
         continue
     elif [ "$i" == "README.md" ]; then
@@ -110,9 +115,9 @@ done
 sed -e 's,href="\([^h][^"]*\).md",href="html/\1.html",g' \
     -e "s,href='\([^h][^']*\).md',href='html/\\1.html',g" -i index.html
 
-zipfle=archivio-html.zip
-rm -f $zipfle
-if [ "x$1" == "x-z" ]; then
+zipfle="archivio-html.zip"
+if [ "$zip" == "1" ]; then
+    rm -f $zipfle
     zip -r $zipfle img/ html/*.html html/*.css index.html -x $0
     zip -j $zipfle zip/README.md
     du -sk $zipfle
