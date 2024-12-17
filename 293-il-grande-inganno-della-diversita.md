@@ -64,7 +64,9 @@ Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero pro
 
 > La selezione naturale [...] in senso fantozziano.
 
-**NOTA**: *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si cela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
+---
+
+- **NOTA**: *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si cela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
 
 ---
 
@@ -82,7 +84,9 @@ Se invece ti propongo l'intero testo, cosa mi dici?
 
 > La selezione naturale porta al miglioramento [...] che da STEM ma che facilmente portano in grave errore i filosofi.
 
-**NOTA**: *nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.*
+---
+
+- **NOTA**: *nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.*
 
 ---
 
