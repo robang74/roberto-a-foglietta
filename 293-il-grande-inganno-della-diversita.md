@@ -64,15 +64,7 @@ Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero pro
 
 > La selezione naturale [...] in senso fantozziano.
 
----
-
-### Nota #1
-
-La [supercazzola](https://it.wikipedia.org/wiki/Supercazzola) è un'espressione lessicale entrata in auge nella lingua italiana popolare a causa di un trittico di film [Amici Miei](https://it.wikipedia.org/wiki/Amici_miei) e una possibile traduzione in Inglese sarebbe "*razzle-dazzle trolling joke*" ma senza un intento politico o utilitaristico. Sono serviti due chatbot e diversi prompt per, infine, giungere a questa conclusione che la *supercazzola* celebra l'arte del dialogo per il dialogo, dello stare insieme attraverso un linguaggio che supera i limiti della razionalità. La ricerca della relazione sociale con gli altri anche quanto gli altri sono troppo diversi da noi per poter stabilire un dialogo profondo e ordinato. Insomma, la *supercazzola* non è un "*prank*" ma un "*joke*" per intenditori.
-
-Per poi addirittura giungere a realizzare che l'arte della supercazzola sia uno dei pilastri fondanti della diplomazia, ovvero l'arte di continuare a dialogare con coloro che in tempi di oscurità della ragione e povertà materiale, si affronterebbero con il randello o il machete, piuttosto che con le armi e la guerra qualora si trattasse di diplomazia internazionale. Un ponte effimero ma necessario (optimistic faith) in assenza di strumenti più strutturali fra il *qui-ora-impossibile* e *domani-forse-possibile*. Oltre al fatto che distoglie da un confronto radicale, alleggerendo la serietà delle divergenze in attesa di una possibile soluzione pacifica.
-
-In questo contesto però il chatbot non ha approffondito questi aspetti quindi la sua propensione è quella di catalogare il termine *supercazzola* come scherzo (joke) o beffa (prank). Ma lungi dal sottovalutare questi strumneti digitali in termini di pensiero lessicale perché dopo un lungo - e a tratti ridondande dialogo - ha prodotto questa chiccha: "*la vita stessa, nel suo intreccio di caos e significato, è una supercazzola sublime*" che già Vasco Rossi interpretò con "*la vita è tutto un equilibrio sopra la follia*".
+**NOTA**: *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si ciela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
 
 ---
 
@@ -90,7 +82,7 @@ Se invece ti propongo l'intero testo, cosa mi dici?
 
 > La selezione naturale porta al miglioramento [...] che da STEM ma che facilmente portano in grave errore i filosofi.
 
-**NOTA**: nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.
+**NOTA**: *nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.*
 
 ---
 
