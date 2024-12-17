@@ -64,7 +64,7 @@ Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero pro
 
 > La selezione naturale [...] in senso fantozziano.
 
-**NOTA**: *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si ciela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
+**NOTA**: *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si cela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
 
 ---
 
