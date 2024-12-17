@@ -80,7 +80,9 @@ mkdir -p html
 rm -f html/[0-9]*.html
 
 for i in *.md; do
-    if [ "$i" == "README.md" ]; then
+    if [ "$i" == "template.md" ]; then
+        continue
+    elif [ "$i" == "README.md" ]; then
        echo "converting $i in index.html ..."
        md2htmlfunc "$i" index.html
        continue
