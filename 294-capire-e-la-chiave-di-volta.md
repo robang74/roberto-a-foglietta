@@ -129,12 +129,12 @@ Il risultato immediato è stato che gli italiani hanno perso 1/4 del loro valore
 
 La parola candidata per diventare l'estrema sintesi della società degli ultimi 30 anni.
 
-> Within the sociology of knowledge, agnotology (formerly agnatology) is the study of deliberate, culturally induced ignorance or doubt, typically to sell a product, influence opinion, or win favour, particularly through the publication of inaccurate or misleading scientific data (disinformation). - Wikipedia, 1992
+> Within the sociology of knowledge, agnotology (formerly agnatology) is the study of deliberate, culturally induced ignorance or doubt, typically to sell a product, influence opinion, or win favour, particularly through the publication of inaccurate or misleading scientific data (disinformation). - [Wikipedia](https://en.wikipedia.org/wiki/Agnotology), 1992
 
 Qualcosa che però non sembra essere così recente ma che va assai indietro nel
 tempo:
 
-> There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - Isaac Asimov, 1980
+> There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), 1980
 
 <br/>
 
