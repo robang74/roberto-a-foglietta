@@ -12,3 +12,7 @@ for i in $(ls -1v archivio-html-*.zip); do
     unzip -o $i -d archivio-html
 done
 ```
+
+[**`EN`**] The incremental archives starts from `zip/archivio-html-003.zip` despite previous enumaration becuase the images has been greatly shrinked in size and this archive contains more data but it is smaller than the previous two.
+
+[**`IT`**] L'archivio incrementale inizia da `zip/archivio-html-003.zip` nonostante la precedente enumerazione, perché le immagini sono state notevolmente ridotte di dimensioni e questo archivio contiene più dati, ma è più piccolo dei due precedenti.
