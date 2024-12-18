@@ -8,6 +8,8 @@
 
 ${PUBLISH_NOTES}
 
+---
+
 ### ${SECTION_ONE_TITLE}
 
 ${SECTION_ONE_PREAMBLE}
