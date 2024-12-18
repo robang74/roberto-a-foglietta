@@ -17,7 +17,7 @@ else
 fi
 test -f "$1" || exit $?; md=$1
 test -n "$ch1" &&
-    echo '[(**`raw`**)]'"(${lraw}/$md)"
+    echo '([**`raw`**]'"(${lraw}/$md))"
 
 lg=it
 LG=IT
