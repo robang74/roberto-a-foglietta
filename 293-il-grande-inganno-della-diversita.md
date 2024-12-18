@@ -188,35 +188,35 @@ Se però arrivassimo a comprendere che queste idee preconcette (arbitrarie, rela
 
 Intelligenza artificiale, etica e società
 
-* Il pensiero e il linguaggio - source [LinkedIn](https://www.linkedin.com/pulse/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf) (2024-03-25)
+* Il pensiero e il linguaggio - origin [LinkedIn](https://www.linkedin.com/pulse/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf) (2024-03-25)
 
-* L'importanza del metodo scientifico - source [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-metodo-scientifico-roberto-a-foglietta) (2022-05-24)
+* L'importanza del metodo scientifico - origin [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-metodo-scientifico-roberto-a-foglietta) (2022-05-24)
 
-* L'A.I. è l'incubo della politica incapace - source [LinkedIn](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta) (2023-04-01)
+* L'A.I. è l'incubo della politica incapace - origin [LinkedIn](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta) (2023-04-01)
 
-* A.I. - La tecnologia che fa paura - source [LinkedIn](https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf) (2024-01-27)
+* A.I. - La tecnologia che fa paura - origin [LinkedIn](https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf) (2024-01-27)
 
-* La grande mistificazione dell'uguaglianza - source [LinkedIn](https://www.linkedin.com/pulse/la-grande-mistificazione-delluguaglianza-roberto-a-foglietta) (2019-03-19)
+* La grande mistificazione dell'uguaglianza - origin [LinkedIn](https://www.linkedin.com/pulse/la-grande-mistificazione-delluguaglianza-roberto-a-foglietta) (2019-03-19)
 
-* L'omogeneizzato non funziona - source [LinkedIn](https://www.linkedin.com/pulse/lomogeneizzato-non-funziona-roberto-a-foglietta-cm2ef) (2023-11-27)
+* L'omogeneizzato non funziona - origin [LinkedIn](https://www.linkedin.com/pulse/lomogeneizzato-non-funziona-roberto-a-foglietta-cm2ef) (2023-11-27)
 
 Intelligenza artificiale, tecnologia e implicazioni
 
-* Usare l'AI per questioni complesse - p.1 - source [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-roberto-a-foglietta-sybyf) (2024-05-17)
+* Usare l'AI per questioni complesse - p.1 - origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-roberto-a-foglietta-sybyf) (2024-05-17)
 
-* Usare l'AI per questioni complesse - p.2 - source [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-p2-roberto-a-foglietta-gqxue) (2024-05-31)
+* Usare l'AI per questioni complesse - p.2 - origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-p2-roberto-a-foglietta-gqxue) (2024-05-31)
 
-* L'etica della vita nella guida autonoma - source [LinkedIn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta) (2018-11-05)
+* L'etica della vita nella guida autonoma - origin [LinkedIn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta) (2018-11-05)
 
-* A job interview with ChatGPT v3.5 - source [LinkedIn](https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta) (2022-12-07)
+* A job interview with ChatGPT v3.5 - origin [LinkedIn](https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta) (2022-12-07)
 
-* Good prompt rules, even better - source [LinkedIn](https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf) (2024-01-05)
+* Good prompt rules, even better - origin [LinkedIn](https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf) (2024-01-05)
 
-* Miss Poppins vs Mr. Spock - source [LinkedIn](https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta) (2023-03-27)
+* Miss Poppins vs Mr. Spock - origin [LinkedIn](https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta) (2023-03-27)
 
-* LLM con fine-tuning in latino - source [LinkedIn](https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of) (2024-02-02)
+* LLM con fine-tuning in latino - origin [LinkedIn](https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of) (2024-02-02)
 
-* L'umana natura del diritto d'autore - source [LinkedIn](https://www.linkedin.com/pulse/lumana-natura-del-diritto-dautore-roberto-a-foglietta-p62ee) (2024-05-10)
+* L'umana natura del diritto d'autore - origin [LinkedIn](https://www.linkedin.com/pulse/lumana-natura-del-diritto-dautore-roberto-a-foglietta-p62ee) (2024-05-10)
 
 <br/>
 

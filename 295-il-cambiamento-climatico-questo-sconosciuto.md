@@ -60,35 +60,35 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 ## Articoli correlati
 
-* Plastica vegetale: scarti vs canapa - source [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
+* Plastica vegetale: scarti vs canapa - origin [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
 
-* The paper money is financial communism - source [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) (2024-07-31)
+* The paper money is financial communism - origin [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) (2024-07-31)
 
-* Il futuro non è green ma mixed - source [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
+* Il futuro non è green ma mixed - origin [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
 
-* The BRICS financial system, hope or WW3? - source [LinkedIn](https://www.linkedin.com/pulse/brics-financial-system-hope-ww3-roberto-a-foglietta-qzptf) (2024-06-07)
+* The BRICS financial system, hope or WW3? - origin [LinkedIn](https://www.linkedin.com/pulse/brics-financial-system-hope-ww3-roberto-a-foglietta-qzptf) (2024-06-07)
 
-* La bolla tecnologica delle EV - source [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
+* La bolla tecnologica delle EV - origin [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
 
-* Riciclo di rifiuti pregiati - source [LinkedIn](https://www.linkedin.com/pulse/riciclo-di-rifiuti-pregiati-roberto-a-foglietta-b9pyf) (2024-01-23)
+* Riciclo di rifiuti pregiati - origin [LinkedIn](https://www.linkedin.com/pulse/riciclo-di-rifiuti-pregiati-roberto-a-foglietta-b9pyf) (2024-01-23)
 
-* Effetti non lineari sul clima e ricadute sulla geopolitica - source [LinkedIn](https://www.linkedin.com/pulse/effetti-non-lineari-sul-clima-e-ricadute-sulla-roberto-a-foglietta) (2022-11-01)
+* Effetti non lineari sul clima e ricadute sulla geopolitica - origin [LinkedIn](https://www.linkedin.com/pulse/effetti-non-lineari-sul-clima-e-ricadute-sulla-roberto-a-foglietta) (2022-11-01)
 
-* A melting planet - source [LinkedIn](https://www.linkedin.com/pulse/melting-planet-roberto-a-foglietta) (2019-02-26)
+* A melting planet - origin [LinkedIn](https://www.linkedin.com/pulse/melting-planet-roberto-a-foglietta) (2019-02-26)
 
-* I sette livelli del biscottificio - source [LinkedIn](https://www.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta) (2019-01-30)
+* I sette livelli del biscottificio - origin [LinkedIn](https://www.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta) (2019-01-30)
 
-* Un mondo nuovo sta cominciando - source [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
+* Un mondo nuovo sta cominciando - origin [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
 
-* Black Swan is not as rare as we might think - source [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta) (2017-11-10)
+* Black Swan is not as rare as we might think - origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta) (2017-11-10)
 
-* Il lato oscuro dell'informazione scientifica - source [LinkedIn](https://www.linkedin.com/pulse/il-lato-oscuro-dellinformazione-scientifica-roberto-a-foglietta) (2017-11-07)
+* Il lato oscuro dell'informazione scientifica - origin [LinkedIn](https://www.linkedin.com/pulse/il-lato-oscuro-dellinformazione-scientifica-roberto-a-foglietta) (2017-11-07)
 
-* Il Quantitative Easing ha fallito - source [LinkedIn](https://www.linkedin.com/pulse/quatitative-easing-failed-roberto-a-foglietta) (2017-10-28)
+* Il Quantitative Easing ha fallito - origin [LinkedIn](https://www.linkedin.com/pulse/quatitative-easing-failed-roberto-a-foglietta) (2017-10-28)
 
-* Del controllo e della guida - source [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
+* Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
-* Opinions, data and method - source [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (2016-09-03)
+* Opinions, data and method - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (2016-09-03)
 
 <br/>
 

@@ -128,7 +128,7 @@ Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 
 ## Update #1
 
-* Pubblicato il 3 dicemnre 2024 - source [Facebook](https://www.facebook.com/share/p/14WQuJDmz6/)
+* Pubblicato il 3 dicemnre 2024 - origin [Facebook](https://www.facebook.com/share/p/14WQuJDmz6/)
 
 ### La dottrina Wolfowitz
 
@@ -154,13 +154,13 @@ Wolfowitz in vigore in politica estera dal 1992 è roba per eruditi.
 
 ## Articoli correlati
 
-- **22.02.2022** - source [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta?trk=article-ssr-frontend-pulse_little-text-block) (22 Feb 2022)
+- **22.02.2022** - origin [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta?trk=article-ssr-frontend-pulse_little-text-block) (22 Feb 2022)
 
-- **The Russia's advantage** - source [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta/) (5 Nov 2017)
+- **The Russia's advantage** - origin [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta/) (5 Nov 2017)
 
-- **L'opinione dello Zar** - source [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (2 Jan 2017)
+- **L'opinione dello Zar** - origin [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (2 Jan 2017)
 
-- **Opinions, data and method** - source [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (3 Sep 2016)
+- **Opinions, data and method** - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (3 Sep 2016)
 
 <br/>
 
