@@ -13,6 +13,7 @@ for f in "$@"; do
     echo "> INFO   : $f.bak created"
 
     sed -e 's,\(^##*\) *\(.\)\(.*\),\1 \2\L\3\E,' -i $f
+    sed -e 's,?trk=article-ssr-frontend-pulse_little-text-block),),' -i $f
 
     sed -e 's,@,\&commat;,g' $f | tr '\n' '@' >$f.tmp
     sed -e 's,\([^@]\)@\([^@]\),\1 \2,g' $f.tmp | tr '@' '\n' >$f
@@ -29,7 +30,7 @@ for f in "$@"; do
             eval export ${LG}_TR=\'$str\'
             let n++
         done
-        if [ $n -ne 5 ]; then
+        if [ $n -ne 6 ]; then
             echo "> WARNING: translations inception skipped."
             echo ">    file: $f"
             echo
