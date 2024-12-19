@@ -35,7 +35,7 @@ let fl-=sl el=10-el+2
 
 #echo "> DEBUG  : sl=$sl, el=$el, fl=$fl"
 
-head -3 $mdtempl > $f
+head -2 $mdtempl > $f
 head -n$[sl-2] $f.tmp >> $f
 str1=$(grep -e 'Published [A-Za-z]* [0-9]*, [0-9]*' $f.tmp)
 str2=$(grep -e 'Published ${PUBLISH_DATE}*' $mdtempl | cut -d- -f2-)
@@ -44,6 +44,7 @@ tac $f.tmp | head -n$fl | tac | head -n$[fl-el] >> $f
 tail -8 $mdtempl >> $f
 
 rm -f $f.tmp
+sed -e "s,^### *.*,---\n\n&," $f
 
 ################################################################################
 
