@@ -23,15 +23,40 @@ else
     
 fi
 test -f "$1" || exit $?; md=$1
+
+function mainfunc() {
+    local lg=it LG=IT
+    echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=en&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
+    for lg in en de fr es; do
+        LG=$(echo $lg | tr [a-z] [A-Z])
+        echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=it&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
+    done
+}
+
+function getdate() {
+    declare -i n=1
+    str="$@"
+    m=${str:0:3}
+    d=$(echo ${str:4} | cut -d, -f1)
+    y=$(echo ${str:4} | cut -d' ' -f2)
+    for s in Jen Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec; do 
+        test "$m" == "$s" && break; let n++; done
+    echo $y-$n-$d
+}
+
+
+
 if [ -n "$ch1" ]; then
+    echo
     title=$(head $md | sed -ne 's,^#  *\(.*\),\1,p' -e 's,^##  *\(.*\),\1,p' | head -n1)
-    echo "[${title:-\$TITLE}]($md)"
-    echo '([**`raw`**]'"(${lraw}/$md))"
+    pdate=$(sed -ne "s,^Published \([^-]*\) .*,\\1,p" $md)
+    pdate=$(getdate "$pdate")
+    nnn=$(echo $md | cut -d- -f1)
+    printf "* ${nnn} - ${PUBLISH_DATE:-${pdate:-PUBLISH_DATE}} - ";
+    printf '([**`raw`**]'"(${lraw}/$md))" 
+    mainfunc | tr -d '\n'
+    echo "- [${title:-\$TITLE}]($md)"
+    echo
+else
+    mainfunc
 fi
-lg=it
-LG=IT
-echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=en&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
-for lg in en de fr es; do
-LG=$(echo $lg | tr [a-z] [A-Z])
-echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=it&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
-done
