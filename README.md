@@ -14,21 +14,33 @@
 
 [**`IT`**] Articoli di Linkedin e beBee raccolti nel tempo in formato PDF. Scritti e pubblicati sotto il marchio personale **Roberto A. Foglietta** da Roberto Foglietta a partire dal 2016. Questa raccolta viene presentata qui perché con una certa regolarità, di solito 4 anni, gli account social vengono unilateralmente cancellati o congelati. L'abitudine dell'autore di stampare in PDF i suoi articoli e di caricarli su diversi account Google Drive li ha conservati nonostante le avversità. Il marchio personale è stato creato un po' prima del 2000, per evitare omonimie esistenti e non desiderabili.
 
+### Data management
+
+[**`EN`**] One of the benefits of this approach is that a PDF document generated with some difficulty from an article published on LinkedIn is 8 times larger in size than one easily generated with this approach. But it is only the tip of the iceberg, in fact by using a git-oriented approach we have the complete revision control and obviously direct management of the data produced both in terms of availability and in terms of licensing.
+
+[**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
+
+<br/>
+
+## Website
+
+* &nbsp;[robang74.github.io/roberto-a-foglietta](https://robang74.github.io/roberto-a-foglietta)
+
+[**`EN`**] The website is easier to browse, but not always up to date with the [github](https://github.com/robang74/roberto-a-foglietta?tab=readme-ov-file#roberto-a-foglietta) project. However, the information presented in the website are more stable and reviewed compared the github project that can be working in progress.
+
+[**`IT`**] Il sito web è più facile da consultare, ma non sempre aggiornato rispetto al progetto [github](https://github.com/robang74/roberto-a-foglietta?tab=readme-ov-file#roberto-a-foglietta). Tuttavia, le informazioni presentate nel sito web sono più stabili e riviste rispetto al progetto github, che può essere in corso di modifica.
+
 <br/>
 
 ## Forum
 
-[**`EN`**] This forum is open for debates about documents included into this collection and other topics that may enter into it.
-
-[**`IT`**] Questo forum è aperto a dibattiti sui documenti inclusi in questa raccolta e su altri argomenti che possono entrarvi.
-
 * &nbsp;[think tank discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
 
+[**`EN`**] This forum is open for debates about documents included into this collection and other topics that may enter into it. You need a github account to post in that discussion forum or alternatively write to me by e-mail.
+
+[**`IT`**] Questo forum è aperto a dibattiti sui documenti inclusi in questa raccolta e su altri argomenti che possono entrarvi. È necessario un account github per postare in quel forum di discussione o, in alternativa, scrivermi via e-mail.
+
 * **`roberto.foglietta`@`gmail.com`** for a direct contact
-
-[**`EN`**] You need a github account to post in that discussion forum or alternatively write to me by e-mail.
-
-[**`IT`**] È necessario un account github per postare in quel forum di discussione o, in alternativa, scrivermi via e-mail.
 
 <br/>
 
@@ -84,27 +96,23 @@
 
 <br/>
 
-## Website
+## Script tools
 
-[**`EN`**] The shell script [tools/md2html.sh](tools/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash tools/md2html.sh` runs on the top directory of the locally cloned repository. The [html/default.css](html/default.css) is imported and embedded into the created page, to provide a dark theme. Unless the browser can find a local file named `custom.css` which can override the default CSS style. This allows users to change the style in a very easy and straightforward way.
+[**`EN`**] There is a folder that contains few script [tools](tools) and you may be interested in a couple of them.
 
-[**`IT`**] Lo shell script [tools/md2html.sh](tools/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash tools/md2html.sh` sulla directory radice del repository clonato in locale. Il file [html/default.css](html/default.css) viene importato e incorporato nella pagina creata, per fornire un tema scuro. A meno che il browser non trovi un file locale chiamato `custom.css` che può rimpiazzare lo stile CSS predefinito. Questo permette agli utenti di cambiare lo stile in modo molto semplice e diretto.
+[**`IT`**] C'è una cartella che contiene alcuni script [tools](tools) e potreste essere interessati a un paio di essi. 
 
-[**`EN`**] One of the benefits of this approach is that a PDF document generated with some difficulty from an article published on LinkedIn is 8 times larger in size than one easily generated with this approach. But it is only the tip of the iceberg, in fact by using a git-oriented approach we have the complete revision control and obviously direct management of the data produced both in terms of availability and in terms of licensing.
+#### HTML
 
-[**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
+[**`EN`**] The shell script [tools/md2html.sh](tools/md2html.sh) converts the articles in markdown format into HTML pages which are created in the local `html` directory when `bash tools/md2html.sh` runs on the top directory of the locally cloned repository. The syntax is easy `md2html.sh [-z] [namefile.md]` and with `-z` creates the zip archive. The [html/default.css](html/default.css) is imported and embedded into the created page, to provide a dark theme. Unless the browser can find a local file named `custom.css` which can override the default CSS style. This allows users to change the style in a very easy and straightforward way.
 
-[**`EN`**] The shell script [html/html2pdf.sh](tools/md2html.sh) converts the html pages into PDF document. The syntax is easy `html2pdf.sh [-g] [-c|-w] $finame.md` and allows to create a PDF also using `pdfcool.css` (blushift grayscale) and `pdfwamr.css`  (redshift grayscale) or a using a pure grayscale based on one of these two. Alternatively, we can use `custom.css`, otherwise the PDF will be produced with a black background as html pages have by default.
+[**`IT`**] Lo shell script [tools/md2html.sh](tools/md2html.sh) converte gli articoli in formato markdown in pagine HTML che vengono create nella cartella locale `html` quando viene eseguito `bash tools/md2html.sh` sulla directory radice del repository clonato in locale. La sintassi è semplice `md2html.sh [-z] [namefile.md]` e con `-z` crea anche l'archivio zip. Il file [html/default.css](html/default.css) viene importato e incorporato nella pagina creata, per fornire un tema scuro. A meno che il browser non trovi un file locale chiamato `custom.css` che può rimpiazzare lo stile CSS predefinito. Questo permette agli utenti di cambiare lo stile in modo molto semplice e diretto.
 
-[**`IT`**] Lo script di shell [html/html2pdf.sh](tools/md2html.sh) converte le pagine html in documenti PDF. La sintassi è semplice `html2pdf.sh [-g] [-c|-w] $nomefile.md` e permette di creare un PDF anche usando `pdfcool.css` (grigio con toni di blu) e `pdfwamr.css` (grigio con toni di rosso) o usando una scala di grigi pura basata su uno di questi due. In alternativa si può usare `custom.css`, altrimenti il PDF verrà prodotto con lo sfondo nero come le pagine html hanno per default.
+#### PDF
 
-<br/>
+[**`EN`**] The shell script [html/html2pdf.sh](tools/html2pdf.sh) converts the html pages into PDF document. The syntax is easy `html2pdf.sh [-g] [-c|-w] $finame.md` and allows to create a PDF also using `pdfcool.css` (blushift grayscale) and `pdfwamr.css`  (redshift grayscale) or a using a pure grayscale based on one of these two. Alternatively, we can use `custom.css`, otherwise the PDF will be produced with a black background as html pages have by default.
 
-## Archives
-
-[**`EN`**] The [zip](zip#readme) folder contains the incremental compressed archives of articles converted to `markdown` format and then to `html`.
-
-[**`IT`**] La cartella [zip](zip#readme) contiene gli archivi compressi incrementali degli articoli convertiti in formato `markdown` e poi in `html`.
+[**`IT`**] Lo script di shell [html/html2pdf.sh](tools/html2pdf.sh) converte le pagine html in documenti PDF. La sintassi è semplice `html2pdf.sh [-g] [-c|-w] $nomefile.md` e permette di creare un PDF anche usando `pdfcool.css` (grigio con toni di blu) e `pdfwamr.css` (grigio con toni di rosso) o usando una scala di grigi pura basata su uno di questi due. In alternativa si può usare `custom.css`, altrimenti il PDF verrà prodotto con lo sfondo nero come le pagine html hanno per default.
 
 <br/>
 
