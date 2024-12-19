@@ -11,7 +11,7 @@ body="${gitusr}/${gitprj}/${tail}"
 ext="com"
 
 link="${head}-${ext}.translate.goog/${body}"
-lraw="${head}.${ext}/${body}"
+lraw="${head/-/.}.${ext}/${body}"
 
 if [ "x$1" == "x-s" ]; then
     ch1='' 
