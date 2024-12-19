@@ -77,7 +77,7 @@ for i in $list; do
             curl -Ss "$i" -o img/$ifn
         fi   
     fi
-    sed -e "s,$link.*${i##*/}),../img/$ifn)," -i $f
+    sed -e "s,$link.*${i##*/}),img/$ifn)," -i $f
     let n++
 done
 echo "> DONE."
