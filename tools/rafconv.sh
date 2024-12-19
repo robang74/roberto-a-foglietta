@@ -48,6 +48,17 @@ sed -e "s,^### *.*,---\n\n&," $f
 
 ################################################################################
 
+cmd1="tools/format.sh"
+cmd2="$(basename $0)/format.sh"
+for cmd in ${cmd2} ${cmd2}; do
+    if [ -r "$cmd" ]; then
+        source "$cmd" $f
+        break
+    fi
+done
+
+################################################################################
+
 link="https://web-api.textin.com/ocr_image/external/"
 list=$(sed -ne "s,.*\($link.*\)).*,\\1,p" $f)
 test -n "$list" && \
