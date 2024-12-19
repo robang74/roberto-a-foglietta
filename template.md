@@ -1,6 +1,6 @@
 <div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/${HEAD_IMAGE_NAME}"><br/></div>
+<div align="center"><img src="${HEAD_IMAGE_NAME}"><br/></div>
 
 ## ${MAIN_TITLE}
 
