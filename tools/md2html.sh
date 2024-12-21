@@ -24,8 +24,6 @@ function md2htmlfunc() {
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
--e "s,\(\[[^]]*\]([0-9]\{3\}[0-9a-z-]*\)\.md,\\1.html,g" \
--e "s,\(\[[^]]*\]([0-9]\{3\}[0-9a-z-]*\)\.md,\\1.html,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e "s,^# \(.*\),<H1>\\1</H1>," \
@@ -76,7 +74,10 @@ function md2htmlfunc() {
     echo "
     </body>
 </html>" >> $2
-    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+
+    sed -e "s,href=\"\([^h][^\"]*\).md\",href=\"${dir}\1.html\",g" \
+        -e "s,href='\([^h][^']*\).md',href='${dir}\\1.html',g" \
+        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 }
 
 if [ "$2" != "" ]; then
@@ -127,9 +128,6 @@ for i in *.md; do
         sed -i "s,\(href=\"\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" $j
     done
 done
-
-sed -e 's,href="\([^h][^"]*\).md",href="html/\1.html",g' \
-    -e "s,href='\([^h][^']*\).md',href='html/\\1.html',g" -i index.html
 
 zipfle="archivio-html.zip"
 if [ "$zip" == "1" ]; then
