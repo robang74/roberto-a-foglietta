@@ -49,12 +49,12 @@ function getdate() {
 if [ -n "$ch1" ]; then
     echo
     title=$(head $md | sed -ne 's,^#  *\(.*\),\1,p' -e 's,^##  *\(.*\),\1,p' | head -n1)
-    pdate=$(sed -ne "s,^Published \([^-]*\) .*,\\1,p" $md)
+    pdate=$(sed -ne "s,^[\* ]*Published \([^-]*\) .*,\\1,p" $md)
     pdate=$(getdate "$pdate")
     nnn=$(echo $md | cut -d- -f1)
     printf "* ${nnn} - ${PUBLISH_DATE:-${pdate:-PUBLISH_DATE}} - ";
-    printf '([**`raw`**]'"(${lraw}/$md))" 
-    mainfunc | tr -d '\n'
+    printf '([**`raw`**]'"(${lraw}/$md)) " 
+    mainfunc | tr '\n' ' '
     echo "- [${title:-\$TITLE}]($md)"
     echo
 else
