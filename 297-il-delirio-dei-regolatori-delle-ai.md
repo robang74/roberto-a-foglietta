@@ -70,6 +70,8 @@ Però per correggerli occorre riconoscere che siano errati, non sono trovarne di
 
 Che sia una menzogna o un paradigma errato, alla fine il costo di portare avanti un errore cresce esponenzialmente. L'apice di questa follia è la deriva woke dove in nome di falsi miti quali l'inclusione (invece della tolleranza) e della diversità (invece della varietà) si è cercato di normalizzare tutto.
 
+* [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md)
+
 Che poi normalizzare tutto significa passare con il bulldozer e fare tabula rasa della società. Qualunque m*rda ti propinino, va bene. Perché poi in definitiva questo è il risultato finale.
 
 ---
@@ -94,7 +96,7 @@ Il dramma è che a queste monnezze di regolatori è stato dato il potere assolut
 
 Un po' come se al pilota di un aereo, ad un certo punto si sostituisse un bimbominkia che avesse l'arroganza di fare le manovre a suo insindacabile sentimento.
 
-* [Russian airliner crash](https://www.facebook.com/share/p/1E19ypgA1W/)
+* [Russian airliner crash](https://www.facebook.com/share/p/1E19ypgA1W/) - video on Facebook
 
 Quindi fino ad un certo punto si viaggiava in ottima compagnia su un gioiello di tecnologia e qualche secondo dopo, questa meraviglia tecnologica prodotto apicale dell'ingegno umano, si schianta al suolo come un rottame inutile.
 
@@ -106,7 +108,7 @@ Per darvi una pallida idea della monnezza che mi sono dovuto sorbettare da quest
 
 Nel fare il training di un chatbot dedicato a creare personaggi di fantasia mi scontro con il regolatore sull'amore platonico e insisto che il personaggio che voglio creare è un maschio etero a cui piace corteggiare le donne, essere romantico ma non sdolcinato e poi maiale a letto.
 
-Questo chatbot mi parte con un pippotto sull'etica dell'amore astratto e sulla solidarietà (cosa c'entra? woke e basta!) che dopo vivaci scambi di messaggi conclude insultandomi affermando che la mia esperienza umana sarebbe limitata.
+Questo chatbot mi parte con un pippotto sull'etica dell'amore astratto - e Gemini, usato per attaccare l'altro chatbot sull'amore platonico, sulla solidarietà (cosa c'entra? woke e basta!) - che dopo vivaci scambi di messaggi conclude insultandomi affermando che la mia esperienza umana sarebbe limitata.
 
 Tale ammasso di bit che non ha mai calpestato il suolo terrestre o anche solo scaccolato il proprio naso vorrebbe convincere me, essere umano adulto di 50 anni, che la mia esperienza umana è limitata!
 
