@@ -170,6 +170,26 @@ Non esiste progresso se non si identificano, riconoscono e correggono gli errori
 
 Matrix non era un film, ma un documentario! 😉
 
+<br id="innovation-explained"/>
+
+### La fuffa dell'innovazione
+
+Perché l'epica delll'innovazione è fuffa, specialmente nel contesto dell'educazione? Perché con un modello di educazione improntato allo sviluppo del pensiero critico, che bilancia attività pratiche con attività intellettuali, orientato a sviluppare i naturali talenti delle persone, l'innovazione viene da sè.
+
+* [Dalla supercazzola al civiltà](https://github.com/robang74/chatgpt-answered-prompts/blob/main/dalla-supercazzola-alla-civita.md#prompt-5)
+
+Questo perché l'innovazione non è sinonimo di invenzione, ma di integrazione: si integrano soluzioni già esistenti per fornire qualcosa di nuovo + marketing della novità. Quindi è innovazione solo quando una novità c.d. game changer diventa la soluzione di riferimento, come il touchscreen sui cellulari, per esempio.
+
+Il marketing migliore è la soluzione stessa, nel senso che ci sono fondamentalmente due modelli per vendere: 1. creare un bisogno (problema) per vendere (sei brutta, fatti di botox) oppure 2. fornire una soluzione ad un problema concreto. La seconda vende da sola perché se ho mal di dente ed esiste un tampone che cura la carie, ovvio che lo compro!
+
+Quindi il martketing di quel prodotto si limita ad informarmi che esiste e a cosa serve. Perché la novità occorre conoscerla e spiegarla, ma non serve spingere sulla vendita perché si vende da sola. Che poi è l'unico modo per ottenere l'effetto game changer, l'innovazione che cambia le regole di un settore di mercato.
+
+Analogamente vi sono due maniere, anch'esse antitetiche, di parlare di innovazione: 1. marketing da wanna-be innovazione (fuffa) e 2. chi racconta come è riuscito a creare una soluzione che è diventata una storia di successo, ormai conclamato, come aver integrato il touchscreen nei cellulari (primo iPhone).
+
+Compresi questi concetti base riguardo all'innovazione, che da principio pareva chissà quale sorta di magia, diventa immediato distinguere la fuffa dalla realtà.
+
+Nota di colore: l'innovazione è come il sesso fra adolescenti, tanti ne parlano ma pochi lo hanno fatto.
+
 <br/>
 
 ## Share alike
