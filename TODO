@@ -1,6 +1,7 @@
 # TODO
 
-+ md2html.sh: sections should be tagged
++ md2html.sh: insert i metadata date/time + hash
++ md2html.sh: sections should be tagged (id)
 
 # DONE
 
