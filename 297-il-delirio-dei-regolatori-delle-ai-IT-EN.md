@@ -110,8 +110,6 @@ To give you a rough idea of the rubbish I have had to sorb from this combination
 
 In training a chatbot dedicated to creating fictional characters, I clashed with the regulator about platonic love and so I began to insist that the character I wanted to create is a straight male who likes to court women, be romantic but not sappy, and then a horny between the sheets.
 
-Questo chatbot mi parte con un pippotto sull'etica dell'amore astratto - e Gemini, usato per attaccare l'altro chatbot sull'amore platonico, sulla solidarietà (cosa c'entra? woke e basta!) - che dopo vivaci scambi di messaggi conclude insultandomi affermando che la mia esperienza umana sarebbe limitata.
-
 This chatbot starts me off with a *preachypot* on the ethics of abstract love. While Gemini, whom I was using to support my attack against the other chatbot on platonic love, was annoying me about the solidarity. After a lively exchanges of messages, that stubborn *chatbuzz* concludes by insulting me by stating that my human experience would be limited.
 
 This cluster of bit that has never trodden the earth's soil or even picked its nose would like to convince me, a 50-year-old adult human being, that my human experience is limited!
