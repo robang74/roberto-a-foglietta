@@ -16,9 +16,16 @@ function md2htmlfunc() {
     </head>
     <body>
 " >$2
+    if [ "$str" = "index" ]; then
+        sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
+    else
+        cat $1
+    fi >>$2
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
+-e "s,\(\[[^]]*\]([0-9]\{3\}[0-9a-z-]*\)\.md,\\1.html,g" \
+-e "s,\(\[[^]]*\]([0-9]\{3\}[0-9a-z-]*\)\.md,\\1.html,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e "s,^# \(.*\),<H1>\\1</H1>," \
@@ -33,37 +40,42 @@ function md2htmlfunc() {
 -e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
 -e 's,\(\[*\)\[\([^]]*\)\](\([^)]*\)),\1<a href="\3">\2<\/a>,g' \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
--e "s,^ *$,<p/>," -e "s,^---.*,<hr>," $1 | tr '\n' '@' >> $2
+-e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
+
+    tf=$2.tmp
+    cat $2 | tr '\n' '@' >$tf
     while true; do
-        str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $2);
+        str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $tf);
         if [ -n "$str" ]; then
-            sed -e 's,\*\*,<b>,' -e 's,\*\*,</b>,' -i $2
+            sed -e 's,\*\*,<b>,' -e 's,\*\*,</b>,' -i $tf
         else
             break
         fi
     done
     while true; do
-        str=$(sed -ne 's,\*,<i>,' -e 's,\*,</i>,p' $2);
+        str=$(sed -ne 's,\*,<i>,' -e 's,\*,</i>,p' $tf);
         if [ -n "$str" ]; then
-            sed -e 's,\*,<i>,' -e 's,\*,</i>,' -i $2
+            sed -e 's,\*,<i>,' -e 's,\*,</i>,' -i $tf
         else
             break
         fi
     done
     while true; do
-        str=$(sed -ne 's,`,<tt>,' -e 's,`,</tt>,p' $2);
+        str=$(sed -ne 's,`,<tt>,' -e 's,`,</tt>,p' $tf);
         if [ -n "$str" ]; then
-            sed -e 's,`,<tt>,' -e 's,`,</tt>,' -i $2
+            sed -e 's,`,<tt>,' -e 's,`,</tt>,' -i $tf
         else
             break
         fi
     done
     sed -e 's,</blockquote>\(@*\)<blockquote>,<br/>,g' \
-        -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $2
-    str=$(cat $2 | tr '@' '\n')
-    echo "$str
+        -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $tf
+    cat $tf | tr '@' '\n' >$2
+    rm  $tf
+
+    echo "
     </body>
-</html>" > $2
+</html>" >> $2
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 }
 
