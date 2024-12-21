@@ -2,7 +2,7 @@
 
 <div align="center"><img src="img/293-il-grande-inganno-della-diversita-img-001.jpg"><br/></div>
 
-## IL GRANDE INGANNO DELLA DIVERSITÀ
+## Il grande inganno della diversità
 
 * Published Nov 3, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/il-grande-inganno-della-diversit%C3%A0-roberto-a-foglietta-hctbf) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/293-il-grande-inganno-della-diversita.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/293-il-grande-inganno-della-diversita.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/293-il-grande-inganno-della-diversita.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/293-il-grande-inganno-della-diversita.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 

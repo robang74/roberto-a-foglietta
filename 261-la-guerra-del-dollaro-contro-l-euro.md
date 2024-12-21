@@ -6,8 +6,7 @@
 
 * Published May 18, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 
-Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM?trk=article-ssr-frontend-pulse_little-text-block), pubblicato il 18
-maggio 2024.
+Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM), pubblicato il 18 maggio 2024.
 
 ### Premessa
 
@@ -144,23 +143,21 @@ Invece quel punto è stato completamente saltato. Eppure non è proprio irrileva
 
 Quando invece la gente muore, è un'altra storia. O dovrebbe esserlo.
 
-Perchè gli americani dimenticano sempre questo punto? Perché nella loro cultura non c'è quel gran apprezzamento per la vita, in generale proprio - altrimenti avrebbero il sistema sanitario
-pubblico #1 al mondo e anche un sistema scolastico e pensionistico #1 al mondo - e poi in particolare perché coloro che vivono fuori dagli USA sono gente di serie B.
+Perchè gli americani dimenticano sempre questo punto? Perché nella loro cultura non c'è quel gran apprezzamento per la vita, in generale proprio - altrimenti avrebbero il sistema sanitario pubblico #1 al mondo e anche un sistema scolastico e pensionistico #1 al mondo - e poi in particolare perché coloro che vivono fuori dagli USA sono gente di serie B.
 
-É curioso che un meme, più umoristico che sarcastico, riesca a dire così tanto di una cultura e di una percezione. Però questa è la potenza comunicativa dei meme. Invece leggersi la dottrina
-Wolfowitz in vigore in politica estera dal 1992 è roba per eruditi.
+É curioso che un meme, più umoristico che sarcastico, riesca a dire così tanto di una cultura e di una percezione. Però questa è la potenza comunicativa dei meme. Invece leggersi la dottrina Wolfowitz in vigore in politica estera dal 1992 è roba per eruditi.
 
 <br/>
 
 ## Articoli correlati
 
-- **22.02.2022** - origin [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta?trk=article-ssr-frontend-pulse_little-text-block) (22 Feb 2022)
+- **22.02.2022** - origin [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) (22 Feb 2022)
 
-- **The Russia's advantage** - origin [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta/) (5 Nov 2017)
+- **The Russia's advantage** - origin [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) (5 Nov 2017)
 
-- **L'opinione dello Zar** - origin [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (2 Jan 2017)
+- **L'opinione dello Zar** - origin [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) (2 Jan 2017)
 
-- **Opinions, data and method** - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta/?trk=article-ssr-frontend-pulse_little-text-block) (3 Sep 2016)
+- **Opinions, data and method** - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (3 Sep 2016)
 
 <br/>
 

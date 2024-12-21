@@ -4,6 +4,8 @@
 #
 for f in "$@"; do
 
+    echo "$f" | grep -qe "template.md$" -e "README.md$" && continue
+
     if [ -f $f.bak ]; then
         echo "> ERROR  : $f.bak exists, skipped."
         echo

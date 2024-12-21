@@ -2,7 +2,7 @@
 
 <div align="center"><img src="img/295-il-cambiamento-climatico-questo-sconosciuto-img-001.jpg"><br/></div>
 
-## IL CAMBIAMENTO CLIMATICO QUESTO SCONOSCIUTO
+## Il cambiamento climatico questo sconosciuto
 
 * Published Dec 14, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/il-cambiamento-climatico-questo-sconosciuto-roberto-a-foglietta-06ccf) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 

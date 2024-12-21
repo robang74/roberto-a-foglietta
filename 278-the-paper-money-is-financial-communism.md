@@ -204,7 +204,7 @@ Lately, in the post U.S. civil war era, the symbolism clearly evolves towards a 
 
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md) (2024-05-18)
 
-- Steve Jobs era un socialista - origin [LinkedIn](https://www.linkedin.com/pulse/steve-jobs-era-un-socialista-roberto-a-foglietta-hhrif?trk=article-ssr-frontend-pulse_little-text-block) (2024-04-27)
+- Steve Jobs era un socialista - origin [LinkedIn](https://www.linkedin.com/pulse/steve-jobs-era-un-socialista-roberto-a-foglietta-hhrif) (2024-04-27)
 
 - Proprietà Privata vs Social Score - origin [LinkedIn](https://it.linkedin.com/pulse/propriet%C3%A0-privata-vs-social-score-roberto-a-foglietta-uknuf) (2024-04-14)
 

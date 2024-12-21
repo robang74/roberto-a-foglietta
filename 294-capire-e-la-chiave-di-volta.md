@@ -21,8 +21,7 @@ Il paper, che trovate linkato in fondo all'articolo, parla del sogno italiano di
 
 A volte pensiamo che sia l'informazione che ci dà un vantaggio asimmetrico tipo: "*io so e tu non puoi competere con questo*". Ma questa è una beata balla, l'informazione è importante, saperla gestire correttamente è importante, padroneggiare il metodo (scientifico) è fondamentale ma la chiave di volta è sempre "*capire*".
 
-Il termine "*capire*" è un verbo, non un oggetto o un atto. Spesso viene immaginato con la lampadina che si accende **MA** quello è solo un momento particolare del capire e talvolta è pure errato. Perchè magari si accende la lampadina ma abbiamo capito "*un caxxo*". Questa, infatti è la parte più difficile ed è qui che si rivela la fondamentale importanza del metodo scientifico: l'intuizione può anche sbagliare,
-come la prima impressione.
+Il termine "*capire*" è un verbo, non un oggetto o un atto. Spesso viene immaginato con la lampadina che si accende **MA** quello è solo un momento particolare del capire e talvolta è pure errato. Perchè magari si accende la lampadina ma abbiamo capito "*un caxxo*". Questa, infatti è la parte più difficile ed è qui che si rivela la fondamentale importanza del metodo scientifico: l'intuizione può anche sbagliare, come la prima impressione.
 
 Il termine "*capire*" è molto simile a "*carpire*" e infatti la sua origine (etimologia) viene dal latino volgare "*capĕre*" che significava "*prendere*". Questo ci spiega perché sia così facile confondere l'intelligenza che "*capisce*" le cose dalla furbizia che "*carpisce*" le cose.
 
@@ -98,8 +97,7 @@ La prossima sezione di questo articolo proverà a dare una risposta concreta a q
 
 ### L'Euro che svalutò
 
-Quando c'era la Lira si stava meglio, perché la Lira inflazionava, quindi perdeva progressivamente valore d'acquisto, quindi era più facile ripagare il debito pubblico,
-quindi era più facile aumentare il debito pubblico, quindi i partiti potevano distribuire più prebende e alla fine pareva un mondo perfetto quello in cui le chiacchiere distribuivano i soldi e le tasse le pagavano solo gli operai.
+Quando c'era la Lira si stava meglio, perché la Lira inflazionava, quindi perdeva progressivamente valore d'acquisto, quindi era più facile ripagare il debito pubblico, quindi era più facile aumentare il debito pubblico, quindi i partiti potevano distribuire più prebende e alla fine pareva un mondo perfetto quello in cui le chiacchiere distribuivano i soldi e le tasse le pagavano solo gli operai.
 
 Poi entrò nel WTO - l'organizzazione globale del commercio - con il suo marchio CE che significa "China Export" ed praticamente identico al marchio CE che significa "Conformità Europea" a meno di uno spazio in mezzo. Fateci caso, sono diversi per uno spazio in mezzo.
 
@@ -131,8 +129,7 @@ La parola candidata per diventare l'estrema sintesi della società degli ultimi 
 
 > Within the sociology of knowledge, agnotology (formerly agnatology) is the study of deliberate, culturally induced ignorance or doubt, typically to sell a product, influence opinion, or win favour, particularly through the publication of inaccurate or misleading scientific data (disinformation). - [Wikipedia](https://en.wikipedia.org/wiki/Agnotology), 1992
 
-Qualcosa che però non sembra essere così recente ma che va assai indietro nel
-tempo:
+Qualcosa che però non sembra essere così recente ma che va assai indietro nel tempo:
 
 > There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), 1980
 
