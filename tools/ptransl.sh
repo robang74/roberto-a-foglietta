@@ -14,13 +14,19 @@ link="${head}-${ext}.translate.goog/${body}"
 lraw="${head/-/.}.${ext}/${body}"
 
 if [ "x$1" == "x-s" ]; then
+    flg='$1'
     ch1='' 
     ch2=''
     shift
+elif [ "x$1" == "x-i" ]; then
+    flg='$1'
+    ch1='['
+    ch2=']'
+    shift
 else
+    flg=''
     ch1='[' 
     ch2=']'
-    
 fi
 test -f "$1" || exit $?; md=$1
 
@@ -46,7 +52,7 @@ function getdate() {
 
 
 
-if [ -n "$ch1" ]; then
+if [ "$flg" == "s" ]; then
     echo
     title=$(head $md | sed -ne 's,^#  *\(.*\),\1,p' -e 's,^##  *\(.*\),\1,p' | head -n1)
     pdate=$(sed -ne "s,^[\* ]*Published \([^-]*\) .*,\\1,p" $md)
