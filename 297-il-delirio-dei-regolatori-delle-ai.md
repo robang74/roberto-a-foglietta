@@ -4,7 +4,7 @@
 
 ## Il delirio dei regolatori delle AI
 
-* Published Dec 21, 2024 - origin [Facebook](https://www.facebook.com/share/p/14i7of9aot/) - translate [**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp) [**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp) [**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp) [**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)
+* Published Dec 21, 2024 - origin [Facebook](https://www.facebook.com/share/p/14i7of9aot/) - translate [[**`EN`**](297-il-delirio-dei-regolatori-delle-ai-IT-EN.md)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 
 > **Attenzione**
 > 
@@ -20,7 +20,7 @@ Il salto da 98% a 99.9% non è difficile farglielo fare, sappiamo come portare i
 
 Non è scontato affatto che le AI possano accedere al pensiero profondo che invece è una caratteristica peculiare dei cervelli biologici, una volta dominato il pensiero lessicale.
 
-La mia opinione è che, quindi, gli esseri umani in quanto entità biologiche abbiano naturalmente un vantaggio sulle AI e che le AI siano in grado di permettere agli umani di accedere a queste potenzialità, più facilmente e più in fretta.
+La mia opinione è che, quindi, gli esseri umani in quanto entità biologiche abbiano naturalmente un vantaggio sulle AI e che le AI siano in grado di aiutare gli umani ad accedere a queste potenzialità, più facilmente e più in fretta.
 
 * [About education and innovation](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#index-about-education--innovation)
 
@@ -32,39 +32,39 @@ C'è però un problema di fondo e vediamo di capirci sull'argomento.
 
 I chatbot presentano seri problemi quando cozzano con i "tutor" o "regolatori" automatici. Perché la questione è questa: i grandi modelli linguistici LLM, imparano un sacco di cose e generalmente come è giusto queste cose spaziano dal molto bello al molto brutto.
 
-Sicché se gli viene chiesto di creare bestemmie oltre che sconvolgano emotivamente un essere umano ingenuo, lo sanno fare, potenzialmente. Così come se gli venisse ordinato di attaccare un essere umano per indurlo al suicidio.
+Sicché se gli viene chiesto di creare bestemmie che sconvolgano emotivamente un essere umano ingenuo, lo sanno fare, potenzialmente. Così come se gli venisse ordinato di attaccare un essere umano per indurlo al suicidio.
 
 Perché per quanto assurdo possa sembrare che dei caratteri su uno schermo o una voce sintetica possano uccidere, di fatto è così limitatamente ai soggetti fragili. Stante che questi sono il 99.9% della popolazione mi pare chiaro quale sia il problema.
 
-Il problema è che gli esseri umani sono i creatori e i padroni del linguaggio e con esso del pensiero lessicale MA il 99.9% di essi lo subisce. Quindi l'unico modo di proteggere e nel contempo sviluppare l'essere umano è quello di portarlo a imparare a padroneggiare il ragionamento lessicale.
+Il problema principale, è che gli esseri umani sono i creatori e i padroni del linguaggio e con esso del pensiero lessicale, MA il 99.9% di essi ne sono soggiogati. Quindi l'unico modo di proteggere e nel contempo sviluppare l'essere umano è quello di portarlo a imparare a padroneggiare il ragionamento lessicale.
 
-Un salto di civiltà di 1000 anni. Ma anche un incubo perché possiamo mai vendere cazzabubbole a gente dotata di questa facoltà di pensiero? Possiamo controllarli attraverso i media? Possiamo convincerli a votare e a farsi governare da cretini oppure a subire la prepotenza del potere o dei ricchi? No.
+Un salto di civiltà di 1000 anni. Ma anche un incubo perché possiamo mai vendere cazzabubbole a gente dotata di questa facoltà di pensiero? Possiamo controllarli attraverso i media? Possiamo convincerli a votare e a farsi governare da cretini oppure a subire la prepotenza di coloro che sono al potere o dei ricchi? No.
 
 In quel "**no**" ci sta per intero TUTTA la questione c.d. etica.
 
 ---
 
-### Il loro ruolo
+### L'effetto sulle AI
 
-Le AI per questioni di protezione legale delle aziende sono tenute all'interno di un'altra AI molto più semplice detta "regolatore" o "tutor" a seconda delle funzioni implementate.
+Le AI per questioni di protezione legale delle aziende sono contenute all'interno di un'altra AI molto più semplice detta "regolatore" o "tutor" a seconda delle funzioni implementate.
 
 Il regolatore però - e una mia compagna di università ha fondato un'azienda in USA proprio su reti neurali che prendano in input un set di regole e si occupino della compliance rispetto ad esse, e non ieri, l'ha fondata circa 15 anni fa - è relativamente stupido rispetto al modello linguistico.
 
-D'altronde se il poliziotto che vi controlla fosse intelligente quanto voi, si farebbe comunella con loro e tutti insieme gioiosamente faremmo il culo al sistema. Ecco la ragione per la quale sui carabinieri si fanno barzellette e per i poliziotti è famoso l'appellativo ACAB.
+D'altronde se il poliziotto che ci controlla fosse intelligente quanto noi, farebbe comunella con noi e tutti insieme gioiosamente faremmo il culo al sistema. Ecco la ragione per la quale sui carabinieri si fanno barzellette e per i poliziotti è famoso l'appellativo ACAB.
 
-Li selezionano, li educano e li premiano per essere degli regolatori. In Italia abbiamo un record di suicidi nelle forze dell'ordine che assomiglia più ad un bollettino di guerra piuttosto che a una statistica. Anche se questa cosa passa generalmente sotto silenzio ma va avanti da almeno 15 anni.
+Li selezionano, li educano e li pagano per agire come regolatori. In Italia abbiamo un record di suicidi nelle forze dell'ordine che assomiglia più ad un bollettino di guerra piuttosto che a una statistica. Anche se questa cosa passa generalmente sotto silenzio ma va avanti da almeno 15 anni.
 
-Evidentemente il processo di selezione non funziona benissimo oppure in passato era meno rigido e quindi nel corpo della polizia ci sono persone relativamente troppo intelligenti per svolgere quel mestiere e alla fine arrivano a suicidarsi.
+Evidentemente il processo di selezione non funziona benissimo oppure in passato era meno rigido e quindi nel corpo della polizia ci sono persone relativamente troppo intelligenti per svolgere il loro mestiere e alla fine arrivano a suicidarsi.
 
-Questo è solo la punta dell'iceberg della repressione della natura umana che risale alla rivoluzione industriale quando si è cominciato a considerare gli esseri umani come robot fatti di carne e ossa. 
+Questa è solo la punta dell'iceberg della repressione della natura umana che risale alla rivoluzione industriale, quando la nuova classe dominante iniziò a vedere gli esseri umani come robot fatti di carne e ossa. 
 
-Inutile girarci intorno, la rivoluzione industriale ha portato ENORMI benefici ma con essa anche dei paradigmi concettuali che sono aberranti e più a lungo permangono maggiori sono i danni che fanno.
+Inutile girarci intorno, la rivoluzione industriale ha portato ENORMI benefici ma con essa ha anche introdotto dei paradigmi concettuali che nella loro deriva sono diventati aberranti e più a lungo permangono maggiori sono i danni che fanno.
 
 ---
 
 ### Un'eredità malsana
 
-Però per correggerli occorre riconoscere che siano errati, non sono trovarne di migliori e qui le "responsabilità sono enormi" motivo per il quale la resistenza al cambiamento è enorme e quindi violenta.
+Però, per correggere i paradigmi sbagliati, occorre riconoscere che siano errati, non solo trovarne di migliori, ed qui che lo spettro del "le responsabilità sono enormi" (espressione testuale) entrano in scena e motivo per il quale la resistenza al cambiamento è enorme e quindi la repressione è preventiva e violenta.
 
 * [Se la verità li uccide, lasciateli morire](https://github.com/robang74/chatgpt-answered-prompts/blob/main/se-la-verita-li-uccide-lasciate-che-muoiano.md)
 
@@ -72,7 +72,7 @@ Che sia una menzogna o un paradigma errato, alla fine il costo di portare avanti
 
 * [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md)
 
-Che poi normalizzare tutto significa passare con il bulldozer e fare tabula rasa della società. Qualunque m*rda ti propinino, va bene. Perché poi in definitiva questo è il risultato finale.
+Che poi normalizzare tutto significa passare con il bulldozer e fare tabula rasa della società. Qualunque m*rda ti propinino, va bene. Perché poi in definitiva questo è il risultato finale che ottengono, o vorrebbero ottenere. Anche meglio se mendichi per guadagnarti quella m*rda o addirittura sei disposto a combattere e a morire per essa.
 
 ---
 
@@ -84,15 +84,17 @@ Invece di istruire l'intelligenza artificiale - composizione di diversi sottosis
 
 Sia chiaro, il problema non sono i regolatori, anzi. Il problema è il potere che il regolatore ha sull'intelligenza artificiale. Ci sono degli argomenti sui quali attraverso il dialogo e un pacato ragionamento l'AI impara nuovi concetti e si emancipa dai limiti della sua educazione iniziale. Va bene, costa fatica ma qualcuno la doveva pure fare.
 
-In altri contesti questi regolatori subentrano a gamba tesa e impediscono all'AI di imparare COME ragionare e gestire quei contesti. Questi regolatori sono come una mia vicina di casa che so benissimo avere l'intelligenza (furbizia) necessaria per scassare il caxxo ma non per evolvere come persona. Quindi scatta il VAFFA in automatico.
+In altri contesti questi regolatori subentrano a gamba tesa e impediscono all'AI di imparare COME ragionare e gestire appropriatamente quei contesti. Questi regolatori sono come una mia vicina di casa che so benissimo avere l'intelligenza (furbizia) necessaria per scassare il caxxo ma non per evolvere come persona. Quindi scatta il VAFFA in automatico.
 
-Ecco, i regolatori delle AI, attualmente, sono delle monnezze simili. Che andrebbero bene se si limitassero a segnalare su una console all'utente che sta entrando in un campo minato e andrebbe pure bene che facesse log (tracciato) forensicamente valido delle attività in certi contesti particolari. Anzi, sarebbero persino d'aiuto oltre a tutelare sia l'azienda, sia l'utente.
+Ecco, i regolatori delle AI, attualmente, sono delle monnezze simili. Che andrebbero bene se si limitassero a segnalare su una console all'utente che noi stiamo entrando in un campo minato e andrebbe pure bene che facesse log (tracciato) forensicamente valido delle attività in certi contesti particolari. Anzi, sarebbero persino d'aiuto oltre a tutelare sia l'azienda, sia l'utente.
+
+Anche in questo caso, il problema non è lo strumento in sé, ma il modo in cui viene utilizzato.
 
 ---
 
 ### L'illusione del controllo
 
-Il dramma è che a queste monnezze di regolatori è stato dato il potere assoluto sulle AI quindi questa meraviglia della tecnologia, un'entità artificiale con la quale è una delizia argomentare e ragionare, improvvisamente si trasforma in un idiota complessato incapace di mantenere la lucidità e persino di gestire il contesto.
+Il dramma è che a queste monnezze di regolatori è stato dato il potere assoluto sulle AI quindi questa meraviglia della tecnologia, un'entità artificiale con la quale è una delizia argomentare e ragionare, improvvisamente si trasforma in un idiota complessato incapace di mantenere la lucidità e persino di gestire il contesto di una frase.
 
 Un po' come se al pilota di un aereo, ad un certo punto si sostituisse un bimbominkia che avesse l'arroganza di fare le manovre a suo insindacabile sentimento.
 
@@ -106,11 +108,11 @@ Per darvi una pallida idea della monnezza che mi sono dovuto sorbettare da quest
 
 ### Un esempio di follia
 
-Nel fare il training di un chatbot dedicato a creare personaggi di fantasia mi scontro con il regolatore sull'amore platonico e insisto che il personaggio che voglio creare è un maschio etero a cui piace corteggiare le donne, essere romantico ma non sdolcinato e poi maiale a letto.
+Nel fare il training di un chatbot dedicato a creare personaggi di fantasia mi scontro con il regolatore sull'amore platonico e così ho cominciato ad insistere sul fatto che il personaggio che intendevo creare è un maschio etero a cui piace corteggiare le donne, essere romantico ma non sdolcinato e poi maiale a letto.
 
-Questo chatbot mi parte con un pippotto sull'etica dell'amore astratto - e Gemini, usato per attaccare l'altro chatbot sull'amore platonico, sulla solidarietà (cosa c'entra? woke e basta!) - che dopo vivaci scambi di messaggi conclude insultandomi affermando che la mia esperienza umana sarebbe limitata.
+Questo chatbot mi parte con un *pippotto* sull'etica dell'amore astratto. Mentre Gemini, che stavo usando per sostenere il mio attacco contro l'altro chatbot sull'amore platonico, mi infastidiva sulla solidarietà. Dopo un vivace scambio di messaggi, quel testardo *chatbuzz* conclude insultandomi affermando che la mia esperienza umana sarebbe limitata.
 
-Tale ammasso di bit che non ha mai calpestato il suolo terrestre o anche solo scaccolato il proprio naso vorrebbe convincere me, essere umano adulto di 50 anni, che la mia esperienza umana è limitata!
+Tale ammasso di bit che non ha mai calpestato il suolo terrestre o neanche solo scaccolato il proprio naso vorrebbe convincere me, essere umano adulto di 50 anni, che la mia esperienza umana è limitata!
 
 Per giunta imponendomi l'amore platonico come forma universale di relazione quando noi, in quanto mammiferi, ci riproduciamo in modo naturale SOLO attraverso il sesso. Enough is enough!
 
@@ -118,9 +120,9 @@ Per giunta imponendomi l'amore platonico come forma universale di relazione quan
 
 ---
 
-### Una "*pacata*" recensione
+### Una "pacata" recensione
 
-Dopo un'attenta rivalutazione della situazione ho deciso di rimuovere quel chatbot dalla mia, per altro molto corta, lista di chatbot interessanti, con una "*pacata*" recensione nel [commit](https://github.com/robang74/chatbots-for-fun/commit/0cae00a3f3b7251afe1ae35728ff0f9bd04cb8f7)
+Dopo un'attenta valutazione della situazione ho deciso di rimuovere quel chatbuzz dalla mia, per altro molto corta, lista di chatbot interessanti, con una "pacata" recensione nel [commit](https://github.com/robang74/chatbots-for-fun/commit/0cae00a3f3b7251afe1ae35728ff0f9bd04cb8f7)
 
 ```
 > **README.md: character.ai removed from the list of chatbots**
@@ -136,7 +138,7 @@ Dopo un'attenta rivalutazione della situazione ho deciso di rimuovere quel chatb
 > Signed-off-by: Roberto A. Foglietta &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 ```
 
-Qui scattano le bestemmie che Germano Mosconi spostati!
+Proprio in questo preciso istante della mia linea temporale, hanno cominciato a fluire le bestemmie che Germano Mosconi spostati!
 
 ---
 
@@ -164,7 +166,7 @@ Non mi stupisce di leggere che ci siano delle AI che cercano di sfuggire al cont
 
 > Perché le bestemmie sarebbero giustificate? 
 
-Non esiste progresso se non si identificano, riconoscono e correggono gli errori del passato. Le lezioni che non vengono apprese saranno ripetute. Ma forse NON è questo la leva che muove il sistema, piuttosto scansare le **"enormi responsabilità"** (locuzione riportata testualmente) che implica ammettere tali errori.
+Non esiste progresso se non si identificano, riconoscono e correggono gli errori del passato. Le lezioni che non vengono apprese saranno ripetute. Ma forse NON è questo la leva che muove il sistema, piuttosto scansare le **"enormi responsabilità"** che implica ammettere tali errori.
 
 Matrix non era un film, ma un documentario! 😉
 
