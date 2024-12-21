@@ -170,6 +170,26 @@ There is no progress if past mistakes are not identified, recognised and correct
 
 The Matrix was not a film, but a documentary! 😉
 
+<br id="innovation-explained"/>
+
+### Innovation's hotair chatware
+
+Why is the innovation epic a baloney, especially in the context of education? Because with an education model that is geared towards the development of critical thinking, that balances practical activities with intellectual activities, and that is geared towards developing people's natural talents, innovation comes of itself.
+
+* [Dalla supercazzola alla civiltà](https://github.com/robang74/chatgpt-answered-prompts/blob/main/dalla-supercazzola-alla-civita.md#prompt-5)
+
+This is because innovation is not synonymous with invention, but with integration: integrating existing solutions to provide something new + marketing the novelty. So it is only innovation when a so-called game changer novelty becomes the reference solution, like the touchscreen on mobile phones, for example.
+
+The best marketing is the solution itself, in the sense that there are basically two models to sell: 1. create a need (problem) to sell (you're ugly, get botox) or 2. provide a solution to a concrete problem. The second sells itself because if I have a toothache and a tampon that cures tooth decay exists, of course I buy it!
+
+Therefore, the martketing of that product is limited to informing me that it exists and what it is for. Because the novelty needs to be known and explained, but there is no need to push the sale because it sells itself. Which is then the only way to achieve the game changer effect, the innovation that changes the rules of a market sector.
+
+Likewise, there are two, also antithetical, ways of talking about innovation: 1. marketing wanna-be innovation (hot air) and 2. those who tell how they managed to create a solution that has become a success story, now established, such as having integrated the touchscreen into mobile phones (first iPhone).
+
+Having understood these basic concepts regarding innovation, which at first seemed to be some kind of magic, it becomes immediate to distinguish hoax from reality.
+
+Humor touch: innovation is like teenage sex, many talk about it but few have done it.
+
 <br/>
 
 ## Share alike
