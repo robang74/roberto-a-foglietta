@@ -2,6 +2,7 @@
 #
 # (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
+
 for f in "$@"; do
 
     echo "$f" | grep -qe "template.md$" -e "README.md$" && continue
@@ -12,7 +13,7 @@ for f in "$@"; do
         continue
     fi
     cp -a $f $f.bak
-    echo "> INFO   : $f.bak created"
+    echo "> INFO   : back-up in $f.bak"
 
     sed -e 's,\(^##*\) *\(.\)\(.*\),\1 \2\L\3\E,' -i $f
     sed -e 's,?trk=article-ssr-frontend-pulse_little-text-block),),' -i $f
@@ -44,7 +45,9 @@ for f in "$@"; do
         n=$(grep --color=never -n "translate \[.*\]" $f | cut -d: -f1)
         { head -n$[n-1] $f; echo "$line"; tail -n$[m-n] $f; } >$f.tmp
         mv -f $f.tmp $f
-        echo "DONE   : $f"
-        echo
+        if ! echo "$0" | grep -q "rafconv.sh"; then
+            echo "> DONE   : $f"
+            echo
+        fi
     fi
 done

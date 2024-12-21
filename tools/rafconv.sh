@@ -1,6 +1,12 @@
 #!/bin/bash -e
 
+dwnload=0
 mdtempl="template.md"
+
+if [ "x$1" == "x-d" ]; then
+    dwnload=1
+    shift
+fi
 
 f="$1"
 test -r "$f" || exit 1
@@ -44,15 +50,16 @@ tac $f.tmp | head -n$fl | tac | head -n$[fl-el] >> $f
 tail -8 $mdtempl >> $f
 
 rm -f $f.tmp
-sed -e "s,\([^\[(]\)\(lnkd.in/[^ ]\{8\}\),\\1[\\2](\\2),g"
+sed -e "s,\([^\[(]\)\(lnkd.in/[^ ]\{8\}\),\\1[\\2](\\2),g" \
     -e "s,^### *.*,---\n\n&," -i $f
 
 ################################################################################
 
 cmd1="tools/format.sh"
-cmd2="$(basename $0)/format.sh"
+cmd2="$(dirname $0)/format.sh"
 for cmd in ${cmd2} ${cmd2}; do
     if [ -r "$cmd" ]; then
+        echo "> INFO   : formatting markdown..."
         source "$cmd" $f
         break
     fi
@@ -69,7 +76,7 @@ hifn="${f%.md}-img"
 declare -i n=1
 for i in $list; do
     ifn=${hifn}-$(printf "%03d" $n).${i##*.}
-    if false; then
+    if [ $dwnload -eq 1 ]; then
         echo "> INFO   : downloading img/$ifn ..."
         if which wget >/dev/null; then
             wget -q "$i" -O img/$ifn
@@ -81,3 +88,5 @@ for i in $list; do
     let n++
 done
 echo "> DONE."
+echo
+
