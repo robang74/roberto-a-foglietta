@@ -17,6 +17,8 @@ function md2htmlfunc() {
     <body>
 " >$2
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
+-e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
+-e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e "s,^# \(.*\),<H1>\\1</H1>," \
