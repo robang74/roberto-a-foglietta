@@ -10,7 +10,7 @@
 
 ### Edizione II
 
-Questa versione dell'articolo del **2024-12-22** è il risultato di una sua revisione in cui sia l'impostazione generale, sia i concetti espressi nell'articolo originale sono rimasti invariati. Le novità riguardano l'aggiunta della citazione di Besoz e il concetto di costo affondato (sunk cost). In questa nuova versione si è cercato di agevolare la comprensione rendendo più espliciti i concetti e in alcuni casi dettagliandoli maggiormente.<br id="leveraging-chatbot" />
+Questa versione dell'articolo del **2024-12-22** è il risultato di una revisione in cui sia l'impostazione generale, sia i concetti espressi nella prima stesura sono rimasti invariati. In questa nuova versione si è cercato di facilitare la comprensione rendendo più espliciti i concetti e in alcuni casi dettagliandoli maggiormente. In termini concettuali, invece, le novità riguardano l'aggiunta di proverbi e citazioni, fra le quali due famose riferite a Jeff Besoz e di Rita Mae Brown, e all'introduzione funzionale al costo affondato (sunk cost). <br id="leveraging-chatbot" />
 
 In questa revisione del testo originale mi sono fatto [aiutare](https://github.com/robang74/chatbots-for-fun/blob/main/leveraging-a-chatbot-for-human-writing.md) dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
 
@@ -38,7 +38,7 @@ In questa revisione del testo originale mi sono fatto [aiutare](https://github.c
 
 > Il Total Cost of Mistake Ownership è il costo totale della perseveranza di un errore. 
 
-Questa è una quantità cumulativa nel tempo, simile all'interesse composto su un debito non pagato. La [menzogna](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta/) e la [furbizia](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta/) seguono un andamento analogo: facili da ottenere, difficili da restituire.
+Questa è una quantità cumulativa nel tempo, simile all'interesse composto su un debito non pagato. La menzogna e la furbizia seguono un andamento analogo: facili da ottenere, difficili da restituire.
 
 ---
 
@@ -118,6 +118,10 @@ La quasi totalità della nostra evoluzione si basa sul picchiare ripetutamente l
 
 Sotto il punto di vista antropologico il concetto dello TCMO evade tutte le micro-strategie (o tattiche contestuali, se si preferisce fare un distinguo fra strategia e tattica in termini di risultato di lungo periodo) che abbiamo sviluppato come frutto della nostra evoluzione.
 
+> Follia è ripetere la stessa identica cosa ed aspettarsi di ottenere un risultato diverso.
+
+Questa citazione, spesso erroneamente attribuita ad Albert Einstein, si ritrova nel romanzo intitolato "Sudden Death" della scrittrice americana Rita Mae Brown pubblicato nel 1984. Curiosamente, si ritiene che l'autrice nel riportare quel concetto l'abbia tratto da dei documenti datati 1981 di Narcotici Anonimi, un'associazione internazionale che sul modello di Alcolisti Anonimi aiuta le persone a superare la dipendenza da sostanze stupefacenti, all'epoca principalmente eroina ed altri oppiacei.
+
 #### Perché questo concetto sta diventando predominante? 
 
 * Perché in un economia globale e su un pianeta sferico con risorse finite, gli altri siamo noi. Karma.
@@ -191,6 +195,8 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 ## Related articles
 
 * [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.html) (2024-12-14)
+
+* Paradosso di Fermi e Singolarità A.I. - origin [LinkedIn](https://www.linkedin.com/pulse/paradosso-di-fermi-e-singolarit%C3%A0-ai-roberto-a-foglietta) (2017-10-16)
 
 * Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
