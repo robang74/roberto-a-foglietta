@@ -190,6 +190,8 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 ## Related articles
 
+* [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.html) (2024-12-14)
+
 * Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
 * Mediocracy - origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta) (2017-04-26)
