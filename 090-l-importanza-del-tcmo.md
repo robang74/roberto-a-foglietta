@@ -8,57 +8,113 @@
 
 ---
 
+### Edizione II
+
+Questa versione dell'articolo del **2024-12-22** è il risultato di una sua revisione in cui sia l'impostazione generale, sia i concetti espressi nell'articolo originale sono rimasti invariati. Le novità riguardano l'aggiunta della citazione di Besoz e il concetto di costo affondato (sunk cost). In questa nuova versione si è cercato di agevolare la comprensione rendendo più espliciti i concetti e in alcuni casi dettagliandoli maggiormente.
+
+In questa revisione del testo originale mi sono fatto aiutare dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
+
+---
+
+### Introduzione
+
+* a cura di ChatGPT
+
+*Il concetto di TCMO *(Total Cost of Mistake Ownership)* presentato nel testo appare estremamente importante per comprendere gli effetti cumulativi degli errori e la loro rilevanza su scala globale, specialmente in un contesto di risorse finite e sistemi sempre più interconnessi. Il TCMO enfatizza l'urgenza di affrontare gli errori in modo proattivo, invece di lasciare che si accumulino fino a diventare insostenibili.*
+
+*L'idea di trattare l'errore come un "debito composto" che cresce esponenzialmente è potente. Rende il TCMO applicabile a diversi ambiti, dalla gestione ambientale all'economia, fino alla sociologia e all'etica. Il legame con concetti antropologici ed evolutivi, come il pensiero lineare e la resistenza al cambiamento, lo radica in una spiegazione convincente delle sfide umane nel gestire fenomeni cumulativi.*
+
+*Gran parte delle attività umane primitive si basavano su azioni ripetitive. Il pensiero profondo e la capacità di azioni incisive sono fenomeni emergenti della modernità. Questa persistenza è un retaggio che spesso ci porta a "sbattere la testa" su un problema anziché risolverlo in modo strategico.*
+
+*In un'economia globale con risorse finite, gli altri siamo noi. Inquinare un fiume per risparmiare su un impianto di depurazione scarica il TCMO sull'ambiente e sulla collettività. Tuttavia, una volta superata la capacità di resilienza ambientale, gli effetti cumulativi diventano esponenziali e difficili da gestire.*
+
+*Il testo offre una spiegazione dettagliata del concetto e lo arricchisce con esempi concreti (inquinamento, globalizzazione) e considerazioni teoriche (logaritmi, probabilità).* 
+
+*Nella sua seconda edizione, il testo non solo approfondisce l'analisi delle dinamiche antropologiche ed evolutive alla base del concetto di TMCO, ma amplia il suo campo di applicazione, rendendolo più accessibile e collegandolo con temi attuali di economia globale e sostenibilità ambientale.
+
+---
+
 ### Definizione
 
 > Il Total Cost of Mistake Ownership è il costo totale della perseveranza di un errore. 
 
-Questa è una quantità cumulativa nel tempo, simile all'interesse composto su un debito non pagato. La [menzogna](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta/) e la [furbizia](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta/) hanno un andamento analogo: facili da ottenere, difficili da restituire.
+Questa è una quantità cumulativa nel tempo, simile all'interesse composto su un debito non pagato. La [menzogna](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta/) e la [furbizia](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta/) seguono un andamento analogo: facili da ottenere, difficili da restituire.
 
 ---
 
 ### I presupposti antropocentrici contro il TCMO
 
-Ci sono diversi importanti motivi per i quali, nonostante tutto, la persistenza di un errore sia una strategia così comune. Vediamo qui di seguito.
+Ci sono diversi importanti motivi per i quali, nonostante tutto, la persistenza di un errore sia un fenomeno così comune e ricorrente sia in termini di società, sia in termini di singolo individuo.
 
 #### L'educazione scolastica
 
 * L'errore è punito e non ammettiamo facilmente gli sbagli.
 
-Non siamo abituati ad ammettere l'errore perché a scuola ci insegnano che l'errore si penalizza mentre il corrispettivo religioso, il peccato, ci condanna e non va meglio con la legge che impone sanzioni di varia natura: l'errore è punito. Può sembrare inconcepibile fare altrimenti ma in Olanda sono riusciti a far diventare le carceri quasi inutili.
+Non siamo abituati ad ammettere l'errore perché a scuola ci insegnano che l'errore si penalizza. Anche il corrispettivo religioso, il peccato, ci condanna, e non va meglio con la legge, che impone sanzioni. Può sembrare inconcepibile fare altrimenti, ma in Olanda sono riusciti a far diventare le carceri quasi inutili.
 
 #### Istinto opportunista
 
 * Ottimizzazione del risparmio energetico che influenza comportamenti sociali.
 
-Biologicamente siamo opportunisti sia in termini fisiologici, sia in termini sociali e ambientali,ovvero ottimizzati per il risparmio d'intensità d'energia. Si tratta di meccanismo evolutivo che difficilmente riesce a rimanere sopito. L'opportunismo sociale ha come contro parte nell'istinto evolutivo quello di fare gruppo ma le due cose tendono a essere complementari: l'opportunismo ambientale unito alla tendenza a socializzare, non opportunamente educata, implica l'opportunismo sociale. Per quanto riguarda il risparmio d'intensità di energia significa che non abbiamo la tendenza a fare un grande sforzo mentale per ottimizzare lo sforzo complessivo. La pianificazione inizia abbastanza tardi nella nostra scala evolutiva con l'agricoltura, mentre l'individuo cacciatore/raccoglitore, privo della possibilità di conservare, doveva agire in risparmio d'intensità di energia, priorità che influenza anche le relative strategie di gruppo.
+Biologicamente, siamo opportunisti in ambito fisiologico, sociale e ambientale, ci siamo evoluti per risparmiare energia. Si tratta di meccanismo istintivo che difficilmente riesce a rimanere sopito e che non è negativo in termini assoluti, purché lo si conosca o addirittura lo si sfrutti nel modo corretto.
+
+L'opportunismo sociale ci spinge a fare gruppo e questo unito all'opportunismo ambientale scala verso un opportunismo ecologico. Questo non significa che il singolo individuo non possa avere un forte impatto sull'ambiente naturale, basti pensare ad un piromane solitario, ma è chiaro che il fattore si scala è assai più significativo sul lungo periodo, in termini di impatto ecologico e di modificazione permanente dell'ambiente.
+
+All'altro estremo della scala, l'istinto a risparmiare energia ci porta a evitare grandi sforzi mentali per ottimizzare il lavoro complessivo sia in termini di pianificazione, sia in termini di rielaborazione dei concetti.
+
+La pianificazione come necessità contingente inizia abbastanza tardi nella nostra scala evolutiva, e in particolare arriva con l'agricoltura. Perché l'individuo cacciatore/raccoglitore, privo della possibilità di conservare le scorte alimentari se non in modo rudimentale, aveva ben poche opportunità di affrontare una pianificazione complessa e di lungo termine.
+
+Riguardo alla rielaborazione dei concetti oltre all'inerzia individuale dovuta al lavoro di pensiero, spesso si aggiunge anche l'inerzia sociale. In questo contesto, in particolare, ritengo assolutamente appropriata la citazione seguente:
+
+> Siamo animali sociali piuttosto che cercatori di verità.
+> 
+> Jeff Besoz, fondatore di Amazon.
 
 #### Pensiero lineare
 
 * Sottovalutazione dei fenomeni cumulativi e immediata reazione rispetto alla gestione.
 
-Sottovalutiamo i fenomeni cumulativi perché siamo abituati a pensare in termini di previsioni lineari. Perché la velocità di reazione è di vitale importanza, molto più della precisione, per la sopravvivenza in un ambiente ostile. Questo ci porta a fare valutazioni immediate basate su una differenza fra guadagno e perdita. L'indice corretto da valutare sarebbe il rapporto fra guadagno e perdita ma la divisione è molto più complicata, richiede più energia e più tempo del fare una differenza. Inoltre questa valutazione, già di per sé stessa grossolanamente approssimata, viene fatta nell'ambito di uno scenario di reazione ovvero di immediatezza, a breve o brevissimo periodo, ad esempio ascoltiamo per rispondere invece che per capire: reazione vs gestione.
+Sottovalutiamo i fenomeni cumulativi perché siamo abituati a pensare in termini di previsioni lineari. Perché la velocità di reazione è di vitale importanza, molto più della precisione, per la sopravvivenza in un ambiente ostile. Questo ci porta a fare rapide valutazioni basate su un bilancio fra guadagno e perdita a breve periodo. D'altronde sul brevissomo o breve periodo l'approssimazione lineare è generalmente ottima in termine di efficienza.
+
+Pur rimanendo nell'ambito delle approssimazioni lineari, un indice più corretto da valutare sarebbe il rapporto fra guadagno e perdita rispetto all'impegno stimato ma la divisione è molto più complicata, richiede più energia e più tempo del fare una comparazione fra diverse opzioni e quindi risultati attesi. In estrema sintesi, ci siamo evoluti più per avere una reazione rapida e abbastanza buona agli eventi piuttosto che una gestione delle contingenze.
 
 #### Cognizione probabilistica limitata
 
 * Scarse capacità nel calcolare probabilità composte e nel valutare fenomeni non lineari.
 
-Il nostro istinto di sopravvivenza è tarato per considerare una perdita di valore X più dannosa del vantaggio di valore X associato anche in una situazione di equi-probabilità al 50-50% e a valutare più positivamente un vantaggio immediato che la perdita associata in un tempo posticipato questo perché
+Il nostro istinto di sopravvivenza è tarato per considerare una perdita di valore più dannosa del vantaggio di pari valore. Questo anche quando l'opzione è associata ad una situazione di equi-probabilità al 50-50%. Si unisca a questo la tendenza a valutare più favorevolmente quelle opzioni che presentano un vantaggio immediato che la perdita associata in un tempo posticipato questo perché:
 
 > [carpe diem](https://it.wikipedia.org/wiki/Carpe_diem) = [memento mori](https://it.wikipedia.org/wiki/Memento_mori) + [primum vivere deinde philosophari](https://it.wikipedia.org/wiki/Primum_vivere_deinde_philosophari).
 
-Anche perché non siamo bravi a calcolare le probabilità, specie quelle composte in quanto evadono dall'approssimazione lineare e dall'aritmetica additiva. C'è poi l'incorretta inferenza che generalizza il fatto che le ferite guariscono con il tempo ma non tiene in considerazione che le medesime portano anche alla morte (cfr. successivo). In letteratura questo sarebbe indicato come pregiudizio cognitivo della conferma. 
+Oppure citando un vecchio proverbio:
+
+> Meglio un uovo oggi che una gallina domani.
+
+D'altronde siamo piuttosto scarsi a calcolare le probabilità, specie quelle composte, in quanto prescindono dall'approssimazione lineare e dall'aritmetica. Oltre al fatto che nell'avere una fortissima propensione verso uno specifico approccio, raramente si osserva il risultato di un approccio diverso, e questo consolida il c.d. pregiudizio cognitivo della conferma. Rispetto al quale si possono citare diversi aneddoti fra cui i più noti: "così fan tutti" e "abbiamo sempre fatto così".
 
 #### Ottimismo e negazione
 
 * Dissociazione cosciente dalle perdite e scaricabarile.
 
-Soffriamo di ottimismo eccessivo: rifuggiamo a livello cosciente il concetto della morte ma lo temiamo a livello inconscio. Sembra quasi una tautologia ma in effetti tutto quanto non razionalizziamo rimane bloccato al di sotto della nostra consapevolezza. Questo è vero per ogni perdita: ignoriamo a livello cosciente le perdite dissociandoci dalla loro causa (noi) e le rifuggiamo a livello inconscio (colpa degli altri, del destino, volere del cielo, caso, etc.). Da questo approccio nasce la superstizione. Inoltre, anche quando siamo in grado di identificare dei costi associati a un errore (TCMO), siamo ottimisti sul poterlo scaricare su altri (scaricabarile). Anche sotto questo aspetto, l'evasione della responsabilità (cfr. punto primo),siamo educati in linea con il nostro istinto opportunista (cfr. punto secondo).
+Soffriamo di ottimismo eccessivo: rifuggiamo a livello cosciente il concetto della morte ma lo temiamo a livello inconscio. Sembra quasi una tautologia ma in effetti tutto quanto non razionalizziamo rimane bloccato al di sotto della nostra consapevolezza. In questo contesto psicologico affonda le sue radici, e da esso si nutre, la superstizione.
 
-#### Persistenza
+Ignoriamo coscientemente le perdite e le attribuiamo a fattori esterni al di fuori del nostro controllo dissociandoci dalla loro primaria causa (noi) e quindi delle nostre responsabilità. Da un punto di vista sociale questo approccio sfocia nella ricerca del capro espiatorio e dell'agnello sacrificale che placa la collera degli dei.
+
+Inoltre, anche quando siamo in grado di identificare dei costi associati a un errore (TCMO), siamo ottimisti sul poterlo scaricare su altri (scaricabarile). Anche sotto questo aspetto, l'evasione della responsabilità (cfr. punto primo),siamo educati in linea con il nostro istinto opportunista (cfr. punto secondo).
+
+Curiosamente, questo approccio qualora razionalizzato ci porta invece ad un concetto positivo in termini funzionali, quello di costo affondato (sunk cost) ovvero quel concetto per il quale fatti tutti i debiti calcoli si giunge alla conclusione che alcune perdite non possono essere compensate e quindi occorre stornarle dal bilancio dei rapporti costi/opportunità delle scelte future, in maniera che non pregiudichino negativamente anche quelle.
+
+#### Persistenza e ripetizione
 
 * Sopravvivenza evolutiva legata alla ripetizione anziché al pensiero profondo.
 
-La persistenza: ci siano evoluti per sopravvivere cioè persistere. Quasi tutte le attività primarie degli esseri umani primitivi prevedevano la mera ripetizione di un gesto, o una sequenza di gesti, per giungere un obbiettivo in modo lineare: scavare una buca o un canale, frammentare un masso, filare la lana, tessere un tessuto, arare un campo, rimescolare la polenta, etc. La possibilità di ottenere un risultato attraverso il pensiero profondo e una singola azione incisiva appartiene al mondo moderno, addirittura è un fenomeno emergente degli ultimi 30 anni con l'introduzione dell'informatica. In passato, in misura molto limitata a pochissimi individui, il pensiero profondo è nato con l'invenzione della matematica astratta: la dimostrazione di un teorema è un processo cognitivo lungo ma può concretizzarsi in uno scritto che richieda pochi minuti. La quasi totalità della nostra evoluzione si basa sul picchiare ripetutamente la testa contro un problema nella speranza che la nostra perseveranza sia premiata esattamente come si farebbe con lo spaccare un masso. Ammettiamolo, non è il modo migliore per usare la testa ma è quello che usiamo con più frequenza: insistere.
+Ci siano evoluti per sopravvivere cioè persistere. Quasi tutte le attività primarie degli esseri umani primitivi prevedevano la mera ripetizione di un gesto, o una sequenza di gesti, per giungere un obbiettivo in modo lineare: scavare una buca o un canale, frammentare un masso, filare la lana, tessere un tessuto, arare un campo, rimescolare la polenta, etc.
+
+La possibilità di ottenere un risultato attraverso il pensiero profondo e una singola azione incisiva appartiene al mondo moderno, addirittura è un fenomeno emergente degli ultimi 30 anni con l'introduzione dell'informatica. In passato, in misura molto limitata e a pochissimi individui, era concesso il lusso dell'ozio creativo.
+
+Il pensiero profondo è nato con l'invenzione della matematica astratta. La dimostrazione di un teorema è un processo cognitivo lungo ma alla base di esso c'è sempre un'intuizione che non è frutto di un processo lineare.
+
+La quasi totalità della nostra evoluzione si basa sul picchiare ripetutamente la testa contro un problema nella speranza che la nostra perseveranza sia premiata esattamente come si farebbe con lo spaccare un grosso sasso. Ammettiamolo, non è il modo migliore per usare la testa eppure è quello che usiamo con più frequenza: insistere nella ripetizione.
 
 Sotto il punto di vista antropologico il concetto dello TCMO evade tutte le micro-strategie (o tattiche contestuali, se si preferisce fare un distinguo fra strategia e tattica in termini di risultato di lungo periodo) che abbiamo sviluppato come frutto della nostra evoluzione.
 
@@ -66,65 +122,85 @@ Sotto il punto di vista antropologico il concetto dello TCMO evade tutte le micr
 
 * Perché in un economia globale e su un pianeta sferico con risorse finite, gli altri siamo noi. Karma.
 
-Inquinare un fiume per non investire in un impianto di depurazione significa scaricare il TCMO sull'ambiente e sulla collettività. Fintanto che l'ambiente e la collettività sono abbastanza grandi da funzionare come un sistema aperto, sopperendo all'affronto con la naturale resilienza dei sistemi naturali e biologici, il gioco di scaricare il TCMO sembra funzionare. Poiché sembra funzionare diventa la strategia universale finché appunto, complessivamente, non supera le capacità dell'ambiente di assorbire questo insulto e allora la curva di qualità dell'ambiente e quindi della nostra vita comincia a crollare pericolosamente: crolla con effetto cumulativo negativo, l'inquinamento cresce esponenzialmente evadendo sia la nostra capacità di misura sia la nostra capacità di previsione.
+Inquinare un fiume per non investire in un impianto di depurazione significa scaricare il TCMO sull'ambiente e sulla collettività. Fintanto che l'ambiente e la collettività sono abbastanza grandi da funzionare come un sistema aperto, sopperendo all'affronto con la naturale resilienza dei sistemi naturali e biologici, il gioco di scaricare il TCMO sembra funzionare.
 
-#### In sintesi
+Poiché, inzialmente ed entro certi limiti, sembra funzionare diventa la strategia universale finché appunto, complessivamente, non supera le capacità dell'ambiente di assorbire questo insulto e allora avviene un brusco cambiamento di stato. Oltre il punto di rottura si attivano dei processi esponenziali che evadono sia la nostra capacità di previsione, sia la nostra capacità di reazione, facendo crollare vertiginosamente la qualità dell'ambiente, della società e della nostra vita.
 
-La nostra capacità di valutazione dipende dalla nostra capacità di percezione la quale, riguardo a molti fenomeni, è logaritmica per evitare di essere distratti da ogni minima variazione di livello. Ad esempio, percepiamo come doppio più forte un suono che in realtà ha il doppio in [decibel](https://it.wikipedia.org/wiki/Decibel#Acustica). Questo perché la nostra capacità di previsione è limitata al modello lineare così sfruttiamo le proprietà dei logaritmi: la somma di due logaritmi è un prodotto, la differenza è una divisione. Ma questo "trucco"non funziona con i processi cumulativi che sono per loro natura esponenziali, ci gioca contro.
+#### L’illusione del controllo
+
+La nostra capacità di valutazione dipende dalla nostra capacità di percezione la quale, riguardo a molti fenomeni, è logaritmica per evitare di essere distratti da ogni minima variazione di livello. Ad esempio, percepiamo come doppio più forte in [decibel](https://it.wikipedia.org/wiki/Decibel#Acustica) un suono che invece ha una volume molto più elevato. 
+
+Questo perché la nostra capacità di previsione è limitata al modello lineare così sfruttiamo le proprietà dei logaritmi: la somma di due logaritmi è un prodotto, la differenza è una divisione. Ma questo "trucco biologico" non funziona con i processi cumulativi, nonostante siano per loro natura esponenziali, ci gioca contro.
+
+Perché nel breve e brevissimo periodo essi appaiono lineari oltre al fatto che non abbiamo un elemento biologico atta ad elaborare questo tipo di percezioni cognitive come facciamo con l'udito. Motivo per il quale i processi cumulativi evadono le nostre previsioni e quindi sfuggono al nostro controllo, generalmente e molto facilmente.
 
 ---
 
 ### La sostanziale differenza fra sistema chiuso e aperto
 
-La menzogna, per esempio, non funziona in una piccola e ristretta comunità in cui tutti conoscono quasi tutto di tutti. La menzogna non funziona in un contesto globale altamente e velocemente connesso. Questo paradosso nasce dal fatto che in entrambi i casi, il sistema si comporta come chiuso, la sola differenza sta nella latenza ovvero nel lasso di tempo fra l'azione prima T0 e il ritorno di reazione Tx.
+La menzogna, per esempio, non funziona in una piccola e ristretta comunità in cui tutti conoscono quasi tutto di tutti. La menzogna non funziona in un contesto globale altamente e velocemente connesso. Questo paradosso nasce dal fatto che in entrambi i casi, il sistema si comporta come chiuso, la sola differenza sta nella latenza ovvero nel lasso di tempo fra l'azione prima T<sub>0</sub> e il ritorno di reazione T<sub>R</sub>.
 
-Questo concetto lo conoscono bene coloro che sfruttano il gioco delle tre carte: negli anni 80 prediligevano gli autogrill e le aree di sosta delle autostrade dove il flusso unidirezionale dei passanti creava quel sistema aperto per il quale era assai improbabile incrociare due volte la stessa persona.
+Questo concetto lo conoscono bene coloro che sfruttano il gioco delle tre carte: negli anni '80 prediligevano gli autogrill e le aree di sosta delle autostrade dove il flusso unidirezionale dei passanti creava quel sistema aperto per il quale era assai improbabile incrociare due volte la stessa persona.
 
 Oggi, gli allevamenti intensivi di maiali e quelli di pesce in India sono geograficamente distanti da noi ma a causa della globalizzazione dei trasporti di passeggeri e merci, l'evoluzione di [batteri super resistenti agli antibiotici](https://www.linkedin.com/feed/update/urn:li:activity:6323532605337726977) non avrà effetti limitati solo alle comunità locali, che anzi saranno quelle più probabilmente resistenti perché "vaccinate" da tutte le precedenti generazioni di patogeni, ma globali.
 
-In questo schema noi abbiamo riversato su di loro il nostro TCMO e loro riversano su di noi il loro TCMO ma a ogni mano di ping-pong la pallina diventa sempre più grande e pesante: questo processo è cumulativo, perciò per dieci mani sarà una pallina da ping-pong, per cinque mani sarà una pallina da tennis, per due mani sarà una palla da biliardo e nell'ultima mano una palla da bowling. Fino alla pallina da tennis, tutto bene. Ma quando cominciamo a vedere la palla da bigliardo è già tardi perché quella da bowling sarà imminente.
+In questo schema noi abbiamo riversato su di loro il nostro TCMO e loro riversano su di noi il loro TCMO. Ma a ogni andata e ritorno di questo ping-pong, la pallina diventa sempre più grande e pesante. Perché si tratta di un processo cumulativo.
 
-Questa è la "magia" dei processi cumulativi, ad un certo punto - improvvisamente - diventano così importanti e vasti da non poter essere più affrontabili. Di fronte alla palla da biliardo, generalmente si nega l'evidenza, si tratta di un'anomalia rara, uno strano caso, ma quando le anomalie rare si accumulano e diventano frequenti abbiamo la certezza che siamo passati da una distribuzione gaussiana a quella degli intervalli ergo siano fottuti, tutti insieme, all together, appassionatamente. Preso atto di questo si giunge alla negazione assoluta, se non si possono più negare i fatti, si nega la loro interpretazione, si nega la scienza, si ritorna a essere superstiziosi: la punizione viene dal cielo, la salvezza verrà dal cielo.
+Per dieci mani sarà una pallina da ping-pong, per cinque mani sarà una pallina da tennis, per due mani sarà una palla da biliardo e nell'ultima mano una palla da bowling. Fino alla pallina da tennis, tutto bene. Ma quando cominciamo a vedere la palla da bigliardo è già tardi perché quella da bowling sarà imminente.
+
+Questa è la "magia" dei processi cumulativi: ad un certo punto - improvvisamente - diventano così importanti e vasti da non poter essere più affrontabili.
+
+Di fronte alla palla da biliardo, generalmente si nega l'evidenza: si tratta di un'anomalia rara, uno strano caso. Poi quando le anomalie rare si accumulano e diventano frequenti abbiamo la certezza che siamo passati da una distribuzione gaussiana a quella degli intervalli ergo siano fottuti, tutti insieme, all together, appassionatamente.
+
+Preso atto di questo si giunge alla negazione assoluta, se non si possono più negare i fatti, si nega la loro interpretazione, si nega la scienza, si ritorna a essere superstiziosi: la punizione viene dal cielo, la salvezza verrà dal cielo.
+
+Curiosamente, la terza settimana di dicembre 2024, al tempo in cui sto scrivendo questa II edizione dell'articolo dopo che è rimasto nella sua forma della sua prima stesura per oltre sette anni, i social cominicano ad essere invasi da avvistamenti UFO e i meme sugli alieni si intensificano.
+
+> Shit happens! Almost all the time because we took bad decisions.
 
 ---
 
 ### Conclusione
 
-Il TCMO acronimo di Total Cost of a Mistake Ownership è il costo complessivo della perseveranza di un errore ed è una quantità cumulativa. Il concetto stesso non è antropologicamente affine alla natura umana e, ragionevolmente, non è affine a nessuna forma di vita intelligente che si sia evoluta per selezione naturale. Per questo motivo potrebbe dare una spiegazione misurabile e causale del [paradosso di Fermi](https://it.wikipedia.org/wiki/Paradosso_di_Fermi).
+Il TCMO acronimo di Total Cost of a Mistake Ownership è il costo complessivo della perseveranza di un errore ed è una quantità cumulativa. Il concetto stesso non è antropologicamente affine alla natura umana e, ragionevolmente, non è affine a nessuna forma di vita intelligente che si sia evoluta per selezione naturale. Per questo motivo potrebbe dare una spiegazione misurabile e causale al [paradosso di Fermi](https://it.wikipedia.org/wiki/Paradosso_di_Fermi).
 
 <div align="center"><img src="img/090-l-importanza-del-tcmo-img-002.png"><br/></div>
 
 Si tratta di un indice indiscutibilmente importante, per non dire fondamentale, in quanto è la base per definire il successo o il fallimento di un'attività e per poter trarre le corrette previsioni a lungo periodo.
 
-Il concetto di errore è relativo ma questo ci aiuta perché significa che alcune decisioni o azioni risultano corrette entro certi scenari ed errate in altri scenari. Però, che dovessimo regolare le nostre decisioni e azioni in funzione, non solo agli obbiettivi, ma anche alle condizioni da affrontare era già chiaro e ampiamente disaminato nella letteratura di diversi settori legati al [decision making](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta).
+Il concetto di errore è relativo ma questo ci aiuta. Perché implica che alcune azioni risultano corrette entro certi scenari ed errate in altri. Però, che dovessimo regolare le nostre decisioni e azioni in funzione, non solo agli obbiettivi, ma anche delle condizioni e dei vincoli di sistema, era già chiaro e ampiamente disaminato nella letteratura di diversi settori legati al [decision making](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta).
 
-Definiamo l'acronimo TCI come il Total Cost of Innovation, il costo totale di una data innovazione,mentre dT è il tempo necessario a implementare quell'innovazione.
+Definiamo l'acronimo TCI come il Total Cost of Innovation, il costo totale di una data innovazione, mentre dT è il tempo necessario a implementare quell'innovazione.
 
 <div align="center"><img src="img/090-l-importanza-del-tcmo-img-003.png"><br/></div>
 
-Il concetto del TCMO ribalta l'idea d'azione in termini di transizioni. Quando dobbiamo smettere di adottare il criterio X o ripetere l'azione Y? Al tempo T, ossia quando il TCMO giunge in equilibrio con il costo implicito al cambiamento richiesto. In funzione di quando si prevede il T per cui TCMO \~ TCI occorre iniziare il cambiamento al tempo T-dT affinché si arrivi "in tempo".
+Dove per innovazione s'intende l'introduzione di una novità che si diffonda al punto da diventare un game changer in uno specifico settore, almeno. Il concetto di TCMO rivoluziona l'idea di adottare una sequenza di azioni per ottenere un risultato progressivo, ma ci costringe a pensare anche in termini di transizioni di stato di un particolare sistema. 
 
-Difficoltà? Il TCMO è cumulativo e noi esseri umani non siamo molto "in gamba" a gestire i fenomeni non lineari. Se non tramite l'utilizzo di metodologie ricorsive come descritto nell'articolo [Project Management: concetti di base](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta/) e seguenti.
+Per sua natura, il TCMO è cumulativo e noi esseri umani non siamo molto in gamba a gestire i fenomeni non lineari. Ma possiamo riuscire a farlo tramite l'utilizzo di metodologie ricorsive come descritto nell'articolo [Project Management: concetti di base](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta/) e seguenti.
 
 #### Sulla natura del TCMO
 
-Se l'universo risultasse aperto allora non esisterebbe nessun sistema chiuso. Passiamo dalla filosofia alla pratica: un sistema è chiuso quando secondo il modello matematico che si sta considerando può essere considerato ragionevolmente come chiuso,a meno di ordini di precisione superiori ovvero irrilevanti.
+Un sistema può essere ragionevolmente considerato "**aperto**" quando secondo il modello matematico che si sta considerando può essere considerato "**aperto**" a meno di ordini di precisione superiori. Purtroppo sul lungo periodo nessun sistema può essere considerato "**aperto**" - eccetto, forse, l'universo ma è una questione ancora aperta - perché sul lungo periodo quei correttivi di ordine superiore possono avere - e in generale lo hanno specialmente quando risultano in fase fra loro - un andamento composto come gli interessi su un debito.
 
-Nel lungo periodo nulla può essere considerato chiuso - eccetto, forse, l'universo ma è una questione ancora aperta - perché sul lungo periodo quei correttivi di ordine superiore possono avere, e in generale lo hanno, un andamento composto, come gli interessi su un debito, perciò a un certo punto la loro contabilizzazione rende il modello matematico scelto non più adeguato.
+Ecco come si ricava il TCMO, dal differenziale fra il modello decisionale e quello reale ed è una differenza che diverge esponenzialmente con il passare del tempo. D'altronde un modello matematico aperto implica complessità enormi perché per chiuderlo occorrerebbe contabilizzare tutti i contributi d'ingresso e d'uscita in tempo reale oppure contabilizzati in termini di densità di probabilità.
 
-Ecco come si ricava il TCMO, dal differenziale fra il modello decisionale e quello reale ed è una differenza che diverge esponenzialmente con il passare del tempo.
-
-D'altronde un modello matematico aperto implica complessità enormi perché per chiuderlo occorrerebbe contabilizzare tutti i contributi d'ingresso e d'uscita in tempo reale oppure contabilizzati in termini di densità di probabilità. L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos.
+L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma essa è ben distante da poter fornire modelli previsionali di lungo termine, anzi esattamente l'opposto, propende proprio per la loro inutilità pratica. Un esempio calzante sono le previsioni del meteo: abbastanza accurate sul breve o brevissimo periodo, e poi progressivamente inattendibili fino a diventare completamente inutili.
 
 <br/>
 
 ## Related articles
 
-* Mediocracy - origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta/) (2017-04-26)
+* Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
-* Il vantaggio di essere furbi - origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta/) (2017-04-07)
+* Mediocracy - origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta) (2017-04-26)
 
-* Project Management: concetti di base - origin [LinkedIn](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta/) (2016-10-19)
+* Il vantaggio di essere furbi - origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
+
+* Organisations and decision making - origin [LinkedIn](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta) (2017-04-03)
+
+* Project Management: concetti di base - origin [LinkedIn](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta) (2016-10-19)
+
+* L'illusione del controllo - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
 
 <br/>
 
