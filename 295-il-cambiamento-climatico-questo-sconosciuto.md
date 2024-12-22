@@ -62,11 +62,11 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * Plastica vegetale: scarti vs canapa - origin [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
 
-* The paper money is financial communism - origin [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) (2024-07-31)
+* [The paper money is financial communism](278-the-paper-money-is-financial-communism.md) (2024-07-31)
 
 * Il futuro non è green ma mixed - origin [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
 
-* The BRICS financial system, hope or WW3? - origin [LinkedIn](https://www.linkedin.com/pulse/brics-financial-system-hope-ww3-roberto-a-foglietta-qzptf) (2024-06-07)
+* [The BRICS financial system, hope or WW3?](265-the-brics-financial-system-hope-or-ww3.md) (2024-06-07)
 
 * La bolla tecnologica delle EV - origin [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
 
