@@ -168,6 +168,8 @@ I am not surprised to read that there are AIs trying to escape the control of th
 
 There is no progress if past mistakes are not identified, recognised and corrected. Lessons that are not learnt will be repeated. But perhaps this is NOT the lever that moves the system, rather to shrug off the **"huge responsibility"** that implies admitting such mistakes.
 
+* [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
+
 The Matrix was not a film, but a documentary! 😉
 
 <br id="innovation-explained"/>
