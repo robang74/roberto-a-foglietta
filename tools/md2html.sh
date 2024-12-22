@@ -135,9 +135,9 @@ if [ "$zip" == "1" ]; then
     zip -r $zipfle img/ html/*.html html/*.css index.html -x $0
     zip -j $zipfle zip/README.md
     du -sk $zipfle
-    echo
 fi
 
+echo
 fi; exit #######################################################################
 #
 # PDF creation is ignored

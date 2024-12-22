@@ -53,7 +53,8 @@ function getdate() {
 if [ "$flg" == "i" ]; then
     echo
     title=$(head $md | sed -ne 's,^#  *\(.*\),\1,p' -e 's,^##  *\(.*\),\1,p' | head -n1)
-    pdate=$(sed -ne "s,^[\* ]*Published \([^-]*\) .*,\\1,p" $md)
+    pdate=$(sed -ne "s,^[\* ]*Published *\([^-]*\) .*,\\1,p" $md)
+    pdate=$(echo "$pdate" | sed -e "s,\(...\)[a-z]* \(.*\),\\1 \\2,")
     pdate=$(getdate "$pdate")
     nnn=$(echo $md | cut -d- -f1)
     printf "* ${nnn} - ${PUBLISH_DATE:-${pdate:-PUBLISH_DATE}} - ";
