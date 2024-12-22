@@ -12,7 +12,7 @@
 
 Questa versione dell'articolo del **2024-12-22** è il risultato di una sua revisione in cui sia l'impostazione generale, sia i concetti espressi nell'articolo originale sono rimasti invariati. Le novità riguardano l'aggiunta della citazione di Besoz e il concetto di costo affondato (sunk cost). In questa nuova versione si è cercato di agevolare la comprensione rendendo più espliciti i concetti e in alcuni casi dettagliandoli maggiormente.<br id="leveraging-chatbot" />
 
-In questa revisione del testo originale mi sono fatto aiutare dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
+In questa revisione del testo originale mi sono fatto [aiutare](https://github.com/robang74/chatbots-for-fun/blob/main/leveraging-a-chatbot-for-human-writing.md) dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
 
 ---
 
