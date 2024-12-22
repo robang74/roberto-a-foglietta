@@ -20,6 +20,12 @@
 
 [**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
 
+### Format conversion
+
+[**`EN`**] The PDFs collection is splitted into two folders [pdf.todo](pdf.todo) and [pdf.done](pdf.done) depending on whether they have already been converted to markdown format or not. Because the purpose of this project is also to revise and give a coherent and cohesive connotation to the collection of writings, not only to collect them in a single repository.
+
+[**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo) e [pdf.done](pdf.done) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
+
 <br/>
 
 ## Website
