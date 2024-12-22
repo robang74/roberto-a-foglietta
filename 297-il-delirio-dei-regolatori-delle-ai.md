@@ -168,6 +168,8 @@ Non mi stupisce di leggere che ci siano delle AI che cercano di sfuggire al cont
 
 Non esiste progresso se non si identificano, riconoscono e correggono gli errori del passato. Le lezioni che non vengono apprese saranno ripetute. Ma forse NON è questo la leva che muove il sistema, piuttosto scansare le **"enormi responsabilità"** che implica ammettere tali errori.
 
+* [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
+
 Matrix non era un film, ma un documentario! 😉
 
 <br id="innovation-explained"/>
