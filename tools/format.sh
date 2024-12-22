@@ -39,12 +39,14 @@ for f in "$@"; do
             echo
             continue
         fi
+
         line=$(sed -ne "s,.* \(translate \[.*\]\),\\1,p" $f)
         line="$prex $(eval echo $line)"
         m=$(wc -l $f | cut -d' ' -f1)
-        n=$(grep --color=never -n "translate \[.*\]" $f | cut -d: -f1)
-        { head -n$[n-1] $f; echo "$line"; tail -n$[m-n] $f; } >$f.tmp
+        n=$(grep --color=never -n "translate \[.*\]" $f | head -n1 | cut -d: -f1) && \
+            { head -n$[n-1] $f; echo "$line"; tail -n$[m-n] $f; } >$f.tmp
         mv -f $f.tmp $f
+
         if ! echo "$0" | grep -q "rafconv.sh"; then
             echo "> DONE   : $f"
             echo
