@@ -38,7 +38,7 @@ function file_conv_one_table() {
     n=$(wc -l $f | cut -d' ' -f1)
 
     idstrn=$(printf "table-%03d" $t)
-    echo "converting table in $a:$b"
+    echo "converting table in file at $a:$b"
     if [ $n -gt 0 ]; then
         head -n$a $f
         printf "<center><table id='$idstrn'>"
@@ -72,9 +72,10 @@ function file_conv_all_table() {
 }
 
 for f in ${@:-html/*.html}; do
+    lines=$(get_tables_lines $f)
+    test -n "$lines" || continue
     echo
     echo "converting table in file: $f"
-    lines=$(get_tables_lines $f)
     echo "tables: "${lines:-none} >&2
     file_conv_all_table $f $lines
 done

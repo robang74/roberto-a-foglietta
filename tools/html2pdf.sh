@@ -4,20 +4,42 @@
 #
 
 opt="--enable-local-file-access"
-
+css=0
 for i in "$@"; do
     case $1 in
     "-g") opt="-g $opt"
+        shift
         ;;
-    "-w") echo "@import url('pdfwarm.css');" > custom.css
+    "-w") echo "@import url('pdfwarm.css');" > html/custom.css
+        css=1
+        shift
         ;;
-    "-c") echo "@import url('pdfcool.css');" > custom.css
+    "-c") echo "@import url('pdfcool.css');" > html/custom.css
+        css=1
+        shift
         ;;
-       *) test -r "$1" || exit 1; htm=$1; break
+    "-b") printf "" > html/custom.css
+        css=1
+        shift
+        ;;
+       *) break
         ;;
     esac
     shift
 done
 
-test -r "$htm" && \
-    wkhtmltopdf -ql $opt $htm ${htm%.html}.pdf
+# set the CSS by default
+if [ "$css" == "0" ]; then
+    echo "@import url('pdfcool.css');" > html/custom.css
+fi
+
+echo
+for f in ${@:-html/*.html}; do
+    test -r "$f" || continnue
+    echo "converting in PDF file: $f"
+    wkhtmltopdf -ql $opt $f ${f%.html}.pdf
+    echo
+done
+
+mkdir -p pdf
+mv html/*.pdf pdf
