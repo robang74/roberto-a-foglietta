@@ -3,6 +3,13 @@
 # (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
 
+li_A="<li style='list-style-type: none;'><b>"
+li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
+#li_B=".<span style='visibility: hidden;'>_</span></b>"
+
+ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
+ul_B="</blockquote></li></ul>"
+
 #function orig_mdlinkconv() {
 #    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
 #        -e "s,\[\([^[]*\)](\([^)]*\)),<a href='\\2'>\\1</a>,g" \
@@ -47,10 +54,10 @@ function md2htmlfunc() {
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
 -e "s,\(<div id=.firstdiv.\) .*>,\\1>," \
--e "s,^ *[-+\*] *> *\(.*\),<ul class='dqt'><li class='dqt'><blockquote class='dqt'>\\1</blockquote></li></ul>," \
+-e "s,^ *[-+\*] *> *\(.*\),${ul_A}\\1${ul_B}," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
--e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
+-e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
 
