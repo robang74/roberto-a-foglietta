@@ -26,8 +26,8 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local str=$(basename ${2%.html}) dir="html/";
-    test "$str" = "index" || dir=""
+    local i str=$(basename ${2%.html}) dir=""
+    test "$str" == "index" && dir="html/"
     echo -n "<!DOCTYPE html>
 <html>
     <head>
@@ -56,7 +56,7 @@ function md2htmlfunc() {
 -e "s,\(<div id=.firstdiv.\) .*>,\\1>," \
 -e "s,^ *[-+\*] *> *\(.*\),${ul_A}\\1${ul_B}," \
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
--e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
+-e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
@@ -97,6 +97,10 @@ function md2htmlfunc() {
 </html>" >> $2
 
     sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+    for i in 3 2 1; do
+        let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
+        sed -e "s/ \{$a,$b\}<li\([ >]\)/<li class='li${c}in'\\1/" -i $2
+    done
 }
 
 if [ "$2" != "" ]; then
@@ -120,25 +124,29 @@ echo
 mkdir -p html
 test -n "$1" || rm -f html/[0-9]*.html
 
+list=""
+index=0
 for i in ${@:-*.md}; do
     if [ "$i" == "template.md" ]; then
         continue
     elif [ "$i" == "README.md" ]; then
-       echo "converting $i in index.html ..."
-       md2htmlfunc "$i" index.html
-       continue
+        index=1
+        continue
     fi
     echo "converting $i in html ..."
     md2htmlfunc "$i" "html/${i%.md}.html"
+    list="$list html/${i%.md}.html"
 done
 
 echo
 echo "redirecting html links ..."
-
-for i in img/*.png img/*.jpg; do
-    for j in html/*.html; do
-        sed -i "s,\(src=\"\)$i,\\1../${i%.md},g" $j
-        sed -i "s,\(href=\"\)$i,\\1../${i%.md},g" $j
+for j in $list; do
+    for i in $(ls -1 img/*.png img/*.jpg *.png *.jpg 2>/dev/null); do
+        sed -e "s,\(href=.\)$i,\\1../$i,g" \
+            -e "s,\(src=.\)$i,\\1../$i,g" -i $j
+    done
+    for i in *.md; do
+        sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
     done
 done
 
@@ -159,13 +167,17 @@ for i in *.md; do
     #sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1html/$i.html\\2,g" -i index.html
 done
 
+echo
+echo "converting md tables ..."
+source tools/tabl2html.sh $list 2>/dev/null
+
 zipfle="archivio-html.zip"
 if [ "$zip" == "1" ]; then
     rm -f $zipfle
     zip -r $zipfle img/ html/*.html html/*.css index.html -x $0
     zip -j $zipfle zip/README.md
     du -sk $zipfle
+    echo
 fi
 
-echo
 fi
