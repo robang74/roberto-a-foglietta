@@ -28,6 +28,7 @@ function full_mdlinkconv() {
 function md2htmlfunc() {
     local i str=$(basename ${2%.html}) dir=""
     test "$str" == "index" && dir="html/"
+
     echo -n "<!DOCTYPE html>
 <html>
     <head>
@@ -140,8 +141,18 @@ done
 
 echo
 echo "redirecting html links ..."
+
+function get_images_list() {
+    local dir ext
+    for dir in "data/" "img/" ""; do
+        for ext in jpg png; do
+            ls -1 ${dir}*.${ext}
+        done 2>/dev/null
+    done
+}
+
 for j in $list; do
-    for i in $(ls -1 img/*.png img/*.jpg *.png *.jpg 2>/dev/null); do
+    for i in $(get_images_list); do
         sed -e "s,\(href=.\)$i,\\1../$i,g" \
             -e "s,\(src=.\)$i,\\1../$i,g" -i $j
     done
