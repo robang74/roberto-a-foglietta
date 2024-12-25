@@ -82,7 +82,6 @@
 
 * 090 - 2017-10-13 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md)) [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
 
-
 <br/>
 
 ## Related
@@ -91,9 +90,9 @@
 
 [**`IT`**] Ci sono altre due collezioni di testi che vale la pena elencare qui in quanto legate a questo lavoro di documentazione. Entrambe queste collezioni si avvalgono, sebbene in maniera diversa, dell'intelligenza artificiale. Nella prima, i testi sono sottoposti ad una peer-review con un'AI che impersona un agente collaborativo-antagonista mentre nella seconda, i documenti sottoposti all'AI sono solo uno spunto di dialogo per sviluppare l'interazione con essa. La data si riferisce al primo commit.
 
-* [chatgpt answered prompts](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#qa-dialogs-with-ai-chatbots) (2024-09-06)
+* [chatgpt answered prompts](https://robang74.github.io/chatgpt-answered-prompts) source on [github](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#qa-dialogs-with-ai-chatbots) (2024-09-06)
 
-* [chatbots for fun (humor!)](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
+* [chatbots for fun (humor!)](https://robang74.github.io/chatbots-for-fun) source on [github](https://github.com/robang74/chatbots-for-fun?tab=readme-ov-file#chatbots-for-fun) (2024-11-17)
 
 [**`EN`**] Despite the title the first texts collection is not limited to using ChatGPT but also chatbots like Mistral AI have been involved. The title of the project did not change because mainly it still fits and for keeping alive the links previously shared with other people. Moreover, while the first collection has a serious cut, the second is definitely oriented to a humoristic approach even when very serious topics are investigated.
 
