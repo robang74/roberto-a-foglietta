@@ -3,6 +3,21 @@
 # (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
 #
 
+#function orig_mdlinkconv() {
+#    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
+#        -e "s,\[\([^[]*\)](\([^)]*\)),<a href='\\2'>\\1</a>,g" \
+#        -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
+#}
+
+function mini_mdlinkconv() {
+    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
+        -e "s,\[\([^[]*\)](\([^)]*\)),<a href=\"\\2\">\\1</a>,g" "$@"
+}
+
+function full_mdlinkconv() {
+    mini_mdlinkconv -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
+}
+
 function md2htmlfunc() {
     local str=$(basename ${2%.html}) dir="html/";
     test "$str" = "index" || dir=""
@@ -20,7 +35,7 @@ function md2htmlfunc() {
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else
         cat $1
-    fi >>$2
+    fi | full_mdlinkconv >>$2
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
@@ -36,7 +51,6 @@ function md2htmlfunc() {
 -e "s,^> \(.*\),<blockquote>\\1</blockquote>," \
 -e "s,^ *[-+\*] \(.*\),<li>\\1</li>," \
 -e "s,^ *\([0-9]*\)\. \(.*\),<li style='list-style-type: none;'><b>\\1.</b><span>\&nbsp;\&nbsp;\&nbsp;</span>\\2</li>," \
--e 's,\(\[*\)\[\([^]]*\)\](\([^)]*\)),\1<a href="\3">\2<\/a>,g' \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
 
@@ -75,9 +89,7 @@ function md2htmlfunc() {
     </body>
 </html>" >> $2
 
-    sed -e "s,href=\"\([^h][^\"]*\).md\",href=\"${dir}\1.html\",g" \
-        -e "s,href='\([^h][^']*\).md',href='${dir}\\1.html',g" \
-        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
 }
 
 if [ "$2" != "" ]; then
@@ -123,10 +135,21 @@ for i in img/*.png img/*.jpg; do
     done
 done
 
+function link_md2html() {
+    local i=${1%.md} f="$2" dir=""
+    test "$f" == "index.html" && dir="html/"
+    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}$i.html\\2,g" -i $f
+}
+
 for i in *.md; do
-    for j in html/*.html; do
-        sed -i "s,\(href=\"\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" $j
+    #i=${i%.md}
+    #echo "$i" >&2
+    test "$i" == "template.md" && continue
+    for j in html/*.html index.html; do
+        #sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1$i.html\\2,g" -i $j
+        link_md2html $i $j
     done
+    #sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1html/$i.html\\2,g" -i index.html
 done
 
 zipfle="archivio-html.zip"
@@ -138,46 +161,4 @@ if [ "$zip" == "1" ]; then
 fi
 
 echo
-fi; exit #######################################################################
-#
-# PDF creation is ignored
-#
-################################################################################
-
-mkdir -p pdf
-
-echo
-for i in *.md; do
-    if [ "$i" == "README.md" ]; then
-        continue
-    fi
-    echo "converting $i in pdf ..."
-    cp -f $i pdf/$i.tmp
-    for k in *.png *.md; do
-        sed -i "s,\[.*\]($k),$k,g" pdf/$i.tmp
-    done
-    md2pdf pdf/$i.tmp pdf/${i%.md}.pdf
-    rm -f pdf/$i.tmp
-done
-
-echo
-echo "all done."
-echo
-exit
-
-echo
-echo "redirecting pdf link ..."
-
-for i in *.png; do
-    for j in pdf/*.pdf; do
-        echo "reworking $j ..."
-        rm -f $j.tmp
-        pdftk $j output $j.tmp uncompress
-        sed -i "s,\(/URI (file://\).*/$i,\\1../$i,g" $j.tmp
-        pdftk $j.tmp output $j compress
-        rm -f $j.tmp
-    done
-done
-
-fi #############################################################################
-
+fi
