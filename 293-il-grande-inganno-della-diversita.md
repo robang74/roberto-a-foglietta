@@ -182,7 +182,7 @@ Nel comprendere come funzionino le intelligenze artificiali cessiamo di averne p
 
 Se però arrivassimo a comprendere che queste idee preconcette (arbitrarie, relative o addirittura errate) sono per noi una forma di limitazione sia in termini di crescita personale sia in termini di capacità del fare e pensare, probabilmente svilupperemmo un’opinione più positiva e ottimistica rispetto a queste tecnologie.
 
-<br>
+<br/>
 
 ## Articoli correlati
 
