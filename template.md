@@ -32,6 +32,10 @@ ${CONCLUSION_TEXTONLY}
 
 <br/>
 
+<div align="center" class="intermezzo"><hr/><b>${AFTER_SOME_TIME_STRING}</b><hr/></div>
+
+<br/>
+
 ## ${UPDATE_ONE_TITLE}
 
 * Published ${UPDATE_ONE_DATE} - origin [${UPDATE_ONE_SOURCE}](${UPDATE_ONE_LINK})
