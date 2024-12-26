@@ -34,12 +34,16 @@ if [ "$css" == "0" ]; then
 fi
 
 echo
-for f in ${@:-html/*.html}; do
+index=""
+test $# -eq 0 && index="index.html"
+for f in ${@:-html/*.html} $index; do
     test -r "$f" || continnue
-    echo "converting in PDF file: $f"
-    wkhtmltopdf -ql $opt $f ${f%.html}.pdf
-    echo
+    echo "converting in PDF file $f"
+    wkhtmltopdf -ql $opt $f ${f%.html}.pdf 2>/dev/null &
 done
+wait
 
-mkdir -p pdf
-mv html/*.pdf pdf
+mkdir -p pdf/
+mv -f html/*.pdf index.pdf pdf/
+printf "\npdf folder size: %d Kb\n\n" $(du -ks pdf/ | cut -f1)
+
