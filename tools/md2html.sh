@@ -16,6 +16,7 @@ li_B=".<span style='visibility: hidden;'>--</span></b>"
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
 
+# RAF, 2024-12-26: the svg code has been taken by github to be used with github
 warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
 '<path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0'\
@@ -25,6 +26,7 @@ warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' 1 0 0 1 2 0Z"></path></svg><b>&nbsp;&nbsp;WARNING&nbsp;&nbsp;</b></span>'
 warn_A=$(echo "$warn_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
+# RAF, 2024-12-26: the svg code has been taken by github to be used with github
 info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
 ' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
 '<path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5'\
