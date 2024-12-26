@@ -3,6 +3,7 @@
 + md2html.sh: insert i metadata date/time + hash
 + md2html.sh: all sections should be tagged (id)
 + md2html.sh: change link with (->%28 and )->%29
++ default.css: different dot style (imdentation)
 
 # DONE
 
