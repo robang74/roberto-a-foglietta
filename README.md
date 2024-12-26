@@ -40,7 +40,7 @@
 
 ## Forum
 
-* &nbsp;[think tank discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions) for public interactions
+* &nbsp;[open discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions)
 
 [**`EN`**] This forum is open for debates about documents included into this collection and other topics that may enter into it. You need a github account to post in that discussion forum or alternatively write to me by e-mail.
 
