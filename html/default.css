@@ -4,6 +4,7 @@
  * (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
  *
  ******************************************************************************/
+
 body {
     color: #f8f4f0;
     background-color: #202020;
@@ -12,6 +13,7 @@ body {
     max-width: 800px;
     margin: auto;
 }
+
 blockquote {
     width: 760px;
     color: #fff8f0;
@@ -24,6 +26,11 @@ blockquote {
     position: relative;
     left: -40px;
 }
+blockquote.dqt {
+    width: 720px;
+}
+
+
 a:link {
     color: #84cfff;
 }
@@ -36,21 +43,77 @@ a:visited {
 a:active {
     color: #fff060;
 }
+
+img {
+    max-width: 800px;
+    height: auto;
+}
+
 li {
     margin-left:  25px;
     text-indent: -25px;
 }
-img {
-    max-width: 800px;
-    height: auto;
+li.dqt {
+    text-indent: 0px;
 }
 ul.dqt {
     position: relative;
     left: -30px;
 }
-li.dqt {
-    text-indent: 0px;
+
+table {
+    width: 800px;
+    border-collapse: collapse;
 }
-blockquote.dqt {
-    width: 720px;
+td, th {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #808080;
 }
+th {
+    text-align: center;
+}
+tr.trline td {
+    padding: 1px;
+}
+
+.li2in {
+    padding-left: 20px;
+}
+.li3in {
+    padding-left: 40px;
+}
+.li4in {
+    padding-left: 60px;
+}
+
+.spanicon {
+    font-family: sans;
+    border-radius: 8px;
+    background-color: none;
+    border: 2px solid transparent;
+}
+
+.svgicon {
+    position: relative;
+    top: 1.6px;
+}
+
+span.warnicon {
+    color: orange;
+}
+
+svg.warnicon {
+    fill: orange;
+}
+
+span.infoicon {
+    @extend .spanicon;
+    color: lightblue;
+}
+
+svg.infoicon {
+    @extend .svgicon;
+    fill: lightblue;
+}
+

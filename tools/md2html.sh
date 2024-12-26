@@ -9,18 +9,31 @@ declare -i start_t=$(date +%s%N)
 ################################################################################
 
 li_A="<li style='list-style-type: none;'><b>"
-li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
+#li_B=".</b><span>\&nbsp;\&nbsp;\&nbsp;</span>"
 #li_B=".<span style='visibility: hidden;'>_</span></b>"
-#li_B=".<span style='visibility: hidden;'>--</span></b>"
+li_B=".<span style='visibility: hidden;'>--</span></b>"
 
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
 
-#function orig_mdlinkconv() {
-#    sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
-#        -e "s,\[\([^[]*\)](\([^)]*\)),<a href='\\2'>\\1</a>,g" \
-#        -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
-#}
+warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
+' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
+'<path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0'\
+' 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44'\
+' 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53'\
+' 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1'\
+' 1 0 0 1 2 0Z"></path></svg><b>&nbsp;&nbsp;WARNING&nbsp;&nbsp;</b></span>'
+warn_A=$(echo "$warn_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+
+info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
+' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
+'<path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5'\
+' 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75'\
+' 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1'\
+' 1 0-2 1 1 0 0 1 0 2Z"></path></svg><b>&nbsp;&nbsp;NOTICE&nbsp;&nbsp;</b></span>'
+info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+
+################################################################################
 
 function mini_mdlinkconv() {
     sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
@@ -52,6 +65,8 @@ function md2htmlfunc() {
         cat $1
     fi | full_mdlinkconv >>$2
     sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
+-e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
+-e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \

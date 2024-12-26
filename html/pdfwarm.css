@@ -2,14 +2,42 @@
  * void Cascading Style Sheet for overriding or customise default.css
  *
  ******************************************************************************/
- body {
+
+body {
     color: #202020;
     background-color: #ffffff;
 }
+
 blockquote {
     color: #000000;
     background-color: #f0e8e0;
 }
+
 a:link, a:visited, a:hover, a:active {
     color: #402010;
 }
+
+table {
+    border-color: #806040; 
+}
+
+span.warnicon {
+    background-color: yellow;
+    border: 2px solid yellow;
+    color: #800;
+}
+
+svg.warnicon {
+    fill: #800;
+}
+
+span.infoicon {
+    background-color: aqua;
+    border: 2px solid aqua;
+    color: #008;
+}
+
+svg.infoicon {
+    fill: #008;
+}
+
