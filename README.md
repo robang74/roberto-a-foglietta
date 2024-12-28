@@ -68,7 +68,7 @@
 
 [**`IT`**] Man mano che i documenti in PDF saranno convertiti in markdown verranno aggiunti in questo indice, in ordine anticronologico giacché quello cronologico è presente nella lista dei file dato l'indice numerico che li precede nel nome. Invece, i nuovi articoli saranno scritti direttamente in formato markdown. La data di prima pubblicazione sarà riportata in formato universale come ANNO-MM-GG.
 
-<br id="pages-index"/>
+<hr id="pages-index"/>
 
 * 297 - 2024-12-21 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md)) [[**`EN`**](297-il-delirio-dei-regolatori-delle-ai-IT-EN.md)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [Il delirio dei regolatori delle AI](297-il-delirio-dei-regolatori-delle-ai.md)
 
@@ -93,6 +93,14 @@
 * 261 - 2024-05-18 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md)) [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md)
 
 * 090 - 2017-10-13 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md)) [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
+
+<hr/>
+
+[**`EN`**] Yet unconverted articles saved in PDF, and written since December 2015.
+
+[**`IT`**] Articoli in PDF ancora da convertire, e scritti a partire dal dicembre 2015.
+
+* 001 up to 291, those not listed above - [pdf.todo folder](pdf.todo)
 
 <br/>
 
