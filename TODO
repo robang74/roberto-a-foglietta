@@ -1,9 +1,7 @@
 # TODO
 
-+ md2html.sh: insert i metadata date/time + hash
 + md2html.sh: all sections should be tagged (id)
 + md2html.sh: change link with (->%28 and )->%29
-+ default.css: different dot style (imdentation)
 + md2html.sh: ^123a. should be a <li> with numb.
 
 # DONE
@@ -11,3 +9,5 @@
 v create a void custom.css
 v move all style into the default.css
 v load the default.css, not embedding
+v default.css: different dot style (indentation)
+v md2html.sh: insert i metadata date/time + hash
