@@ -61,6 +61,7 @@ function md2htmlfunc() {
     </head>
     <body>
 " >$2
+    source tools/ptopbar.sh $1 >> $2
     if [ "$str" = "index" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else
@@ -117,11 +118,12 @@ function md2htmlfunc() {
     cat $tf | tr '@' '\n' >$2
     rm  $tf
 
-    echo "
+    echo "<br/>
     </body>
 </html>" >> $2
 
-    sed -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+    sed -e 's,^\&copy; 202[4-9].*Roberto A. Foglietta.*\&lt;.*,<p>&</p>,' \
+        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
