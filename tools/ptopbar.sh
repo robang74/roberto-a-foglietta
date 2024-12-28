@@ -122,13 +122,13 @@ file="$1"
 test -r "$file" || exit 1
 
 date1st=""
-declare -i DATETYPE=3 revnun=0
+declare -i DATETYPE=3 revnum=0
 gitlog=$(command git log --format=format:'%ci' "$file")
-revnun=$(echo "$gitlog" | wc -l)
+revnum=$(echo "$gitlog" | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
-if [ $revnun -gt 0 ]; then
-    REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'>${revnun}</b>"
+if [ $revnum -gt 0 ]; then
+    REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'>${revnum}</b>"
 fi 2>/dev/null
 
 eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2',p" "$file")
