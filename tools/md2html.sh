@@ -76,16 +76,17 @@ function md2htmlfunc() {
     else
         cat $1
     fi | full_mdlinkconv >>$2
-    sed -e "s,@,\&commat;,g" -e "s,°,\&deg;,g" \
+
+    sed -e "s,@,\&commat;,g" \
 -e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
 -e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
--e "s,^# \(.*\),<H1>\\1</H1>," \
--e "s,^## \(.*\),<H2>\\1</H2>," \
--e "s,^### \(.*\),<H3>\\1</H3>," \
+-e 's,^# \(.*\),<H1 id="\1">\1</H1>,' \
+-e 's,^## \(.*\),<H2 id="\1">\1</H2>,' \
+-e 's,^### \(.*\),<H3 id="\1">\1</H3>,' \
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
 -e "s,\(<div id=.firstdiv.\) .*>,\\1>," \
@@ -95,6 +96,17 @@ function md2htmlfunc() {
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
+
+function fx() {
+    local i strn find file=$1; shift
+    for i in "$@"; do
+        find=$(echo "$i" | sed -e 's/\([",]\)/\\\\1/g')
+        strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc 'a-z-')
+        sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
+    done
+}
+    eval fx "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2)
+    #echo "$2" >&2
 
     tf=$2.tmp
     cat $2 | tr '\n' '@' >$tf
