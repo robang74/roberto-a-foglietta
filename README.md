@@ -26,6 +26,18 @@
 
 [**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo) e [pdf.done](pdf.done) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
 
+### The Internet memory
+
+[**`EN`**] Internet memory has become a meme, a concept that emerged from the realisation that it is practically impossible to remove information once it has been shared on the Internet. Those who have little or no understanding of this new technology have invented the right to be forgotten more to support the myth of the "rebirth" or more prosaically "*revergination*" of politicians or supposed politicians who have been trounced by history even more than by the ballot box. To remove any doubts about the idea of opposing technological modernity, I think one image will suffice.
+
+[**`IT`**] La memoria di Internet è diventata un meme, un concetto emerso dal prendere atto che in pratica è impossibile rimuovere delle informazioni una volta che esse sono state condivise in Internet. Coloro che poco o niente hanno capito di questa nuova tecnologia si sono inventati il diritto all'oblio più che altro per supportare il mito della "rinascita" o più prosaicamente detta "*revergination*" di politici o supposti tali che sono stati trombati dalla storia ancora più che dalle urne. Per togliere ogni velleità di dubbio all'idea di opporsi alla modernità tecnologica, penso basti un'immagine.
+
+<div align="center"><img src="img/cloud-document-collection-preview.png"><br/><i>Click</i> <a href="img/cloud-document-collection.png" target="_blank">here</a> <i>to view in full the screenshot</i></div><br/>
+
+[**`EN`**]  Most of the two billion Internet users have a cloud drive like this. Many have more than one and each drive keeps a history of documents, their revisions and versions, sometimes even deleted ones as Apple has shown to us. Everyone of these accounts can upload data again in public or share it in public among groups or in private among close friends. Moreover, between any two people chosen from these 2 billion, there are no more than 7 personal connections to reach anyone else on this planet. This means that, in the worst case, a document can travel around the world in 7 days if it is urgent and necessary.
+
+[**`IT`**] La maggior parte dei due miliardi di utenti di Internet hanno un drive cloud come questo. Molti ne hanno più di uno e ognuno di drive conserva una cronologia dei documenti, delle loro revisioni e versioni, talvolta anche di quelli cancellati come Apple ci ha dimostrato. Ognuno di questi account può caricare nuovamente i dati in pubblico o condividerli in pubblico tra gruppi o in privato tra amici intimi. Inoltre, tra due persone qualsiasi scelte tra questi 2 miliardi, non ci sono più di 7 connessioni personali per raggiungere chiunque altro su questo pianeta. Ciò significa che, nel peggiore dei casi, un documento può fare il giro del mondo in 7 giorni, se è urgente e necessario.
+
 <br/>
 
 ## Website
