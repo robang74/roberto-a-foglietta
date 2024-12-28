@@ -10,6 +10,7 @@ weburl="https://${gitusr}.github.io"
 gtlink="${weburl//./-}.translate.goog/${gitprj}"
 
 
+
 LINE_SHADE="darkwarm"
 TEXT_SHADE="darktext"
 LINE_MARK="&#9783;&nbsp;<b>&Ropf;</b>"
@@ -42,13 +43,15 @@ GOTO_LINKS[1,2]=".&#x27F0;."
 
 function pprint_transl_from_to() { #############################################
 
-echo "${gtlink}/${1}?_x_tr_sl=${2}&_x_tr_tl=${3}&_x_tr_hl=${3}-${4}&_x_tr_pto=wapp"
+echo "${gtlink}/${1}?_x_tr_sl=${2:-auto}&_x_tr_tl=${3}&_x_tr_hl=${3}-${4}&_x_tr_pto=wapp"
+
 
 } ##############################################################################
 
 function print_topbar() { ######################################################
 
 declare -A LANG_LINKS
+local str lg LG
 
 LINE_SHADE="${1}${2}"
 TEXT_SHADE="${1}text"
@@ -62,14 +65,15 @@ if [ -n "$PUBLISH_SOURCE" ]; then
 <a class='${LINE_SHADE}' href='${PUBLISH_LINK}'>${PUBLISH_SOURCE}</a></b>"
 fi
 
+declare -i skip=${7:-0}
 if [ -n "${6:-}" ]; then
     TRNSL_STRN="<b class='tpbrlang tpbrbold tpbrlink'>"
     for LG in IT EN DE FR ES; do
-        lg=${LG,,}
-        if [ "$7" != "$lg" ]; then
+        let skip++; test $skip -gt 0 || continue; lg=${LG,,}
+        if [ "${7:-}" != "$lg" ]; then
             TRNSL_STRN+="<tt class='tpbrlang'><a class='${LINE_SHADE}' "
-            TRNSL_STRN+="href='$(pprint_transl_from_to "$6" $7 $lg $LG)'>"
-            TRNSL_STRN+="${LG}</a></tt>"
+            str=$(pprint_transl_from_to "$6" "$7" "$lg" "$LG")
+            TRNSL_STRN+="href='$str'>${LG}</a></tt>"
             if [ "$LG" != "ES" ]; then TRNSL_STRN+=" ${LANG_DASH} "; fi
         fi
     done
@@ -103,17 +107,28 @@ file="$1"
 test -r "$file" || exit 1
 
 date1st=""
-declare -i revnun=0
-gitlog=$(git log --format=format:'%ci' $1)
-if [ -n "$gitlog" ]; then
-    revnum=$(echo "$gitlog" | wc -l)
-    date1st=$(echo "$gitlog" | tail -n1 | cut -d' ' -f1)
-fi
+declare -i dt=3 revnun=0
+gitlog=$(command git log --format=format:'%ci' "$file")
+revnun=$(echo "$gitlog" | wc -l)
+command git status -s "$file" | grep -q . && let revnum++
+
 if [ $revnun -gt 0 ]; then
     REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'>${revnun}</b>"
 fi 2>/dev/null
 
-set -- $(sed -ne "s,<.* created=[\"']\([^\"']*\).*,\\1,p" $file | tr ':' ' ')
+eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2',p" "$file")
+if [ ! -n "$1" ]; then
+    let dt--
+    date1st=$(echo "$gitlog" | tail -n1 | cut -d' ' -f1)
+    if [ ! -n "$date1st" ]; then
+        let dt--
+        date1st=$(date +%F)
+    fi
+fi
+date1st+="<span id='date-typenote'>&nbsp;<sup style='position: relative;"\
+" top: 2px; font-weight: normal;'><tt>(<a href='#date-legenda'"\
+" style='text-decoration: none;'>${dt}</a>)</tt></sup></span>"
+
 if [ "$file" == "README.md" ]; then
     file="index.html"
 else
@@ -121,5 +136,5 @@ else
 fi
 
 #echo "date: $1, lang: $2, file: $file" >&2
-print_topbar "dark" "warm" "${1:$date1st}" "" "" "$file" "${2,,}"
+print_topbar "dark" "warm" "$date1st" "" "" "$file" "${2,,}"
 

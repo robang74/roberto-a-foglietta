@@ -117,6 +117,10 @@ function md2htmlfunc() {
         -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $tf
     cat $tf | tr '@' '\n' >$2
     rm  $tf
+    
+    if [ -r "html/footnote.htm" ]; then
+        cat "html/footnote.htm" >> $2
+    fi
 
     echo "<br/>
     </body>
