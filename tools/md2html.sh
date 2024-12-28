@@ -100,7 +100,7 @@ function md2htmlfunc() {
 function fx() {
     local i strn find file=$1; shift
     for i in "$@"; do
-        find=$(echo "$i" | sed -e 's/\([",]\)/\\\\1/g')
+        find=$(echo "$i" | sed -e 's/\([",$*()]\)/\\\1/g')
         strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc 'a-z-')
         sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
     done
