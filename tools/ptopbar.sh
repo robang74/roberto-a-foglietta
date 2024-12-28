@@ -122,7 +122,7 @@ file="$1"
 test -r "$file" || exit 1
 
 date1st=""
-declare -i DATETYPE=3 revnum=0
+declare -i DATETYPE=1 revnum=0
 gitlog=$(command git log --format=format:'%ci' "$file")
 revnum=$(echo "$gitlog" | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
@@ -136,10 +136,10 @@ eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2
 
 date1st=${1:-}
 if [ ! -n "$date1st" ]; then
-    let DATETYPE--
+    let DATETYPE++
     date1st=$(echo "$gitlog" | tail -n1 | cut -d' ' -f1)
     if [ ! -n "$date1st" ]; then
-        let DATETYPE--
+        let DATETYPE++
         date1st=$(date +%F)
     fi
 fi
