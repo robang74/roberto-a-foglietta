@@ -4,7 +4,7 @@
 
 ## ${MAIN_TITLE}
 
-* Published ${PUBLISH_DATE} - origin [${PUBLISH_SOURCE}](${PUBLISH_LINK}) - translate [${IT_TR}] [${EN_TR}] [${DE_TR}] [${FR_TR}] [${ES_TR}]
+* Published ${PUBLISH_DATE} - origin [${PUBLISH_SOURCE}](${PUBLISH_LINK}) - translate [${IT_TR}] [${EN_TR}] [${DE_TR}] [${FR_TR}] [${ES_TR}] - [${TOP_LINK}]
 
 ${PUBLISH_NOTES}
 
@@ -58,6 +58,6 @@ ${RELATED_LIST_ITEM} - [${ITEM_SOURCE}](${ITEM_LINK}) (YYYY-MM-DD)
 
 ## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+<p>&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)</p>
 
 </div>
