@@ -7,12 +7,12 @@
         <link rel='stylesheet' href='custom.css'>
     </head>
     <body>
-<br/><div class='topbar darkwarm darktext'>&nbsp;&#9783;&nbsp;<b>&Ropf;</b> &nbsp;&mdash;&nbsp; published:&nbsp; <b class='tpbrbold'>2024-10-13<span id='date-typenote'>&nbsp;<sup style='position: relative; top: 2px; font-weight: normal;'><tt>(<a href='#date-legenda' style='text-decoration: none;'>1</a>)</tt></sup></span></b> &nbsp;&mdash;&nbsp; revision: <b class='tpbrbold'>4</b> &nbsp;&mdash;&nbsp; goto:&nbsp; <b class='tpbrbold tpbrlink'> <a class='darkwarm' href='../index.html#pages-index'>.&#x27F0;.</a> &middot; <a class='darkwarm' href='https://robang74.github.io/chatbots-for-fun' target='_blank'><tt>C4F</tt></a> &middot; <a class='darkwarm' href='https://robang74.github.io/chatgpt-answered-prompts' target='_blank'><tt>Q&A</tt></a> </b>&nbsp;</div>
+<br/><div class='topbar darkwarm darktext'>&nbsp;&#9783;&nbsp;<b>&Ropf;</b> &nbsp;&mdash;&nbsp; published:&nbsp; <b class='tpbrbold'>2024-10-13<span id='date-typenote'>&nbsp;<sup style='position: relative; top: 2px; font-weight: normal;'><tt>(<a href='#date-legenda' style='text-decoration: none;'>1</a>)</tt></sup></span></b> &nbsp;&mdash;&nbsp; revision: <b class='tpbrbold'>4</b> &nbsp;&mdash;&nbsp; goto:&nbsp;<b class='tpbrbold tpbrlink'> <a class='darkwarm' href='../index.html#index'>.&#x27F0;.</a> &middot; <a class='darkwarm' href='https://robang74.github.io/chatbots-for-fun' target='_blank'><tt>C4F</tt></a> &middot; <a class='darkwarm' href='https://robang74.github.io/chatgpt-answered-prompts' target='_blank'><tt>Q&A</tt></a></b>&nbsp;</div>
 <div id="firstdiv">
 <p/>
 <div align="center"><img src="../img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
 <p/>
-<H2>Linux, Android & RedFish OS</H2>
+<H2 id="linux-android--redfish-os">Linux, Android & RedFish OS</H2>
 <p/>
 <li>Published Oct 13, 2024 - origin <a href="https://www.linkedin.com/pulse/linux-android-redfish-os-roberto-a-foglietta-jke0f" target='_blank'>LinkedIn</a> - translate [<a href="https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp" target='_blank'><b><tt>IT</tt></b></a>] [<a href="https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp" target='_blank'><b><tt>DE</tt></b></a>] [<a href="https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp" target='_blank'><b><tt>FR</tt></b></a>] [<a href="https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp" target='_blank'><b><tt>ES</tt></b></a>]</li>
 <p/>
@@ -20,13 +20,13 @@ This article is based on a post written in Italian and <a href="https://www.link
 <p/>
 <hr>
 <p/>
-<H3>Premise</H3>
+<H3 id="premise">Premise</H3>
 <p/>
 <blockquote>11th October 2024 - Google is preparing to let you run Linux apps on Android, just like Chrome OS. Google is developing the framework to let you run Debian in a virtual machine on your Android device. - <a href="lnkd.in/dPG79nyf">lnkd.in/dPG79nyf</a><br/><br/>Engineers at Google started work on a new Terminal app for Android a couple of weeks ago. This Terminal app is part of the Android Virtualization Framework (AVF) and contains a WebView that connects to a Linux virtual machine via a local IP address, allowing you to run Linux commands from the Android host. Initially, you had to manually enable this Terminal app using a shell command and then configure the Linux VM yourself. However, in recent days, Google began work on integrating the Terminal app into Android as well as turning it into an all-in-one app for running a Linux distro in a VM.<br/><br/>In the frst place, it must be said that Google is not redefining the architecture of Android but only providing a user-space tool that allows Debian to run on their mobile platform and then for any other derived Linux distribution, also.</blockquote>
 <p/>
 <hr>
 <p/>
-<H3>Google AVF architecture</H3>
+<H3 id="google-avf-architecture">Google AVF architecture</H3>
 <p/>
 Curious because considering that Android's kernel is actually Linux, it would be useful to do the opposite: run Linux and virtualise Android. In fact, it already does, Android runs by a hypervisor called pKVM.
 <p/>
@@ -38,7 +38,7 @@ Moreover, ARM CPUs already have specific instructions to achieve this type of se
 <p/>
 <hr>
 <p/>
-<H3>RedFish OS approach</H3>
+<H3 id="redfish-os-approach">RedFish OS approach</H3>
 <p/>
 According to the Android documentation, everything is just in place: Linux kernel, hypervisor, separation of layers, but at the same time there is nothing like RedFish OS.
 <p/>
@@ -46,7 +46,7 @@ It seems that there is everything and instead there is nothing (cit.) simply bec
 <p/>
 <hr>
 <p/>
-<H3>RedFish OS advantages</H3>
+<H3 id="redfish-os-advantages">RedFish OS advantages</H3>
 <p/>
 <blockquote>What are the advantages of the RedFish OS approach?</blockquote>
 <p/>
@@ -60,7 +60,7 @@ As the rest of its value-added functionalities would rely on these two market se
 <p/>
 <hr>
 <p/>
-<H3>Consultancy</H3>
+<H3 id="consultancy">Consultancy</H3>
 <p/>
 This case showed the importance of the consultancy.
 <p/>
@@ -80,7 +80,7 @@ Plus, there is always another convoy that needs a driver to cross a desert where
 <p/>
 <hr>
 <p/>
-<H3>Simplicity</H3>
+<H3 id="simplicity">Simplicity</H3>
 <p/>
 Simplicity is the ultimate form of sophistication. The STEM people are able to create impressive clockworks in which the complications are managed precisely and beautifully. Swiss luxury watch manufacturing is a nice example of this.
 <p/>
@@ -100,7 +100,7 @@ In fact, a compact/rigid system has several good properties but flexibility and 
 <p/>
 <hr>
 <p/>
-<H3>Conclusion</H3>
+<H3 id="conclusion">Conclusion</H3>
 <p/>
 The fortune of IBM was being forced by the US anti-trust to release the specification for free-as-free-beer their IBM AT PC standards.
 <p/>
@@ -122,7 +122,7 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 <p/>
 <br/>
 <p/>
-<H2>Related papers</H2>
+<H2 id="related-papers">Related papers</H2>
 <p/>
 <li><a href="https://github.com/robang74/redfishos/blob/main/RedFishOS-presentation-A4.pdf" target='_blank'>Redfish OS business presentation</a> with an executive introduction (2023-09-25)</li>
 <p/>
@@ -134,7 +134,7 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 <p/>
 <br/>
 <p/>
-<H2>Share alike</H2>
+<H2 id="share-alike">Share alike</H2>
 <p/>
 <p>&copy; 2024, <b>Roberto A. Foglietta</b> &lt;roberto.foglietta<span>&commat;</span>gmail.com&gt;, <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target='_blank'>CC BY-NC-ND 4.0</a></p>
 <p/>
