@@ -36,8 +36,12 @@ for i in 1 2 3; do
     GOTO_LINKS[$n,2]=${PROJ_LINKS[$i,2]}
     let n++
 done
-GOTO_LINKS[1,1]="../index.html#pages-index"
-GOTO_LINKS[1,2]=".&#x27F0;."
+GOTO_LINKS[1,1]="index.html#pages-index"
+GOTO_LINKS[1,2]="&#x2798;&#8505;."
+
+if grep -qie "^#\{1,3\} *index *$" README.md 2>/dev/null; then
+    GOTO_LINKS[1,1]="index.html#index"
+fi
 
 function print_transl_from_to() { ##############################################
 
@@ -49,7 +53,7 @@ echo "${gtlink}/${1}?_x_tr_sl=${2:-auto}&_x_tr_tl=${3}&_x_tr_hl=${3}-${4}&_x_tr_
 function print_topbar() { ######################################################
 
 declare -A LANG_LINKS
-local str lg LG lang=${7:-auto} trsl=0
+local str lg LG lang=${7:-auto} trsl=0 file=${6:-}
 
 LINE_SHADE="${1}${2}"
 TEXT_SHADE="${1}text"
@@ -66,7 +70,7 @@ fi
 declare -i skip=$lang
 test $skip -ne 0 && lang="auto"
 #echo "7: '$7', skip: '$kip', lang: '$lang'" >&2
-if [ -n "${6:-}" -a "$7" != "-99" ]; then
+if [ -n "$file" -a "$skip" != "-99" ]; then
     lang=${lang,,}
     TRNSL_STRN="<b class='tpbrlang tpbrbold tpbrlink'>"
     for LG in IT EN DE FR ES; do
@@ -93,12 +97,11 @@ TOPBAR_STRING="<br/><div class='topbar ${LINE_SHADE} ${TEXT_SHADE}'>&nbsp;"\
 "${PUBLISH_UNIVDATE}</b>${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
 gotolist="1 2 3"
-if [ "${6:-}" == "index.html" ]; then
-    GOTO_LINKS[1,1]="#pages-index"
-    GOTO_LINKS[1,2]="&#x2798;&#8505;."
-    grep -qie "id=['\"]index['\"]" README.md && GOTO_LINKS[1,1]="#index"
-#    gotolist="2 3"
+if [ "$file" != "index.html" ]; then
+    GOTO_LINKS[1,1]="../${GOTO_LINKS[1,1]}"
+    GOTO_LINKS[1,2]=".&#x27F0;."
 fi
+
 TOPBAR_STRING+=" ${LINE_DASH} goto:&nbsp;<b class='tpbrbold tpbrlink'>"
 for i in $gotolist; do
     TOPBAR_STRING+=" <a class='${LINE_SHADE}' href='${GOTO_LINKS[$i,1]}'>"\
