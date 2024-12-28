@@ -1,4 +1,4 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-06-07:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/265-the-brics-financial-system-hope-or-ww3-img-001.png" width="800"><br/></div>
 

@@ -1,4 +1,4 @@
-<div id="firstdiv" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-05-18:-99" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/></div>
 

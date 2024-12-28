@@ -1,14 +1,14 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-
-<div align="center"><img src="img/297-il-delirio-dei-regolatori-delle-ai-img-001.jpg"><br/></div>
+<br/><div align="center"><img src="img/297-il-delirio-dei-regolatori-delle-ai-img-001.jpg"><br/></div>
 
 ## Il delirio dei regolatori delle AI
 
 * Published Dec 21, 2024 - origin [Facebook](https://www.facebook.com/share/p/14i7of9aot/) - translate [[**`EN`**](297-il-delirio-dei-regolatori-delle-ai-IT-EN.md)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/297-il-delirio-dei-regolatori-delle-ai.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 
-> **Attenzione**
+> [!WARNING]
 > 
-> In questo articolo si usa di frequente un linguaggio idiomatico che le traduzioni automatiche non sono in gradi di riportare fedelmente. Per questo motivo provvederò a fare una traduzione in inglese quanto prima.
+> In questo articolo si usa di frequente un linguaggio idiomatico e parolacce in italiano che le traduzioni automatiche non sono in gradi di riportare fedelmente. Per questo motivo provvederò a fare una traduzione in inglese quanto prima.
+
+<div id="firstdiv" created=":-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 ---
 

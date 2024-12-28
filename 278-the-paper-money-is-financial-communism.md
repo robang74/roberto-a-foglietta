@@ -1,4 +1,4 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-07-31:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/278-the-paper-money-is-financial-communism-img-001.png"><br/></div>
 
