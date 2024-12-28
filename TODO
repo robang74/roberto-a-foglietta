@@ -1,8 +1,9 @@
 # TODO
 
-+ md2html.sh: all sections should be tagged (id)
 + md2html.sh: change link with (->%28 and )->%29
 + md2html.sh: ^123a. should be a <li> with numb.
++ md2html.sh: improve session tagging (c lang.)
++ ptopbar.sh: being able to switch fair/dark css
 
 # DONE
 
@@ -11,3 +12,4 @@ v move all style into the default.css
 v load the default.css, not embedding
 v default.css: different dot style (indentation)
 v md2html.sh: insert i metadata date/time + hash
+v md2html.sh: all sections should be tagged (id)
