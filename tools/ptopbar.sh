@@ -36,7 +36,7 @@ for i in 1 2 3; do
     GOTO_LINKS[$n,2]=${PROJ_LINKS[$i,2]}
     let n++
 done
-GOTO_LINKS[1,1]="../index.html"
+GOTO_LINKS[1,1]="../index.html#pages-index"
 GOTO_LINKS[1,2]=".&#x27F0;."
 
 function print_transl_from_to() { ##############################################
@@ -49,7 +49,7 @@ echo "${gtlink}/${1}?_x_tr_sl=${2:-auto}&_x_tr_tl=${3}&_x_tr_hl=${3}-${4}&_x_tr_
 function print_topbar() { ######################################################
 
 declare -A LANG_LINKS
-local str lg LG lang=${7:-auto}
+local str lg LG lang=${7:-auto} trsl=0
 
 LINE_SHADE="${1}${2}"
 TEXT_SHADE="${1}text"
@@ -65,8 +65,9 @@ fi
 
 declare -i skip=$lang
 test $skip -ne 0 && lang="auto"
-
-if [ -n "${6:-}" ]; then
+#echo "7: '$7', skip: '$kip', lang: '$lang'" >&2
+if [ -n "${6:-}" -a "$7" != "-99" ]; then
+    lang=${lang,,}
     TRNSL_STRN="<b class='tpbrlang tpbrbold tpbrlink'>"
     for LG in IT EN DE FR ES; do
         let skip++; test $skip -gt 0 || continue; lg=${LG,,}
@@ -75,16 +76,21 @@ if [ -n "${6:-}" ]; then
             str=$(print_transl_from_to "$6" $lang $lg $LG)
             TRNSL_STRN+="href='$str'>${LG}</a></tt>"
             if [ "$LG" != "ES" ]; then TRNSL_STRN+=" ${LANG_DASH} "; fi
+            trsl=1
         fi
     done
     TRNSL_STRN+="</b>"
     #TRNSL_STRN="${TRNSL_STRN%</tt>*}</tt></b>"
 fi
+if [ "$trsl" == "1" ]; then
+    TRNSL_STRN=" ${LINE_DASH} translate:&nbsp; ${TRNSL_STRN}"
+else
+    TRNSL_STRN=""
+fi
 
 TOPBAR_STRING="<br/><div class='topbar ${LINE_SHADE} ${TEXT_SHADE}'>&nbsp;"\
 "${LINE_MARK} ${LINE_DASH} published:&nbsp; <b class='tpbrbold'>"\
-"${PUBLISH_UNIVDATE}</b>${REVISION_STRING}${ORIGIN_CODE} ${LINE_DASH}"\
-" translate:&nbsp; ${TRNSL_STRN}"
+"${PUBLISH_UNIVDATE}</b>${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
 if [ "${6:-}" != "index.html" ]; then
     TOPBAR_STRING+=" ${LINE_DASH} goto:&nbsp; <b class='tpbrbold tpbrlink'>"
@@ -126,7 +132,10 @@ if [ $revnun -gt 0 ]; then
 fi 2>/dev/null
 
 eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2',p" "$file")
-if [ ! -n "$1" ]; then
+#echo "1: '$1', 2: '$2'" >&2
+
+date1st=${1:-}
+if [ ! -n "$date1st" ]; then
     let DATETYPE--
     date1st=$(echo "$gitlog" | tail -n1 | cut -d' ' -f1)
     if [ ! -n "$date1st" ]; then
@@ -134,7 +143,6 @@ if [ ! -n "$1" ]; then
         date1st=$(date +%F)
     fi
 fi
-
 date1st+=$(get_html_item_str html/items/datetype.htm)
 
 if [ "$file" == "README.md" ]; then
@@ -144,5 +152,5 @@ else
 fi
 
 #echo "date: $1, lang: $2, file: $file" >&2
-print_topbar "dark" "warm" "$date1st" "" "" "$file" "${2,,}"
+print_topbar "dark" "warm" "$date1st" "" "" "$file" "$2"
 
