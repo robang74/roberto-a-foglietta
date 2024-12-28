@@ -37,6 +37,13 @@ info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
 ################################################################################
 
+function get_html_item_str() {
+    if [ -r "$1" ]; then
+        str=$(cat "$1" | tr \" \')
+        eval echo \"$str\"
+    fi
+}
+
 function mini_mdlinkconv() {
     sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
         -e "s,\!\[\([^[]*\)](\([^)]*\)),<img src=\"\\2\" alt=\"\\1\">,g" \
@@ -117,10 +124,9 @@ function md2htmlfunc() {
         -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $tf
     cat $tf | tr '@' '\n' >$2
     rm  $tf
-    
-    if [ -r "html/footnote.htm" ]; then
-        cat "html/footnote.htm" >> $2
-    fi
+
+    TOPLINK=$(get_html_item_str html/items/toplink.htm)
+    get_html_item_str html/items/footnote.htm >> $2
 
     echo "<br/>
     </body>
