@@ -12,7 +12,7 @@ Dalla rivoluzione industriale in poi siamo passati da 1 miliardo a 8 miliardi di
 
 La parte piuttosto discutibile di questa narrativa invece riguarda il riscaldamento climatico inteso come temperatura media globale che francamente è un indice (enon un driver) davvero troppo banale per essere significativo anche se unito alla concentrazione della CO2. Vediamo il perchè.
 
-La media può rimanere stabile anche se metà del pianeta riportasse variazioni di -20°C e l'altra metà del pianeta +20°C. Ci sarebbe uno sconvolgimento del clima ma senza alterare la temperatura media. Il metano ha un effetto serra di 82 volte rispetto alla CO2 che nell'arco di un secolo si riduce a 28 volte. Quindi la CO2 potrebbe rimanere stabile e il pianeta bollire per via del metano.
+La media può rimanere stabile anche se metà del pianeta riportasse variazioni di -20&deg;C e l'altra metà del pianeta +20&deg;C. Ci sarebbe uno sconvolgimento del clima ma senza alterare la temperatura media. Il metano ha un effetto serra di 82 volte rispetto alla CO2 che nell'arco di un secolo si riduce a 28 volte. Quindi la CO2 potrebbe rimanere stabile e il pianeta bollire per via del metano.
 
 Non linearità dei cambiamenti climatici. Il permafrost contiene un'enorme quantità di metano imprigionato. Basta che si sciolga e siamo biscottati.
 
@@ -24,7 +24,7 @@ Quindi il problema è molto più articolato di quello che sembra perché l'alter
 
 In particolare la teoria del caos ci assicura che un sistema complesso può saltare piuttosto velocemente da un attrattore (Terra) ad un altro (Venere) quando la sua traiettoria viene modificata in fase (A+a oppure -A-a) anche di poco.
 
-C'è poi un altro effetto che maschera il cambiamento climatico che è quello dell'inerzia e un sistema pianeta ne ha tanta. Però anche questo aspetto non ha transizioni lineari. Fino a -1°C il ghiaccio rimane solido a 0°C comincia a sciogliersi.
+C'è poi un altro effetto che maschera il cambiamento climatico che è quello dell'inerzia e un sistema pianeta ne ha tanta. Però anche questo aspetto non ha transizioni lineari. Fino a -1&deg;C il ghiaccio rimane solido a 0&deg;C comincia a sciogliersi.
 
 Così il permafrost, che rilascia metano che scalda l'atmosfera in particolare localmente proprio dove l'effetto serra può dare il massimo contributo sciogliendo altro permafrost (A+a+a).
 
@@ -40,11 +40,11 @@ Non ho motivo di contestare la stima di Zichichi e non ho dati o un modello di r
 
 Ricordiamoci però che un 5% può sembrare poco e sicuramente è trascurabile se va in controfase con il trend naturale (raffreddamento naturale + riscaldamento antropico) già meno bene se invece va in fase con quello naturale (riscaldamento naturale + riscaldamento antropico) perché potrebbe portarci fuori dalla zona stabile.
 
-La Siberia è un'area molto vasta in cui il range di temperature minime invernali e massime estive varia da -67 a +25°C quindi diciamo che 5°C sia l'effetto antropico. A -4°C il permafrost rimane stabile a +1°C si scioglie e comincia un processo di fusione autoincrementale.
+La Siberia è un'area molto vasta in cui il range di temperature minime invernali e massime estive varia da -67 a +25&deg;C quindi diciamo che 5&deg;C sia l'effetto antropico. A -4&deg;C il permafrost rimane stabile a +1&deg;C si scioglie e comincia un processo di fusione autoincrementale.
 
 Il permafrost si scioglie e libera metano, il metano resta in quell'area inizialmente e tende a far alzare la temperatura che velocizza il processo di scioglimento che velocizza il rilascio di metano che...
 
-Quindi il problema NON sono 1.5°C globali ma dove quel 5% va ad innescare processi non lineari che a loro volta possono alterare dinamiche non lineari. Questo spiega perché alcuni sono negazionisti e altri catastrofisti.
+Quindi il problema NON sono 1.5&deg;C globali ma dove quel 5% va ad innescare processi non lineari che a loro volta possono alterare dinamiche non lineari. Questo spiega perché alcuni sono negazionisti e altri catastrofisti.
 
 Teniamo anche presente però che se è vero che a priori NON lo sappiamo. Per certo sappiamo che CO2 e temperatura media globale sono indici e non driver.
 
