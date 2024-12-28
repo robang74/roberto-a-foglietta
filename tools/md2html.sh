@@ -55,13 +55,15 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local a b c i str=$(basename ${2%.html}) dir=""
+    local a b c i str=$(basename ${2%.html}) title dir=""
     test "$str" == "index" && dir="html/"
+    title=${str/index/${PWD##*/}};
+    #title=${str//-/ };
 
     echo -n "<!DOCTYPE html>
 <html>
     <head>
-        <title>${str//-/ }</title>
+        <title>${title}</title>
         <meta charset='UTF-8'>
         <link rel='stylesheet' href='${dir}default.css'>
         <link rel='stylesheet' href='${dir}custom.css'>
