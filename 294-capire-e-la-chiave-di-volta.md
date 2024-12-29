@@ -93,6 +93,8 @@ Ma cosa succederebbe se l'Euro svalutasse (anche solo limitatamente all'Italia) 
 
 La prossima sezione di questo articolo proverà a dare una risposta concreta a questa domanda, però vi avviso in anticipo, tenetevi forte.
 
+<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br/>tasto destro per ingrandire in una nuova finestra</div>
+
 ---
 
 ### L'Euro che svalutò
