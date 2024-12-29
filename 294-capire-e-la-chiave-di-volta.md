@@ -77,7 +77,7 @@ Mal comune mezzo gaudio? Hanno fatto lo stesso con i nostri migliori clienti, in
 
 Andamento della produzione in Germania dal 1993 al 2024 con trend storico.
 
-<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-002.png" width="800"><br/></div>
+<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-002.png" width="800"><br/><sup>tasto destro per ingrandire in una nuova finestra</sup></div>
 
 Nonostante dopo la pandemia di Covid-19, abbia ripreso il valore precedente, negli ultimi due anni da quando è iniziata la crisi dell'energia a causa della questione Ucraina, ha perso quasi un 1/5 rispetto a quello che era il trend stimato sui dati dei 30 anni prima.
 
@@ -93,7 +93,7 @@ Ma cosa succederebbe se l'Euro svalutasse (anche solo limitatamente all'Italia) 
 
 La prossima sezione di questo articolo proverà a dare una risposta concreta a questa domanda, però vi avviso in anticipo, tenetevi forte.
 
-<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br/>tasto destro per ingrandire in una nuova finestra</div>
+<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br/><sup>tasto destro per ingrandire in una nuova finestra</sup></div>
 
 ---
 
