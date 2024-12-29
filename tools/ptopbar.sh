@@ -124,13 +124,17 @@ function get_html_item_str() {
     fi
 }
 
-file="$1"
+file="${1:-}"
+if [ "$file" == "test-page.md" ]; then
+    ln -sf tools/test-page.md .
+fi
 test -r "$file" || exit 1
 
 date1st=""
 declare -i DATETYPE=1 revnum=0
-gitlog=$(command git log --format=format:'%ci' "$file")
-revnum=$(echo "$gitlog" | wc -l)
+gitlog=$(command git log --follow --format=format:'%ci' \
+    "${file/test-page.md/tools/test-page.md}")
+revnum=$(echo "$gitlog" | grep . | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then

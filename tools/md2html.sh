@@ -101,7 +101,7 @@ function fx() {
     local i strn find file=$1; shift
     for i in "$@"; do
         find=$(echo "$i" | sed -e 's/\([",$*()]\)/\\\1/g')
-        strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc 'a-z-')
+        strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc '0-9a-z-')
         sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
     done
 }
@@ -158,7 +158,7 @@ function fx() {
 function get_images_list() {
     local dir ext
     for dir in "data/" "img/" ""; do
-        for ext in jpg png pdf; do
+        for ext in jpg png pdf txt; do
             ls -1 ${dir}*.${ext}
         done 2>/dev/null
     done
@@ -254,6 +254,9 @@ if [ $n -gt 1 ]; then
     str=$(printf ".%.0s" $str)
     printf "parallel working |$str|\n""work progression |"
     for i in $flist; do
+        if [ "$i" == "test-page.md" ]; then
+            ln -sf tools/test-page.md .
+        fi
         main_md2html $i &
         sleep 0.1
     done
