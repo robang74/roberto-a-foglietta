@@ -119,3 +119,33 @@ svg.infoicon {
     fill: lightblue;
 }
 
+div.topbar {
+    padding: 12px;
+    padding-top: 9px;
+    border-radius: 9px;
+    padding-bottom: 13px;
+    font-family: ubuntu condensed;
+}
+
+.tpbrtext, a.datatype { color: lightgray; }
+
+div.tpbrblue { background-color: darkblue; }
+div.tpbrgren { background-color: darkgreen; }
+div.tpbrwarm { background-color: maroon; }
+
+a.tpbrblue { color: lightblue; }
+a.tpbrgren { color: lightgreen; }
+a.tpbrwarm { color: orange; }
+
+.tpbrlang { }
+.tpbrlink { }
+.tpbrbold { }
+
+sup.datatype {
+    font-weight: normal;
+    position: relative;
+    top: 2px;
+}
+
+a.datatype { text-decoration: none; }
+

@@ -9,8 +9,17 @@ gitprj="${PWD##*/}"
 weburl="https://${gitusr}.github.io"
 gtlink="${weburl//./-}.translate.goog/${gitprj}"
 
-LINE_SHADE="darkwarm"
-TEXT_SHADE="darktext"
+color="gray"
+if [ "$gitprj" == "chatgpt-answered-prompts" ]; then
+    color="gren"
+elif [ "$gitprj" == "roberto-a-foglietta" ]; then
+    color="blue"
+elif [ "$gitprj" == "chatbots-for-fun" ]; then
+    color="warm"
+fi
+
+LINE_SHADE="tpbr${color}"
+TEXT_SHADE="tpbrtext"
 LINE_MARK="&#9783;&nbsp;<b>&Ropf;</b>"
 LINE_DASH="&nbsp;&mdash;&nbsp;"
 LANG_DASH="&middot;"
@@ -55,8 +64,6 @@ function print_topbar() { ######################################################
 declare -A LANG_LINKS
 local str lg LG lang=${7:-auto} trsl=0 file=${6:-}
 
-LINE_SHADE="${1}${2}"
-TEXT_SHADE="${1}text"
 PUBLISH_UNIVDATE="${3:-$(date +%F)}"
 
 ORIGIN_CODE=""
@@ -142,7 +149,6 @@ if [ $revnum -gt 0 ]; then
 fi 2>/dev/null
 
 eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2',p" "$file")
-#echo "1: '$1', 2: '$2'" >&2
 
 date1st=${1:-}
 if [ ! -n "$date1st" ]; then
@@ -161,6 +167,5 @@ else
     file="html/${file%.md}"
 fi
 
-#echo "date: $1, lang: $2, file: $file" >&2
-print_topbar "dark" "warm" "$date1st" "" "" "$file" "$2"
+print_topbar "" "" "$date1st" "" "" "$file" "$2"
 

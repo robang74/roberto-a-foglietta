@@ -41,3 +41,13 @@ svg.infoicon {
     fill: #008;
 }
 
+.tpbrtext, a.datatype { color: white; }
+
+div.tpbrblue { background-color: blue; }
+div.tpbrgren { background-color: green; }
+div.tpbrwarm { background-color: brown; }
+
+a.tpbrblue { color: yellow; }
+a.tpbrgren { color: yellow; }
+a.tpbrwarm { color: yellow; }
+
