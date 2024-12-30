@@ -6,6 +6,7 @@
 + ptopbar.sh: being able to switch fair/dark css
 + md2html.sh: ^a]) should be a <li> with letters
 + md2html.sh: ^[:space:]* is text indentation
++ md2html.sh: local link &target=_blank support
 
 # DONE
 
