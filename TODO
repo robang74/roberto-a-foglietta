@@ -4,6 +4,8 @@
 + md2html.sh: ^123a. should be a <li> with numb.
 + md2html.sh: improve session tagging (c lang.)
 + ptopbar.sh: being able to switch fair/dark css
++ md2html.sh: ^a]) should be a <li> with letters
++ md2html.sh: ^[:space:]* is text indentation
 
 # DONE
 
