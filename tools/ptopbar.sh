@@ -31,17 +31,30 @@ PUBLISH_LINK=""
 
 declare -A PROJ_LINKS GOTO_LINKS
 
-PROJ_LINKS[1,1]="${weburl}/chatbots-for-fun"
+PROJ_LINKS[1,1]="../chatbots-for-fun/index.html"
 PROJ_LINKS[1,2]="<tt>C4F</tt>"
-PROJ_LINKS[2,1]="${weburl}/roberto-a-foglietta"
+PROJ_LINKS[2,1]="../roberto-a-foglietta/index.html"
 PROJ_LINKS[2,2]="<tt>RAF</tt>"
-PROJ_LINKS[3,1]="${weburl}/chatgpt-answered-prompts"
+PROJ_LINKS[3,1]="../chatgpt-answered-prompts/index.html"
 PROJ_LINKS[3,2]="<tt>Q&A</tt>"
+
+################################################################################
+
+file="${1:-}"
+if [ "$file" == "test-page.md" ]; then
+    ln -sf tools/test-page.md .
+fi
+test -r "$file" || exit 1
+
+dir=""
+if [ "$file" != "README.md" ]; then
+    dir="../"
+fi
 
 declare -i i n=2
 for i in 1 2 3; do
     echo ${PROJ_LINKS[$i,1]} | grep -q $gitprj && continue
-    GOTO_LINKS[$n,1]=${PROJ_LINKS[$i,1]}
+    GOTO_LINKS[$n,1]=${dir}${PROJ_LINKS[$i,1]}
     GOTO_LINKS[$n,2]=${PROJ_LINKS[$i,2]}
     let n++
 done
@@ -111,8 +124,8 @@ fi
 
 TOPBAR_STRING+=" ${LINE_DASH} goto:&nbsp;<b class='tpbrbold tpbrlink'>"
 for i in $gotolist; do
-    TOPBAR_STRING+=" <a class='${LINE_SHADE}' href='${GOTO_LINKS[$i,1]}'>"\
-"${GOTO_LINKS[$i,2]}</a>"
+    TOPBAR_STRING+=" <a class='${LINE_SHADE}' href='${GOTO_LINKS[$i,1]}'"\
+"$(test $i -ne 1 && printf target='_blank')>${GOTO_LINKS[$i,2]}</a>"
     if [ $i -lt 3 ]; then TOPBAR_STRING+=" ${LANG_DASH}"; fi
 done
 echo "${TOPBAR_STRING}</b>&nbsp;</div>"

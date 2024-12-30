@@ -37,6 +37,8 @@ info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
 ################################################################################
 
+TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
+
 function get_html_item_str() {
     if [ -r "$1" ]; then
         str=$(cat "$1" | tr \" \')
@@ -45,7 +47,9 @@ function get_html_item_str() {
 }
 
 function mini_mdlinkconv() {
+    local t=${TARGET_BLANK}
     sed -e "s,\([ []*\)\[\([^][]*\)\]\([^(]\),\\1\&lbrack;\\2\&rbrack;\\3,g;" \
+        -e "s,\[\([^[]*\)](\([^)]*\)?target=_blank *),<a href=\"\\2\" $t>\\1</a>,g" \
         -e "s,\!\[\([^[]*\)](\([^)]*\)),<img src=\"\\2\" alt=\"\\1\">,g" \
         -e "s,\[\([^[]*\)](\([^)]*\)),<a href=\"\\2\">\\1</a>,g" "$@"
 }
@@ -82,7 +86,7 @@ function md2htmlfunc() {
 -e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
 -e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
--e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<div align="center"><img src="\2"><br/>\1</div>,' \
+-e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br/>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e 's,^# \(.*\),<H1 id="\1">\1</H1>,' \
 -e 's,^## \(.*\),<H2 id="\1">\1</H2>,' \
@@ -147,7 +151,7 @@ function fx() {
 </html>" >> $2
 
     sed -e 's,^\&copy; 202[4-9].*Roberto A. Foglietta.*\&lt;.*,<p>&</p>,' \
-        -e "s/<a [^>]*href=.http[^>]*/& target='_blank'/g" -i $2
+        -e "s/<a [^>]*href=.http[^>]*/& ${TARGET_BLANK}/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
         sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
