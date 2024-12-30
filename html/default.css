@@ -123,7 +123,7 @@ div.topbar {
     padding: 12px;
     padding-top: 9px;
     border-radius: 9px;
-    padding-bottom: 13px;
+    padding-bottom: 14px;
     font-family: ubuntu condensed;
 }
 
@@ -148,4 +148,8 @@ sup.datatype {
 }
 
 a.datatype { text-decoration: none; }
+
+div.tpbrblue, div.tpbrgren, div.tpbrwarm {
+    border-bottom: 1px solid dimgray;
+}
 

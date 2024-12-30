@@ -1,0 +1,50 @@
+/* 
+ * void Cascading Style Sheet for overriding or customise default.css
+ *
+ ******************************************************************************/
+
+body, .tpbrtext {
+    background-color: white;
+    color: black;
+}
+
+blockquote {
+    color: #000000;
+    background-color: #e8e808;
+}
+
+a:link, a:visited, a:hover, a:active,
+a.tpbrblue, a.tpbrgren, a.tpbrwarm, a.datatype {
+    text-decoration: underline;
+    color: black;
+}
+
+table {
+    border: 1px solid #606060;
+}
+
+span.warnicon {
+    background-color: yellow;
+    border: 2px solid yellow;
+    color: #800;
+}
+
+svg.warnicon {
+    fill: #800;
+}
+
+span.infoicon {
+    background-color: aqua;
+    border: 2px solid aqua;
+    color: #008;
+}
+
+svg.infoicon {
+    fill: #008;
+}
+
+div.tpbrblue, div.tpbrgren, div.tpbrwarm {
+    background-color: white;
+    border: 1px solid black;
+}
+

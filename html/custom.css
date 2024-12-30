@@ -1,16 +1,25 @@
 /* 
  * void Cascading Style Sheet for overriding or customise default.css
  *
- * You can also remove this file and create a softlink to pdfcool/warm.css
+ * You can also remove this file and create a softlink to pdfcool/warm/gray.css
  *
  ******************************************************************************/
 /*
  * Use this to import the html to pdf warm CSS for printing on paper
  *
+ * pdfwarm.cmntline *
 @import url('pdfwarm.css');
-/*/
+/**/
 /*
- * Use this to import the html to pdf warm CSS for printing on paper
+ * Use this to import the html to pdf cool CSS for printing on paper
  *
+ * pdfcool.cmntline *
 @import url('pdfcool.css');
-/*/
+/**/
+/**/
+/*
+ * Use this to import the html to pdf gray CSS for printing on paper
+ *
+ * pdfgray.cmntline *
+@import url('pdfgray.css');
+/**/
