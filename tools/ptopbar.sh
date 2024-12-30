@@ -148,20 +148,24 @@ file="${1:-}"
 if [ "$file" == "test-page.md" ]; then
     ln -sf tools/test-page.md .
 fi
+if [ "$file" == "index.html" ]; then
+    file="README.md"
+fi
 test -r "$file" || exit 1
 
+eval set -- \
+$(sed -ne "s/<.* created=[\"']\([^:\"']*\):\([^:\"']*\):\{0,1\}\([^:\"']*\).*/'\\1' '\\2' '\\3'/p" "$file")
+
 date1st=""
-declare -i DATETYPE=1 revnum=0
+declare -i DATETYPE=1 revnum=$[0${3:-}]
 gitlog=$(command git log --follow --format=format:'%ci' \
     "${file/test-page.md/tools/test-page.md}")
-revnum=$(echo "$gitlog" | grep . | wc -l)
+revnum+=$(echo "$gitlog" | grep . | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then
     REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'>${revnum}</b>"
 fi 2>/dev/null
-
-eval set -- $(sed -ne "s,<.* created=[\"']\([^:\"']*\):\([^:\"']*\).*,'\\1' '\\2',p" "$file")
 
 date1st=${1:-}
 if [ ! -n "$date1st" ]; then
