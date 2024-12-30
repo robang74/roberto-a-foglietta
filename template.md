@@ -4,7 +4,7 @@
 
 ## ${MAIN_TITLE}
 
-* Published ${PUBLISH_DATE} - origin [${PUBLISH_SOURCE}](${PUBLISH_LINK}) - translate [${IT_TR}] [${EN_TR}] [${DE_TR}] [${FR_TR}] [${ES_TR}] - [${TOP_LINK}]
+* Published ${PUBLISH_DATE} - origin [${PUBLISH_SOURCE}](${PUBLISH_LINK}) - translate [${IT_TR}] [${EN_TR}] [${DE_TR}] [${FR_TR}] [${ES_TR}]
 
 ${PUBLISH_NOTES}
 

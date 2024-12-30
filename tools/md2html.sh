@@ -190,7 +190,7 @@ function main_md2html() {
     for i in $1; do
         if [ "$i" == "template.md" ]; then
             continue
-        elif [ "$i" == "README.md" ]; then
+        elif [ "$i" == "README.md" -o "$i" == "index.html" ]; then
             index=1
             continue
         fi
@@ -244,7 +244,7 @@ function main_md2html() {
 ################################################################################
 
 mkdir -p html
-test -n "$1" || rm -f html/[0-9]*.html
+#test -n "$1" || rm -f html/[0-9]*.html
 
 flist=$(ls -1 ${@:-*.md})
 declare -i n=$(echo "$flist" | wc -l)
@@ -263,7 +263,7 @@ if [ $n -gt 1 ]; then
     wait
     echo '|'
 else
-    printf "converting $1 "
+    printf "converting ${1/index.html/README.md} "
     main_md2html $1 '.'
     printf " "
 fi
