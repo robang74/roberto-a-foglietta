@@ -190,7 +190,7 @@ Analogamente vi sono due maniere, anch'esse antitetiche, di parlare di innovazio
 
 Compresi questi concetti base riguardo all'innovazione, che da principio pareva chissà quale sorta di magia, diventa immediato distinguere la fuffa dalla realtà.
 
-Nota di colore: l'innovazione è come il sesso fra adolescenti, tanti ne parlano ma pochi lo hanno fatto.
+Nota di colore: l'innovazione è come il sesso fra adolescenti, tanti ne parlano ma pochi lo hanno fatto. Anche Mario Draghi ne ha parlato (cfr. [qui](https://robang74.github.io//chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html#prompt-5)) nel suo report da 400 pagine per la Commissione Europea.
 
 <br/>
 
