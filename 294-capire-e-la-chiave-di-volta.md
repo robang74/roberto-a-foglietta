@@ -96,6 +96,80 @@ La prossima sezione di questo articolo proverà a dare una risposta concreta a q
 <div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br/>
 <sup>Screenshot del 2 dicembre 2024 - tasto destro per ingrandire in una nuova finestra</sup></div>
 
+**Luigi Del Giacco** ha scritto in un commento su LinkedIn:
+
+> 110%, introdotto è costato al 31 marzo 2024 qualcosa meno di 129 miliardi.
+
+In termini di immediate perdite, ma uno Stato deve sempre considerare un termine di lungo periodo quando investe risorse altrimenti agirebbe come un bottegaio che mira a chiudere la giornata in positivo o un privato che mira a chiudere il trimestre in positivo.
+
+D'altronde questa è la ragione essenziale dello Stato, senza la quale non avrebbe ragione di esistere. Provvedere a fornire una pianificazione ed erogazione di determinati servizi che per loro stessa natura e su un arco temporale tale nessun privato vorrebbe fare quel business. É la forma mutualistica alla base dello Stato che gli permette di affrontare questo ruolo.
+
+Ma la forma mutualistica, di questo tipo, implica patti generazionali sostenibili e modificati per poi essere adatti ai cambiamenti (cfr. riforme strutturali), pianificazione e ovviamente una classe manageriale pubblica lungimirante.
+
+Quando viene a mancare una sola di queste caratteristiche, lo stato non può assolvere al suo compito mutualistico sul lungo. periodo. Se ne mancano due, diventa un gioco in perdita per la società. Se mancano tutte e tre cessa la sua ragione di esistere.
+
+---
+
+### Andamento Italia
+
+Cominciamo con il fare i c.d. conti della serva - cioé quanto è aumentato il costo della vita ovvero quanto potere d'acquisto abbiamo perso - per i quali mi sono avvalso dell'aiuto di ChatGPT per raccogliere e organizzare i dati.
+
+#### 1. Inflazione Media Annua (IPCA)
+
+- **2018-2021:** Inflazione moderata, oscillante tra 0,5% e 1,9%.
+
+- **2022:** Impennata significativa a circa 8,7%, trainata dal rialzo dei prezzi energetici e delle materie prime.
+
+- **2023:** Inflazione più contenuta rispetto al 2022, ma ancora elevata (circa 6,1%).
+
+- **2024 (stima):** L'inflazione prevista è intorno al 2,4%-1,9%, con una stabilizzazione dei prezzi e una diminuzione delle pressioni inflazionistiche sui beni energetici.
+
+#### 2. Incremento Reale di un Paniere Base (Indice 2018 = 1.00)
+
+Utilizzando l'IPCA per stimare il costo cumulativo:
+
+- **2018:** 1.00 (base di riferimento).
+
+- **2019:** 1.01 (+1%).
+
+- **2020:** 1.01 (inflazione bassa a causa della pandemia).
+
+- **2021:** 1.02 (+2% cumulativo).
+
+- **2022:** 1.11 (+11% cumulativo, forte crescita).
+
+- **2023:** 1.18 (+18% cumulativo).
+
+- **2024 (stima):** 1.21 (+21% cumulativo, considerando una crescita moderata dell'inflazione prevista).
+
+#### 3. Andamento del debito pubblico italiano (2018-2024)
+
+Ecco una sintesi dell'andamento del debito pubblico italiano dal governo Conte I (2018) fino al 2024, con stime basate sui dati disponibili:
+
+| Periodo            | Debito pubblico (miliardi di euro) | Rapporto debito/PIL (%) |
+|--------------------|------------------------------------|-------------------------|
+| **2018 (Conte I)** | 2.321                              | 134,1                   |
+| **2019 (Conte II)**| 2.409                              | 134,8                   |
+| **2020 (Pandemia)**| 2.569                              | 155,0                   |
+| **2021 (Draghi)**  | 2.678                              | 150,3                   |
+| **2022 (Meloni)**  | 2.768                              | 144,4                   |
+| **2023**           | 2.880                              | 137,3                   |
+| **2024 (stima)**   | Oltre 3.000                        | 136,0 (stima)           |
+
+**Osservazioni**
+
+- **Crescita del debito**: Il debito pubblico è aumentato significativamente durante la pandemia nel 2020, raggiungendo il rapporto debito/PIL più alto mai registrato (155%). Questo è stato causato principalmente da interventi economici emergenziali e da una contrazione del PIL.
+
+- **Riduzione del rapporto debito/PIL**: Dal 2021, grazie alla ripresa economica e alla crescita nominale del PIL, il rapporto debito/PIL è in calo, pur mantenendo valori elevati.
+
+- **Stime per il 2024**: Si prevede che il debito superi i 3.000 miliardi di euro, mentre il rapporto debito/PIL potrebbe rimanere stabile o calare leggermente grazie a una crescita economica moderata.
+
+Questi dati evidenziano la complessità del controllo del debito pubblico italiano, soprattutto in un contesto di alti tassi di interesse che aumentano i costi di servizio del debito. Misure strutturali saranno necessarie per stabilizzare ulteriormente la situazione.
+
+#### 4. Conclusione
+
+Se la bilancia commerciale resta invariata o peggiora a causa dei costi energetici, l'aumento del PIL nominale riflette principalmente un fenomeno inflattivo, con poca o nessuna crescita reale. In questo contesto, il rapporto debito/PIL a prezzi costanti risulterebbe più alto rispetto a quello calcolato nominalmente, rendendo l'apparente "riduzione" del debito meno significativa di quanto sembri.
+
 ---
 
 ### L'Euro che svalutò
