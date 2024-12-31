@@ -169,10 +169,21 @@ function get_images_list() {
 }
 
 function link_md2html() {
-    local i="$1" f="$2" dir=""
-    test "$f" == "index.html" && dir="html/"
+    local i="$1" f="$2" dir="" dim="../"
+    if [ "$f" == "index.html" ]; then dir="html/"; dim=""; fi
     echo "$1" | grep -qe "^italian/" && dir="../italian/html/"
-    sed -e "s,\(href=[\"']\)$i\.md\([\"']\),\\1${dir}${i##*/}.html\\2,g" -i $f
+    local a="${dir}${i##*/}.html" b="${dim}${i##*/}.md"
+#
+#    3-rules link translation legenda
+#
+#    .md#tag?target -> html
+#    .md -> .html
+#    .md?target -> .md
+#
+    sed -e "s,\(href=[\"']\)$i\.md\(#[^>]*>\),\\1$a\\2,g" \
+        -e "s,\(href=[\"']\)$i\.md\([ \"']*>\),\\1$a\\2,g" \
+        -e "s,\(href=[\"']\)$i\.md\([^#>]* target=\),\\1$b\\2,g" \
+        -i $f
 }
 
 zip=0
@@ -216,9 +227,9 @@ function main_md2html() {
             sed -e "s,\(href=.\)$i,\\1../$i,g" \
                 -e "s,\(src=.\)$i,\\1../$i,g" -i $j
         done
-        for i in *.md; do
-            sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
-        done
+#       for i in *.md; do
+#           sed -e "s,\(href=.\)$i\">$i,\\1${i%.md}.html\">${i%.md}.html,g" -i $j
+#       done
     done
     printf "$b" #2
 
