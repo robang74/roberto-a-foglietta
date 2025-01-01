@@ -94,6 +94,25 @@ In fact, a compact/rigid system has several good properties but flexibility and 
 
 ---
 
+### An example
+
+The photo below shows a smartphone display not a real object.
+
+<div align="center"><img src="img/292-linux-android-and-redfish-os-img-005.png" width="800"><br/>
+<sup>Screenshot 2023-09-21 - right click to enlarge in a new window</sup></div>
+
+Inspired by Punkt. MP01, I have decided to adapt their design to RedFish OS running on a Sony Xperia 10 II, a modern device that debuted on the market in the middle of 2020.
+
+The Sony Electronics Xperia 10 II has an easy grip due to its unusual long bar ratio OLED 6" display (1080x2520) equipped with an ARM64 8-cores @2GHz, 4GB of RAM and 128GB of internal flash storage with a real writing speed above 100MB/s. On the communication side, it is a LTE 4G with GNSS/AGPS/GPS subsystem that also supports the Galileo constellation with a firmware upgrade (tested and working).
+
+The photo below shows just a presentation, not even a working proof-of-concept. After all, the software adaptation to create it required just a working-day dedicated effort, and it would be insane to expect a full phone to work in such a small amount of time.
+
+What took more effort was the power-saving. The smartphone consumes a maximum of 81 mAh with the display on and in interactive mode, while it consumes 23 mAh on average when it is in standby waiting for an event. This means that with a 3600 mAh battery, it stands by for 156 hours. with little improvement towards 21.4 mAh on average, it will be a whole week. 
+
+Welcome back Nokia 3310! 🤗
+
+---
+
 ### Conclusion
 
 The fortune of IBM was being forced by the US anti-trust to release the specification for free-as-free-beer their IBM AT PC standards.
@@ -115,6 +134,7 @@ People, who can put some more extra money on buying a device, will prefer to buy
 Still, cheaper and soon-unsupported alternatives will always be in the wild because as much the confusion as the quest for perfection are both two fundamental traits of human nature whatever the market segmentation is or will be.
 
 <br/>
+<br/>
 
 ## Related papers
 
@@ -126,6 +146,7 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 
 * [my SCRUM in a nutshell](https://github.com/robang74/P2C2-Management-Style/blob/main/my-scrum-in-a-nutshell.pdf) PDF slide (2023-04-13)
 
+<br/>
 <br/>
 
 ## Share alike
