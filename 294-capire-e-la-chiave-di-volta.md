@@ -198,7 +198,6 @@ Forse qualcuno dirà che sono solo numeri. Non però da un punto di vista della 
 Il risultato immediato è stato che gli italiani hanno perso 1/4 del loro valore d'acquisto ma il costo sociale è stato cancellare "ab-origine" una generazione di nuovi italiani, che equivale a dire: regalare l'Italia agli immigrati. Cosa che per altro facciamo dal 1979, demograficamente parlando. Quindi nulla di nuovo sotto al sole italico.
 
 <br/>
-<br/>
 
 ## Agnotology
 
@@ -211,9 +210,8 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 > There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), 1980
 
 <br/>
-<br/>
 
-## Related
+## Articoli correlati
 
 * [Finanza concetti di base](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/177-Finanza_concetti_base.pdf) (2018-03-23, PDF)
 
@@ -229,7 +227,6 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 * [L'importanza dell'economia domestica](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/225-L_importanza_dell_economia_domestica.pdf) (2024-11-14, PDF)
 
-<br/>
 <br/>
 
 ## Share alike
