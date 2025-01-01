@@ -35,9 +35,9 @@ info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
 ' 1 0-2 1 1 0 0 1 0 2Z"></path></svg><b>&nbsp;&nbsp;NOTICE&nbsp;&nbsp;</b></span>'
 info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
-################################################################################
-
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
+
+################################################################################
 
 function get_html_item_str() {
     if [ -r "$1" ]; then
