@@ -134,6 +134,17 @@ People, who can put some more extra money on buying a device, will prefer to buy
 Still, cheaper and soon-unsupported alternatives will always be in the wild because as much the confusion as the quest for perfection are both two fundamental traits of human nature whatever the market segmentation is or will be.
 
 <br/>
+
+## Related videos
+
+* [RedFish OS recovery image reboot](https://youtu.be/j8iWLmYSx5I) (2023-08-20)
+
+* [RedFish OS recovery image boots a freshly installed SailFish OS](https://youtu.be/IJM3DVA3YyE) (2023-08-30)
+
+* [RedFish OS recovery image install SailFish OS by the telnet menu](https://youtu.be/EP10Evtl0wo) (2023-08-31)
+
+* [Redfish OS speech at SFSCON 2023](https://youtu.be/At4NnCPuaO4) (2023-11-10)
+
 <br/>
 
 ## Related papers
@@ -146,7 +157,6 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 
 * [my SCRUM in a nutshell](https://github.com/robang74/P2C2-Management-Style/blob/main/my-scrum-in-a-nutshell.pdf) PDF slide (2023-04-13)
 
-<br/>
 <br/>
 
 ## Share alike
