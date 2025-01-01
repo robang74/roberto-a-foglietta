@@ -6,7 +6,6 @@
 
 * Published Nov 27, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/capire-%C3%A8-la-chiave-di-volta-roberto-a-foglietta-kx3ue) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
 
-
 ### Premessa
 
 Questo articolo è stato scritto componendo due post con lo stesso titolo ma divisi in due parti qui riproposte in una singola narrazione come era stato concepito questo documento fin da principio ma diviso per motivi "editoriali" di piattaforma.
@@ -199,6 +198,7 @@ Forse qualcuno dirà che sono solo numeri. Non però da un punto di vista della 
 Il risultato immediato è stato che gli italiani hanno perso 1/4 del loro valore d'acquisto ma il costo sociale è stato cancellare "ab-origine" una generazione di nuovi italiani, che equivale a dire: regalare l'Italia agli immigrati. Cosa che per altro facciamo dal 1979, demograficamente parlando. Quindi nulla di nuovo sotto al sole italico.
 
 <br/>
+<br/>
 
 ## Agnotology
 
@@ -210,6 +210,26 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 > There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), 1980
 
+<br/>
+<br/>
+
+## Related
+
+* [Finanza concetti di base](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/177-Finanza_concetti_base.pdf) (2018-03-23, PDF)
+
+* [La demografia nel carello della spesa](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) (2019-05-01 ,PDF)
+ 
+* [Il debito aggregato è solo make-up](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/257-Il_debito_aggregato_%C3%A8_solo_make-up.pdf) (2024-05-10, PDF)
+
+* [L'abominevole truffa dei bonus edilizi](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/263-L_abominevole_truffa_dei_bonus_edilizi.pdf) (2024-05-22, PDF)
+
+* [La favola dell'export italiano](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/269-La_favola_dell_export_italiano-v1.pdf) (2024-07-02, PDF)
+
+* [Tassare le pensioni? Quali pensioni?](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/272-Tassare_le_pensioni_Quali_pensioni.pdf) (2024-07-09, PDF)
+
+* [L'importanza dell'economia domestica](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/225-L_importanza_dell_economia_domestica.pdf) (2024-11-14, PDF)
+
+<br/>
 <br/>
 
 ## Share alike
