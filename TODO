@@ -6,6 +6,9 @@
 + md2html.sh: ^a]) should be a <li> with letters
 + md2html.sh: ^[:space:]* is text indentation
 + ptopbar.sh: put revision on a new line for ff
++ index.html like pdf.*/ also for data/ folder
++ md2html.sh: any <meta/style> move in <head>
++ md2html.sh: [.*](data) should be managed?
 
 # DONE
 
