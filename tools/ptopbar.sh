@@ -164,7 +164,9 @@ revnum+=$(echo "$gitlog" | grep . | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then
-    REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'>${revnum}</b>"
+    REVISION_STRING=" ${LINE_DASH} revision: <b class='tpbrbold'
+>${revnum}</b
+>"
 fi 2>/dev/null
 
 date1st=${1:-}
