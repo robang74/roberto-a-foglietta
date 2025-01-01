@@ -102,7 +102,7 @@
 
 [**`IT`**] Articoli in PDF ancora da convertire, e scritti a partire dal dicembre 2015.
 
-* 001 up to 291, those not listed above - [pdf.todo folder](pdf.todo)
+* 001 up to 291, those not listed above - [pdf.todo](pdf.todo) folder
 
 <br/>
 
