@@ -69,7 +69,7 @@ function md2htmlfunc() {
     <head>
         <title>${title}</title>
         <meta charset='UTF-8'>
-        <link rel='shortcut icon' type='image/x-icon' href='favicon.ico?'>
+        <link rel='shortcut icon' type='image/x-icon' href='${dir}favicon.ico?'>
         <link rel='stylesheet' href='${dir}default.css'>
         <link rel='stylesheet' href='${dir}custom.css'>
     </head>
