@@ -9,6 +9,8 @@
 + index.html like pdf.*/ also for data/ folder
 + md2html.sh: any <meta/style> move in <head>
 + md2html.sh: [.*](data) should be managed?
++ md2html.sh: **`CAPITALS`** -> translate=no
++ md2html.sh: convert the \~~ ipostit ~\~ box
 
 # DONE
 
