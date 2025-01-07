@@ -5,34 +5,109 @@
  *
  ******************************************************************************/
 
+html {
+ /*\,-Remove this parenthesys to switch the zoom */
+/**)/
+    zoom: 125%;
+/**/
+}
+
 body {
+ /*\,-Remove this parenthesys to switch the font */
+/**)/
+    font-family: "Tahoma mono", sans-serif;
+/*/
+    font-family: "Ubuntu", sans-serif;
+/**/
+    text-align: justify;
+    line-height: 1.5;
+ /*\,-Remove this parenthesys to set the font size */
+/*)/font-size: 16px;                               /* <- HERE! font base size */
+
     color: #f8f4f0;
     background-color: #202020;
-    font-family: sans-serif;
-    text-align: justify;
     max-width: 800px;
     margin: auto;
 }
 
+hr.post-it {
+    border: 0px transparent;
+    border-top: 1px dashed gray;
+    background-color: transparent;
+}
+
+div.post-it {
+/*  color: gray; */
+    border-radius: 16px;
+    border: 1px dashed gray;
+    padding: 20px 40px 5px 40px;
+    background-color: transparent;
+    font-family: "Comic Sans", cursive;
+    position: relative;
+ /*\,-Remove this parenthesys to reverse the side */
+/**)/
+    left: 10px;
+/**/
+}
+
+b.post-it {
+    float: left;
+    position: absolute;
+ /*\,-Remove this parenthesys to reverse the side */
+/**)/
+    left: -9px; top: -15px;
+/*/
+    left: 6px; top: 3px;
+/**/
+    color: gray;
+}
+
 blockquote {
-    width: 760px;
     color: #fff8f0;
     font-size: 110%;
-    font-family: serif;
+    line-height: 1.25;
     text-align: justify;
+    font-family: "Garamond", serif;
+
+    width: 760px;
     background-color: #302820;
     border-left: 8px double gray;
-    padding: 8px 16px 8px 16px;
+    padding: 8px 16px 12px 16px;
     position: relative;
     left: -40px;
 }
+
 blockquote.dqt {
     width: 720px;
 }
 
-#firstdiv { }
-#footnote { }
+tt {
+    font-weight: bold;
+    position: relative;
+ /*\,-Remove this parenthesys to switch the font */
+/**)/
+    font-family: "Ubuntu mono", monospace; top: -1px;
+/*/
+    font-family: "Tahoma mono", monospace; font-size: 80%; top: -0.5px;
+/**/
+    padding-left: 4px;
+    padding-right: 4px;
+}
 
+#firstdiv { /* removed in md->html conversion */ }
+#footnote { }
+#datenote { }
+
+a {
+    text-decoration: none;
+    border-bottom: 3px double;
+ /*\,-Remove this parenthesys to switch the font */
+/**)/
+    font-family: "Ubuntu Condensed", condensed; font-size: 110%;
+/*/
+    font-family: "Tahoma", sans-serif;
+/**/
+}
 a:link {
     color: #84cfff;
 }
@@ -65,11 +140,17 @@ ul.dqt {
 
 table {
     width: 800px;
+ /*\,-Remove this parenthesys to switch the font */
+/**)/
+    font-family: "Ubuntu Mono", monospace;
+/*/
+    font-family: "Tahoma mono", monospace; font-size: 80%;
+/**/
     border-collapse: collapse;
 }
 td, th {
     padding: 10px;
-    text-align: left;
+    text-align: center;
     border: 1px solid #808080;
 }
 th {
@@ -77,6 +158,12 @@ th {
 }
 tr.trline td {
     padding: 1px;
+}
+
+td.td1stcol {
+    padding-left: 20px;
+    font-weight: bold;
+    text-align: left;
 }
 
 .li2in {
@@ -119,15 +206,22 @@ svg.infoicon {
     fill: lightblue;
 }
 
-div.topbar {
-    padding: 12px;
-    padding-top: 9px;
-    border-radius: 9px;
-    padding-bottom: 14px;
-    font-family: ubuntu condensed;
+.topbar {
+    font-family: "Ubuntu Condensed", condensed;
 }
 
-.tpbrtext, a.datatype { color: lightgray; }
+a.topbar {
+    font-family: "Ubuntu Mono", monospace;
+}
+
+div.topbar {
+    padding: 15px;
+    padding-top: 9px;
+    border-radius: 9px;
+    padding-bottom: 12px;
+}
+
+.tpbrtext, a.date-type { color: lightgray; }
 
 div.tpbrblue { background-color: darkblue; }
 div.tpbrgren { background-color: darkgreen; }
@@ -141,13 +235,34 @@ a.tpbrwarm { color: orange; }
 .tpbrlink { }
 .tpbrbold { }
 
-sup.datatype {
+sup.date-type {
     font-weight: normal;
     position: relative;
     top: 2px;
 }
 
-a.datatype { text-decoration: none; }
+a.date-type, a.topbar {
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+}
+
+a.toplink {
+    top: -5px;
+    position: relative;
+ /*\,-Remove this parenthesys to switch the font */
+/**)/
+    font-family: "Ubuntu Mono", monospace;
+/*/
+    font-family: "Tahoma Mono", monospace; font-size: 80%;
+/**/
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#date-legenda {
+    font-family: "Ubuntu Condensed", condensed;
+}
 
 div.tpbrblue, div.tpbrgren, div.tpbrwarm {
     border-bottom: 1px solid dimgray;
