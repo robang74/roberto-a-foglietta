@@ -112,13 +112,18 @@ a:link {
     color: #84cfff;
 }
 a:hover {
-    color: #84ffff;
+    border: none;
+    text-decoration: underline;
 }
 a:visited {
     color: #ffc060;
+    text-decoration: none;
+    border: none;
 }
 a:active {
     color: #fff060;
+    text-decoration: bold;
+    border: none;
 }
 
 img {
@@ -266,5 +271,14 @@ a.toplink {
 
 div.tpbrblue, div.tpbrgren, div.tpbrwarm {
     border-bottom: 1px solid dimgray;
+}
+
+.sup-note {
+    left: 50%;
+    line-height: 1.0;
+    position: relative;
+    transform: translate(-50%, -25%);
+    display: inline-block;
+    color: #e8fbe8;
 }
 
