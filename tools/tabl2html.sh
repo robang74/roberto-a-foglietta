@@ -41,7 +41,7 @@ function file_conv_one_table() {
     echo "converting table in file at $a:$b"
     if [ $n -gt 0 ]; then
         head -n$a $f
-        printf "<center><table id='$idstrn'>"
+        printf "<center class='tabcenter'><table id='$idstrn'>"
         head -n$b $f | tail -n$[b-a] |\
             sed -e "s, *|,<tr><td>,"   \
                 -e "s,| *$,</td></tr>," \
@@ -54,6 +54,7 @@ function file_conv_one_table() {
         -e "s,<td>[ -]\+</td>,<td></td>,g" \
         -e "s,<tr>\(\(<td></td>\)*\)</tr>,<tr class='trline'>\\1</tr>," \
         -e "/<table id='table-[0-9]\{3\}'>/s,<\(/*\)td>,<\\1th>,g" \
+        -e "s,<tr><td>,<tr><td class='td1stcol'>," \
         -i $f
 }
 
