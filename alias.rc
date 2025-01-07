@@ -1,12 +1,17 @@
+raisewapp() {
+    local appn=$(wmctrl -l | sed -ne "s/.*$(hostname) \(.* - $1\)$/\\1/p")
+    test -n "$appn" && wmctrl -R $appn
+}
 m() { bash tools/md2html.sh "${@:-$(st -m *.md)}"; }
 c() {
     for i in "${@:-$(st -m *.md)}"; do
-        i=${i/i\.md/.html}
+        i=${i/.md/.html}
         i=${i/README/index}
         test -r "$i" || i="html/$i"
-        i=${i/html\//}
-        echo "i: $i"
+        test "$i" == "html/" && i="index.html"
+        printf "\n> browse file: $i\n"
         bash -c "nohup chromium-browser ${i:-index.html} >/dev/null 2>&1 &"
+        for i in $(seq 1 5); do sleep 0.1; raisewapp Chromium; done
     done
     echo
 }
