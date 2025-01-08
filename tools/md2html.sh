@@ -59,23 +59,14 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local a b c i str=$(basename ${2%.html}) title dir=""
+    local a b c i str=$(basename ${2%.html}) dir="" title txt
     test "$str" == "index" && dir="html/"
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
 
-    echo -n "<!DOCTYPE html>
-<html>
-    <head>
-        <title>${title}</title>
-        <meta charset='UTF-8'>
-        <link rel='shortcut icon' type='image/x-icon' href='${dir}favicon.ico?'>
-        <link rel='stylesheet' href='${dir}default.css'>
-        <link rel='stylesheet' href='${dir}custom.css'>
-    </head>
-    <body>
-" >$2
-    source tools/ptopbar.sh $1 >> $2
+    txt=$(head -n10 html/items/pagebody.htm)
+    eval "echo \"$txt\" >$2"
+    source tools/ptopbar.sh $1 >>$2
     if [ "$str" = "index" ]; then
         sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
     else

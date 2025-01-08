@@ -1,0 +1,36 @@
+/* 
+ * Cascading Style Sheet for dark theming html pages converted from markdown
+ *
+ * (C) 2025, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
+ *
+ ******************************************************************************/
+ 
+body { color: #f0f4f8; background-color: #101418; }
+
+blockquote { color: #f0f4ff; background-color: #102040; }
+
+div.post-it { border: 1px dashed aqua; }
+b.post-it { color: aqua; }
+
+a, a:link { color: aqua; }
+.sup-note, a:visited, a:active { color: #e8efff; }
+
+td, th { border: 1px solid gray; }
+
+/* -------------------------------------------------------------------------- */
+
+.tpbrtext, a.date-type { color: lightgray; }
+
+div.tpbrblue { background-color: darkblue; }
+div.tpbrgren { background-color: darkgreen; }
+div.tpbrwarm { background-color: maroon; }
+
+a.tpbrblue { color: aqua; }
+a.tpbrgren { color: lightgreen; }
+a.tpbrwarm { color: orange; }
+
+/* -------------------------------------------------------------------------- */
+
+div.tpbrblue, div.tpbrgren, div.tpbrwarm {
+    border-bottom: 1px solid dimgray;
+}

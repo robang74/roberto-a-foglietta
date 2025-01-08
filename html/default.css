@@ -24,8 +24,8 @@ body {
  /*\,-Remove this parenthesys to set the font size */
 /*)/font-size: 16px;                               /* <- HERE! font base size */
 
-    color: #f8f4f0;
-    background-color: #202020;
+/*  color: #f4f4f4; */
+/*  background-color: #202020; */
     max-width: 800px;
     margin: auto;
 }
@@ -39,7 +39,7 @@ hr.post-it {
 div.post-it {
 /*  color: gray; */
     border-radius: 16px;
-    border: 1px dashed gray;
+/*  border: 1px dashed gray; */
     padding: 20px 40px 5px 40px;
     background-color: transparent;
     font-family: "Comic Sans", cursive;
@@ -59,18 +59,18 @@ b.post-it {
 /*/
     left: 6px; top: 3px;
 /**/
-    color: gray;
+/*   color: gray; */
 }
 
 blockquote {
-    color: #fff8f0;
+/*  color: darkwhite; */
     font-size: 110%;
     line-height: 1.25;
     text-align: justify;
     font-family: "Garamond", serif;
 
     width: 760px;
-    background-color: #302820;
+/*   background-color: #383838; */
     border-left: 8px double gray;
     padding: 8px 16px 12px 16px;
     position: relative;
@@ -99,29 +99,30 @@ tt {
 #datenote { }
 
 a {
-    text-decoration: none;
-    border-bottom: 3px double;
  /*\,-Remove this parenthesys to switch the font */
 /**)/
     font-family: "Ubuntu Condensed", condensed; font-size: 110%;
 /*/
     font-family: "Tahoma", sans-serif;
 /**/
+    /*text-decoration: underline;*/
+    text-decoration: none;
+    border-bottom: 1px double;
+    padding-bottom: 1px;
 }
 a:link {
-    color: #84cfff;
 }
 a:hover {
-    border: none;
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 3px double;
 }
 a:visited {
-    color: #ffc060;
+/*  color: #ffc060; */
     text-decoration: none;
     border: none;
 }
 a:active {
-    color: #fff060;
+/*  color: #fff060; */
     text-decoration: bold;
     border: none;
 }
@@ -226,6 +227,8 @@ div.topbar {
     padding-bottom: 12px;
 }
 
+/* -----------------------------------------------------------------------------
+
 .tpbrtext, a.date-type { color: lightgray; }
 
 div.tpbrblue { background-color: darkblue; }
@@ -239,6 +242,8 @@ a.tpbrwarm { color: orange; }
 .tpbrlang { }
 .tpbrlink { }
 .tpbrbold { }
+
+------------------------------------------------------------------------------ */
 
 sup.date-type {
     font-weight: normal;
@@ -279,6 +284,6 @@ div.tpbrblue, div.tpbrgren, div.tpbrwarm {
     position: relative;
     transform: translate(-50%, -25%);
     display: inline-block;
-    color: #e8fbe8;
+/*  color: #e8e8e8; */
 }
 
