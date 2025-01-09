@@ -12,7 +12,7 @@ The following is the 1st gut-written draft edition, enjoy while I am working to 
 
 In these days I saw few videos about a the anti-system candidate running for Canada presidency. A matter that I do not care about because I am not feeling involved even by a little measure of it. 
 
-However, because I recognised that some statements in such electoral campaign have some sort of implications (spoiler: the candidate has been suggested to present itself as an anti-system candidate that it would fix the anti-reality system using the common sense) about a topic of many that I am interested in, I care to talk about THAT topic.
+However, because I recognised that some statements in such electoral campaign have some sort of implications (spoiler: the candidate has been suggested to present itself as an anti-system candidate that it would fix the anti-reality system using the common sense) about a topic of many that I am interested in, I care to talk about **THAT** topic.
 
 ---
 
@@ -58,7 +58,7 @@ The evil root of the nowadays issues is written in books – not in stone – wr
 
 For sake of fairness, those who wrote the critics (e.g. Karl Marx, just to naming the author most secretly read among those who live betting others people wealth at the Wall Street Casino) of the system based on their early funding fathers philosophy – *while the concepts of economics and accounting were existing millennials before the branch of studies about such a topic like finance and economic were never formalised also because the University itself was invented few centuries before and took its time to spread around the Europe* – were in the same pot cooking aka poorly educated about the subject with no any real-world experience – *also because the Industrial Revolution was at its first beginnings hence nobody at that time could have matured any kind of real-world experience on which base its scientific consideration, therefore just philosophy can be written at that time* – and both were educated and widely experienced in a manner that compared with the nowadays state-of-art on that subjects (including chaos, systems and games theories without forgetting the Nash equilibrium principle or the falsification of asymmetric information advantage, etc.) make look like them as a bunch of untouched tribe of savages who lived all their life-time like monkeys in the jungle.
 
-Or to make a more shorter but still fashionable example, we can states that accepting paper money which has printed by thin air (aka legal currency without a material back-up or any fixed rate with a valuable commodity, aka golden standard or Bretton Wood agreement)  in exchange of our proprieties, work and preciously limited life-time is something that makes – *in comparison* – the Native Americans - *who were trading their hunting [prede] in exchange for “the water made of fire” whiskey, get intoxicated and [drogati dipendenti] for having more* - seems them like an exclusive club of illuminati doing a great business richly profitable.
+Or to make a more shorter but still fashionable example, we can states that accepting paper money which has printed by thin air (aka legal currency without a material back-up or any fixed rate with a valuable commodity, aka golden standard or Bretton Wood agreement)  in exchange of our proprieties, work and preciously limited life-time is something that makes – *in comparison* – the Native Americans - *who were trading their hunting quarry in exchange for “the water made of fire” whiskey, get intoxicated and addicted to it at the point to mishbehaving for having more* - seems them like an exclusive club of illuminati doing a great business richly profitable.
 
 Just in case the previous explanation was too convoluted and historically richly based, compared the example above, to be got quickly. At this time, the idea that you still not got a clue but still reading is quite fascinating. Which is the reason because Casino has no any clock displaying the time on the walls, nor windows to check outside and not even a easy way to get out plus some of them also offering free drink, foods and accommodation in hotel, just in case you feel lucky.
 
@@ -78,7 +78,7 @@ Whatever, let me just pointing out few details:
 
 - and moreover, the common sense is very limited in time forecasting also. Providing an example which fit this case: as soon as the candidate will be the new president in charge, his living and health will be strongly under the control of anyone who is part of the system that he wish to reform with his opinion
 
-- the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself – another [segretamente] drag queen which is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good). I know because I am the one who triggered that insane personality to act as he is acting
+- the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself – another yet-to-be-discovered drag queen who is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good). I know because I am the one who triggered that insane personality to act as he is acting
 
 - which gave me the chance to wrote this piece of literature for hopefully the posterity whatever they will be human or anything else survived to our madness or who will evolves or arrives after our “happy ending”.
 However, even supposing to have addressed all of these properly let me highlight few but relevant points:
@@ -127,7 +127,7 @@ Citing the man in the cave telling the goodnight fairy tale to new-savages era p
 
 It is hard to imagine how the posterity will classify this period of our history in which some people gains an astonishing deeply understanding of an amusing large and diversified collection of notions learning how to deal with all that immense stuff by digital technology and computers, while others are still worshipping like deity people who moved their first step in that knowledge area in the 1800.
 
-* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md) - an Italian 1st draft document, posted recently of Facebook still in raw format. 
+* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md) - a 1st draft document written in Italian, English translation available in the topbar.
 
 Something that can be dismantled by someone who carry on sheltering and breeding 10 milking cows in some remote part of the world.
 
@@ -137,7 +137,9 @@ Something that can be dismantled by someone who carry on sheltering and breeding
 
 Printing money by thin air is bad - extremely bad - but every central banks and related governments do that because all the others are doing that. Greed is good at its best of competitiveness in a challenge that we cannot afford to lose, whatever it takes. It is the epitaph of the Western civilization or human race on this planet. I vote for the 2nd option and I vote for the Asteroid.
 
-Those are not agree with that, may find interesting evaluating this new finite resources constrained financial and monetary system. [link]
+Those are not agree with that, may find interesting evaluating this new finite resources constrained financial and monetary system.
+
+* [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) - a paper written in Italian, English translation available in the topbar.
 
 Because as a supporter of the Asteroid-oriented solution by a scientific factual PoV, it is necessary to provide a viable, rational and functional solution otherwise “false myth” were as good as others “false myth” and there were not a way-out. Nope!
 
