@@ -1,16 +1,20 @@
 <div id="firstdiv" created="2025-01-09:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<!-- div align="center"><img src="${HEAD_IMAGE_NAME}"><br/></div //-->
+<div align="center"><img src="img/299-such-a-man-of-common-sense-img-001.jpg"><br/></div>
 
 ## Such a man of Common Sense!
 
 The following is the 1st gut-written draft edition, enjoy while I am working to better shape it into a document.
+
+---
 
 ### It is not about your opinion
 
 In these days I saw few videos about a the anti-system candidate running for Canada presidency. A matter that I do not care about because I am not feeling involved even by a little measure of it. 
 
 However, because I recognised that some statements in such electoral campaign have some sort of implications (spoiler: the candidate has been suggested to present itself as an anti-system candidate that it would fix the anti-reality system using the common sense) about a topic of many that I am interested in, I care to talk about THAT topic.
+
+---
 
 ### A premise, necessarily
 
@@ -34,6 +38,7 @@ Most probably your “religion” will forbid that “obscene” way of acting o
 
 A specific example of this premise concept can be found in (a) “Sei tu il problema, non l’AI” and in a broader manner within the vast universe of the fantasy literature section -- which like the Dante’s Hell can be entitled engraving the following statement “opinions vs reality: drop every hope you dare to get in here” above the entering door -- we can count in also (b) “I wish to be a wolf, please accept it” or (c) “The variety vs diversity, and other fairy tales about X/XY chromosomes issue”.
 
+---
 
 ### Who is the target reader
 
@@ -58,6 +63,8 @@ Or to make a more shorter but still fashionable example, we can states that acce
 Just in case the previous explanation was too convoluted and historically richly based, compared the example above, to be got quickly. At this time, the idea that you still not got a clue but still reading is quite fascinating. Which is the reason because Casino has no any clock displaying the time on the walls, nor windows to check outside and not even a easy way to get out plus some of them also offering free drink, foods and accommodation in hotel, just in case you feel lucky.
 
 The same with this paper, it is comfortable for me to be not excessively crystal clear but artisanely convoluted in crafting this piece of literature. Just because I am not in a peculiar urgency to check by person about the afterlife. I prefer to send many more in front of me, even if no one of them returned yet to tell us about it. Yes, it is dark humour and thanks for having noticed it.
+
+---
 
 ### The gun has the safe
 
@@ -88,6 +95,8 @@ However, even supposing to have addressed all of these properly let me highlight
 
 - printing (or not printing, cit. Hamlet) more money that product growth is NOT the point as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
 
+---
+
 ### What’s about the product?
 
 Last but not least
@@ -112,6 +121,8 @@ In such a case, it is useful to remember that raising payroll makes people happy
 
 Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism – yes, paper money is financial communism because, trough a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same  – usually depicted as meme on social networks because the Plato’s cave concept of common-sense lack of foresight is too cultural to get a grasp on people.
 
+---
+
 ### Considerations
 
 It is hard to imagine how the posterity will classify this period of our history in which some people gains an astonishing deeply understanding of an amusing large and diversified collection of notions learning how to deal with all that immense stuff by digital technology and computers, while others are still worshipping like deity people who moved their first step in that knowledge area in the 1800.
@@ -119,6 +130,8 @@ It is hard to imagine how the posterity will classify this period of our history
 * [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md) - an Italian 1st draft document, posted recently of Facebook still in raw format. 
 
 Something that can be dismantled by someone who carry on sheltering and breeding 10 milking cows in some remote part of the world.
+
+<br/>
 
 ## Conclusion
 
