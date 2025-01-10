@@ -32,7 +32,7 @@
 
 [**`IT`**] La memoria di Internet è diventata un meme, un concetto emerso dal prendere atto che in pratica è impossibile rimuovere delle informazioni una volta che esse sono state condivise in Internet. Coloro che poco o niente hanno capito di questa nuova tecnologia si sono inventati il diritto all'oblio più che altro per supportare il mito della "rinascita" o più prosaicamente detta "*revergination*" di politici o supposti tali che sono stati trombati dalla storia ancora più che dalle urne. Per togliere ogni velleità di dubbio all'idea di opporsi alla modernità tecnologica, penso basti un'immagine.
 
-<div align="center"><img class="fairinv" src="img/cloud-document-collection-preview.png"><br/><i>Click</i> <a href="img/cloud-document-collection.png" target="_blank">here</a> <i>to view in full the screenshot</i></div><br/>
+<div align="center"><img class="paleinv" src="img/cloud-document-collection-preview.png"><br/><i>Click</i> <a href="img/cloud-document-collection.png" target="_blank">here</a> <i>to view in full the screenshot</i></div><br/>
 
 [**`EN`**]  Most of the two billion Internet users have a cloud drive like this. Many have more than one and each drive keeps a history of documents, their revisions and versions, sometimes even deleted ones as Apple has shown to us. Everyone of these accounts can upload data again in public or share it in public among groups or in private among close friends. Moreover, between any two people chosen from these 2 billion, there are no more than 7 personal connections to reach anyone else on this planet. This means that, in the worst case, a document can travel around the world in 7 days if it is urgent and necessary.
 

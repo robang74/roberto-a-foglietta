@@ -98,7 +98,7 @@ In fact, a compact/rigid system has several good properties but flexibility and 
 
 The photo below shows a smartphone display not a real object.
 
-<div align="center"><img class="fairinv" src="img/292-linux-android-and-redfish-os-img-005.png" width="800"><br/>
+<div align="center"><img class="paleinv" src="img/292-linux-android-and-redfish-os-img-005.png" width="800"><br/>
 <sup>Screenshot 2023-09-21 - right click to enlarge in a new window</sup></div>
 
 Inspired by Punkt. MP01, I have decided to adapt their design to RedFish OS running on a Sony Xperia 10 II, a modern device that debuted on the market in the middle of 2020.

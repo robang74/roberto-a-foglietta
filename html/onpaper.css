@@ -9,7 +9,7 @@
  *
  ******************************************************************************/
  
-img.fairinv { filter: invert(100%); }
+img.paleinv { filter: invert(100%); }
 
 
 body { color: #181008; background-color: #fffcfc; }

@@ -9,7 +9,7 @@
  *
  ******************************************************************************/
 
-img.fairinv { filter: invert(100%) grayscale(100%) contrast(2); }
+img.paleinv { filter: invert(100%) grayscale(100%) contrast(2); }
 
 img.wbsketch { filter: invert(100%) grayscale(100%) contrast(8); }
 
