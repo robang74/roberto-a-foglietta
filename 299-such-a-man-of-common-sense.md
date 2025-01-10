@@ -30,7 +30,7 @@ Again, the second is just a vicious way to implement the first point as “relig
 
 About the point #3, the Fugio cent's case is telling us about how far in the past the roots of this evilness are going deep:
 
-* [Paper money is finantial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) - the Fugio cent's case.
+* [Paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) - the Fugio cent's case.
 
 In short - whatever it matters for you – I am not arguing about it, but I am doing that old-fashioned border line human activity to find out a **description of reality** that works or works better than **your** unfactual opinion.
 
@@ -40,7 +40,7 @@ This is a **very important** premise because in front of a statement like “I b
 
 Most probably your “religion” will forbid that “obscene” way of acting otherwise people would experience factual proof of being wrong. It happens the same with finance, and here we are.
 
-A specific example of this premise concept can be found in (a) conceptual cognitive dissonance about AI and, in a broader manner, within the vast universe of the fantasy literature section - which like the Dante’s Hell can be entitled engraving the following statement “*opinions vs reality: drop every hope you dare to get in here*” above the entering door - we can count in also the (b) variety vs diversity or all the (c) fairy tales about X/XY chromosomes mass-distraction negative-value identity confusion.
+A specific example of this premise concept can be found in (a) conceptual cognitive dissonance about AI and, in a broader manner, within the vast universe of the fantasy literature section - which like the Dante’s Hell can be entitled engraving the following statement “*opinions vs reality: drop every hope you dare to get in here*” above the entering door - we can also count in the (b) variety vs diversity or all the (c) fairy tales about X/XY chromosomes mass-distraction negative-value identity confusion.
 
 * (a) &middot&middot [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) in Italian, automatic English translation available.
 
@@ -50,7 +50,7 @@ A specific example of this premise concept can be found in (a) conceptual cognit
 
 * (d) &middot&middot [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html), written in English since the beginning
 
-As a bonus example (d), also the AI-drive chatbots shown similar misconceptional behaviour (or biases orthodoxy) when they reduced in size by a processes usually known as quantisation.
+As a bonus example (d), also the AI-drive chatbots shows a similar misconceptional behaviour (or biases orthodoxy) when they are reduced in size by a process usually known as quantisation.
 
 ---
 
@@ -92,7 +92,7 @@ and both were educated and widely experienced in a manner that compared with the
 
 - *including chaos, systems and games theories without forgetting the Nash equilibrium principle or the falsification of asymmetric information advantage, etc.*
 
-makes look these founding fathers like a bounche of savages belonging to an untouched tribe whom have lived all their life-time among monkeys in the forest.
+makes these founding fathers like a bunch of savages belonging to an untouched tribe who have lived all their life-time among monkeys in the forest.
 
 Or to make a more shorter but still fashionable example, we can states that accepting paper money which has printed by thin air (aka legal currency without a material back-up or any fixed rate with a valuable commodity, aka golden standard or Bretton Wood agreement)  in exchange of our properties, work and preciously limited life-timeis something that makes – *in comparison* – the Native Americans
 
@@ -154,7 +154,7 @@ Sure, the Gross Domestic Product, which by its own definition collected all the 
 
 Finally, always that f*cking hard to learn Math, says that considering GDP inflation as “production” increase and by that increase also increase the monetary mass (aka a quantitative easing step forward, or a “whatever we takes, f*ck you all” expansive monetary policy by central banks) hence increasing the public debt maintains the ratio between debt/production stable while we are striving more in living in a progressive state of poverty because prices go up but not our salaries.
 
-Here a real-world case of an example about increasing and stabilising the public debt by charging the national population with a 25% c.a. inflaction increase in few years. natually the champions that made this world-wide primate's record are Italians, who's otherwise else?
+Here a real-world case of an example about increasing and stabilising the public debt by charging the national population with a 25% c.a. inflation increases in a few years. Naturally the “champions” that made this world-wide primate's record are Italians. Who's else, otherwise?
 
 * [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) - automatic English translation available.
 
@@ -169,7 +169,7 @@ In such a case, it is useful to remember that raising payroll makes people happy
 <td><img class="darkinv" src="img/299-such-a-man-of-common-sense-img-002.png" width="400"></td>
 <tr></tr>
 <td><sup>Numbers matter, mediocres voted mediocres in power.</sup></td>
-<td><sup>For a beautyful minute, we made our investors happy.</sup></td>
+<td><sup>For a beautiful minute, we made our investors happy.</sup></td>
 </tr>
 </table>
 </div>
@@ -192,13 +192,11 @@ Something that can be dismantled by someone who carries on sheltering and breedi
 
 Printing money by thin air is bad - extremely bad - but every central bank and related governments do that because all the others are doing that. Greed is good at its best of competitiveness in a challenge that we cannot afford to lose, whatever it takes. It is the epitaph of the Western civilization or human race on this planet. I vote for the 2nd option and I vote for the Asteroid.
 
-Those are not agree with that may find interesting evaluating this new finite resources constrained financial and monetary system.
+Those who do not agree with that may find interesting evaluating this new finite resources constrained financial and monetary system.
 
 * [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) - automatic English translation available.
 
 Because as a supporter of the Asteroid-oriented solution by a scientific factual PoV, it is necessary to provide a viable, rational and functional solution otherwise “false myth” were as good as others “false myth” and there was not a way-out. Nope!
-
-The Asteroid should be a free-will choice for the Western civilization or the whole of humanity, they should have their own chance to choose for the best but voted for the Asteroid, instead.
 
 That f*cking apple hanging on from that tree branch from where the speaking snake was promoting it as a delicious opportunity to earn something for free like printing money from thin air, do you remember… It is a choice, an everyday choice, not a single on-time-once mistake.
 
@@ -210,7 +208,7 @@ Even people who were not aware about what the Sun does or where it goes when the
 
 ## Related articles
 
-All the following articles show a quick way to read them in the most common European languages such as English, Italian, German, French and Spanish but every other laguage supported by Google Translation is also avaialble.
+All the following articles show a quick way to read them in the most common European languages such as English, Italian, German, French and Spanish but every other language supported by Google Translation is also available.
 
 * [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) (2025-01-07)
 
@@ -218,7 +216,7 @@ All the following articles show a quick way to read them in the most common Euro
 
 * [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
 
-* [Paper money is finantial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
+* [Paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 
 ### Also cited here
 
@@ -237,4 +235,3 @@ All the following articles show a quick way to read them in the most common Euro
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
