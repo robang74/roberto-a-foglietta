@@ -152,11 +152,12 @@ table {
     font-family: "Tahoma mono", monospace; font-size: 80%;
 /**/
     border-collapse: collapse;
-    border: 1px solid #808080;
-}
-td, th {
-    padding: 10px;
     text-align: center;
+}
+
+table td, table th, table tr {
+    padding: 10px;
+    border: 1px solid;
 }
 
 tr.trline td {
@@ -169,7 +170,7 @@ td.td1stcol {
     text-align: left;
 }
 
-table.framebox, tr, td {
+table.framebox, table.framebox tr, table.framebox th, table.framebox td {
     border: 0px transparent;
     padding: 0px;
 }
