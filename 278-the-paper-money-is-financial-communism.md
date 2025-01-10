@@ -174,15 +174,15 @@ Please feel free to reach your own conclusion about this reading.
 
 In the original Benjamin Franklin draft two mottoes was impressed on the coin:
 
-> MIND YOUR BUSINESS
+> `MIND YOUR BUSINESS`
 
-> WE ARE ONE
+> `WE ARE ONE`
 
 It is reasonable to think that the word "*business*" was intended literally here, as Franklin was an influential and successful businessman. Lately these mottoes were changed in:
 
-> IN GOD WE TRUST
+> `IN GOD WE TRUST`
 
-> E PLURIBUS UNUM
+> `E PLURIBUS UNUM`
 
 The change of the first motto is quite relevant because it moves the focus from the pragmatic approach to practical things like "*trust in yourself*" or "*work hard to succeed*" to something that can be read as "*good luck matters*" or "*hope rather than preparation*".
 
