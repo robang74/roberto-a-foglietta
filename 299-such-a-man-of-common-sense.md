@@ -139,9 +139,11 @@ Whatever, let me just pointing out few details:
 - the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself
 
 <div class="post-it"><b class="post-it">&#9432;</b>
+
 Another yet-to-be-discovered Italian drag queen who is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good).
 
 I know because I am the one who triggered that insane personality to act as he is acting.Which gave me the chance to write this piece of literature for hopefully posterity whether they will be human or anything else survived to our madness or who will evolve or arrive after our “happy ending”.
+
 </div>
 
 However, even supposing to have addressed all of these properly let me highlight few but relevant points:
@@ -190,16 +192,12 @@ So, Unless that Canadian presidential candidate would not consider raising the p
 
 In such a case, it is useful to remember that raising payroll makes people happy, boost the economy thus increase the GDP “production”, creates inflation anyway and achieve the same “happy ending humanity or Western civilisation” result but with the happy word coherently set.
 
-<div align="center">
-<table class="framebox">
-<tr>
-<td><img class="bwsketch" src="img/299-such-a-man-of-common-sense-img-003.png" width="400"></td>
-<td><img class="darkinv" src="img/299-such-a-man-of-common-sense-img-002.png" width="400"></td>
-<tr></tr>
-<td><sub>Numbers matter, mediocres voted mediocres in power.</sub></td>
-<td><sub>For a beautiful minute, we made our investors happy.</sub></td>
-</tr>
-</table>
+<div align="center" class="framebox">
+
+|![](img/299-such-a-man-of-common-sense-img-003.png)|![](img/299-such-a-man-of-common-sense-img-002.png)|
+|---|---|
+|<sub>Numbers matter, mediocres voted mediocres in power.</sub>|<sub>For a beautiful minute, we made our investors happy.</sub>|
+
 </div>
 
 Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism
