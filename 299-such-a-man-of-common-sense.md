@@ -4,9 +4,9 @@
 
 ## Such a man of Common Sense!
 
-The following is the 1st gut-written draft edition, enjoy while I am working to better shape it into a document.
+The following (since revision #7) is the 2nd draft which is **almost** identical to the 1st gut-written but improved by English polishing, a better format with some fancy cartoons and links added where text-only references were initially put. Enjoy it, while I am working to improve further this document.
 
----
+<br/>
 
 ### It is not about your opinion
 
