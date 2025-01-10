@@ -1,10 +1,12 @@
-<div id="firstdiv" created=":-99" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-12-15:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
 
 ## La madre di tutte le guerre
 
-* Published Dec 15, 2024 - origin [Facebook](https://www.facebook.com/share/p/1Ews9Z3YEM/) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/296-la-madre-di-tutte-le-guerre.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Dec 15, 2024 - origin [Facebook](https://www.facebook.com/share/p/1Ews9Z3YEM/) post
+
+---
 
 ### Premessa
 
