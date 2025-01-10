@@ -34,13 +34,27 @@ About the point #3, the Fugio cent's case is telling us about how far in the pas
 
 In short - whatever it matters for you – I am not arguing about it, but I am doing that old-fashioned border line human activity to find out a **description of reality** that works or works better than **your** unfactual opinion.
 
-Please, notice that `F=ma` the Newton first law of the Classic Mechanics cannot be assessed, not even discovered or falsified in a democratic way nor by consensus. Despite this, as much as the speed reaches a small fraction of the light speed, that law starts to lose its grip on reality and hence reality is starting to “works” outside our comprehension while reality maintains a full grip on us.
+Please, notice that `F=ma` the Newton first law of the Classic Mechanics cannot be assessed, not even discovered or falsified in a democratic way nor by consensus.
 
-This is a **very important** premise because in front of a statement like “I believe in Thor being true god, and because of this I am protected by being lightening struck” or anything similar, I will never argue with you about Thor but suggesting you to prove your point in standing still on a mountain peak raising at the sky a long and sharply pointing conductive metal rod.
+Despite this, as much as the speed reaches a small fraction of the light speed, that law starts to lose its grip on reality and hence reality is starting to “works” outside our comprehension while reality maintains a full grip on us.
+
+This is a **very important** premise because in front of a statement like
+
+- *I believe in Thor being true god, and because of this I am protected by being lightening struck*
+
+or anything similar, I will never argue with you about Thor but suggesting you to prove your point in standing still on a mountain peak raising at the sky a long and sharply pointing conductive metal rod.
 
 Most probably your “religion” will forbid that “obscene” way of acting otherwise people would experience factual proof of being wrong. It happens the same with finance, and here we are.
 
-A specific example of this premise concept can be found in (a) conceptual cognitive dissonance about AI and, in a broader manner, within the vast universe of the fantasy literature section - which like the Dante’s Hell can be entitled engraving the following statement “*opinions vs reality: drop every hope you dare to get in here*” above the entering door - we can also count in the (b) variety vs diversity or all the (c) fairy tales about X/XY chromosomes mass-distraction negative-value identity confusion.
+---
+
+### Biases, biases everywhere
+
+A specific example of this premise concept can be found in (a) conceptual cognitive dissonance about AI and, in a broader manner, within the vast universe of the fantasy literature section
+
+* which like the Dante’s Hell can be entitled engraving the following statement “*opinions vs reality: drop every hope you dare to get in here*” above the entering door
+
+we can also count in the (b) variety vs diversity or all the (c) fairy tales about X/XY chromosomes mass-distraction negative-value identity confusion.
 
 * (a) &middot&middot [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) in Italian, automatic English translation available.
 
@@ -56,15 +70,17 @@ As a bonus example (d), also the AI-drive chatbots shows a similar misconception
 
 ### Who is the target reader
 
-Not all the documents are written for everybody. This document is going to argument about **finance** - check an etymologically wise dictionary without assessing your definition of that word, please - and for who matters reasoning in a rational and reality-functioning way.
+Not all the documents are written for everybody. This document is going to argument about **finance** – *check an etymologically wise dictionary before giving for assessed the meaning of that word, please* – and for who matters reasoning in a rational and reality-functioning way.
 
 The starting point is some declaration of a supposedly anti-system candidate for Canadian presidency which is sponsored by the suggestion that he can fix a broken system at its fundamentals using common sense.
 
-Which is functional to sustain the pro status-quo because once he will get in charge, he will necessarily become part of the system he likes to change. Which is like to say: I play at the blackjack table because I can bet the Casino by my skills. Sure!
+Which is functional to sustain the pro status-quo because once he will get in charge, he will necessarily become part of the system he likes to change. Which is like to say: 
+
+* *I play at the blackjack table because I can beat the Casino by my skills.* Sure!
 
 Moreover, by definition, the Common Sense works when common {concept, activities, topic, etc. } are at stake. Trying to walk on the Moon using the `F=ma` first law of Classical Mechanics will lead to such a great disaster that the Apollo 13 mission was a great achievement in comparison.
 
-In this scenario we have to face with people who firmly believe that an infinitely inflationary fiat currency can fuel a financial system that can cope in a proper way of dealing with a global economy - check an etymologically wise dictionary without giving for assessed your definition of that word, please – in which material goods and production are limited while natural resources are consumed much faster their rate of renovation.
+In this scenario we have to face with people who firmly believe that an infinitely inflationary fiat currency can fuel a financial system that can cope in a proper way of dealing with a global **economy** – *check an etymologically wise dictionary before giving for assessed the meaning of that word, please* – in which material goods and production are limited while natural resources are consumed much faster their rate of renovation.
 
 By the way, it is not about believing in WHAT but about questioning ourselves about WHY and trying to provide us with a <nobr>rational-thinking</nobr> answer that can withstand facts and can be functional in dealing with reality.
 
@@ -100,9 +116,11 @@ Or to make a more shorter but still fashionable example, we can states that acce
 
 seems like an exclusive club of illuminati doing a great business richly profitable.
 
-Just in case the previous explanation was too convoluted and historically richly based, compared to the example above, to be got quickly. At this time, the idea that you still have not got a clue but still reading is quite fascinating. Which is the reason because Casino has no clock displaying the time on the walls, nor windows to check outside and not even an easy way to get out plus some of them also offering free drinks, food and accommodation in their hotel, just in case you feel lucky.
+Just in case the previous explanation was too convoluted and historically richly based, compared to the example above, to be got quickly. At this time, the idea that you still have not got a clue but still reading is quite fascinating.
 
-The same with this paper, it is comfortable for me to be not excessively crystal clear but artisanally convoluted in crafting this piece of literature. Just because I am not in a peculiar urgency to check by person about the afterlife. I prefer to send many more in front of me, even if no one of them returned yet to tell us about it. Yes, it is dark humour and thanks for having noticed it.
+Which is the reason because Casinos have no clocks displaying the time on the walls, nor windows to check outside and not even an easy way to get out plus some of them also offering free drinks, food and accommodation in their hotel, just in case you feel lucky.
+
+The same with this paper, it is comfortable for me to be not excessively crystal clear but artisanally convoluted in crafting this piece of literature. Just because I am not in a peculiar urgency to check by person about the afterlife.
 
 ---
 
@@ -118,9 +136,13 @@ Whatever, let me just pointing out few details:
 
 - and moreover, common sense is very limited in time forecasting also. Providing an example which fit this case: as soon as the candidate will be the new president in charge, his living and health will be strongly under the control of anyone who is part of the system that he wish to reform with his opinion
 
-- the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself – another yet-to-be-discovered drag queen who is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good). I know because I am the one who triggered that insane personality to act as he is acting
+- the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself
 
-- which gave me the chance to write this piece of literature for hopefully posterity whether they will be human or anything else survived to our madness or who will evolve or arrive after our “happy ending”.
+<div class="post-it"><b class="post-it">&#9432;</b>
+Another yet-to-be-discovered Italian drag queen who is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good).
+
+I know because I am the one who triggered that insane personality to act as he is acting.Which gave me the chance to write this piece of literature for hopefully posterity whether they will be human or anything else survived to our madness or who will evolve or arrive after our “happy ending”.
+</div>
 
 However, even supposing to have addressed all of these properly let me highlight few but relevant points:
 
@@ -130,11 +152,17 @@ However, even supposing to have addressed all of these properly let me highlight
 
 - crashing the system and then cure it, are both good complementary way to suck our life out of us
 
-- Any financial system based on infinite inflationary fiat currency is doomed to drive our economics to its worst possible ending: the whole humanity extinction or our civilisation collapse, whatever you may consider the worst among the two, I still vote for the Asteroid.
+- Any financial system based on infinite inflationary fiat currency is doomed to drive our economics to its worst possible ending
 
-- despite the Asteroid is the quickest solution for our all problems, we may aim in finding something less scenographic and – unfortunately or fortunately for us  – the only way to let a financial system properly operates as a complementary sibling for a real-world finite economics is to embedded a limited resources paradigms at its foundation.
+The worst possible ending includes the whole humanity extinction or our civilisation collapse. Whatever you may consider the worst among the two, I still vote for the Asteroid.
 
-Everything considering, printing (or not printing, cit. Hamlet) more money that product growth is **NOT** the point as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
+- despite the Asteroid is the quickest solution for our all problems, we may want to find something less scenographic 
+
+and – unfortunately or fortunately for us  – the only way to let a financial system properly operates as a complementary sibling for a real-world finite economics is to embedded a limited resources paradigms at its foundation.
+
+Everything considering, printing (or not printing, cit. Hamlet) more money than the product growth is **NOT** the solution but just a good-will intention when nothing more radical can be acceptable for you audience or sponsor.
+
+It is **NOT** a solution as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
 
 ---
 
@@ -174,7 +202,11 @@ In such a case, it is useful to remember that raising payroll makes people happy
 </table>
 </div>
 
-Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism – yes, paper money is financial communism because, trough a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same  – usually depicted as meme on social networks because the Plato’s cave concept of common-sense lack of foresight is too cultural to get a grasp on people.
+Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism
+
+- paper money is financial communism because, trough a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same
+
+usually depicted as meme on social networks because the Plato’s cave allegory about common-sense's lack of foresight is too much "cultural" to get a grasp on common people.
 
 ---
 
