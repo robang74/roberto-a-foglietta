@@ -1,10 +1,10 @@
-<div id="firstdiv" created="2017-10-31:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2017-10-31:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/090-l-importanza-del-tcmo-img-001.jpg"><br/></div>
 
 ## L'importanza del TCMO
 
-* Published Oct 13, 2017 - origin [beBee](bebee.com/producer/@roberto-a-foglietta/l-importanza-del-tcmo) and [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-tcmo-roberto-a-foglietta) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/090-l-importanza-del-tcmo.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Oct 13, 2017 - origin [beBee](bebee.com/producer/@roberto-a-foglietta/l-importanza-del-tcmo) and [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-tcmo-roberto-a-foglietta) articles
 
 ---
 
@@ -168,7 +168,7 @@ Curiosamente, la terza settimana di dicembre 2024, al tempo in cui sto scrivendo
 
 Il TCMO acronimo di Total Cost of a Mistake Ownership è il costo complessivo della perseveranza di un errore ed è una quantità cumulativa. Il concetto stesso non è antropologicamente affine alla natura umana e, ragionevolmente, non è affine a nessuna forma di vita intelligente che si sia evoluta per selezione naturale. Per questo motivo potrebbe dare una spiegazione misurabile e causale al [paradosso di Fermi](https://it.wikipedia.org/wiki/Paradosso_di_Fermi).
 
-<div align="center"><img src="img/090-l-importanza-del-tcmo-img-002.png"><br/></div>
+<div align="center"><img class="darkinv wbsketch" src="img/090-l-importanza-del-tcmo-img-002.png"><br/></div>
 
 Si tratta di un indice indiscutibilmente importante, per non dire fondamentale, in quanto è la base per definire il successo o il fallimento di un'attività e per poter trarre le corrette previsioni a lungo periodo.
 
@@ -176,7 +176,7 @@ Il concetto di errore è relativo ma questo ci aiuta. Perché implica che alcune
 
 Definiamo l'acronimo TCI come il Total Cost of Innovation, il costo totale di una data innovazione, mentre dT è il tempo necessario a implementare quell'innovazione.
 
-<div align="center"><img src="img/090-l-importanza-del-tcmo-img-003.png"><br/></div>
+<div align="center"><img class="darkinv wbsketch" src="img/090-l-importanza-del-tcmo-img-003.png"><br/></div>
 
 Dove per innovazione s'intende l'introduzione di una novità che si diffonda al punto da diventare un game changer in uno specifico settore, almeno. Il concetto di TCMO rivoluziona l'idea di adottare una sequenza di azioni per ottenere un risultato progressivo, ma ci costringe a pensare anche in termini di transizioni di stato di un particolare sistema. 
 
