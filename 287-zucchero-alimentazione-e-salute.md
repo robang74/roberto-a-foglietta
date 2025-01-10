@@ -1,12 +1,12 @@
-<div id="firstdiv" created="2024-09-24:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-09-24:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/287-zucchero-alimentazione-e-salute-img-001.jpg"><br/></div>
 
 ## Zucchero, alimentazione e salute
 
-* Published Sep 24, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/287-zucchero-alimentazione-e-salute.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/287-zucchero-alimentazione-e-salute.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/287-zucchero-alimentazione-e-salute.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/287-zucchero-alimentazione-e-salute.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Sep 24, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f) article
 
-Questo articolo è il prodotto di post pubblicati in precedenza su LinkedIn.
+Questo articolo è il prodotto di diversi post pubblicati in precedenza su LinkedIn.
 
 ---
 
