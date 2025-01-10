@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2025-01-09:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/299-such-a-man-of-common-sense-img-001.jpg"><br/></div>
+<div align="center"><img class="awsketch" src="img/299-such-a-man-of-common-sense-img-001.jpg"><br/></div>
 
 ## Such a man of Common Sense!
 
@@ -194,7 +194,7 @@ In such a case, it is useful to remember that raising payroll makes people happy
 
 <div align="center" class="framebox">
 
-|![](img/299-such-a-man-of-common-sense-img-003.png)|![](img/299-such-a-man-of-common-sense-img-002.png)|
+|<img class="wbsketch" src="img/299-such-a-man-of-common-sense-img-003.png">|<img class="bwsketch" src="img/299-such-a-man-of-common-sense-img-002.png">|
 |---|---|
 |<sub>Numbers matter, mediocres voted mediocres in power.</sub>|<sub>For a beautiful minute, we made our investors happy.</sub>|
 

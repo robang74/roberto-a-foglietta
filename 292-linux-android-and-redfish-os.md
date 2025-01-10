@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-10-13:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="wbsketch" src="img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
 
 ## Linux, Android & RedFish OS
 
