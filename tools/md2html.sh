@@ -201,25 +201,25 @@ function main_md2html() {
 
     printf "$a"
     for i in $1; do
+        #echo $i >&2
         if [ "$i" == "template.md" ]; then
             continue
         elif [ "$i" == "README.md" -o "$i" == "index.html" ]; then
             index=1
             continue
         fi
-        #echo "converting $i in html ..."
+        # converting $i in html
         md2htmlfunc "$i" "html/${i%.md}.html"
         list="$list html/${i%.md}.html"
     done
     if [ $index -ne 0 ]; then
-        #printf .
-        #echo "converting README.md in index.html ..."
+        # converting README.md in index.html
         md2htmlfunc README.md index.html
     fi
     printf "$b"
 
     printf "$a"
-    #echo "redirection $1 image links ..."
+    # redirection image links
     for j in $list; do
         for i in $(get_images_list); do
             sed -e "s,\(href=.\)$i,\\1../$i,g" \
@@ -232,7 +232,7 @@ function main_md2html() {
     printf "$b" #2
 
     printf "$a"
-    #echo "replacing $1 markdown links ..."
+    # replacing $1 markdown links
     if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
         index=0
     fi
@@ -249,8 +249,9 @@ function main_md2html() {
     printf "$b" #3
 
     printf "$a"
-    #echo "converting $1 markdown tables ..."
-    source tools/tabl2html.sh $list 2>/dev/null >&2
+    #echo "list: $list" >&2
+    test -n "$list" && \
+        source tools/tabl2html.sh $list 2>/dev/null >&2
     printf "$b" #4
 }
 
