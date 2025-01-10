@@ -1,0 +1,34 @@
+/* 
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ * * list: #2
+ * * name: darker-simple
+ * * desc: project agnostic, high-contrast dark-theme with colors images
+ *
+ ******************************************************************************/
+
+img.darkinv { filter: invert(100%) contrast(1.50) brightness(0.75); }
+
+img { filter: contrast(1.50) brightness(0.75); }
+
+
+body { color: #f0f0f0; background-color: black; }
+
+div.topbar { border: 1px solid; }
+
+table, table td, table th, table tr, tr.line, tr.line td { border-color: #a0a0a0; }
+
+
+a, a:link, b.post-it { color: #e0e0e0; }
+
+.sup-note, a:visited, a:active, a.topbar { color: #c0c0c0; }
+
+
+span.warnicon, svg.warnicon, span.infoicon, svg.infoicon {
+    color: #ddd; fill: #ddd;
+}
+
+span.warnicon, span.infoicon { border-color: white; }
+

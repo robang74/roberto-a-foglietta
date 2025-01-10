@@ -1,0 +1,46 @@
+/* 
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ * * list: #4
+ * * name: bw-for-print
+ * * desc: project agnostic, high-contrast white-theme with almost-bw images
+ *
+ ******************************************************************************/
+
+img.fairinv { filter: invert(100%) grayscale(100%) contrast(2); }
+
+img.wbsketch { filter: invert(100%) grayscale(100%) contrast(8); }
+
+img.bwsketch { filter: grayscale(100%) contrast(8); }
+
+img { filter: grayscale(100%) contrast(2); }
+
+
+body { color: black; background-color: white; }
+
+div.topbar { border: 1px solid; }
+
+div.post-it { border: 2px dashed; }
+
+hr { border-top: 2px solid black; }
+
+b.hal9k { color: white; }
+
+
+a { color: black; }
+
+a:link {  text-decoration: none; border-bottom: 2px double; }
+
+a:hover { border: none; text-decoration: underline; }
+
+a.topbar { border: none; }
+
+
+span.warnicon, svg.warnicon, span.infoicon, svg.infoicon {
+    color: black; fill: black;
+}
+
+span.warnicon, span.infoicon { border-color: black; }
+

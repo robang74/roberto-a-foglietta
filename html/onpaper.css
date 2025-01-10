@@ -1,0 +1,51 @@
+/* 
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ * * list: #6
+ * * name: pale-regular
+ * * desc: project specific & colorfull like 'regular' but w/ light background 
+ *
+ ******************************************************************************/
+ 
+img.fairinv { filter: invert(100%); }
+
+
+body { color: #181008; background-color: #fffcfc; }
+
+blockquote { background-color: seashell; color: #300000; }
+
+div.topbar { color: dimgray; background-color: bisque; border-bottom: 1px solid #c08000; }
+
+table, table td, table th, table tr, tr.line, tr.line td { border-color: #300000; }
+
+
+hr { border-top: 2px solid dimgray; }
+
+div.post-it { border: 2px dashed #300000; }
+
+b.post-it { color: #300000; }
+
+b.hal9k { color: ghostwhite; }
+
+
+a { color: brown; }
+
+a:link { text-decoration: none; border-bottom: 3px double; }
+
+a:hover { background-color: seashell; border: none; text-decoration: underline; }
+
+.sup-note, a:visited, a:active, a.topbar { color: #300000; }
+
+a.topbar { border: none; }
+ 
+
+span.warnicon, svg.warnicon { color: tomato; fill: tomato; }
+
+span.warnicon { border-color: tomato; }
+
+span.infoicon, svg.infoicon { color: dodgerblue; fill: dodgerblue; }
+
+span.infoicon { border-color: dodgerblue; }
+

@@ -4,14 +4,11 @@
  * You can also remove this file and create a softlink to pdfcool/warm/gray.css
  *
  ******************************************************************************/
- 
- @import url('colours.css');
- 
 /*
  * Use this to import the html to pdf warm CSS for printing on paper
  *
  * pdfwarm.cmntline *
-@import url('pdfwarm.css');
+@import url('pdfgray.css');
 /**/
 /*
  * Use this to import the html to pdf cool CSS for printing on paper
@@ -26,3 +23,7 @@
  * pdfgray.cmntline *
 @import url('pdfgray.css');
 /**/
+
+/* @import url('colours.css'); */
+
+@import url('colours.css');

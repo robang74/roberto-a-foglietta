@@ -3,12 +3,17 @@
     <head>
         <title>${title}</title>
         <meta charset='UTF-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <link rel='shortcut icon' type='image/x-icon' href='${dir}favicon.ico?'>
         <link rel='stylesheet' href='${dir}default.css'>
-        <link rel='stylesheet' href='${dir}custom.css'>
+        <!-- here begins the Javascript... why for the hell I got here? //-->
+        <meta http-equiv='Content-Script-Type' content='text/javascript'>
+        <link rel='stylesheet' href='${dir}ucustom.css' id='customStylesheet'>
+        <script>const cssdir='${dir}';</script note='global variable'>
+        <script src='${dir}css-style-changer.js' defer></script>
     </head>
     <body>
-    ${BODY_CONTENT}
+${BODY_CONTENT}
     <br/>
     </body>
 </html>

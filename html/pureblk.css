@@ -1,0 +1,35 @@
+/* 
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ * * list: #3
+ * * name: bw-on-screen
+ * * desc: project agnostic, high-contrast dark-theme with almost-bw images
+ *
+ ******************************************************************************/
+
+img.darkinv { filter: invert(100%) grayscale(100%) contrast(2); }
+
+img.bwsketch { filter: invert(100%) grayscale(100%) contrast(8); }
+
+img.wbsketch { filter: grayscale(100%) contrast(8); }
+
+img { filter: grayscale(100%) contrast(2); }
+
+
+body { color: white; background-color: black; }
+
+div.topbar { border: 1px solid; }
+
+a, a:link, b.post-it { color: #e0e0e0; }
+
+.sup-note, a:visited, a:active, a.topbar { color: #c0c0c0; }
+
+
+span.warnicon, svg.warnicon, span.infoicon, svg.infoicon {
+    color: white; fill: white;
+}
+
+span.warnicon, span.infoicon { border-color: white; }
+

@@ -16,6 +16,8 @@ li_B=".<span style='visibility: hidden;'>--</span></b>"
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
 
+warn_a='<nobr class="alerts">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr>'
+
 # RAF, 2024-12-26: the svg code has been taken by github to be used with github
 warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
@@ -23,8 +25,10 @@ warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44'\
 ' 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53'\
 ' 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1'\
-' 1 0 0 1 2 0Z"></path></svg><b>&nbsp;&nbsp;WARNING&nbsp;&nbsp;</b></span>'
+' 1 0 0 1 2 0Z"></path></svg>'$warn_a'</span>'
 warn_A=$(echo "$warn_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+
+info_a='<nobr class="alerts">&nbsp;&nbsp;&middot;NOTICE&middot;&nbsp;&nbsp;</nobr>'
 
 # RAF, 2024-12-26: the svg code has been taken by github to be used with github
 info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
@@ -32,7 +36,7 @@ info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
 '<path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5'\
 ' 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75'\
 ' 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1'\
-' 1 0-2 1 1 0 0 1 0 2Z"></path></svg><b>&nbsp;&nbsp;NOTICE&nbsp;&nbsp;</b></span>'
+' 1 0-2 1 1 0 0 1 0 2Z"></path></svg>'$info_a'</span>'
 info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
@@ -64,7 +68,9 @@ function md2htmlfunc() {
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
 
-    txt=$(head -n10 html/items/pagebody.htm)
+    txt="html/items/pagebody.htm"
+    declare -i n=$(grep -n "BODY_CONTENT" $txt | cut -d: -f1)
+    txt=$(head -n$[n-1] $txt)
     eval "echo \"$txt\" >$2"
     source tools/ptopbar.sh $1 >>$2
     if [ "$str" = "index" ]; then

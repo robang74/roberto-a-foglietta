@@ -1,50 +1,50 @@
 /* 
- * void Cascading Style Sheet for overriding or customise default.css
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ * * list: #5
+ * * name: greys-for-print
+ * * desc: project agnostic, like 'bwprint' w/ grayscale images & fancy links
  *
  ******************************************************************************/
 
-body, .tpbrtext {
-    background-color: white;
-    color: black;
+img.fairinv { filter: invert(100%) grayscale(100%) contrast(2); }
+
+img.wbsketch { filter: invert(100%) grayscale(100%) contrast(2); }
+
+img { filter: grayscale(100%) contrast(1.25) brightness(1.25); }
+
+
+body { color: #202020; background-color: white; }
+ 
+blockquote { color: #202020; background-color: #f0f0f0; }
+
+div.topbar { background-color: #f0f0f0; border-bottom: 1px solid gray; }
+
+div.post-it { border: 2px dashed dimgray; }
+
+table, table td, table th, table tr, tr.line, tr.line td { border-color: dimgray; }
+
+hr { border-top: 2px solid dimgray; }
+
+b.hal9k { color: ghostwhite; }
+
+
+a { color: black; }
+
+a:link { text-decoration: none; border-bottom: 3px double; }
+
+a:hover { border: none; text-decoration: underline; background-color: #f0f0f0; }
+
+a:active, a:visited { color: #404040; }
+
+a.topbar { border: none;  color: #404040; }
+
+
+span.warnicon, svg.warnicon, span.infoicon, svg.infoicon {
+    color: black; fill: black;
 }
 
-blockquote {
-    color: #000000;
-    background-color: #e8e808;
-}
-
-a:link, a:visited, a:hover, a:active,
-a.tpbrblue, a.tpbrgren, a.tpbrwarm, a.datatype {
-    text-decoration: underline;
-    color: black;
-}
-
-table {
-    border: 1px solid #606060;
-}
-
-span.warnicon {
-    background-color: yellow;
-    border: 2px solid yellow;
-    color: #800;
-}
-
-svg.warnicon {
-    fill: #800;
-}
-
-span.infoicon {
-    background-color: aqua;
-    border: 2px solid aqua;
-    color: #008;
-}
-
-svg.infoicon {
-    fill: #008;
-}
-
-div.tpbrblue, div.tpbrgren, div.tpbrwarm {
-    background-color: white;
-    border: 1px solid black;
-}
+span.warnicon, span.infoicon { border-color: black; }
 

@@ -7,18 +7,17 @@ opt="--enable-local-file-access"
 css=0
 for i in "$@"; do
     case $1 in
-    "-g") opt="-g $opt"
-        shift
-        ;;
-    "-w") echo "@import url('pdfwarm.css');" > html/custom.css
+    "-g") echo "@import url('pdfgray.css');" > html/ucustom.css
+        opt="-g $opt"
         css=1
         shift
         ;;
-    "-c") echo "@import url('pdfcool.css');" > html/custom.css
+    "-p") echo "@import url('bwprint.css');" > html/ucustom.css
+        opt="-g $opt"
         css=1
         shift
         ;;
-    "-b") printf "" > html/custom.css
+    "-c") echo "@import url('onpaper.css');" > html/ucustom.css
         css=1
         shift
         ;;
@@ -30,7 +29,7 @@ done
 
 # set the CSS by default
 if [ "$css" == "0" ]; then
-    echo "@import url('pdfcool.css');" > html/custom.css
+    echo "" > html/ucustom.css
 fi
 
 echo
