@@ -1,10 +1,10 @@
-<div id="firstdiv" created="2024-10-13:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-10-13:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
 
 ## Linux, Android & RedFish OS
 
-* Published Oct 13, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/linux-android-redfish-os-roberto-a-foglietta-jke0f) - translate [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/292-linux-android-and-redfish-os.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Oct 13, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/linux-android-redfish-os-roberto-a-foglietta-jke0f) post
 
 This article is based on a post written in Italian and [published](https://www.linkedin.com/posts/robertofoglietta_android-debian-e-redfish-os-13-ottobre-activity-7251187129320431616-cU8L) on LinkedIn the same day. However, the content of the article difers from a mere translation in English.
 

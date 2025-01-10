@@ -18,24 +18,29 @@ if [ "x$1" == "x-s" ]; then
     ch1='' 
     ch2=''
     shift
-elif [ "x$1" == "x-i" ]; then
+elif [ "x$1" == "x-i" ]; then # this is for the README index
     flg='i'
     ch1='['
     ch2=']'
     shift
-else
+else                          # this is for the single file
     flg=''
     ch1='[' 
     ch2=']'
 fi
-test -f "$1" || exit $?; md=$1
+test -f "$1" || exit 1
+
+md=$1 
+ilg=${2,,}
 
 function mainfunc() {
-    local lg=it LG=IT
-    echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=en&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
-    for lg in en de fr es; do
-        LG=$(echo $lg | tr [a-z] [A-Z])
-        echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=it&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
+    local lg=it LG=IT ilg=${1:-it}
+    test "$ilg" != "en" &&\
+        echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=en&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
+    for LG in EN DE FR ES ; do
+        lg=${LG,,}
+        test "$ilg" == "$lg" && continue
+        echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=${ilg}&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
     done
 }
 
@@ -59,9 +64,9 @@ if [ "$flg" == "i" ]; then
     nnn=$(echo $md | cut -d- -f1)
     printf "* ${nnn} - ${PUBLISH_DATE:-${pdate:-PUBLISH_DATE}} - ";
     printf '([**`raw`**]'"(${lraw}/$md)) " 
-    mainfunc | tr '\n' ' '
+    mainfunc $ilg | tr '\n' ' '
     echo "- [${title:-\$TITLE}]($md)"
     echo
 else
-    mainfunc
+    mainfunc $ilg
 fi
