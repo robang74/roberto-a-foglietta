@@ -34,10 +34,8 @@ md=$1
 ilg=${2,,}
 
 function mainfunc() {
-    local lg=it LG=IT ilg=${1:-it}
-    test "$ilg" != "en" &&\
-        echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=en&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
-    for LG in EN DE FR ES ; do
+    local lg LG ilg=${1:-auto}
+    for LG in IT EN DE FR ES ; do
         lg=${LG,,}
         test "$ilg" == "$lg" && continue
         echo "${ch1}[**\`${LG}\`**](${link}/${md}?_x_tr_sl=${ilg}&_x_tr_tl=${lg}&_x_tr_hl=${lg}-${LG}&_x_tr_pto=wapp)${ch2}"
