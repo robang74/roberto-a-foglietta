@@ -1,10 +1,12 @@
-<div id="firstdiv" created="2023-12-31:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2023-12-31:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/236-a-post-covid-pandemic-review-img-001.jpg"><br/></div>
 
 ## A post covid pandemic review
 
-Published Dec 31, 2023 - origin [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f) - translate [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/236-a-post-covid-pandemic-review.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/236-a-post-covid-pandemic-review.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/236-a-post-covid-pandemic-review.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/236-a-post-covid-pandemic-review.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+Published Dec 31, 2023 - origin [LinkedIn](https://www.linkedin.com/pulse/post-pandemic-review-roberto-a-foglietta-mn83f) article
+
+---
 
 ## News
 
