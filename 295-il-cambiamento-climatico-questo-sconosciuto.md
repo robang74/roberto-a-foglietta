@@ -1,12 +1,14 @@
-<div id="firstdiv" created="2024-12-14:-99" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-12-14:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/295-il-cambiamento-climatico-questo-sconosciuto-img-001.jpg"><br/></div>
 
 ## Il cambiamento climatico questo sconosciuto
 
-* Published Dec 14, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/il-cambiamento-climatico-questo-sconosciuto-roberto-a-foglietta-06ccf) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/295-il-cambiamento-climatico-questo-sconosciuto.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Dec 14, 2024 - origin [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_il-cambiamento-climatico-questo-sconosciuto-activity-7273048984619794433-gWHW) post
 
-Questo articolo è il prodotto di un [post](https://www.linkedin.com/posts/robertofoglietta_il-cambiamento-climatico-questo-sconosciuto-activity-7273048984619794433-gWHW) e dei suoi commenti scritti il giorno prima e qui raccolti con l'obiettivo di renderli pubblicamente disponibili.
+Questo [articolo](https://it.linkedin.com/pulse/il-cambiamento-climatico-questo-sconosciuto-roberto-a-foglietta-06ccf) pubblicato in origine su LinkedIn è il prodotto di un poste dei suoi commenti scritti il giorno prima e qui raccolti con l'obiettivo di renderli pubblicamente disponibili.
+
+---
 
 Dalla rivoluzione industriale in poi siamo passati da 1 miliardo a 8 miliardi di popolazione, da usare la stufa a legna a bruciare ogni tipo di carburante fossile. Anche la deforestazione è andata di pari passo accelerando in favore delle monoculture. L'idea che l'uomo abbia avuto un impatto sul cambiamento climatico non è una cosa bizzarra ma sensata.
 
