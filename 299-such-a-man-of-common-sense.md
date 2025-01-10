@@ -26,7 +26,11 @@ Before arguing about the opinions expressed in those videos, I wish to clarify a
 
 Again, the second is just a vicious way to implement the first point as “religion is everything that matters” and deciding to argue with me (or whoever other) from that point of view. Let me complete this scenario with the following:
 
-3. finance is a religion because it is supposed we believe in something without checking facts and without any degree of freedom in arguing about that but “in god we trust” printed on the $1 banknotes [TODO: add link].
+3. finance is a religion because it is supposed we believe in something without checking facts and without any degree of freedom in arguing about that but “in god we trust” printed on the $1 banknotes.
+
+About the point #3, the Fugio cent's case is telling us about how far in the past the roots of this evilness are going deep:
+
+* [Paper money is finantial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) - the Fugio cent's case.
 
 In short - whatever it matters for you – I am not arguing about it, but I am doing that old-fashioned border line human activity to find out a **description of reality** that works or works better than **your** unfactual opinion.
 
@@ -58,11 +62,33 @@ By the way, it is not about believing in WHAT but about questioning ourselves ab
 
 ### The evil root deep from the past
 
-The evil root of the nowadays issues is written in books – not in stone – written by people which has pretty no any knowledge of the subsect because at that time no one has and for this reason won the honour to be the founding fathers of that topic (like Adam Smith, just for naming the most famous author of that time).
+The evil root of the nowadays issues is written in books – not in stone – written by people which has pretty no any knowledge of the subsect because at that time no one has and for this reason won the honour to be the founding fathers of that topic
 
-For sake of fairness, those who wrote the critics (e.g. Karl Marx, just to naming the author most secretly read among those who live betting others people wealth at the Wall Street Casino) of the system based on their early founding fathers philosophy – *while the concepts of economics and accounting were existing millennials before the branch of studies about such a topic like finance and economic were never formalised also because the University itself was invented few centuries before and took its time to spread around the Europe* – were in the same pot cooking aka poorly educated about the subject with no any real-world experience – *also because the Industrial Revolution was at its first beginnings hence nobody at that time could have matured any kind of real-world experience on which base its scientific consideration, therefore just philosophy can be written at that time* – and both were educated and widely experienced in a manner that compared with the nowadays state-of-art on that subjects (including chaos, systems and games theories without forgetting the Nash equilibrium principle or the falsification of asymmetric information advantage, etc.) make look like them as a bunch of untouched tribe of savages who lived all their life-time like monkeys in the jungle.
+- *e.g. like Adam Smith, just for naming the most famous author of that time*
 
-Or to make a more shorter but still fashionable example, we can states that accepting paper money which has printed by thin air (aka legal currency without a material back-up or any fixed rate with a valuable commodity, aka golden standard or Bretton Wood agreement)  in exchange of our properties, work and preciously limited life-timeis something that makes – *in comparison* – the Native Americans - *who were trading their hunting quarry in exchange for “the water made of fire” whiskey, get intoxicated and addicted to it at the point to misbehaving for having more* - seems like an exclusive club of illuminati doing a great business richly profitable.
+For sake of fairness, those who wrote the critics
+
+- *e.g. Karl Marx, just to naming the author most secretly read among those who live betting others people wealth at the Wall Street Casino*
+
+of the system based on their early founding fathers philosophy
+
+- *while the concepts of economics and accounting were existing millennials before the branch of studies about such a topic like finance and economic were never formalised also because the University itself was invented few centuries before and took its time to spread around the Europe*
+
+were in the same pot cooking aka poorly educated about the subject with no any real-world experience
+
+- *also because the Industrial Revolution was at its first beginnings hence nobody at that time could have matured any kind of real-world experience on which base its scientific consideration, therefore just philosophy can be written at that time*
+
+and both were educated and widely experienced in a manner that compared with the nowadays state-of-art on that subjects
+
+- *including chaos, systems and games theories without forgetting the Nash equilibrium principle or the falsification of asymmetric information advantage, etc.*
+
+makes look these founding fathers like a bounche of savages belonging to an untouched tribe whom have lived all their life-time among monkeys in the forest.
+
+Or to make a more shorter but still fashionable example, we can states that accepting paper money which has printed by thin air (aka legal currency without a material back-up or any fixed rate with a valuable commodity, aka golden standard or Bretton Wood agreement)  in exchange of our properties, work and preciously limited life-timeis something that makes – *in comparison* – the Native Americans
+
+- *who were trading their hunting quarry in exchange for “the water made of fire” whiskey, get intoxicated and addicted to it at the point to misbehaving for having more*
+
+seems like an exclusive club of illuminati doing a great business richly profitable.
 
 Just in case the previous explanation was too convoluted and historically richly based, compared to the example above, to be got quickly. At this time, the idea that you still have not got a clue but still reading is quite fascinating. Which is the reason because Casino has no clock displaying the time on the walls, nor windows to check outside and not even an easy way to get out plus some of them also offering free drinks, food and accommodation in their hotel, just in case you feel lucky.
 
@@ -98,7 +124,7 @@ However, even supposing to have addressed all of these properly let me highlight
 
 - despite the Asteroid is the quickest solution for our all problems, we may aim in finding something less scenographic and – unfortunately or fortunately for us  – the only way to let a financial system properly operates as a complementary sibling for a real-world finite economics is to embedded a limited resources paradigms at its foundation.
 
-- printing (or not printing, cit. Hamlet) more money that product growth is NOT the point as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
+Everything considering, printing (or not printing, cit. Hamlet) more money that product growth is **NOT** the point as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
 
 ---
 
@@ -110,21 +136,32 @@ Last but not least
 
 Sure, the Gross Domestic Product, which by its own definition collected all the transactions  without any other kind of accountability which means without any chance to eventually differentiate waste from product.
 
-The Baltimore Bridge collapsed and it is pretty clear also because common sense that it was a disaster, a damage, and its destruction was a minus not a plus on a road of a wealthy country.
+- The Baltimore Bridge collapsed and it is pretty clear also because common sense that it was a disaster, a damage, and its destruction was a minus not a plus on a road of a wealthy country.
 
-Despite this crystal clear evidence, the US gross domestic product increased because repairing the damage even if it cost 10x times more than a proper maintenance plan combined with an “everyday a bit” safety updating policy.
+- Despite this crystal clear evidence, the US gross domestic product increased because repairing the damage even if it cost 10x times more than a proper maintenance plan combined with an “everyday a bit” safety updating policy.
 
-Moreover, when your preferred Starbucks Latte or Cappuccino raises its price from $1 to $7, also those transactions are going to inflate the GDP, not because of common sense but because Math.
+- Moreover, when your preferred Starbucks Latte or Cappuccino raises its price from $1 to $7, also those transactions are going to inflate the GDP, not because of common sense but because Math.
 
 Finally, always that f*cking hard to learn Math, says that considering GDP inflation as “production” increase and by that increase also increase the monetary mass (aka a quantitative easing step forward, or a “whatever we takes, f*ck you all” expansive monetary policy by central banks) hence increasing the public debt maintains the ratio between debt/production stable while we are striving more in living in a progressive state of poverty because prices go up but not our salaries.
 
-Unless, that Canadian presidential candidate would not consider raising the payrolls like Putin did for more than 20 years  and in an exceptional measure immediately after the Ukrainian crisis started to be decided on the war front lines in 2022.
+Here a real-world case of an example about increasing and stabilising the public debt by charging the national population with a 25% c.a. inflaction increase in few years. natually the champions that made this world-wide primate's record are Italians, who's otherwise else?
+
+* [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) - automatic English translation available.
+
+So, Unless that Canadian presidential candidate would not consider raising the payrolls like Putin did for more than 20 years  and in an exceptional measure immediately after the Ukrainian crisis started to be decided on the war front lines in 2022.
 
 In such a case, it is useful to remember that raising payroll makes people happy, boost the economy thus increase the GDP “production”, creates inflation anyway and achieve the same “happy ending humanity or Western civilisation” result but with the happy word coherently set.
 
 <div align="center">
-<img class="darkinv" src="img/299-such-a-man-of-common-sense-img-002.png" width="400">
-<br/>For a beautyful moment, we made our investors happy.<br/>
+<table class="framebox">
+<tr>
+<td><img class="bwsketch" src="img/299-such-a-man-of-common-sense-img-003.png" width="400"></td>
+<td><img class="darkinv" src="img/299-such-a-man-of-common-sense-img-002.png" width="400"></td>
+<tr></tr>
+<td><sup>Numbers matter, mediocres voted mediocres in power.</sup></td>
+<td><sup>For a beautyful minute, we made our investors happy.</sup></td>
+</tr>
+</table>
 </div>
 
 Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism – yes, paper money is financial communism because, trough a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same  – usually depicted as meme on social networks because the Plato’s cave concept of common-sense lack of foresight is too cultural to get a grasp on people.
@@ -135,7 +172,7 @@ Citing the man in the cave telling the goodnight fairy tale to new-savages era p
 
 It is hard to imagine how the posterity will classify this period of our history in which some people gains an astonishing deeply understanding of an amusing large and diversified collection of notions learning how to deal with all that immense stuff by digital technology and computers, while others are still worshipping like deity people who moved their first step in that knowledge area in the 1800.
 
-* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md) - 1st draft, English translation available.
+* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) - 1st draft, automatic English translation available.
 
 Something that can be dismantled by someone who carries on sheltering and breeding 10 milking cows in some remote part of the world.
 
@@ -147,7 +184,7 @@ Printing money by thin air is bad - extremely bad - but every central bank and r
 
 Those are not agree with that may find interesting evaluating this new finite resources constrained financial and monetary system.
 
-* [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) - auto English translation available.
+* [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) - automatic English translation available.
 
 Because as a supporter of the Asteroid-oriented solution by a scientific factual PoV, it is necessary to provide a viable, rational and functional solution otherwise “false myth” were as good as others “false myth” and there was not a way-out. Nope!
 
@@ -158,6 +195,18 @@ That f*cking apple hanging on from that tree branch from where the speaking snak
 Never changing our own mind is a strong sign of faith in the benevolence that reality will not present the bill to us because we shared with a vast consensus our unfactual beliefs with many others and therefore we should be absolved all together.
 
 Even people who were not aware about what the Sun does or where it goes when the night comes wrote the opposite about. Think all the time you need about it, but not too much!
+
+<br/>
+
+## Related articles
+
+* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) (2025-01-07)
+
+* [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) (2024-11-27)
+
+* [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
+
+* [Paper money is finantial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 
 <br/>
 
