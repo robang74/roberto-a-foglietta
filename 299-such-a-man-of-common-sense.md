@@ -196,8 +196,8 @@ In such a case, it is useful to remember that raising payroll makes people happy
 <td><img class="bwsketch" src="img/299-such-a-man-of-common-sense-img-003.png" width="400"></td>
 <td><img class="darkinv" src="img/299-such-a-man-of-common-sense-img-002.png" width="400"></td>
 <tr></tr>
-<td><sup>Numbers matter, mediocres voted mediocres in power.</sup></td>
-<td><sup>For a beautiful minute, we made our investors happy.</sup></td>
+<td><sub>Numbers matter, mediocres voted mediocres in power.</sub></td>
+<td><sub>For a beautiful minute, we made our investors happy.</sub></td>
 </tr>
 </table>
 </div>
