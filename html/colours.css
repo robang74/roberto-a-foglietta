@@ -15,7 +15,7 @@ b.post-it { color: aqua; }
 a, a:link { color: aqua; }
 .sup-note, a:visited, a:active { color: lightcyan; }
 
-td, th { border: 1px solid gray; }
+table, td, th { border-color: gray; }
 
 /* -------------------------------------------------------------------------- */
 

@@ -152,15 +152,13 @@ table {
     font-family: "Tahoma mono", monospace; font-size: 80%;
 /**/
     border-collapse: collapse;
+    border: 1px solid #808080;
 }
 td, th {
     padding: 10px;
     text-align: center;
-    border: 1px solid #808080;
 }
-th {
-    text-align: center;
-}
+
 tr.trline td {
     padding: 1px;
 }
@@ -169,6 +167,11 @@ td.td1stcol {
     padding-left: 20px;
     font-weight: bold;
     text-align: left;
+}
+
+table.framebox, tr, td {
+    border: 0px transparent;
+    padding: 0px;
 }
 
 .li2in {
