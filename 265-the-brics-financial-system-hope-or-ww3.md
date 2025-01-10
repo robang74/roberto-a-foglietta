@@ -1,12 +1,12 @@
-<div id="firstdiv" created="2024-06-07:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-06-07:EN:+4" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/265-the-brics-financial-system-hope-or-ww3-img-001.png" width="800"><br/></div>
 
 ## The BRICS financial system, hope or WW3?
 
-* Published on 7th June 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/brics-financial-system-hope-ww3-roberto-a-foglietta-qzptf) - translate [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/265-the-brics-financial-system-hope-or-ww3.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/265-the-brics-financial-system-hope-or-ww3.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/265-the-brics-financial-system-hope-or-ww3.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/265-the-brics-financial-system-hope-or-ww3.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published on 7th June 2024 - origin - [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_bitcoin-activity-7204938621521432576-D8dJ) post
 
-Article created starting from a LinkedIn post [here](https://www.linkedin.com/posts/robertofoglietta_bitcoin-activity-7204938621521432576-D8dJ), updated to 4th version.
+The article was published on LinkedIn [here](https://www.linkedin.com/pulse/brics-financial-system-hope-ww3-roberto-a-foglietta-qzptf) and updated to 4th version.
 
 ---
 
@@ -24,6 +24,8 @@ Suggestions? Few but relevant.
 
 5. A new financial system and international transactions platform can be based on [Ethereum](https://en.wikipedia.org/wiki/Ethereum) because it offers a distributed infrastrutture and smart contracts. Two characteristics that fulfill the need for an independent and autonomous financial platform.
 
+---
+
 ### The true alternative
 
 In the same moment that a part of the world, the Western, insists in imposing their fiat currency and financial system on all the other countries in the world, the alternative is **NOT** creating a similar system against it.
@@ -34,9 +36,11 @@ We all, know where this approach will bring us, to the WW3.
 
 Instead, a true open as open access, free as freedom, independent like distributed ledgers, monetary and financial system would be a complete different thing. A true alternative, something that it can be leveraged by anyone in the world.
 
-> The best war is the one that is not fought. --Sun Tzu.
+* The best war is the one that is not fought. --Sun Tzu.
 
 The alternative is not about winning or losing, but between war and peace.
+
+---
 
 ## Update 15.06.2024
 
@@ -60,15 +64,13 @@ This will also reduce the volatility of the cryptocurrency involved like the pet
 
 18th June 2024 - SEC closes Ethereum 2.0 investigation, will not pursue Ethereum enforcement action
 
-After declaring in 2018 that Ether is not a security, in 2023 the SEC secretly decided to claim power over this digital asset as a security and has been conducting an invalid investigation into Ethereum.
+*After declaring in 2018 that Ether is not a security, in 2023 the SEC secretly decided to claim power over this digital asset as a security and has been conducting an invalid investigation into Ethereum.*
 
-Consensys sued the SEC on April 25, 2024 to defend the Ethereum ecosystem, seeking a court order that would halt the SEC’s investigation, on the grounds that ETH is a commodity and therefore the SEC lacks jurisdiction to investigate or regulate it. Following our lawsuit, numerous policymakers–including members ofCongress–and the public at large voiced concern over the SEC’s Ethereum 2.0 investigation.
+*[Consensys](https://consensys.io/blog/sec-closes-ethereum-2-0-investigation-will-not-pursue-ethereum-enforcement) sued the SEC on April 25, 2024 to defend the Ethereum ecosystem, seeking a court order that would halt the SEC’s investigation, on the grounds that ETH is a commodity and therefore the SEC lacks jurisdiction to investigate or regulate it. Following our lawsuit, numerous policymakers–including members ofCongress–and the public at large voiced concern over the SEC’s Ethereum 2.0 investigation.*
 
-On June 7, we sent a letter asking the SEC to confirm that the ETH ETF approvals in May, which were predicated on ether being a commodity, meant the agency would close its Ethereum 2.0 investigation.
+*On June 7, we sent a letter asking the SEC to confirm that the ETH ETF approvals in May, which were predicated on ether being a commodity, meant the agency would close its Ethereum 2.0 investigation.*
 
-Today, the Enforcement Division of the SEC responded by notifying us that it is closing its investigation into Ethereum 2.0 and will not pursue an enforcement action against [Consensys](https://consensys.io/blog/sec-closes-ethereum-2-0-investigation-will-not-pursue-ethereum-enforcement).
-
-[...]
+*Today, the Enforcement Division of the SEC responded by notifying us that it is closing its investigation into Ethereum 2.0 and will not pursue an enforcement action against Consensys.*
 
 ---
 
@@ -76,7 +78,7 @@ Today, the Enforcement Division of the SEC responded by notifying us that it is 
 
 Those got interested in Bitcoin, as investment for speculation or just because its technology, often are facing this statement which appear to be pro-Bitcoin adoption:
 
-> with widespread adoption and more stability, BTC could be quite incredible.
+* with widespread adoption and more stability, BTC could be quite incredible.
 
 First of all, we need to notice that this is a legal tender biased opinion. As many people are adopting the USD for their commercial transactions as much the USD would be a stable mean for trading. A legal tender as custom rather than enforced by an authority.
 
@@ -85,6 +87,8 @@ In case of the Bitcoin, because its design and implementation, it is the opposit
 People recognized it as something valuable - because its functionalities or as an asset - and therefore authorities got interested in Bitcoin but still not being able to control it.
 
 The most that they can do is regulating the exchanges between BTC and fiat currencies and viceversa. What they did, is regulating the financial and bankingsystem to recognize the BTC as something valuable which is worth attention and regulation.
+
+---
 
 ### Adoption vs Stability
 
@@ -146,9 +150,7 @@ Because their intrinsic value? Hard to believe compared to BTC, as Bitcoin Cash 
 
 Nope, ETH is good for quick financial transactions and creating derivatives or anything else that smart contracts can deal with.
 
-This explains why ETH is worth $3K while BTC is worth $60K (18.07.2024) despite keeping running the Ethereal infrastructure costs a small fraction of mining BTC to keep its working.
-
-The "*functional value*" of the ETH is higher than BTC while its intrinsic value is lower.
+This explains why ETH is worth $3K while BTC is worth $60K (18.07.2024) despite keeping running the Ethereal infrastructure costs a small fraction of mining BTC to keep its working. The "*functional value*" of the ETH is higher than BTC while its intrinsic value is lower.
 
 Moreover, ETH and BTC are not competing because their roles are completely different. Complementary, in fact. Like a financial trading/payment platformcompared to an economic exchange/reserve infrastructure.
 
