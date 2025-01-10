@@ -1,10 +1,10 @@
-<div id="firstdiv" created="2024-07-31:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-07-31:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/278-the-paper-money-is-financial-communism-img-001.png"><br/></div>
 
 ## The paper money is financial communism
 
-* Published Jul 31, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) - translate [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/278-the-paper-money-is-financial-communism.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/278-the-paper-money-is-financial-communism.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/278-the-paper-money-is-financial-communism.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/278-the-paper-money-is-financial-communism.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Jul 31, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) article
 
 ---
 
