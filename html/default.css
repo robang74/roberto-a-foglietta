@@ -40,7 +40,7 @@ div.post-it {
 /*  color: gray; */
     border-radius: 16px;
 /*  border: 1px dashed gray; */
-    padding: 20px 40px 5px 40px;
+    padding: 5px 40px 5px 40px;
     background-color: transparent;
     font-family: "Comic Sans", cursive;
     position: relative;
@@ -109,17 +109,20 @@ a {
     border-bottom: 1px double;
     padding-bottom: 1px;
 }
-a:link {
-}
+
+a:link { }
+
 a:hover {
     text-decoration: none;
     border-bottom: 3px double;
 }
+
 a:visited {
 /*  color: #ffc060; */
     text-decoration: none;
     border: none;
 }
+
 a:active {
 /*  color: #fff060; */
     text-decoration: bold;
@@ -170,8 +173,9 @@ td.td1stcol {
     text-align: left;
 }
 
-table.framebox, table.framebox tr, table.framebox th, table.framebox td {
+div.framebox table, div.framebox tr, div.framebox th, div.framebox td {
     border: 0px transparent;
+    text-align: center;
     padding: 0px;
 }
 
