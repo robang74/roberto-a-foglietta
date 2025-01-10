@@ -1,12 +1,14 @@
-<div id="firstdiv" created="2024-05-18:-99" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-05-18:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/></div>
 
-## LA GUERRA DEL DOLLARO CONTRO L'EURO
+## La guerra del dollaro contro l'euro
 
-* Published May 18, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/261-la-guerra-del-dollaro-contro-l-euro.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published May 18, 2024 - origin [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM) post
 
-Questo articolo è stato scritto a partire da questo [post su LinedIn](https://www.linkedin.com/posts/robertofoglietta_la-guerra-del-dollaro-contro-leuro-anche-activity-7197428434082394112-HqBM), pubblicato il 18 maggio 2024.
+Questo [articolo](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-leuro-roberto-a-foglietta-fx6qf) è stato scritto a partire da un post pubblicato su LinedIn il 18 maggio 2024.
+
+---
 
 ### Premessa
 
