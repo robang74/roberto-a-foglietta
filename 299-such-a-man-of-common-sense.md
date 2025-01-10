@@ -4,7 +4,7 @@
 
 ## Such a man of Common Sense!
 
-The following (since revision #7) is the 2nd draft which is **almost** identical to the 1st gut-written but improved by English polishing, a better format with some fancy cartoons and links added where text-only references were initially put. Enjoy it, while I am working to improve further this document.
+The following (since revision #7) is the 2nd draft which is **almost** identical to the 1st gut-written but improved by English polishing, a better format with some fancy cartoons and links added where text-only references were initially put. Enjoy it, while I am working to further improve this document.
 
 <br/>
 
@@ -70,7 +70,7 @@ As a bonus example (d), also the AI-drive chatbots shows a similar misconception
 
 ### Who is the target reader
 
-Not all the documents are written for everybody. This document is going to argument about **finance** – *check an etymologically wise dictionary before giving for assessed the meaning of that word, please* – and for who matters reasoning in a rational and reality-functioning way.
+Not all the documents are written for everybody. This document is going to argument about **finance** – *check an etymologically wise dictionary before giving for assessed the meaning of that word, please* – and for who matters, reasoning in a rational and reality-functioning way.
 
 The starting point is some declaration of a supposedly anti-system candidate for Canadian presidency which is sponsored by the suggestion that he can fix a broken system at its fundamentals using common sense.
 
@@ -116,7 +116,7 @@ Or to make a more shorter but still fashionable example, we can states that acce
 
 seems like an exclusive club of illuminati doing a great business richly profitable.
 
-Just in case the previous explanation was too convoluted and historically richly based, compared to the example above, to be got quickly. At this time, the idea that you still have not got a clue but still reading is quite fascinating.
+Just in case the previous explanation was too convoluted and historically richly based, compared to the example above, to be understood quickly. At this time, the idea that you still have not got a clue but still reading is quite fascinating.
 
 Which is the reason because Casinos have no clocks displaying the time on the walls, nor windows to check outside and not even an easy way to get out plus some of them also offering free drinks, food and accommodation in their hotel, just in case you feel lucky.
 
@@ -154,13 +154,13 @@ However, even supposing to have addressed all of these properly let me highlight
 
 - Any financial system based on infinite inflationary fiat currency is doomed to drive our economics to its worst possible ending
 
-The worst possible ending includes the whole humanity extinction or our civilisation collapse. Whatever you may consider the worst among the two, I still vote for the Asteroid.
+The worst possible ending includes the whole of human extinction or our civilisation collapse. Whatever you may consider the worst among the two, I still vote for the Asteroid.
 
 - despite the Asteroid is the quickest solution for our all problems, we may want to find something less scenographic 
 
-and – unfortunately or fortunately for us  – the only way to let a financial system properly operates as a complementary sibling for a real-world finite economics is to embedded a limited resources paradigms at its foundation.
+and – unfortunately or fortunately for us  – the only way to let a financial system properly operate as a complementary sibling for a real-world finite economics is to embed a limited resources paradigms at its foundation.
 
-Everything considering, printing (or not printing, cit. Hamlet) more money than the product growth is **NOT** the solution but just a good-will intention when nothing more radical can be acceptable for you audience or sponsor.
+Everything considering, printing (or not printing, cit. Hamlet) more money than the product growth is **NOT** the solution but just a good-will intention when nothing more radical can be acceptable for the audience or sponsors.
 
 It is **NOT** a solution as much as giving a gun with the barrel ready in the chamber but the safe lock and supposing that the kid will not shoot us because s/he will not unlock and pull the trigger.
 
@@ -204,9 +204,9 @@ In such a case, it is useful to remember that raising payroll makes people happy
 
 Citing the man in the cave telling the goodnight fairy tale to new-savages era post financial communism
 
-- paper money is financial communism because, trough a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same
+- paper money is financial communism because, through a fiat currency finally Adam Smith and Karl Marx philosophies converged into the same real-word scenario in which the worst ever form of Communism combined with an as harsh can be the common-sense dictatorship (aka mediaocracy) attitude in replacing an arbitrary ethical or moral ideology, their final destination is pretty the same, exactly the same
 
-usually depicted as meme on social networks because the Plato’s cave allegory about common-sense's lack of foresight is too much "cultural" to get a grasp on common people.
+usually depicted as a meme on social networks because the Plato’s cave allegory about common-sense's lack of foresight is too much "cultural" to get a grasp on common people.
 
 ---
 
@@ -224,7 +224,7 @@ Something that can be dismantled by someone who carries on sheltering and breedi
 
 Printing money by thin air is bad - extremely bad - but every central bank and related governments do that because all the others are doing that. Greed is good at its best of competitiveness in a challenge that we cannot afford to lose, whatever it takes. It is the epitaph of the Western civilization or human race on this planet. I vote for the 2nd option and I vote for the Asteroid.
 
-Those who do not agree with that may find interesting evaluating this new finite resources constrained financial and monetary system.
+Those who do not agree with that may find it interesting evaluating this new finite resources constrained financial and monetary system.
 
 * [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) - automatic English translation available.
 
