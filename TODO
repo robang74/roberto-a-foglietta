@@ -14,6 +14,7 @@
 + md2html.sh: codify sub-note in md/html conv.
 + add an colorish.css to handle dif. c. shades
 + md2html.sh: convert __text__ in underlined
++ md2html.sh: ~~ and ^^ for sentence sub/sub
 
 # DONE
 
