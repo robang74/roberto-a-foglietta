@@ -1,9 +1,16 @@
 /* 
  * Cascading Style Sheet for dark theming html pages converted from markdown
  *
- * (C) 2024, Roberto A. Foglietta <roberto.foglietta@gmail.com> - 3-clause BSD
+ * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
  *
  ******************************************************************************/
+
+#menu {
+    cursor: pointer;
+    user-select: none; /* Standard syntax */
+    -webkit-user-select: none;  /* Safari */
+    -ms-user-select: none;  /* IE 10 & 11 */
+}
 
 html {
  /*\,-Remove this parenthesys to switch the zoom */
@@ -31,35 +38,23 @@ body {
 }
 
 hr.post-it {
-    border: 0px transparent;
+    border: transparent;
     border-top: 1px dashed gray;
     background-color: transparent;
 }
 
 div.post-it {
-/*  color: gray; */
+    border: 1px dashed;
     border-radius: 16px;
-/*  border: 1px dashed gray; */
     padding: 5px 40px 5px 40px;
-    background-color: transparent;
     font-family: "Comic Sans", cursive;
-    position: relative;
- /*\,-Remove this parenthesys to reverse the side */
-/**)/
-    left: 10px;
-/**/
+    position: relative; /* b.post-it needs this line */
 }
 
 b.post-it {
     float: left;
     position: absolute;
- /*\,-Remove this parenthesys to reverse the side */
-/**)/
-    left: -9px; top: -15px;
-/*/
-    left: 6px; top: 3px;
-/**/
-/*  color: gray; */
+    left: 8px; top: 5px;
 }
 
 blockquote {
@@ -80,6 +75,30 @@ blockquote {
 blockquote.dqt {
     width: 720px;
 }
+
+.spanicon {
+    border-radius: 12px;
+    background-color: none;
+    border: 2px solid transparent;
+    padding: 4px 0px 4px 4px;
+    position: relative;
+    left: -2px;
+    top: 8px;
+}
+
+.svgicon {
+    position: relative;
+    top: 2px;
+}
+
+span.warnicon, span.infoicon {
+    @extend .spanicon;
+}
+
+svg.warnicon, svg.infoicon {
+    @extend .svgicon;
+}
+
 
 tt {
     font-weight: bold;
@@ -112,7 +131,7 @@ a {
 
 a:link { }
 
-a:hover {
+a:hover, a.topbar:hover {
     text-decoration: none;
     border-bottom: 3px double;
 }
@@ -189,68 +208,19 @@ div.framebox table, div.framebox tr, div.framebox th, div.framebox td {
     padding-left: 60px;
 }
 
-.spanicon {
-    font-family: sans;
-    border-radius: 8px;
-    background-color: none;
-    border: 2px solid transparent;
-}
+.alerts { font-family: "Monaco", monospace; font-weight: bold; }
 
-.svgicon {
-    position: relative;
-    top: 1.6px;
-}
+.topbar { font-family: "Ubuntu Condensed", condensed; }
 
-span.warnicon {
-    color: orange;
-}
-
-svg.warnicon {
-    fill: orange;
-}
-
-span.infoicon {
-    @extend .spanicon;
-    color: lightblue;
-}
-
-svg.infoicon {
-    @extend .svgicon;
-    fill: lightblue;
-}
-
-.topbar {
-    font-family: "Ubuntu Condensed", condensed;
-}
-
-a.topbar {
-    font-family: "Ubuntu Mono", monospace;
-}
+a.topbar { font-family: "Ubuntu Mono", monospace; }
 
 div.topbar {
     padding: 15px;
     padding-top: 9px;
     border-radius: 9px;
     padding-bottom: 12px;
+    border-bottom: 1px solid;
 }
-
-/* -----------------------------------------------------------------------------
-
-.tpbrtext, a.date-type { color: lightgray; }
-
-div.tpbrblue { background-color: darkblue; }
-div.tpbrgren { background-color: darkgreen; }
-div.tpbrwarm { background-color: maroon; }
-
-a.tpbrblue { color: lightblue; }
-a.tpbrgren { color: lightgreen; }
-a.tpbrwarm { color: orange; }
-
-.tpbrlang { }
-.tpbrlink { }
-.tpbrbold { }
-
------------------------------------------------------------------------------- */
 
 sup.date-type {
     font-weight: normal;
@@ -279,10 +249,6 @@ a.toplink {
 
 #date-legenda {
     font-family: "Ubuntu Condensed", condensed;
-}
-
-div.tpbrblue, div.tpbrgren, div.tpbrwarm {
-    border-bottom: 1px solid dimgray;
 }
 
 .sup-note {

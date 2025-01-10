@@ -14,7 +14,7 @@ Questo [articolo](https://www.linkedin.com/pulse/la-guerra-del-dollaro-contro-le
 
 Il 5 di maggio 2024, Rai - Radiotelevisione Italiana online news pubblica questa notizia ripresa dal The Wall Street Journal di cui qui sotto uno screenshot:
 
-<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png"><br/></div>
+<div align="center"><img class="darkinv" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-002.png"><br/></div>
 
 Per coloro che leggeranno questo articolo tradotto in automatico, aggiungo anche il testo, nella sua parte essenziale, della notizia:
 
@@ -72,7 +72,7 @@ Evidentemente non l'avevamo capita bene o non ci era stata spiegata bene o magar
 
 Però, nonostante il 2001, la nostra bilancia commerciale import/export con la Cina - sia nell'area Euro sia nella EU27 e anche entrambe queste aree andavano espandendosi - andava progressivamente migliorando e appena è diventata positiva, è scoppiata la bolla dei mutui subprime che ha invertito il trend a nostro svantaggio.
 
-<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>
+<div align="center"><img class="darkinv" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png" width="800" height="488"><br/>
   
 Europe Cina import export balance sheet and charts, [click to enlarge](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/img/261-la-guerra-del-dollaro-contro-l-euro-img-003.png)
 
@@ -135,7 +135,7 @@ Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 
 La politica estera americana riassunta in un meme.
 
-<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
 
 Ora questo meme può sembrare geniale, perché in qualche misura fa umorismo (o sarcasmo) sul riciclaggio di denaro pubblico. Però se guardiamo un po' più attentamente notiamo che ci sarebbe un altro passaggio da aggiungere.
 

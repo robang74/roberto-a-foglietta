@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-06-07:EN:+4" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/265-the-brics-financial-system-hope-or-ww3-img-001.png" width="800"><br/></div>
+<div align="center"><img class="wbsketch" src="img/265-the-brics-financial-system-hope-or-ww3-img-001.png" width="800"><br/></div>
 
 ## The BRICS financial system, hope or WW3?
 
@@ -94,7 +94,7 @@ The most that they can do is regulating the exchanges between BTC and fiat curre
 
 However, being back to the claim above. If this conclusion would be correct, why Nasdaq index is quite as much volatile as the BTC price? Both shares an exponential trend, while Russell and FTSE indexes are showing a linear trend with a relatively lower volatility.
 
-<div align="center"><img src="img/265-the-brics-financial-system-hope-or-ww3-img-002.png"><br/>exponential trends VS linear trends</div>
+<div align="center"><img class="darkinv" src="img/265-the-brics-financial-system-hope-or-ww3-img-002.png"><br/>exponential trends VS linear trends</div>
 
 Hence, trend matters. We draw BTC and Nasdaq on a linear Y-scale but this presentation is not suitable compared to their trends which are exponential.
 

@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-10-13:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
+<div align="center"><img class="wbsketch" src="img/292-linux-android-and-redfish-os-img-001.jpg"><br/></div>
 
 ## Linux, Android & RedFish OS
 
@@ -24,7 +24,7 @@ This article is based on a post written in Italian and [published](https://www.l
 
 Curious because considering that Android's kernel is actually Linux, it would be useful to do the opposite: run Linux and virtualise Android. In fact, it already does, Android runs by a hypervisor called pKVM.
 
-<div align="center"><img src="img/292-linux-android-and-redfish-os-img-002.png"><br/>Android Virtualization Framework (AVF) overview - [lnkd.in/dVu8vyQp](lnkd.in/dVu8vyQp)</div>
+<div align="center"><img class="darkinv" src="img/292-linux-android-and-redfish-os-img-002.png"><br/>Android Virtualization Framework (AVF) overview - [lnkd.in/dVu8vyQp](lnkd.in/dVu8vyQp)</div>
 
 However, not with a virtual machine, which would significantly degrade the system's performance (usually by 1/2), but through segregation, which is absolutely possible, since unlike a generic VM, execution on the processor is supervised but transparent.
 
@@ -46,7 +46,7 @@ It seems that there is everything and instead there is nothing (cit.) simply bec
 
 The advantages of an Android container are that all the hardware management part would go out of the picture, so Android would no longer be an operating system but an application run-time framework and a development environment for apps. Just as it is today, but in a container. As it is today, precisely.
 
-<div align="center"><img src="img/292-linux-android-and-redfish-os-img-003.png"><br/></div>
+<div align="center"><img class="darkinv" src="img/292-linux-android-and-redfish-os-img-003.png"><br/></div>
 
 This, in essence, is the concept behind RedFish OS. It is not everything, but it is the fundamental part. Hence, its nature of a dual-mode bootable image for rescue/maintenance and supervised execution of the Android system.
 
@@ -80,7 +80,7 @@ Simplicity is the ultimate form of sophistication. The STEM people are able to c
 
 Also the engines of the Space Shuttle belong within this example. However,with the Starship's launcher project by Elon Musk's industries we saw something going further: the Raptor engine in its 1st generation was a beautiful clockwork of complications.
 
-<div align="center"><img src="img/292-linux-android-and-redfish-os-img-004.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/292-linux-android-and-redfish-os-img-004.jpg"><br/></div>
 
 Raptor engine evolution among three generation
 
@@ -98,7 +98,7 @@ In fact, a compact/rigid system has several good properties but flexibility and 
 
 The photo below shows a smartphone display not a real object.
 
-<div align="center"><img src="img/292-linux-android-and-redfish-os-img-005.png" width="800"><br/>
+<div align="center"><img class="fairinv" src="img/292-linux-android-and-redfish-os-img-005.png" width="800"><br/>
 <sup>Screenshot 2023-09-21 - right click to enlarge in a new window</sup></div>
 
 Inspired by Punkt. MP01, I have decided to adapt their design to RedFish OS running on a Sony Xperia 10 II, a modern device that debuted on the market in the middle of 2020.
