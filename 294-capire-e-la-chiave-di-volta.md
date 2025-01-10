@@ -1,10 +1,12 @@
-<div id="firstdiv" created="2024-11-27:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-11-27:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-001.png" width="800"><br/></div>
 
 ## Capire è la chiave di volta
 
-* Published Nov 27, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/capire-%C3%A8-la-chiave-di-volta-roberto-a-foglietta-kx3ue) - translate [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/294-capire-e-la-chiave-di-volta.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Nov 27, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/capire-%C3%A8-la-chiave-di-volta-roberto-a-foglietta-kx3ue) article
+
+---
 
 ### Premessa
 
