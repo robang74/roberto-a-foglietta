@@ -1,14 +1,14 @@
-<div id="firstdiv" created="2024-09-22:-99" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-09-22:IE" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/285-i-wish-to-be-a-wolf-accept-it-img-001.jpg"><br/></div>
 
 ## I wish to be a wolf, accept it
 
-* Published Sep 22, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/i-wish-wolf-accept-roberto-a-foglietta-hycff) - translate [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/285-i-wish-to-be-a-wolf-accept-it.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/285-i-wish-to-be-a-wolf-accept-it.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/285-i-wish-to-be-a-wolf-accept-it.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/285-i-wish-to-be-a-wolf-accept-it.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/285-i-wish-to-be-a-wolf-accept-it.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)]
+* Published Sep 22, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/i-wish-wolf-accept-roberto-a-foglietta-hycff) article
 
-*This article has been written by some texts taken from previous posts and comments that I wrote on LinkedIn. The frst part is in English while the second is in Italian, like their originals.*
+This article has been written by some texts taken from previous posts and comments that I wrote on LinkedIn. The frst part is in English while the second is in Italian, like their originals.
 
-*Questo articolo è stato scritto a partire da post e commenti precedenti che ho scritto su LinkedIn. La prima parte è in inglese mentre la seconda è in italiano, come gli originali.*
+Questo articolo è stato scritto a partire da post e commenti precedenti che ho scritto su LinkedIn. La prima parte è in inglese mentre la seconda è in italiano, come gli originali.
 
 ---
 
