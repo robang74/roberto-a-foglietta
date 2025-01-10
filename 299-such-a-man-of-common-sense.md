@@ -40,7 +40,17 @@ This is a **very important** premise because in front of a statement like “I b
 
 Most probably your “religion” will forbid that “obscene” way of acting otherwise people would experience factual proof of being wrong. It happens the same with finance, and here we are.
 
-A specific example of this premise concept can be found in (a) “Sei tu il problema, non l’AI” and in a broader manner within the vast universe of the fantasy literature section -- which like the Dante’s Hell can be entitled engraving the following statement “opinions vs reality: drop every hope you dare to get in here” above the entering door -- we can count in also (b) “I wish to be a wolf, please accept it” or (c) “The variety vs diversity, and other fairy tales about X/XY chromosomes issue”.
+A specific example of this premise concept can be found in (a) conceptual cognitive dissonance about AI and, in a broader manner, within the vast universe of the fantasy literature section - which like the Dante’s Hell can be entitled engraving the following statement “*opinions vs reality: drop every hope you dare to get in here*” above the entering door - we can count in also the (b) variety vs diversity or all the (c) fairy tales about X/XY chromosomes mass-distraction negative-value identity confusion.
+
+* (a) &middot&middot [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) in Italian, automatic English translation available.
+
+* (b) &middot&middot [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank), written in English since the beginning.
+
+* (c) &middot&middot [Il grande inganno della diverità](https://robang74.github.io/roberto-a-foglietta/html/293-il-grande-inganno-della-diversita.html) in Italian, automatic English translation available.
+
+* (d) &middot&middot [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html), written in English since the beginning
+
+As a bonus example (d), also the AI-drive chatbots shown similar misconceptional behaviour (or biases orthodoxy) when they reduced in size by a processes usually known as quantisation.
 
 ---
 
@@ -200,6 +210,8 @@ Even people who were not aware about what the Sun does or where it goes when the
 
 ## Related articles
 
+All the following articles show a quick way to read them in the most common European languages such as English, Italian, German, French and Spanish but every other laguage supported by Google Translation is also avaialble.
+
 * [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) (2025-01-07)
 
 * [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) (2024-11-27)
@@ -207,6 +219,16 @@ Even people who were not aware about what the Sun does or where it goes when the
 * [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
 
 * [Paper money is finantial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
+
+### Also cited here
+
+* [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) (2024-12-13)
+
+* [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank) (2024-09-22)
+
+* [Il grande inganno della diverità](https://robang74.github.io/roberto-a-foglietta/html/293-il-grande-inganno-della-diversita.html) (2024-12-16)
+
+* [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) (2025-01-04)
 
 <br/>
 
