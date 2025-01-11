@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2023-12-31:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/236-a-post-covid-pandemic-review-img-001.jpg"><br/></div>
+<div align="center"><img class="wbsketch inksave" src="img/236-a-post-covid-pandemic-review-img-001.jpg"><br/></div>
 
 ## A post covid pandemic review
 

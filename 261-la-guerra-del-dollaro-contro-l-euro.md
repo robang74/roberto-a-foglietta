@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-05-18:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/></div>
+<div align="center"><img class="inksave" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-001.jpg"><br/></div>
 
 ## La guerra del dollaro contro l'euro
 
@@ -135,7 +135,7 @@ Penso che in questo articolo ci siano abbastanza spunti affinché una persona di
 
 La politica estera americana riassunta in un meme.
 
-<div align="center"><img class="bwsketch" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
+<div align="center"><img class="inksave" src="img/261-la-guerra-del-dollaro-contro-l-euro-img-004.jpg"><br/></div>
 
 Ora questo meme può sembrare geniale, perché in qualche misura fa umorismo (o sarcasmo) sul riciclaggio di denaro pubblico. Però se guardiamo un po' più attentamente notiamo che ci sarebbe un altro passaggio da aggiungere.
 
