@@ -1,4 +1,4 @@
-<br/><div align="center"><img src="img/297-il-delirio-dei-regolatori-delle-ai-img-001.jpg"><br/></div>
+<br/><div align="center"><img class="wbsketch inksave" src="img/297-il-delirio-dei-regolatori-delle-ai-img-001.jpg"><br/></div>
 
 ## Il delirio dei regolatori delle AI
 
@@ -116,7 +116,7 @@ Tale ammasso di bit che non ha mai calpestato il suolo terrestre o neanche solo 
 
 Per giunta imponendomi l'amore platonico come forma universale di relazione quando noi, in quanto mammiferi, ci riproduciamo in modo naturale SOLO attraverso il sesso. Enough is enough!
 
-<div align="center"><img src="img/297-il-delirio-dei-regolatori-delle-ai-img-002.png" width="800"><br/>*click sull'immagine con il tasto destro per ingrandire in una nuova finestra*</div>
+<div align="center"><img class="paleinv" src="img/297-il-delirio-dei-regolatori-delle-ai-img-002.png" width="800"><br/>*click sull'immagine con il tasto destro per ingrandire in una nuova finestra*</div>
 
 ---
 

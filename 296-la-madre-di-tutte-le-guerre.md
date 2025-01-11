@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-12-15:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
+<div align=center><img class="bwsketch" src="img/296-la-madre-di-tutte-le-guerre-img-001.jpg"><br/></div>
 
 ## La madre di tutte le guerre
 
@@ -48,7 +48,7 @@ D'altronde è ormai evidente che sia un'impresa impossibile ragionare con delle 
 
 > **13 dicembre 2025** - *Contro Russia e Cina serve una mentalità di guerra. Prendiamo dalla sanità e dalle pensioni i soldi per le armi. Mark Rutte segretario generale della NATO.*
 
-<div align=center><img src="img/296-la-madre-di-tutte-le-guerre-img-002.jpg"><br/></div>
+<div align=center><img class="wbsketch inksave" src="img/296-la-madre-di-tutte-le-guerre-img-002.jpg"><br/></div>
 
 Rido non perché l'idea di Mark Rutte faccia ridere e nemmeno per coloro che si scandalizzano di queste idee ma del fattore "sorpresa". Quale sorpresa?
 

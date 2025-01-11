@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-12-14:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/295-il-cambiamento-climatico-questo-sconosciuto-img-001.jpg"><br/></div>
+<div align="center"><img class="wbsketch" src="img/295-il-cambiamento-climatico-questo-sconosciuto-img-001.jpg"><br/></div>
 
 ## Il cambiamento climatico questo sconosciuto
 

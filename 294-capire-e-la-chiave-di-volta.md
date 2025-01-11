@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-11-27:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/294-capire-e-la-chiave-di-volta-img-001.png" width="800"><br/></div>
+<div align="center"><img class="bwsketch" src="img/294-capire-e-la-chiave-di-volta-img-001.png" width="800"><br/></div>
 
 ## Capire è la chiave di volta
 
