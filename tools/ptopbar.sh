@@ -64,7 +64,7 @@ function print_topbar() {
 
     TOPBAR_STRING="<p/>
 <div class='topbar translate='no'>"\
-"&nbsp;${LINE_MARK} ${LINE_DASH} published:&nbsp; <b class='topbar'>"\
+"${LINE_MENU}${LINE_DASH} published:&nbsp; <b class='topbar'>"\
 "${PUBLISH_UNIVDATE}</b> ${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
     gotolist="1 2 3"
@@ -98,7 +98,8 @@ weburl="https://${gitusr}.github.io"
 gtlink="${weburl//./-}.translate.goog/${gitprj}"
 
 MDOT_DASH="&nbsp;<b>&middot;</b>&nbsp;"
-LINE_MARK="<b id='menu' onClick='nextStylesheet()'>&#9783;&thinsp;&Ropf;</b>"
+LINE_MENU="&thinsp;&#9783;&thinsp;&Ropf;&nbsp;"
+LINE_MENU="<b id='menu' onClick='nextStylesheet()'>$LINE_MENU</b>"
 LINE_DASH="&nbsp;&mdash;&nbsp;"
 
 REVISION_STRING=""
@@ -155,7 +156,7 @@ command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then
     REVISION_STRING=" ${LINE_DASH} revision: <b class='topbar
-'>${revnum}</b class='
+'>${revnum}</b rev_num='
 '>"
 fi 2>/dev/null
 

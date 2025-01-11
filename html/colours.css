@@ -25,7 +25,7 @@ div.post-it { border-color: aqua; }
 
 a, a:link, b.post-it { color: aqua; }
 
-.sup-note, a:visited, a:active { color: lightcyan; }
+.sup-note, a:visited, a:active, a.topbar { color: lightcyan; }
 
 
 .warnicon, .infoicon { background-color: transparent; }
