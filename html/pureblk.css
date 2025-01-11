@@ -21,9 +21,7 @@ img.bwsketch.inksave {
 
 img.bwsketch { filter: invert(100%) grayscale(100%) contrast(8); }
 
-img.wbsketch, img.awsketch { filter: grayscale(100%) contrast(8); }
-
-img { filter: grayscale(100%) contrast(2); }
+img, img.wbsketch, img.awsketch { filter: grayscale(100%) contrast(8); }
 
 
 body { color: white; background-color: black; }
