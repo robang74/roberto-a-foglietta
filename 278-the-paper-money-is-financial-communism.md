@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-07-31:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/278-the-paper-money-is-financial-communism-img-001.png"><br/></div>
+<div align="center"><img class="bwsketch" src="img/278-the-paper-money-is-financial-communism-img-001.png"><br/></div>
 
 ## The paper money is financial communism
 
@@ -170,7 +170,7 @@ Please feel free to reach your own conclusion about this reading.
 
 > The Fugio cent, also known as the Franklin cent, is the first official circulation coin of the United States. Consisting of 0.36 oz (10 g) of copper and minted dated 1787, by some accounts it was designed by Benjamin Franklin. - [Wikipedia](https://en.wikipedia.org/wiki/Fugio_cent)
 
-<div align="center"><img src="img/278-the-paper-money-is-financial-communism-img-002.png"><br/></div>
+<div align="center"><img class="wbsketch inksave" src="img/278-the-paper-money-is-financial-communism-img-002.png"><br/></div>
 
 In the original Benjamin Franklin draft two mottoes was impressed on the coin:
 

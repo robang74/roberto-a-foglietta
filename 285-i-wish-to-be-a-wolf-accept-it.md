@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-09-22:IE" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/285-i-wish-to-be-a-wolf-accept-it-img-001.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/285-i-wish-to-be-a-wolf-accept-it-img-001.jpg"><br/></div>
 
 ## I wish to be a wolf, accept it
 
