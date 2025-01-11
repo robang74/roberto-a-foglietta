@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2025-01-07:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="bwsketch" src="img/298-dietro-a-quel-nome-c-e-un-mondo-img-001.jpg"><br/></div>
+<div align="center"><img class="awsketch inksave" src="img/298-dietro-a-quel-nome-c-e-un-mondo-img-001.jpg"><br/></div>
 
 Questo documento è ancora una bozza in fase di lavorazione, 1st draft as published on Facebook, WIP
 

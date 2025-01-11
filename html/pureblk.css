@@ -11,11 +11,17 @@
 
 img.darkinv { filter: invert(100%) grayscale(100%) contrast(2); }
 
+img.wbsketch.inksave, img.awsketch.inksave, img.inksave {
+    filter: grayscale(100%) brightness(0.90) contrast(4);
+}
+
+img.bwsketch.inksave {
+    filter: grayscale(100%) brightness(1.25) contrast(4) invert(100%);
+}
+
 img.bwsketch { filter: invert(100%) grayscale(100%) contrast(8); }
 
-img.wbsketch { filter: grayscale(100%) contrast(8); }
-
-img.awsketch { filter: grayscale(100%) contrast(8); }
+img.wbsketch, img.awsketch { filter: grayscale(100%) contrast(8); }
 
 img { filter: grayscale(100%) contrast(2); }
 

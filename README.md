@@ -1,6 +1,6 @@
 <div id="firstdiv" created=":-2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="wbsketch" src="img/warp-speed-jump.png"><br/></div>
+<div align="center"><img class="wbsketch" src="img/warp-speed-jump.png" width="800"><br/></div>
 
 # Roberto A. Foglietta
 
