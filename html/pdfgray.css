@@ -15,9 +15,9 @@ img.wbsketch.inksave, img.awsketch.inksave, img.inksave {
     filter: grayscale(100%) brightness(1.5);
 }
 
-img.wbsketch { filter: invert(100%) grayscale(100%) contrast(1.5) brightness(1.05); }
+img.wbsketch { filter: invert(100%) grayscale(100%) contrast(1.5) brightness(1.05); }  /* grya_2nd */
 
-img.bwsketch, img.awsketch { filter: grayscale(100%) contrast(1.5) brightness(1.05); }
+img.bwsketch, img.awsketch { filter: grayscale(100%) contrast(1.5) brightness(1.05); } /* gray_2nd */
 
 img { filter: grayscale(100%) contrast(1.25) brightness(0.99); }
 

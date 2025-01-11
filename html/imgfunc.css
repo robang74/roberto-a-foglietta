@@ -1,0 +1,46 @@
+/* 
+ * Cascading Style Sheet for fair theming html pages converted from markdown
+ *
+ * (C) 2025, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
+ *
+ ******************************************************************************/
+
+img.gray_1st { filter: grayscale(100%) brightness(0.99) contrast(1.25); }
+
+img.gray_2nd { filter: grayscale(100%) brightness(1.05) contrast(1.5); }
+
+img.gray_3rd { filter: grayscale(100%) brightness(1.5); }
+
+
+img.grya_1st { filter: invert(100%) grayscale(100%) brightness(0.99) contrast(1.25); }
+
+img.grya_2nd { filter: invert(100%) grayscale(100%) brightness(1.05) contrast(1.5); }
+
+img.grya_3rd { filter: invert(100%) grayscale(100%) brightness(1.5); }
+
+
+img.dark_1st,
+img.pale_1st { filter: grayscale(100%) contrast(2); }
+
+img.dark_2nd,
+img.pale_2nd { filter: grayscale(100%) contrast(4) brightness(1.25); }
+
+img.dark_3rd,
+img.pale_3rd { filter: grayscale(100%) contrast(8); }
+
+img.dakr_1st,
+img.pael_1st { filter: invert(100%) grayscale(100%) contrast(2); }
+
+img.dakr_2nd,
+img.pael_2nd { filter: invert(100%) grayscale(100%) contrast(4) brightness(1.25); }
+
+img.dakr_3rd,
+img.pael_3rd { filter: invert(100%) grayscale(100%) contrast(8); }
+
+
+img.dark_4th { filter: grayscale(100%) contrast(4) brightness(0.90); }
+
+img.dakr_4th { filter: invert(100%) grayscale(100%) contrast(4) brightness(0.90); }
+
+img.inverted { filter: invert(100%); }
+
