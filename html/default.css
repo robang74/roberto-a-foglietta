@@ -228,7 +228,8 @@ sup.date-type {
     top: 2px;
 }
 
-a.date-type, a.topbar {
+a.date-type, a.topbar, a.topbar:hover {
+    background-color: transparent;
     text-decoration: none;
     font-weight: bold;
     border: none;
