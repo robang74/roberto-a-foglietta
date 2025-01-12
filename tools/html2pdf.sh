@@ -43,6 +43,6 @@ done
 wait
 
 mkdir -p pdf/
-mv -f html/*.pdf index.pdf pdf/
+mv -f html/*.pdf index.pdf pdf/ 2>&1 | grep -v .
 printf "\npdf folder size: %d Kb\n\n" $(du -ks pdf/ | cut -f1)
 
