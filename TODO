@@ -16,6 +16,7 @@
 + md2html.sh: convert __text__ in underlined
 + md2html.sh: ~~ and ^^ for sentence sub/sub
 + md2html.sh: at exit rm -f html/*.tmp (^C)
++ ptransl.sh: deal with IT-EN/EN-IT locally
 
 # DONE
 
