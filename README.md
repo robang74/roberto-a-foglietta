@@ -138,7 +138,7 @@
 
 [**`EN`**] There is a folder that contains few script [tools](tools) and you may be interested in a couple of them.
 
-[**`IT`**] C'è una cartella che contiene alcuni script [tools](tools) e potreste essere interessati a un paio di essi. 
+[**`IT`**] C'è una cartella che contiene alcuni script [tools](tools) e potreste essere interessati a un paio di essi.
 
 #### HTML
 
@@ -156,7 +156,7 @@
 
 ## Warp meme
 
-[**`EN`**] Sun Tzu in **The Art of War** is written that the aim of the war is not winning but creating the conditions for a long lasting peace and at the beginning of that essay, he also wrote that "*The supreme art of war is to subdue the enemy without fighting.*" which clearly states that is not by violence which can achieved the best. Joseph Joubert quote reports almost an identical concept "*The aim of argument should not be victory, but progress*". 
+[**`EN`**] Sun Tzu in **The Art of War** is written that the aim of the war is not winning but creating the conditions for a long lasting peace and at the beginning of that essay, he also wrote that "*The supreme art of war is to subdue the enemy without fighting.*" which clearly states that is not by violence which can achieved the best. Joseph Joubert quote reports almost an identical concept "*The aim of argument should not be victory, but progress*".
 
 [**`IT`**] Sun Tzu ne **L'Arte della Guerra** è scritto che lo scopo della guerra non è vincere, ma creare le condizioni per una pace duratura e, all'inizio di quel saggio, scrisse anche che “*L'arte suprema della guerra è sottomettere il nemico senza combattere*”, affermando chiaramente che non è con la violenza che si può ottenere il meglio. La citazione di Joseph Joubert riporta un concetto quasi identico: “Lo scopo dell'argomentazione non deve essere la vittoria, ma il progresso”.
 
