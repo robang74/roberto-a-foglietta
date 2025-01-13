@@ -79,13 +79,13 @@ function md2htmlfunc() {
         cat $1
     fi | full_mdlinkconv >>$2
 
-    cmd="sed"
+    cmd="sed -i $2"
     for a in "IT" "EN" "DE" "FR" "ES"; do
         cmd+=" -e 's,^\[...$a...\] ,<span class=\"flag $a\">$a\&nbsp;</span>\&nbsp;,'"
     done
-    eval "$cmd -i $2"
+    eval "$cmd"
 
-    sed -e "s,@,\&commat;,g" \
+    sed -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
 -e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
 -e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
