@@ -1,0 +1,56 @@
+/* source url: https://j471n.in/blogs/countries-flags#germany */
+.flag {
+    position: relative;
+    color: transparent;
+    border-radius: 0.2em;
+    padding: 0px 2px 0px 2px;
+    font-family: monospace;
+    font-size: 0.8em;
+    overflow: hidden;
+    border: none;
+    top: -0.2em;
+}
+nobr.flag { font-size: 1.0em; color: gray; }
+.IT {
+    background: linear-gradient(
+        to right,
+        #009343 33%,
+        #ffffff 33%,
+        #ffffff 66%,
+        #cf2734 0
+    );
+}
+.DE {
+    background: linear-gradient(
+        #000000 33%,
+        #de0000 33%,
+        #de0000 67%, 
+        #ffcf00 0
+    );
+}
+.FR {
+    background: linear-gradient(
+        to right,
+        #192f8e 33%,
+        #ffffff 33%,
+        #ffffff 67%,
+        #e01414 0
+    );
+}
+.ES {
+    background: linear-gradient(
+        #ad1519 25%,
+        #fabd00 25%,
+        #fabd00 75%, 
+        #ad1519 0
+    );
+}
+.EN  {
+    background-repeat: no-repeat;  
+    background-position: 0% 0%;
+    background-size: 100% 100%;
+    background-image: url("en.svg");
+}
+
+
+
