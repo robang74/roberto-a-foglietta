@@ -81,7 +81,7 @@ function md2htmlfunc() {
 
     cmd="sed"
     for a in "IT" "EN" "DE" "FR" "ES"; do
-        cmd+=" -e 's,^\[...$a...\] ,<span class=\"flag $a\">$a</span> ,'"
+        cmd+=" -e 's,^\[...$a...\] ,<span class=\"flag $a\">$a\&nbsp;</span>\&nbsp;,'"
     done
     eval "$cmd -i $2"
 

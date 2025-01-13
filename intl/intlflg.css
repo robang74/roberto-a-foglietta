@@ -3,11 +3,11 @@
     position: relative;
     color: transparent;
     border-radius: 0.4em;
-    padding: 0px 0.4em 0px 0.4em;
+    border: 1px solid gray;
+/*  padding: 0px 0.4em 0px 0.4em; */
     font-family: monospace;
     display:inline-block;
     font-size: 0.7em;
-    border: none;
     top: -0.3em;
 }
 nobr.flag { font-size: 1.0em; color: gray; }
@@ -46,7 +46,6 @@ nobr.flag { font-size: 1.0em; color: gray; }
     );
 }
 .EN  {
-
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url("en.svg");
