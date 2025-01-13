@@ -2,13 +2,13 @@
 .flag {
     position: relative;
     color: transparent;
-    border-radius: 0.2em;
-    padding: 0px 2px 0px 2px;
+    border-radius: 0.4em;
+    padding: 0px 0.4em 0px 0.4em;
     font-family: monospace;
-    font-size: 0.8em;
-    overflow: hidden;
+    display:inline-block;
+    font-size: 0.7em;
     border: none;
-    top: -0.2em;
+    top: -0.3em;
 }
 nobr.flag { font-size: 1.0em; color: gray; }
 .IT {
@@ -46,10 +46,11 @@ nobr.flag { font-size: 1.0em; color: gray; }
     );
 }
 .EN  {
-    background-repeat: no-repeat;  
-    background-position: 0% 0%;
-    background-size: 100% 100%;
+
+    background-size: cover;
+    background-repeat: no-repeat;
     background-image: url("en.svg");
+    background-position: center;
 }
 
 

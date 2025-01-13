@@ -63,7 +63,7 @@ function full_mdlinkconv() {
 }
 
 function md2htmlfunc() {
-    local a b c i str=$(basename ${2%.html}) dir="" title txt
+    local a b c i str=$(basename ${2%.html}) dir="" title txt cmd
     test "$str" == "index" && dir="html/"
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
@@ -78,6 +78,12 @@ function md2htmlfunc() {
     else
         cat $1
     fi | full_mdlinkconv >>$2
+
+    cmd="sed"
+    for a in "IT" "EN" "DE" "FR" "ES"; do
+        cmd+=" -e 's,^\[...$a...\] ,<span class=\"flag $a\">$a</span> ,'"
+    done
+    eval "$cmd -i $2"
 
     sed -e "s,@,\&commat;,g" \
 -e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
