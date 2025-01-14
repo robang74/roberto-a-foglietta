@@ -202,37 +202,37 @@ Se però arrivassimo a comprendere che queste idee preconcette (arbitrarie, rela
 
 ## Articoli correlati
 
-Intelligenza artificiale, etica e società
+**Intelligenza artificiale, etica e società**
 
-* Il pensiero e il linguaggio - origin [LinkedIn](https://www.linkedin.com/pulse/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf) (2024-03-25)
+* 247 - Il pensiero e il linguaggio - [[**`PDF`**](../pdf.todo(../pdf.todo/247-Il_pensiero_e_il_linguaggio.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf) (2024-03-25)
 
-* L'importanza del metodo scientifico - origin [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-metodo-scientifico-roberto-a-foglietta) (2022-05-24)
+* 241 - A.I. - La tecnologia che fa paura - [[**`PDF`**](../pdf.todo(../pdf.todo/241-AI-La_tecnologia_che_fa_paura.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf) (2024-01-27)
 
-* L'A.I. è l'incubo della politica incapace - origin [LinkedIn](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta) (2023-04-01)
+* 235 - L'omogeneizzato non funziona - [[**`PDF`**](../pdf.todo(../pdf.todo/235-L_omogeneizzato_non_funziona.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lomogeneizzato-non-funziona-roberto-a-foglietta-cm2ef) (2023-11-27)
 
-* A.I. - La tecnologia che fa paura - origin [LinkedIn](https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf) (2024-01-27)
+* 230 - L'A.I. è l'incubo della politica incapace - [[**`PDF`**](../pdf.todo(../pdf.todo/230-L_AI_è_l_incubo_della_politica_incapace.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta) (2023-04-01)
 
-* La grande mistificazione dell'uguaglianza - origin [LinkedIn](https://www.linkedin.com/pulse/la-grande-mistificazione-delluguaglianza-roberto-a-foglietta) (2019-03-19)
+* 222 - L'importanza del metodo scientifico - [[**`PDF`**](../pdf.todo(../pdf.todo/222-L_importanza_del_metodo_scientifico.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-metodo-scientifico-roberto-a-foglietta) (2022-05-24)
 
-* L'omogeneizzato non funziona - origin [LinkedIn](https://www.linkedin.com/pulse/lomogeneizzato-non-funziona-roberto-a-foglietta-cm2ef) (2023-11-27)
+* 211 - La grande mistificazione dell'uguaglianza - [[**`PDF`**](../pdf.todo(../pdf.todo/211-La_grande_mistificazione_dell_uguaglianza.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/la-grande-mistificazione-delluguaglianza-roberto-a-foglietta) (2019-03-19)
 
-Intelligenza artificiale, tecnologia e implicazioni
+**Intelligenza artificiale, tecnologia e implicazioni**
 
-* Usare l'AI per questioni complesse - p.1 - origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-roberto-a-foglietta-sybyf) (2024-05-17)
+* 264 - Usare l'AI per questioni complesse - p.2 - [[**`PDF`**](../pdf.todo(../pdf.todo/264-Usare_l_AI_per_questioni_complesse_p2.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-p2-roberto-a-foglietta-gqxue) (2024-05-31)
 
-* Usare l'AI per questioni complesse - p.2 - origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-p2-roberto-a-foglietta-gqxue) (2024-05-31)
+* 260 - Usare l'AI per questioni complesse - p.1 - [[**`PDF`**](../pdf.todo(../pdf.todo/260-Usare_l_AI_per_questioni_complesse.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/usare-lai-per-questioni-complesse-roberto-a-foglietta-sybyf) (2024-05-17)
 
-* L'etica della vita nella guida autonoma - origin [LinkedIn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta) (2018-11-05)
+* 256 - L'umana natura del diritto d'autore - [[**`PDF`**](../pdf.todo(../pdf.todo/256-L_umana_natura_del_diritto_d_autore.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lumana-natura-del-diritto-dautore-roberto-a-foglietta-p62ee) (2024-05-10)
 
-* A job interview with ChatGPT v3.5 - origin [LinkedIn](https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta) (2022-12-07)
+* 237 - Good prompt rules, even better - [[**`PDF`**](../pdf.todo(../pdf.todo/237-Good_prompt_rules_even_better.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf) (2024-01-05)
 
-* Good prompt rules, even better - origin [LinkedIn](https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf) (2024-01-05)
+* 234 - LLM con fine-tuning in latino - [[**`PDF`**](../pdf.todo(../pdf.todo/243-LLM_con_fine-tuning_in_latino.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of) (2024-02-02)
 
-* Miss Poppins vs Mr. Spock - origin [LinkedIn](https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta) (2023-03-27)
+* 229 - Miss Poppins vs Mr. Spock - [[**`PDF`**](../pdf.todo(../pdf.todo/229-Miss_Poppins_vs_Mr_Spock.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta) (2023-03-27)
 
-* LLM con fine-tuning in latino - origin [LinkedIn](https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of) (2024-02-02)
+* 226 - A job interview with ChatGPT v3.5 - [[**`PDF`**](../pdf.todo(../pdf.todo/226-A_job_interview_with_ChatGPT_v35.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta) (2022-12-07)
 
-* L'umana natura del diritto d'autore - origin [LinkedIn](https://www.linkedin.com/pulse/lumana-natura-del-diritto-dautore-roberto-a-foglietta-p62ee) (2024-05-10)
+* 198 - L'etica della vita nella guida autonoma - [[**`PDF`**](../pdf.todo(../pdf.todo/198-L_etica_della_vita_nella_guida_autonoma.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta) (2018-11-05)
 
 <br/>
 
