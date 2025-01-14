@@ -68,35 +68,39 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 ## Articoli correlati
 
-* Plastica vegetale: scarti vs canapa - origin [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
+* 279 - Plastica vegetale: scarti vs canapa - [**`[PDF](../pdf.todo/279-Plastica_vegetale_scarti_vs_canapa.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
 
-* [The paper money is financial communism](278-the-paper-money-is-financial-communism.md) (2024-07-31)
+* 278 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 
-* Il futuro non è green ma mixed - origin [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
+* 270 - Il futuro non è green ma mixed - [**`[PDF](../pdf.todo/270-Il_futuro_non_è_green_ma_mixed-v1.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
 
-* [The BRICS financial system, hope or WW3?](265-the-brics-financial-system-hope-or-ww3.md) (2024-06-07)
+* 265 - [The BRICS financial system, hope or WW3?](265-the-brics-financial-system-hope-or-ww3.md#?target=_blank) (2024-06-07)
 
-* La bolla tecnologica delle EV - origin [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
+* 250 - La bolla tecnologica delle EV - [**`[PDF](../pdf.todo/250-La_bolla_tecnologica_delle_EV.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
 
-* Riciclo di rifiuti pregiati - origin [LinkedIn](https://www.linkedin.com/pulse/riciclo-di-rifiuti-pregiati-roberto-a-foglietta-b9pyf) (2024-01-23)
+* 239 - Riciclo di rifiuti pregiati - [**`[PDF](../pdf.todo/239-Riciclo_di_rifiuti_pregiati.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/riciclo-di-rifiuti-pregiati-roberto-a-foglietta-b9pyf) (2024-01-23)
 
-* Effetti non lineari sul clima e ricadute sulla geopolitica - origin [LinkedIn](https://www.linkedin.com/pulse/effetti-non-lineari-sul-clima-e-ricadute-sulla-roberto-a-foglietta) (2022-11-01)
+* 223 - Effetti non lineari sul clima e ricadute sulla geopolitica - [**`[PDF](../pdf.todo/223-Effetti_non_lineari_sul_clima_e_ricadute_sulla_geopolitica.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/effetti-non-lineari-sul-clima-e-ricadute-sulla-roberto-a-foglietta) (2022-11-01)
 
-* A melting planet - origin [LinkedIn](https://www.linkedin.com/pulse/melting-planet-roberto-a-foglietta) (2019-02-26)
+* 209 - A melting planet - [**`[PDF](../pdf.todo/209-A_melting_planet.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/melting-planet-roberto-a-foglietta) (2019-02-26)
 
-* I sette livelli del biscottificio - origin [LinkedIn](https://www.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta) (2019-01-30)
+* 205 - I sette livelli del biscottificio - [**`[PDF](../pdf.todo/205-I_sette_livelli_del_biscottificio.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta) (2019-01-30)
 
-* Un mondo nuovo sta cominciando - origin [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
+* 195 - Un mondo nuovo sta cominciando - [**`[PDF](../pdf.todo/195-Un_mondo_nuovo_sta_cominciando.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
 
-* Black Swan is not as rare as we might think - origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta) (2017-11-10)
+* 106 - Black Swan is not as rare as we might think - [**`[PDF](../pdf.todo/106-Black_Swan_is_not_as_rare_as_we_might_think.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta) (2017-11-10)
 
-* Il lato oscuro dell'informazione scientifica - origin [LinkedIn](https://www.linkedin.com/pulse/il-lato-oscuro-dellinformazione-scientifica-roberto-a-foglietta) (2017-11-07)
+* 104 - Il lato oscuro dell'informazione scientifica - [**`[PDF](../pdf.todo/104-Il_lato_oscuro_dell_informazione_scientifica.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-lato-oscuro-dellinformazione-scientifica-roberto-a-foglietta) (2017-11-07)
 
-* Il Quantitative Easing ha fallito - origin [LinkedIn](https://www.linkedin.com/pulse/quatitative-easing-failed-roberto-a-foglietta) (2017-10-28)
+* 098 - Il Quantitative Easing ha fallito - [**`[PDF](../pdf.todo/098-Il_Quatitative_Easing_ha_fallito.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/quatitative-easing-failed-roberto-a-foglietta) (2017-10-28)
 
-* Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
+* 084 - Del controllo e della guida - [**`[PDF](../pdf.todo/084-Del_controllo_e_della_guida.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
-* Opinions, data and method - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (2016-09-03)
+* 019 - Innovazione, il controllo del cambiamento - [**`[PDF](../pdf.todo/019-Innovazione_il_controllo_del_cambiamento.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/innovazione-il-controllo-del-cambiamento-roberto-a-foglietta) (2016-10-04)
+
+* 016 - Opinions, data and method - [**`[PDF](../pdf.todo/016-Opinions_data_and_method.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (2016-09-03)
+
+* 006 - L'illusione del controllo - [**`[PDF](../pdf.todo/006-L_illusione_del_controllo.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
 
 <br/>
 
