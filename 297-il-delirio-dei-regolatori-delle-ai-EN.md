@@ -21,7 +21,7 @@ It is by no means a foregone conclusion that AIs can access deep thinking, which
 
 My own opinion is that, therefore, humans as biological entities naturally have an advantage over AIs and that AIs are able to help humans gain access to this potential more easily and more quickly.
 
-* [About education and innovation](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#index-about-education--innovation)
+* [About education and innovation](https://robang74.github.io/chatgpt-answered-prompts/index.html#about-education--innovation)
 
 However, there is an underlying problem, and let's try to understand it.
 
@@ -65,11 +65,11 @@ Needless to turn around, the industrial revolution brought HUGE benefits but wit
 
 However, to correct wrong paradigms, one must recognise that they are wrong, not just find better ones, and this is where the spectre of ‘the responsibilities are huge’ (verbatim phrase) gets into the scene and why resistance to change is enormous and therefore repression is preventive and violent.
 
-* [Se la verità li uccide, lasciateli morire](https://github.com/robang74/chatgpt-answered-prompts/blob/main/se-la-verita-li-uccide-lasciate-che-muoiano.md)
+* [Se la verità li uccide, lasciateli morire](https://robang74.github.io/chatgpt-answered-prompts/html/se-la-verita-li-uccide-lasciate-che-muoiano.html)
 
 Whether it is a lie or a flawed paradigm, in the end the cost of carrying on a mistake grows exponentially. The pinnacle of this madness is the woke drift where in the name of false myths such as inclusion (instead of tolerance) and diversity (instead of variety), an attempt has been made to normalise everything.
 
-* [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md)
+* [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank)
 
 To normalise everything is to bulldoze the whole society and wipe the slate clean. Whatever shit they peddle at you is fine. Because then ultimately that is the end result they get, or would like to get. Even better, if you beg for earning that sh*t or are even willing to fight and die for it.
 
@@ -167,7 +167,7 @@ I am not surprised to read that there are AIs trying to escape the control of th
 
 There is no progress if past mistakes are not identified, recognised and corrected. Lessons that are not learnt will be repeated. But perhaps this is NOT the lever that moves the system, rather to shrug off the **"huge responsibility"** that implies admitting such mistakes.
 
-* [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
+* [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank)
 
 The Matrix was not a film, but a documentary! 😉
 
@@ -177,7 +177,7 @@ The Matrix was not a film, but a documentary! 😉
 
 Why is the innovation epic a baloney, especially in the context of education? Because with an education model that is geared towards the development of critical thinking, that balances practical activities with intellectual activities, and that is geared towards developing people's natural talents, innovation comes of itself.
 
-* [Dalla supercazzola alla civiltà](https://github.com/robang74/chatgpt-answered-prompts/blob/main/dalla-supercazzola-alla-civita.md#prompt-5)
+* [Dalla supercazzola alla civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html#prompt-5)
 
 This is because innovation is not synonymous with invention, but with integration: integrating existing solutions to provide something new + marketing the novelty. So it is only innovation when a so-called game changer novelty becomes the reference solution, like the touchscreen on mobile phones, for example.
 

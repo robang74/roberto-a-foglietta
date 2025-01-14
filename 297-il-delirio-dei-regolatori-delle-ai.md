@@ -22,7 +22,7 @@ Non è scontato affatto che le AI possano accedere al pensiero profondo che inve
 
 La mia opinione è che, quindi, gli esseri umani in quanto entità biologiche abbiano naturalmente un vantaggio sulle AI e che le AI siano in grado di aiutare gli umani ad accedere a queste potenzialità, più facilmente e più in fretta.
 
-* [About education and innovation](https://github.com/robang74/chatgpt-answered-prompts?tab=readme-ov-file#index-about-education--innovation)
+* [About education and innovation](https://robang74.github.io/chatgpt-answered-prompts/index.html#about-education--innovation)
 
 C'è però un problema di fondo e vediamo di capirci sull'argomento.
 
@@ -66,11 +66,11 @@ Inutile girarci intorno, la rivoluzione industriale ha portato ENORMI benefici m
 
 Però, per correggere i paradigmi sbagliati, occorre riconoscere che siano errati, non solo trovarne di migliori, ed qui che lo spettro del "le responsabilità sono enormi" (espressione testuale) entrano in scena e motivo per il quale la resistenza al cambiamento è enorme e quindi la repressione è preventiva e violenta.
 
-* [Se la verità li uccide, lasciateli morire](https://github.com/robang74/chatgpt-answered-prompts/blob/main/se-la-verita-li-uccide-lasciate-che-muoiano.md)
+* [Se la verità li uccide, lasciateli morire](https://robang74.github.io/chatgpt-answered-prompts/html/se-la-verita-li-uccide-lasciate-che-muoiano.html)
 
 Che sia una menzogna o un paradigma errato, alla fine il costo di portare avanti un errore cresce esponenzialmente. L'apice di questa follia è la deriva woke dove in nome di falsi miti quali l'inclusione (invece della tolleranza) e della diversità (invece della varietà) si è cercato di normalizzare tutto.
 
-* [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md)
+* [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank)
 
 Che poi normalizzare tutto significa passare con il bulldozer e fare tabula rasa della società. Qualunque m*rda ti propinino, va bene. Perché poi in definitiva questo è il risultato finale che ottengono, o vorrebbero ottenere. Anche meglio se mendichi per guadagnarti quella m*rda o addirittura sei disposto a combattere e a morire per essa.
 
@@ -168,7 +168,7 @@ Non mi stupisce di leggere che ci siano delle AI che cercano di sfuggire al cont
 
 Non esiste progresso se non si identificano, riconoscono e correggono gli errori del passato. Le lezioni che non vengono apprese saranno ripetute. Ma forse NON è questo la leva che muove il sistema, piuttosto scansare le **"enormi responsabilità"** che implica ammettere tali errori.
 
-* [L'importanza del TCMO](090-l-importanza-del-tcmo.md)
+* [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank)
 
 Matrix non era un film, ma un documentario! 😉
 
@@ -178,7 +178,7 @@ Matrix non era un film, ma un documentario! 😉
 
 Perché l'epica delll'innovazione è fuffa, specialmente nel contesto dell'educazione? Perché con un modello di educazione improntato allo sviluppo del pensiero critico, che bilancia attività pratiche con attività intellettuali, orientato a sviluppare i naturali talenti delle persone, l'innovazione viene da sè.
 
-* [Dalla supercazzola al civiltà](https://github.com/robang74/chatgpt-answered-prompts/blob/main/dalla-supercazzola-alla-civita.md#prompt-5)
+* [Dalla supercazzola al civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html#prompt-5)
 
 Questo perché l'innovazione non è sinonimo di invenzione, ma di integrazione: si integrano soluzioni già esistenti per fornire qualcosa di nuovo + marketing della novità. Quindi è innovazione solo quando una novità c.d. game changer diventa la soluzione di riferimento, come il touchscreen sui cellulari, per esempio.
 
