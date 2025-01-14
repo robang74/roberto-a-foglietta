@@ -37,6 +37,8 @@ body {
     margin: auto;
 }
 
+div.pagehead h1 { text-align: left; }
+
 hr.post-it {
     border: transparent;
     border-top: 1px dashed gray;

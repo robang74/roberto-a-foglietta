@@ -8,22 +8,32 @@
  * * desc: project specific & colorfull like 'regular' but w/ light background 
  *
  ******************************************************************************/
- 
+
 img.paleinv { filter: invert(100%); }
+
+div.pagehead {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../img/warp-speed-jump-inv.png");
+}
+
+div.pagehead img {
+    visibility: hidden;
+}
 
 
 body { color: #081018; background-color: #fcfcff; }
 
-blockquote { color: #000030; background-color: #eef5ff; }
+blockquote { color: #006; background-color: #eef5ff; }
 
-div.topbar { color: dimgray; background-color: #c4e4ff; border-bottom: 1px solid #0080c0; }
+div.topbar { color: dimgray; background-color: #c4e4ff; border-bottom: 1px solid #08c; }
 
-table, table td, table th, table tr, tr.line, tr.line td { border-color: #000030; }
+table, table td, table th, table tr, tr.line, tr.line td { border-color: #006; }
 
 
 hr { border-top: 2px solid dimgray; }
 
-div.post-it { border: 2px dashed #000030; }
+div.post-it { border: 2px dashed #003; }
 
 b.post-it { color: #000030; }
 
@@ -36,7 +46,9 @@ a:link { text-decoration: none; border-bottom: 3px double; }
 
 a:hover { background-color: #eef5ff; border: none; text-decoration: underline; }
 
-.sup-note, a:visited, a:active, a.topbar { color: #000030; }
+.sup-note, a:visited, a:active, a.topbar { color: #006; }
+
+div.pagehead h1, div.pagehead hr { color: #006; border-color: #006; }
 
 a.topbar { border: none; }
  
