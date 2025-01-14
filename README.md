@@ -1,12 +1,10 @@
 <div id="firstdiv" created=":-2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.png" width="800"><br/></div>
+<div class="pagehead" align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.png" width="800"><br/>
 
-# Roberto A. Foglietta
+<h1>Roberto A. Foglietta</h1><hr>
 
----
-
-<br/>
+</div>
 
 ## Rationale
 

@@ -21,6 +21,8 @@ div.topbar { color: aqua; background-color: darkblue; border-bottom-color: #01c;
 table, table td, table th, table tr, tr.line, tr.line td { border-color: gray; } /* #788088 */
 
 
+div.pagehead h1, div.pagehead hr { color: lightcyan; border-color: lightcyan; text-align: left; }
+
 div.post-it { border-color: aqua; }
 
 a, a:link, b.post-it { color: aqua; }
