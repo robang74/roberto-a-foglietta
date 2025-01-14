@@ -215,19 +215,19 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 ## Articoli correlati
 
-* [Finanza concetti di base](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/177-Finanza_concetti_base.pdf) (2018-03-23, PDF)
+* 272 - Tassare le pensioni? [[**`PDF`**](../pdf.todo/272-Tassare_le_pensioni_Quali_pensioni.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/tassare-le-pensioni-quali-roberto-a-foglietta-bpxef) (2024-07-09)
 
-* [La demografia nel carello della spesa](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) (2019-05-01 ,PDF)
- 
-* [Il debito aggregato è solo make-up](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/257-Il_debito_aggregato_%C3%A8_solo_make-up.pdf) (2024-05-10, PDF)
+* 269 - La favola dell'export italiano [[**`PDF`**](../pdf.todo/269-La_favola_dell_export_italiano-v1.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/la-favola-dellexport-italiano-roberto-a-foglietta-i6zif) (2024-07-02)
 
-* [L'abominevole truffa dei bonus edilizi](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/263-L_abominevole_truffa_dei_bonus_edilizi.pdf) (2024-05-22, PDF)
+* 263 - L'abominevole truffa dei bonus edilizi [[**`PDF`**](../pdf.todo/263-L_abominevole_truffa_dei_bonus_edilizi.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/posts/robertofoglietta_labominevole-truffa-dei-bonus-edilizi-activity-7202240287837007873-kmWD) (2024-05-22)
 
-* [La favola dell'export italiano](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/269-La_favola_dell_export_italiano-v1.pdf) (2024-07-02, PDF)
+* 257 - Il debito aggregato è solo make-up [[**`PDF`**](../pdf.todo/257-Il_debito_aggregato_%C3%A8_solo_make-up.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-debito-aggregato-%25C3%25A8-solo-make-up-roberto-a-foglietta-wzzlf) (2024-05-10)
 
-* [Tassare le pensioni? Quali pensioni?](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/272-Tassare_le_pensioni_Quali_pensioni.pdf) (2024-07-09, PDF)
+* 225 - L'importanza dell'economia domestica [[**`PDF`**](../pdf.todo/225-L_importanza_dell_economia_domestica.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/limportanza-delleconomia-domestica-roberto-a-foglietta-) (2024-11-14)
 
-* [L'importanza dell'economia domestica](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/225-L_importanza_dell_economia_domestica.pdf) (2024-11-14, PDF)
+* 213 - La demografia nel carello della spesa [[**`PDF`**](../pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta) (2019-05-01)
+
+* 177 - Finanza concetti di base [[**`PDF`**](../pdf.todo/177-Finanza_concetti_base.pdf?target=_blank)] origin [beBee](https://www.bebee.com/producer/@roberto-a-foglietta/finanza-concetti-base) (2018-03-23)
 
 <br/>
 
