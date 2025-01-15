@@ -75,7 +75,7 @@ function print_topbar() {
     fi
 
     TOPBAR_STRING="<p/>
-<div class='topbar translate='no'>"\
+<div class='topbar' translate='no'>"\
 "${LINE_MENU}${LINE_DASH} published:&nbsp; <b class='topbar'>"\
 "${PUBLISH_UNIVDATE}</b> ${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
