@@ -153,13 +153,13 @@ Perchè gli americani dimenticano sempre questo punto? Perché nella loro cultur
 
 ## Articoli correlati
 
-- **22.02.2022** - origin [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) (22 Feb 2022)
+- 221 - **22.02.2022** - download [[PDF](../pdf.todo/221-22022022.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) (2022-02-22)
 
-- **The Russia's advantage** - origin [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) (5 Nov 2017)
+- 103 - **The Russia's advantage** - download [[PDF](../pdf.todo/103-The_Russia_s_advantage.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) (2017-11-5)
 
-- **L'opinione dello Zar** - origin [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) (2 Jan 2017)
+- 037 - **L'opinione dello Zar** - download [[PDF](../pdf.todo/037-L_opinione_dello_Zar.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) (2017-01-02)
 
-- **Opinions, data and method** - origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (3 Sep 2016)
+- 016 - **Opinions, data and method** - download [[PDF](../pdf.todo/016-Opinions_data_and_method.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/opinions-data-method-roberto-a-foglietta) (2016-09-03)
 
 <br/>
 
