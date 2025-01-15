@@ -117,6 +117,13 @@ Fonte della notizia: [Il Mitte, Berlino](https://www.ilmitte.com/2024/03/gestion
 <br/>
 <br/>
 
+## Related articles
+
+* Q&A - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) (2024-12-29)
+
+<br/>
+<br/>
+
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
