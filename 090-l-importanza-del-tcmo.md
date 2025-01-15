@@ -202,7 +202,7 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 * 076 - **Mediocracy** - download [[**`PDF`**](../pdf.todo/076-Mediocracy.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta) (2017-04-26)
 
-* 069 - ***Il vantaggio di essere furbi** - download [[**`PDF`**](../pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
+* 069 - **Il vantaggio di essere furbi** - download [[**`PDF`**](../pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
 
 * 066 - **Organisations and decision making** - download [[**`PDF`**](../pdf.todo/066-Organisations_and_decision_making.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta) (2017-04-03)
 
