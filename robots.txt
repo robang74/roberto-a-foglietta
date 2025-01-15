@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /html/
+Allow: /index.html
+Sitemap: /sitemap.xml
