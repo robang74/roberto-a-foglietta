@@ -38,13 +38,13 @@ Sappiamo da molto tempo che con il cancro molte cose non funzionano come nelle c
 
 * Warburg individuò la velocità di metabolizzare il glucosio come differenza fondamentale tra le cellule sane e quelle cancerose. Questo fenomeno, noto come «effetto Warburg», è stato considerato da un certo punto in avanti come una mera curiosità nota ai patologi. [Questa scoperta è stata per molti anni recepita con sufficienza]. In realtà, negli ultimi anni se ne è riscoperta la fondamentale importanza.
 
-Fonte: [scienzainrete.it/files/effetto_warburg_contro_il_cancro.pdf](https://www.scienzainrete.it/files/effetto_warburg_contro_il_cancro.pdf)
+Fonte: [scienzainrete.it/files/effetto_warburg_contro_il_cancro.pdf](https://www.scienzainrete.it/files/effetto_warburg_contro_il_cancro.pdf) e salvato in [data](data/effetto-warburg-contro-il-cancro.pdf?target=_blank) folder.
 
 #### L'errore concettuale sulla competizione fra cancro e sistema immunitario.
 
 * Oggi è appurato che l’effetto Warburg [...] aiuta le cellule tumorali a crescere, [...]. Un’ipotesi è che la glicolisi, benché meno redditizia da un punto di vista energetico, sia un processo molto più rapido rispetto alla completa ossidazione del glucosio: le cellule tumorali potrebbero prediligere la velocità alla resa, una strategia che le renderebbe più competitive in caso di risorse limitate o condivise.
 
-Fonte: [biopills.net/effetto-warburg](https://www.biopills.net/effetto-warburg)
+Fonte: [biopills.net/effetto-warburg](https://www.biopills.net/effetto-warburg) e salvato in [data](data/effetto-warburg-il-paradosso-metabolico-del-tumore-biopills.pdf?target=_blank) folder.
 
 Del testo sopra riportato, questa locuzione "*più competitive in caso di risorse limitate o condivise*" è un **ERRORE** perché in effetti è l'opposto. Infatti, prediligere la velocità alla resa, è un'ottima strategia di crescita **SOLO** quando le risorse sono abbondanti.
 
@@ -62,7 +62,7 @@ Se invece ci riescono, crescono indefinitivamente fino a diventare metastasi ovv
 
 * Ma non appena il lievito si trova in soluzioni lievemente zuccherine (8 g/L secondo il dottor Herbert G. Crabtree) i mitocondri vengono inibiti. Che significa ciò? I mitocondri non scompaiono dal lievito, semplicemente non riescono a sintetizzare le proteine, ovvero gli enzimi che producono l’ATP nella catena di ossidazione del NADH,H+ e del FADH2, ovvero la fosforilazione ossidativa.
 
-Fonte: [ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine](https://www.ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine)
+Fonte: [ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine](https://www.ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine) e salvato in [data](data/lieviti-e-mitocondri-in-soluzioni-zuccherine-ramon-persello.pdf?target=_blank) folder.
 
 ---
 
@@ -78,7 +78,7 @@ Quindi comportandosi in maniera simile a quello che farebbero i mitocondri del l
 
 * Per concludere [...] a causa dell’effetto Crabtree i mitocondri perdono la facoltà di sintetizzare amminoacidi, rendendo il processo completamente dipendente dall'azoto.
 
-Fonte: [ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine](https://www.ramonpersello.com/news/lieviti-e-mitocondri-in-soluzioni-zuccherine)
+Fonte: **ramonpersello.com** (link sopra)
 
 Quindi maggiore è la disponibilità di glucosio, maggiore sarà l'attitudine a sfruttare la fermentazione lattica invece della fosforilazione ossidativa e quindi ad accelerare la riproduzione delle cellule che sfruttano questo canale ATP, quindi le cellule del cancro, specificatamente.
 
@@ -94,7 +94,7 @@ Senza sorpresa l'aumento progressivo sia la quantità di zucchero che di uso di 
 
 In particolare per quanto riguarda il consumo di zucchero, come additivo alimentare sia casalingo sia industriale, e l'effetto che ha sulla nostra dieta sia da un  punto di vista nutrizionale, sia in termini di apporto calorico, è possibile  valutarlo con questa semplice analisi, dallo stesso autore di questo articolo:
 
-* [The sugar's role in our foods and lives](https://github.com/robang74/chatgpt-answered-prompts/blob/main/the-sugar-role-in-our-foods-and-lives.md) (2024-09-22) su github/robang74
+* [The sugar's role in our foods and lives](https://robang74.github.io/chatgpt-answered-prompts/html/the-sugar-role-in-our-foods-and-lives.html) (2024-09-22)
 
 Dalla quale si evidenzia che in bambino che segue uno stile di vita sedentario tipico della vita metropolitana, che bevesse due lattine da 33cl di una soft-drink zuccherata al giorno, finirebbe per acquisire il 18% di calorie in più del necessario oppure, ma meno probabilmente, il 18% di nutrienti in meno. Sul breve periodo non è un grosso problema, come stile di vita - anche considerando che le soft-drink hanno il 10% di zucchero ma il ketchup per esempio ne ha il 22%, senza contare biscotti, brioche, caramella, chewing-gun, etc. - gli effetti sono inevitabili anche sul metabolismo basale se l'eccesso di zucchero si presenta in giovane età e perdura durante l'età della crescita.
 
@@ -137,6 +137,12 @@ Ovviamente, il timore degli zuccherifici è quello di vedere crollare il loro me
 La ragione è alquanto banale e si riassume in semplice domanda: perché dovrei mettere delle fibre nel mio caffè invece del solo dolcificante magari aumentato di un elemento neutro dal punto del sapore e dell'alimentazione giusto per dargli un volume accettabile da essere maneggiato?
 
 Più ancora che il legislatore - *con le c.d. sugar tax da incrementare progressivamente* - quello che può fare la differenza è il mercato. La scelta del consumatore costringe necessariamente gli zuccherifici a fare innovazione oppure a chiudere al contrarsi del mercato. Messi di fronte a questa concreta evenienza, saranno costretti ad innovare, altrimenti no.
+
+<br/>
+
+## Related articles
+
+* [The sugar's role in our foods and lives](https://robang74.github.io/chatgpt-answered-prompts/html/the-sugar-role-in-our-foods-and-lives.html) (2024-09-22)
 
 <br/>
 
