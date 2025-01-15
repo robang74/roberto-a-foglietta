@@ -1,4 +1,8 @@
 User-agent: *
+Allow: /img/
 Allow: /html/
+Allow: /data/
+Allow: /pdf.todo/
+Allow: /pdf.done/
 Allow: /index.html
 Sitemap: /sitemap.xml

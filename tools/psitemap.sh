@@ -28,7 +28,7 @@ echo "<?xml version="1.0" encoding="UTF-8"?>
 " > sitemap.xml
 
 declare -i n=1
-for htmpage in html/*.html; do
+for htmpage in html/*.html pdf.*/index.html ; do
     page_change_date=$(get_git_last_change_date $htmpage)
     test -n "$page_change_date" || continue
     echo "$page_change_date - $htmpage" >&2
@@ -39,16 +39,23 @@ for htmpage in html/*.html; do
         <lastmod>${page_change_date}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-    </url>
-"
+    </url>"
 done >> sitemap.xml
-echo "pages: $n" >&2
-
 echo "</urlset>" >> sitemap.xml
 
 echo "User-agent: *
+Allow: /img/
 Allow: /html/
+Allow: /data/
+Allow: /pdf.todo/
+Allow: /pdf.done/
 Allow: /index.html
 Sitemap: /sitemap.xml" > robots.txt
 
-{ echo; ls -1 sitemap.xml robots.txt; echo; } >&2
+if true; then
+    echo "pages: $n"
+    echo
+    ls -1 sitemap.xml robots.txt;
+    echo
+fi >&2
+
