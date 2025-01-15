@@ -19,3 +19,4 @@ gptchat() {
     QT_QPA_PLATFORM="xcb" XDG_SESSION_TYPE="xcb" xxdiff . ~/b/${PWD##*/} ;
     bash ~/gpt4all/bin/chat.sh 2>&1 | grep -q jsafaljfòkjflòDFSÒLKJDSFSD &
 }
+ge() { gedit "$@" & }
