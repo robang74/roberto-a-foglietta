@@ -198,19 +198,19 @@ Lately, in the post U.S. civil war era, the symbolism clearly evolves towards a 
 
 ## Related articles
 
-- [Valutazione di un nuovo modello monetario](https://github.com/robang74/chatgpt-answered-prompts/blob/main/valutazione-di-un-nuovo-modello-monetario.md) (2024-11-26)
+- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
 
-- La libertà d'informazione è fondamentale - origin [LinkedIn](https://it.linkedin.com/pulse/la-libert%C3%A0-dinformazione-%C3%A8-fondamentale-roberto-a-foglietta-qaj4f) (2024-06-26)
+- **La libertà d'informazione è fondamentale** - download [[**`PDF`**](../pdf.todo/267-La_libertà_d_informazione_è_fondamentale.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/la-libert%C3%A0-dinformazione-%C3%A8-fondamentale-roberto-a-foglietta-qaj4f) (2024-06-26)
 
-- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md) (2024-05-18)
+- [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) (2024-05-18)
 
-- Steve Jobs era un socialista - origin [LinkedIn](https://www.linkedin.com/pulse/steve-jobs-era-un-socialista-roberto-a-foglietta-hhrif) (2024-04-27)
+- **Steve Jobs era un socialista** - download [[**`PDF`**](../pdf.todo/254-Steve_Jobs_era_un_socialista.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/steve-jobs-era-un-socialista-roberto-a-foglietta-hhrif) (2024-04-27)
 
-- Proprietà Privata vs Social Score - origin [LinkedIn](https://it.linkedin.com/pulse/propriet%C3%A0-privata-vs-social-score-roberto-a-foglietta-uknuf) (2024-04-14)
+- **Proprietà Privata vs Social Score** - download [[**`PDF`**](../pdf.todo/252-Proprietà_Privata_vs_Social_Score.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/propriet%C3%A0-privata-vs-social-score-roberto-a-foglietta-uknuf) (2024-04-14)
 
-- The ubuntu society: pros vs cons - origin [LinkedIn](https://www.linkedin.com/pulse/ubuntu-society-pros-vs-cons-roberto-a-foglietta) (2023-10-06)
+- **The Ubuntu society: pros vs cons** - download [[**`PDF`**](../pdf.todo/234-ubuntu_society_pros_vs_cons.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/ubuntu-society-pros-vs-cons-roberto-a-foglietta) (2023-10-06)
 
-- The great confusion about socialism - origin [LinkedIn](https://www.linkedin.com/pulse/great-confusion-socialism-roberto-a-foglietta-1e) (2023-05-11)
+- **The great confusion about socialism** - download [[**`PDF`**](../pdf.todo/232-The_great_confusion_about_socialism.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/great-confusion-socialism-roberto-a-foglietta-1e) (2023-05-11)
 
 <br/>
 
