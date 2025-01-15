@@ -240,23 +240,23 @@ Even people who were not aware about what the Sun does or where it goes when the
 
 All the following articles show a quick way to read them in the most common European languages such as English, Italian, German, French and Spanish but every other language supported by Google Translation is also available.
 
-* [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) (2025-01-07)
+* 298 - [Dietro a quel nome c'è un modo](298-dietro-a-quel-nome-c-e-un-mondo.md#?target=_blank) (2025-01-07)
 
-* [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) (2024-11-27)
+* 294 - [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) (2024-11-27)
 
-* [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
+* Q&A - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
 
-* [Paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
+* 278 - [Paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 
 ### Also cited here
 
-* [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) (2024-12-13)
+* C4F - [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) (2025-01-04)
 
-* [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank) (2024-09-22)
+* 293 - [Il grande inganno della diverità](https://robang74.github.io/roberto-a-foglietta/html/293-il-grande-inganno-della-diversita.html) (2024-12-16)
 
-* [Il grande inganno della diverità](https://robang74.github.io/roberto-a-foglietta/html/293-il-grande-inganno-della-diversita.html) (2024-12-16)
+* C4F - [Il problema sei tu, non l’AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) (2024-12-13)
 
-* [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) (2025-01-04)
+* 285 - [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank) (2024-09-22)
 
 <br/>
 
