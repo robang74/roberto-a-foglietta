@@ -219,7 +219,7 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 * 269 - **La favola dell'export italiano** - download [[**`PDF`**](../pdf.todo/269-La_favola_dell_export_italiano-v1.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/la-favola-dellexport-italiano-roberto-a-foglietta-i6zif) (2024-07-02)
 
-* 263 - **L'abominevole truffa dei bonus edilizi** - download [[**`PDF`**](../pdf.todo/263-L_abominevole_truffa_dei_bonus_edilizi.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/posts/robertofoglietta_labominevole-truffa-dei-bonus-edilizi-activity-7202240287837007873-kmWD) (2024-05-22)
+* 263 - [L'abominevole truffa dei bonus edilizi](263-l-abominevole-truffa-dei-bonus-edilizi.md#?target=_blank) - origin [LinkedIn](https://it.linkedin.com/posts/robertofoglietta_labominevole-truffa-dei-bonus-edilizi-activity-7202240287837007873-kmWD) (2024-05-22)
 
 * 257 - **Il debito aggregato è solo make-up** - download [[**`PDF`**](../pdf.todo/257-Il_debito_aggregato_%C3%A8_solo_make-up.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-debito-aggregato-%25C3%25A8-solo-make-up-roberto-a-foglietta-wzzlf) (2024-05-10)
 
