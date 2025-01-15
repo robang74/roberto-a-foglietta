@@ -20,9 +20,9 @@
 
 ### Format conversion
 
-[**`EN`**] The PDFs collection is splitted into two folders [pdf.todo](pdf.todo) and [pdf.done](pdf.done) depending on whether they have already been converted to markdown format or not. Because the purpose of this project is also to revise and give a coherent and cohesive connotation to the collection of writings, not only to collect them in a single repository.
+[**`EN`**] The PDFs collection is splitted into two folders [pdf.todo](pdf.todo/index.html?target=_blank) and [pdf.done](pdf.done/index.html?target=_blank) depending on whether they have already been converted to markdown format or not. Because the purpose of this project is also to revise and give a coherent and cohesive connotation to the collection of writings, not only to collect them in a single repository.
 
-[**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo) e [pdf.done](pdf.done) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
+[**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo/index.html?target=_blank) e [pdf.done](pdf.done/index.html?target=_blank) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
 
 ### The Internet memory
 
@@ -104,7 +104,7 @@
 
 [**`IT`**] Articoli in PDF ancora da convertire, e scritti a partire dal dicembre 2015.
 
-* 001 up to 291, those not listed above - [pdf.todo](pdf.todo) folder
+* 001 up to 291, those not listed above - [pdf.todo](pdf.todo/index.html?target=_blank) folder
 
 <br/>
 
