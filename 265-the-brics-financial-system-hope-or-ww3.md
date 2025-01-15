@@ -36,7 +36,7 @@ We all, know where this approach will bring us, to the WW3.
 
 Instead, a true open as open access, free as freedom, independent like distributed ledgers, monetary and financial system would be a complete different thing. A true alternative, something that it can be leveraged by anyone in the world.
 
-* The best war is the one that is not fought. --Sun Tzu.
+* The best war is the one that is not fought. -- **Sun Tzu**.
 
 The alternative is not about winning or losing, but between war and peace.
 
@@ -54,7 +54,7 @@ Hence there is a moment in which all the transactions should be compensated (net
 
 The best way to do it is using Bitcoin to hold until enough commodities can be traded for granting the value of the currency. The electronic counterpart of the baskets and also a transnational buffer:
 
-* 1 day (ETH) -> 1 month (BTC) -> 1 quarter (CF).
+* 1 day (ETH) &rarr; 1 month (BTC) &rarr; 1 quarter (CF).
 
 This will also reduce the volatility of the cryptocurrency involved like the petrol-dollar agreement that was in place for the last 50 years, granted to USD.
 
@@ -66,11 +66,13 @@ This will also reduce the volatility of the cryptocurrency involved like the pet
 
 *After declaring in 2018 that Ether is not a security, in 2023 the SEC secretly decided to claim power over this digital asset as a security and has been conducting an invalid investigation into Ethereum.*
 
-*[Consensys](https://consensys.io/blog/sec-closes-ethereum-2-0-investigation-will-not-pursue-ethereum-enforcement) sued the SEC on April 25, 2024 to defend the Ethereum ecosystem, seeking a court order that would halt the SEC’s investigation, on the grounds that ETH is a commodity and therefore the SEC lacks jurisdiction to investigate or regulate it. Following our lawsuit, numerous policymakers–including members ofCongress–and the public at large voiced concern over the SEC’s Ethereum 2.0 investigation.*
+*Consensys sued the SEC on April 25, 2024 to defend the Ethereum ecosystem, seeking a court order that would halt the SEC’s investigation, on the grounds that ETH is a commodity and therefore the SEC lacks jurisdiction to investigate or regulate it. Following our lawsuit, numerous policymakers–including members ofCongress–and the public at large voiced concern over the SEC’s Ethereum 2.0 investigation.*
 
 *On June 7, we sent a letter asking the SEC to confirm that the ETH ETF approvals in May, which were predicated on ether being a commodity, meant the agency would close its Ethereum 2.0 investigation.*
 
 *Today, the Enforcement Division of the SEC responded by notifying us that it is closing its investigation into Ethereum 2.0 and will not pursue an enforcement action against Consensys.*
+
+Source: [Consensys](https://consensys.io/blog/sec-closes-ethereum-2-0-investigation-will-not-pursue-ethereum-enforcement) and saved in [data](../data/sec-will-not-pursue-ethereum-enforcement-action-consensys.pdf?target=_blank) folder.
 
 ---
 
@@ -110,7 +112,7 @@ Volatility depends by what underlies: commodity or ideas? A legal tender, a fiat
 
 This algorithm is very interesting because it explains in details why and how the current BTC network can be jeopardized by future quantum computing.
 
-* [Quantum computers and the Bitcoin blockchain](https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/quantum-computers-and-the-bitcoin-blockchain.html) by Deloitte
+* [Quantum computers and the Bitcoin blockchain](https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/quantum-computers-and-the-bitcoin-blockchain.html) by Deloitte, saved in [data](../data/quantum-computers-and-the-bitcoin-blockchain-deloitte.pdf?target=_blank) folder.
 
 Which is mainly related to
 
@@ -120,7 +122,7 @@ Which is mainly related to
 
 Fortunately, this is not the whole story but just the half. In order to get the full story we need to know that cryptographic switch to achieve the quantum safety is possible.
 
-* [Quantum Secure Cryptocurrencies of the Future](https://www.btq.com/blog/quantum-secure-cryptocurrencies-of-the-future) by BTQ
+* [Quantum Secure Cryptocurrencies of the Future](https://www.btq.com/blog/quantum-secure-cryptocurrencies-of-the-future) by BTQ, saved in [data](../data/quantum-secure-cryptocurrencies-of-the-future.pdf?target=_blank) folder.
 
 In the same way SSH can switch to a cryptographic algorithm to another also the BTC can do. As soon as, the thread is going to became real and its solution.
 
