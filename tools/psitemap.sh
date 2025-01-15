@@ -16,8 +16,8 @@ page_change_date=$(get_git_last_change_date $htmpage)
 echo >&2
 echo "$page_change_date - $htmpage" >&2
 
-echo "<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+echo "<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 
     <url>
         <loc>${weburl}/index.html</loc>
