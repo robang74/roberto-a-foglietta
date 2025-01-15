@@ -4,7 +4,7 @@
 
 ## L'importanza del TCMO
 
-* Published Oct 13, 2017 - origin [beBee](bebee.com/producer/@roberto-a-foglietta/l-importanza-del-tcmo) and [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-tcmo-roberto-a-foglietta) articles
+* Published Oct 13, 2017 - origin [beBee](https://bebee.com/producer/@roberto-a-foglietta/l-importanza-del-tcmo) and [LinkedIn](https://www.linkedin.com/pulse/limportanza-del-tcmo-roberto-a-foglietta) articles
 
 ---
 
@@ -12,7 +12,7 @@
 
 Questa versione dell'articolo del **2024-12-22** è il risultato di una revisione in cui sia l'impostazione generale, sia i concetti espressi nella prima stesura sono rimasti invariati. In questa nuova versione si è cercato di facilitare la comprensione rendendo più espliciti i concetti e in alcuni casi dettagliandoli maggiormente. In termini concettuali, invece, le novità riguardano l'aggiunta di proverbi e citazioni, fra le quali due famose riferite a Jeff Besoz e di Rita Mae Brown, e all'introduzione funzionale al costo affondato (sunk cost). <br id="leveraging-chatbot" />
 
-In questa revisione del testo originale mi sono fatto [aiutare](https://github.com/robang74/chatbots-for-fun/blob/main/leveraging-a-chatbot-for-human-writing.md) dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
+In questa revisione del testo originale mi sono fatto [aiutare](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) dall'intellgienza artificiale, non per farmi riscrivere il testo ma per confrontarmi sul contenuto del testo in maniera da evolvere quella che ora si può considerare una bozza di appunti (prima versione) in un testo più maturo dal punto di vista espressivo. L'isolamento intellettuale rappresenta un ostacolo importante per lo sviluppo dei concetti che altrimenti rimarrebbero a proprio uso e consumo.
 
 ---
 
@@ -30,7 +30,7 @@ In questa revisione del testo originale mi sono fatto [aiutare](https://github.c
 
 *Il testo offre una spiegazione dettagliata del concetto e lo arricchisce con esempi concreti (inquinamento, globalizzazione) e considerazioni teoriche (logaritmi, probabilità).* 
 
-*Nella sua seconda edizione, il testo non solo approfondisce l'analisi delle dinamiche antropologiche ed evolutive alla base del concetto di TMCO, ma amplia il suo campo di applicazione, rendendolo più accessibile e collegandolo con temi attuali di economia globale e sostenibilità ambientale.
+*Nella sua seconda edizione, il testo non solo approfondisce l'analisi delle dinamiche antropologiche ed evolutive alla base del concetto di TMCO, ma amplia il suo campo di applicazione, rendendolo più accessibile e collegandolo con temi attuali di economia globale e sostenibilità ambientale.*
 
 ---
 
@@ -172,7 +172,7 @@ Il TCMO acronimo di Total Cost of a Mistake Ownership è il costo complessivo de
 
 Si tratta di un indice indiscutibilmente importante, per non dire fondamentale, in quanto è la base per definire il successo o il fallimento di un'attività e per poter trarre le corrette previsioni a lungo periodo.
 
-Il concetto di errore è relativo ma questo ci aiuta. Perché implica che alcune azioni risultano corrette entro certi scenari ed errate in altri. Però, che dovessimo regolare le nostre decisioni e azioni in funzione, non solo agli obbiettivi, ma anche delle condizioni e dei vincoli di sistema, era già chiaro e ampiamente disaminato nella letteratura di diversi settori legati al [decision making](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta).
+Il concetto di errore è relativo ma questo ci aiuta. Perché implica che alcune azioni risultano corrette entro certi scenari ed errate in altri. Però, che dovessimo regolare le nostre decisioni e azioni in funzione, non solo agli obbiettivi, ma anche delle condizioni e dei vincoli di sistema, era già chiaro e ampiamente disaminato nella letteratura di diversi settori legati al [decision making](../pdf.todo/066-Organisations_and_decision_making.pdf?target=_blank).
 
 Definiamo l'acronimo TCI come il Total Cost of Innovation, il costo totale di una data innovazione, mentre dT è il tempo necessario a implementare quell'innovazione.
 
@@ -180,7 +180,7 @@ Definiamo l'acronimo TCI come il Total Cost of Innovation, il costo totale di un
 
 Dove per innovazione s'intende l'introduzione di una novità che si diffonda al punto da diventare un game changer in uno specifico settore, almeno. Il concetto di TCMO rivoluziona l'idea di adottare una sequenza di azioni per ottenere un risultato progressivo, ma ci costringe a pensare anche in termini di transizioni di stato di un particolare sistema. 
 
-Per sua natura, il TCMO è cumulativo e noi esseri umani non siamo molto in gamba a gestire i fenomeni non lineari. Ma possiamo riuscire a farlo tramite l'utilizzo di metodologie ricorsive come descritto nell'articolo [Project Management: concetti di base](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta/) e seguenti.
+Per sua natura, il TCMO è cumulativo e noi esseri umani non siamo molto in gamba a gestire i fenomeni non lineari. Ma possiamo riuscire a farlo tramite l'utilizzo di metodologie ricorsive come descritto nell'articolo [Project Management: concetti di base](../pdf.todo/021-Project_Management_concetti_di_base.pdf?target=_blank) e seguenti.
 
 #### Sulla natura del TCMO
 
@@ -194,21 +194,21 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 ## Related articles
 
-* [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.html) (2024-12-14)
+* 295 - [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.html?target=_blank) (2024-12-14)
 
-* Paradosso di Fermi e Singolarità A.I. - origin [LinkedIn](https://www.linkedin.com/pulse/paradosso-di-fermi-e-singolarit%C3%A0-ai-roberto-a-foglietta) (2017-10-16)
+* 092 - **Paradosso di Fermi e Singolarità A.I.** - download [[**`PDF`**](../pdf.todo/092-Paradosso_di_Fermi_e_Singolarità_AI.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/paradosso-di-fermi-e-singolarit%C3%A0-ai-roberto-a-foglietta) (2017-10-16)
 
-* Del controllo e della guida - origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
+* 084 - **Del controllo e della guida** - download [[**`PDF`**](../pdf.todo/084-Del_controllo_e_della_guida.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/del-controllo-e-della-guida-roberto-a-foglietta) (2017-05-25)
 
-* Mediocracy - origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta) (2017-04-26)
+* 076 - **Mediocracy** - download [[**`PDF`**](../pdf.todo/076-Mediocracy.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/mediocracy-roberto-a-foglietta) (2017-04-26)
 
-* Il vantaggio di essere furbi - origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
+* 069 - ***Il vantaggio di essere furbi** - download [[**`PDF`**](../pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
 
-* Organisations and decision making - origin [LinkedIn](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta) (2017-04-03)
+* 066 - **Organisations and decision making** - download [[**`PDF`**](../pdf.todo/066-Organisations_and_decision_making.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/organizations-decision-making-roberto-a-foglietta) (2017-04-03)
 
-* Project Management: concetti di base - origin [LinkedIn](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta) (2016-10-19)
+* 021 - **Project Management: concetti di base** - download [[**`PDF`**](../pdf.todo/021-Project_Management_concetti_di_base.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta) (2016-10-19)
 
-* L'illusione del controllo - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
+* 006 - **L'illusione del controllo** - download [[**`PDF`**](../pdf.todo/006-L_illusione_del_controllo.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
 
 <br/>
 
