@@ -12,7 +12,7 @@ This article is based on a post written in Italian and [published](https://www.l
 
 ### Premise
 
-> 11th October 2024 - Google is preparing to let you run Linux apps on Android, just like Chrome OS. Google is developing the framework to let you run Debian in a virtual machine on your Android device. - [lnkd.in/dPG79nyf](lnkd.in/dPG79nyf)
+> 11th October 2024 - Google is preparing to let you run Linux apps on Android, just like Chrome OS. Google is developing the framework to let you run Debian in a virtual machine on your Android device. - [lnkd.in/dPG79nyf](https://lnkd.in/dPG79nyf)
 > 
 > Engineers at Google started work on a new Terminal app for Android a couple of weeks ago. This Terminal app is part of the Android Virtualization Framework (AVF) and contains a WebView that connects to a Linux virtual machine via a local IP address, allowing you to run Linux commands from the Android host. Initially, you had to manually enable this Terminal app using a shell command and then configure the Linux VM yourself. However, in recent days, Google began work on integrating the Terminal app into Android as well as turning it into an all-in-one app for running a Linux distro in a VM.
 > 
@@ -24,7 +24,7 @@ This article is based on a post written in Italian and [published](https://www.l
 
 Curious because considering that Android's kernel is actually Linux, it would be useful to do the opposite: run Linux and virtualise Android. In fact, it already does, Android runs by a hypervisor called pKVM.
 
-<div align="center"><img class="darkinv" src="img/292-linux-android-and-redfish-os-img-002.png"><br/>Android Virtualization Framework (AVF) overview - [lnkd.in/dVu8vyQp](lnkd.in/dVu8vyQp)</div>
+<div align="center"><img class="darkinv" src="img/292-linux-android-and-redfish-os-img-002.png"><br/>Android Virtualization Framework (AVF) overview - [lnkd.in/dVu8vyQp](https://lnkd.in/dVu8vyQp)</div>
 
 However, not with a virtual machine, which would significantly degrade the system's performance (usually by 1/2), but through segregation, which is absolutely possible, since unlike a generic VM, execution on the processor is supervised but transparent.
 
@@ -137,25 +137,27 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 
 ## Related videos
 
-* [RedFish OS recovery image reboot](https://youtu.be/j8iWLmYSx5I) (2023-08-20)
+1. [RedFish OS](https://youtu.be/j8iWLmYSx5I) recovery image reboot (2023-08-20)
 
-* [RedFish OS recovery image boots a freshly installed SailFish OS](https://youtu.be/IJM3DVA3YyE) (2023-08-30)
+2. [RedFish OS](https://youtu.be/IJM3DVA3YyE) recovery image boots a freshly installed SailFish OS (2023-08-30)
 
-* [RedFish OS recovery image install SailFish OS by the telnet menu](https://youtu.be/EP10Evtl0wo) (2023-08-31)
+3. [RedFish OS](https://youtu.be/EP10Evtl0wo) recovery image install SailFish OS by the telnet menu (2023-08-31)
 
-* [Redfish OS speech at SFSCON 2023](https://youtu.be/At4NnCPuaO4) (2023-11-10)
+4. [RedFish OS](https://youtu.be/At4NnCPuaO4) speech at SFSCON 2023 in Bozen, Italy (2023-11-10)
 
 <br/>
 
 ## Related papers
 
-* [Redfish OS business presentation](https://github.com/robang74/redfishos/blob/main/RedFishOS-presentation-A4.pdf) with an executive introduction (2023-09-25)
+* [My SCRUM in a nutshell](https://raw.githubusercontent.com/robang74/P2C2-Management-Style/refs/heads/main/my-scrum-in-a-nutshell.pdf) a single A4 slide, download in PDF (2023-04-13)
 
-* [Redfish OS paper collection](https://github.com/robang74/redfishos/tree/main/sfsconf-2023) prepared and/or collected SFSCON 2023 presentation (2023-11-11)
+* [P²C² management style](https://github.com/robang74/P2C2-Management-Style#readme) github project homepage (2023-04-29)
 
-* [P²C² management style](https://github.com/robang74/P2C2-Management-Style) github project (2023-04-29)
+* [RedFish OS project](https://github.com/robang74/redfishos#readme) github project homepage (2023-07-12)
 
-* [my SCRUM in a nutshell](https://github.com/robang74/P2C2-Management-Style/blob/main/my-scrum-in-a-nutshell.pdf) PDF slide (2023-04-13)
+* [RedFish OS business presentation](https://raw.githubusercontent.com/robang74/redfishos/refs/heads/main/RedFishOS-presentation-A4.pdf) with an executive introduction, PDF download (2023-09-25)
+
+* [RedFish OS papers collection](https://github.com/robang74/redfishos/tree/main/sfsconf-2023) prepared and/or collected SFSCON 2023 presentation (2023-11-11)
 
 <br/>
 
