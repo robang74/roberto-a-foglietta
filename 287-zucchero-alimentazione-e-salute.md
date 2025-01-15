@@ -142,7 +142,7 @@ Più ancora che il legislatore - *con le c.d. sugar tax da incrementare progress
 
 ## Related articles
 
-* [The sugar's role in our foods and lives](https://robang74.github.io/chatgpt-answered-prompts/html/the-sugar-role-in-our-foods-and-lives.html) (2024-09-22)
+* Q&A - [The sugar's role in our foods and lives](https://robang74.github.io/chatgpt-answered-prompts/html/the-sugar-role-in-our-foods-and-lives.html) (2024-09-22)
 
 <br/>
 
