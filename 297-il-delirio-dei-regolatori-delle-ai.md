@@ -194,6 +194,22 @@ Nota di colore: l'innovazione è come il sesso fra adolescenti, tanti ne parlano
 
 <br/>
 
+## Related articles
+
+* Q&A - [Se la verità li uccide, lasciateli morire](https://robang74.github.io/chatgpt-answered-prompts/html/se-la-verita-li-uccide-lasciate-che-muoiano.html) (2024-12-20)
+
+* Q&A - [Dalla supercazzola al civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html#prompt-5) (2024-12-17)
+
+* Q&A - [About education and innovation](https://robang74.github.io/chatgpt-answered-prompts/index.html#about-education--innovation) (2024-11-20)
+
+* 293 - [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) (2024-11-03)
+
+* Q&A - [Draghi's report about innovation](https://robang74.github.io//chatgpt-answered-prompts/html/Draghi-report-about-innovation-01.html#prompt-5) (2024-09-12)
+
+* 090 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) (2017-10-31)
+
+<br/>
+
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
