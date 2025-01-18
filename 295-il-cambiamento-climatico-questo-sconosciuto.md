@@ -78,7 +78,7 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * 250 - **La bolla tecnologica delle EV** - [**`[PDF](../pdf.todo/250-La_bolla_tecnologica_delle_EV.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/la-bolla-tecnologica-delle-ev-roberto-a-foglietta-lwq3f) (2024-04-09)
 
-* 239 - **Riciclo di rifiuti pregiati** - [**`[PDF](../pdf.todo/239-Riciclo_di_rifiuti_pregiati.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/riciclo-di-rifiuti-pregiati-roberto-a-foglietta-b9pyf) (2024-01-23)
+* 239 - [Riciclo di rifiuti pregiati](239-riciclo-di-rifiuti-pregiati.md#?target=_blank) (2024-01-23)
 
 * 223 - **Effetti non lineari sul clima e ricadute sulla geopolitica** - [**`[PDF](../pdf.todo/223-Effetti_non_lineari_sul_clima_e_ricadute_sulla_geopolitica.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/effetti-non-lineari-sul-clima-e-ricadute-sulla-roberto-a-foglietta) (2022-11-01)
 
