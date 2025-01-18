@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-07-31:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img src="img/279-Plastica_vegetale_scarti_vs_canapa-img-001.png"><br/></div>
+<div align="center"><img class="wbsketch" src="img/279-Plastica_vegetale_scarti_vs_canapa-img-001.png"><br/></div>
 
 ## Plastica vegetale: scarti vs canapa
 
@@ -27,7 +27,7 @@ Invece la storia cambia sensibilmente con la coltivazione della canapa di cui l'
 
 Un albero produce ombra e fresco d'estate, ripara dalla pioggia, smottamenti,valanghe d'inverno. Alcuni non perdono nemmeno le foglie d'autunno.
 
-<div align="center"><img src="img/279-Plastica_vegetale_scarti_vs_canapa-img-002.jpg"><br/></div>
+<div align="center"><img class="awsketch" src="img/279-Plastica_vegetale_scarti_vs_canapa-img-002.jpg"><br/></div>
 
 Se estendiamo il concetto funzionale di fissatore di CO2 allora scopriamo che ci sono anche le piante, in particolare le piante che non sono alberi. Fra queste la canapa indiana è la più efficiente in termini di consumo di suolo ed acqua come fissatore di CO2.
 
@@ -92,7 +92,7 @@ Cosa è cambiato dal 2023? Nulla, è solo vetero-proibizionismo a favore dei can
 > **7 luglio 2024** - L’Ozempic può diventare una “minaccia esistenziale per l’industria alimentare”: nei supermercati arrivano i prodotti ad hoc per chi assume il farmaco dimagrante. Nati per il trattamento del diabete, questi farmaci hanno ottenuto un – assai controverso – successo come dimagranti. E ora è il turno delle major dell’alimentazione di cercare di sfruttare questo fenomeno.
 > &mdash; [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it/2024/07/07/lozempic-puo-diventare-una-minaccia-esistenziale-per-lindustria-alimentare-nei-supermercati-arrivano-i-prodotti-ad-hoc-per-chi-assume-il-farmaco-dimagrante/7613422/)
 
-<div align="center"><img src="img/279-Plastica_vegetale_scarti_vs_canapa-img-003.jpg"><br/></div>
+<div align="center"><img class="wbsketch" src="img/279-Plastica_vegetale_scarti_vs_canapa-img-003.jpg"><br/></div>
 
 Quindi l'idea di togliere gli zuccheri raffinati potrebbe essere un salvagente in questo contesto. Al netto di eventuali altri effetti benefici non affatto da trascurare ma ancora da confermare. Tipo sostituire lo zucchero con fibre di canapa e dolcificante, in maniera da non alterare le ricette e le linee di produzione di molti prodotti alimentari. Perché il grosso del costo sta proprio in questo.
 
