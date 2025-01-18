@@ -16,7 +16,7 @@ Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofo
 
 > **28 giugno 2024** - Reactions and analysis of Biden-Trump’s presidential debate.
 
-La scelta di Mercedes di ritornare ad investire su migliori motori endotermici è comprensibile, hanno capito che presto la follia del green-washing tipica dei democratici americani andrà a svanire per un'approccio più realistico e meno ideologico.
+La scelta di Mercedes di ritornare ad investire su migliori motori endotermici è comprensibile, hanno capito che presto la follia del greenwashing tipica dei democratici americani andrà a svanire per un approccio più realistico e meno ideologico.
 
 Perché spegnere le ultime tre centrali nucleari in Germania non ha portato un grosso vantaggio alle vendite di oil & gas visto che i tedeschi sono tornati a sfruttare la lignite che hanno in casa per compensare sia il ridotto baseload sia il costo dell'energia. Ovviamente pagando il prezzo di una maggiore impronta ecologica.
 
@@ -42,7 +42,7 @@ Impianti che possono essere riattivati e stante le scorte di uranio della Franci
 
 Certo in questo secondo caso servirebbero anche molte più centrali nucleari da far lavorare in parallelo. Ma è proprio questo il punto che alcuni paesi hanno capito e altri no.
 
-Il baseload elettrico, più sicuro e più ecologico, è quello nucleare di III+ generazione mentre i reattori sub-critici al torio basati sull'idea di Rubbia vanno bene per il processamento delle scorie e le grandi navi o le portacontainer.
+Il baseload elettrico, più sicuro e più ecologico, è quello nucleare di III+ generazione mentre i reattori sottocritici al torio basati sull'idea di Rubbia vanno bene per il processamento delle scorie e le grandi navi o le portacontainer.
 
 Il gas per il riscaldamento e il petrolio per le auto e materie plastiche.Mettere insieme in modo organico ecologia ed economia significa che ogni fonte energetica deve essere usata nel modo migliore secondo le sue peculiarità. L'opposto di prendere decisioni ideologiche come l'EV per la mobilità personale (auto) come transizione sistemica piuttosto che di nicchia.
 
@@ -51,6 +51,8 @@ In generale, anche questo caso ci dimostra come sia deleterio per l'Occidente av
 ---
 
 ### Aggiornamento
+
+GLI USA IN GINOCCHIO SENZA ROSATOM
 
 > **12th September 2024** - Putin calls for export limits on Russian nickel, uranium and titanium. Russia’s president believes that restrictions on key metals would serve as retaliation against Western sanctions.
 
@@ -69,3 +71,4 @@ Ciò significa che gli Stati Uniti non hanno abbastanza centrifughe per arricchi
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
