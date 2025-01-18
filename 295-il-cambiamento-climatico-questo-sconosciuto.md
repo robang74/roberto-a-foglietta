@@ -68,7 +68,7 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 ## Articoli correlati
 
-* 279 - **Plastica vegetale: scarti vs canapa** - [**`[PDF](../pdf.todo/279-Plastica_vegetale_scarti_vs_canapa.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) (2024-08-01)
+* 279 - [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md#?target=_blank) (2024-07-31)
 
 * 278 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 

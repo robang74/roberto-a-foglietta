@@ -1,10 +1,10 @@
-<div id="firstdiv" created="2024-07-31:AUTO" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2024-07-31:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/279-Plastica_vegetale_scarti_vs_canapa-img-001.png"><br/></div>
 
 ## Plastica vegetale: scarti vs canapa
 
-* Published Jul 31,2024
+* Published Jul 31, 2024 - origin [Linkedin](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf)
 
 Un articolo incentrato sull'importanza della coltivazione della canapa per avviare il mercato dei prodotti ecologici, per davvero, non greenwashing.
 
@@ -39,20 +39,20 @@ Purtroppo il THC è considerato illegale e lo &lt;0.5% in peso è comunque una g
 
 ---
 
-### Marijuana control pushed hemp out of business
+### La Marijuna come droga, dal 1961
 
-Fundamentally because hemp naturally develops THC which has been an illegal component since 1961. It develops THC, for the same reason because tobacco plants develop nicotine: antiparasitic defense.
+Il controllo della marijuana ha spinto la canapa fuori dal mercato. Fondamentalmente perché la canapa sviluppa naturalmente il THC, che è un componente illegale dal 1961. Sviluppa THC per lo stesso motivo per cui le piante di tabacco sviluppano nicotina: difesa antiparassitaria.
 
-Like every other plant farmed in a large feld, it tends to hybridise with other varieties. Soon or later, with Marijuana as well. Just because someone is cultivating it for personal use.
+Come ogni altra pianta coltivata in un grande campo, tende a ibridarsi con altre varietà. Presto o tardi, anche con la marijuana. Solo perché qualcuno la coltiva per uso personale.
 
-Therefore, it is quite challenging farming very large quantities of hemp with a THC level zero. Anything above zero will be prosecuted as drug dealing.
+Pertanto, è piuttosto impegnativo coltivare grandi quantità di canapa con un livello di THC pari a zero. Tutto ciò che supera lo zero sarà perseguito come spaccio di droga.
 
 > Since 1961, cannabis inflorescences have been under international control as narcotic substances (UN Single Convention - 1961 - INCB Yellow list). Of the two main cannabinoids present, THC and CBD, only THC is under international control as a psychotropic substance (INCB Green list).
-> &mdash; **Gooogled**
+> &mdash; [unodc.org](https://www.unodc.org/pdf/convention_1961_en.pdf) artt. 22, 28 e 49.
 
-Hemp was used for many usages and it was a primary cultivation in Italy, in particular for the naval ropes. Nowadays, it can replace plastic also in automotive production.
+La canapa è stata utilizzata per molti usi ed è stata una coltivazione primaria in Italia, in particolare per le corde navali. Oggi può sostituire la plastica anche nella produzione automobilistica.
 
-Unfortunately, because any level of THC is forbidden, hemp farming cannot provide a large and cheap quantity of raw material. Which is the main reason because Brazil relaxed Marijuana control.
+Purtroppo, essendo vietato qualsiasi livello di THC, la coltivazione della canapa non può fornire una grande quantità di materia prima a basso costo. Questo è il motivo principale per cui il Brasile ha allentato i controlli sulla marijuana.
 
 ---
 
@@ -75,9 +75,9 @@ Nel momento in cui vengono considerati medicinali stupefacenti (pur essendo il c
 
 Perché una legge diventi effettiva occorre che sia pubblicata sulla Gazzetta Ufficiale e poi generalmente passati 15 giorni dalla pubblicazione essa entra in vigore, ma il termine può essere diverso se specificato nella legge, più lungo o più breve.
 
-In questo caso si tratta del decreto del 27 giugno 2024 pubblicato in GU n.157 del 6-7-2024. In particolare le due parti interessanti sono:
+In questo caso si tratta del decreto del 27 giugno 2024 pubblicato in GU n.157 del 6 luglio 2024. In particolare le due parti interessanti sono:
 
-Ritenuto, per quanto sopra, [...], di dover procedere all'emanazione di un nuovo decreto che,[...], determini l'inserimento delle composizioni per somministrazione ad uso orale di cannabidiolo ottenuto da estratti di Cannabis (lnkd.in/dA3S3p9U) nella tabella B dei medicinali [...], contestualmente revocando i decreti ministeriali 1° ottobre 2020, 28 ottobre 2020 e 7 agosto 2023.
+> Ritenuto, per quanto sopra, `[...]`, di dover procedere all'emanazione di un nuovo decreto che, `[...]`, determini l'inserimento delle composizioni per somministrazione ad uso orale di cannabidiolo ottenuto da estratti di Cannabis (lnkd.in/dA3S3p9U) nella tabella B dei medicinali `[...]`, contestualmente revocando i decreti ministeriali 1° ottobre 2020, 28 ottobre 2020 e 7 agosto 2023.
 
 Il presente decreto entra in vigore il trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
