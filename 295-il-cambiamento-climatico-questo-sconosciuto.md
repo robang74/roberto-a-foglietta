@@ -72,7 +72,7 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * 278 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) (2024-07-31)
 
-* 270 - **Il futuro non è green ma mixed** - [**`[PDF](../pdf.todo/270-Il_futuro_non_è_green_ma_mixed-v1.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) (2024-07-02)
+* 270 - [Il futuro non è green ma mixed](270-il-futuro-non-e-green-ma-mixed.md#?target=_blank) (2024-07-02)
 
 * 265 - [The BRICS financial system, hope or WW3?](265-the-brics-financial-system-hope-or-ww3.md#?target=_blank) (2024-06-07)
 
