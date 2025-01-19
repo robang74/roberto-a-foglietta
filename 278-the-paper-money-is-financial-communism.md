@@ -162,11 +162,21 @@ Despite this and because of this, they claim to fight communism, even better if 
 
 ---
 
-### Conclusions
+### A further reading, for a deeper understanding
 
-Please feel free to reach your own conclusion about this reading.
+Six weeks after this article has been written, I realised that the concept of "**Paper Money**" - a legacy tender printed by thin air - was not as common among people as I was thinking, initially. Nor, it was so clearly widespread the consequences of the "**Quantitative Easing**", the technical term behind such action (or policy.)
 
-#### Bonus, the Fugio cent
+* [Paper Money is financial communism](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html)
+
+Therefore, I decided to challenge the Mistral AI about the content of this article. Supporting its analysis with some other well-known sources of information.
+
+I chose Mistral AI because at that time, and it still is, it was the most advanced AI technology suitable for being leveraged as critical peer-reviewing. In fact, it takes its name from the concept of "mixture of experts" in which several (8, usually) differently trained (experts) AI models collaboratively compete to provide the best answer to the user prompt.
+
+I think you may be impressed by the chatbot Q&A dialogue and its conclusion, like I was.
+
+<br/>
+
+## The Fugio cent
 
 > The Fugio cent, also known as the Franklin cent, is the first official circulation coin of the United States. Consisting of 0.36 oz (10 g) of copper and minted dated 1787, by some accounts it was designed by Benjamin Franklin. - [Wikipedia](https://en.wikipedia.org/wiki/Fugio_cent)
 
@@ -199,6 +209,8 @@ Lately, in the post U.S. civil war era, the symbolism clearly evolves towards a 
 ## Related articles
 
 - Q&A - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) (2024-11-26)
+
+- Q&A - [Paper Money is financial communism](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) (2024-09-15)
 
 - 267 - **La libertà d'informazione è fondamentale** - download [[**`PDF`**](../pdf.todo/267-La_libertà_d_informazione_è_fondamentale.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/la-libert%C3%A0-dinformazione-%C3%A8-fondamentale-roberto-a-foglietta-qaj4f) (2024-06-26)
 
