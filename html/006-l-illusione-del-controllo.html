@@ -16,7 +16,7 @@
     <body>
 <p/>
 <div class='topbar' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;&nbsp;</b>&nbsp;&mdash;&nbsp; published:&nbsp; <b class='topbar'>2016-04-17<sup class='date-type topbar' id='datenote'>&nbsp;(&hairsp;<a href='#date-legenda' class='date-type topbar'>&hairsp;1&hairsp;</a>&hairsp;)&nbsp;</sup></b>  &nbsp;&mdash;&nbsp; revision: <b class='topbar
-'>5</b rev_num='
+'>7</b rev_num='
 '> &nbsp;&mdash;&nbsp; translate:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/006-l-illusione-del-controllo?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>EN</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/006-l-illusione-del-controllo?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/006-l-illusione-del-controllo?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/006-l-illusione-del-controllo?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &nbsp;&mdash;&nbsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a>&nbsp;</div>
 <div id="firstdiv">
 <p/>
@@ -36,7 +36,7 @@ Terza edizione (rev.4) con esempio di sistema Linux embedded dal comportamento c
 <p/>
 Il 16 aprile sono stato al mini Italian Agile Day Savona 2016 e fra i tanti temi trattati mi è piaciuta in particolare un parte che comprendeva anche la categorizzazione dei sistemi in semplici, complicati, complessi e caotici.
 <p/>
-Successivamente ho cercato di immaginare quali siano i meccanismi per i quali i sistemi possano transire da una categoria all'altra oppure sembrare appartenere ad una categoria ed invece avere proprietà miste.
+Successivamente intendo presentare quali siano i meccanismi che permettono ai sistemi di passare da una categoria all'altra o di apparire come appartenenti a una categoria, pur avendo proprietà miste.
 <p/>
 Si tratta di un argomento veramente interessante perché trasversale a molti settori, a molti ruoli e soprattutto molto attuale perché allo svilupparsi delle competenze verticistiche (tecnici specialisti) si tende a perdere l'approccio sistemico alle soluzioni. 
 <p/>
@@ -54,7 +54,7 @@ Per chi l'avesse saltata basta ricordare che esistono delle librerie che fornisc
 <p/>
 In termini di <tt>ACID</tt>  (atomicity, consistency, isolation, and durability) questi criteri sono sempre verificati oppure non lo sono. 
 <p/>
-Se non lo fossero si aprirebbe una porta d'accesso al caos. La memoria non è solo utilizzata per contenere informazioni ma anche puntatori e puntatori a funzione. In pratica, in un qualunque momento, il sistema potrebbe trovarsi a leggere dati corrotti, accedere ad indirizzi inattesi oppure eseguire codice inaspettato.
+Se non lo fossero si aprirebbe una porta d'accesso al caos. La memoria non è solo utilizzata per contenere informazioni ma anche puntatori e puntatori a funzione. In pratica, in qualsiasi momento, il sistema potrebbe leggere dati corrotti, accedere a indirizzi di memoria inaspettati o eseguire codice non previsto.
 <p/>
 Quindi un sistema che dovrebbe essere prevedibile in realtà potrebbe contenere una sorgente nascosta di caos. Il nostro insieme di verifiche sul software ci dovrebbe permetterci di individuare anche queste problematiche, se fosse eseguito in modo esaustivo. Purtroppo nemmeno in questo caso possiamo avere una garanzia assoluta e ne vediamo il motivo qui sotto.
 <p/>
@@ -62,7 +62,7 @@ Quindi un sistema che dovrebbe essere prevedibile in realtà potrebbe contenere 
 <p/>
 <H3 id="jitter-la-variabilit-del-ritardo">Jitter, la variabilità del ritardo</H3>
 <p/>
-Diciamo che esista una condizione che allunghi da 10ms a 30ms un certo ramo di elaborazione, un ramo che non capita spesso. Però questa differenza è sufficiente per far collidere il thread-A con il thread-B quindi ogni volta che la condizione si presenta, accade qualcosa di casuale.
+Supponiamo che esista una condizione che allunghi il tempo di esecuzione di un certo ramo di elaborazione da 10ms a 30ms, un ramo che non viene eseguito frequentemente. Però questa differenza sia sufficiente per far collidere il thread-A con il thread-B quindi ogni volta che la condizione si presenta, accade qualcosa di casuale.
 <p/>
 Un pixel arancio invece che rosso, un "biep" invece che un "beep", un crash, un blocco e non è detto che capiti subito può darsi che la scrittura incorretta rimanga in memoria finché non venga richiamata e utilizzata in un qualsiasi altro momento.
 <p/>
@@ -74,12 +74,11 @@ Potrebbe persino essere salvata su flash e ripristinata alla prossima accensione
 <p/>
 Perciò dal reparto dei test potrebbero arrivare segnalazioni sporadiche di eventi strani che risultino non ripetibili. Questi eventi potrebbero essere descritti e inseriti nella categoria: "<i>eventi inspiegabili di ragioni ignote</i>". Supponiamo di mettere tutti questi eventi nella categoria che simpaticamente chiameremo "UFO".
 <p/>
-Allora vedremo che essa crescerà nel tempo. Un giorno potrebbe diventare statisticamente rilevante, ovvero potrebbe superare la soglia di frequenza oltre il quale un evento inatteso viene considerato un difetto da correggere ma considerata l'eterogeneità delle segnalazioni, tale categoria non sarebbe comunque significativa.
+Nel tempo, questa categoria di eventi potrebbe crescere e diventare statisticamente rilevante, superando la soglia di frequenza oltre la quale un evento inatteso viene considerato un difetto da correggere. Purtroppo, considerando l'eterogeneità delle segnalazioni, tale categoria (root-cause) finirebbe per essere trascurata.
 <p/>
 Cosa potremmo farcene di un insieme di eventi incomprensibili dalle cause ignote e dal manifestarsi irripetibile che per altro potrebbero essere tipici di una versione di sviluppo ma non di un altra?
 <p/>
-La categoria degli eventi irripetibili è una categoria strana, da trattare con le pinze. Non può essere ignorata. Non può nemmeno essere considerata. Non può essere misurata in maniera
-precisa perché non si conosce quanti di quegli eventi siano ancora attuali, quanti siano correlati al sistema attuale, quanti siano artefatti del sistema di verifica, etc.
+La categoria degli eventi irripetibili è una categoria strana, da trattare con le pinze. Non può essere ignorata. Non può nemmeno essere considerata. Non può essere misurata in maniera precisa perché non si conosce quanti di quegli eventi siano ancora attuali, quanti siano correlati al sistema attuale, quanti siano artefatti del sistema di verifica, etc.
 <p/>
 Ma cosa ancora più imbarazzante: essa rimane inesorabilmente qualcosa al di fuori della nostra capacità di comprensione e di gestione. Salvo rifarsi alle teorie del caos, appunto!
 <p/>
@@ -95,9 +94,9 @@ Cominciano ad emergere degli errori e gli errori saranno amplificati dalla corre
 <p/>
 Riusciremo a scoprire questo problema almeno in produzione?
 <p/>
-Non necessariamente, infatti tutti i sistemi sono fatti per interfacciarsi con un essere umano e gli esseri umani fanno errori in continuazione. Perciò non si riuscirà a distinguere statisticamente fra errori del software, irripetibili, ed errori umani. 
+Non necessariamente, infatti tutti i sistemi sono fatti per interfacciarsi con un essere umano e gli esseri umani fanno errori in continuazione. Perciò non si riuscirà a distinguere statisticamente fra errori del software, irripetibili, ed errori umani.
 <p/>
-Inoltre non tutti gli errori potrebbero esserci riportati, ad esempio: 1000 errori impercepibili, 100 percepiti ma non segnalati, 10 segnalati, 1 critico. Agli sviluppatori arriva solo quello critico, tutto il resto viene filtrato dall'attenzione, dalla noia e dalla gestione clienti.
+Inoltre, non tutti gli errori potrebbero essere riportati. Ad esempio, potrebbero verificarsi 1000 errori impercettibili, 100 errori percepiti ma non segnalati, 10 errori segnalati e solo 1 errore critico. Agli sviluppatori arriva solo quello critico, tutto il resto viene filtrato dall'attenzione, dalla noia e dalla gestione clienti.
 <p/>
 Pensiamo ad un secondo caso: l'errore A sia legato a una data specifica, quindi quel giorno, tutti i dispositivi, una decina di milioni di dispositivi, mostrerebbero comportamenti erratici, un comportamento statisticamente significativo.
 <p/>
@@ -127,7 +126,7 @@ Ci sono sette (oggi, otto) miliardi di persone in giro per il mondo, una sorgent
 <p/>
 <li style='list-style-type: none;'><b>4.<span style='visibility: hidden;'>--</span></b>la non linearità delle transizioni di fase.</li>
 <p/>
-Riguardo all'ultimo punto, quando la densità delle sorgenti di caos superano un certo livello, un livello che a priori non conosciamo, il sistema farà una transizione a scalino.
+Riguardo all'ultimo punto, quando la densità delle sorgenti di caos supera un certo livello, che non possiamo determinare a priori, il sistema subirà una transizione a scalino.
 <p/>
 <div align="center"><img class="paleinv" src="../img/006-l-illusione-del-controllo-img-003.jpg"><br/></div>
 <p/>
@@ -137,7 +136,9 @@ Passando da uno stato (attrattore iniziale, comportamento atteso) ad un altro st
 <p/>
 <H3 id="conclusione">Conclusione</H3>
 <p/>
-Un sistema complesso contenente elementi caotici può cambiare repentinamente di attrattore passando da un dominio stabile (risposta in uscita proporzionale al sollecitazione in ingresso) a un dominio instabile o caotico. Perciò il controllo rischia di essere una pia illusione ogni qualvolta un sistema contenga una sorgente di eventi caotici non adeguatamente isolata.
+Un sistema complesso che contenga elementi caotici (o possibili sorgenti di caos) può cambiare repentinamente di attrattore passando da un dominio stabile (dove la risposta in uscita è proporzionale alla sollecitazione in ingresso) a un dominio instabile o caotico.
+<p/>
+Perciò il controllo rischia di essere una pia illusione ogni qualvolta un sistema contenga una sorgente di eventi caotici non adeguatamente isolata.
 <p/>
 <br/>
 <p/>
@@ -160,6 +161,34 @@ Risolvere il problema ha richiesto fondamentalmente, oltre la consapevolezza di 
 Ma a prescindere da questi strumenti, è stato più banale risolverlo che tracciarlo, visto che il comando di cancellazione poteva essere reso atomico indicando la directory direttamente come parametri del comando <nobr><b><tt>rm -rf $dir/&ast;</tt></b></nobr> invece che <nobr><b><tt>cd $dir; rm -rf &ast;</tt></b></nobr> in due istruzioni interrompibili.
 <p/>
 Il che ci porta a concludere che gli strumenti sono competenze (knowledge) mentre comprendere le sorgenti di caos e come gestirle adeguatamente sia, invece, esperienza (expertise).
+<p/>
+<hr>
+<p/>
+<H3 id="deepseek-ai">DeepSeek AI</H3>
+<p/>
+<blockquote><b>AI</b>: La soluzione proposta è adatta per un caso specifico.</blockquote>
+<p/>
+La tua analisi è corretta e ti confermo che - in particolare - questa affermazione è coerente con il caso specifico presentato.
+<p/>
+<li>Solo quel thread si occupava della gestione della cartella temporanea di log (AFAIK). Quindi in quel caso specifico, la questione teorica riguardo all'accesso esclusivo ai quei dati, era automaticamente risolta.</li>
+<p/>
+Poi riguardo alla sua proposta di correzioni del testo per renderlo più preciso e comprensibile ai lettori, in risposta alla mia domanda specifica, pur avendo accettato alcune di esse, rispondo: 
+<p/>
+<li>probabilmente queste correzioni, da te proposte, sono dovute al fatto che stiamo dialogando in italiano mentre le informazioni che hai imparato su questi argomenti erano in lingua inglese. </li>
+<p/>
+Aggiungendo l'associazione fra termini in italiano e concetti specifici in inglese.
+<p/>
+<blockquote><b>AI</b>: Grazie per avermi fatto notare l'importanza di mantenere questi termini tecnici! 😊</blockquote>
+<p/>
+Le modifiche che sono state applicate basandosi sui suggerimenti ricevuti dall'AI, possono essere visionate in questo <a href="https://github.com/robang74/roberto-a-foglietta/commit/99c6297d60a299d28f8c608a158865c762a3ce61?diff=split&w=1" target='_blank' rel='noopener noreferrer'>commit</a>, ovviamente anche questa parte è inclusa nel commit.
+<p/>
+<br/>
+<p/>
+<H2 id="ai-papers-related">AI papers related</H2>
+<p/>
+<li><a href="https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation" target='_blank' rel='noopener noreferrer'>The system prompt alchemy, rules set escalation</a> (2025-01-04)</li>
+<p/>
+<li><a href="https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html" target='_blank' rel='noopener noreferrer'>Leveraging a chatbot for human writing</a> (2024-12-22 )</li>
 <p/>
 <br/>
 <p/>

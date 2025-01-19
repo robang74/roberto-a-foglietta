@@ -160,7 +160,7 @@ Aggiungendo l'associazione fra termini in italiano e concetti specifici in ingle
 
 > **AI**: Grazie per avermi fatto notare l'importanza di mantenere questi termini tecnici! 😊
 
-Le modifiche applicate suggerite dall'AI sono presentate nel commit: [todo]
+Le modifiche che sono state applicate basandosi sui suggerimenti ricevuti dall'AI, possono essere visionate in questo [commit](https://github.com/robang74/roberto-a-foglietta/commit/99c6297d60a299d28f8c608a158865c762a3ce61?diff=split&w=1), ovviamente anche questa parte è inclusa nel commit.
 
 <br/>
 
