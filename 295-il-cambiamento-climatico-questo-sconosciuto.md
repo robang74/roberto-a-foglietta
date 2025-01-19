@@ -120,7 +120,7 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * 195 - **Un mondo nuovo sta cominciando** - [**`[PDF](../pdf.todo/195-Un_mondo_nuovo_sta_cominciando.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
 
-* 106 - **Black Swan is not as rare as we might think** - [**`[PDF](../pdf.todo/106-Black_Swan_is_not_as_rare_as_we_might_think.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta) (2017-11-10)
+* 106 - [Black Swan is not as rare as we might think](106-black-swan-is-not-as-rare-as-we-might-think.md#?target=_blank) (2017-11-10)
 
 * 104 - **Il lato oscuro dell'informazione scientifica** - [**`[PDF](../pdf.todo/104-Il_lato_oscuro_dell_informazione_scientifica.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-lato-oscuro-dellinformazione-scientifica-roberto-a-foglietta) (2017-11-07)
 

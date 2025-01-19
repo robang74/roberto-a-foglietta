@@ -4,7 +4,7 @@
 
 ## The Black Swan is not as rare as we might think...
 
-* Published Nov 11, 2017 - origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta)
+* Published Nov 10, 2017 - origin [LinkedIn](https://www.linkedin.com/pulse/black-swan-rare-we-might-think-roberto-a-foglietta)
 
 > The Black Swan: The Impact of the Highly Improbable is a 2007 book by Nassim Nicholas Taleb, who is a former options trader. The book focuses on the extreme impact of rare and unpredictable outlier events, and the human tendency to find simplistic explanations for these events, retrospectively. Taleb calls this the Black Swan theory. <nobr>&mdash; [Wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)</nobr>
 
