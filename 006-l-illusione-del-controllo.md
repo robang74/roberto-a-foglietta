@@ -6,7 +6,7 @@
 
 * Published Apr 17, 2016 - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta)
 
-Seconda edizione con attrattore di Lorentz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+Seconda edizione con attrattore di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
 
 ---
 
@@ -16,7 +16,7 @@ Il 16 aprile sono stato al mini Italian Agile Day Savona 2016 e fra i tanti temi
 
 Successivamente ho cercato di immaginare quali siano i meccanismi per i quali i sistemi possano transire da una categoria all'altra oppure sembrare appartenere ad una categoria ed invece avere proprietà miste.
 
-Si tratta di un argomento veramente interessante perché trasversale a molti settori, a molti ruoli e sopratutto molto attuale perché allo svilupparsi delle competenze verticistiche (tecnici specialisti) si tende a perdere l'approccio sistemico alle soluzioni. 
+Si tratta di un argomento veramente interessante perché trasversale a molti settori, a molti ruoli e soprattutto molto attuale perché allo svilupparsi delle competenze verticistiche (tecnici specialisti) si tende a perdere l'approccio sistemico alle soluzioni. 
 
 Bisogna curare il malato nel suo complesso e non solo focalizzarsi sui sintomi della malattia. Ovviamente l'approccio olistico è fondamentale per l'innovazione altrimenti non sapremmo connettere due concetti distanti appartenenti ad ambiti differenti all'interno della stessa soluzione.
 
@@ -38,11 +38,11 @@ Quindi un sistema che dovrebbe essere prevedibile in realtà potrebbe contenere 
 
 ---
 
-### Jitter, la varibilità del ritardo
+### Jitter, la variabilità del ritardo
 
 Diciamo che esista una condizione che allunghi da 10ms a 30ms un certo ramo di elaborazione, un ramo che non capita spesso. Però questa differenza è sufficiente per far collidere il thread-A con il thread-B quindi ogni volta che la condizione si presenta, accade qualcosa di casuale.
 
-Un pixel arancio invece che rosso, un "biep" invece che un "beep", un crash, un blocco e non è detto che capiti subito può darsi che la scrittura incoretta rimanga in memoria finché non venga richiamata e utilizzata in un qualsiasi altro momento.
+Un pixel arancio invece che rosso, un "biep" invece che un "beep", un crash, un blocco e non è detto che capiti subito può darsi che la scrittura incorretta rimanga in memoria finché non venga richiamata e utilizzata in un qualsiasi altro momento.
 
 Potrebbe persino essere salvata su flash e ripristinata alla prossima accensione. Se viene scritta su flash allora potrà presentarsi anche con una versione di software successiva, anche se quella fosse perfetta, i dati letti sarebbero errati. Quindi l'esito sarà imprevedibile in termini di effetti ma lo sarà anche in termini di tempi, un secondo, un minuto, un'ora, mai, non si sa.
 
@@ -79,9 +79,9 @@ Inoltre non tutti gli errori potrebbero esserci riportati, ad esempio: 1000 erro
 
 Pensiamo ad un secondo caso: l'errore A sia legato a una data specifica, quindi quel giorno, tutti i dispositivi, una decina di milioni di dispositivi, mostrerebbero comportamenti erratici, un comportamento statisticamente significativo.
 
-Un errore ogni ogni ora oppure ogni minuto, non ha importanza, perché il giorno dopo tutto potrebbe sembrare essere tornato alla normalità. Potremmo mettere in relazione questa giornata con una tempesta magnetica di natura solare, un interferenza non ben specificata, etc.
+Un errore ogni ogni ora oppure ogni minuto, non ha importanza, perché il giorno dopo tutto potrebbe sembrare essere tornato alla normalità. Potremmo mettere in relazione questa giornata con una tempesta magnetica di natura solare, un'interferenza non ben specificata, etc.
 
-Pensiamo ad un terzo caso: ci sia un trattamento di un input che interferisca con un altro thread. Gli utenti che fanno variazioni rapide sperimenteranno eventi strani quelli più pacati non avranno problemi ma apparentemente non esisterà mai un fattore comune facilmente identificabile.
+Pensiamo ad un terzo caso: ci sia un trattamento di un input che interferisca con un altro thread. Gli utenti che fanno variazioni rapide sperimenteranno eventi strani e quelli più pacati non avranno problemi ma apparentemente non esisterà mai un fattore comune facilmente identificabile.
 
 Con il sig. Tizio il dispositivo presenta un problema ma lo stesso dispositivo dato alla sig.ra Caio non presenta quel problema, magari ne presenta altri. Eppure potrebbe essere sempre la stessa causa che si presenta con sintomi diversi.
 
@@ -89,7 +89,7 @@ Con il sig. Tizio il dispositivo presenta un problema ma lo stesso dispositivo d
 
 ### Questo è appunto il caos
 
-In pratica quale che sia lo stadio di sviluppo di un prodotto, fintanto che qualcuno non scoprirà leggendo il codice sorgente, che c'è un problema che abbia come effetto l'introduzione di un elemento caotico nel funzionamento del sistema informatico molto difficilmente il problema potrà essere identificato dagli effetti, semplicemente avremo decine di milioni di dispositivi che in modo imprevedibile faranno cose impreviste e in momenti impredicibili.
+In pratica quale che sia lo stadio di sviluppo di un prodotto, fintanto che qualcuno non scoprirà leggendo il codice sorgente, che c'è un problema che abbia come effetto l'introduzione di un elemento caotico nel funzionamento del sistema informatico molto difficilmente il problema potrà essere identificato dagli effetti, semplicemente avremo decine di milioni di dispositivi che in modo imprevedibile faranno cose impreviste e in momenti imprevedibili.
 
 ---
 
