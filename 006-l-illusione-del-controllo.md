@@ -137,7 +137,7 @@ Peccato che se quel thread fra il cambio directory e l'eliminazione veniva inter
 
 Risolvere il problema ha richiesto fondamentalmente, oltre la consapevolezza di quanto scritto in questo articolo, tre strumenti: `strace`, `inotifywait` e `auditctl`.
 
-Ma a prescindere da questi strumenti, è stato più banale risolverlo che tracciarlo, visto che il comando di cancellazione poteva essere reso atomico indicando la directory direttamente come parametri del comando **`rm -rf $dir/*`** invece che **`cd $dir; rm -rf *`** in due istruzioni interrompibili.
+Ma a prescindere da questi strumenti, è stato più banale risolverlo che tracciarlo, visto che il comando di cancellazione poteva essere reso atomico indicando la directory direttamente come parametri del comando <nobr>**`rm -rf $dir/&ast;`**</nobr> invece che <nobr>**`cd $dir; rm -rf &ast;`**</nobr> in due istruzioni interrompibili.
 
 Il che ci porta a concludere che gli strumenti sono competenze (knowledge) mentre comprendere le sorgenti di caos e come gestirle adeguatamente sia, invece, esperienza (expertise).
 
