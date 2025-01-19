@@ -6,7 +6,9 @@
 
 * Published Apr 17, 2016 - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta)
 
-Seconda edizione con attrattore di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+Seconda edizione (rev.3) con attrattore di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+
+Terza edizione (rev.4) con esempio di sistema Linux embedded dal comportamento caotico e imprevedibile a causa di multithreading e jittering nelle latenze.
 
 ---
 
@@ -30,7 +32,7 @@ Per chi l'avesse saltata basta ricordare che esistono delle librerie che fornisc
 
 ### Il vaso di pandora
 
-In termini di ACID  (atomicity, consistency, isolation, and durability) questi criteri sono sempre verificati oppure non lo sono. 
+In termini di `ACID`  (atomicity, consistency, isolation, and durability) questi criteri sono sempre verificati oppure non lo sono. 
 
 Se non lo fossero si aprirebbe una porta d'accesso al caos. La memoria non è solo utilizzata per contenere informazioni ma anche puntatori e puntatori a funzione. In pratica, in un qualunque momento, il sistema potrebbe trovarsi a leggere dati corrotti, accedere ad indirizzi inattesi oppure eseguire codice inaspettato.
 
@@ -116,6 +118,28 @@ Passando da uno stato (attrattore iniziale, comportamento atteso) ad un altro st
 ### Conclusione
 
 Un sistema complesso contenente elementi caotici può cambiare repentinamente di attrattore passando da un dominio stabile (risposta in uscita proporzionale al sollecitazione in ingresso) a un dominio instabile o caotico. Perciò il controllo rischia di essere una pia illusione ogni qualvolta un sistema contenga una sorgente di eventi caotici non adeguatamente isolata.
+
+<br/>
+
+## Update 2025-01-19
+
+Potreste pensare che quanto riportato in questo articolo sia vaga teoria e che in pratica non si verifica mai, giacché per loro natura i programmi per elaboratori elettronici sono scritti in linguaggio procedurale e quindi la loro evoluzione degli stati appartiene esclusivamente alla branca meccanica classica.
+
+Invece, ho incontrato questi fenomeni relativamente parecchie volte e un caso della metà del 2021 vale la pena raccontarlo: una grande azienda di automazione industriale da un mese era nei guai perché i sistemi che aveva installato sulle linee di produzione di un suo cliente basati su Linux embedded si bloccavano e non facevano più il reboot.
+
+Inutile sottolineare che questa condizione poneva dei seri problemi sia da un punto di vista dell'investigazione del problema visto che il filesystem risultava pesantemente corrotto sia da un punto di vista dei tempi di fermo produzione perché occorreva sostituire, come minimo, il supporto dati al dispositivo in crash.
+
+Bene, questo problema che aveva resistito all'analisi degli ingegneri esperti che lo avevano progettato rientra proprio nella categoria descritta da questo articolo e fondamentalmente il problema era relativo ad variazione di latenze (tempistiche) anche detti jitter che in combinazione con il multi-threading portavano il sistema a cambiare di stato, rompendosi.
+
+In pratica, un programma multithread ad un certo punto decideva di ripulire una directory temporanea eseguendo la classica operazione di cancellazione ricorsiva di tutti gli elementi in essa contenuti con i privilegi di `root`, una cosa alquanto comune nei sistemi embedded.
+
+Peccato che se quel thread fra il cambio directory e l'eliminazione veniva interrotto da un suo pari che per ragioni sue cambiava la directory di lavoro in quella di radice del sistema invece di quella dei log, quando l'esecuzione riprendeva andava a cancellare la radice invece della directory temporanea.
+
+Risolvere il problema ha richiesto fondamentalmente, oltre la consapevolezza di quanto scritto in questo articolo, tre strumenti: `strace`, `inotifywait` e `auditctl`.
+
+Ma a prescindere da questi strumenti, è stato più banale risolverlo che tracciarlo, visto che il comando di cancellazione poteva essere reso atomico indicando la directory direttamente come parametri del comando **`rm -rf $dir/*`** invece che **`cd $dir; rm -rf *`** in due istruzioni interrompibili.
+
+Il che ci porta a concludere che gli strumenti sono competenze (knowledge) mentre comprendere le sorgenti di caos e come gestirle adeguatamente sia, invece, esperienza (expertise).
 
 <br/>
 
