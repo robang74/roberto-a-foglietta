@@ -130,9 +130,9 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * 019 - **Innovazione, il controllo del cambiamento** - [**`[PDF](../pdf.todo/019-Innovazione_il_controllo_del_cambiamento.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/innovazione-il-controllo-del-cambiamento-roberto-a-foglietta) (2016-10-04)
 
-* 016 - [Opinions, data and method](016-opinions-data-and-method.md) (2016-09-03)
+* 016 - [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) (2016-09-03)
 
-* 006 - **L'illusione del controllo** - [**`[PDF](../pdf.todo/006-L_illusione_del_controllo.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
+* 006 - [L'illusione del controllo](006-l-illusione-del-controllo.md#?target=_blank) (2016-04-17)
 
 <br/>
 
