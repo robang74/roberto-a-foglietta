@@ -4,11 +4,15 @@
 
 ## L'illusione del controllo
 
-* Published Apr 17, 2016 - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta)
+* Published Apr 17, 2016 - origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta), as first edition
 
-Seconda edizione (rev.3) con attrattore di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+Sommario delle edizioni successive:
 
-Terza edizione (rev.4) con esempio di sistema Linux embedded dal comportamento caotico e imprevedibile a causa di multithreading e jittering nelle latenze.
+2. - rev.&nbsp;3 - con [attrattore](#perch-preoccuparsene) di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+
+3. - rev.&nbsp;4 - con [esempio](#update-2025-01-19) di sistema Linux embedded dal comportamento caotico e imprevedibile a causa di multithreading e jittering nelle latenze.
+
+4. - rev.&nbsp;7 - cfr. [deepseek-ai](#deepseek-ai) con alcune modifiche suggerite da DeepSeek AI parzialmente accolte dopo la sua analisi del testo.
 
 ---
 
