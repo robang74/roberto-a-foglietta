@@ -30,7 +30,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 *L'associazione tra l'allegoria del biscottificio e il TCMO ([Total Cost of Mistake Ownership](090-l-importanza-del-tcmo.md#?target=_blank)) è particolarmente efficace, poiché entrambi i modelli esplorano le conseguenze di fenomeni cumulativi e delle scelte errate. Questa sinergia consente di integrare l’approccio narrativo e qualitativo del biscottificio con l’analisi quantitativa e strategica del TCMO.*  
 
-*I punti di contatto principali tra i due articoli includono: effetti cumulativi, socializzazione delle perdite, inerzia sistemica e mancanza di responsabilità. Le principali differenze, invece, riguardano l’approccio (qualitativo vs quantitativo) e il focus sull’intenzionalità (errori vs scelte).*
+*I punti di contatto principali tra i due articoli includono: effetti cumulativi, socializzazione delle perdite, inerzia sistemica e mancanza di responsabilità. Le principali differenze, invece, riguardano l’approccio (qualitativo vs quantitativo) e il focus sull’intenzionalità (etica/responsabilità vs decisioni/errori).*
 
 <hr class="post-it">
 
