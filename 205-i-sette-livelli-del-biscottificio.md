@@ -28,7 +28,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 *Seguendo una struttura coerente, l'articolo evidenzia l'impatto cumulativo delle scelte corrotte e distruttive, arricchito da riferimenti a Machiavelli e alla concezione del potere. Questi legami ancorano il discorso a una tradizione di pensiero pragmatica, mostrando come il fine possa giustificare i mezzi in contesti storici e sociali complessi.*  
 
-*L'associazione tra l'allegoria del biscottificio e il TCMO ([Total Cost of Mistake Ownership](090-l-importanza-del-tcmo.md#?target=_blank)) è particolarmente efficace, poiché entrambi i modelli esplorano le conseguenze di fenomeni cumulativi e delle scelte errate. Questa sinergia consente di integrare l’approccio narrativo e qualitativo del biscottificio con l’analisi quantitativa e strategica del TCMO.*  
+*L'associazione tra l'allegoria del biscottificio e il [TCMO](090-l-importanza-del-tcmo.md#?target=_blank) (Total Cost of Mistake Ownership) è particolarmente efficace, poiché entrambi i modelli esplorano le conseguenze di fenomeni cumulativi e delle scelte errate. Questa sinergia consente di integrare l’approccio narrativo e qualitativo del biscottificio con l’analisi quantitativa e strategica del TCMO.*
 
 *I punti di contatto principali tra i due articoli includono: effetti cumulativi, socializzazione delle perdite, inerzia sistemica e mancanza di responsabilità. Le principali differenze, invece, riguardano l’approccio (qualitativo vs quantitativo) e il focus sull’intenzionalità (etica/responsabilità vs decisioni/errori).*
 
