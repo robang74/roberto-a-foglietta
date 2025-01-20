@@ -10,6 +10,16 @@ Originally created as a [comment](https://www.linkedin.com/feed/update/urn:li:ac
 
 ---
 
+### Presentazione
+
+Presentazione dell'articolo **a cura di ChatGPT 4o** - L’articolo offre una riflessione arguta e provocatoria sul tema della corruzione, utilizzando un linguaggio che mescola ironia e allegoria per illustrare una scala morale e pragmatica delle nefandezze umane.
+
+L'articolo segue una struttura coerente, con una scala che passa dall'utopia al collasso globale, evidenziando l'impatto cumulativo delle scelte corrotte o distruttive.
+
+I riferimenti a Machiavelli e alla concezione del potere offrono una profondità intellettuale, ancorando l’argomentazione a una tradizione di pensiero consolidata.
+
+---
+
 ### La corruzione, introduzione
 
 Si tratta di un'opinione diffusa quella che la corruzione sia un male necessario e che necessariamente si debbano fare nefandezze per riparare a degli errori oppure per evitare situazioni anche peggiori. In quest'ottica si giustificano le nefandezze quali effetto di una causa precedente, ad esempio un approccio naïf.
