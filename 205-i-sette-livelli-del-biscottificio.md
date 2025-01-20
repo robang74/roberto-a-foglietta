@@ -6,41 +6,49 @@
 
 * Published Jan 29, 2019 - origin [LinkedIn](https://it.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta)
 
-Originally created as a [comment](https://www.linkedin.com/feed/update/urn:li:activity:6495231969419497472?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6495935271178207233%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6496001047566389248%29) to a post and then converted into the 2nd draft article the day next.
+---
+
+### Edizioni
+
+First edition, originally created as a [comment](https://www.linkedin.com/feed/update/urn:li:activity:6495231969419497472?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6495935271178207233%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6496001047566389248%29) to a post and then converted into the 2nd draft article the day next.
+
+Seconda edizione integrante alcuni suggerimenti ottenuti [sfruttando](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) l'analisi del testo da parte dell'intelligenza artificiale, con lo scopo di ottenere un testo quanto più vicino all'originale, sia nella forma e sia nel significato, ma più fluido in lettura.
 
 ---
 
 ### Presentazione
 
-Presentazione dell'articolo **a cura di ChatGPT 4o** - L’articolo offre una riflessione arguta e provocatoria sul tema della corruzione, utilizzando un linguaggio che mescola ironia e allegoria per illustrare una scala morale e pragmatica delle nefandezze umane.
+* a cura di ChatGPT 4o
 
-L'articolo segue una struttura coerente, con una scala che passa dall'utopia al collasso globale, evidenziando l'impatto cumulativo delle scelte corrotte o distruttive.
+*L’articolo offre una riflessione arguta e provocatoria sul tema della corruzione, utilizzando un linguaggio che mescola ironia e allegoria per illustrare una scala morale e pragmatica delle nefandezze umane.*
 
-I riferimenti a Machiavelli e alla concezione del potere offrono una profondità intellettuale, ancorando l’argomentazione a una tradizione di pensiero consolidata.
+*L'articolo segue una struttura coerente, con una scala che passa dall'utopia al collasso globale, evidenziando l'impatto cumulativo delle scelte corrotte o distruttive.*
 
----
+*I riferimenti a Machiavelli e alla concezione del potere offrono una profondità intellettuale, ancorando l’argomentazione a una tradizione di pensiero consolidata.*
+
+<br/>
 
 ### La corruzione, introduzione
 
-Si tratta di un'opinione diffusa quella che la corruzione sia un male necessario e che necessariamente si debbano fare nefandezze per riparare a degli errori oppure per evitare situazioni anche peggiori. In quest'ottica si giustificano le nefandezze quali effetto di una causa precedente, ad esempio un approccio naïf.
+È opinione diffusa che la corruzione sia un male necessario, uno strumento per riparare errori o evitare situazioni peggiori. In quest'ottica, si giustificano le nefandezze come conseguenza di cause precedenti, ad esempio un approccio naïf.
 
-Io penso, é non lo faccio su base teorica ma alla luce di un vasto insieme di casi osservato,che viceversa sussista fin da principio la volontà di fare nefandezze (causa) e l'approccio naïf ne sia solo l'effetto, che esso sia utile a mascherare la reale causa (prima) e a giustificarla (dopo).
+Tuttavia, io penso – e non su base teorica, ma alla luce di un vasto insieme di casi osservati – che, al contrario, esista fin dall'inizio la volontà di commettere nefandezze (causa), mentre l'approccio naïf ne sia solo un effetto. Questo effetto, inoltre, viene spesso utilizzato per mascherare la causa reale (prima) e giustificarla (dopo).
 
-Insomma, non si fa schifo per stato di necessità ma si crea lo stato di necessità ad arte per fare anche più schifo.
+In altre parole, non si compiono nefandezze per necessità, ma si crea artificiosamente uno stato di necessità per poter agire in modo ancora più deplorevole.
 
 ---
 
 ### Il biscottificio, l'allegoria
 
-Per parlare serenamente di un fatto sociale che ha attraversato la storia e non solo quella occidentale, è bene prendere in considerazione un'allegoria che ci permetta di valutare la questione da un punto di vista più neutrale. Perché già nel termine corruzione vi è insito un pregiudizio, oggigiorno.
+Per affrontare serenamente un fenomeno sociale che attraversa la storia, e non solo quella occidentale, è utile ricorrere a un'allegoria. Essa permette di valutare la questione da un punto di vista più neutrale, evitando i pregiudizi impliciti nella parola "corruzione", che oggigiorno suscita ipocrite reazioni viscerali.
 
-Ciò porta, ovviamente, anche a un'ipocrisia isterica per la quale si nega pubblicamente e si agisce nell'ombra. Come criminali, come ladri, come appunto coloro che sanno di fare qualcosa di sbagliato ma non possono farne a meno, perché compulsivi e se non compulsivi,forzati dallo stato di necessità.
+Tale pregiudizio genera spesso un'ipocrisia isterica per la quale si nega pubblicamente ciò che si compie nell'ombra, comportandosi come criminali o ladri, consapevoli di fare qualcosa di sbagliato ma incapaci di farne a meno, per compulsione o per presunto stato di necessità.
 
-Perciò introdurremo il concetto di , quale macchina produttrice di irresistibili biscotti:
+Ecco quindi introdotto il concetto del biscottificio, una macchina che produce irresistibili biscotti:
 
-> Perché sono i biscotti la ragione per la quale ci alziamo dal letto la mattina. Giusto?
+> Perché sono i biscotti la ragione per la quale ci alziamo dal letto la mattina, giusto?
 
-Immediatamente, si eleva dal profondo della pancia anche un'altra domanda:
+Immediatamente, sale dal profondo della pancia anche un'altra domanda:
 
 > Dove sono i miei biscotti, Zio ladro?
 
