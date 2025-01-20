@@ -116,7 +116,7 @@ Però visto che la moneta è cartolare allora il sistema si comporta come se ave
 
 * 209 - **A melting planet** - [**`[PDF](../pdf.todo/209-A_melting_planet.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/melting-planet-roberto-a-foglietta) (2019-02-26)
 
-* 205 - **I sette livelli del biscottificio** - [**`[PDF](../pdf.todo/205-I_sette_livelli_del_biscottificio.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/i-sette-livelli-del-biscottificio-roberto-a-foglietta) (2019-01-30)
+* 205 - [I sette livelli del biscottificio](205-i-sette-livelli-del-biscottificio.md#?target=_blank) (2019-01-30)
 
 * 195 - **Un mondo nuovo sta cominciando** - [**`[PDF](../pdf.todo/195-Un_mondo_nuovo_sta_cominciando.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/il-mondo-nuovo-sta-cominciando-roberto-a-foglietta)
 
