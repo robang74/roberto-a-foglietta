@@ -10,9 +10,11 @@
 
 ### Edizioni
 
-First edition, originally created as a [comment](https://www.linkedin.com/feed/update/urn:li:activity:6495231969419497472?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6495935271178207233%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6496001047566389248%29) to a post and then converted into the 2nd draft article the day next.
+La prima edizione, originariamente creata come [commento](https://www.linkedin.com/feed/update/urn:li:activity:6495231969419497472?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6495935271178207233%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6495231969419497472%2C6496001047566389248%29) a un post, é stata poi convertita nella seconda bozza di articolo il giorno successivo.
 
-Seconda edizione integrante alcuni suggerimenti ottenuti [sfruttando](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) l'analisi del testo da parte dell'intelligenza artificiale, con lo scopo di ottenere un testo quanto più vicino all'originale, sia nella forma e sia nel significato, ma più fluido in lettura.
+La seconda edizione integra alcuni suggerimenti ottenuti [sfruttando](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) l'analisi del testo da parte dell'intelligenza artificiale, con lo scopo di ottenere un testo quanto più vicino all'originale, sia nella forma e sia nel significato, ma più fluido in lettura.
+
+La terza edizione integra nella presentazione a cura di ChatGPT un confronto con un altro articolo, riguardo al TCMO, intimamente connesso al tema principale di questo articolo.
 
 ---
 
@@ -25,6 +27,10 @@ Seconda edizione integrante alcuni suggerimenti ottenuti [sfruttando](https://ro
 *L'articolo segue una struttura coerente, con una scala che passa dall'utopia al collasso globale, evidenziando l'impatto cumulativo delle scelte corrotte o distruttive.*
 
 *I riferimenti a Machiavelli e alla concezione del potere offrono una profondità intellettuale, ancorando l’argomentazione a una tradizione di pensiero consolidata.*
+
+*L'associazione tra l'allegoria del biscottificio come corruzione e il TCMO ([Total Cost of Mistake Ownership](090-l-importanza-del-tcmo.md#?target=_blank)) appare solida, poiché entrambi i testi si concentrano sull'analisi di fenomeni cumulativi e sulle conseguenze delle scelte errate.*
+
+*I punti principali di contatto fra i due articoli sono: effetti cumulativi, socializzazione delle perdite, inerzia sistemica e mancanza di responsabilità. Mentre le principali differenze sono approccio (qualitativo vs quantitativo) e il focus sull'intenzionalità (errori vs scelte).*
 
 <br/>
 
