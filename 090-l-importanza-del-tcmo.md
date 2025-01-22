@@ -20,7 +20,7 @@ In questa revisione del testo originale mi sono fatto [aiutare](https://robang74
 
 * a cura di ChatGPT 4o
 
-<hr class="post-it">
+...
 
 *Il concetto di TCMO (Total Cost of Mistake Ownership) è fondamentale per comprendere gli effetti cumulativi degli errori e la loro rilevanza su scala globale, soprattutto in un contesto di risorse finite e sistemi interconnessi. Affrontare gli errori in modo proattivo è essenziale per evitare che diventino insostenibili.*
 
@@ -32,7 +32,7 @@ In questa revisione del testo originale mi sono fatto [aiutare](https://robang74
 
 *Il TCMO offre un framework potente per interpretare e affrontare le sfide del nostro tempo, fornendo strumenti per ottimizzare le scelte individuali e collettive in un mondo sempre più complesso.*
 
-<hr class="post-it">
+...
 
 <br/>
 
@@ -70,7 +70,7 @@ Riguardo alla rielaborazione dei concetti oltre all'inerzia individuale dovuta a
 
 > Siamo animali sociali piuttosto che cercatori di verità.
 > 
-> Jeff Besoz, fondatore di Amazon.
+> &mdash; Jeff Besoz, fondatore di Amazon.
 
 #### Pensiero lineare
 
@@ -124,7 +124,9 @@ Sotto il punto di vista antropologico il concetto dello TCMO evade tutte le micr
 
 Questa citazione, spesso erroneamente attribuita ad Albert Einstein, si ritrova nel romanzo intitolato "Sudden Death" della scrittrice americana Rita Mae Brown pubblicato nel 1984. Curiosamente, si ritiene che l'autrice nel riportare quel concetto l'abbia tratto da dei documenti datati 1981 di Narcotici Anonimi, un'associazione internazionale che sul modello di Alcolisti Anonimi aiuta le persone a superare la dipendenza da sostanze stupefacenti, all'epoca principalmente eroina ed altri oppiacei.
 
-#### Perché questo concetto sta diventando predominante? 
+---
+
+### Perché questo concetto sta diventando predominante?
 
 * Perché in un economia globale e su un pianeta sferico con risorse finite, gli altri siamo noi. Karma.
 
@@ -196,7 +198,7 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 ## Related articles
 
-* 295 - [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.html?target=_blank) (2024-12-14)
+* 295 - [Il cambiamento climatico, questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) (2024-12-14)
 
 * 092 - **Paradosso di Fermi e Singolarità A.I.** - download [[**`PDF`**](../pdf.todo/092-Paradosso_di_Fermi_e_Singolarità_AI.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/paradosso-di-fermi-e-singolarit%C3%A0-ai-roberto-a-foglietta) (2017-10-16)
 
@@ -210,7 +212,7 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 * 021 - **Project Management: concetti di base** - download [[**`PDF`**](../pdf.todo/021-Project_Management_concetti_di_base.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/project-management-concetti-di-base-roberto-a-foglietta) (2016-10-19)
 
-* 006 - **L'illusione del controllo** - download [[**`PDF`**](../pdf.todo/006-L_illusione_del_controllo.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta) (2016-04-17)
+* 006 - [L'illusione del controllo](006-l-illusione-del-controllo.md#?target=_blank) (2016-04-17)
 
 <br/>
 
