@@ -28,16 +28,22 @@ warn_A='<span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon"'\
 ' 1 0 0 1 2 0Z"></path></svg>'$warn_a'</span>'
 warn_A=$(echo "$warn_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
 
-info_a='<nobr class="alerts" translate="no">&nbsp;&nbsp;&middot;NOTICE&middot;&nbsp;&nbsp;</nobr>'
+note_A='<nobr class="alerts" translate="no">&nbsp;&nbsp;&middot;NOTICE&middot;&nbsp;&nbsp;</nobr>'
 
 # RAF, 2024-12-26: the svg code has been taken by github to be used with github
-info_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
+note_A='<span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon"'\
 ' viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">'\
 '<path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5'\
 ' 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75'\
 ' 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1'\
-' 1 0-2 1 1 0 0 1 0 2Z"></path></svg>'$info_a'</span>'
-info_A=$(echo "$info_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+' 1 0-2 1 1 0 0 1 0 2Z"></path></svg>'$note_A'</span>'
+note_A=$(echo "$note_A" | sed -e "s,\,,\\\,g" -e "s,\&,\\\&,g")
+
+info_A='<div class="post-it"><b class="post-it">\&#9432;</b>'
+info_B='</div>'
+
+cite_A='<blockquote class="cite">'
+cite_B='</blockquote>'
 
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
 
@@ -86,11 +92,13 @@ function md2htmlfunc() {
     done
     eval "$cmd"
 
-    sed -e "s,^>$,> ," -e "s,@,\&commat;,g" \
--e "s,\[\!WARN\],$warn_A,g" -e "s,\[\!WARNING\],$warn_A,g" \
--e "s,\[\!NOTE\],$info_A,g" -e "s,\[\!INFO\],$info_A,g" \
--e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
--e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
+    sed -i $2 -e "s,^>$,> ,"  -e "s,@,\&commat;,g" \
+-e "s,\[\!WARN\],$warn_A,"    -e "s,\[\!WARNING\],$warn_A," \
+-e "s,\[\!NOTE\],$note_A,"    -e "s,\[\!NOTICE\],$note_A," \
+-e "s,^\[\!CITE\],$cite_A,"   -e "s,^\[/CITE\],$cite_B," \
+-e "s,^\[\!INFO\],$info_A,"   -e "s,^\[/INFO\],$info_B," \
+-e "s,m\*rda,m\&astr;rda,g"   -e "s,sh\*t,sh\&astr;t,g" \
+-e "s,c\*zzo,c\&astr;zzo,g"   -e "s,d\*ck,d\&astr;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br/>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e 's,^# \(.*\),<H1 id="\1">\1</H1>,' \
@@ -104,7 +112,7 @@ function md2htmlfunc() {
 -e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
--e "s,^ *$,<p/>," -e "s,^---.*,<hr>," -i $2
+-e "s,^ *$,<p/>," -e "s,^--- *,<hr>," -e 's,^\.\.\. *,<hr class="post-it">,'
 
 function fx() {
     local i strn find file=$1; shift
@@ -119,6 +127,14 @@ function fx() {
 
     tf=$2.tmp
     cat $2 | tr '\n' '@' >$tf
+    while true; do
+        str=$(sed -ne 's,__,<u>,' -e 's,__,</u>,p' $tf);
+        if [ -n "$str" ]; then
+            sed -e 's,__,<u>,' -e 's,__,</u>,' -i $tf
+        else
+            break
+        fi
+    done
     while true; do
         str=$(sed -ne 's,\*\*,<b>,' -e 's,\*\*,</b>,p' $tf);
         if [ -n "$str" ]; then
