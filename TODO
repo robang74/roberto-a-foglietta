@@ -5,17 +5,13 @@
 + md2html.sh: improve session tagging (c lang.)
 + md2html.sh: ^a]) should be a <li> with letters
 + md2html.sh: ^[:space:]* is text indentation
-+ ptopbar.sh: put revision on a new line for ff
-+ index.html like pdf.*/ also for data/ folder
 + md2html.sh: any <meta/style> move in <head>
 + md2html.sh: [.*](data) should be managed?
 + md2html.sh: **`CAPITALS`** -> translate=no
-+ md2html.sh: convert the \~~ ipostit ~\~ box
 + md2html.sh: codify sub-note in md/html conv.
-+ add an colorish.css to handle dif. c. shades
-+ md2html.sh: convert __text__ in underlined
 + md2html.sh: ~~ and ^^ for sentence sub/sub
 + md2html.sh: at exit rm -f html/*.tmp (^C)
++ md2html.sh: <--*/&larr; -*->/&rarr; --/&mdash;
 
 # DONE
 
@@ -28,3 +24,9 @@ v md2html.sh: all sections should be tagged (id)
 v ptopbar.sh: being able to switch fair/dark css
 v md2html.sh: local link &target=_blank support
 v ptransl.sh: deal with IT-EN/EN-IT locally
+v md2html.sh: convert __text__ in underlined
+v md2html.sh: convert the \~~ ipostit ~\~ box
+              [!INFO] and [/INFO] used, insted
+x add an colorish.css to handle dif. c. shades
+v index.html like pdf.*/ also for data/ folder
+v ptopbar.sh: put revision on a new line for ff
