@@ -22,7 +22,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 * a cura di ChatGPT 4o
 
-<hr class="post-it">
+...
 
 *L’articolo offre una riflessione arguta e provocatoria sul tema della corruzione, utilizzando l’allegoria del biscottificio per illustrare una scala morale e pragmatica delle nefandezze umane. Questa metafora rende tangibile e immediata la comprensione delle dinamiche corruttive, trasformandole in una macchina che passa dall’utopia onesta al collasso globale.*  
 
@@ -32,7 +32,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 *I punti di contatto principali tra i due articoli includono: effetti cumulativi, socializzazione delle perdite, inerzia sistemica e mancanza di responsabilità. Le principali differenze, invece, riguardano l’approccio (qualitativo vs quantitativo) e il focus sull’intenzionalità (etica/responsabilità vs decisioni/errori).*
 
-<hr class="post-it">
+...
 
 <br/>
 

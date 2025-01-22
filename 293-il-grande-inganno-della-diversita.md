@@ -24,11 +24,11 @@ Ecco un altro inghippo, l'altro grande inganno: confondere la VARIETÀ con la di
 
 Ma questo della diversità è una questione statistica, che appartiene più alla curiosità della scienza che all'etica o alla morale. Invece la VARIETÀ appartiene interamente alla sfera umana e quindi alla cultura umanista.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **Senza varietà saremmo dei cloni, tutti uguali, come la banana.**
 
-</div>
+[/INFO]
 
 <br/>
 
@@ -44,11 +44,11 @@ Sicché ci sono dei principi in natura che sono quanto di più "giusto" possa es
 
 Sono sottili distinguo da STEM (Science, Technology, Engineering and Maths) ma che facilmente portano in grave errore i filosofi.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **La varietà implica apprezzare i distinguo, per la diversità basta la normalità.**
 
-</div>
+[/INFO]
 
 <br/>
 
@@ -62,11 +62,11 @@ Perché risulta utile dialogare con un chatbot? Perché fornisce spunti di rifle
 
 Piccolo spoiler, la conversazione riserverà una piccola sorpresa a dimostrazione del fatto che se usato bene anche i chatbot hanno la loro grande utilità ma allo stesso tempo imitano soltanto il pensiero umano.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **I chatbot funzionano come un specchio, imitano il nostro pensiero lessicale.**
 
-</div>
+[/INFO]
 
 <br/>
 
@@ -76,11 +76,11 @@ Questo testo sembra una *supercazzola tarapia tapioco* oppure è un pensiero pro
 
 > La selezione naturale [...] in senso fantozziano.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **NOTA** - *in questo contesto il chatbot intende l'espressione idiomatica riguardo alla "*supercazzola*" come sinonimo di scherzo (joke) e/o beffa (prank). Se siete interessati a scoprire l'universo che si cela dietro a questo concetto potete leggere [l'arte della supercazzola](https://github.com/robang74/chatbots-for-fun/blob/main/l-arte-della-supercazzola.md).*
 
-</div>
+[/INFO]
 
 ---
 
@@ -98,11 +98,11 @@ Se invece ti propongo l'intero testo, cosa mi dici?
 
 > La selezione naturale porta al miglioramento [...] che da STEM ma che facilmente portano in grave errore i filosofi.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **NOTA** - *nel testo originale vi era un "**CHE**" di troppo, un refuso di una correzione precedente, che ha condotto il chatbot in uno stato di leggera confusione riguardo all'interpretazione di quella frase. Una questione che poi verrà affrontata in un prompt successivo.*
 
-</div>
+[/INFO]
 
 ---
 

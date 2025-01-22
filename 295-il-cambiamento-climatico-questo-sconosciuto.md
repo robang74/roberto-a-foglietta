@@ -58,13 +58,13 @@ Aggiungiamo che il green-business è tarato su parametri arbitrari (finestrini) 
 
 Non ho motivo di contestare la stima di Zichichi e non ho dati o un modello di riferimento pubblicamente disponibile per supportare quella stima. La prendo per buona.
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 **Nota** - dichiarazione verificata dopo la scrittura dell'articolo:
 
 - secondo Zichichi non superiore al 10%, probabilmente il 5% a suo parere.
 
-</div>
+[/INFO]
 
 Ricordiamoci però che un 5% può sembrare poco e sicuramente è trascurabile se va in controfase con il trend naturale (raffreddamento naturale + riscaldamento antropico) già meno bene se invece va in fase con quello naturale (riscaldamento naturale + riscaldamento antropico) perché potrebbe portarci fuori dalla zona stabile.
 

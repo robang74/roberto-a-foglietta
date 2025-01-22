@@ -138,13 +138,13 @@ Whatever, let me just pointing out few details:
 
 - the candidate opinion is not his opinion but the silly idea of an Italian university professor of Economics that wonder to win a Nobel prize for having saved a rootly-rotten system by itself
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 Another yet-to-be-discovered Italian drag queen who is going to make as much damage as the dynamite invented by Nobel – mixing the idea that “words alone” (aka fairy tales) can change reality when used in politics because consensus can achieve miracles (aka stupidity is supposedly unlimited, but in doing disasters not in doing good).
 
 I know because I am the one who triggered that insane personality to act as he is acting.Which gave me the chance to write this piece of literature for hopefully posterity whether they will be human or anything else survived to our madness or who will evolve or arrive after our “happy ending”.
 
-</div>
+[/INFO]
 
 However, even supposing to have addressed all of these properly let me highlight few but relevant points:
 

@@ -22,11 +22,11 @@ ${SECTION_ONE_CONTENT}
 
 ### ${SECTION_NTH_TITLE}
 
-<div class="post-it"><b class="post-it">&#9432;</b>
+[!INFO]
 
 ${postit_text_content}
 
-</div>
+[/INFO]
 
 ${SECTION_NTH_TEXTONLY}
 
