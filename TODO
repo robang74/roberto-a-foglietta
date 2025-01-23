@@ -12,6 +12,7 @@
 + md2html.sh: ~~ and ^^ for sentence sub/sub
 + md2html.sh: at exit rm -f html/*.tmp (^C)
 + md2html.sh: <--*/&larr; -*->/&rarr; --/&mdash;
++ psitemap.sh: sperate code from its enviroment
 
 # DONE
 
