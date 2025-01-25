@@ -92,13 +92,14 @@ function md2htmlfunc() {
     done
     eval "$cmd"
 
-    sed -i $2 -e "s,^>$,> ,"  -e "s,@,\&commat;,g" \
--e "s,\[\!WARN\],$warn_A,"    -e "s,\[\!WARNING\],$warn_A," \
--e "s,\[\!NOTE\],$note_A,"    -e "s,\[\!NOTICE\],$note_A," \
--e "s,^\[\!CITE\],$cite_A,"   -e "s,^\[/CITE\],$cite_B," \
--e "s,^\[\!INFO\],$info_A,"   -e "s,^\[/INFO\],$info_B," \
--e "s,m\*rda,m\&astr;rda,g"   -e "s,sh\*t,sh\&astr;t,g" \
--e "s,c\*zzo,c\&astr;zzo,g"   -e "s,d\*ck,d\&astr;ck,g" \
+    sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
+-e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
+-e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
+-e "s,>  *\[\!INFO\],> $note_A," \
+-e "s,^\[\!CITE\],$cite_A," -e "s,^\[/CITE\],$cite_B," \
+-e "s,^\[\!INFO\],$info_A," -e "s,^\[/INFO\],$info_B," \
+-e "s,m\*rda,m\&astr;rda,g" -e "s,sh\*t,sh\&astr;t,g" \
+-e "s,c\*zzo,c\&astr;zzo,g" -e "s,d\*ck,d\&astr;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br/>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e 's,^# \(.*\),<H1 id="\1">\1</H1>,' \
@@ -112,7 +113,9 @@ function md2htmlfunc() {
 -e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
--e "s,^ *$,<p/>," -e "s,^--- *,<hr>," -e 's,^\.\.\. *,<hr class="post-it">,'
+-e 's,^\.\.\.\.* *$,<hr class="post-it">,' \
+-e "s,^\-\-\-\-* *$,<hr>," \
+-e "s,^ *$,<p/>,"
 
 function fx() {
     local i strn find file=$1; shift
