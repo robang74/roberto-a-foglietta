@@ -5,16 +5,17 @@
 ## Socialism is not Communism
 
 > [!WARN]
-> 
+>
 > **Work in Progress - 1<sup>st</sup> unreviewed draft despite rev. number > 1!**
 
 There is a biased misconception about these two terms and it is rooted into a misunderstanding of these two concepts mainly based on a biased education system.
 
 * [mass education system and propaganda]()
 
-Someone that have learned since the childhood something, despite that idea is false and wrong, it rarely put that idea under revision in later times of life but more probably s/he will do as much as possible to confirm and support that bias.
+Someone that has learned something since childhood, despite that idea being false and wrong, rarely puts that idea under revision in later times of life but more probably s/he will do as much as possible to confirm and support that bias.
 
-> After all, we are much more social animals rather than truth seekers --Jeff Bezos, Amazon
+> After all, we are much more social animals rather than truth seekers.
+> -- Jeff Bezos, Amazon
 
 Good time as well as a good starting point to put the idea that socialism = communism under deep scrutiny by facts.
 
@@ -40,7 +41,7 @@ Please notice that **basic needs** as above cited are those really basic like ea
 
 Therefore, the **basic needs** as intended above is a set (of rights, when granted) that changes in relationship with civilisation development or by contrary, civilisation regression.
 
-* [economy vs financial, finite resource system](TOOD) (yyyy-mm-dd)
+* [economy vs financial, finite resource system](TOOD) (YYYY-MM-DD)
 
 Please, do not confuse taking care about **basic needs** with the assistencialism. Again here, the `-ism` postfix is warning us that it is an ideology, because in a finite resources planet, the idea to support everyone for as much long time as s/he wishes, it is not sustainable. Which is strictly related with economic capitalism not financial capitalism.
 
@@ -48,17 +49,36 @@ Please, do not confuse taking care about **basic needs** with the assistencialis
 
 ### The pragmatic socialists
 
-Among the "good socialists", we can put Steve Jobs who claimed - *it does not make sense hire people smarter than you and tell them how/what they should do, we pay them to tell us what/how we have to do* - which implies to take care of "our" people and let them be free enough to pay back the care we gave to them. Another one is Jeff Bezos - *take care of your employees and they will take care of your customers* - and your customers will make you rich. 
+Among the "good socialists", we can put Steve Jobs who claimed
+
+- it does not make sense hire people smarter than you and tell them how/what they should do, we pay them to tell us what/how we have to do
+
+which implies to take care of "our" people and let them be free enough to pay back the care we gave to them. Another one is Jeff Bezos
+
+- take care of your employees and they will take care of your customers
+
+and your customers will make you rich.
 
 Also the best collaboration-or-deceit game strategy (when random players are involved, cfr [here](TODO)) is the so named "tic-for-tac" which is fundamentally the ancient Roman
-proverb "do ut des" - *I give to you in order you give to me* - or leading by example - *I do this because you do like me* - or reciprocity, if you prefer.
+proverb "do ut des"
 
-Under this point of view, a socialist country like Swiss - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able
-to do that).
+- I give to you in order you give to me
 
-* [Ubuntu society, pros vs cons](TODO) (yyyy-mm-dd)
+or leading by example
 
-Which finally brings us to consider the ancient african word "ubuntu" - *I am what I am, because you are what you are* - the same reciprocal and mutual relationship between the individual and the society.
+- I do this because you do like me
+
+or reciprocity, if you prefer.
+
+Under this point of view, a socialist country like Swiss - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
+
+* [Ubuntu society, pros vs cons](TODO) (YYYY-MM-DD)
+
+Which finally brings us to consider the ancient african word "ubuntu":
+
+- I am what I am, because you are what you are
+
+the same reciprocal and mutual relationship between the individual and the society. Plus, the idea that individuals are the product of the society (or the part of the society related to them).
 
 ---
 
@@ -67,7 +87,7 @@ Which finally brings us to consider the ancient african word "ubuntu" - *I am wh
 So, for all those who want to succeed in ruling a kingdom (any kind of), first they have to take care of their people which also includes educating them enough. In particular in learning by doing and how to learn. And despite some events related to ungratefulness and greed, the most part of "our people" will be on our side (or ended up on our side) because
 the "kingdom" is the "system" that grants them the **basic rights** to fulfil their **basic needs** and NO ANY civilization or kingdom can prosperate when it sucks life from its own people.
 
-Under this PoV, when "socialism" is intended as a practical approach instead of an ideology which easily messes up with "assistencialism", then it works wonderfully and it has worked in that way since the beginning of civilization - by definition of Margaret Mead, an US woman scientist.
+Under this PoV, when "socialism" is intended as a practical approach instead of an ideology which easily messes up with "assistencialism", then it works wonderfully and it has worked in that way since the beginning of civilization by the definition of Margaret Mead, an US woman scientist.
 
 ---
 
@@ -89,15 +109,15 @@ We can notice a common ground about human ethics among different civilisations, 
 
 Which suggests us that ethics can be universal while moral is personal, each one of us has its own beliefs. Which is a human right, after all. The reason human ethics can be universal is because it addresses in a top-down manner how to manage situations, relationships and primordial instincts.
 
-Explaining with an example can be useful. Punching someone is not bad because impolite but it is bad because it is dangerous. The victim can have a reaction that may vary between doing nothing else and pardoning us for our unfairness up to killing us as a response to our assault.
+Explaining with an example can be useful. Punching someone is not bad because it is impolite but it is bad because it is dangerous. The victim can have a reaction that may vary between doing nothing else and pardoning us for our unfairness up to killing us as a response to our assault.
 
 From a collective PoV, bullying someone by a group might lead us to the wrong conclusion that it is ok because it is not dangerous because the single one bullied by many has no options.
 
 Reality shows us that college mass shootings are related more to the bullying attitude than the availability of weapons. Which clearly plays a role in the seriousness of every incident but it is not the root cause.
 
-Therefore, we might believe that assaulting or bullying someone is bad because it is not a nice action. Which is undoubtedly true from a reciprocal PoV, we would not be the victim. But at the same we cannot overlook that from a {society, culture, civilisation, king, etc.} actions are bad because they introduce a high level of unfairness and then they potentially lead with a bad outcome, hence forbidding those actions is about mitigating risks related to a dangerous behaviour.
+Therefore, we might believe that assaulting or bullying someone is bad because it is not a nice action. Which is undoubtedly true from a reciprocal PoV, we would not be the victim. But at the same we cannot overlook that from a {society, culture, civilisation, king, etc.} actions are bad because they introduce a high level of unfairness and then they potentially lead with a bad outcome, hence forbidding those actions is about mitigating risks related to dangerous behaviour.
 
-You might be upset that good as ethics is aligned with good as practice and vice versa, also for their opposite. Or we might not even be surprised that human ethics developed in a way that {society, culture, civilisation, king, etc.} adopt it will have a sensitive natural selection advantage compared to others, e.g. whom eat their own children (like Communist rumors reported once upon a time).
+You might be upset that good as ethics is aligned with good as practice and vice versa, also for their opposite. Or we might not even be surprised that human ethics developed in a way that {society, culture, civilisation, king, etc.} will have a sensitive natural selection advantage compared to others, e.g. who eat their own children (like the rumors about Communists were reporting once upon a time).
 
 * [humans ethics vs theory of the games](TODO) (YYYY-MM-DD)
 
@@ -135,7 +155,7 @@ People who do not understand the cause-effect relationships are going to see lif
 
 > Everything happens for a reason.
 
-even when we are not able to know nor understand why. Interestingly, the motto changed, once it reached a certain level of civilisation in which the coordinated work of many people started to be used in supply real-world adversities, included defending the wealth generated by that work from custom robbery and foreign enemies.
+even when we are not able to know nor understand why. Interestingly, the motto changed, once it reached a certain level of civilization in which the coordinated work of many people started to be used to supply real-world adversities, including defending the wealth generated by that work from custom robbery and foreign enemies.
 
 > Life is hard.
 
@@ -145,9 +165,9 @@ Once the scientific method enriched our civilization with a deeper knowledge abo
 
 Tizio can be the most lovable person with a nice family while Caio can be the worst human being living on the Earth but when they drive on Ponte Morandi in Genoa, the day in which it collapsed, both faced the same fate. Whoever they were, whatever the reason they were driving a car in that place at that time.
 
-Within a reasonable and ideal anthropomorphism of the reality, we can say that Mrs. Reality enters a room without any previous warning, slams the door against the face of whoever is behind it, does not ask pardon for it, and then she lives when she likes. Is she brutal, right?
+Within a reasonable and ideal anthropomorphism of reality, we can say that Mrs. Reality enters a room without any previous warning, slams the door against the face of whoever is behind it, does not ask pardon for it, and then she lives when she likes. Is she brutal, right?
 
-Under this PoV, we can please ourselves in our room space and enjoy our own party, ignoring that Mrs. Reality exists until, she get into the room and sh*t starts to rain like it's in the middle of a hurricane. Hence, we can ignore her, but not the consequences of ignoring her.
+Under this PoV, we can please ourselves in our room space and enjoy our own party, ignoring that Mrs. Reality exists until she gets into the room and sh*t starts to rain like it's in the middle of a hurricane. Hence, we can ignore her, but not the consequences of ignoring her.
 
 ---
 
@@ -155,7 +175,7 @@ Under this PoV, we can please ourselves in our room space and enjoy our own part
 
 When we leave "our people" alone in the cold-freezing times, they will - necessarily - look around for a new king or move to a new kingdom. Which is counter fact checking to negate practical socialism benefits.
 
-So, when we meet an American citizen who claims that socialism is bad or it is like communism, we can firmly shake his/her hand and say: 
+So, when we meet an American citizen who claims that socialism is bad or it is like communism, we can firmly shake his/her hand and say:
 
 > it is great how you managed to survive without any kind of pragmatic socialism...
 
@@ -163,7 +183,11 @@ keeping in our mind the second part of this claim
 
 > ...only idiots dare to live like that because also monkeys takes cares each others despite being animals
 
-Believe me, believing is not the problem here. God puts a brain in our heads, use it properly!
+Believe me, **believing** is not the problem here. God puts a brain in our heads, use it properly!
+
+[alla ricerca del gatto che non c'è](TODO) (YYYY-MM-DD)
+
+Just in case you like to get deep into the difference between "faith" and "religion" and in particular "organised religion" the above article highlight that difference with humor but also a strong critical approach concluding that "organised religion" is for those whom their faith is so weak that they need to affiliate "corporation" to sustain their own ego in defending their personal moral (or hypocritically impose their biases over others in the aim to control them by the guilty feelings).
 
 ---
 
@@ -171,21 +195,21 @@ Believe me, believing is not the problem here. God puts a brain in our heads, us
 
 Finally, we may have reached a point for which understanding why Feudalism endure about ten centuries (*), much more than the ancient Roman Empire, despite in Dark Age society relies on a much less advanced technology, striving with a quite universal ignorance included those were arguing about nothing but using Latin, and leveraging a much lesser variety of culture but a great isolation.
 
- - The period from the Capitulary of Quierzy (877) to the French Revolution (1789) spans roughly ten centuries.
+ - The period from the Capitulary of Quierzy (877) to the French Revolution (1789) spans roughly ten centuries.
 
 Because in its bare core values, also the most cruel lord was deeply rooted into values that grant some basic care to the people including those named "[servi della gleba](https://it.wikipedia.org/wiki/Servit%C3%B9_della_gleba)" (lat. servus glebae, serfdom) which we might think was a kind of slavery related to the land.
 
-Every feudal landlord - as every farmer of any time in the human history of farming and breeding - was undoubtedly aware that his prosperity was related to the prosperity of the people living on his lands, at the point to forbid and punish every attempt to move away from his lands unless his permission, like it were cattle, 
+Every feudal landlord, as every farmer of any time in the human history of farming and breeding, was undoubtedly aware that his prosperity was related to the prosperity of the people living on his lands, at the point to forbid and punish every attempt to move away from his lands unless his permission, like it were cattle,
 
 - It is obvious that the less your cattle eat the less milk or meat they provide to you.
 
-- It is obvious that the more ill they are less they survive and every death among them is a lost.
+- It is obvious that the more ill they are, the less they survive and every death among them is a loss.
 
-- It is obvious that as they were trained to freely eat the grass, as much it is needed to keep them in a covered place and feed them by our hard work (micromanagement).
+- It is obvious that as they were trained to freely eat the grass, it is needed to keep them in a covered place and feed them by our hard work (micromanagement).
 
 - It is obvious that unless they are provided a safe shelter for the night and bad weather times, they are going to be predated by wolves or get ill or get lost.
 
-All of these points were pretty damn clear in the mind of **every** feudal landlords, included the most mundane, ignorant and cruel ones.
+All of these points were pretty damn clear in the mind of **every** feudal landlords, including the most mundane, ignorant and cruel ones.
 
 Despite this evidences, there are many people in the world with a peculiar concentration in USA that believe socialism (as a practical way of caring about our own business as ruling kings) is as bad as communism, even when they are relatively poor and living on food stamps (which is relatively sane form of assistencialism, Caritas free meals program docet).
 
@@ -199,7 +223,7 @@ The picture at the top of this article is a revisited photo of an existing fount
 
 * [Draghi vs Ciuchino](TODO) (YYYY-MM-DD)
 
-This paper above shows in appalling way how a dystopic system leverage burocracy becomes incapable of producing real value for their citizens and waste resources in a useless when not also damagin verbosity and overcomplicated normatives. In fact, we have to remember that public servant are the State servant but the State authority relies in its ability to address the **basic needs** of its citizens and to administrate a **fair** justice.
+This paper above shows in an appalling way how a dystopian system that leverages bureaucracy becomes incapable of producing real value for their citizens and wasting resources in a useless way when not also damaging verbosity and overcomplicated normatives. In fact, we have to remember that public servants are the State servants but the State authority relies on its ability to address the **basic needs** of its citizens and to administrate a **fair** justice.
 
 > In the absence of justice, what is sovereignty but organized robbery.
 > -- St. Augustine, early 5th century Bishop of Hippo.
@@ -220,4 +244,3 @@ Therefore a concept that allows us to leverage the best in the class, whatever w
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
