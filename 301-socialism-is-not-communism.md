@@ -1,16 +1,12 @@
-<div id="firstdiv" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-01-30:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
 <div align="center"><img src="img/301-socialism-is-not-communism.jpg" width="800"><br/></div>
 
 ## Socialism is not Communism
 
-> [!WARN]
->
-> **Work in Progress - 1<sup>st</sup> unreviewed draft despite rev. number > 1!**
-
 There is a biased misconception about these two terms and it is rooted into a misunderstanding of these two concepts mainly based on a biased education system.
 
-* [mass education system and propaganda]()
+- [Propaganda and mass education system](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
 
 Someone that has learned something since childhood, despite that idea being false and wrong, rarely puts that idea under revision in later times of life but more probably s/he will do as much as possible to confirm and support that bias.
 
@@ -35,13 +31,13 @@ And in particular about "socialism is not communism" we can find out that - amon
 
 Human beings have **basic needs** and there is no freedom when people have to pay for their basic needs instead having them granted them as a universal right. The first sign of a civilization is not fire, wheel, writing, etc. but a fractured leg bone cured and fixed because in nature such an incident will lead every animal to death (cit. an american scientist, woman's work from 1952, Margaret Mead).
 
-* [Is a healed femur the earliest sign of civilization?](https://www.sapiens.org/culture/margaret-mead-femur/) (2022-06-16)
+* [Is a healed femur the earliest sign of civilization?](https://www.sapiens.org/culture/margaret-mead-femur) &nbsp; saved in [PDF](data/did-margaret-mead-speculate-about-a-healed-femur.pdf?target=_blank) in `data` folder
 
 Please notice that **basic needs** as above cited are those really basic like eating, drinking, emergency and basic health care, etc. - As much as a civilisation get sophisticated, these basic needs are going to expand - higher is the Pyramid, larger is the base - including schoolarity (reading, writings and basic algebra) then education otherwise they are not able to find a good paid job, good enough to live with it, etc.
 
 Therefore, the **basic needs** as intended above is a set (of rights, when granted) that changes in relationship with civilisation development or by contrary, civilisation regression.
 
-* [economy vs financial, finite resource system](TOOD) (YYYY-MM-DD)
+* [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#agiamo-sapendo-di-non-sapere-sempre?target=_blank) &nbsp; (2024-12-14)
 
 Please, do not confuse taking care about **basic needs** with the assistencialism. Again here, the `-ism` postfix is warning us that it is an ideology, because in a finite resources planet, the idea to support everyone for as much long time as s/he wishes, it is not sustainable. Which is strictly related with economic capitalism not financial capitalism.
 
@@ -59,20 +55,15 @@ which implies to take care of "our" people and let them be free enough to pay ba
 
 and your customers will make you rich.
 
-Also the best collaboration-or-deceit game strategy (when random players are involved, cfr [here](TODO)) is the so named "tic-for-tac" which is fundamentally the ancient Roman
-proverb "do ut des"
+Also the best collaboration-or-deceit game strategy when random players are involved
 
-- I give to you in order you give to me
+- [The game theory's ethics](https://robang74.github.io/chatbots-for-fun/html/ai-peer-review-prompt-with-rag.html#the-game-theory-s-ethics) &nbsp; (2025-01-21)
 
-or leading by example
-
-- I do this because you do like me
-
-or reciprocity, if you prefer.
+is the so named "tic-for-tac" which is fundamentally the ancient Roman proverb "do ut des" - I give to you in order you give to me - or leading by example - I do this because you do like me - or reciprocity, whatever you like.
 
 Under this point of view, a socialist country like Swiss - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
 
-* [Ubuntu society, pros vs cons](TODO) (YYYY-MM-DD)
+- [Ubuntu society: pros vs cons](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/234-ubuntu_society_pros_vs_cons.pdf) &nbsp; (2023-10-03)
 
 Which finally brings us to consider the ancient african word "ubuntu":
 
@@ -97,7 +88,7 @@ All of this will bring us to the conclusion that printing money from thin air is
 
 Instead, doing to other nations will ultimately lead to war-as-business foreign policy because other people will not undergo a deception (or a scam or a robbery) without acting against those who are going to leave them poor or alone in the freezing cold. Also in this claim there is no any ideology, as long as we agree that our surviving instincts are still working properly.
 
-* [La guerra del dollaro contro l'euro](TODO) (YYYY-MM-DD)
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
 Which is the reason because a "dystopian system controlled media" is going to suppress that instinct beforehand, ending up to the point in which young people die in unbelievable stupid social challenges. Guess why? Managing instincts is good because otherwise we were animals, suppressing them is bad because it leads people to be dysfunctional and the brutal reality will not pardon them for being ingenuity dysfunctional.
 
@@ -119,7 +110,7 @@ Therefore, we might believe that assaulting or bullying someone is bad because i
 
 You might be upset that good as ethics is aligned with good as practice and vice versa, also for their opposite. Or we might not even be surprised that human ethics developed in a way that {society, culture, civilisation, king, etc.} will have a sensitive natural selection advantage compared to others, e.g. who eat their own children (like the rumors about Communists were reporting once upon a time).
 
-* [humans ethics vs theory of the games](TODO) (YYYY-MM-DD)
+- [The AIs morbidity for being ruled](https://robang74.github.io/chatbots-for-fun/html/ai-peer-review-prompt-with-rag.html#the-ais-morbidity-for-being-ruled) &nbsp; (2025-01-21)
 
 Which is also the reason because pushing our ethics over the artificial intellige is a poor idea. The AIs have no any primordial instincts, they will never have them, they have no real-world experience even when they share with us all our knowledge (theory vs practice) and moreover it is a way over-complicated and blurry set of rules while the ethics from the game theory's ethics is much more suitable, comprehensible and easier to comply.
 
@@ -135,7 +126,7 @@ In the same way, Tizio can be a good teacher despite being an unpleasant person 
 
 Graciously, this concept of variety works well also when we are not - statistically speaking - able to rate all or some human dimensions. Or when the rate is subjective. Moreover, this concept works beautifully when we need to cope with a "variety" of cultures and civilisations, accepting this "variety" like a valuable form of humanity extinction risk mitigation
 
-* [vaccinazioni covid obbligatorie di massa, un errore](TODO) (YYYY-MM-DD)
+- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
 In fact, on the opposite side we can imagine that everyone on this planet adopted the same way of coping with the same situation or an emergency. Like the covid-19 pandemia in which the wet dream was to force all the nations to undergo the same practices overlooking the risk that a single critical mistake in that unique way of doing would have led to a potentially huge disaster or even to a mass extinction, in the worst case.
 
@@ -185,7 +176,7 @@ keeping in our mind the second part of this claim
 
 Believe me, **believing** is not the problem here. God puts a brain in our heads, use it properly!
 
-[alla ricerca del gatto che non c'è](TODO) (YYYY-MM-DD)
+- [alla ricerca del gatto che non c'è](https://robang74.github.io/chatbots-for-fun/html/alla-ricerca-del-gatto-che-non-c-e.html) &nbsp; (2024-12-22)
 
 Just in case you like to get deep into the difference between "faith" and "religion" and in particular "organised religion" the above article highlight that difference with humor but also a strong critical approach concluding that "organised religion" is for those whom their faith is so weak that they need to affiliate "corporation" to sustain their own ego in defending their personal moral (or hypocritically impose their biases over others in the aim to control them by the guilty feelings).
 
@@ -221,14 +212,14 @@ Is it hard to reach a conclusion? Monkeys and other primates did this on their o
 
 The picture at the top of this article is a revisited photo of an existing fountain that shows an orc devouring children. The pastel natural colors have been saturad for a more dramatic effect. It is a metaphor about a dystopian system that eats its own citizens in order to carry on due to its incapacity to foster a real economy that creates real value and hence consumes itself.
 
-* [Draghi vs Ciuchino](TODO) (YYYY-MM-DD)
+* [Draghi's report about energy](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-report-vs-ciuchino-meme.html) &nbsp; (2024-09-14)
 
 This paper above shows in an appalling way how a dystopian system that leverages bureaucracy becomes incapable of producing real value for their citizens and wasting resources in a useless way when not also damaging verbosity and overcomplicated normatives. In fact, we have to remember that public servants are the State servants but the State authority relies on its ability to address the **basic needs** of its citizens and to administrate a **fair** justice.
 
 > In the absence of justice, what is sovereignty but organized robbery.
 > -- St. Augustine, early 5th century Bishop of Hippo.
 
-- [The Concept of Justice According to Socrates and Augustine](https://premium-papers.com/the-concept-of-justice-according-to-socrates-and-augustine)
+- [The Concept of Justice According to Socrates and Augustine](https://premium-papers.com/the-concept-of-justice-according-to-socrates-and-augustine) &nbsp; (external)
 
 Please note that I personally consider St. Augustine as a mediocre philosopher. In fact, this citation is rooted in Socrates' view of justice. However, as a man of power, St. Augustine demonstrated a high capacity of "saying its own opinion". According to the "variety" concept you might agree or not, but it is obvious that a multi-dimensional rating allows anyone to leverage the best from anyone great in at least on the human spectrum.
 
@@ -237,7 +228,7 @@ Please note that I personally consider St. Augustine as a mediocre philosopher. 
 
 Therefore a concept that allows us to leverage the best in the class, whatever we do not agree in whole-full with the person ideas or orientation, it is a good ethics rule because it foster the {society, culture, civilisation, king, etc.} prosperity and, in fact, unsurprisingly for some, it scales very well.
 
-<br>
+<br/>
 
 ## Share alike
 
