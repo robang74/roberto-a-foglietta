@@ -94,7 +94,9 @@ Quando guidiamo l'auto osserviamo il tachimetro ma anche la strada. Agiamo sui p
 
 Quindi, dato ciò che non sappiamo e dato ciò che invece sappiamo, sarebbe il caso di agire sui processi di produzione e consumo in maniera che abbiano impatto minimo. Anche perché siamo tanti e forse pure troppi. Questo sarebbe la linea corretta da tenere.
 
-Però visto che la moneta è cartolare allora il sistema si comporta come se avesse risorse infinite. Ma non esiste! WRONG.
+Però visto che la moneta è cartolare allora il sistema si comporta come se avesse risorse infinite.
+
+Ma non esiste, WRONG!
 
 <br/>
 
