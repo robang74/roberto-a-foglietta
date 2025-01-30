@@ -173,7 +173,7 @@ Finally, we may have reached a point for which understanding why Feudalism endur
 
  - The period from the Capitulary of Quierzy (877) to the French Revolution (1789) spans roughly ten centuries.
 
-Because in its bare core values, also the most cruel lord was deeply rooted into values that grant some basic care to the people including those named "servi della gleba" (lat. servus glebae, serfdom) which we might think was a kind of slavery related to the land.
+Because in its bare core values, also the most cruel lord was deeply rooted into values that grant some basic care to the people including those named "[servi della gleba](https://it.wikipedia.org/wiki/Servit%C3%B9_della_gleba)" (lat. servus glebae, serfdom) which we might think was a kind of slavery related to the land.
 
 Every feudal landlord - as every farmer of any time in the human history of farming and breeding - was undoubtedly aware that his prosperity was related to the prosperity of the people living on his lands, at the point to forbid and punish every attempt to move away from his lands unless his permission, like it were cattle, 
 
@@ -196,6 +196,22 @@ Despite this evidences, there are many people in the world with a peculiar conce
 Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much. LOL
 
 The picture at the top of this article is a revisited photo of an existing fountain that shows an orc devouring children. The pastel natural colors have been saturad for a more dramatic effect. It is a metaphor about a dystopian system that eats its own citizens in order to carry on due to its incapacity to foster a real economy that creates real value and hence consumes itself.
+
+* [Draghi vs Ciuchino](TODO) (YYYY-MM-DD)
+
+This paper above shows in appalling way how a dystopic system leverage burocracy becomes incapable of producing real value for their citizens and waste resources in a useless when not also damagin verbosity and overcomplicated normatives. In fact, we have to remember that public servant are the State servant but the State authority relies in its ability to address the **basic needs** of its citizens and to administrate a **fair** justice.
+
+> In the absence of justice, what is sovereignty but organized robbery.
+> -- St. Augustine, early 5th century Bishop of Hippo.
+
+- [The Concept of Justice According to Socrates and Augustine](https://premium-papers.com/the-concept-of-justice-according-to-socrates-and-augustine)
+
+Please note that I personally consider St. Augustine as a mediocre philosopher. In fact, this citation is rooted in Socrates' view of justice. However, as a man of power, St. Augustine demonstrated a high capacity of "saying its own opinion". According to the "variety" concept you might agree or not, but it is obvious that a multi-dimensional rating allows anyone to leverage the best from anyone great in at least on the human spectrum.
+
+> If I have seen further than others, it is by standing upon the shoulders of giants.
+> -- Isaac Newton, English mathematician and physicist (1642–1727)
+
+Therefore a concept that allows us to leverage the best in the class, whatever we do not agree in whole-full with the person ideas or orientation, it is a good ethics rule because it foster the {society, culture, civilisation, king, etc.} prosperity and, in fact, unsurprisingly for some, it scales very well.
 
 <br>
 
