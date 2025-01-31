@@ -86,16 +86,9 @@ function md2htmlfunc() {
     title=${str/index/${PWD##*/}};
     #title=${str//-/ };
 
-    txt="html/items/pagebody.htm"
-    declare -i n=$(grep -n "BODY_CONTENT" $txt | cut -d: -f1)
-    txt=$(head -n$[n-1] $txt)
-    eval "echo \"$txt\" >$2"
-    source tools/ptopbar.sh $1 >>$2
-    if [ "$str" = "index" ]; then
-        sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ," $1
-    else
-        cat $1
-    fi | full_mdlinkconv >>$2
+    grep -ve "^<style>" $1 | { if [ "$str" = "index" ]; then
+        sed -e "s, - (\[...raw...\]([^)]*\.md)) , - ,"; else
+        cat - ; fi ; } | full_mdlinkconv >$2
 
     cmd="sed -i $2"
     for a in "IT" "EN" "DE" "FR" "ES"; do
@@ -114,7 +107,7 @@ function md2htmlfunc() {
 -e "s,^\[\!INFO\],$info_A," -e "s,^\[/INFO\],$info_B," \
 -e "s,m\*rda,m\&ast;rda,g" -e "s,sh\*t,sh\&ast;t,g" \
 -e "s,c\*zzo,c\&ast;zzo,g" -e "s,\([fd]\)\*ck,\\1\&ast;ck,g" \
--e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br/>\1</center>,' \
+-e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
 -e 's,^# \([^<]*\)\(.*\),<H1 id="\1">\1\2</H1>,' \
 -e 's,^## \([^<]*\)\(.*\),<H2 id="\1">\1\2</H2>,' \
@@ -169,15 +162,22 @@ function md2htmlfunc() {
             break
         fi
     done
-    sed -e 's,</blockquote>\(@*\)<blockquote>,<br/>,g' \
-        -e 's,<blockquote>\(@*\)</blockquote>,<br/>,g' -i $tf
-    cat $tf | tr '@' '\n' >$2
-    rm  $tf
+    sed -e 's,</blockquote>\(@*\)<blockquote>,<br>,g' \
+        -e 's,<blockquote>\(@*\)</blockquote>,<br>,g' -i $tf
+
+    txt="html/items/pagebody.htm"
+    declare -i n=$(grep -n "BODY_CONTENT" $txt | cut -d: -f1)
+    txt=$(head -n$[n-1] $txt)
+    eval "echo \"$txt\" >$2"
+    grep -e "^<style>" $1 >>$2
+    source tools/ptopbar.sh $1 >>$2
+
+    cat $tf | tr '@' '\n' >>$2; rm  $tf
 
     TOPLINK=$(get_html_item_str html/items/toplink.htm)
     get_html_item_str html/items/footnote.htm >> $2
 
-    echo "<br/>
+    echo "<br>
     </body>
 </html>" >> $2
 
