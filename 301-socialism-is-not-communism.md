@@ -228,7 +228,7 @@ Despite this evidences, there are many people in the world with a peculiar conce
 
 ### Conclusions
 
-Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much! 😉
+Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much! {;-)}
 
 The picture at the top of this article is a revisited photo of an existing fountain that shows an orc devouring children. The pastel natural colors have been saturad for a more dramatic effect. It is a metaphor about a dystopian system that eats its own citizens in order to carry on due to its incapacity to foster a real economy that creates real value and hence consumes itself.
 
