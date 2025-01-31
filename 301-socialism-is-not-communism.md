@@ -94,6 +94,18 @@ Which is the reason because a "dystopian system controlled media" is going to su
 
 ---
 
+### Instincts management
+
+By the way, managing instincts — also known as instinct governance through self-management and societal channelling — is a dual-layered practice.
+
+- The first layer involves the individual, who, in a self-aware state of mind, takes conscious actions to prevent instincts from manifesting in a disruptive manner, instead handling them more rationally.
+
+- The second layer involves society, which should provide reliable, well-established, and pre-encoded channels to address instinctual pressures that may momentarily escape individual control, guiding them toward socially acceptable outlets rather than resorting to mere suppression
+
+Knowing that society sometimes fails to offer effective channels to redirect instinct insurgences. In fact, sometimes society leverages instinct channelling for the sake of the status-quo rather than individual benefit and some religions exploit people by their guilty feeling of being unable to properly deal with their instincts. Two debased scenarios which are not uncommon to find among various human cultures.
+
+---
+
 ### Instincts and ethics
 
 We can notice a common ground about human ethics among different civilisations, widely spread in terms of geography and historical time. While we can notice great different morals even considering a relatively small geographic area, historical time and in the same culture.
