@@ -45,6 +45,8 @@ info_B='</div>'
 cite_A='<blockquote class="cite">'
 cite_B='</blockquote>'
 
+p_line="<p></p>"
+
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
 
 ################################################################################
@@ -67,6 +69,15 @@ function mini_mdlinkconv() {
 
 function full_mdlinkconv() {
     mini_mdlinkconv -e "s,\&lbrack;,[,g" -e "s,\&rbrack;,],g" "$@"
+}
+
+function title_tags_add() {
+    local i strn find file=$1; shift
+    for i in "$@"; do
+        find=$(echo "$i" | sed -e 's/\([",$*()]\)/\\\1/g')
+        strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc '0-9a-z-')
+        sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
+    done
 }
 
 function md2htmlfunc() {
@@ -105,9 +116,9 @@ function md2htmlfunc() {
 -e "s,c\*zzo,c\&ast;zzo,g" -e "s,\([fd]\)\*ck,\\1\&ast;ck,g" \
 -e 's,^ *!\[\([^]]*\)\](\([^)]*\)) *$,<center><img src="\2"><br/>\1</center>,' \
 -e 's,!\[\([^]]*\)\](\([^)]*\)),<img src="\2" alt="\1">,g' \
--e 's,^# \(.*\),<H1 id="\1">\1</H1>,' \
--e 's,^## \(.*\),<H2 id="\1">\1</H2>,' \
--e 's,^### \(.*\),<H3 id="\1">\1</H3>,' \
+-e 's,^# \([^<]*\)\(.*\),<H1 id="\1">\1\2</H1>,' \
+-e 's,^## \([^<]*\)\(.*\),<H2 id="\1">\1\2</H2>,' \
+-e 's,^### \([^<]*\)\(.*\),<H3 id="\1">\1\2</H3>,' \
 -e "s,^#### \(.*\),<H4>\\1</H4>," \
 -e "s,^##### \(.*\),<H5>\\1</H5>," \
 -e "s,\(<div id=.firstdiv.\) .*>,\\1>," \
@@ -116,23 +127,16 @@ function md2htmlfunc() {
 -e "s,^\( *\)[-+\*] \(.*\),\\1<li>\\2</li>," \
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
--e 's,^\.\.\.\.* *$,<hr class="post-it">,' \
--e "s,^\-\-\-\-* *$,<hr>," \
--e "s,^ *$,<p/>,"
+-e 's,^\.\{3\} *$,<hr class="post-it">,' \
+-e "s,^\=\{3\} *$,<br><hr><br>," \
+-e "s,^\-\{3\} *$,<hr>," \
+-e "s,^+++ *$,<br><br><br>," -e "s,^++ *$,<br><br>," -e "s,^+ *$,<br>," \
+-e "s,^ *$,$p_line,"
 
-function fx() {
-    local i strn find file=$1; shift
-    for i in "$@"; do
-        find=$(echo "$i" | sed -e 's/\([",$*()]\)/\\\1/g')
-        strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc '0-9a-z-')
-        sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
-    done
-}
-    eval fx "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2)
-    #echo "$2" >&2
+    eval title_tags_add "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2)
 
     tf=$2.tmp
-    cat $2 | tr '\n' '@' >$tf
+    cat $2 | tr '\n' '@' | sed -e "s,$p_line,<p class='topbar'></p>," >$tf
     while true; do
         str=$(sed -ne 's,__,<u>,' -e 's,__,</u>,p' $tf);
         if [ -n "$str" ]; then
