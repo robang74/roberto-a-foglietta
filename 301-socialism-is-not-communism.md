@@ -98,7 +98,7 @@ Which is the reason because a "dystopian system controlled media" is going to su
 
 ### Instincts management
 
-By the way, managing instincts — also known as instinct governance through self-management and societal channelling — is a dual-layered practice.
+By the way, managing instincts - also known as instinct governance through self-management and societal channelling - is a dual-layered practice.
 
 - The first layer involves the individual, who, in a self-aware state of mind, takes conscious actions to prevent instincts from manifesting in a disruptive manner, instead handling them more rationally.
 
@@ -206,7 +206,7 @@ Just in case you like to get deep into the difference between "faith" and "relig
 
 Finally, we may have reached a point for which understanding why Feudalism endure about ten centuries (*), much more than the ancient Roman Empire, despite in Dark Age society relies on a much less advanced technology, striving with a quite universal ignorance included those were arguing about nothing but using Latin, and leveraging a much lesser variety of culture but a great isolation.
 
- - The period from the Capitulary of Quierzy (877) to the French Revolution (1789) spans roughly ten centuries.
+- The period from the Capitulary of Quierzy (877) to the French Revolution (1789) spans roughly ten centuries.
 
 Because in its bare core values, also the most cruel lord was deeply rooted into values that grant some basic care to the people including those named "[servi della gleba](https://it.wikipedia.org/wiki/Servit%C3%B9_della_gleba)" (lat. servus glebae, serfdom) which we might think was a kind of slavery related to the land.
 
@@ -247,6 +247,8 @@ Please note that I personally consider St. Augustine as a mediocre philosopher. 
 > -- Isaac Newton, English mathematician and physicist (1642–1727)
 
 Therefore a concept that allows us to leverage the best in the class, whatever we do not agree in whole-full with the person ideas or orientation, it is a good ethics rule because it foster the {society, culture, civilisation, king, etc.} prosperity and, in fact, unsurprisingly for some, it scales very well.
+
+Finally, I agree that reality is much more complicated (but not more complex, just complicated) than what is written here. In the same way, real-world mechanics is more complicated than `F&nbsp;=&nbsp;ma`. Moreover, getting deep and deeper in small and smaller details would be something like a combination of bureaucracy and micromanagement, a great pain with a grated negative outcome.
 
 <br/>
 
@@ -307,6 +309,16 @@ However, fairness is context-dependent and evolves with the level of societal de
 ### About the variety concept
 
 About multidimensional rating, it explicitly states that the concept is beneficial even when full implementation or objective measurement is not possible. This aligns with the overall argument about valuing variety and leveraging the best from individuals, regardless of complete agreement or perfect understanding.
+
+---
+
+### A pragmatic approach
+
+Reality is much more complicated (having many interacting parts) than what is written here, though not necessarily more complex (exhibiting unpredictable, emergent behavior). In particular, a well-designed social structure aims to mitigate the unpredictable aspects of reality as much as possible.
+
+Furthermore, while deep dives into small details are essential in certain contexts (e.g., scientific research, engineering), within the realm of social structures and governance, excessive focus on minute details resembles bureaucracy and micromanagement, leading to negative outcomes.
+
+This is not a rejection of detail *per se*, but a cautionary note against the kind of over-regulation and micro-management that stifles initiative and creates more problems than it solves.
 
 <br/>
 
