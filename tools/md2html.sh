@@ -94,6 +94,8 @@ function md2htmlfunc() {
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
+-e 's,[^!/]-->,\&rarr;,g' -e 's,<--,\&larr;,g' \
+-e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
 -e "s,>  *\[\!INFO\],> $note_A," \
@@ -115,7 +117,7 @@ function md2htmlfunc() {
 -e "s,^\( *\)\([0-9]*\)\. \(.*\),\\1${li_A}\\2${li_B}\\3</li>," \
 -e "s,\\\<\(.*\)\\\>,\&lt;\\1\&gt;,g" \
 -e 's,^\.\.\.\.* *$,<hr class="post-it">,' \
--e "s,^\-\-\-\-* *$,<hr>," -e "s,--,\&mdash;,g" \
+-e "s,^\-\-\-\-* *$,<hr>," \
 -e "s,^ *$,<p/>,"
 
 function fx() {
