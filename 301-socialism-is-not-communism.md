@@ -4,6 +4,8 @@
 
 ## Socialism is not Communism
 
+- The **2nd edition** since rev. 7, includes the [some-clarifications](#some-clarifications) session which is the result of a peer-review process supported by on-line AIs including DeepSeek 3, ChatGPT 4 and Gemini 2.
+
 There is a biased misconception about these two terms and it is rooted into a misunderstanding of these two concepts mainly based on a biased education system.
 
 - [Propaganda and mass education system](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
@@ -61,7 +63,7 @@ Also the best collaboration-or-deceit game strategy when random players are invo
 
 is the so named "tic-for-tac" which is fundamentally the ancient Roman proverb "do ut des" - I give to you in order you give to me - or leading by example - I do this because you do like me - or reciprocity, whatever you like.
 
-Under this point of view, a socialist country like Swiss - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
+Under this point of view, a socialist country like Switzerland - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
 
 - [Ubuntu society: pros vs cons](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/234-ubuntu_society_pros_vs_cons.pdf) &nbsp; (2023-10-03)
 
@@ -84,7 +86,7 @@ Under this PoV, when "socialism" is intended as a practical approach instead of 
 
 ### Financial capitalism
 
-All of this will bring us to the conclusion that printing money from thin air is a scam. Doing that to "our" people is WRONG because of what has been written above: suck their life pushing them on debts that has been created by nothing or unfulfilling their **basic needs** and then force them to pay back that debt by their work (aka life time) or real estate propriety or other valuable assets.
+All of this will bring us to the conclusion that printing money from thin air is a scam. Doing that to "our" people is WRONG because of what has been written above: suck their life pushing them on debts that has been created by nothing or unfulfilling their **basic needs** and then force them to pay back that debt by their work (aka life time) or real-estate properties or other valuable assets.
 
 Instead, doing to other nations will ultimately lead to war-as-business foreign policy because other people will not undergo a deception (or a scam or a robbery) without acting against those who are going to leave them poor or alone in the freezing cold. Also in this claim there is no any ideology, as long as we agree that our surviving instincts are still working properly.
 
@@ -114,11 +116,17 @@ Which suggests us that ethics can be universal while moral is personal, each one
 
 Explaining with an example can be useful. Punching someone is not bad because it is impolite but it is bad because it is dangerous. The victim can have a reaction that may vary between doing nothing else and pardoning us for our unfairness up to killing us as a response to our assault.
 
-From a collective PoV, bullying someone by a group might lead us to the wrong conclusion that it is ok because it is not dangerous because the single one bullied by many has no options.
+From a collective PoV, bullying someone by a group might lead us to the wrong conclusion that it is ok, being not so dangerous because the single one bullied by many has no options. Reality shows us that college mass shootings are related more to the bullying attitude rather than the availability of weapons. Which clearly plays a role in the seriousness of outcomes but it is not the root cause.
 
-Reality shows us that college mass shootings are related more to the bullying attitude than the availability of weapons. Which clearly plays a role in the seriousness of every incident but it is not the root cause.
+Switzerland has more weapons for inhabitants than the USA but near-zero homicide cases and not any mass shooting event, which suggests to us that any kind of tools availability does not cause directly and necessarily the misuse of them but other factors should get into the scene.
 
-Therefore, we might believe that assaulting or bullying someone is bad because it is not a nice action. Which is undoubtedly true from a reciprocal PoV, we would not be the victim. But at the same we cannot overlook that from a {society, culture, civilisation, king, etc.} actions are bad because they introduce a high level of unfairness and then they potentially lead with a bad outcome, hence forbidding those actions is about mitigating risks related to dangerous behaviour.
+---
+
+### Conservation of value law
+
+Therefore, we might believe that assaulting or bullying someone is bad because it is not a nice action. Which is undoubtedly true from a reciprocal PoV: we would not like to be the victim. At the same time and in the same scenario, we cannot overlook that from a {society, culture, civilisation, king, etc.} actions are bad because they introduce a high level of unfairness and then they potentially lead with a destructive outcome.
+
+Hence forbidding those actions is about mitigating risks related to dangerous behaviour and related losses.
 
 You might be upset that good as ethics is aligned with good as practice and vice versa, also for their opposite. Or we might not even be surprised that human ethics developed in a way that {society, culture, civilisation, king, etc.} will have a sensitive natural selection advantage compared to others, e.g. who eat their own children (like the rumors about Communists were reporting once upon a time).
 
@@ -218,9 +226,9 @@ Despite this evidences, there are many people in the world with a peculiar conce
 
 ---
 
-### Conclusion
+### Conclusions
 
-Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much. LOL
+Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much! 😉
 
 The picture at the top of this article is a revisited photo of an existing fountain that shows an orc devouring children. The pastel natural colors have been saturad for a more dramatic effect. It is a metaphor about a dystopian system that eats its own citizens in order to carry on due to its incapacity to foster a real economy that creates real value and hence consumes itself.
 
@@ -239,6 +247,66 @@ Please note that I personally consider St. Augustine as a mediocre philosopher. 
 > -- Isaac Newton, English mathematician and physicist (1642–1727)
 
 Therefore a concept that allows us to leverage the best in the class, whatever we do not agree in whole-full with the person ideas or orientation, it is a good ethics rule because it foster the {society, culture, civilisation, king, etc.} prosperity and, in fact, unsurprisingly for some, it scales very well.
+
+<br/>
+
+## Some clarifications
+
+> [!INFO]
+> 
+> This section has been written with various AIs support, after peer-reviewing the document with them.
+
+---
+
+### Society vs Reality
+
+The claim that societal structures can mitigate the 'brutality of reality' is central to this part of this paper. The 'reality is brutal' allegory, based on anthropomorphism, serves to highlight the contrast: through organized work within a society, humans have created safer and more reliable environments compared to facing 'nature's neutrality' individually.
+
+Because this 'neutrality' is perceived as 'unfair' and ultimately 'brutal' in its impact on individuals, people are often willing to endure short-term hardship for the prospect of a more stable and reliable social structure. Which underscores the fundamental human drive to have basic needs reliably fulfilled, even at the cost of temporary discomfort, rather than experience fluctuating periods of prosperity and hardship.
+
+This is also evident in the transition to agriculture, which, while ultimately beneficial, likely worsened conditions for hunter-gatherer societies in its initial stages.
+
+---
+
+### About Feudalism
+
+It's crucial to contextualize feudalism within its time. We are not comparing it favorably to modern systems. Rather, the argument is that even a system as flawed as feudalism persisted for ten centuries because it intrinsically provided some level of care for its people, including the serfs.
+
+This care must be understood relative to the limited resources and production capabilities of the Dark Ages, not compared to the vastly different circumstances of the Industrial or Modern Ages. For example, while serfs faced hardships, they often had more free time than early industrial workers, who toiled for up to 16 hours a day.
+
+When feudalism failed to meet evolving basic needs – which, with the Industrial Revolution, came to include greater freedom by Enlightenment ideals, particularly from the rigid hierarchies of land ownership – the French Revolution erupted, overthrowing the existing order. The comparison, therefore, is not about ideal systems.
+
+It's about how even a flawed system like feudalism recognized the necessity of providing a degree of care for its members to ensure its own survival. The core argument remains: neglecting the needs of a population, even in a less materially advanced society, ultimately undermines the stability and longevity of that society.
+
+---
+
+### Needs development
+
+The text explicitly connects the evolution of basic needs to the level of societal development, using the pyramid metaphor to illustrate that as a civilization advances, the set of basic needs expands. Including the "Enlightenment ideals" about the evolving needs, provides to the French Revolution example an important context.
+
+It acknowledges that the desire for greater freedom wasn't solely an economic or material need but also a philosophical and ideological one. This strengthens the argument by showing that the shift in societal structures is driven not just by basic needs in a narrow sense, but also by evolving values and aspirations.
+
+---
+
+### About bureaucracy
+
+While bureaucracy, inherited from the 19th-century state model, remains a necessary component of modern states. However, its inherent waste of resources and potential to demoralize those seeking to contribute mean that it only provides value when minimized and focused on delivering fair justice in its broadest sense, ensuring equitable treatment for all citizens.
+
+---
+
+### Emargination & justice
+
+Bullying can be understood as a metaphor for every kind of social marginalization. In the context of societal structures, marginalization can be seen as a failure to properly address basic needs, leading to the alienation and disenfranchisement of certain groups. This aligns with the document's argument that neglecting the needs of a population undermines the stability and longevity of a society.
+
+The principle of fair justice administration, as stated by St. Augustine, is central to addressing social marginalization. Fair justice ensures that the basic needs of all individuals are met, including protection from exploitation and exclusion.
+
+However, fairness is context-dependent and evolves with the level of societal development. For example, under feudalism, fairness was often limited to treating individuals within the same social class equally, rather than ensuring equality across all social classes.
+
+---
+
+### About the variety concept
+
+About multidimensional rating, it explicitly states that the concept is beneficial even when full implementation or objective measurement is not possible. This aligns with the overall argument about valuing variety and leveraging the best from individuals, regardless of complete agreement or perfect understanding.
 
 <br/>
 
