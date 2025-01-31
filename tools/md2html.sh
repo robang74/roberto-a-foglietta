@@ -95,7 +95,7 @@ function md2htmlfunc() {
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
 -e 's,[^!/]-->,\&rarr;,g' -e 's,<--,\&larr;,g' \
--e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' \
+-e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' -e 's,{;-)},\&#128521,g' \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
 -e "s,>  *\[\!INFO\],> $note_A," \

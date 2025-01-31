@@ -23,6 +23,7 @@
 + md2html.sh: ![alt](src){args}|note|
 + font selection for PDF size reduction
 + md2html.sh: <id(tag-text)/> to add
++ md2html.sh: emoticon support {;-)}
 
 # DONE
 
