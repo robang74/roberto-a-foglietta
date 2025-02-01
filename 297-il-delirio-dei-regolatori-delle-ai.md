@@ -170,7 +170,7 @@ Non esiste progresso se non si identificano, riconoscono e correggono gli errori
 
 * [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank)
 
-Matrix non era un film, ma un documentario! 😉
+Matrix non era un film, ma un documentario! {;-)}
 
 <br id="innovation-explained"/>
 

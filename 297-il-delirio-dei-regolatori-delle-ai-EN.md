@@ -169,7 +169,7 @@ There is no progress if past mistakes are not identified, recognised and correct
 
 * [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank)
 
-The Matrix was not a film, but a documentary! 😉
+The Matrix was not a film, but a documentary! {;-)}
 
 <br id="innovation-explained"/>
 

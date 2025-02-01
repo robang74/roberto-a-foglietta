@@ -56,7 +56,7 @@ Curioso perché i padri fondatori americani hanno fatto una guerra d'indipendenz
 
 Denaro che però è disconnesso da qualsiasi forma di realtà - come per altro il prezzo dell'energia elettrica in Europa - ma è solo carta moneta stampata a debito.
 
-Eh già, una bella botta di cruda realtà! 😏
+Eh già, una bella botta di cruda realtà! {:-J}
 
 <br/>
 

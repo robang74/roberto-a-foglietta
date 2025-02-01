@@ -109,7 +109,7 @@ The photo below shows just a presentation, not even a working proof-of-concept. 
 
 What took more effort was the power-saving. The smartphone consumes a maximum of 81 mAh with the display on and in interactive mode, while it consumes 23 mAh on average when it is in standby waiting for an event. This means that with a 3600 mAh battery, it stands by for 156 hours. with little improvement towards 21.4 mAh on average, it will be a whole week. 
 
-Welcome back Nokia 3310! 🤗
+Welcome back Nokia 3310! {hug}
 
 ---
 

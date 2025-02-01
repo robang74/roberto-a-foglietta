@@ -162,7 +162,7 @@ Poi riguardo alla sua proposta di correzioni del testo per renderlo più preciso
 
 Aggiungendo l'associazione fra termini in italiano e concetti specifici in inglese.
 
-> **AI**: Grazie per avermi fatto notare l'importanza di mantenere questi termini tecnici! 😊
+> **AI**: Grazie per avermi fatto notare l'importanza di mantenere questi termini tecnici! {:-)}
 
 Le modifiche che sono state applicate basandosi sui suggerimenti ricevuti dall'AI, possono essere visionate in questo [commit](https://github.com/robang74/roberto-a-foglietta/commit/99c6297d60a299d28f8c608a158865c762a3ce61?diff=split&w=1), ovviamente anche questa parte è inclusa nel commit.
 
