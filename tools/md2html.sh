@@ -8,8 +8,8 @@ declare -i start_t=$(date +%s%N)
 
 ################################################################################
 
-li_A="<li><b>"
-li_B=".<span style='visibility: hidden;'>--</span></b>"
+li_A="<li class='numli'><b>"
+li_B=".\&emsp;</b>"
 
 ul_A="<ul class='dqt'><li class='dqt'><blockquote class='dqt'>"
 ul_B="</blockquote></li></ul>"
@@ -213,8 +213,9 @@ function md2htmlfunc() {
         -e "s/<a [^>]*href=.http[^>]*/& ${TARGET_BLANK}/g" -i $2
     for i in 3 2 1; do
         let b=i*3 a=b-2 c=i+1; a=${a/1/2}; #echo "$i $a $b $c" >&2
-        sed -e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)\([ >]\)"\
-"/<\\1 class='li${c}in'\\2/" -i $2
+        sed -i $2 \
+-e "s/ \{$a,$b\}<\(li\|blockquote\|tt\)>/<\\1 class='li${c}in'>/" \
+-e "s/ \{$a,$b\}<\(li\|blockquote\|tt\) *\(class=['\"]\)/<\\1 \\2li${c}in /"
     done
 }
 

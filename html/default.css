@@ -77,7 +77,7 @@ div.post-it {
     border: 1px dashed;
     border-radius: 16px;
     padding: 5px 40px 5px 40px;
-    font-family: "Brush Script MT", cursive;
+    font-family: "Comic Neue", cursive;
     position: relative; /* b.post-it needs this line */
 }
 
@@ -185,21 +185,27 @@ img {
 
 li {
   position: relative;
-  padding-left: 20px; /* Adjust as needed */
+  padding-left: 25px; /* Adjust as needed */
   list-style: none; /* Remove the default bullet */
   margin-left: 0px; /* Explicitly reset any default list margins */
 }
 
 li::before {
   content: "\2022"; /* Bullet point character */
-  position: absolute;
-  left: 0px;
+  position: relative;
+  left: -20px;
 }
 
-.li2in::before, .li3in::before, .li4in::before { content: none; }
-.li2in { padding-left: 20px; }
-.li3in { padding-left: 40px; }
-.li4in { padding-left: 60px; }
+li.numli {
+    position: relative;
+    left: -20px;
+}
+
+li.numli::before { content: none; }
+
+.li2in { padding-left:  50px; }
+.li3in { padding-left:  75px; }
+.li4in { padding-left: 100px; }
 
 li.dqt {
     position: relative;
@@ -249,7 +255,7 @@ div.framebox table, div.framebox tr, div.framebox th, div.framebox td {
 
 .alerts  { font-family: "Ubuntu Mono", monospace; font-weight: bold; }
 
-.topbar  { font-family: "Ubuntu Condensed", condensed; }
+.topbar  { font-family: "Roboto Condensed", condensed; }
 
 a.topbar { font-family: "Ubuntu Mono", monospace; }
 
@@ -290,7 +296,7 @@ a.toplink {
 }
 
 #date-legenda {
-    font-family: "Ubuntu Condensed", condensed;
+    font-family: "Roboto Condensed", condensed;
 }
 
 .sup-note {
@@ -303,7 +309,7 @@ a.toplink {
 }
 
 .sub-hash {
-    font-family: "Ubuntu Condensed", condensed;
+    font-family: "Roboto Condensed", condensed;
     font-size: 75%;
 }
 
