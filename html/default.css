@@ -24,17 +24,6 @@
 
 @import url('ubuntu.css');
 
-.emoji { position: relative; top: 0.2em; height: 1.20em; }
-
-/*
-.serif-emoji     { font-family: serif, emoji; }
-.sans-emoji      { font-family: sans-serif, emoji; }
-.monospace-emoji { font-family: monospace, emoji; }
-.condensed-emoji { font-family: condensed, emoji; }
-.cursive-emoji   { font-family: cursive, emoji; }
-.fantasy-emoji   { font-family: fantasy, emoji; }
-*/
-
 #menu {
     cursor: pointer;
     user-select: none; /* Standard syntax */
@@ -73,6 +62,8 @@ body {
     max-width: 800px;
     margin: auto;
 }
+
+.emoji { position: relative; top: 3px; height: 18px; }
 
 div.pagehead h1 { text-align: left; }
 
