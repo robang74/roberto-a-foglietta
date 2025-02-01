@@ -3,7 +3,37 @@
  *
  * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
  *
+ * Suggested fonts:
+ *
+ * - Serif: Roboto Serif, Noto Serif, PT Serif
+ * - Sans-Serif: Roboto, Noto Sans, Ubuntu
+ * - Monospaced: Roboto Mono, Noto Sans Mono, Ubuntu Mono
+ * - Condensed: Roboto Condensed, Ubuntu Condensed
+ * - Handwritte: Pacifico, Shadows Into Light, Indie Flower
+ * - Comic: Comic Neue
+ *
+ * ATTENTION - every font change may distript the printing template
+ *
+ * W3C HTML safe fonts:
+ * - https://www.w3schools.com/cssref/css_websafe_fonts.php
+ *
+ * Default PDF 14 fonts:
+ * - https://www.ibm.com/docs/en/cmofi/7.3.0?topic=indexer-pdf-fonts-output-file-size
+ *
  ******************************************************************************/
+
+@import url('ubuntu.css');
+
+.emoji { position: relative; top: 0.2em; height: 1.20em; }
+
+/*
+.serif-emoji     { font-family: serif, emoji; }
+.sans-emoji      { font-family: sans-serif, emoji; }
+.monospace-emoji { font-family: monospace, emoji; }
+.condensed-emoji { font-family: condensed, emoji; }
+.cursive-emoji   { font-family: cursive, emoji; }
+.fantasy-emoji   { font-family: fantasy, emoji; }
+*/
 
 #menu {
     cursor: pointer;
@@ -11,6 +41,8 @@
     -webkit-user-select: none;  /* Safari */
     -ms-user-select: none;  /* IE 10 & 11 */
 }
+
+#printlink { display: none; };
 
 html {
  /*\,-Remove this parenthesys to switch the zoom */
@@ -20,12 +52,17 @@ html {
 }
 
 body {
+
+    justify-content: space-between; /* Distribute space between items */
+    align-items: center; /* Vertically align items */
+    float: none;
  /*\,-Remove this parenthesys to switch the font */
 /**)/
     font-family: "Tahoma mono", sans-serif;
 /*/
     font-family: "Ubuntu", sans-serif;
 /**/
+    font-size: 16px;
     text-align: justify;
     line-height: 1.75;
  /*\,-Remove this parenthesys to set the font size */
@@ -49,7 +86,7 @@ div.post-it {
     border: 1px dashed;
     border-radius: 16px;
     padding: 5px 40px 5px 40px;
-    font-family: "Comic Sans", cursive;
+    font-family: "Brush Script MT", cursive;
     position: relative; /* b.post-it needs this line */
 }
 
@@ -61,10 +98,10 @@ b.post-it {
 
 blockquote {
 /*  color: darkwhite; */
-    font-size: 110%;
+    font-size: 16px;
     line-height: 1.5;
     text-align: justify;
-    font-family: "Garamond", serif;
+    font-family: "Times Roman", "Times New Roman", serif;
 
     width: 760px;
 /*  background-color: #383838; */
@@ -107,12 +144,12 @@ tt {
     position: relative;
  /*\,-Remove this parenthesys to switch the font */
 /**)/
-    font-family: "Ubuntu mono", monospace; top: -1px;
+    font-family: "Roboto Mono", monospace; font-size: 90%; top: -0.5px;
 /*/
-    font-family: "Tahoma mono", monospace; font-size: 80%; top: -0.5px;
+    font-family: "Ubuntu Mono", monospace;
 /**/
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
 }
 
 #firstdiv { /* removed in md->html conversion */ }
@@ -124,7 +161,7 @@ a {
 /**)/
     font-family: "Ubuntu Condensed", condensed; font-size: 110%;
 /*/
-    font-family: "Tahoma", sans-serif;
+    font-family: "Ubuntu", sans-serif;
 /**/
     text-decoration: none;
     border-bottom: 1px double;
@@ -156,10 +193,25 @@ img {
 }
 
 li {
-    margin-left:  40px;
-    text-indent: -25px;
+  position: relative;
+  padding-left: 20px; /* Adjust as needed */
+  list-style: none; /* Remove the default bullet */
+  margin-left: 0px; /* Explicitly reset any default list margins */
 }
+
+li::before {
+  content: "\2022"; /* Bullet point character */
+  position: absolute;
+  left: 0px;
+}
+
+.li2in::before, .li3in::before, .li4in::before { content: none; }
+.li2in { padding-left: 20px; }
+.li3in { padding-left: 40px; }
+.li4in { padding-left: 60px; }
+
 li.dqt {
+    position: relative;
     text-indent: 0px;
 }
 ul.dqt {
@@ -167,13 +219,17 @@ ul.dqt {
     left: -30px;
 }
 
+.center { text-align: center; }
+
+.indent { position: relative; left: 10%; }
+
 table {
     width: 800px;
  /*\,-Remove this parenthesys to switch the font */
 /**)/
     font-family: "Ubuntu Mono", monospace;
 /*/
-    font-family: "Tahoma mono", monospace; font-size: 80%;
+    font-family: "Ubuntu Mono", monospace; font-size: 80%;
 /**/
     border-collapse: collapse;
     text-align: center;
@@ -200,29 +256,20 @@ div.framebox table, div.framebox tr, div.framebox th, div.framebox td {
     padding: 0px;
 }
 
-.li2in {
-    padding-left: 20px;
-}
-.li3in {
-    padding-left: 40px;
-}
-.li4in {
-    padding-left: 60px;
-}
+.alerts  { font-family: "Ubuntu Mono", monospace; font-weight: bold; }
 
-.alerts { font-family: "Monaco", monospace; font-weight: bold; }
-
-.topbar { font-family: "Ubuntu Condensed", condensed; }
+.topbar  { font-family: "Ubuntu Condensed", condensed; }
 
 a.topbar { font-family: "Ubuntu Mono", monospace; }
 
 div.topbar {
     padding: 15px;
     padding-top: 9px;
-    border-radius: 9px;
+    border-radius: 16px;
     padding-bottom: 12px;
     border-bottom: 1px solid;
     border: 1px solid transparent;
+    text-align: center;
 }
 
 sup.date-type {
@@ -245,7 +292,7 @@ a.toplink {
 /**)/
     font-family: "Ubuntu Mono", monospace;
 /*/
-    font-family: "Tahoma Mono", monospace; font-size: 80%;
+    font-family: "Ubuntu Mono", monospace; font-size: 80%;
 /**/
     text-decoration: underline;
     font-weight: bold;
@@ -262,5 +309,10 @@ a.toplink {
     transform: translate(-50%, -25%);
     display: inline-block;
 /*  color: #e8e8e8; */
+}
+
+.sub-hash {
+    font-family: "Ubuntu Condensed", condensed;
+    font-size: 75%;
 }
 

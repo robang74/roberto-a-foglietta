@@ -9,12 +9,13 @@
         <link rel='stylesheet' href='${dir}../intl/intlflg.css'>
         <!-- here begins the Javascript... why for the hell I got here? //-->
         <meta http-equiv='Content-Script-Type' content='text/javascript'>
-        <link rel='stylesheet' href='${dir}ucustom.css' id='customStylesheet'>
+        <link rel='stylesheet' href='${dir}ucustom.css' id='customStylesheet' media='screen'>
         <script>const cssdir='${dir}';</script note='global variable'>
         <script src='${dir}css-style-changer.js' defer></script>
+        <link rel='stylesheet' href='${dir}printer.css' media='print'>
     </head>
     <body>
 ${BODY_CONTENT}
-    <br/>
+    <br>
     </body>
 </html>

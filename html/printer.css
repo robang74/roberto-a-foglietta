@@ -1,0 +1,69 @@
+/* 
+ * void Cascading Style Sheet for overriding or customise default.css
+ *
+ * Use this to import the html to pdf warm CSS for printing on paper
+ *
+ */
+@import url('onpaper.css');
+
+@media print {
+    @page { /* printing at 3x72 = 216 dpi, margin rounding error < 400ppm */
+        size: A4;
+        margin: 0.36in 0.43in 0.50in 0.43in;
+/*
+        size: letter;
+        margin: 0.36in 13.88mm 0.50in 13.88mm;
+
+        size: legal;
+        margin: 0.36in 13.88mm 0.50in 13.88mm;
+*/
+    }
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
+    div.pagebreak {
+        height: 0px;
+        width: 0px;    
+    }
+    hr.pagebreak, div.pagebreak hr, div.pagebreak br, br.pagebreak {
+        display: none !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        border-color: transparent;
+        color: transparent;
+        height: 0px;
+        width: 0px;
+    }
+    .hidden, hr.hidden, div.hidden hr, div.pagebreak hr.hidden {
+        display: inline-block;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        border-color: transparent;
+        color: transparent;
+    }
+    .topbar, div.topbar, a.topbar { color: black; background-color: white; }
+    div.topbar { border: 0px solid transparent; }
+    #firstdiv { border-top: 2px solid gray; padding-top: 2em; }
+    p.topbar { display: none; }
+    * {
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari 6 – 15.3, Edge */
+        print-color-adjust: exact !important;           /* Firefox 97+, Safari 15.4+ */
+        color-adjust: exact !important;                 /* Firefox 48 – 96 */
+    }
+    a:link, a:hover, a:visited, a:active {
+        padding-bottom: 1px;
+        border-bottom: 1px solid;
+    }
+    a.topbar { border: none; }
+
+/*
+ * This should be set within the HTML page in order to customise each one
+ */
+/*
+
+@page { size: A4; } 
+
+@media print { html { zoom: 100%; } }
+
+*/

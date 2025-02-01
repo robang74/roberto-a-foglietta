@@ -69,14 +69,14 @@ function print_topbar() {
         done
     fi
     if [ "$trsl" == "1" ]; then
-        TRNSL_STRN=" ${LINE_DASH} translate:&nbsp; ${TRNSL_STRN}"
+        TRNSL_STRN=" ${LINE_DASH} transl.:&nbsp; ${TRNSL_STRN}"
     else
         TRNSL_STRN=""
     fi
 
-    TOPBAR_STRING="<p/>
-<div class='topbar' translate='no'>"\
-"${LINE_MENU}${LINE_DASH} published:&nbsp; <b class='topbar'>"\
+    TOPBAR_STRING="<p class='topbar'></p>
+<div class='topbar' width='800px' translate='no'>"\
+"${LINE_MENU} ${LINE_DASH} &#8543;&#8239;release: <b class='topbar'>"\
 "${PUBLISH_UNIVDATE}</b> ${REVISION_STRING}${ORIGIN_CODE}${TRNSL_STRN}"
 
     gotolist="1 2 3"
@@ -91,7 +91,7 @@ function print_topbar() {
 "$(test $i -ne 1 && printf target='_blank')>${GOTO_LINKS[$i,2]}</a>"
         if [ $i -lt 3 ]; then TOPBAR_STRING+=" ${MDOT_DASH}"; fi
     done
-    echo "${TOPBAR_STRING}&nbsp;</div>"
+    echo "${TOPBAR_STRING}${PRINT_LNK}&nbsp;</div>"
 
 }
 
@@ -110,9 +110,13 @@ weburl="https://${gitusr}.github.io"
 gtlink="${weburl//./-}.translate.goog/${gitprj}"
 
 MDOT_DASH="&nbsp;<b>&middot;</b>&nbsp;"
-LINE_MENU="&thinsp;&#9783;&thinsp;&Ropf;&nbsp;"
+LINE_MENU="&thinsp;&#9783;&thinsp;&Ropf;"
 LINE_MENU="<b id='menu' onClick='nextStylesheet()'>$LINE_MENU</b>"
-LINE_DASH="&nbsp;&mdash;&nbsp;"
+LINE_DASH="&thinsp;&mdash;&thinsp;"
+
+PRINT_LNK="<b>⎙</b>&hairsp;: <a aria-label='print this page' "\
+"class='topbar' href='javascript:window.print()'>PDF</a>"
+PRINT_LNK=" <span id='printlink'>${LINE_DASH} ${PRINT_LNK}</span>"
 
 REVISION_STRING=""
 PUBLISH_UNIVDATE=""
@@ -167,7 +171,7 @@ revnum+=$(echo "$gitlog" | grep . | wc -l)
 command git status -s "$file" | grep -q . && let revnum++
 
 if [ $revnum -gt 0 ]; then
-    REVISION_STRING=" ${LINE_DASH} revision: <b class='topbar
+    REVISION_STRING=" ${LINE_DASH} rev.: <b class='topbar
 '>${revnum}</b rev_num='
 '>"
 fi 2>/dev/null

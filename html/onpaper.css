@@ -48,7 +48,7 @@ a:hover { background-color: #eef5ff; border: none; text-decoration: underline; }
 
 .sup-note, a:visited, a:active, a.topbar { color: #006; }
 
-div.pagehead h1, div.pagehead hr { color: #006; border-color: #006; }
+h1.title, hr.title { color: #006; border-color: #006; }
 
 a.topbar { border: none; }
  
