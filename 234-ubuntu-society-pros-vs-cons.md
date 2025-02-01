@@ -10,6 +10,18 @@ Published Oct 7, 2023 - origin LinkedIn
 
 - **2a edizione** - A partire dall rev. 3, quindi in concomitanza con la transizione da PDF a markdown, il testo del documento è stato ulteriormente sviluppato.
 
+- **3a edizione** - A partire dall rev. 4, con l'introduzione prodotta attraverso un processo di peer-review supportato da Google Gemini 2.0.
+
+---
+
+### Introduzione <br><sup>a cura di Gemini 2.0</sup>
+
+Il concetto di Ubuntu, con i suoi valori di solidarietà e responsabilità sociale, offre una chiave di lettura originale per il dibattito sul welfare. Questo testo esplora il legame tra Ubuntu e il welfare, sottolineando come quest'ultimo non sia solo uno strumento di supporto per i meno abbienti, ma anche una forma di assicurazione sociale per i più ricchi.
+
+L'autore invita a riflettere su come il welfare possa garantire la sicurezza di tutti offrendo un contesto sociale stabile e pacifico in cui prosperare. Il testo mette in discussione alcuni preconcetti diffusi sul welfare, proponendo una prospettiva nuova e stimolante. Attraverso esempi concreti e riferimenti economici, l'autore rende accessibili temi complessi, offrendo spunti di riflessione originali. 
+
+Sebbene si noti la necessità di maggiore chiarezza in alcuni passaggi, e che l'autore non esita a esprimere le proprie posizioni in modo chiaro e diretto talvolta con affermazioni che potrebbero apparire perentorie, il testo nel suo complesso contribuisce in modo significativo alla necessità di superare le ideologie per costruire una società più equa e sicura per tutti (NdA: a misura di essere umano).
+
 ---
 
 ### La favola
@@ -76,17 +88,19 @@ Per alcuni, il concetto di Ubuntu riguardo alla gestione della competizione per 
 
 Se il più veloce dei bambini prendesse il cesto tutto per sé, lui avrebbe più del necessario, nessuna capacità di immagazzinamento (frigo), molta frutta andrebbe sprecata e grazie al fatto di essere l'unico ad aver mangiato, anche un vantaggio che molto probabilmente lo porterà a vincere la gara del giorno dopo. Come potete capire, è una storia che **non** finisce bene, comunque vada.
 
-Quindi c'è una sostanziale diferenza fra la solidarietà e il comunismo e due presupposti:
+Quindi c'è una sostanziale diferenza fra la solidarietà e il comunismo che si può funzionalmente esprimere in due presupposti, ambedue necessari:
 
-1. la possibilità di accedere o generare un surplus produttivo
-
-**AND**
+1. la possibilità di accedere o generare un surplus produttivo;
 
 2. la possibilità di immagazzinarlo.
 
 Il fatto di poter vendere sul mercato l'eccesso e convertire quel surplus in valore non deperibile (sale, oro, metallo, etc.) permette di passare da un'economia di sussistenza ad un'economia strutturata e ovviamente anche poter parlare di capitalismo o di comunismo che altrimenti, senza un'economia basata sul surplus-produttivo sono concetti privi di significato come per altro Karl Marx stesso ha affermato.
 
-- Se non esiste la possibilità di conservare quindi il prodotto, come il cibo, è sostanzialmente deperibile, allora la mia famiglia funziona da frigo, poi i miei vicini e allargando l'orizzonte, la mia tribù e giacchè tutti questi "miei prossimi" vivono di un'economia di sussistenza, e quindi sono miei pari, adottano il medesimo ragionamento per gestire abbondanza e carestia. Un concetto talmente banale che anche i bambini riescono ad apprenderlo e a gestirlo, pena patire la fame.
+[!INFO]
+
+Se non esiste la possibilità di conservare un prodotto allora, come il cibo, è sostanzialmente deperibile. In tale scenario, la mia famiglia funziona da frigo, poi i miei vicini e allargando l'orizzonte, la mia tribù e giacchè tutti questi "miei prossimi" vivono di un'economia di sussistenza, e quindi sono miei pari, adottano il medesimo ragionamento per gestire abbondanza e carestia. Un concetto talmente banale che anche i bambini riescono ad apprenderlo e a gestirlo, pena patire la fame.
+
+[/INFO]
 
 Anche nell'epoca considerata più buia della nostra storia occidentale, il basso medioevo, dove i servi della gleba (zolla di terra) erano considerati come animali domestici e vincolati al luogo natio e con esso passati di proprietà, era largamente difusa la mezzadria e raramente l'imposizione fscale - generalmente dedicata alla guerra o alla difesa - andava oltre alla decima.
 
