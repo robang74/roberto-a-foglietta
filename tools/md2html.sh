@@ -111,7 +111,8 @@ function md2htmlfunc() {
 -e "s,{shh},${emoji_a}shh.png'>,g" -e "s,{hmm},${emoji_a}humm.png'>,g" \
 -e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g" \
 -e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g" \
--e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g"
+-e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g" \
+-e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
