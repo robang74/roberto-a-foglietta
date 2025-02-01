@@ -66,7 +66,7 @@ is the so named "tic-for-tac" which is fundamentally the ancient Roman proverb "
 
 Under this point of view, a socialist country like Switzerland - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
 
-- [Ubuntu society: pros vs cons](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/234-ubuntu_society_pros_vs_cons.pdf) &nbsp; (2023-10-03)
+- [Ubuntu society, pros vs cons](234-ubuntu-society-pros-vs-cons.md#?target=_blank) &nbsp; (2023-10-03)
 
 Which finally brings us to consider the ancient african word "ubuntu":
 
@@ -197,7 +197,7 @@ keeping in our mind the second part of this claim
 
 Believe me, **believing** is not the problem here. God puts a brain in our heads, use it properly!
 
-- [alla ricerca del gatto che non c'è](https://robang74.github.io/chatbots-for-fun/html/alla-ricerca-del-gatto-che-non-c-e.html) &nbsp; (2024-12-22)
+- [Alla ricerca del gatto che non c'è](https://robang74.github.io/chatbots-for-fun/html/alla-ricerca-del-gatto-che-non-c-e.html) &nbsp; (2024-12-22)
 
 Just in case you like to get deep into the difference between "faith" and "religion" and in particular "organised religion" the above article highlight that difference with humor but also a strong critical approach concluding that "organised religion" is for those whom their faith is so weak that they need to affiliate "corporation" to sustain their own ego in defending their personal moral (or hypocritically impose their biases over others in the aim to control them by the guilty feelings).
 

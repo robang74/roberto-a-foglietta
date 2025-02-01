@@ -24,6 +24,7 @@
 + font selection for PDF size reduction
 + md2html.sh: <id(tag-text)/> to add
 + .emoji class as wbsketch in *.css
++ md2html.sh: '''> e <``` code block
 
 # DONE
 
