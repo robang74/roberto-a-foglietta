@@ -23,7 +23,7 @@
 + md2html.sh: ![alt](src){args}|note|
 + font selection for PDF size reduction
 + md2html.sh: <id(tag-text)/> to add
-+ md2html.sh: emoticon support {;-)}
++ .emoji class as wbsketch in *.css
 
 # DONE
 
@@ -48,3 +48,4 @@ v md2html.sh: <br/> to <br>
 v md2html.sh: <center> to <div>
 v md2html.sh: >>>| indented 10% |<<<
 v md2html.sh: |x|/>:center, <|x|:enf-of-center
+v md2html.sh: emoticon support {;-)}
