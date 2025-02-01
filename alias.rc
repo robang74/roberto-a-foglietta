@@ -22,4 +22,9 @@ gptchat() {
     bash ~/gpt4all/bin/chat.sh 2>&1 | grep -q . &
 }
 ge() { gedit "$@" & }
-hr() { hres html/*.html index.html; }
+hr() {
+  {
+    hres index.html;
+    for i in html/*.html; do hres $i; done;
+  } 2>&1 | grep -ve "Updated .* index";
+}
