@@ -1,4 +1,5 @@
 <div id="firstdiv" created="2025-01-30:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img src="img/301-socialism-is-not-communism.jpg" width="800"><br/></div>
 
@@ -19,7 +20,7 @@ Good time as well as a good starting point to put the idea that socialism = comm
 
 Please, notice that every Latin `-ism` postfix implies an ideology and ideology is great to inspire people but also bad in leading them to cope with reality. Both happen because idealising a concept - like true love or virginity - allows us to make it much more appealing (or the opposite) but it also alienates us from practical reasoning.
 
----
+----
 
 ### Premise
 
