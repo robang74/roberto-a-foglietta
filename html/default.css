@@ -63,7 +63,7 @@ body {
     margin: auto;
 }
 
-.emoji { position: relative; top: 3px; height: 18px; }
+.emoji { display: inline; position: relative; top: 3px; height: 18px; width: 18px; }
 
 div.pagehead h1 { text-align: left; }
 
