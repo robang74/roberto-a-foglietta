@@ -115,13 +115,11 @@ Tutte le principali testate [...] hanno accolto con enorme interesse la pubblica
 Fonte della notizia: [Il Mitte, Berlino](https://www.ilmitte.com/2024/03/gestione-della-pandemia-pubblicati-in-germania-i-protocolli-covid-che-fanno-discutere/) articolo salvato in [PDF](../data/il-mitte-pubblicati-i-documenti-della-pandemia.pdf?target=_blank) nella cartella `data`. Questo stampa è da considerarsi inserita in questo repository/website per completezza dell'archiviazione delle fonti citate e secondo il principio del *fair-use* garantito dai termini della licenza Creative Common BY-NC-ND 4.0 che impediscono di farne un uso a scopo commerciale o di profitto, in generale.
 
 <br/>
-<br/>
 
 ## Related articles
 
-* Q&A - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) (2024-12-29)
+* Q&A - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-<br/>
 <br/>
 
 ## Share alike
