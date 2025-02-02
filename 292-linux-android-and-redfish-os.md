@@ -137,27 +137,27 @@ Still, cheaper and soon-unsupported alternatives will always be in the wild beca
 
 ## Related videos
 
-1. [RedFish OS](https://youtu.be/j8iWLmYSx5I) recovery image reboot (2023-08-20)
+1. [RedFish OS](https://youtu.be/j8iWLmYSx5I) recovery image reboot &nbsp; (2023-08-20)
 
-2. [RedFish OS](https://youtu.be/IJM3DVA3YyE) recovery image boots a freshly installed SailFish OS (2023-08-30)
+2. [RedFish OS](https://youtu.be/IJM3DVA3YyE) recovery image boots a freshly installed SailFish OS &nbsp; (2023-08-30)
 
-3. [RedFish OS](https://youtu.be/EP10Evtl0wo) recovery image install SailFish OS by the telnet menu (2023-08-31)
+3. [RedFish OS](https://youtu.be/EP10Evtl0wo) recovery image install SailFish OS by the telnet menu &nbsp; (2023-08-31)
 
-4. [RedFish OS](https://youtu.be/At4NnCPuaO4) speech at SFSCON 2023 in Bozen, Italy (2023-11-10)
+4. [RedFish OS](https://youtu.be/At4NnCPuaO4) speech at SFSCON 2023 in Bozen, Italy &nbsp; (2023-11-10)
 
 <br/>
 
 ## Related papers
 
-* [My SCRUM in a nutshell](https://raw.githubusercontent.com/robang74/P2C2-Management-Style/refs/heads/main/my-scrum-in-a-nutshell.pdf) a single A4 slide, download in PDF (2023-04-13)
+* [My SCRUM in a nutshell](https://raw.githubusercontent.com/robang74/P2C2-Management-Style/refs/heads/main/my-scrum-in-a-nutshell.pdf) a single A4 slide, download in PDF &nbsp; (2023-04-13)
 
-* [P²C² management style](https://github.com/robang74/P2C2-Management-Style#readme) github project homepage (2023-04-29)
+* [P²C² management style](https://github.com/robang74/P2C2-Management-Style#readme) github project homepage &nbsp; (2023-04-29)
 
-* [RedFish OS project](https://github.com/robang74/redfishos#readme) github project homepage (2023-07-12)
+* [RedFish OS project](https://github.com/robang74/redfishos#readme) github project homepage &nbsp; (2023-07-12)
 
-* [RedFish OS business presentation](https://raw.githubusercontent.com/robang74/redfishos/refs/heads/main/RedFishOS-presentation-A4.pdf) with an executive introduction, PDF download (2023-09-25)
+* [RedFish OS business presentation](https://raw.githubusercontent.com/robang74/redfishos/refs/heads/main/RedFishOS-presentation-A4.pdf) with an executive introduction, PDF download &nbsp; (2023-09-25)
 
-* [RedFish OS papers collection](https://github.com/robang74/redfishos/tree/main/sfsconf-2023) prepared and/or collected SFSCON 2023 presentation (2023-11-11)
+* [RedFish OS papers collection](https://github.com/robang74/redfishos/tree/main/sfsconf-2023) prepared and/or collected SFSCON 2023 presentation &nbsp; (2023-11-11)
 
 <br/>
 
