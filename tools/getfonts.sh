@@ -4,8 +4,7 @@
 #
 ################################################################################
 
-fcssf="../html/ubuntu.css"
-test -r $fcssf || fcssf="../html/fonts.css"
+fcssf="../html/fonts.css"
 mkdir -p fonts
 cd fonts
 for i in $(sed -ne "s,src: url(\(.*\)) .*,\\1,p" $fcssf); 
