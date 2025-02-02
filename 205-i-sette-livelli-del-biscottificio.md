@@ -18,9 +18,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 ---
 
-### Presentazione
-
-* a cura di ChatGPT 4o
+### Presentazione <br><sup>a cura di ChatGPT 4o</sup>
 
 ...
 
@@ -106,17 +104,17 @@ I miei più sinceri auguri di una sana distribuzione di biscotti.
 
 ## Related articles
 
-- 102 - **Sole, mare, spaghetti e mandolino** - [**`[PDF](../pdf.todo/102-Sole_mare_spaghetti_e_mandolino.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/sole-mare-spaghetti-e-mandolino-roberto-a-foglietta) (2017-11-05)
+- 102 - **Sole, mare, spaghetti e mandolino** - [**`[PDF](../pdf.todo/102-Sole_mare_spaghetti_e_mandolino.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/sole-mare-spaghetti-e-mandolino-roberto-a-foglietta) &nbsp; (2017-11-05)
 
-- 099 - **L'allocazione delle risorse** - [**`[PDF](../pdf.todo/099-Allocazione_delle_risorse.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/sole-mare-spaghetti-e-mandolino-roberto-a-foglietta) (2017-10-28)
+- 099 - **L'allocazione delle risorse** - [**`[PDF](../pdf.todo/099-Allocazione_delle_risorse.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/sole-mare-spaghetti-e-mandolino-roberto-a-foglietta) &nbsp; (2017-10-28)
 
-- 090 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) (2017-10-13)
+- 090 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-13)
 
-- 069 - **Il vantaggio di essere furbi** - [**`[PDF](../pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf?target=_blank)`**] origin [LinkedIn](https://it.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) (2017-04-07)
+- 069 - **Il vantaggio di essere furbi** - [**`[PDF](../pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf?target=_blank)`**] origin [LinkedIn](https://it.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) &nbsp; (2017-04-07)
 
 - 049 - **La Res Publica** - [**`[PDF](../pdf.todo/049-La_res_pubblica.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/la-res-pubblica-roberto-a-foglietta/) (2017-01-23)
 
-- 035 - **L'evoluzione dei sistemi sociali** - [**`[PDF](../pdf.todo/035-Evoluzione_dei_Sistemi_sociali.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/evoluzione-dei-sistemi-sociali-roberto-a-foglietta) (2016-12-28)
+- 035 - **L'evoluzione dei sistemi sociali** - [**`[PDF](../pdf.todo/035-Evoluzione_dei_Sistemi_sociali.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/evoluzione-dei-sistemi-sociali-roberto-a-foglietta) &nbsp; (2016-12-28)
 
 <br/>
 
