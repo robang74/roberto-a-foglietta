@@ -8,11 +8,11 @@
 
 Sommario delle edizioni successive:
 
-2. - rev.&nbsp;3 - con [attrattore](#perch-preoccuparsene) di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
+- **2a ed.** dall rev. 3, con [attrattore](#perch-preoccuparsene) di Lorenz e una più curata spiegazione della transizione di fase dei sistemi, anche in parte, intrinsecamente caotici.
 
-3. - rev.&nbsp;4 - con [esempio](#update-2025-01-19) di sistema Linux embedded dal comportamento caotico e imprevedibile a causa di multithreading e jittering nelle latenze.
+- **3a ed.** dalla rev. 4, con [esempio](#update-2025-01-19) di sistema Linux embedded dal comportamento caotico e imprevedibile a causa di multithreading e jittering nelle latenze.
 
-4. - rev.&nbsp;7 - cfr. [deepseek-ai](#deepseek-ai) con alcune modifiche suggerite da DeepSeek AI parzialmente accolte dopo la sua analisi del testo.
+- **4a ed.** dalla rev. 7, cfr. [deepseek-ai](#deepseek-ai) con alcune modifiche suggerite da DeepSeek AI parzialmente accolte dopo la sua analisi del testo.
 
 ---
 
@@ -170,9 +170,9 @@ Le modifiche che sono state applicate basandosi sui suggerimenti ricevuti dall'A
 
 ## AI papers related
 
-* [The system prompt alchemy, rules set escalation](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation) (2025-01-04)
+* [The system prompt alchemy, rules set escalation](https://robang74.github.io/chatbots-for-fun/html/the-system-prompt-alchemy.html#rules-set-escalation) &nbsp; (2025-01-04)
 
-* [Leveraging a chatbot for human writing](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) (2024-12-22 )
+* [Leveraging a chatbot for human writing](https://robang74.github.io/chatbots-for-fun/html/leveraging-a-chatbot-for-human-writing.html) &nbsp; (2024-12-22 )
 
 <br/>
 
