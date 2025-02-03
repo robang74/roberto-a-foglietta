@@ -25,6 +25,7 @@
 + md2html.sh: <id(tag-text)/> to add
 + .emoji class as wbsketch in *.css
 + md2html.sh: '''> e <``` code block
++ md2html.sh: id creation without ending spaces
 
 # DONE
 
