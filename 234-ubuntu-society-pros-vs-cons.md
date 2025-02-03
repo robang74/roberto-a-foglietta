@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2023-10-06:IT:+2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="bwsketch" src="img/234-ubuntu-society-pros-vs-cons-img-001.jpg" width="800"><br/></div>
+<div align="center"><img class="bwsketch" src="img/234-ubuntu-society-pros-vs-cons-img-001.jpg" width="800"><br></div>
 
 ## Ubuntu society, pros vs cons
 
@@ -14,7 +14,7 @@ Published Oct 7, 2023 - origin LinkedIn
 
 ---
 
-### Introduzione <br><sup>a cura di Gemini 2.0</sup>
+### Introduzione<br><sup>a cura di Gemini 2.0</sup>
 
 Il concetto di Ubuntu, con i suoi valori di solidarietà e responsabilità sociale, offre una chiave di lettura originale per il dibattito sul welfare. Questo testo esplora il legame tra Ubuntu e il welfare, sottolineando come quest'ultimo non sia solo uno strumento di supporto per i meno abbienti, ma anche una forma di assicurazione sociale per i più ricchi.
 
@@ -210,7 +210,7 @@ Perché non dimentichiamoci che c'è Ubuntu e ubuntu, mica come i socialisti ita
 
 - [A Starbucks Latte price in twelve countries](https://www.marketwatch.com/story/a-starbucks-latte-costs-more-than-12-in-this-country-2017-05-01) &nbsp; (2017-05-01) also saved in [PDF](data/a-starbucks-latte-costs-more-than-12usd-in-this-country.pdf?target=_blank) in `data` folder
 
-<br/>
++
 
 ## Share alike
 

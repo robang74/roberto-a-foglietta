@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2024-11-27:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="bwsketch" src="img/294-capire-e-la-chiave-di-volta-img-001.png" width="800"><br/></div>
+<div align="center"><img class="bwsketch" src="img/294-capire-e-la-chiave-di-volta-img-001.png" width="800"><br></div>
 
 ## Capire è la chiave di volta
 
@@ -78,7 +78,7 @@ Mal comune mezzo gaudio? Hanno fatto lo stesso con i nostri migliori clienti, in
 
 Andamento della produzione in Germania dal 1993 al 2024 con trend storico.
 
-<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-002.png" width="800"><br/><sup>tasto destro per ingrandire in una nuova finestra</sup></div>
+<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-002.png" width="800"><br><sup>tasto destro per ingrandire in una nuova finestra</sup></div>
 
 Nonostante dopo la pandemia di Covid-19, abbia ripreso il valore precedente, negli ultimi due anni da quando è iniziata la crisi dell'energia a causa della questione Ucraina, ha perso quasi un 1/5 rispetto a quello che era il trend stimato sui dati dei 30 anni prima.
 
@@ -94,7 +94,7 @@ Ma cosa succederebbe se l'Euro svalutasse (anche solo limitatamente all'Italia) 
 
 La prossima sezione di questo articolo proverà a dare una risposta concreta a questa domanda, però vi avviso in anticipo, tenetevi forte.
 
-<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br/>
+<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-004.png" width="800"><br>
 <sup>Screenshot del 2 dicembre 2024 - tasto destro per ingrandire in una nuova finestra</sup></div>
 
 **Luigi Del Giacco** ha scritto in un commento su LinkedIn:
@@ -179,7 +179,7 @@ Quando c'era la Lira si stava meglio, perché la Lira inflazionava, quindi perde
 
 Poi entrò nel WTO - l'organizzazione globale del commercio - con il suo marchio CE che significa "China Export" ed praticamente identico al marchio CE che significa "Conformità Europea" a meno di uno spazio in mezzo. Fateci caso, sono diversi per uno spazio in mezzo.
 
-<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-003.png" width="800"><br/></div>
+<div align="center"><img class="darkinv" src="img/294-capire-e-la-chiave-di-volta-img-003.png" width="800"><br></div>
 
 Quindi arrivò la pandemia di Covid-19 e il Governo Draghi perché quando la cacca piove dal cielo i nostri politicanti da strapazzo mandano avanti altri per poi tornare in sella appena risplende il sole. Ma con Draghi è anche partito un altro trend, che questi "piccioni" di politicanti non immaginavano nemmeno e non mi sto riferendo alla guerra in Ucraina.
 
@@ -199,7 +199,7 @@ Forse qualcuno dirà che sono solo numeri. Non però da un punto di vista della 
 
 Il risultato immediato è stato che gli italiani hanno perso 1/4 del loro valore d'acquisto ma il costo sociale è stato cancellare "ab-origine" una generazione di nuovi italiani, che equivale a dire: regalare l'Italia agli immigrati. Cosa che per altro facciamo dal 1979, demograficamente parlando. Quindi nulla di nuovo sotto al sole italico.
 
-<br/>
++
 
 ## Agnotology
 
@@ -211,7 +211,7 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 > There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that **my ignorance is just as good as your knowledge**. - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), 1980
 
-<br/>
++
 
 ## Articoli correlati
 
@@ -229,7 +229,7 @@ Qualcosa che però non sembra essere così recente ma che va assai indietro nel 
 
 * 177 - **Finanza concetti di base** - download [[**`PDF`**](../pdf.todo/177-Finanza_concetti_base.pdf?target=_blank)] origin [beBee](https://www.bebee.com/producer/@roberto-a-foglietta/finanza-concetti-base) &nbsp; (2018-03-23)
 
-<br/>
++
 
 ## Share alike
 

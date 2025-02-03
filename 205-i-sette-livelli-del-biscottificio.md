@@ -1,6 +1,6 @@
 <div id="firstdiv" created="2019-01-29:IT:+2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div align="center"><img class="bwsketch" src="img/205-i-sette-livelli-del-biscottificio-img-001.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/205-i-sette-livelli-del-biscottificio-img-001.jpg"><br></div>
 
 ## I sette livelli del biscottificio
 
@@ -18,7 +18,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 ---
 
-### Presentazione <br><sup>a cura di ChatGPT 4o</sup>
+### Presentazione<br><sup>a cura di ChatGPT 4o</sup>
 
 ...
 
@@ -32,7 +32,7 @@ La terza edizione integra nella presentazione a cura di ChatGPT un confronto con
 
 ...
 
-<br/>
++
 
 ### La corruzione, introduzione
 
@@ -100,7 +100,7 @@ In sintesi, il progresso della civiltà umana dipende dalla nostra capacità di 
 
 I miei più sinceri auguri di una sana distribuzione di biscotti.
 
-<br/>
++
 
 ## Related articles
 
@@ -116,7 +116,7 @@ I miei più sinceri auguri di una sana distribuzione di biscotti.
 
 - 035 - **L'evoluzione dei sistemi sociali** - [**`[PDF](../pdf.todo/035-Evoluzione_dei_Sistemi_sociali.pdf?target=_blank)`**] origin [LinkedIn](https://www.linkedin.com/pulse/evoluzione-dei-sistemi-sociali-roberto-a-foglietta) &nbsp; (2016-12-28)
 
-<br/>
++
 
 ## Share alike
 
