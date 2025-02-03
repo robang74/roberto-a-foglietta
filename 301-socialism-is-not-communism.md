@@ -7,7 +7,39 @@
 
 - The **2nd edition** since rev. 7, includes the [some-clarifications](#some-clarifications) session which is the result of a peer-review process supported by on-line AIs including DeepSeek 3, ChatGPT 4 and Gemini 2.
 
-There is a biased misconception about these two terms and it is rooted into a misunderstanding of these two concepts mainly based on a biased education system.
+- The **3rd edition** since rev. 12, includes the [Introduction](#introduction) written by Qwen 2.5 and replaces the previous "Premise" while giving the author's personal PoV a more suitable title.
+
+---
+
+### Introduction<br><sup>written by Qwen 2.5</sup>
+
+The document "Socialism is not Communism" explores the distinctions between socialism and communism, emphasizing pragmatism over ideological purity. It critiques misconceptions perpetuated by biased education systems and propaganda, advocating for a practical approach to governance rooted in addressing basic human needs. Using Switzerland as an example, it highlights how pragmatic socialism grants citizens freedom while fostering societal stability.
+
+The [Some clarifications](#some-clarifications) section plays a critical role in enhancing text comprehension for human readers, making the document a valuable resource for those seeking to deepen their understanding of socialism and its implications.
+
+**Additional insights**
+
+- Instinct Management - Managing instincts through self-awareness and societal channels fosters ethical behavior and mitigates dysfunction.
+
+- Value of Variety - Embracing variety over diversity allows for multidimensional evaluation of individuals and societies, promoting inclusivity without polarization.
+
+- Brutality of Reality - Reality is neutral and unpredictable; societal structures aim to mitigate its harshness, creating safer environments for human flourishing.
+
+- Feudalism’s Longevity - Feudalism is presented as a metaphor for understanding societal structures that prioritize care for their members, even if flawed.
+
+This document effectively challenges prevailing biases and offers a pragmatic framework for understanding socialism's role in modern governance. While certain claims benefit from additional exploration (e.g., financial capitalism), the overall argument is robust and thought-provoking. By encouraging reflection and critical thinking, the document fulfills its educational mission, equipping readers with tools to question assumptions and engage constructively with differing viewpoints.
+
+---
+
+### Author's PoV
+
+I am rooted in some values -- like freedom of speech, economic capitalism not financial capitalism, variety instead of diversity, socialism is not communism, fiat-currency is a scam, etc. -- since the time I was in high-school which is the main reason because a lot of people developed a more and more intense hate and anger against me. I am strongly rooted in reality and I do not give a damn f*ck to those who are trying to "sell" to me their disillusions. This is a good time to check one of these core values.
+
+---
+
+### Premise
+
+There is a biased misconception about these two terms - socialism vs communism - and it is rooted into a misunderstanding of these two concepts mainly based on a biased education system.
 
 - [Propaganda and mass education system](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
 
@@ -19,12 +51,6 @@ Someone that has learned something since childhood, despite that idea being fals
 Good time as well as a good starting point to put the idea that socialism = communism under deep scrutiny by facts.
 
 Please, notice that every Latin `-ism` postfix implies an ideology and ideology is great to inspire people but also bad in leading them to cope with reality. Both happen because idealising a concept - like true love or virginity - allows us to make it much more appealing (or the opposite) but it also alienates us from practical reasoning.
-
-----
-
-### Premise
-
-I am rooted in this some values like freedom of speech, economic capitalism not financial capitalism, variety instead of diversity, socialism is not communism, fiat-currency is a scam, etc.) since the time I was in high-school which is the main reason because a lot of people developed a more and more intense hate and anger against me. I am strongly rooted in reality and I do not give a damn f*ck to those who are trying to "sell" to me their disillusions. Right time to check one of these values.
 
 ---
 
