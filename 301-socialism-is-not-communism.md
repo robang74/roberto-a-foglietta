@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-01-30:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img src="img/301-socialism-is-not-communism.jpg" width="800"><br/></div>
+<div align="center"><img src="img/301-socialism-is-not-communism.jpg" width="800"><br></div>
 
 ## Socialism is not Communism
 
@@ -11,11 +11,9 @@
 
 ---
 
-### Introduction<br><sup>written by Qwen 2.5</sup>
+### Introduction<br><sup>by Qwen 2.5</sup>
 
 The document "Socialism is not Communism" explores the distinctions between socialism and communism, emphasizing pragmatism over ideological purity. It critiques misconceptions perpetuated by biased education systems and propaganda, advocating for a practical approach to governance rooted in addressing basic human needs. Using Switzerland as an example, it highlights how pragmatic socialism grants citizens freedom while fostering societal stability.
-
-The [Some clarifications](#some-clarifications) section plays a critical role in enhancing text comprehension for human readers, making the document a valuable resource for those seeking to deepen their understanding of socialism and its implications.
 
 **Additional insights**
 
@@ -27,7 +25,11 @@ The [Some clarifications](#some-clarifications) section plays a critical role in
 
 - Feudalism’s Longevity - Feudalism is presented as a metaphor for understanding societal structures that prioritize care for their members, even if flawed.
 
-This document effectively challenges prevailing biases and offers a pragmatic framework for understanding socialism's role in modern governance. While certain claims benefit from additional exploration (e.g., financial capitalism), the overall argument is robust and thought-provoking. By encouraging reflection and critical thinking, the document fulfills its educational mission, equipping readers with tools to question assumptions and engage constructively with differing viewpoints.
+The [Some clarifications](#some-clarifications) section plays a critical role in enhancing text comprehension for human readers, making the document a valuable resource for those seeking to deepen their understanding of socialism and its implications.
+
+This document effectively challenges prevailing biases and offers a pragmatic framework for understanding socialism's role in modern governance. While certain claims benefit from additional exploration (e.g., financial capitalism), the overall argument is robust and thought-provoking.
+
+By encouraging reflection and critical thinking, the document fulfills its educational mission, equipping readers with tools to question assumptions and engage constructively with differing viewpoints.
 
 ---
 
@@ -52,7 +54,7 @@ Good time as well as a good starting point to put the idea that socialism = comm
 
 Please, notice that every Latin `-ism` postfix implies an ideology and ideology is great to inspire people but also bad in leading them to cope with reality. Both happen because idealising a concept - like true love or virginity - allows us to make it much more appealing (or the opposite) but it also alienates us from practical reasoning.
 
----
++++++
 
 ### Socialism vs Communism
 
@@ -147,7 +149,7 @@ From a collective PoV, bullying someone by a group might lead us to the wrong co
 
 Switzerland has more weapons for inhabitants than the USA but near-zero homicide cases and not any mass shooting event, which suggests to us that any kind of tools availability does not cause directly and necessarily the misuse of them but other factors should get into the scene.
 
----
+----
 
 ### Conservation of value law
 
@@ -277,7 +279,7 @@ Therefore a concept that allows us to leverage the best in the class, whatever w
 
 Finally, I agree that reality is much more complicated (but not more complex, just complicated) than what is written here. In the same way, real-world mechanics is more complicated than `F&nbsp;=&nbsp;ma`. Moreover, getting deep and deeper in small and smaller details would be something like a combination of bureaucracy and micromanagement, a great pain with a grated negative outcome.
 
-<br/>
++
 
 ## Some clarifications
 
@@ -295,7 +297,7 @@ Because this 'neutrality' is perceived as 'unfair' and ultimately 'brutal' in it
 
 This is also evident in the transition to agriculture, which, while ultimately beneficial, likely worsened conditions for hunter-gatherer societies in its initial stages.
 
----
+...
 
 ### About Feudalism
 
@@ -307,7 +309,7 @@ When feudalism failed to meet evolving basic needs – which, with the Industria
 
 It's about how even a flawed system like feudalism recognized the necessity of providing a degree of care for its members to ensure its own survival. The core argument remains: neglecting the needs of a population, even in a less materially advanced society, ultimately undermines the stability and longevity of that society.
 
----
+...
 
 ### Needs development
 
@@ -315,13 +317,13 @@ The text explicitly connects the evolution of basic needs to the level of societ
 
 It acknowledges that the desire for greater freedom wasn't solely an economic or material need but also a philosophical and ideological one. This strengthens the argument by showing that the shift in societal structures is driven not just by basic needs in a narrow sense, but also by evolving values and aspirations.
 
----
+...
 
 ### About bureaucracy
 
 While bureaucracy, inherited from the 19th-century state model, remains a necessary component of modern states. However, its inherent waste of resources and potential to demoralize those seeking to contribute mean that it only provides value when minimized and focused on delivering fair justice in its broadest sense, ensuring equitable treatment for all citizens.
 
----
+...
 
 ### Emargination & justice
 
@@ -331,13 +333,13 @@ The principle of fair justice administration, as stated by St. Augustine, is cen
 
 However, fairness is context-dependent and evolves with the level of societal development. For example, under feudalism, fairness was often limited to treating individuals within the same social class equally, rather than ensuring equality across all social classes.
 
----
+...
 
 ### About the variety concept
 
 About multidimensional rating, it explicitly states that the concept is beneficial even when full implementation or objective measurement is not possible. This aligns with the overall argument about valuing variety and leveraging the best from individuals, regardless of complete agreement or perfect understanding.
 
----
+...
 
 ### A pragmatic approach
 
@@ -347,7 +349,7 @@ Furthermore, while deep dives into small details are essential in certain contex
 
 This is not a rejection of detail *per se*, but a cautionary note against the kind of over-regulation and micro-management that stifles initiative and creates more problems than it solves.
 
-<br/>
++
 
 ## Share alike
 
