@@ -26,6 +26,7 @@
 + .emoji class as wbsketch in *.css
 + md2html.sh: '''> e <``` code block
 + md2html.sh: id creation without ending spaces
++ md2html.sh: [!CODE] is special like tables 
 
 # DONE
 
