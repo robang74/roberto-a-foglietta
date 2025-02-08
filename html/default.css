@@ -184,21 +184,22 @@ img {
 }
 
 li {
-  position: relative;
-  padding-left: 25px; /* Adjust as needed */
-  list-style: none; /* Remove the default bullet */
-  margin-left: 0px; /* Explicitly reset any default list margins */
+    position: relative;
+    padding-left: 25px;
+    list-style: none;
+    margin-left: 0px;
 }
 
 li::before {
-  content: "\2022"; /* Bullet point character */
-  position: relative;
-  left: -20px;
+    content: "\2022"; /* Bullet point character */
+    position: relative;
+    left: -20px;
 }
 
 li.numli {
     position: relative;
-    left: -20px;
+    text-indent: -2em;
+    left: 0.75em;
 }
 
 li.numli::before { content: none; }
