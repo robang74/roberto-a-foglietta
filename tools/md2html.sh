@@ -45,6 +45,10 @@ cite_B='</blockquote>'
 
 p_line="<p></p>"
 
+emoji_a="<img class='emoji wbsketch' src='img/emoji/"
+blax2_a="<tt translate='no' nowrap><b>\&#x298B;\&thinsp;\&mdash;"\
+"\&nbsp;bla\&nbsp;bla\&nbsp;\&mdash;\&thinsp;\&#x298C;</b></tt>"
+
 TARGET_BLANK="target='_blank' rel='noopener noreferrer'"
 
 ################################################################################
@@ -94,29 +98,28 @@ function md2htmlfunc() {
     done
     eval "$cmd"
 
-    #<span style="font-family: emoji;">\&#128521</span>
-    local emoji_a="<img class='emoji wbsketch' src='img/emoji/"
-    sed -i $2 -e "s,{;-)},${emoji_a}wink.png'>,g" -e "s,{:-)},${emoji_a}smile.png'>,g" \
--e "s,{:-O},${emoji_a}wow.png'>,g" -e "s,{wow},${emoji_a}wow.png'>,g" \
--e "s,{zip},${emoji_a}zip.png'>,g" -e "s,{zzz},${emoji_a}zzz.png'>,g" \
--e "s,{<3},${emoji_a}heart.png'>,g" -e "s,{</3},${emoji_a}bheart.png'>,g" \
--e "s,{cat},${emoji_a}cat.png'>,g" -e "s,{cry},${emoji_a}cry.png'>,g" \
--e "s,{B-)},${emoji_a}cool.png'>,g" -e "s,{8-)},${emoji_a}nerd.png'>,g" \
--e "s,{:-|},${emoji_a}face.png'>,g" -e "s,{:-D},${emoji_a}grin.png'>,g" \
--e "s,{lol},${emoji_a}lol.png'>,g" -e "s,{:-(},${emoji_a}sad.png'>,g" \
--e "s,{O:-)},${emoji_a}halo.png'>,g" -e "s,{:-*},${emoji_a}kiss.png'>,g" \
--e "s,{:-/},${emoji_a}meh.png'>,g" -e "s,{ok},${emoji_a}ok.png'>,g" \
--e "s,{8=X},${emoji_a}death.png'>,g" -e "s,{8=},${emoji_a}skull.png'>,g" \
--e "s,{pig},${emoji_a}pig.png'>,g" -e "s,{bot},${emoji_a}robot.png'>,g" \
--e "s,{shh},${emoji_a}shh.png'>,g" -e "s,{hmm},${emoji_a}humm.png'>,g" \
--e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g" \
--e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g" \
--e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g" \
+    sed -i $2 -e "s,{blabla},$blax2_a,g"                                    \
+-e "s,{;-)},${emoji_a}wink.png'>,g" -e "s,{:-)},${emoji_a}smile.png'>,g"    \
+-e "s,{:-O},${emoji_a}wow.png'>,g" -e "s,{wow},${emoji_a}wow.png'>,g"       \
+-e "s,{zip},${emoji_a}zip.png'>,g" -e "s,{zzz},${emoji_a}zzz.png'>,g"       \
+-e "s,{<3},${emoji_a}heart.png'>,g" -e "s,{</3},${emoji_a}bheart.png'>,g"   \
+-e "s,{cat},${emoji_a}cat.png'>,g" -e "s,{cry},${emoji_a}cry.png'>,g"       \
+-e "s,{B-)},${emoji_a}cool.png'>,g" -e "s,{8-)},${emoji_a}nerd.png'>,g"     \
+-e "s,{:-|},${emoji_a}face.png'>,g" -e "s,{:-D},${emoji_a}grin.png'>,g"     \
+-e "s,{lol},${emoji_a}lol.png'>,g" -e "s,{:-(},${emoji_a}sad.png'>,g"       \
+-e "s,{O:-)},${emoji_a}halo.png'>,g" -e "s,{:-*},${emoji_a}kiss.png'>,g"    \
+-e "s,{:-/},${emoji_a}meh.png'>,g" -e "s,{ok},${emoji_a}ok.png'>,g"         \
+-e "s,{8=X},${emoji_a}death.png'>,g" -e "s,{8=},${emoji_a}skull.png'>,g"    \
+-e "s,{pig},${emoji_a}pig.png'>,g" -e "s,{bot},${emoji_a}robot.png'>,g"     \
+-e "s,{shh},${emoji_a}shh.png'>,g" -e "s,{hmm},${emoji_a}humm.png'>,g"      \
+-e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g"     \
+-e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g"     \
+-e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g"    \
 -e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e 's,\\\*,\&ast;,g' -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
--e 's,[^!/]-->,\&rarr;,g' -e 's,<--,\&larr;,g' \
+-e 's,\([^!/]\)-->,\1\&rarr;,g' -e 's,<--,\&larr;,g' \
 -e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
