@@ -14,9 +14,9 @@
 
 ### Update 2025-02-24
 
-[**`EN`**] My LinkedIn account access has been restored (down from 2024-12-15 up to 2025-02-23) and I took the chance to download my data, in particular all the articles. Among them I also found the drafts I did publish because I did not complete the writing or the review. Anyway, I am going to share that stuff as well starting from this [link](html/linkedin/) in their original HTML format.   
+[**`EN`**] My LinkedIn account access has been restored (down from 2024-12-15 up to 2025-02-23) and I took the chance to download my data, in particular all the articles. Among them I also found the drafts I did publish because I did not complete the writing or the review. Anyway, I am going to share that stuff as well starting from this [link](html/linkedin/index.htm) in their original HTML format.   
 
-[**`IT`**] L'accesso al mio account LinkedIn è stato ripristinato (down dal 2024-12-15 al 2025-02-23) e ho colto l'occasione per scaricare i miei dati, in particolare tutti gli articoli. Tra questi ho trovato anche le bozze che avevo pubblicato perché non avevo completato la stesura o la revisione. Ad ogni modo, condividerò anche questi articoli a partire da questo [link](html/linkedin/) nel loro formato HTML originale.
+[**`IT`**] L'accesso al mio account LinkedIn è stato ripristinato (down dal 2024-12-15 al 2025-02-23) e ho colto l'occasione per scaricare i miei dati, in particolare tutti gli articoli. Tra questi ho trovato anche le bozze che avevo pubblicato perché non avevo completato la stesura o la revisione. Ad ogni modo, condividerò anche questi articoli a partire da questo [link](html/linkedin/index.htm) nel loro formato HTML originale.
 
 ### Data management
 
@@ -204,7 +204,7 @@
 
 #### &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;
 
-All the files in this gihub repository are published **Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International** license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless stated differently or not applicable due to a different and previous authorship.
+All the files in this gihub repository and the related website are published under the **Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International** license terms ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)), unless stated differently or not applicable due to a different and previous authorship.
 
 Moreover, if a version of a document included in this repository exists or has existed under different licence terms, the licence terms of the latest version presented here apply. Even when the new licence terms are more restrictive, because permissions for any free content may be revoked at any time at the will of the author, and updating a licence to be more restrictive explicitly implies this will.
 
