@@ -1,0 +1,202 @@
+<html>
+<head>
+  <title>Introduzione alle reti neurali</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaC5612AQE3jK5BcCW91g" alt="" title="" />
+      <h1>Introduzione alle reti neurali</h1>
+    <p class="created">Created on 2016-09-16 19:38</p>
+  <p class="published">Published on ---</p>
+  <div>
+  <h2>STRUTTURA</h2> 
+  <p>Ognuno dei neuroni di ingresso è inizialmente connesso con ognuno dei neuroni dello strato immediatamente interno. Nel caso più semplice la rete neurale ha un solo neurone di uscita e una risposta digitale: true (1) o false (0):</p> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-full-width"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C5612AQFmRM7liQAN4A" src="https://media.licdn.com/dms/image/v2/C5612AQFmRM7liQAN4A/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1520256086616?e=1746057600&amp;v=beta&amp;t=FvfhepIn9xm5IX8tk-1pgKzot9uh8UHkBSc-QWzNonw"> 
+  </div> 
+  <p>Ogni neurone è una funzione che lega ingresso e uscita in modo non lineare. I domini di ingresso e uscita siano [0,1] e {0,1}. Inoltre, la funzione S è una funzione a scalino per la quale S(x) = 0 se x &lt; 0.5 e S(x) = 0 se x &gt; 0.5, ad esempio.&nbsp;Gli ingressi e l'uscita della rete neurale sono collegati attraverso una funzione sommatoria in cui:</p> 
+  <p>O = S(Y) dove Y = Sum-j (Ck * S(Zk)) e </p> 
+  <p>dove Zk = Sum-j (BjK * S(Xj)) e Xj = Sum-i (Aij * Ii)</p> 
+  <p>In questa formulazione Y, Zk e Xj sono gli stati interni dei neuroni mentre S(Y), S(Zj) e S(Xj) sono le risposte. L'insieme dei coefficienti Wijk = { Ck, Bjk, Aij } inizialmente assegnati casualmente è lo stato di apprendimento della rete. Ognuno di questi coefficienti è relativo a un legame (sinapsi) fra un neurone di uno strato e un'altro dello strato successivo oppure fra un input e un neurone del primo strato.</p> 
+  <p>Il valore dei pesi viene inizialmente assegnato a caso quindi per la natura della funzione scalino è opportuno che i valori iniziali siano distribuiti uniformemente nell'intervallo [0, 2/K] dove K è il numero dei neuroni del livello precedente.</p> 
+  <p>Infatti ogni Ck in [ 0, 2/K ] e ogni S(Zk) in {0, 1} dove k = { 1, ..., K }&nbsp;</p> 
+  <p>quindi mean (Ck * S(Zk)) = mean (Ck) * mean (S(Zk)) = 1/K * 0.5</p> 
+  <p>se E(x) è il valore atteso della variabile x allora:</p> 
+  <p>E(Y) = Sum-k ( mean (Ck * S(Zk)) ) = K * 1/K * 0.5 = 0.5&nbsp;</p> 
+  <p>Questo porta a un'equilibrata probabilità (50%) di avere il neurone in 0 (inibito) oppure in 1 (attivo).&nbsp;</p> 
+  <p>La possibilità di modificare, per ogni neurone, il livello di transizione della funzione scalino è equivalente ad aggiungere, in ogni livello, un elemento costantemente attivo (valore 1) affinché il peso ad esso associato Tj, inizialmente 0, possa modificare il transitorio:</p> 
+  <p>O = S(Y) dove Y = Sum-k (Ck * S(Zk)) + T ... etc. ... Xj = Sum-i (Aij * Ii) + (Tj * 1)</p> 
+  <p>Quindi Wijk e Ii diventano Wijk = { { Ck, T }, { Bjk, Tk }, { Aij, Tj } } e Ii = { Ii, 1 }</p> 
+  <h2>APPRENDIMENTO</h2> 
+  <p>Affinché la rete neurale possa imparare deve essere sottoposta a un ciclo di apprendimento in cui alla presentazione di un input viene fornito un feedback di tipo incoraggiante (positivo) oppure di tipo critico (negativo). L'importante è che vi sia quello critico in maniera da correggere gli errori, quest'ultimo in effetti è l'unico necessario quando l'apprendimento è una fase a se stante.&nbsp;</p> 
+  <p>Una volta che la rete neurale ha completato il ciclo di apprendimento la sua affidabilità viene misurata in termini statistici (percentuale). Si noti che una rete neurale che preveda una risposta digitale 0/1 sbagli sistematicamente (0%) è equivalente a una rete neurale che dia sempre la risposta giusta (100%) perché basta una funzione NOT di negazione per passare dall'una all'altra. Mentre una rete neurale che dia una risposta giusta al 50% è equivalente a tirare una moneta, testa o croce, a caso.&nbsp;</p> 
+  <p>Il valore dei pesi viene inizialmente assegnato a caso quindi per la natura della funzione scalino è opportuno che i valori iniziali siano distribuiti uniformemente nell'intervallo 1/K dove K è il numero dei neuroni del livello precedente. Infatti:</p> 
+  <p>Ai = {0, 1} e Xi = [0, sqrt(2)/K] --&gt; mean( Ai ) = 1/2 e mean( Xi ) = 1/K</p> 
+  <p>quindi se E(x) è il valore atteso fantasticamente parlando ovvero il valor medio sull'intero dominio dei pesi casuali:</p> 
+  <p>Zj = Sum-i (Ai * Xi), dove i = {1, 2, ..., K} </p> 
+  <p>allora </p> 
+  <p>E(Zj) = K * mean ( Ai ) * mean ( Xi ) = 0.5</p> 
+  <p>Questo porta a un'equilibrata probabilità (50%) di avere il neurone in 0 (inibito) oppure in 1 (attivo). Si noti che anche in questo dominio ristretto di pesi casuali l'evoluzione dell'apprendimento e quindi il livello di affidabilità dopo M passaggi dipende dall'insieme casuale dei pesi inizialmente assegnati. Questo implica che la natura non lineare della funzione d'uscita dei neuroni unito a un'adeguata funzione di apprendimento, salvo casi particolari, vada dopo M passaggi (con M &gt;&gt; 1) a disaccoppiare le condizioni iniziali da quelle finali, ovvero livelli di apprendimento ragionevolmente simili, ovvero uguali entro un determinato scarto statistico dipendente da M.&nbsp;</p> 
+  <p>Per fare un esempio, si stima che il moto di una palla di bigliardo dotata di rugosità impercettibili ma non nulle che si muova a contatto su di un tavolo senza attrito dotato di sponde con rumore termico non sia più classicamente determinabile dopo sette urti, significa che dopo sette urti lo stato di moto è disaccoppiato dalle condizioni iniziali. In questo caso si suppone che la struttura della rete neurale e la sua funzione di apprendimento portino a un risultato convergente rispetto all'affidabilità della risposta (a meno di una funzione NOT) a prescindere da quasi ogni condizione iniziale (palla ferma = condizioni iniziali speciali).</p> 
+  <p>Se dopo M cicli di apprendimento due reti neurali strutturalmente identiche ma con valori dei pesi iniziali differenti&nbsp;giungono a P1 = P1(W1ij) = 75% e P2 = P2(W2ij) = 69% allora una terza rete neurale che utilizzi i pesi W3ij = (W2ij + W1ij)/2 non necessariamente avrà P3 = P(W3ij) = (75% + 69%)/2. Questo perché la funzione del neurone non è lineare quindi la funzione complessiva dell'intera rete non sarà lineare. Spesso si osserva che P3 &lt; min( P1, P2 ), in questo esempio P3 &lt; 69%.</p> 
+  <p>Altro discorso invece è fare l'apprendimento di un grande numero di reti diciamo un milione (1m) per eccesso. Quindi usare come pesi iniziali la media dei pesi </p> 
+  <p>W(m)ij = ( W(1)ij + ... + W(1m)ij ) / 10^6 [¹] </p> 
+  <p>e poi sottoporre questa nuova rete al medesimo processo di apprendimento. Si può obbiettare che non vi è alcuna garanzia che questo approccio sia migliorativo rispetto a fare l'apprendimento su una sola rete neurale con un milione di esempi e che nemmeno che vi sia la garanzia che il risultato finale sia migliore del migliore delle reti neurali. Esistono però due ragioni per procedere con questo meccanismo:</p> 
+  <p>a) non è detto che si disponga di un numero grande a sufficienza di casi di apprendimento e di controllo, generalmente non è così;</p> 
+  <p>b) non è detto che il set di apprendimento e quello di controllo siano ben assortiti perciò se esistono N(a) esempi di apprendimento e N(c) esempi di controllo lo scarto sull'affidabilità della rete è di sqrt ( 1/N(a)^2 + 1/N(c)^2 ) quindi non sono solo le condizioni iniziali a fare la differenza ma anche l'assortimento dei casi di esempio e controllo.</p> 
+  <p>Se si ha un numero di casi pari a 2N e si vuole fare il migliore apprendimento e la migliore valutazione dell'apprendimento occorre dividere in due sottoinsiemi questi 2N casi. Infatti se N(a) &gt; N(c) si ha che l'apprendimento è più esteso ma l'errore di valutazione sull'apprendimento è maggiore. Fissato il massimo errore sulla valutazione abbiamo anche fissato il numero dei casi per l'apprendimento N(a) + N(c) = 2N. Per semplicità assumiamo che N &lt;&lt; 100 e quindi N(a) = N(c). Il numero degli insiemi di cardinalità N di casi di apprendimento scelti su 2N possibili è SEL(N, 2N) e per ognuno di questi percorsi di apprendimento è possibile scegliere condizioni iniziali differenti.</p> 
+  <p>Ritornando al caso P3 &lt; min( P1, P2 ) e volendo fare un paragone potremmo dire che la composizione degli apprendimenti fa dimenticare alla rete neurale i dettagli dell'apprendimento ma potremmo ipotizzare che ne aumenti l'esperienza. Quest'ultimo rimane un termine vago fintanto che non gli diamo una dimensione. Abbiamo visto che l'affidabilità di una rete neurale dipende da determinati fattori, a parità di struttura, ma potremmo anche parlare di robustezza intesa in questi termini:</p> 
+  <p>a) abbiamo un set di casi di cui non conosciamo con certezza la catalogazione, se siamo fortunati abbiamo una stima migliore del 50% per ognuno di essi (esempio, per un determinato caso ignoto A stimiamo che la probabilità di appartenere a 0 sia del 75%).</p> 
+  <p>b) le differenti reti neurali per ognuno di questi casi potrebbero dare una diversa catalogazione, se siamo fortunati avremo che per ognuno di questi esempi la media della catalogazione si discosti molto dal 50% (ad esempio, per un determinato caso ignoto A il 75% delle risposte è 0).</p> 
+  <p>A questo punto avremo I1 = SEL(N, 2N) reti neurali con condizioni iniziali casuali e I2 = SEL(N, 2N) reti neurali con condizioni iniziali fissate dalla media dei pesi delle precedenti, più una rete neurale I3 con solo la media dei pesi del primo insieme ovvero senza ulteriore apprendimento.</p> 
+  <p>Il confronto fra I1 e I2 ci fornisce una misura dell'importanza delle condizioni iniziali. Il confronto fra I2 e I3 ci fornisce una misura dell'importanza dell'apprendimento. Teniamo presente che potremmo aver scelto casi difficili per l'apprendimento e casi facili per il controllo quindi ottenendo un risultato molto buono ma solo apparente e viceversa casi facili per l'apprendimento e casi difficili per il controllo ottenendo un risultato insoddisfacente. Il risultato insoddisfacente è certo mentre il risultato buono è discutibile [²].</p> 
+  <p>La capacità di risolvere quesiti complessi dipende dal numero degli strati e dal numero dei neuroni presenti nello strato nascosto. Quello che è stato qui rappresentato semplicemente come Zj in realtà può essere costituito da più strati perciò, in generale, gli Zj che sono risposta dello strato di input non sono gli stessi Zj che costituiscono l'ingresso dello strato di risposta finale. Quindi esiste un'intrinseco limite, a dispetto di ogni misurazione, della capacità di apprendere in modo astratto la risoluzione di un quesito.</p> 
+  <p>Immaginiamo di dover decidere se un volto ritratto in un'immagine di 100x100 pixels sia di sesso maschile o femminile. La domanda sia "E' questo un uomo?" e la risposta possa essere "Si,1" oppure "No,0". La struttura della rete neurale preveda che ogni strato successivo contenga 100 volte meno neuroni di quello precedente. Lo strato di input avrà 100x100 neuroni = 10^4, quello successivo 10^2 e poi 1. Inizialmente il numero delle connessioni (sinapsi) fra neuroni è 10^4 x 10^2 + 10^2 * 1 ~ ( 10^4 )^2 / 100 ~ 100^4 / 100 = 10^6.</p> 
+  <p>A questo punto immaginiamo di avere un'immagine di 1000x1000 pixels e di non volerla ridimensionare a 100x100. Questa nuova rete avrà un numero totale di neuroni pari a 1000^2 * 1000^2 / 100 + ... + 1 ~ 1000^4 / 100 = 10^10. Quindi al crescere della dimensione dell'immagine di 10 volte di lato la il numero delle sinapsi è cresciuto di 10^4 e quindi anche il tempo di calcolo. Somme e confronti, la funzione a scalino è un confronto, sono operazioni estremamente semplici e veloci ma la funzione di apprendimento ovvero quella funzione che va a modificare ogni singolo peso come segue</p> 
+  <p>Per ogni Wij += f ( Err, {Wij},&nbsp;{ {Zj} }, {Xi} )&nbsp;</p> 
+  <p>dove Err in [0,1] cioè la differenza fra la risposta corretta {0,1} e il valore interno al neurone d'uscita, e in generale, { Wij }, {Zj}, {Xi} sono gli insiemi delle sinapsi e dei neuroni nei vari strati. Questo significa che per ogni sinapsi abbiamo una funzione che teoricamente dipende da uno spazio parametrico di dimensione pari a 1 + dim { {Wij},&nbsp;{ {Zj} }, {Xi} }. Nel primo caso è circa (100^4 / 100) x (1 x 100) x (100 x 100) ~ 10^12 nel secondo caso circa (1000^4 / 100) x (1 x 100 x 10^4) x 10^6 ~ 10^22. Questo ci fornisce una misura della complessità del problema che le due reti sono in grado di risolvere. In termini di tempi di calcolo la funzione di apprendimento nel primo caso dipende da circa 10^6 paramenti mentre nel secondo da circa 10^10 quindi sarà 10^4 (diecimila) volte più lenta della precedente.&nbsp;</p> 
+  <p>Poiché la funzione di apprendimento deve esercitarsi su tutti i pesi (sinapsi) il rapporto del tempo di calcolo effettivo fra le due reti neurali sarà di (10^4)^2 ovvero di 100 milioni di volte maggiore per la seconda. Ogni ciclo di apprendimento dovrebbe essere eseguito per ogni caso d'apprendimento, diciamo siano 10 casi. Quindi alla prima rete occorrono 10 secondi per completare tutto il ciclo di apprendimento mentre alla seconda occorro quasi 32 anni. Questo purché la caratteristica della funzione sia O(N) (ovvero il tempo di calcolo cresce linearmente con il numero dei parametri) se fosse O(N^2) (ovvero il tempo di calcolo cresce con il quadrato del numero di parametri) allora il tempo sarebbe 317 mila anni.</p> 
+  <h2>CONCLUSIONE</h2> 
+  <p>In generale, dal numero di strati nascosti e di neuroni dipende la capacità della rete neurale di affrontare problemi complessi. In generale, il numero delle sinapsi cresce con il quadrato del numero dei neuroni. In generale, la funzione di apprendimento è O(N) rispetto al numero di parametri quindi al numero di sinapsi e per ogni singolo caso deve essere ricalcolata per ogni sinapsi quindi il tempo di esecuzione dipende dal numero di neuroni alla quarta potenza. Un approccio esaustivo comporta l'apprendimento completo di circa 2 * SEL(N, 2N) reti neurali dove N è la cardinalità dell'insieme dei casi di apprendimento. In termini del tutto generali l'approccio alle reti neurali appare impraticabile.</p> 
+  <p>In pratica, la dimensione degli input e la struttura della rete neurale deve essere correttamente calibrata in funzione della complessità reale del problema. I dati di ingresso debbono essere pre-elaborati in maniera che siano più facilmente gestibili dalla rete neurale e essere adeguati alla dimensione dello strato di input. La funzione di apprendimento può lavorare a cascata e progressivamente eliminare le sinapsi con contributo irrilevante ed ignorare quelle sinapsi che dimostrano un differenziale quasi nullo. La funzione di apprendimento può essere approssimata in maniera da renderla almeno O(log(N)) ma alcune approssimazioni sono incompatibili con l'eliminazione delle sinapsi irrilevanti o statiche, ad un certo stadio di apprendimento ma non a quelli successivi. L'evoluzione dell'apprendimento può essere fatto per combinazione selettiva al fine di ottenere successive generazioni progressivamente con migliori performance. Una rete totalmente statica è utile se correttamente istruita ma una rete che possa continuare ad apprendere tramite un approccio try-and-error è più adattabile ad usi con basso livello di supervisione. La funzione di adattamento però deve prevedere una memoria dei casi positivi ovvero un rafforzamento positivo e non solo una revisione critica dei pesi delle sinapsi altrimenti un falso negativo avrà un effetto più grande di quello reale.</p> 
+  <h2>NOTE</h2> 
+  <p>[¹] invece della media statistica si può fare una media pesata sull'affidabilità della rete ma questo implica avere un altro set di controllo indipendente dal set di apprendimento. Quando la quantità di esempi di cui è certa la risposta scarseggia l'apprendimento iniziale diventa un compromesso fra valutazione e apprendimento. Per semplicità è stata usata la media ma si può anche scartare tutte le reti neurali che siano risultati meno affidabili di una certa percentuale.</p> 
+  <p>[²] questa è la ragione per la quale scartare tutte le reti neurali al di sotto di una certa prestazione ha un fondamento logico: si suppone che questo risultato sia dovuto a una combinazione non adeguata, sfortunata. Mentre si considerano tutte le altre equivalenti non avendo la certezza che espandendo notevolmente il numero dei casi le prestazioni rimangano invariate.</p>
+ 
+</div>
+</body>
+</html>

@@ -1,0 +1,147 @@
+<html>
+<head>
+  <title>Linux, Android & RedFish OS</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaD4D12AQEPUplYb033WQ" alt="" title="" />
+      <h1><a href="https://www.linkedin.com/pulse/linux-android-redfish-os-roberto-a-foglietta-jke0f">Linux, Android & RedFish OS</a></h1>
+    <p class="created">Created on 2024-10-13 13:22</p>
+  <p class="published">Published on 2024-10-13 15:19</p>
+  <div><p><em>This article is based on a post written in Italian and </em><a href="https://www.linkedin.com/posts/robertofoglietta_android-debian-e-redfish-os-13-ottobre-activity-7251187129320431616-cU8L" target="_blank"><em>published</em></a><em> on LinkedIn the same day. However, the content of the article differs from a mere translation in English.</em></p><hr><h2>Premise</h2><p><strong>11th October 2024</strong> - Google is preparing to let you run Linux apps on Android, just like Chrome OS. Google is developing the framework to let you run Debian in a virtual machine on your Android device.<em> - </em><a href="http://lnkd.in/dPG79nyf" target="_blank">lnkd.in/dPG79nyf</a></p><blockquote><p>Engineers at Google started work on a new Terminal app for Android a couple of weeks ago. This Terminal app is part of the Android Virtualization Framework (AVF) and contains a WebView that connects to a Linux virtual machine via a local IP address, allowing you to run Linux commands from the Android host. Initially, you had to manually enable this Terminal app using a shell command and then configure the Linux VM yourself. However, in recent days, Google began work on integrating the Terminal app into Android as well as turning it into an all-in-one app for running a Linux distro in a VM.</p></blockquote><p>In the first place, it must be said that Google is not redefining the architecture of Android but only providing a user-space tool that allows Debian to run on their mobile platform and then for any other derived Linux distribution, also.</p><hr><h2>Google AVF architecture</h2><p>Curious because considering that Android's kernel is actually Linux, it would be useful to do the opposite: run Linux and virtualise Android. In fact, it already does, Android runs by a hypervisor called pKVM. - <a href="http://lnkd.in/dVu8vyQp" target="_blank">lnkd.in/dVu8vyQp</a></p><figure><img data-media-urn="urn:li:digitalmediaAsset:D4D12AQEHtEEtA-8OBw" src="https://media.licdn.com/dms/image/v2/D4D12AQEHtEEtA-8OBw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1728826119314?e=1746057600&amp;v=beta&amp;t=2C2HZoHXPdldDGFk3GIHl44N6IZ9Dx8GiBB9W7P9frA"><figcaption>Android Virtualization Framework (AVF) overview</figcaption></figure><p>However, not with a virtual machine, which would significantly degrade the system's performance (usually by 1/2), but through segregation, which is absolutely possible, since unlike a generic VM, execution on the processor is supervised but transparent.</p><p>Moreover, ARM CPUs already have specific instructions to achieve this type of segregation at the code execution level (e.g. restricting access to RAM to certain segments, only those allocated).</p><hr><h2>RedFish OS approach</h2><p>According to the Android documentation, everything is just in place: Linux kernel, hypervisor, separation of layers, but at the same time there is nothing like RedFish OS. </p><p>It seems that there is everything and instead there is nothing (cit.) simply because such architecture is ‘normal’ -made at the state of art - but in its development never took into account devices hardware fragmentation and the optimization of costs of scale for a mobile devices market that barely did not even exist before Android or not at that scale.</p><p><strong>What are the advantages of the RedFish OS approach?</strong></p><p>The advantages of an Android container are that all the hardware management part would go out of the picture, so Android would no longer be an operating system but an application run-time framework and a development environment for apps. Just as it is today, but in a container. As it is today, precisely.</p><figure><img data-media-urn="urn:li:digitalmediaAsset:D4D12AQHg77nf_Ja1MQ" src="https://media.licdn.com/dms/image/v2/D4D12AQHg77nf_Ja1MQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1728829733220?e=1746057600&amp;v=beta&amp;t=xFx_Fu47uTsye4XF9WFccqJ3djyEOdz4kieXSWQGcL0"><figcaption>Image source: </figcaption></figure><p>This, in essence, is the concept behind RedFish OS. It is not everything, but it is the fundamental part. Hence, its nature of a dual-mode bootable image for rescue/maintenance and supervised execution of the Android system.</p><p>As the rest of its value-added functionalities would rely on these two market separation without which it could be just an app with root privileges. Like a VM for running Debian applications within the Android platform like ChromeOS is able to do.</p><hr><h2>Consultancy</h2><p>This case showed the importance of the consultancy. </p><p>Consultancy gives its best when a company needs a vertical specialist in a specific topic for a limited amount of time and that verticalization is hard to find around or it would take too much time developing internally.</p><p>On the other side of the spectrum, consultancy gives its best when a project is going to face a challenge never faced before. In this case, a multiply-mildly-verticalised specialist is essential.</p><p>Someone that is not strongly tied with a technology or a view, in particular but s/he developed enough experience and a method good enough to drive STEM people further the current state of the art.</p><p>The verb 'to drive' has been purposely used here because the mystic and vague idea of the leadership did not work in facing the unknown costs effort and when the quest is quite challenging.</p><p>People will not follow in those conditions and not even wish to be pushed into it. Hence, driving is the last resort or accepting a no-go as an alternative option.</p><p>However, a driver is doomed to not remain in the position after the convoy reaches its destination. Because, people do not like to be driven but they prefer to follow someone around Candy Land where each step gives them a little satisfaction.</p><p>Plus, there is always another convoy that needs a driver to cross a desert where there is not a candy for each step but just effort.</p><hr><h2>Simplicity</h2><p>Simplicity is the ultimate form of sophistication. The STEM people are able to create impressive clockworks in which the complications are managed precisely and beautifully. Swiss luxury watch manufacturing is a nice example of this.</p><p>Also the engines of the Space Shuttle belong within this example. However, with the Starship's launcher project by Elon Musk's industries we saw something going further: the Raptor engine in its 1st generation was a beautiful clockwork of complications.</p><figure><img data-media-urn="urn:li:digitalmediaAsset:D4D12AQF_kOneJQwb6g" src="https://media.licdn.com/dms/image/v2/D4D12AQF_kOneJQwb6g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1728830843109?e=1746057600&amp;v=beta&amp;t=wric1J-1po-nN-mjYJ-T82XYYAAAi8Zr-tkODWGvDn8"><figcaption>Raptor engine evolution among three generation</figcaption></figure><p>Was it necessary achieve such sophistication to achieve simplicity? The number of propulsion engines in the Space Shuttle was 3 while the Starship's launcher has more than 30. An order of magnitude greater.</p><p>Such a new scale required dropping any kind of complication in order to cut every single cost including those related to maintenance and because each piece is at risk of failing during a launch. Hence, as less pieces are involved as lower risk of encountering a failure.</p><p>One of the basic ways to reduce complications is disengagement or separation but layers are a kind of separation. The disengagement principle also implies to create some degrees of independence (freedom) among some macro-layers. </p><p>In fact, a compact/rigid system has several good properties but flexibility and resilience are not among them, thus also security without a complete redundancy.</p><hr><h2>Conclusion</h2><p>The fortune of IBM was being forced by the US anti-trust to release the specification for free-as-free-beer their IBM AT PC standards.</p><p>Comparing the AT architecture with the ARM one, it was mediocre at those times as well. Despite its shortcomings, being a universal and free-of-charge standard made it the most successful HW platform until the advent of the ARM based mobile devices.</p><p>Instead, their proprietary and hard-to-copy DR-DOS did not have the same fortune compared to the mediocre MS-DOS and easy-to-copy. That made the beginning of the Microsoft fortune: the virality of being duplicated almost without restrictions and then spreading around even without any marketing pressure to push it.</p><p>Hence, it does not matter how good Android is. It spread around earning a 2x size market in the number of devices in circulation (or in use) compared to the completely closed and proprietary alternative by Apple. However, not so much in net revenues and in particular per unit.</p><p>The key to change this scenario for the better of all the players relies in introducing a degree of freedom among the macro-layers of the Android architecture.</p><p>This will bring more flexibility and those who adopt the better-than-the-previous generation device models like Apple did and does, will achieve a great advantage.</p><p>This despite flexibility will also help those who prefer to rely on the hardware fragmentation for increasing their revenues but gross revenues are not necessarily net incoming.</p><p>People, who can put some more extra money on buying a device, will prefer to buy the Nth generation that a device that brought them good value/service in the past rather than be tempted by cheaper and unknown alternatives.</p><p>Still, cheaper and soon-unsupported alternatives will always be in the wild because as much the confusion as the quest for perfection are both two fundamental traits of human nature whatever the market segmentation is or will be.</p><hr><h3>Related papers</h3><ul><li><p><a href="https://github.com/robang74/redfishos/blob/main/RedFishOS-presentation-A4.pdf" target="_blank">RedFish OS business presentation with an executive introduction</a></p></li><li><p><a href="https://github.com/robang74/redfishos/tree/main/sfsconf-2023" target="_blank">GitHub RedFish OS' collection of SFSCON 2023 paper collection</a></p></li><li><p><a href="https://github.com/robang74/P2C2-Management-Style" target="_blank">P²C² management style and my SCRUM in a nutshell</a></p></li></ul><hr><h2>Share alike</h2><p>© 2024, <a href="http://www.roberto.foglietta.name/" target="_blank">Roberto A. Foglietta</a>, licensed under Creative Common Attribution Non Commercial Share Alike v4.0 International Terms (<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>).</p></div>
+</body>
+</html>

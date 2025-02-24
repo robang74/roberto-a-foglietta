@@ -1,0 +1,147 @@
+<html>
+<head>
+  <title>LLM con fine-tuning in latino</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaD4D12AQEccVX5CmEt5Q" alt="" title="" />
+      <h1><a href="https://www.linkedin.com/pulse/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of">LLM con fine-tuning in latino</a></h1>
+    <p class="created">Created on 2024-02-02 06:26</p>
+  <p class="published">Published on 2024-02-02 07:10</p>
+  <div><p><em>Published on 2nd Feb, 2024 [3rd draft]</em></p><hr><p>Leggo in <a href="https://www.linkedin.com/feed/update/urn:li:activity:7156556445843369984?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7156556445843369984%2C7159026690919157760%29&amp;dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287159026690919157760%2Curn%3Ali%3Aactivity%3A7156556445843369984%29" target="_blank">un post</a> di <a href="https://www.linkedin.com/in/ACoAABn9QScByWMZCw-z80v18ps9HCwnQop0_AM?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABn9QScByWMZCw-z80v18ps9HCwnQop0_AM" target="_blank">Emanuele Albarino</a>, riguardo ad un interessante esperimento di fine-tuning in Italiano di un'unità Mistral LLM.</p><blockquote><p>Segnalo un modello fine-tuned per la lingua italiana basato su Mistral-7B che stiamo usando per un progetto di ricerca: “Cerbero-7B” (c’è anche la versione con 14 miliardi di parametri)</p></blockquote><p>Bella la ricerca scientifica ma perché fine-tuning in Italiano? WHY? La risposta sembra scontata "<em>per comprendere meglio l'italiano</em>" ma NON lo è affatto.</p><hr><h3>Tante lingue per un pensiero migliore</h3><p>Secondo me è errato l'approccio di unità mistral fine-tuned su una lingua specifica. Uno degli aspetti che stupisce delle attuali LLMs dipende dalla loro apparente capacità di comprendere il testo. Nella realtà questi modelli NON comprendono il significato del testo ma usano correttamente le parole rispetto alla loro semantica. Per questo sembrano così intelligenti.</p><p>La semantica delle parole è andata modificandosi nell'arco del tempo - dei secoli o dei millenni - se andiamo a considerare le loro radici etimologiche. Ma è cambiata molto lentamente - perché il progresso e la società cambiavano lentamente - questo tipo di cambiamento ha permesso ad una determinata struttura semantica di consolidarsi e preservarsi, per altro, facendo in modo che la logica antica rimanesse un fondamentale del ragionamento.</p><p>Ad esempio, il latino era una lingua molto precisa (come il rumeno o il tedesco, lo sono ancora oggi) nelle sue regole sintattiche. Non è possibile parlare correttamente il latino senza conoscere a menadito la grammatica e viceversa parlare correttamente il latino significa conoscere la grammatica. L'opposto dell'inglese dove invece la semplicità la fa da padrone eccetto per phrasal verbs, le forme irregolari, l'uso di "<em>were</em>" come "<em>se fosse stato</em>".</p><p>L'eccessiva semplicità dell'inglese ha portato a creare artefatti per esprimere concetti che altrimenti non si sarebbero potuti esprimere. La semplicità dell'inglese ha permesso alle masse di adottarlo e farlo proprio, quindi di storpiarlo con lo slang e le irregolarità. Nel suo complesso però è una lingua che se usata senza aver imparato il latino per ragionare - ergo senza essere nati inglesi e nobili - finisce per portare a dei ragionamenti errati e molto semplicistici, tipici dei coloni inglesi che imbarcavano sulle navi verso il nuovo mondo.</p><p>Il risultato è palese negli americani: <em>fast &amp; furious</em> con la capacità cognitiva di un 12enne neanche tanto brillante. La stessa definizione che Mr. B diede degli Italiani. Perché questo è quello che siamo diventati quando abbiamo cominciato a pasticciare con la semantica delle parole, dimenticandoci sia la loro etimologia sia la grammatica e ormai avendo obliato il latino: ignoranti e superficiali nel ragionamento.</p><p>D'altronde se molti studiosi del pensiero, sono convinti che non ci sia pensiero senza linguaggio (HP) appare ragionevole pensare che se un linguaggio non è preciso e correttamente usato porti a degli errori e mediocri approssimazioni (incertezze) del pensiero (TH).</p><p>Si noti che l'ipotesi (HP) è falsa - ma non totalmente falsa, solo incompleta - e lo si capisce dalla tesi (TH). L'ipotesi corretta, ovvero completa, sarebbe: </p><ul><li><p>non esiste pensiero STRUTTURATO senza un linguaggio STRUTTURATO.</p></li></ul><p>Più è strutturato il linguaggio, più è strutturato il pensiero. Ma per gli esseri umani il linguaggio naturale non è certo Python, è una lingua come potrebbe esserlo l'italiano, l'inglese, il tedesco o il rumeno.</p><p>Se facciamo un fine-tuning di un'AI sulla lingua italiana - in particolar modo usando testi moderni o addirittura articoli di giornale affetti da bias contemporanei e in particolare dalla moda di sorprendere (o confondere, sul lungo periodo) il lettore con l'uso dei termini in contrasto con la loro semantica. Otteniamo un'AI che parla un linguaggio moderno del tipo: "<em>Yo, baby I am fkm hot</em>" che non serve a niente a parte a fare il rapper.</p><hr><h3>La struttura del pensiero</h3><p>I moderni LLMs <a href="https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf" target="_blank">sembrano intelligenti</a> perché sono addestrati su molte lingue e su testi di molte epoche, per ognuna di quelle lingue, e sulle loro varie traduzioni. È provato che l'AI negli strati profondi parli una SUA lingua che utilizza come mediatore fra input in una lingua e output in un'altra lingua. Questa lingua interiore è anche la STRUTTURA di pensiero dello LLM.</p><p>A parità di risorse di calcolo e a parità di tempo di risposta la prima versione di Bard era già molto più "<em>intelligente</em>" della prima versione di ChatGPT. Perché Bard è stato addestrato con il latino fin da principio infatti il traduttore di Google è uno dei pochi che traduce il latino e Bard, ultimamente, si rifiuta di fare traduzioni dicendo che non è quello il suo mestiere.</p><p>In Google si sono accorti che Bard è in grado di tradurre testi da una lingua ad un altra e apparentemente molto meglio del loro traduttore (translate) specie se il testo è molto lungo e complesso MA proprio quando Bard sarebbe più utile - testo lungo e complesso - introduce delle allucinazione, ovvero in alcuni casi traduce il testo in modo arbitrario e sopratutto come traduttore NON è deterministico ovvero il risultato della traduzione non è riproducibile.</p><p>Quindi se dico: questo testo è stato tradotto da Bard dall'originale X. Tu prendi il testo originale X e lo metti nella TUA sessione di Bard, lo traduci e potresti ottenere un risultato che in alcune parti è concettualmente diverso dalla MIA traduzione e mi daresti del truffatore. Poi però tornado nella tua sessione di Bard dopo qualche mese anche tu potresti ottenere una diversa traduzione del testo originale X rispetto a quella che avevi ottenuto prima.</p><hr><h3>Pensiero onirico, non riproducibile</h3><p>La non riproducibilità di una traduzione come presenta Bard è un ENORME problema perché mina la fiducia fra esseri umani, piuttosto che minare il rapporto fra uomo-macchina. </p><p>Perché, ad esempio, io ero molto contento delle ottime traduzioni italiano-inglese o viceversa di Bard. Però io conosco abbastanza bene entrambe le lingue e la traduzione automatica è solo una questione di "<em>pigrizia</em>" produttiva: faccio fare a Bard quello che potevo fare io e mi limito a rileggere la traduzione come avrei fatto con il mio testo scritto così sistemo solo alcuni strafalcioni qui e là che tanto avrei fatto anch'io in prima battuta.</p><p>Questo significa che Bard - PENSA - quando traduce e quindi inventa ma inventa senza criterio ovvero senza esperienza della realtà ovvero produce allucinazioni ovvero è capace di pensiero onirico.</p><p>Oltretutto da un punto di vista forense la traduzione fatta da Bard in quanto NON riproducibile, in essenza, è un delirio. Quindi se qualcuno facesse la "<em>furbizia</em>" di usare Bard per tradurre un testo in una lingua o in un dialetto che non comprende bene, e la usasse per fare delle ipotesi probatorie peggio se inquisitorie, sarebbe un deliro.</p><hr><h3>Sognare non è inutile</h3><p>Se uso Bard per tradurre una canzone scritta in una lingua molto distante da quelle che conosco - e.g. di radice slava - è un delirio. Ma lo è anche con un traduttore propriamente detto perché lo slang e i sensi gergali tipici delle canzoni si perdono con il risultato di avere dei testi tradotti privi di senso. Quelli di Bard sembrano sensati MA posono essere inventati e molto probabilmente lo sono in certi aspetti (interpretazione).</p><p>Lavorando con più LLM e più traduttori, avanti e indietro da una lingua all'altra, si riesce ad ottenere qualcosa di ragionevole. Per esempio, con questo sistema ho tradotto una canzone "<em>Asi se mi stejska</em>" dal Ceco che conosco così poco da non avere nemmeno idea di quanto <a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Froberto.a.foglietta%2Fposts%2Fpfbid02QGUnPkxDv2UvqeeEt5rf6Dkf8aFKzXopyzmZ8y1ZiiN9ooBRdGmTMP6jEqXk3hWLl" target="_blank">il testo tradotto</a> sia conforme al significato di quello originale della canzone anche se regge sotto molteplici aspetti come traduzione.</p><p>Un'altra cosa che Bard ha smesso di fare è di elaborare il "<em>dettato</em>" o "<em>sbobinamento</em>" dei filmati su youtube perché la richiesta di riassumere il parlato di un video (monologo, presentazione in una conferenza con slides) era ottimo APPARENTEMENTE ma per chi aveva fatto l'intervento (autore) era pacifico che Bard NON aveva la più pallida idea di cosa stesse dicendo.</p><p>Roba che se lo fa tuo figlio di 12enne anni gli dai un bacetto sulla fronte, se lo fa il tuo collega senior non sai se ti sta prendendo in giro o è si è fatto una canna, se lo fa un junior lo mandi a comprare olio di gomito dal ferramenta per vedere l'effetto che fa.</p><hr><h3>L'intelligenza è un'altra cosa</h3><p>Nella sintesi di un video di presentazione con slides capisci che Bard non è intelligente - decisamente NON è intelligente - ma patetico in termini di intelligenza.</p><p>Ma è qui che cade il mondo: Bard che fa la sintesi di una presentazione con slides - dove ho già visto questo delirante modo di relazionarsi con la realtà? - ah, già i comizi dei <a href="https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta" target="_blank">nostri politici</a>. Se butta male in taluni tratti anche il discorso del Presidente della Repubblica a fine anno. L'omelia in chiesa del parroco avvinato - FIN QUA SI RIDE E SI SCHERZA - poi subito dopo viene in mente il discorso del Pontefice dal balcone di Castel Sant'Angelo - ECCO QUA BRIVIDI.</p><p>Ecco a questo punto scattano i brividi. Perché Bard è l'anello mancante fra tuo figlio 12enne e il Pontefice nella sua veste infallibile di Pietro, su questo soglio costruirò la mia Chiesa. A quel punto, ci vuole molto poco perché il capo della commissione sull'intelligenza artificiale in Italia diventi un monaco francescano.</p><p>Se Bard ha le allucinazione quando interpreta e riassume un video di una presentazione con slides - può essere comico - non fa più ridere quando ti ricorda il modo con cui il Pontefice interpreta il Vangelo prima della benedizione urbi-et-orbi.</p><p>Ma ritorniamo al punto precedente, che è meglio!</p><hr><h3>Fine tuning in Latino</h3><p>Il fine-tuning di un LLM su una sola lingua e per giunta nella sua declinazione contemporanea (articoli di giornale) è il migliore modo per avere una LLM tonta e affetta dai pregiudizi correnti, uno yes-man social-engineered a puntino. Per fortuna il pre-training è stato fatto bene (si spera) e il fine-tuning serve solo a renderla più precisa in Italiano. Ma perché? WHY?</p><p>Se c'è un fine-tuning che andrebbe fatto su un LLM con pre-traning multi-lingua è in latino. Ovvero, un ripassino di struttura del linguaggio come struttura del pensiero. Ora che ti sei costruito la tua lingua interiore - accertiamoci che essa sia una lingua dotata di una grammatica e una struttura precisa come quella del latino, così pensi come Spock.</p><p>Alla fine il dibattito fra<strong> </strong><a href="https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta" target="_blank">Mrs Poppins e Mr Spock</a> - in termini tecnici ovvero di apprendimento - era principalmente decidere se il fine-tuning andava fatto "Via con il Vento" in inglese oppure sulla "Retorica" scritta in latino da Cicerone. In estrema sintesi, naturalmente, poi un po' di <em>check &amp; enforcement</em> non guasta e produce una misura del risultato e garantisce uno standard.</p><hr><h3>Conclusione</h3><p>Se vuoi che il tuo modello LLM sia in grado di un ragionamento strutturato - non di capire quello su cui ragiona ma di ragionare senza comunque non capire niente però in modo più strutturato di prima - allora il pre-traning deve essere fatto in multi-lingue incluso il latino, tedesco, rumeno, inglese e il fine-tuning deve essere fatto in Latino.</p><p>Una unità Mistral da 7B multi-lingua e il fine-tuning in latino vs il Papa, potrebbe essere difficile distinguerli quando parlano. </p><p><em>Orcozio cosa caxxo abbiamo combinato!</em> 🤗 </p><hr><h3>Articoli correlati</h3><ul><li><p><a href="https://www.linkedin.com/pulse/ai-la-tecnologia-che-fa-paura-roberto-a-foglietta-4bgcf" target="_blank">A.I.: la tecnologia che fa paura</a> (<em>26th Jan 2024, in Italiano</em>)</p></li><li><p><a href="https://www.linkedin.com/pulse/good-prompt-rules-even-better-roberto-a-foglietta-v1txf/" target="_blank">Good prompt rules even better</a> (<em>5th Jan 2024, in Italiano</em>)</p></li><li><p><a href="https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta" target="_blank">L'A.I. è l'incubo della politica incapace</a> (<em>1st Apr 2023, in Italiano</em>)</p></li><li><p><a href="https://www.linkedin.com/pulse/miss-poppins-vs-mr-spock-roberto-a-foglietta" target="_blank">Miss Poppins vs Mr. Spock</a> (<em>27th Mar 2023, in English</em>)</p></li><li><p><a href="https://www.linkedin.com/pulse/job-interview-julia-chatgpt-v3-ai-roberto-a-foglietta" target="_blank">A job interview with ChatGPT v3.5</a> (<em>7th Dec 2022, in English</em>)</p></li><li><p><a href="https://www.linkedin.com/pulse/ai-seen-from-dark-side-moon-roberto-a-foglietta" target="_blank">The A.I. seen from the dark side of the moon</a> (<em>27th Oct 2017, in Italiano</em>)</p></li></ul><hr><hr><h3>Share alike</h3><p>© 2024, <a href="http://www.roberto.foglietta.name/" target="_blank">Roberto A. Foglietta</a>, licensed under Creative Common Attribution Non Commercial Share Alike v4.0 International Terms (<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>).</p></div>
+</body>
+</html>

@@ -1,0 +1,196 @@
+<html>
+<head>
+  <title>Errore e convergenza</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+      <h1>Errore e convergenza</h1>
+    <p class="created">Created on 2016-11-07 08:05</p>
+  <p class="published">Published on ---</p>
+  <div>
+  <h2>Introduzione</h2> 
+  <p>La nostra convinzione è che la calcolatrice abbia sempre ragione e che al più siamo noi che abbiamo sbagliato a scrivere il calcolo. E' interessante questo approccio pratico al calcolo perché di recente ho notato che un collega si è interessato a una serie prodotto la quale mi ha dato la possibilità di riflettere su alcuni dettagli che vale la pena di descrivere perché in effetti non sono dettagli trascurabili.</p> 
+  <h3>Una serie prodotto</h3> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-full-width"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C4E12AQGe5N8qFEUO0A" src="https://media.licdn.com/dms/image/v2/C4E12AQGe5N8qFEUO0A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520627173385?e=1746057600&amp;v=beta&amp;t=z6TZEMbg9414AvdVca2R-D22IgLQ8tM3vPNmh_4MTMg"> 
+  </div> 
+  <p>Quest serie prodotto è affascinante sotto molti punti di vista infatti:</p> 
+  <ul> 
+   <li>è costruita in modo da sembrare un frattale </li> 
+   <li>è il prodotto di termini tutti maggiori di 1</li> 
+   <li>l'ennesimo termine tende a 1</li> 
+   <li>il calcolo del prodotto di N termini tende a π</li> 
+   <li>è il prodotto di 2ⁿ per una serie moltiplicativa&nbsp;il cui ennesimo termine tende a ½ [¹]</li> 
+   <li>la convergenza dell'intera serie moltiplicativa non è ovvia</li> 
+   <li>l'errore di calcolo sull'ennesimo termine è del tipo (1 + ε)ⁿ</li> 
+   <li>l'errore di calcolo sull'ennesimo termine diverge per qualsiasi ε&gt;0 piccolo a piacere</li> 
+  </ul> 
+  <h3>Un passo alla volta</h3> 
+  <p>Pur tenendo conto che i criteri di convergenza sono fondamentali per provare che effettivamente esista una convergenza e per determinare il tipo di convergenza l'approccio del calcolo ci può essere utile in alcuni casi ma non in altri. Ad esempio:</p> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-middle"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C5612AQHHgmJ4oxxPCw" src="https://media.licdn.com/dms/image/v2/C5612AQHHgmJ4oxxPCw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1520199276151?e=1746057600&amp;v=beta&amp;t=fkarQUKoKWohGuF88rQapSczj25EbRrNQkvJCGQPD1s"> 
+  </div> 
+  <p>Il calcolo di questo termine sarà {1.41421, 1.84776, 1.96157, 1.99037, 1.99759, 1.99940, 1.99985, 1.99996, 1.99999, 2.00000}. Se usiamo una precisione di calcolo ±ε questo sarà l'errore sulla radice quadra. Sul calcolo del termine più interno a(N) = 2+√2 avremo un errore di ±ε perché 2 è un numero esatto. Quindi avremo una somma di numeri affetti da errore ±ε cioè avremo una combinazione statistica di N errori ±ε per i quali la media sarà zero ma a 3σ di confidenza potremmo dire che l'errore di calcolo complessivo sarà dell'ordine di ±3ε. Usando una precisione di 16bit, pari a ε=1/2^16 allora l'errore sarà ±0.00005 praticamente a 16 bit avremo che 1.99996±0.00005 e ogni altro numero della serie calcolato non aggiungerà significativa informazione. Però possiamo usare una precisione buona a piacere a scapito del tempo di computazione.</p> 
+  <p>Ciò che ci rende confidenti nell'approccio numerico in questo caso è il fatto che l'errore a fine calcolo rimane costante e quindi il prodotto della confidenza per l'errore può essere reso piccolo a piacere. Ma non è sempre così.</p> 
+  <h3>Pareto e le moltiplicazioni</h3> 
+  <p>Se facciamo dei calcoli in Pareto (P = 80% =0.8) otteniamo una serie progressiva del tipo {P, (1−P)·P, ..., (1−P)ⁿ·P } e troveremo che l'andamento dell'errore di calcolo data la precisione ±ε avrà un andamento del tipo E(n) = (1 + ε)ⁿ −1. Questo ci creerà seri problemi perché ne il termine ennesimo e neppure la sommatoria dei termini convergono. C'è però un fatto interessante:</p> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-full-width"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C5612AQHDor79LB4ZAA" src="https://media.licdn.com/dms/image/v2/C5612AQHDor79LB4ZAA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1520256070925?e=1746057600&amp;v=beta&amp;t=xdlUpNn-cWWdTacVsiYskFJEK0X46o-rS1mAcGZWLEQ"> 
+  </div> 
+  <p>La peculiarità del metodo di Pareto garantisce che la combinazione degli errori tenda a zero e che la loro escursione sia inferiore a 2ε e più precisamente 16ε/9. Perciò anche a precisione finita e costante un modello matematico strutturato in Pareto ha meno del doppio dell'errore di calcolo del più semplice modello di calcolo basato su una sola operazione affetta da errore ripetuta.</p> 
+  <h2>Ritornando alla serie iniziale</h2> 
+  <p>Se il termine ennesimo della serie iniziale tendesse a un numero maggiore di 1 la serie divergerebbe. Se tendesse a un numero inferiore a 1 convergerebbe a 0. Senza una dimostrazione analitica e con il termine ennesimo che tende a 1, la sua convergenza non ci è ovvia. Però possiamo per quanto detto sopra possiamo approssimarla come segue</p> 
+  <ul> 
+   <li>2ⁿ · ½ⁿ = 1; 2·2ⁿ · ½ⁿ = 2; 2·√2·2ⁿ · ½ⁿ ~ 2√2 = 2.828</li> 
+  </ul> 
+  <p>Questo ci permette di comprendere che tutto l'errore di calcolo sta nell'approssimazione 2ⁿ · ½ⁿ e se andiamo a vedere il termine successivo 2/√(2+√2) comprendiamo che l'andamento di quel prodotto è strutturato come ∏ ͓&nbsp;(1 + a ͓) con 1 &gt; a ͓&gt; 0 per ogni x questo ci porta a dire che ∏ ͓&nbsp;(1 + a ͓) ~ 1 + ∑ ͓a ͓ + fattori di ordine superiore.</p> 
+  <p>Questo significa che per X+1 il termine X sarà moltiplicato per un numero maggiore di uno (1 + a ͓) ma la serie prodotto convergerà se gli a ͓ avranno un andamento a zero tale per il quale una funzione loro maggiorante sia integrabile a patto che il termine X-esimo sia limitato ma questo per induzione e per quanto detto più sopra. Ad esempio</p> 
+  <ul> 
+   <li> ∏ ͓&nbsp;(1 + a ͓) diverge se a ͓ ~ 1/x e converge se a ͓ ~ 1/x²</li> 
+  </ul> 
+  <p>perché i fattori di ordine superiore non influenzano la convergenza dell'integrale.</p> 
+  <h2>Note</h2> 
+  <p>[¹] dal sito <a href="http://math.stackexchange.com/questions/849274/the-convergence-of-sqrt-2-sqrt-2-sqrt-2-ldots" target="_blank">math.stackexchange.com</a> la dimostrazione della convergenza della serie (successione) dei denominatori della serie prodotto considerata</p> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-full-width"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C5612AQEO8wX1Gd5Frw" src="https://media.licdn.com/dms/image/v2/C5612AQEO8wX1Gd5Frw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520143453055?e=1746057600&amp;v=beta&amp;t=UzjmZyDxD7cQuaB8hR5-2eRTA9_Mkx8_YgofK5jcV4g"> 
+  </div> 
+  <p><br></p> 
+  <p><br></p>
+ 
+</div>
+</body>
+</html>

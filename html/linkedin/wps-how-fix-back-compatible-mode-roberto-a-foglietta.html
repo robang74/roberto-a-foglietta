@@ -1,0 +1,184 @@
+<html>
+<head>
+  <title>WPS+: how to fix it in a back compatible mode</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaC5612AQGPprK7RUwStA" alt="" title="" />
+      <h1><a href="https://www.linkedin.com/pulse/wps-how-fix-back-compatible-mode-roberto-a-foglietta">WPS+: how to fix it in a back compatible mode</a></h1>
+    <p class="created">Created on 2016-04-25 09:19</p>
+  <p class="published">Published on 2016-04-25 09:44</p>
+  <div>
+  <p><em>Published on&nbsp;April 25, 2016 -- Updated on October 18, 2016</em></p> 
+  <p>The Wi-Fi Protected Setup (WPS) is a way to pairing two wireless devices pushing a button and sometimes inserting a personal identification number (PIN). Unfortunately the existing protocol implementation exchanges the PIN in two subsets which reduces greatly the guessing from 10 millions to 11 thousands.</p> 
+  <p>Fixing a WPS vulnerability in a back compatible mode is possible changing only the router side. However,&nbsp;the most common objection is the well-know principle for which <em>the strength of a chain is determined by the weakest link</em>. In the same manner the security of a system depends on the weakest part. This is an analogy and&nbsp;it is useful to give us a broad picture but not to get deep enough into details and it may conduct us to a wrong conclusion that we should work on the both sides of the protocol implementation: false.</p> 
+  <p>In WPS case, the weakest part is the router. The system A (R1, C1, C2, C3) and the system B (R2, C1, C2, C3) may have the same protocol, may have the same clients but&nbsp;have different level of security because the way&nbsp;in which the protocol is implemented into router R1 than R2. This happens any time there were multiple ways to implement a protocol maintaining the compatibility and in particular when the two ways differ because they are stateless and statefull.</p> 
+  <p><em>When an enrollee attempts to gain access using a PIN, the registrar reports the validity of the first and second halves of the PIN separately. Since the first half of the pin consists of four digits (10,000 possibilities) and the second half has only three active digits (1,000 possibilities), at most 11,000 guesses are needed before the PIN is recovered. This is a reduction by three orders of magnitude from the number of PINs that would be required to be tested. As a result, an attack can be completed in under four hours. The ease or difficulty of exploiting this flaw is implementation-dependent, as Wi-Fi router manufacturers could defend against such attacks by slowing or disabling the WPS feature after several failed PIN validation attempts.</em></p> 
+  <p>-- Fonte:<em> </em><a href="https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup#Vulnerabilities" target="_blank">https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup#Vulnerabilities</a></p> 
+  <p><strong>The WPS is vulnerable because the router reports the validity of the first and second halves of the PIN separately</strong>. Disabling the WPS feature after several wrong PIN submissions&nbsp;could have some good impact. However this approach may be not very effective if the defensive policy will&nbsp;delay only the second&nbsp;PIN half protecting the last 1.000 combinations, only.</p> 
+  <p>The WPS+ would be less vulnerable&nbsp;even if it still&nbsp;exchange the PIN in two halves&nbsp;because the router reports always OK at the first PIN part challenge, even if the check failed, then it will report OK or KO as result of a logic AND of the two checks. In order to do that the WPS+ on router side should be a statefull protocol implementation. It should keep memory of the previous first check result&nbsp;to deliver the final answer, later when the second challenge&nbsp;will arrive.</p> 
+  <div class="slate-resizable-image-embed slate-image-embed__resize-middle"> 
+   <img data-media-urn="urn:li:digitalmediaAsset:C5612AQHU-sRnH4f0HQ" src="https://media.licdn.com/dms/image/v2/C5612AQHU-sRnH4f0HQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520178060844?e=1746057600&amp;v=beta&amp;t=PNuCR7teyPTfSi7K2dRIOA7ybjqugr5p9HGxWX_GF2U"> 
+  </div> 
+  <p>In such a way an attacker will not know if the first part of the PIN would be correct until it also found the correct second part of the PIN. So far, whatever reasonable way the client implements the protocol the entire system is enough strong to restore the initial 10 millions combinatory space.</p> 
+  <p>Moreover a statefull implementation could be deliver a back compatibility WPS able to 1) be safer; 2) manage multiple WPS clients authentication in parallel; 3) have a more effective and selective brute force attack response policy. For all these reasons a complete statefull implementation of WPS deserve a specific name like WPS+, for example.</p> 
+  <p>If you are interested in IoT pairing then take a look to&nbsp;<a href="https://www.linkedin.com/pulse/white-paper-iot-wireless-pairing-proposal-roberto-a-foglietta" target="_blank">White Paper: IoT wireless pairing proposal</a>&nbsp;and fell free to contact me (roberto.foglietta@gmail.com) for further information or in order to help you to develop your own implementation.</p> 
+  <h3>UPDATE</h3> 
+  <p>May WPS could not be fixed in this way? Ok, then we found WHY we need a <a href="http://www.linkedin.com/pulse/white-paper-iot-wireless-pairing-proposal-roberto-a-foglietta" target="_blank">new protocol</a>, HOW to implement it and WHAT should not be done (again). Is it right?</p> 
+  <p>More question? From <a href="http://www.linkedin.com/pulse/fare-innovazione-roberto-a-foglietta" target="_blank">Fare Innovatizione</a> (published in Italian on May 4th, 2016):</p> 
+  <ul> 
+   <li>if we have a manual then we use that manual, if we do not have a manual then we are going to solve a problem - <em>preferably</em> - before it will became a problem;</li> 
+   <li>we need to look at the big picture (holistic approach) before get deep into details;</li> 
+   <li>it is very important to make mistakes before going in productions, to learn something new from that mistakes;</li> 
+   <li>there are two kind of mistakes: those are wastes and those are teachers;</li> 
+   <li>for succeeding, we need to brilliantly choose our mistakes to make.</li> 
+  </ul> 
+  <p>Developing the good questions is being half way from a good solution!</p> 
+  <h2>Index of all the articles</h2> 
+  <ul> 
+   <li><a href="https://www.linkedin.com/pulse/indice-articoli-roberto-a-foglietta" target="_blank">Project Management, Decision Making, Technology Innovation, Leadership &amp; Creativity, Economia, Cultura, Società e Costume, Progetti, Idee e di divulgazione</a>.</li> 
+  </ul> 
+  <h3>Related article</h3> 
+  <ul> 
+   <li><a href="https://www.linkedin.com/pulse/white-paper-iot-wireless-pairing-proposal-roberto-a-foglietta" target="_blank">White Paper: IoT wireless pairing proposal</a>&nbsp;(12 dicembre 2015, EN)</li> 
+  </ul> 
+  <h2>Share alike</h2> 
+  <p>(C) 2016, Roberto A. Foglietta, licensed under Creative Common&nbsp;Attribution-NonCommercial-ShareAlike 4.0 International terms (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>).</p>
+ 
+</div>
+</body>
+</html>

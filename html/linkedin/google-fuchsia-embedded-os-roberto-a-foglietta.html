@@ -1,0 +1,252 @@
+<html>
+<head>
+  <title>Google Fuchsia Embedded OS</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaC5612AQEGFTRchVBHBQ" alt="" title="" />
+      <h1><a href="https://www.linkedin.com/pulse/google-fuchsia-embedded-os-roberto-a-foglietta">Google Fuchsia Embedded OS</a></h1>
+    <p class="created">Created on 2016-08-17 21:45</p>
+  <p class="published">Published on 2016-08-17 22:13</p>
+  <div>
+  <p><em>Published on August 17, 2016</em></p> 
+  <p><strong>MAGENTA - HOW TO RUN YOUR OWN C SOURCE CODE BINARY</strong></p> 
+  <p>On August 15th, Google <a href="http://fortune.com/2016/08/15/google-fuchsia-operating-system" target="_blank">unveiled</a> a <a href="http://uk.businessinsider.com/google-building-new-operating-system-fuchsia-not-based-on-android-linux-kernel-2016-8" target="_blank">new operative embedded system</a> called <a href="https://en.wikipedia.org/wiki/Google_Fuchsia" target="_blank">Fuchsia</a> based on Magenta kernel. Here below you will find a step by step guide to compile and run this new kernel under qemu. Moreover a manual tool-chain configuration in order to compile your own C-source example code.</p> 
+  <p>The target architecture chosen is Arm64 CPU type arm926ej-s and the host is <a href="http://releases.ubuntu.com/14.04/ubuntu-14.04.5-desktop-amd64.iso.torrent" target="_blank">Ubuntu Linux 14.04 x86-64</a>. The list of package in the following may not be fully exhaustive, especially if you install Ubuntu from scratch.</p> 
+  <h3><strong><em>## Compiling and providing the buildtools</em></strong></h3> 
+  <p>sudo apt-get install git libc-dev-bin gcc-multilib curl</p> 
+  <p>mkdir -p fuchsia</p> 
+  <p>pushd fuchsia</p> 
+  <p>git clone https://fuchsia.googlesource.com/buildtools</p> 
+  <p>git clone https://fuchsia.googlesource.com/magenta</p> 
+  <p>pushd buildtools/</p> 
+  <p>./update.sh</p> 
+  <p>popd</p> 
+  <h3><strong><em>## Compiling and providing the&nbsp;tool-chain&nbsp;for ARM target</em></strong></h3> 
+  <h3><em>## Available architectures: arm i386 aarch64 x86_64</em></h3> 
+  <p>sudo apt-get install texinfo libglib2.0-dev autoconf libsdl-dev \</p> 
+  <p>build-essential bison flex</p> 
+  <p>TARGET_ARCH="aarch64"</p> 
+  <p>declare -i N_CPUS=$(nproc)</p> 
+  <p>SYSROOT=$PWD/buildtools/sysroot</p> 
+  <p>git clone https://fuchsia.googlesource.com/third_party/gcc_none_toolchains</p> 
+  <p>ln -sf gcc_none_toolchains toolchain</p> 
+  <p>pushd toolchain</p> 
+  <p>./doit -a $TARGET_ARCH -f -j$N_CPUS</p> 
+  <p>popd</p> 
+  <p>TCBIN_PATH=$(readlink -f $PWD/toolchain/$TARGET_ARCH-*/bin)</p> 
+  <p>export PATH=$PATH:$TCBIN_PATH</p> 
+  <h3><strong><em>## Building Magenta for pc-x86-64 target</em></strong></h3> 
+  <h3><em>## Available build targets: magenta-pc-x86-64 magenta-qemu-arm32</em></h3> 
+  <h3><em>## magenta-qemu-arm64 pc-x86-64-test pc-x86-test qemu-virt-a15-test</em></h3> 
+  <h3><em>## qemu-virt-a53-test rpi3-test</em></h3> 
+  <p>pushd magenta</p> 
+  <p>make -j$N_CPUS magenta-qemu-arm64</p> 
+  <p>popd</p> 
+  <h3><strong><em>## Compile qemu and make Magenta run with it</em></strong></h3> 
+  <p>git clone https://fuchsia.googlesource.com/third_party/qemu</p> 
+  <p>pushd qemu</p> 
+  <p>git checkout fuchsia</p> 
+  <p>./configure --target-list=$TARGET_ARCH-softmmu \</p> 
+  <p>--prefix=$PWD/../qemu-runtime</p> 
+  <p>make -j$N_CPUS install</p> 
+  <p>export PATH=$PWD/../qemu-runtime/bin:$PATH</p> 
+  <p>popd</p> 
+  <p>pushd magenta/build-magenta-qemu-arm64</p> 
+  <p>declare -i REAL_MEM_KB QEMU_MEM_MB N_CPUS_QEMU</p> 
+  <p>N_CPUS_QEMU=$[(N_CPUS+1)/2]</p> 
+  <p>REAL_MEM_KB=$(grep -e ^MemTotal: /proc/meminfo | tr -cd [0-9]) </p> 
+  <p>QEMU_MEM_MB=$[($REAL_MEM_KB+1024)/2048]</p> 
+  <p>test $QEMU_MEM_MB -gt 512 &amp;&amp; QEMU_MEM_MB=512</p> 
+  <p>qemu-system-$TARGET_ARCH -m $QEMU_MEM_MB -nographic \</p> 
+  <p>-machine virt -cpu cortex-a53 -kernel magenta.elf -append ''</p> 
+  <p>#&gt; ls /boot/bin</p> 
+  <p>#&gt; core-tests</p> 
+  <p>#&gt; thread-depth-test</p> 
+  <p>#&gt; dlog</p> 
+  <p># to terminate qemu</p> 
+  <p>CTRL-A X </p> 
+  <p>popd</p> 
+  <h3><strong><em>## Manual preparation of the current toolchain</em></strong></h3> 
+  <p>export CC=aarch64-elf-gcc</p> 
+  <p>export CXX=aarch64-elf-g++</p> 
+  <p>export LD=aarch64-elf-ld.gold</p> 
+  <p>export AR=aarch64-elf-ar</p> 
+  <p>export AS=aarch64-elf-as</p> 
+  <p>export NM=aarch64-elf-nm</p> 
+  <p>export STRIP=aarch64-elf-strip</p> 
+  <p>export RANLIB=aarch64-elf-ranlib</p> 
+  <p>export DLLTOOL=aarch64-elf-dlltool</p> 
+  <p>export OBJDUMP=aarch64-elf-objdump</p> 
+  <p>export RESCOMP=aarch64-elf-windres</p> 
+  <p>export WINDRES=aarch64-elf-windres</p> 
+  <p>CFLAGS="-Wall -Wextra -ffunction-sections -fdata-sections -fPIC -mcpu=cortex-a53 -std=c11"</p> 
+  <p>CFLAGS="$CFLAGS -include config-global.h -include config-user.h"</p> 
+  <p>CFLAGS="$CFLAGS $(for i in $(find ../global ../system ../third_party -name include); do echo -n "-I $i "; done)"</p> 
+  <p>export CFLAGS</p> 
+  <p>export HOSTING_CRT0=./ulib/crt1.o</p> 
+  <p>LIB_PATH_1=$(dirname $TCBIN_PATH)/lib/gcc/$TARGET_ARCH-elf/5.3.0</p> 
+  <p>LDFLAGS="-s -nostdlib -Lkernel -Lsystem -Lthird_party -z max-page-size=4096 --gc-sections&nbsp;-z combreloc -z relro -z now -z text --hash-style=gnu --eh-frame-hdr&nbsp;--build-id -pie -dynamic-linker ld.so.1 $HOSTING_CRT0"</p> 
+  <p>export LDFLAGS</p> 
+  <p>EXTRA_LIBS="$(find ./ulib/ -name \*.so.abi) $LIB_PATH_1/libgcc.a"</p> 
+  <h3><strong><em>## Compile and run your own code</em></strong></h3> 
+  <p>cp -f ../third_party/uapp/kilo/kilo.c chilo.c</p> 
+  <p>wget -c roberto.foglietta.name/pub/mk/armstrong.c</p> 
+  <p>rm -f chilo.o chilo armstrong.o armstrong extra.bootfs</p> 
+  <p>$CC $CFLAGS -c armstrong.c -o armstrong.o</p> 
+  <p>$CC $CFLAGS -c chilo.c -o chilo.o -fPIC -Wno-unused-parameter</p> 
+  <p>$LD $LDFLAGS armstrong.o $EXTRA_LIBS -o armstrong</p> 
+  <p>$LD $LDFLAGS chilo.o $EXTRA_LIBS -o chilo</p> 
+  <h3><strong><em>## Remake the extra.bootfs initrd image</em></strong></h3> 
+  <p>file chilo armstrong</p> 
+  <p>echo "bin/armstrong=./armstrong" &gt; extra.manifest</p> 
+  <p>echo "bin/chilo=./chilo" &gt;&gt; extra.manifest</p> 
+  <p>../../buildtools/mkbootfs -o extra.bootfs extra.manifest </p> 
+  <p>sync</p> 
+  <h3><strong><em>## Run a new qemu instance of Magenta with the new initrd image</em></strong></h3> 
+  <p>qemu-system-$TARGET_ARCH -m $QEMU_MEM_MB -nographic \</p> 
+  <p>-machine virt -cpu cortex-a53 -kernel magenta.elf -initrd extra.bootfs -append ''</p> 
+  <h2>Index of all the articles</h2> 
+  <ul> 
+   <li><a href="https://www.linkedin.com/pulse/indice-articoli-roberto-a-foglietta" target="_blank">Project Management, Decision Making, Technology Innovation, Leadership &amp; Creativity, Economia, Cultura, Società e Costume, Progetti, Idee e di divulgazione</a>.</li> 
+  </ul> 
+  <h2><strong>Share alike</strong></h2> 
+  <p>(C) 2016, Roberto A. Foglietta, licensed under Creative Common&nbsp;Attribution-NonCommercial-ShareAlike 4.0 International terms (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>).</p>
+ 
+</div>
+</body>
+</html>

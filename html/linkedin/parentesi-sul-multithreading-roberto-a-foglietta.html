@@ -1,0 +1,179 @@
+<html>
+<head>
+  <title>Parentesi sul multithreading</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaC5612AQHH9x564rNyIg" alt="" title="" />
+      <h1><a href="https://www.linkedin.com/pulse/parentesi-sul-multithreading-roberto-a-foglietta">Parentesi sul multithreading</a></h1>
+    <p class="created">Created on 2016-04-17 04:27</p>
+  <p class="published">Published on 2016-04-17 06:32</p>
+  <div>
+  <p><em>Published on April 17, 2016</em></p> 
+  <h3>Introduzione</h3> 
+  <p>Piccola parentesi sul multi tasking e multi threading a livello divulgativo.</p> 
+  <h2><strong>Multi-Tasking</strong></h2> 
+  <p>Su una CPU a singolo core il multi-tasking è simulato mediante l'alternarsi dei processi e la CPU è una delle risorse per la quale sono in concorrenza i processi. Le CPU più evolute realizzano lo SMP (<a href="http://it.wikipedia.org/wiki/Sistema_multiprocessore_simmetrico" target="_blank">Symmetric multiprocessing</a>) quindi i processi possono girare in parallelo ma devono continuare a contendersi le altre risorse quali memoria, I/O e linee di interrupt. I processi comunicano fra loro diverse modalità ma sempre ben definite, in generale si parla di IPC (<a href="http://it.wikipedia.org/wiki/Comunicazione_tra_processi" target="_blank">Inter-Process Communication</a>).&nbsp;</p> 
+  <p>In un sistema operativo multi-tasking l'alternarsi dei processi è gestito dallo scheduler che è una routing del kernel. I moderni sistemi operativi sono costituiti da almeno due parti ben separate: il <a href="http://it.wikipedia.org/wiki/Kernel" target="_blank">kernel</a> e lo spazio applicazioni (<a href="http://it.wikipedia.org/wiki/Spazio_utente" target="_blank">user space</a>). All'interno del kernel esistono dei meccanismi per gestire il multi-tasking fra questi i più importanti sono i <a href="http://it.wikipedia.org/wiki/Semaforo_(informatica)" target="_blank">semafori</a>.&nbsp;Questi&nbsp;permettono ai processi di&nbsp;avere accesso alle risorse condivise&nbsp;in maniera che siano rispettati i criteri di atomicità, consistenza, isolamento e persistenza (<a href="http://it.wikipedia.org/wiki/ACID" target="_blank">ACID</a>).</p> 
+  <p>I processi sono separati fra loro dal kernel e tale separazione è garantita, a partire dai processori Intel 286, attraverso l'allocazione di uno <a href="http://it.wikipedia.org/wiki/Modalit%C3%A0_protetta" target="_blank">spazio di memoria virtuale protetto</a>.&nbsp;Ogni processo può avere al suo interno una&nbsp;<a href="http://it.wikipedia.org/wiki/Multithreading" target="_blank">moltitudine di thread</a> ognuno dei quali condivide le risorse allocate al processo.</p> 
+  <h2><strong>Multi-Threading</strong></h2> 
+  <p>All'interno di un processo, l'alternanza dei thread e la gestione della loro concorrenza nell'accedere alle risorse condivise del processo viene implementata attraverso i semafori. Nello spazio utente non vi sono altri meccanismi di protezione se non quelli forniti dai semafori e dalle funzioni relative offerte dalle librerie specifiche per la gestione del multi-thread. I semafori nello spazio utente fanno affidamento sulle controparti nello spazio kernel così come quelli nello spazio kernel si affidano a quelli forniti dall'architettura della CPU. Il semaforo, per sua natura e funzione, esiste in uno spazio privilegiato rispetto al contesto&nbsp;in cui è definito.</p> 
+  <p><strong>Semafori</strong></p> 
+  <p>Se il thread A e il thread B si alternano allora potrebbe capitare che&nbsp;il thread A venga interrotto mentre stia scrivendo FRA[<em>GOLA</em>] dall'altro che si accinga a scrivere BANANA e poi rientri il primo thread che completi la sua scrittura ottenendo BANA|<em>GOLA</em>.&nbsp;Si tratta di una condizione imprevedibile perché la prima scrittura può essere interrotta in qualsiasi momento e questo esempio, esteso in generale, comporterebbe potenzialmente il caos.</p> 
+  <p>Per poter effettuare delle operazioni lunghe, ovvero diverse istruzioni Assembler, come se fosse una sequenza atomica (o si scrive FRAGOLA oppure BANANA ma non un misto frai due) i thread debbono&nbsp;sincronizzarsi e mutualmente escludersi attraverso i semafori. Per questo scopo non possono essere usate&nbsp;variabili comuni perché esse sarebbero soggette allo stesso problema della stringa FRUTTA, non sono atomiche e anche qualora lo fossero con una scelta appropriata di tipo variabile e opzioni compilatore, non sarebbe atomica il loro utilizzo per la scelta di una ramo di codice.</p> 
+  <p>Quindi,&nbsp;un semaforo è molto di più che un valore binario atomico è la possibilità di decidere quale ramo di codice eseguire in funzione del valore interno di un semaforo. In generale si parla di istruzione <a href="http://it.wikipedia.org/wiki/Test-and-set" target="_blank">test-and-set atomica</a>.</p> 
+  <h2><strong>Librerie</strong></h2> 
+  <p>L'implementazione dei semafori e delle funzioni di multi-threading hanno interfacce di programmazione (<a href="http://it.wikipedia.org/wiki/Application_programming_interface" target="_blank">API</a>) cangianti da sistema operativo e fra le varie librerie e implementazioni disponibili. Quindi un codice applicativo multi-threading potrebbe non compilare su altri sistemi operativi a meno che non sia presente la stessa libreria oppure la stessa API esportata da una libreria che si occupi di traslitterare le API nel codice in quelle della libreria nativa.</p> 
+  <p><strong>Wrapping layer</strong></p> 
+  <p>Quindi a volte&nbsp;si utilizzano delle librerie di wrapping che a fronte di un set di chiamate forniscano sempre le stesse funzionalità o per lo meno un sottoinsieme di funzionalità disponibile in tutti i sistemi operativi in cui il software si suppone possa funzionare. Non è sempre una buona&nbsp;idea per diverse ragioni prima fra le quali&nbsp;il presupposto&nbsp;che sia più veloce partire da un progetto già validato per un altro sistema operativo piuttosto che avvantaggiarsi della nuova architettura e della nuova opportunità.</p> 
+  <p>Ovviamente ogni sistema operativo multi-threading&nbsp;offre&nbsp;delle primitive. Ad esempio&nbsp;le GNU libpthread per Linux oppure <a href="http://docs.oracle.com/cd/E19455-01/806-5257/6je9h033p/index.html" target="_blank">le analoghe per Solaris</a> oppure per VxWorks. C'è però una sensibile differenza fra alcuni sistemi operativi perché mentre GNU/Linux può essere considerato nativamente multi-task e multi-thread, altri&nbsp;sistemi operativi specificatamente orientati al mondo embedded, invece non hanno&nbsp;mai avuto bisogno della separazione offerta dalla memoria virtuale e quindi non hanno nemmeno sviluppato una sostanziale differenza fra thread e processi.</p> 
+  <p>Perciò delle librerie che unificassero l'accesso alle primitive su diversi sistemi operativi sarebbero particolarmente delicate, non solo perché potrebbero contenere degli errori e fornire delle false convinzioni agli sviluppatori, ma anche perché dovrebbero creare un'uniformità di comportamento in presenza di&nbsp;sensibili differenze di architettura.</p> 
+  <h2><strong>Verifiche</strong></h2> 
+  <p>I sistemi automatici e manuali di verifica del software prevedono diversi approcci. L'analisi statica, l'analisi dinamica, l'analisi dei rami, la verifica del rilascio dei semafori presi, inizializzazione variabili, gestione dei puntatori, l'ordine con cui vengono presi e rilasciati semafori, unit test, system test, integration test, field test, etc.</p> 
+  <p>Ovviamente questi sistemi daranno un responso incompleto qualora si concentrino solo sull'applicativo e tralascino di verificare anche il codice delle librerie sviluppate internamente. Ma anche qualora fossero eseguiti esaustivamente su tutto il codice interno al progetto essi hanno comunque dei limiti intrinseci e non sono in grado di evidenziare alcune tipologie di problemi come descritto in questo altro post <a href="http://www.linkedin.com/pulse/lillusione-del-controllo-roberto-a-foglietta" target="_blank">l'illusione del controllo</a>.</p> 
+  <h2><strong>Conclusione</strong></h2> 
+  <p>Un'immagine vale più di mille parole!</p> 
+  <h2>Indice di tutti gli articoli pubblicati</h2> 
+  <ul> 
+   <li><a href="https://www.linkedin.com/pulse/indice-articoli-roberto-a-foglietta" target="_blank">Project Management, Decision Making, Technology Innovation, Leadership &amp; Creativity, Economia, Cultura, Società e Costume, Progetti, Idee e di divulgazione</a>.</li> 
+  </ul> 
+  <h2>Condividi</h2> 
+  <p>(C) 2016, Roberto A. Foglietta, testo licenziato con&nbsp;<em>Creative Common&nbsp;Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia</em>&nbsp;(<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.it" target="_blank">CC BY-NC-SA 3.0 IT</a>).</p>
+ 
+</div>
+</body>
+</html>
