@@ -9,7 +9,7 @@ n=$(wc -l list.txt | cut -d' ' -f1)
 for i in $(seq 1 $n); do
     pn=$(head -n$i list.txt | tail -n1);
     echo -n $(grep 'class="published"' $pn | cut -d'<' -f-2);
-    echo -n " &middot;&middot; <a href='${pn}?target=_blank'>$pn</a>";
+    echo -n " &middot;&middot; <a href='${pn}' target='_blank'>$pn</a>";
     echo "</p>";
 done > list.htm
 sed -e "s,Published on ,,"  -e "s,[0-9]\{2\}:[0-9]\{2\},," \
