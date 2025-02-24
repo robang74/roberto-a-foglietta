@@ -20,7 +20,7 @@ echo "<html><head><title>RAF on LinkedIn</title></head><body>"
 echo "<div style='max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;'>"
 echo "<h1 align='center'>Roberto A. Foglietta on LinkedIn</h2>"
 echo "<h2>List of the published articles</h2><hr>"
-cat list.htm
+cat list.htm | sort -rn
 echo "<hr>
 <h2>Copyright notice<br><br><sup>&copy; 2024, <b>Roberto A. Foglietta</b> &lt;roberto.foglietta<span>@</span>gmail.com&gt;</sup></h2>
 All the files in this gihub repository and the related website are published under the <b>Creative Commons Attribution Non-Commercial No-Derivatives 4.0 International</b> license terms (<a href='https://creativecommons.org/licenses/by-nc-nd/4.0/'>CC BY-NC-ND 4.0</a>), unless stated differently or not applicable due to a different and previous authorship.
