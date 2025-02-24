@@ -12,6 +12,12 @@
 
 [**`IT`**] Articoli di Linkedin e beBee raccolti nel tempo in formato PDF. Scritti e pubblicati sotto il marchio personale **Roberto A. Foglietta** da Roberto Foglietta a partire dal 2016. Questa raccolta viene presentata qui perché con una certa regolarità, di solito 4 anni, gli account social vengono unilateralmente cancellati o congelati. L'abitudine dell'autore di stampare in PDF i suoi articoli e di caricarli su diversi account Google Drive li ha conservati nonostante le avversità. Il marchio personale è stato creato un po' prima del 2000, per evitare omonimie esistenti e non desiderabili.
 
+### Update 2025-02-24
+
+[**`EN`**] My LinkedIn account access has been restored (down from 2024-12-15 up to 2025-02-23) and I took the chance to download my data, in particular all the articles. Among them I also found the drafts I did publish because I did not complete the writing or the review. Anyway, I am going to share that stuff as well starting from this [link](html/linkedin/) in their original HTML format.   
+
+[**`IT`**] L'accesso al mio account LinkedIn è stato ripristinato (down dal 2024-12-15 al 2025-02-23) e ho colto l'occasione per scaricare i miei dati, in particolare tutti gli articoli. Tra questi ho trovato anche le bozze che avevo pubblicato perché non avevo completato la stesura o la revisione. Ad ogni modo, condividerò anche questi articoli a partire da questo [link](html/linkedin/) nel loro formato HTML originale.
+
 ### Data management
 
 [**`EN`**] One of the benefits of this approach is that a PDF document generated with some difficulty from an article published on LinkedIn is 8 times larger in size than one easily generated with this approach. But it is only the tip of the iceberg, in fact by using a git-oriented approach we have the complete revision control and obviously direct management of the data produced both in terms of availability and in terms of licensing.
