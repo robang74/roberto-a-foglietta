@@ -5,7 +5,7 @@
 
 ## Politics and democracy for dummies
 
-- Initially published on the same day on Facebook and LinkedIn.
+- Initially published on the same day on [Facebook](https://www.facebook.com/photo?fbid=10161498948978736) and [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_good-time-to-explain-how-etymology-works-activity-7302261920118534144-yNrO).
 
 Seeing the picture above, a meme shared on Facebook, I decided it was a good time to explain how etymology works. So, let's start this journey!
 
@@ -21,7 +21,7 @@ In order to understand the etymological meaning of the word "idiot", we have to 
 
 - Politics: late Middle English: from Old French politique 'political', via Latin from Greek politikos, from politēs 'citizen', from polis 'city'.
 
----
+----
 
 ### What was politics about?
 
@@ -29,7 +29,7 @@ So, the ancient Greek word "politics" came from "polis," another ancient Greek w
 
 Another ancient Greek word related to "politics" is democracy, which comes from "demos" (people) and "kratos" (power). Well, at that time "people" did not mean ALL the people. Women were not universally considered "people", slaves were common, and even among "free" people (not slaves), not all of them had "citizenship" and they were not considered part of the "demos" as we would have been intended nowadays.
 
-For example, in the [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers_(film) film, male and female had to have served in the military before earning citizenship. Among Spartans, it was a strict rule or related to give a birth for the female. In Athens, there were many other means to earn it, like art, philosophy, and "science" which was not modern science as we intend it today after Galileo Galilei.
+For example, in the [Starship Troopers](https://tinyurl.com/8x4gn3m) film, male and female had to have served in the military before earning citizenship. Among Spartans, it was a strict rule or related to give a birth for the female. In Athens, there were many other means to earn it, like art, philosophy, and "science" which was not modern science as we intend it today after Galileo Galilei.
 
 On the contrary, hand-working was considered "inadequate" for citizens unless art and sophisticated mechanisms (engineering before Engineering was) were involved.
 
@@ -49,7 +49,7 @@ Those who were voting for war were going to war. Others voting for cleaning the 
 
 Therfore, politics and democracy were about deciding WHO does WHAT, not about WHO should f*ck US in our names because a vast number of ignorant people voted by their guts (or traded their votes for a piece of bread), idiots!
 
-+
+++++++
 
 ## ChatGPT-SoNia
 
