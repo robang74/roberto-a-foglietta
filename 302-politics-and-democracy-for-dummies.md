@@ -53,7 +53,7 @@ Therfore, politics and democracy were about deciding WHO does WHAT, not about WH
 
 ## ChatGPT-SoNia
 
-In order to explain the reasons behind the posts shared on Facebook and Linkedin, and this paper writing, I have used the session prompt SoNia v3.5.0, [here](https://raw.githubusercontent.com/robang74/chatbots-for-fun/88398418167022078eb7b7caa822c7d3b5d8bfb9/data/sonia-argumentative-w-rag-v3.txt) saved.
+In order to explain the reasons behind the posts shared on Facebook and Linkedin, and after having written this paper, I have leveraged the session prompt SoNia v3.5.0, [here](https://raw.githubusercontent.com/robang74/chatbots-for-fun/88398418167022078eb7b7caa822c7d3b5d8bfb9/data/sonia-argumentative-w-rag-v3.txt) saved, to obtain a feedback.
 
 - [Dialoge about "Politics and democracy for dummies" with ChatGPT-SoNia](https://chatgpt.com/share/67c5942a-f1e8-8012-9230-d6934448ea5b) &nbsp; (2025-03-03)
 
