@@ -51,6 +51,20 @@ Therfore, politics and democracy were about deciding WHO does WHAT, not about WH
 
 +
 
+## ChatGPT-SoNia
+
+In order to explain the reasons behind the posts shared on Facebook and Linkedin, and this paper writing, I have used the session prompt SoNia v3.5.0, [here](https://raw.githubusercontent.com/robang74/chatbots-for-fun/88398418167022078eb7b7caa822c7d3b5d8bfb9/data/sonia-argumentative-w-rag-v3.txt) saved.
+
+- [Dialoge about "Politics and democracy for dummies" with ChatGPT-SoNia](https://chatgpt.com/share/67c5942a-f1e8-8012-9230-d6934448ea5b) &nbsp; (2025-03-03)
+
+As you can read, SoNia leveraging the peer-review rules framework and when explicitly ask for, provides an academic-like pros-cons review with related ratings of the document content.
+
+Instead, immediately after questioned again about the general meaning, reasons behind delivering a Karma lesson and the social media communication, SoNia contradicts its 75% rating related to overall educational value, giving more value to the human and social impact of the message rather than the formality, informative-density and precision which an academic paper requires, usually.
+
+Which is exactly what is expected by SoNia and defines its added-value compared with AleX which is the academic-like peer-review dedicated prompt, essential but not for divulgation oriented not-so-much user-friendly for common people (cfr. [The session prompts v3 for AI-driven chatbots](https://robang74.github.io/chatbots-for-fun/html/ai-session-prompts-with-rag-v3.html)). 
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
