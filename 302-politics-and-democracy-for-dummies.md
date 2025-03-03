@@ -15,21 +15,21 @@ Seeing the picture above, a meme shared on Facebook, I decided it was a good tim
 
 > The word "**idiot**" originates from the ancient Greek word **idiōtēs**, meaning a private person: someone who isn't actively interested in politics.
 
-That's the etymological meaning of the word "idiot", or the original meaning of the word, at the time of ancient Greece. At that time, Machiavelli had not yet written his "Il Principe", and hence politics -- in modern terms -- was not even known.
+That's the etymological meaning of the word "idiot", or the original meaning of the word, at the time of ancient Greece. At that time, [Machiavelli](https://fr.wikipedia.org/wiki/Nicolas_Machiavel) had not yet written his book entitled "Il Principe", and hence politics -- in modern terms -- was not even known.
 
-In order to understand the etymological meaning of the word "idiot", we have to associate it with the meaning of other words related to its meaning **at that** time. *In primis*, "politics".
+Therefore, in order to understand the etymological meaning of the word "idiot", we have to associate it with the meaning of other words related to it **at that** time. *In primis*, "politics", among all other words meanings.
 
-- Politics: late Middle English: from Old French politique 'political', via Latin from Greek politikos, from politēs 'citizen', from polis 'city'.
+- Politics: late Middle English: from Old French politique 'political', via Latin from Greek politikos, from **politēs** 'citizen', from polis 'city'.
 
 ----
 
 ### What was politics about?
 
-So, the ancient Greek word "politics" came from "polis," another ancient Greek word meaning -- not just the city in terms of buildings or geographical area -- but the concept of the city as a social space with its "agorà", another ancient Greek term which can be translated to "square", but for them had a completely different meaning, like "polis".
+So, the ancient Greek word "politics" came from "polis," another ancient Greek word that can be translate in "city" -- but not just the city in terms of buildings or geographical area -- rather the concept of the city as a social space with its "agorà", another ancient Greek term which can be translated to "square", but for them had a completely different meaning (functional meaning, also) from ours, like "polis".
 
-Another ancient Greek word related to "politics" is democracy, which comes from "demos" (people) and "kratos" (power). Well, at that time "people" did not mean ALL the people. Women were not universally considered "people", slaves were common, and even among "free" people (not slaves), not all of them had "citizenship" and they were not considered part of the "demos" as we would have been intended nowadays.
+Another ancient Greek word related to "politics" is "democracy", which comes from "demos" (people) and "kratos" (power). Well, at **that** time "people" did not mean ALL the people. Women were not universally considered "people", slaves were common, and even among "free" people (not slaves), not all of them had "citizenship" and they were not considered part of the "demos" as we would have been intended nowadays.
 
-For example, in the [Starship Troopers](https://tinyurl.com/8x4gn3m) film, male and female had to have served in the military before earning citizenship. Among Spartans, it was a strict rule or related to give a birth for the female. In Athens, there were many other means to earn it, like art, philosophy, and "science" which was not modern science as we intend it today after Galileo Galilei.
+For example, in the [Starship Troopers](https://tinyurl.com/8x4gn3m) film, males and females had to have served in the military before earning citizenship. Among Spartans, it was a strict rule or related to give a birth for the females. In Athens, there were many other ways to earn it, like art, philosophy, and "science" which was not modern science as we intend it today, after Galileo Galilei.
 
 On the contrary, hand-working was considered "inadequate" for citizens unless art and sophisticated mechanisms (engineering before Engineering was) were involved.
 
@@ -37,7 +37,7 @@ On the contrary, hand-working was considered "inadequate" for citizens unless ar
 
 ### Polis and democracy
 
-Polis meant "civitas" -- *vivere comune civile*, society -- compared to those who were living outside in the wild by their own means. In the "agorà" placed at the center of the "polis", where "common people" were doing market trading (for money or future payments upon a future agreed delivery) or exchanging (Provenz. barata XIV sec., barter) goods, citizens were deciding in a democratic way.
+Polis meant "civitas" -- *vivere comune civile*, the fundamentals of the society -- compared to those who were living outside the "polis", in the wild by their own means. In the "agorà" placed at the center of the "polis" -- where "common people" were doing market trading (for money or future payments upon a future agreed delivery) or exchanging (Provenz. barata XIV sec., barter) goods -- citizens were deciding in a democratic way.
 
 - Are we going to war against the nearby city, to sack them, or trading the good olive harvest for cleaning the streets and building a public fountain?
 
@@ -47,7 +47,7 @@ Those who were voting for war were going to war. Others voting for cleaning the 
 
 ### Conclusion
 
-Therfore, politics and democracy were about deciding WHO does WHAT, not about WHO should f*ck US in our names because a vast number of ignorant people voted by their guts (or traded their votes for a piece of bread), idiots!
+Therefore, politics and democracy were about deciding WHO does WHAT, not about WHO should f*ck all of US in our names because a vast number of ignorant people voted by their guts (or traded their votes for a piece of bread), idiots!
 
 ++++++
 
