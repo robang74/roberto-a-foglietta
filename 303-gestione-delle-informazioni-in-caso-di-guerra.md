@@ -34,9 +34,34 @@ Questo è come dovrebbe funzionare il giornalismo in una democrazia dove il cont
 
 Anche in questa condizione ideale, nonostante tutto, siamo costretti a fare delle autonome valutazioni. Perché è importante sottolineare che il diritto di parola implica anche il dovere di farne uso in maniera appropriata ma di fatto, proprio per un principio di democrazia libera, è ESTREMAMENTE pericoloso imporre la censura. Mentre il debunking di una determinata informazione o addirittura di un intera linea editoriale è una pratica corretta.
 
+---
+
+### La censura in Europa
+
 Il che ci porta a dire che alcune "opinoni" particolarmente "opinabili" da un punto di vista dei fatti, o addirittura per intero una linea editoriale, finiranno per essere relagate in testate "di nicchia". Sebbene questo ne riduca la visibilità e l'eco mediatica, comunque non si tratta di censura. Non farete fatica a notare che in Europa, negli ultimi decenni e in modo eclatante negli ultimi anni, questa "modalità" è stata usata (abusata) proprio con lo scopo di fare censura.
 
 Dove sta quindi la differenza fra un regolare processo di emarginazione delle opinioni o idee o ideologie o linee editoriali estreme o prive di fondamento dalla censura? Esattamente nella qualificazione di "estreme" o "prive di fondamento". Slegando l'informazione dalla realtà, il normale funzionamento diventa patologico pure senza arrivare agli estremi di una censura o addirittura dell'inquisizione spagnola.
+
+Perché un tale sistema di velata censura tramite l'emarginazione, molto subdolo per altro e pure contrario alla Carta dei Diritti umani quando prevede l'emarginazione sociale dei soggetti coinvolti, funziona anche sui grandi numeri come nazioni o continenti? Quando invece dovrebbe avere il limite fisiologico del gossip? Tipo le Mamme Pancine che scelgono di auto-isolarsi per non essre, giustamente, prese per i fondelli dalle persone dotate di un minimo di buon senso e/o senso della realtà?
+
+---
+
+### Il ruolo dell'educazione
+
+Per rispondere alla domanda sopra, che è molto importante, occorre capire i meccanismi di questo fenomeno e poi riportare per relazioni di causa-effetto alle loro radici, cioè ai fattori essenziali per le quali quelle dinamiche diventano possibili su larga scala.
+
+- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html)
+
+Uno dei fattori chiave risiede nel sistema educativo di massa che è relativamente una novità nell'ambito della civiltà umana giacchè esso comincia ad affermarsi con la Rivoluzione Industriale ed ad essa si adatta. Quindi gli scolari vengono abituati a stare seduti, per molte ore di fila, a condividere la stessa classe per tutta la durata di un ciclo scolastico quindi a limitare sensibilmente le loro relazioni sociali, e ad "imparare" in modo passivo.
+
+Tutti questi elementi erano essenziali all'industria britannica e poi europea per addestrare fin da bambini quelli che poi sarebbero diventati gruppi di operati da dedicare alle unità produttive e ad ubbidire alle gerachie in modo passivo. Quindi il primo fattore è sicuramente il sistema educativo di massa che già di suo, ha eliminato le "pecore nere" ma anche la creatività e il pensiero critico. Alla prova dei fatti, considerando i tassi di criminalità, ha drasticamente ridotto più la creatività e il pensiero critico che le "pecore nere".
+
+Il secondo elemento è la relativamente bassa scolarità. La media dei laureati nei paesi europei è del 40% mentre in Italia è del 20% e oltre a questo, se poi andiamo a vedere nei dettagli, mentre la stragrande maggioranza dei laureati in Europa lo è STEM, Medicina, etc. quindi percorsi di studio che portano le persone - necessariamente - a confrontarsi con il dilemma della gestione dell'informazione, in Italia la stragrande maggioranza sono laureati in materie umanistiche dove è molto più consolidato il concetto che il "sapere si tramanda" piuttosto che "il sapere di crea mediante un processo scientifico di revisione critica".
+
+Perché si può essere d'accordo con Kant oppure preferire Platone ma NON esiste un approccio oggettivo che determini se Platone XOR Kant. Entrambi questi autori hanno le loro ragioni di esistere ANCHE qualora alcune delle loro assunzioni (o presupposti) non fossero più attuali o addirittura errati. Questo genera - in assenza di un percorso di studio STEM - una profonda lacuna nella capacità di percepire la realtà come qualcosa che ha un'esistenza propria.
+
+In termini molto più banali: "cogito ergo sum" di Cartesio che pure era un Geometra in senso di matematico, diventa "io sono la misura del tutto" in un ambito esclusivame umanistico e privato di un sano legame con la realtà. Infine, il terzo elemento - last but not least - risiede nel fatto che la realtà sia diventata più complessa - non perché le c.d. leggi della fisica siano cambiate nel tempo ma per via della tecnologia.
+
 
 ---
 
