@@ -118,18 +118,49 @@ Lasciatemolo scrivere nero su bianco, dimstrando un ENORME ottimismo a dispetto 
 
 ---
 
+### Schema teorico
+
+Abbiamo ricevuto un'informazione e per semplcitià nell'esposizione immaginiamo di doverla valutare di-per-sè senza ulteriore supporto. Come potrebbe dover fare il capitano di un plotone che riceve un informazioni da fonti potenzialmente dubbie. A questo punto ci sono fondamentalmente due maniere di procedere:
+
+1. supporre che l'informazione sia corretta nella sua interezza e valutare a quali conclusioni conduce
+
+2. cercare di falsificare l'informazione, ma ci sono molti modi di farlo e quindi il ventaglio si apre.
+
+Quindi si procede con la #1, per pigrizia certamente, ma anche perché andare per la #2 senza una specifica cognizione di causa, quindi in modo mirato, viola il principio del rasoio di Occam. Perché per falsificare l'informazione occorre aggiungere almeno un'ipotesi, se non disponiamo di un'informazione affidabile che specificatamente la falsifichi. Ma se l'avessimo non avremmo il dilemma della scelta e per altro anche i BIAS cognitivi e informativi rientrano nella categoria di informazioni ritenute affidabili ma che invece possono condurci in errore. Quindi, nel caso generale, il dilemma esiste ANCHE per un'informazione che ci pare contraddire ciò che PENSIAMO di sapere.
+
+Prendendo per buona l'informazione possiamo giungere, ALMENO, a due diverse conclusioni:
+
+1. non ci piace la conclusione o non è allineata alle nostre informazioni o bias o opinioni
+
+2. l'opposto di sopra.
+
+Naturalmente fra queste due estreme posizioni ci sono tutti i valori intermedi, ma anche qui la dualità è scelta per amore di semplcitià di esposizione. Supponiamo quindi che non piacendoci la conclusione andiamo a cercare un'informazione e la troviamo in quello che potremmo definire il "fact-checking" di sistema. Anche in questo caso però ci troviamo nella stessa identica situazione di cui sopra, solo con un'informazione in più.
+
+Il passo successivo quindi è cercare di accordare le due informazioni e allo stesso tempo verificare quali siano le differenze che potrebbero essere sostanziali. A questo punto della valutazione, però, si inserisce un problema piuttosto comune: la comprensione di dettagli tecnici. Lungi da essere un caso particolare, invece, capita MOLTO di frequente di dover giudicare o scegliere fra opzioni dei cui dettagli tecnici NON siamo esperti.
+
+Poiché di certi specifici dettagli tecnici NON possiamo raggiungere una profondità di comprensione utile in un tempo ragionevole, dobbiamo necessariamente lavorare al contontorno, che poi in termini tecnici si chiama superficie d'attacco. Su questa superficie ci sono aree che per noi restano inattaccabili, tutto il resto lo possiamo erodere, digerire e in pratica dissolverlo fino al lasciare esposto il "core" della questione.
+
+Il "core" della questione potrebbe in effetti essere una certa quantità di dettagli altamente tecnici ma comunque ininfluenti da un punto di vista decisionale, per noi. La questione però è che nella nostra ignoranza NOI non lo sappiamo. Però è possibile che il "core" della questione sia molto arduo da giudicare ANCHE dagli esperti. Paradossalmente quando questo accade NOI come non-esperti, siamo quasi sullo stesso piano degli esperti.
+
+---
+
+### Il potere della propagana
+
+A questo punto potremmo pensare (o sentirci liberi di pensare) che vada bene scegliere una o l'altra opzione (BIAS del dualismo) secondo il nostro sentimento. Pensando che in fondo il nostro sentimento è sempre meglio (qualcosa di più) del tirare a testa-o-croce una moneta.
+
+Ebbene, quando si tratta di propaganda organizzata su scala sistemica o a fini bellici, questa assunzion è errata. Perché coloro che creano informazioni con la malizia di ingenerare un errore nelle persone, sono professionisti che conoscono bene quali siano i BIAS più comuni di cui siamo inconsciamente affetti e sanno come fare leva sulla nostra preferenza a scegliere per sentimento piuttosto che a test-o-croce.
+
+Per contro i debunker in buona fede, invece, sono dei dilettanti costretti per necessità a cercare di fare qualcosa su cui non hanno alcuna esperienza professionale, lo fanno a loro rischio e pericolo, senza essere pagati.
+
+Posso quindi affermare, anche per aver constato con i miei occhi, che chi cerca di sfuggire alla propaganda di sistema facendo leva sul suo istinto - le donne in particolare, ma non solo - finisce sistematicamente per ottenere un risultato molto peggiore di quanto avrebbe ottenuto, statisticamente in media, a fare scelte completamamente casuali.
+
+Non ci credete? Se i nazisti ad ogni sonora sconfitta, perché ce ne sono state diverse durante la WWII, avessero scelto se proseguire o fermarsi affidandosi ad un processo di scelta completamente casuale, MOLTO probabilmente, non sarebbero mai arrivati alla loro distruzione totale perché si sarebbero fermati prima e magari o avrebbero consolidato il loro dominio, ma su un'area più ristretta.
+
+---
+
 ### Un esempio pratico
 
 In questo [video](https://www.linkedin.com/posts/fabio-girotto-5066141a1_il-bello-deve-ancora-venire-activity-7302413839294210048-RSyF) si vede una persona che nel parlare appare come un esperto del settore e dichiara che nel virus del Covid-19 è presente una sequenza di 19 amminoacidi la quale è depositata in un brevetto di Moderna del 1997 e che per questo va consdierata come una firma, una prova che il virus del Covid-19 è stato creato in laboratoreio, perché quella sequenza è QUELLA che gli permette di (fare il salto di specie) infettare gli esseri umani.
-
-
-
-
-
-
-Supponiamo che siamo in una di quelle situazioni in cui non possi
-
-
 
 ===
 
