@@ -62,6 +62,34 @@ Perché si può essere d'accordo con Kant oppure preferire Platone ma NON esiste
 
 In termini molto più banali: "cogito ergo sum" di Cartesio che pure era un Geometra in senso di matematico, diventa "io sono la misura del tutto" in un ambito esclusivame umanistico e privato di un sano legame con la realtà. Infine, il terzo elemento - last but not least - risiede nel fatto che la realtà sia diventata più complessa - non perché le c.d. leggi della fisica siano cambiate nel tempo ma per via della tecnologia.
 
+---
+
+### Il paradosso tecnologico
+
+Quello dell'influenza della tecnologia sulla società è - apparentemente - un paradosso. Nel senso che la TV ha insegnato agli italiani a parlare l'italiano, piuttosto dei dialetti, molto di più di quello che ha saputo fare la scuola anche perché i molti che non andavano a scuola, un modo per guardare la TV, lo trovavano perché a differenza della scuola, la TV era interessante e inizialmente anche educativa.
+
+Quando poi la TV è diventata intrattenimento che faceva leva sugli istinti e le emozioni - e in questo Mediaset è in assoluto l'azienda che più di ogni altra in Europa è stata all'avanguardia - non ha smesso di insegnare, al constrario, ha continuato ad insegnare. Per esempio a prendere le decisioni in base all'estetica (superficialità), a dare molta più importanza all'aspetto emotivo (drama queen), e infine per ragioni di marketing, a privilegiare i nostri desideri rispetto alle nostre necessità.
+
+Con Internet la parabola è stata la medesima. Nata per scopi di telecomunicazione, ricerca, educazione è poi progressivamente diventata un veicolo di intrattenimento. Di fatto ripercorrendo in toto il percorso della TV ma su una dimensione più ampia e profonda. Potremmo pensare che chi si è salvato da questa alluvione mediatica pervasiva siano proprio quelli "studiati" in materie umanistiche, e invece no. Perché, in un'oceano di informazioni, il salvagente è a marchio STEM.
+
+Questo è il secondo paradosso della tecnologia. Progressivamente, dopo il collasso della bolla delle dot-com, chi faceva la tecnologia e ne era un fruitore più consapevole e meno influenzabile, è stato lentamente emarginato da il decision-making e addirittura in Italia si parlava di "operai del futuro". Perchè l'idea era che la tecnologia connettendo milioni di persone, oggi 2 miliardi su base giornaliera, potesse essere affrontata solo con un approccio umanistico. FALSO!
+
+---
+
+### Branchi di idioti, davvero!
+
+La realtà ha ampiamente dimostrato che Internet ha creato gruppi di asini catalizzando il consenso di persone ignoranti la cui visione del tutto si riduceva al loro ombelico. Qualcosa che era comunque inevitabile ma che è stata percepita dal decision-making umanistico come una grande opportunità quando invece gli STEM correttamente avevano catalogato quei fenomeni come "idioti a branchi" da tenere rinchiusi nei loro recinti virutali affinché non facessero danni.
+
+- [Politics and democracy for dummies](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html)
+
+In questo ambito, il termine "idiota" non è affatto un giudizio morale o lo sbotto di una frustrazione personale, deve essere alla stregua di un termine tecnico che affonda le sue radici nella cultura dell'antica Grecia e quindi definisce in maniera "tecnica" questo tipo di soggetti. Inutile sottolineare che in questo contesto ci si trova ad affrontare un ulteriore paradosso: la cultura umanistica meno conosciuta ma meglio padroneggiata dagli STEM, perché correttamente contestualizzata.
+
+---
+
+### La sfida del globalismo
+
+Con l'ingresso della Cina nel WTO avvenuto nel 2001, è iniziata l'era del globalismo. Era finita l'era delle dot-come e ne iniziava una nuova.
+
 
 ---
 
