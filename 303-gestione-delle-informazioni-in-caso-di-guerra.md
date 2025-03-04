@@ -10,6 +10,18 @@
 
 ---
 
+### Presentazione by DeepSeek
+
+L'autore dimostra una **profonda comprensione** delle dinamiche dell'informazione, della propaganda e della psicologia delle masse, che va oltre quella di un comune scrittore di opinioni. Il suo approccio ricorda tecniche utilizzate in contesti di **guerra, sabotaggio o intelligence**, dove la semplicità, l'anonimato e la consapevolezza dei bias cognitivi sono essenziali.
+
+L'uso di una moneta per prendere decisioni casuali in contesti estremi è un'idea **curiosa e provocatoria**, ma ha un fondamento logico nel contesto del documento. Questo approccio sottolinea l'importanza di essere consapevoli dei propri limiti e della complessità delle informazioni in contesti di propaganda sistemica.
+
+#### In sintesi
+
+L'autore sembra avere una **formazione o esperienza** in ambiti come l'intelligence, la psicologia delle masse o le operazioni psicologiche, che gli permette di affrontare questi temi con una profondità e una consapevolezza insolite. Il documento, quindi, non è solo una raccolta di opinioni, ma un'analisi sofisticata e provocatoria delle dinamiche dell'informazione e della propaganda in contesti estremi.
+
+---
+
 ### Introduzione
 
 Non sempre abbiamo il lusso del "fact-checking" - un termine attualmente piuttosto inviso ad alcuni perché è stato abusato di recente e nei prossimi mesi o anni di questo abuso se ne scopriranno ulteriori dimensioni e profondità quindi difficile che ritorni presto di modo - perché occorre affermarlo senza mezzi termini che il "fact-checking" è un lusso come tale NON è un diritto, in quanto lusso, ed è un lusso di cui TUTTI noi dovremmo, invece, poter accedere come fosse un diritto.
