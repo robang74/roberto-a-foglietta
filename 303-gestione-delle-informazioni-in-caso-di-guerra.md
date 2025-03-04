@@ -1,3 +1,8 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+
+<div align="center"><img src="img/302-politics-and-democracy-for-dummies-img-001.jpg" width="800"><br></div>
+
 ## La gestione delle informazioni in caso di conflitto
 
 - Articolo pubblicato lo stesso giorno di un post su Linkedin da cui trae ispirazione.
@@ -162,15 +167,7 @@ Non ci credete? Se i nazisti ad ogni sonora sconfitta, perché ce ne sono state 
 
 In questo [video](https://www.linkedin.com/posts/fabio-girotto-5066141a1_il-bello-deve-ancora-venire-activity-7302413839294210048-RSyF) si vede una persona che nel parlare appare come un esperto del settore e dichiara che nel virus del Covid-19 è presente una sequenza di 19 amminoacidi la quale è depositata in un brevetto di Moderna del 1997 e che per questo va consdierata come una firma, una prova che il virus del Covid-19 è stato creato in laboratoreio, perché quella sequenza è QUELLA che gli permette di (fare il salto di specie) infettare gli esseri umani.
 
-===
-
-WORK IN PROGRESS
-
-===
-
-NORIMBERGA 2, MON AMOUR!
-
-https://www.linkedin.com/posts/fabio-girotto-5066141a1_il-bello-deve-ancora-venire-activity-7302413839294210048-RSyF
+...
 
 Secondo questo intervento tenuto a favore dei Senatori Italiani, il virus del Covid-19 è alterato geneticamente con una sequenza il cui brevetto è scaduto nel 1997+20 = 2017 e che permette a quel virus (o in generale a degli agenti virali) di entrare nel corpo umano.
 
@@ -178,7 +175,7 @@ Fra i coronavirus troviamo la comune influenza e il virus del covid. La differen
 
 Qual'è il motivo per il quale un virus incapace di attaccare l'uomo debba essere messo in condizione di farlo con la CPR? Medicinali veicolati attraverso un virus il quale nel suo ciclo virale li produce come sintesi del suo RNA.
 
-<<Modificare un virus per renderlo capace di infettare l’uomo [...] è una pratica controversa se non gestita con rigore etico e biosicurezza. L’idea di virus che producono farmaci è già realtà, con applicazioni in terapia genica e oncologia.>>
+> Modificare un virus per renderlo capace di infettare l’uomo [...] è una pratica controversa se non gestita con rigore etico e biosicurezza. L’idea di virus che producono farmaci è già realtà, con applicazioni in terapia genica e oncologia.
 
 Quindi lo facevano in Cina, con un brevetto scaduto, con un virus relativamente "sicuro" che poteva essere in competizione con la vaccinazione RNA, che non ancora mai giunta sul mercato, e gli è scappato di mano.
 
@@ -186,22 +183,17 @@ Questa spiegazione ipotetica ma ragionevole - per altro - coincide con i dossier
 
 A questo punto si comincia a capire anche il perché. Non possono negarlo perché sapevano che qualcuno aveva già trovato la firma, e lo aveva pubblicato, e non possono affermarlo perché sarebbe diplomaticamente controverso. Infatti, dipende da CHI gestisce il laboratorio, da CHI finanzia il laboratorio e da CHI ospita il laboratorio.
 
-Si potrebbe dire che la Cina debba pagare i danni ma a quel punto la Cina manda a processo di Norimberga 2 chi ha gestito la pandemia in Europa - per la gestione della pandemia, non per il virus e non per il vaccino, già solo per la gestione - quindi politicamente è in una botte di ferro.
+Si potrebbe dire che la Cina debba pagare i danni ma a quel punto la Cina manda a processo, in stile Norimberga 2, chi ha gestito la pandemia in Europa - per la gestione della pandemia, non per il virus e non per il vaccino, già solo per la gestione - quindi politicamente è in una botte di ferro.
 
-Ma potrebbe anche emergere che il laboratorio in CIna era, in realtà "internazionale" e quindi oltre a Norimberga 2 sarebbe la Cina a chiedere i danni a quelli che faceva esperimenti controversi a casa sua.
+- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html)
 
-Quindi il "non possiamo dirlo" della CIA perché se lo dicono, autodafé, negare l'evidenza in un rapporto segreto è idiota. Quindi? Norimenga 2, non è il virus, non è il vaccino ma la cattiva politica, BAM!
+Ma potrebbe anche emergere che il laboratorio in Cina era, in realtà "internazionale" e quindi oltre a Norimberga 2 sarebbe la Cina a chiedere i danni a quelli che faceva esperimenti controversi a casa sua. Quindi il "non possiamo dirlo" della CIA perché se lo dicono, autodafé. Negare l'evidenza in un rapporto segreto è idiota. 
 
-La semplicità delle direttive in caso di crisi
+Conclusione? Norimberga 2, non è il virus, non è il vaccino ma la cattiva politica, BAM!
 
---> lnkd.in/die9NDzU
+...
 
-Il bello deve ancora venire... decisamente! 😁 
-
-
-POST SCRIPTUM
-
-Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
+Magari però questa conclusione non ci piace e quindi andiamo a vedere quale alternativa ci propongono. Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
 
 =-> lnkd.in/dXye8zpF
 
@@ -210,3 +202,39 @@ Se il brevetto originale è del 1997 è chiaro che entro la validità dello stes
 Se confrontiamo l'immagine di Open con quella di questo video vediamo che non sono le stesse perché ANCHE il brevetto non è lo stesso ma questa NON è una prova a favore di qualcosa o contro qualcosa, giacché di quelle immagini si dovrebbe conoscere a fondo il significato e ciò è al di fuori delle possibilità di chi NON è un esperto di quella specifica materia.
 
 Oltretutto è oggettivamente arduo provare sia l'una che l'altra ipotesi ANCHE per gli esperti. Invece, la gestione sconsiderata della pandemia è una certezza.
+
+---
+
+### Conclusione
+
+Sicchè in buona sostanza, tanto per una via quanto per l'altra, si arriva alla medesima conclusione. Che per altro è anche un aspettativa ragionevole quando il processo di analisi di un'informazione viene condotto con un minimo - basilare, proprio - rigore logico razionale.
+
+Perché se il virus è naturale, allora ci troviamo di fronte ad un salto di specie di cui ci manca l'anello di passaggio ma comunque questi fenomeni accadono da quando la vita sulla Terra si è evoluta quindi anche noi - come prodotto di quel processo evolutivo - siamo "abituati" come specie a fronteggiare queste "emergenze" biologiche.
+
+Non vale nemmeno contestare che oggi i trasporti aerei creino enormi problemi perché nessuna delle tante malattie estotiche è mai diventata pandemia solo perché Ryanair ha permesso a milioni di persone di volare in giro per il mondo. Semplicemente perché quelle malattie si sono evolute all'interno di una nicchia ecologica che non trova riscontro ovunque nel mondo.
+
+D'altra parte se il virus è scappato (o è stato rilasciato) da un laboratorio medico - per convenzione delle pratiche mediche si creano organismi "miti" quanto più prossimi a quelli che si evolverebbero naturalmente - se non foss'altro perché poi si vorrebbe usarli come medicinali e non penso che Ebola sia un effetto collaterale accettabile anche per un farmaco salvavita quale la cura di un certo tipo di cancro.
+
+Perciò la natura del virus, così come la natura del vaccino, indicano - entrambi - più un problema di gestione delle pratiche mediche e di politiche sanitarie piuttosto che essere un problema di per-se-stessi o una tecnologia pericolosa.
+
+#### Il mito di Frankestein
+
+Quindi nonostante il mito di Frankenstein, dello scienziato pazzo che crea il mostro, a quanto pare gli scienziati e i medici creano "strumenti potenzialmeente miti" che poi la mala politica gestisce in modo sconsiderato per dei fini che spesso sono pure più inconfessabili della gestione stessa. 
+
+Perché anche le bombe atomiche e termonucleari, non c'era bisogno di gettarle subito su delle grandi città densamente abitate, si poteva "intimidire" i Giapponei e portarli alla ragione, vetrificando un'isola disabitata o minimamente abitata invece che milioni di persone con una doppietta di lanci.
+
+Curiosamente, attraverso un basilare processo di ragionamento logico razione basato sul pensiero critico, per altro su una singola informazione, si giunge a mettere in discussione molte cose che davamo per scontate mentre quell'informazione che pareva così importante, poi non lo era affato o relativamente molto meno di quanto avremmo potuto pensare da principio.
+
+#### L'amara medicina
+
+Il che ci fa comprendere perché il pensiero critico di tipo logico razionale, si evita quanto più possibile di insegnarlo nelle scuole e di apprezzarlo in società.
+
+Perché rompe i c*glioni MA a ben vendere non sono affatto convinto che lasciare che i c*glioni governino, ripetendo gli errori del passato, sia un gran bell'affare! {;-)}
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
