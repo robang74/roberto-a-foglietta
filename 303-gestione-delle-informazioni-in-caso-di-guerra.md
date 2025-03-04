@@ -24,6 +24,35 @@ Ci sono, quindi, delle situazioni in cui il fact-checkin è un lusso (solo i ric
 
 In questi casi, in particolare, sorge spontanea una domanda: in assenza di fact-cheking come si gestisce l'informazione? Eccoci qui, senza la pretesa di fornire una soluzione esaustive ma solo divulgare le basi della gestione delle informazioni - che TUTTI noi dovremmo indipendentemente fare - a maggior ragione quando, in determinate circostanze, è ragionevole pensare che anche il fact-checking istituzionale NON sia affidabile o peggio.
 
+---
+
+### Il sistema dei media
+
+Supponiamo che una determinata informazione sia molto rilevante per noi. La prima cosa che dovremmo fare è confrontare questa informazione con altre fonti credibili e di pubblico accesso. Fonti indipendenti di informazione dovrebbero provvedere a fornire interpretazioni di tali informazioni in maniera diversa e dal loro confronto cercare di capire quale sia la base comune e coerente fra tutte le fonti disponibili.
+
+Questo è come dovrebbe funzionare il giornalismo in una democrazia dove il controllo dei media NON è prerogativa di nessuna entità - equivalente a dire che NON esiste una linea editoriale imposta o dove anche esistesse essa si limita ad una testata in questione ma altre seguono altre linee editoriali indipendenti - e la concentrazione di informazione NON è ammessa oltre un certo livello.
+
+Anche in questa condizione ideale, nonostante tutto, siamo costretti a fare delle autonome valutazioni. Perché è importante sottolineare che il diritto di parola implica anche il dovere di farne uso in maniera appropriata ma di fatto, proprio per un principio di democrazia libera, è ESTREMAMENTE pericoloso imporre la censura. Mentre il debunking di una determinata informazione o addirittura di un intera linea editoriale è una pratica corretta.
+
+Il che ci porta a dire che alcune "opinoni" particolarmente "opinabili" da un punto di vista dei fatti, o addirittura per intero una linea editoriale, finiranno per essere relagate in testate "di nicchia". Sebbene questo ne riduca la visibilità e l'eco mediatica, comunque non si tratta di censura. Non farete fatica a notare che in Europa, negli ultimi decenni e in modo eclatante negli ultimi anni, questa "modalità" è stata usata (abusata) proprio con lo scopo di fare censura.
+
+Dove sta quindi la differenza fra un regolare processo di emarginazione delle opinioni o idee o ideologie o linee editoriali estreme o prive di fondamento dalla censura? Esattamente nella qualificazione di "estreme" o "prive di fondamento". Slegando l'informazione dalla realtà, il normale funzionamento diventa patologico pure senza arrivare agli estremi di una censura o addirittura dell'inquisizione spagnola.
+
+---
+
+### Un esempio pratico
+
+In questo [video](https://www.linkedin.com/posts/fabio-girotto-5066141a1_il-bello-deve-ancora-venire-activity-7302413839294210048-RSyF) si vede una persona che nel parlare appare come un esperto del settore e dichiara che nel virus del Covid-19 è presente una sequenza di 19 amminoacidi la quale è depositata in un brevetto di Moderna del 1997 e che per questo va consdierata come una firma, una prova che il virus del Covid-19 è stato creato in laboratoreio, perché quella sequenza è QUELLA che gli permette di (fare il salto di specie) infettare gli esseri umani.
+
+
+
+
+
+
+Supponiamo che siamo in una di quelle situazioni in cui non possi
+
+
+
 ===
 
 WORK IN PROGRESS
