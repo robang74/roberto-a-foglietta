@@ -114,7 +114,7 @@ Insomma è un mondo fantastico dove la fantasia ha preso il soppravento e la rea
 
 Sicchè negare la realtà è diventato prioritario. Perché non si tratta di un mero fallimento ma di una catastrofe. Ne più, ne meno. Quindi il fact-checking ce lo dobbiamo fare da soli, inveitabilemente oppure addormertarci serenamente nella propaganda rinunciando a qualsiasi prossibiltà di sfuggiere all'oblio in cui le scelte fatte e arrogantemente sostenute per almeno tre decenni a livello sistemico, ci stanno portando, nonostante restino le vestigia di un brillante ieri.
 
-Lasciatemolo scrivere nero su bianco, dimstrando un ENORME ottimismo a dispetto della situazione in generale della capacità dell'Occidente di ripigliarsi da questa sordida sbornia.
+Lasciatemolo scrivere nero su bianco, dimstrando un ENORME ottimismo a dispetto della situazione in generale della capacità dell'Occidente di ripigliarsi da questa sordida sbornia basata su una narrativa progressivamente sempre più distaccata dalla realtà e oggiorno persino aliena ai principi fondamentali della nostra società al punto che siamo diventati, nel caso specifico della libertà di parola in UK, una barzalletta anche in Nord Corea.
 
 ---
 
