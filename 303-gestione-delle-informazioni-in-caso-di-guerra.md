@@ -88,8 +88,29 @@ In questo ambito, il termine "idiota" non è affatto un giudizio morale o lo sbo
 
 ### La sfida del globalismo
 
-Con l'ingresso della Cina nel WTO avvenuto nel 2001, è iniziata l'era del globalismo. Era finita l'era delle dot-come e ne iniziava una nuova.
+Con l'ingresso della Cina nel WTO avvenuto nel 2001, è iniziata l'era del globalismo. Era finita l'era delle dot-come e ne iniziava una nuova che però avrebbe visto il declino dell'Occidente e l'emergere dell'Asia. Prima in termini produttivi, poi in termini economici e quindi in termini scientifici. Così mentre gli italiani continuavano a pensare che Machiavelli folle la chiave di lettura di tutto, India e Cina sfronavano decine o centinaia di migliaia di nuovi ingegneri e scienziati ogni anno.
 
+Ma la cosa non ha riguardato solo l'Italia. Negli stati uniti, quando escono dal college con un enorme debito sulle spalle da ripagare continuano ad avere difficoltà con l'algebra. Questo gap nelle discipline STEM, ha permesso alla Russia - nonostante il collasso dell'Unione Sovietica - di dotarsi di missili balistici mach 10 mentre la Cina guadagnava il primato militare e l'India quello economico. Perché i numeri che non conosciamo - non perché non <span translate='no'>"*cielo dicono*"</span> ma perchè - semplicemente - preferiamo trastullarci con altro.
+
+Chiaramente, poi il sistema giunge al collasso, perché da una parte la realtà non è più affrontabile e non è neppure più possibile nemmeno ammetterla. Sicchè la follia della WW3, perché la bancarotta in termini finanziari ha radici più profonde che una mera malagestione dei conti pubblici o della filiera del debito ma è strutturuale. A questo punto la negazione della realtà diventa un'impellente necessità e l'unico modo di insabbiare tutto la WW3.
+
+Solo un disastro di proporzione bibliche può evitare la responsabilità di una generazione di aver fallito qualsiasi obbiettivo si potesse fallire e pure peggio, cioè cancellare anche i diritti acquisiti. Tutto i deliri, dall'ideologia woke, a quella green-washing, fino alla crisi in Ucraina, rappresentano un percorso di totale annichilimento della realtà, al punto che persino le base, i fondamenti della nostra cultura, e lo stesso buon senso sono diventati un "ostacolo".
+
+---
+
+### La situazione attuale
+
+Sicchè ci troviamo - senza ombra di dubbio - in un periodo storico nel quale il fact-checking è un lusso. Dove chi percepisce il "mondo al contrario" propone ricette che hanno dimostrato di fare schifo anche ai tempi in cui sono apparse per la prima volta nella nostra sotria e poi per un certo periodo diventate diventate popolari. Oppure come Dante ben lo descrisse in sonnetti, che la diritta via era perduta.
+
+In sentesi, il fack-checking ce lo dobbiamo fare da soli e quindi è giusto cominciare a imparare a farlo, dai fondamentali. Perché in sostanza sono questi a mancare in senso generale e anche questo è un paradosso perché mentre la scienza e la tecnologia sono avanzate in modo incredibile, gli STEM emarginati come fossero "idioti" nel senso Greco antico del termine, sono stati emarginati dalla società e si sono isolati nel loro mondo.
+
+Così mentre la società virava verso il medioevo più cupo, il mondo della scienza e della tecnologia brillava al punto tale che oggi disponiamo di soluzioni che appaiono più simili alla magia piuttosto che a degli strumenti tecnologici. Fra cui, last but not least, la capacità di isolare una persona o un gruppo di persone, potenzialemente dal resto del mondo. O di controllarle h24 7d/w ma di fatto non ottenendo alcun risultato pratico positivo, anzi.
+
+Fondamentalmente per la stessa ragione per cui un branco di scimmie può prendere la bacchetta magica di Merlino ma non utilizzarla senza il suo consenso e nel limite del suo consenso. Però, esattamente come capita alle sciemmie, gli idioti moderni pensano che "idioti forti insieme". Non è mai accaduto nella storia della fisica di scoprire che una qualità intensiva potesse amplificarsi per addizione di elementi, semmai calare.
+
+Cosa che per altro conoscono MOLTO bene anche gli africani, quelli che potremo considerare selvaggi, e citandoli: se vuoi andare veloce vai da solo, se vuoi andare lontano vai in gruppo. Il che implica, naturalmente, che la velocità del gruppo è dettata dal più zoppo di tutti. Se poi allo zoppo gli diamo pure la pensione di invalidità, zoppicherà e si lamenterà di zoppicare, pure di più caso mai a qualcuno gli venisse in mente di toglierli la pensione d'invalidità.
+
+Insomma è un mondo fantastico dove la fantasia ha preso il soppravento e la realtà è stata nascosta dietro le quinte. Un disastro epico che rischia di mettere fine alla nostra civiltà e con essa alla nostra cultura. Cosa che potrebbe anche essere giusta e assolutamente meritata da un punto di vista della Storia, visto che ne abbiamo combinato di ogni, in ogni tempo e in ogni più sperduto angolo di questo pianeta che siamo riusciti a raggiungere.
 
 ---
 
