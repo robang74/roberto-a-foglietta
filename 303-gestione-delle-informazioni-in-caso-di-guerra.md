@@ -112,6 +112,8 @@ Cosa che per altro conoscono MOLTO bene anche gli africani, quelli che potremo c
 
 Insomma è un mondo fantastico dove la fantasia ha preso il soppravento e la realtà è stata nascosta dietro le quinte. Un disastro epico che rischia di mettere fine alla nostra civiltà e con essa alla nostra cultura. Cosa che potrebbe anche essere giusta e assolutamente meritata da un punto di vista della Storia, visto che ne abbiamo combinato di ogni, in ogni tempo e in ogni più sperduto angolo di questo pianeta che siamo riusciti a raggiungere.
 
+Sicchè negare la realtà è diventato prioritario. Perché non si tratta di un mero fallimento ma di una catastrofe. Ne più, ne meno. Quindi il fact-checking ce lo dobbiamo fare da soli, inveitabilemente oppure addormertarci serenamente nella propaganda rinunciando a qualsiasi prossibiltà di sfuggiere all'oblio in cui le scelte fatte e arrogantemente sostenute per almeno tre decenni a livello sistemico, ci stanno portando, nonostante restino le vestigia di un brillante ieri.
+
 ---
 
 ### Un esempio pratico
