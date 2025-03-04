@@ -5,7 +5,10 @@
 
 ## La gestione delle informazioni in caso di conflitto
 
-- Articolo pubblicato lo stesso giorno di un post su Linkedin da cui trae ispirazione.
+- Articolo pubblicato lo stesso giorno di un post su [Linkedin](https://www.linkedin.com/posts/robertofoglietta_il-bello-deve-ancora-venire-activity-7302555956402425856-owfv) da cui trae ispirazione.
+- L'immagine in copertina si riferisce ad un altro [esempio](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) di pensiero critico.
+
+---
 
 ### Introduzione
 
@@ -55,7 +58,7 @@ Perché un tale sistema di velata censura tramite l'emarginazione, molto subdolo
 
 Per rispondere alla domanda sopra, che è molto importante, occorre capire i meccanismi di questo fenomeno e poi riportare per relazioni di causa-effetto alle loro radici, cioè ai fattori essenziali per le quali quelle dinamiche diventano possibili su larga scala.
 
-- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html)
+- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
 
 Uno dei fattori chiave risiede nel sistema educativo di massa che è relativamente una novità nell'ambito della civiltà umana giacchè esso comincia ad affermarsi con la Rivoluzione Industriale ed ad essa si adatta. Quindi gli scolari vengono abituati a stare seduti, per molte ore di fila, a condividere la stessa classe per tutta la durata di un ciclo scolastico quindi a limitare sensibilmente le loro relazioni sociali, e ad "imparare" in modo passivo.
 
@@ -85,7 +88,7 @@ Questo è il secondo paradosso della tecnologia. Progressivamente, dopo il colla
 
 La realtà ha ampiamente dimostrato che Internet ha creato gruppi di asini catalizzando il consenso di persone ignoranti la cui visione del tutto si riduceva al loro ombelico. Qualcosa che era comunque inevitabile ma che è stata percepita dal decision-making umanistico come una grande opportunità quando invece gli STEM correttamente avevano catalogato quei fenomeni come "idioti a branchi" da tenere rinchiusi nei loro recinti virutali affinché non facessero danni.
 
-- [Politics and democracy for dummies](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html)
+- [Politics and democracy for dummies](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) &nbsp; (2025-03-03)
 
 In questo ambito, il termine "idiota" non è affatto un giudizio morale o lo sbotto di una frustrazione personale, deve essere alla stregua di un termine tecnico che affonda le sue radici nella cultura dell'antica Grecia e quindi definisce in maniera "tecnica" questo tipo di soggetti. Inutile sottolineare che in questo contesto ci si trova ad affrontare un ulteriore paradosso: la cultura umanistica meno conosciuta ma meglio padroneggiata dagli STEM, perché correttamente contestualizzata.
 
@@ -133,11 +136,7 @@ Abbiamo ricevuto un'informazione e per semplcitià nell'esposizione immaginiamo 
 
 Quindi si procede con la #1, per pigrizia certamente, ma anche perché andare per la #2 senza una specifica cognizione di causa, quindi in modo mirato, viola il principio del rasoio di Occam. Perché per falsificare l'informazione occorre aggiungere almeno un'ipotesi, se non disponiamo di un'informazione affidabile che specificatamente la falsifichi. Ma se l'avessimo non avremmo il dilemma della scelta e per altro anche i BIAS cognitivi e informativi rientrano nella categoria di informazioni ritenute affidabili ma che invece possono condurci in errore. Quindi, nel caso generale, il dilemma esiste ANCHE per un'informazione che ci pare contraddire ciò che PENSIAMO di sapere.
 
-Prendendo per buona l'informazione possiamo giungere, ALMENO, a due diverse conclusioni:
-
-1. non ci piace la conclusione o non è allineata alle nostre informazioni o bias o opinioni
-
-2. l'opposto di sopra.
+Prendendo per buona l'informazione possiamo giungere, ALMENO, a due diverse opzioni: non ci piace la conclusione o non è allineata alle nostre informazioni o bias o opinioni, oppure all'opposto ci piace, si integra bene con il nostro pregresso infomazionale, etc.
 
 Naturalmente fra queste due estreme posizioni ci sono tutti i valori intermedi, ma anche qui la dualità è scelta per amore di semplcitià di esposizione. Supponiamo quindi che non piacendoci la conclusione andiamo a cercare un'informazione e la troviamo in quello che potremmo definire il "fact-checking" di sistema. Anche in questo caso però ci troviamo nella stessa identica situazione di cui sopra, solo con un'informazione in più.
 
@@ -173,7 +172,7 @@ Secondo questo intervento tenuto a favore dei Senatori Italiani, il virus del Co
 
 Fra i coronavirus troviamo la comune influenza e il virus del covid. La differenza è che quello del covid ha un genoma sensibilmente più ampio 30.000 basi e 10.000 amminoacidi, quindi è più ridondato e meno incline a mutazioni funzionali sul breve periodo, rispetto all'influenza. Quindi è MENO rischioso da modificare geneticamente.
 
-Qual'è il motivo per il quale un virus incapace di attaccare l'uomo debba essere messo in condizione di farlo con la CPR? Medicinali veicolati attraverso un virus il quale nel suo ciclo virale li produce come sintesi del suo RNA.
+Qual'è il motivo per il quale un virus incapace di attaccare l'uomo debba essere messo in condizione di farlo? Medicinali veicolati attraverso un virus il quale nel suo ciclo virale li produce come sintesi del suo RNA.
 
 > Modificare un virus per renderlo capace di infettare l’uomo [...] è una pratica controversa se non gestita con rigore etico e biosicurezza. L’idea di virus che producono farmaci è già realtà, con applicazioni in terapia genica e oncologia.
 
@@ -185,7 +184,7 @@ A questo punto si comincia a capire anche il perché. Non possono negarlo perch�
 
 Si potrebbe dire che la Cina debba pagare i danni ma a quel punto la Cina manda a processo, in stile Norimberga 2, chi ha gestito la pandemia in Europa - per la gestione della pandemia, non per il virus e non per il vaccino, già solo per la gestione - quindi politicamente è in una botte di ferro.
 
-- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html)
+- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
 Ma potrebbe anche emergere che il laboratorio in Cina era, in realtà "internazionale" e quindi oltre a Norimberga 2 sarebbe la Cina a chiedere i danni a quelli che faceva esperimenti controversi a casa sua. Quindi il "non possiamo dirlo" della CIA perché se lo dicono, autodafé. Negare l'evidenza in un rapporto segreto è idiota. 
 
@@ -193,9 +192,7 @@ Conclusione? Norimberga 2, non è il virus, non è il vaccino ma la cattiva poli
 
 ...
 
-Magari però questa conclusione non ci piace e quindi andiamo a vedere quale alternativa ci propongono. Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
-
-=-> lnkd.in/dXye8zpF
+Magari però questa conclusione non ci piace e quindi andiamo a vedere quale [alternativa](https://www.open.online/2022/02/28/brevetto-moderna-2016-coronavirus-laboratorio/) ci propongono. Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
 
 Se il brevetto originale è del 1997 è chiaro che entro la validità dello stesso - quindi entro 20 anni, quindi entro il 2017 e quindi nel 2016 per andare sul sicuro - è fondamentale provvedere a dotarsi di una altro brevetto che sia l'estensione del primo così chi usasse il primo si troverebbe di fronte al dilemma fra rischiare una causa oppure negoziare l'acquisto dei diritti di utilizzo di un brevetto più aggiornato e in teoria migliorativo.
 
@@ -227,9 +224,7 @@ Curiosamente, attraverso un basilare processo di ragionamento logico razione bas
 
 #### L'amara medicina
 
-Il che ci fa comprendere perché il pensiero critico di tipo logico razionale, si evita quanto più possibile di insegnarlo nelle scuole e di apprezzarlo in società.
-
-Perché rompe i c*glioni MA a ben vendere non sono affatto convinto che lasciare che i c*glioni governino, ripetendo gli errori del passato, sia un gran bell'affare! {;-)}
+Il che ci fa comprendere perché il pensiero critico di tipo logico razionale, si evita quanto più possibile di insegnarlo nelle scuole e di apprezzarlo in società. Perché rompe i c*glioni MA a ben vendere non sono affatto convinto che lasciare che i c*glioni governino, ripetendo gli errori del passato, sia un gran bell'affare!
 
 +
 
