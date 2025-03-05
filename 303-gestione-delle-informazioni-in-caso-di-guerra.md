@@ -65,7 +65,7 @@ Dove sta quindi la differenza fra un regolare processo di emarginazione delle op
 
 Perché un tale sistema di velata censura tramite l'emarginazione, molto subdolo per altro e pure contrario alla Carta dei Diritti umani quando prevede l'emarginazione sociale dei soggetti coinvolti, funziona anche sui grandi numeri come nazioni o continenti? Quando invece dovrebbe avere il limite fisiologico del gossip? Tipo le Mamme Pancine che scelgono di auto-isolarsi per non essere, giustamente, prese per i fondelli dalle persone dotate di un minimo di buon senso e/o senso della realtà?
 
----
+----
 
 ### Il ruolo dell'educazione
 
