@@ -327,17 +327,16 @@ function main_md2html() {
 
     printf "$a"
     # replacing $1 markdown links
-    if [ "${PWD##*/}" == "chatgpt-answered-prompts" ]; then
-        index=0
-    fi
     for i in $(ls -1 *.md italian/*.md 2>/dev/null); do
         i=${i%.md}
         test "$i" == "template" && continue
         for j in $list; do
             link_md2html $i $j
         done
-        if [ $index -ne 0 ]; then
-            link_md2html $i index.html
+        if [ "${PWD##*/}" != "chatgpt-answered-prompts" ]; then
+            if [ $index -ne 0 ]; then
+                link_md2html $i index.html
+            fi
         fi
     done
     printf "$b" #3
