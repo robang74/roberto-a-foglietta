@@ -7,6 +7,7 @@
 
 - Articolo pubblicato lo stesso giorno di un post su [Linkedin](https://www.linkedin.com/posts/robertofoglietta_il-bello-deve-ancora-venire-activity-7302555956402425856-owfv) da cui trae ispirazione.
 - L'immagine in copertina si riferisce ad un altro [esempio](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) di pensiero critico.
+- La presentazione di questo articolo è tratta da un [dialogo](../data/deepseek-la-gestione-delle-informazioni-in-caso-di-conflitto.html?target=_blank) con DeepSeek-SoNia
 
 ---
 
@@ -96,7 +97,7 @@ Con Internet la parabola è stata la medesima. Nata per scopi di telecomunicazio
 
 Questo è il secondo paradosso della tecnologia. Progressivamente, dopo il collasso della bolla delle dot-com, chi faceva la tecnologia e ne era un fruitore più consapevole e meno influenzabile, è stato lentamente emarginato da il decision-making e addirittura in Italia si parlava di "operai del futuro". Perchè l'idea era che la tecnologia connettendo milioni di persone, oggi 2 miliardi su base giornaliera, potesse essere affrontata solo con un approccio umanistico. FALSO!
 
-----
+---
 
 ### Idioti a branchi, davvero!
 
@@ -118,7 +119,7 @@ Chiaramente, poi il sistema giunge al collasso, perché da una parte la realtà 
 
 Solo un disastro di proporzione bibliche può evitare la responsabilità di una generazione di aver fallito qualsiasi obiettivo si potesse fallire e pure peggio, cioè cancellare anche i diritti acquisiti. Tutto i deliri, dall'ideologia woke, a quella greenwashing, fino alla crisi in Ucraina, rappresentano un percorso di totale annichilimento della realtà, al punto che persino le base, i fondamenti della nostra cultura, e lo stesso buon senso sono diventati un "ostacolo".
 
-----
+---
 
 ### La situazione attuale
 
@@ -160,7 +161,7 @@ Poiché di certi specifici dettagli tecnici NON possiamo raggiungere una profond
 
 Il "core" della questione potrebbe in effetti essere una certa quantità di dettagli altamente tecnici ma comunque ininfluenti da un punto di vista decisionale, per noi. La questione però è che nella nostra ignoranza NOI non lo sappiamo. Però è possibile che il "core" della questione sia molto arduo da giudicare ANCHE dagli esperti. Paradossalmente quando questo accade NOI come non-esperti, siamo quasi sullo stesso piano degli esperti.
 
-----
+---
 
 ### Il potere della propaganda
 
@@ -214,7 +215,7 @@ Se confrontiamo l'immagine di Open con quella di questo video vediamo che non so
 
 Oltretutto è oggettivamente arduo provare sia l'una che l'altra ipotesi ANCHE per gli esperti. Invece, la gestione sconsiderata della pandemia è una certezza.
 
-----
+---
 
 ### Conclusione
 
@@ -228,7 +229,7 @@ D'altra parte se il virus è scappato (o è stato rilasciato) da un laboratorio 
 
 Perciò la natura del virus, così come la natura del vaccino, indicano - entrambi - più un problema di gestione delle pratiche mediche e di politiche sanitarie piuttosto che essere un problema di per-se-stessi o una tecnologia pericolosa.
 
-+
+++++++
 
 ### Il mito di Frankenstein
 
@@ -238,7 +239,7 @@ Perché anche le bombe atomiche e termonucleari, non c'era bisogno di gettarle s
 
 Curiosamente, attraverso un basilare processo di ragionamento logico razionale basato sul pensiero critico, per altro su una singola informazione, si giunge a mettere in discussione molte cose che davamo per scontate mentre quell'informazione che pareva così importante, poi non lo era affatto o relativamente molto meno di quanto avremmo potuto pensare da principio.
 
-----
+---
 
 ### L'amara medicina
 
