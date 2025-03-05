@@ -1,11 +1,11 @@
-/* 
+/*
  * Cascading Style Sheet for fair theming html pages converted from markdown
  *
  * (C) 2024-5, Roberto A. Foglietta <roberto.foglietta@gmail.com>, 3-clause BSD
  *
  * * list: #6
  * * name: pale-regular
- * * desc: project specific & colorfull like 'regular' but w/ light background 
+ * * desc: project specific & colorfull like 'regular' but w/ light background
  *
  ******************************************************************************/
 
@@ -51,7 +51,7 @@ a:hover { background-color: #eef5ff; border: none; text-decoration: underline; }
 h1.title, hr.title { color: #006; border-color: #006; }
 
 a.topbar { border: none; }
- 
+
 
 span.warnicon, svg.warnicon { color: tomato; fill: tomato; }
 
