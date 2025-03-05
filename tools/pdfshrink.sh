@@ -48,11 +48,11 @@ sameres="
 -dMonoImageDownsampleThreshold=1.0
 "
 
-pdf_shrink_ltr() { pdf_shrink "letter" "$@"; }
-pdf_shrink_lgl() { pdf_shrink "legal" "$@"; }
-pdf_shrink_a4()  { pdf_shrink "a4" "$@"; }
+function pdf_shrink_ltr() { pdf_shrink "letter" "$@"; }
+function pdf_shrink_lgl() { pdf_shrink "legal" "$@"; }
+function pdf_shrink_a4()  { pdf_shrink "a4" "$@"; }
 
-pdf_shrink()
+function pdf_shrink()
 { 
     local f ff fff sz
     case "$1" in
@@ -69,7 +69,8 @@ pdf_shrink()
         tmpf=/tmp/${f##*/}
         ps2pdf14 "$1" "$tmpf"
         echo -n " $(du -ks "$tmpf" | cut -f1) Kb ...";
-        ff=${f//.pdf/-shrinked.pdf};
+        ff=${f%.pdf}
+        ff+="-shrinked.pdf"
         ps2pdf14 -sPAPERSIZE=${sz} $gsopts "$tmpf" "$ff";
         rm -f "$tmpf"
         if true; then

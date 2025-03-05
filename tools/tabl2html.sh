@@ -45,7 +45,8 @@ function file_conv_one_table() {
         head -n$b $f | tail -n$[b-a] |\
             sed -e "s, *|,<tr><td>,"   \
                 -e "s,| *$,</td></tr>," \
-                -e "s,|,</td><td>,g"
+                -e "s,|,</td><td>,g" \
+                -e "s,_,\&nbsp;,g"
         printf "</table></div>"
         tail $f -n$[n-b]
     fi > $f.tmp
