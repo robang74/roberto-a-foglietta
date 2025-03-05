@@ -31,10 +31,10 @@
     -ms-user-select: none;  /* IE 10 & 11 */
 }
 
-#printlink { display: none; };
+#printlink, .printline { display: none; };
 
 html {
- /*\,-Remove this parenthesys to switch the zoom */
+ /*\,-Remove this parenthesis to switch the zoom */
 /**)/
     zoom: 125%;
 /**/
@@ -45,7 +45,7 @@ body {
     justify-content: space-between; /* Distribute space between items */
     align-items: center; /* Vertically align items */
     float: none;
- /*\,-Remove this parenthesys to switch the font */
+ /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Tahoma mono", sans-serif;
 /*/
@@ -54,7 +54,7 @@ body {
     font-size: 16px;
     text-align: justify;
     line-height: 1.75;
- /*\,-Remove this parenthesys to set the font size */
+ /*\,-Remove this parenthesis to set the font size */
 /*)/font-size: 16px;                               /* <- HERE! font base size */
 
 /*  color: #f4f4f4; */
@@ -89,7 +89,7 @@ b.post-it {
 
 blockquote {
 /*  color: darkwhite; */
-    font-size: 16px;
+/*  font-size: 16px; */
     line-height: 1.5;
     text-align: justify;
     font-family: "Times Roman", "Times New Roman", serif;
@@ -101,6 +101,8 @@ blockquote {
     position: relative;
     left: -40px;
 }
+
+.code { font-size: 80% }
 
 blockquote.dqt {
     width: 720px;
@@ -133,7 +135,7 @@ svg.warnicon, svg.infoicon {
 tt {
     font-weight: bold;
     position: relative;
- /*\,-Remove this parenthesys to switch the font */
+ /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Roboto Mono", monospace; font-size: 90%; top: -0.5px;
 /*/
@@ -148,7 +150,7 @@ tt {
 #datenote { }
 
 a {
- /*\,-Remove this parenthesys to switch the font */
+ /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Ubuntu Condensed", condensed; font-size: 110%;
 /*/
@@ -222,8 +224,8 @@ ul.dqt {
 .indent { position: relative; left: 10%; }
 
 table {
-    width: 800px;
- /*\,-Remove this parenthesys to switch the font */
+    width: 798px;
+ /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Ubuntu Mono", monospace;
 /*/
@@ -286,7 +288,7 @@ a.date-type, a.topbar, a.topbar:hover {
 a.toplink {
     top: -5px;
     position: relative;
- /*\,-Remove this parenthesys to switch the font */
+ /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Ubuntu Mono", monospace;
 /*/
