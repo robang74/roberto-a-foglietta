@@ -39,7 +39,7 @@ Simply because WE are aware that on the other side of science there are a bunch 
 
 Those are stupid questions by definition, because whom believe sincerely that god exists, do not care about other people's opinions nor science theories. Alike, who believes that Jesus is god, does not care about others disagree. In short, faith-by-itself is not a topic for science.
 
-By definition of faith as personal belief, otherwise is just trying to "win an argument" for no other reason than winning an argument. When doing that in large groups happens, it shows that the single person is feeling weak in their own faith. A football fan club logic, after all. Sociologically speaking.
+By definition of faith as personal belief, otherwise is just trying to "win an argument" for no other reason than winning an argument. When doing that in large groups happens, it shows that the single person is feeling weak in their own faith. A football fans club logic, after all. Sociologically speaking.
 
 Moreover, a scientific theory cannot be true or false in logic terms. It can be falsified by the definition from Karl Popper. A theory can work better under certain conditions and within broader limits than alternatives. In particular Darwin's theory has been corrected in many ways and several times since its first debut.
 
