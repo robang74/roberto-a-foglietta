@@ -12,11 +12,21 @@
 
 [**`IT`**] Articoli di Linkedin e beBee raccolti nel tempo in formato PDF. Scritti e pubblicati sotto il marchio personale **Roberto A. Foglietta** da Roberto Foglietta a partire dal 2016. Questa raccolta viene presentata qui perché con una certa regolarità, di solito 4 anni, gli account social vengono unilateralmente cancellati o congelati. L'abitudine dell'autore di stampare in PDF i suoi articoli e di caricarli su diversi account Google Drive li ha conservati nonostante le avversità. Il marchio personale è stato creato un po' prima del 2000, per evitare omonimie esistenti e non desiderabili.
 
+...
+
 ### Update 2025-02-24
 
 [**`EN`**] My LinkedIn account access has been restored (down from 2024-12-15 up to 2025-02-23) and I took the chance to download my data, in particular all the articles. Among them I also found the drafts I did publish because I did not complete the writing or the review. Anyway, I am going to share that stuff as well starting from this [link](html/linkedin/index.htm) in their original HTML format.   
 
 [**`IT`**] L'accesso al mio account LinkedIn è stato ripristinato (down dal 2024-12-15 al 2025-02-23) e ho colto l'occasione per scaricare i miei dati, in particolare tutti gli articoli. Tra questi ho trovato anche le bozze che avevo pubblicato perché non avevo completato la stesura o la revisione. Ad ogni modo, condividerò anche questi articoli a partire da questo [link](html/linkedin/index.htm) nel loro formato HTML originale.
+
+### Update 2025-03-10
+
+[**`EN`**] My LinkedIn account access has been temporarily blocked again, it seems they have a problem with CrowdStrike... {:-D}
+
+[**`IT`**] L'accesso al mio account LinkedIn è stato temporaneamente bloccato di nuovo, sembra che abbiano un problema con CrowdStrike.... {:-D}
+
+...
 
 ### Data management
 
@@ -30,7 +40,9 @@
 
 [**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo/index.html?target=_blank) e [pdf.done](pdf.done/index.html?target=_blank) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
 
-### The Internet memory
++
+
+## The memory of Internet
 
 [**`EN`**] Internet memory has become a meme, a concept that emerged from the realisation that it is practically impossible to remove information once it has been shared on the Internet. Those who have little or no understanding of this new technology have invented the right to be forgotten more to support the myth of the "rebirth" or more prosaically "*revergination*" of politicians or supposed politicians who have been trounced by history even more than by the ballot box. To remove any doubts about the idea of opposing technological modernity, I think one image will suffice.
 
@@ -73,6 +85,8 @@
 [**`IT`**] Man mano che i documenti in PDF saranno convertiti in markdown verranno aggiunti in questo indice, in ordine anticronologico giacché quello cronologico è presente nella lista dei file dato l'indice numerico che li precede nel nome. Invece, i nuovi articoli saranno scritti direttamente in formato markdown. La data di prima pubblicazione sarà riportata in formato universale come ANNO-MM-GG.
 
 <hr id="pages-index"/>
+
+* 305 - 2025-03-10 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/305-thinkpad-x390-thunderbolt-netac-usbstick.md)) [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/305-thinkpad-x390-thunderbolt-netac-usbstick.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/305-thinkpad-x390-thunderbolt-netac-usbstick.md?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/305-thinkpad-x390-thunderbolt-netac-usbstick.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/305-thinkpad-x390-thunderbolt-netac-usbstick.md?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [ThinkPad X390 BIOS USB-C full bandwidth](305-thinkpad-x390-thunderbolt-netac-usbstick.md)
 
 * 304 - 2025-03-07 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/304-ignoring-reality-has-its-own-cost.md)) [[**`IT`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/304-ignoring-reality-has-its-own-cost.md?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/304-ignoring-reality-has-its-own-cost.md?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/304-ignoring-reality-has-its-own-cost.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/304-ignoring-reality-has-its-own-cost.md?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md)
 
