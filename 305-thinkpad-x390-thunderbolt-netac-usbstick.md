@@ -11,7 +11,7 @@ Published initially on LinkedIn and on [Facebook](https://www.facebook.com/plugi
 
 I have noticed a drastic drop in performance on my X390 USB-C Thunderbolt port when I have enabled that system in full and in particular the option which is marked with a green circle. I do not want to convince anyone that disabling that option can 2x increase the performance on that port. Just give it a try, and judge by yourself on Ubuntu 22.04 with 6.08 kernel and Netac US9 512GB as USB 3.2 drive.
 
-This is the Grok3 explanation about my experience and it is totally coherent with what I have seen by my own and in my case. Which confirms my sensation that it is better keep the Thunderbolt disabled as long as it is not used (changing that settings requires 15s for the BIOS and a reboot).
+This is the Grok3 explanation about my experience and it is totally coherent with what I have seen on my own and in my case. Which confirms my feeling that it is better keep the Thunderbolt disabled as long as it is not used (changing that settings requires 15s for the BIOS and a reboot).
 
 [!INFO]
 
@@ -45,9 +45,9 @@ The kernel (xhci_hcd) relies on the hardware’s initial state. If the BIOS hand
 
 ### Thunderbolt firmware upgrade
 
-After Ubuntu proposed to me the Thunderbolt firmware upgrade 20.00 --> 23.00, and I accepted it, I did not managed to go above 560Mb/s while - before the upgrade - I hit the 900MB/s and a little above. Check in the comments the screenshot about the firmware upgrade.
+After Ubuntu proposed to me the Thunderbolt firmware upgrade 20.00 --> 23.00, and I accepted it, I did not manage to go above 560Mb/s while - before the upgrade - I hit the 900MB/s and a little above. Check in the comments the screenshot about the firmware upgrade.
 
-While moving on lowlatency kernel, the system did something better but still not see the top v20.00 Thunderbolt Firmware performance.
+While moving on lowlatency kernel, the system did something better but still did not see the top v20.00 Thunderbolt Firmware performance.
 
 - `268435456 bytes (268 MB, 256 MiB) copied, 0.314098 s, 855 MB/s`
 
@@ -95,3 +95,10 @@ Anyway, here we are testing the USB data speed transfer.
 The use of a real USB stick like Netac US9 is just for bragging... {:-D}
 
 +
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
+
