@@ -86,7 +86,8 @@ printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"<br>
 
 Because the direct access to the device is not cached
 
-- `min: 194 MB/s, avg: 838.45 MB/s, max: 960 MB/s`
+- `min: 194 MB/s, avg: 838.45 MB/s, max: 960 MB/s` with `usbcore.autosuspend=-1`
+- `min: 407 MB/s, avg: 856.91 MB/s, max: 963 MB/s` with `intel_iommu=on iommu=pt`
 
 the average data transfer speed is looking quite impressive!
 
