@@ -163,7 +163,7 @@ The 2x USB 3.0 ports are valuable but they seem to work at 5 Gbits each. If they
 
 Again, for most people this is enough. For those who have an X390 or X280 this little guy can charge the laptop while functioning as a hub therefore a USB 3.2 at 10Gbits became available. Moreover, few devices can really fully leverage 10Gbits data transfer.
 
-Having a SD and MMC reader, especially if it is able to read both at the same time, is something nice to have. Especially for those who are still using dedicated digital photo cameras. I paid €4.99 for such a reader, alone. So the two main reasons I bought this USB hub is because:
+Having a SD and MMC reader, especially because both are functional at the same time, is something nice to have. Especially for those who are still using dedicated digital photo cameras. I paid €4.99 for such a reader, alone. So the two main reasons I bought this USB hub is because:
 
 1. it frees a 10Gbits USB-C port while it keeps my laptop under charge;
 2. provide me with a Gigabits Ethernet RJ45 port.
