@@ -15,14 +15,14 @@
         <link rel='stylesheet' href='printer.css' media='print'>
     </head>
     <body>
-<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 <p class='topbar'></p>
 <div class='topbar' width='800px' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;</b> &thinsp;&mdash;&thinsp; &#8543;&#8239;release: <b class='topbar'>2025-03-01&nbsp;<sup class='date-type topbar' id='datenote'>(&hairsp;<a href='#date-legenda' class='date-type topbar'>1</a>&hairsp;)</sup></b>  &thinsp;&mdash;&thinsp; rev.: <b class='topbar
-'>3</b rev_num='
+'>4</b rev_num='
 '> &thinsp;&mdash;&thinsp; transl.:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/305-thinkpad-x390-thunderbolt-netac-usbstick?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>IT</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/305-thinkpad-x390-thunderbolt-netac-usbstick?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/305-thinkpad-x390-thunderbolt-netac-usbstick?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/305-thinkpad-x390-thunderbolt-netac-usbstick?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &thinsp;&mdash;&thinsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a> <span id='printlink'>&thinsp;&mdash;&thinsp; <b>⎙</b>&hairsp;: <a aria-label='print this page' class='topbar' href='javascript:window.print()'>PDF</a></span>&nbsp;</div>
 <div id="firstdiv">
 <p class='topbar'></p>
-<div align="center"><img class="bwsketch" src="../img/305-thinkpad-x390-thunderbolt-netac-usbstick.png" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="../img/305-thinkpad-x390-thunderbolt-netac-usbstick-img-001.png" width="800"><br></div>
 <p></p>
 <H2 id="thinkpad-x390-bios-usb-c-full-bandwidth">ThinkPad X390 BIOS USB-C full bandwidth</H2>
 <p></p>
@@ -42,15 +42,11 @@ Your Netac US9 is a USB 3.2 drive (likely Gen 2, 10 Gbps), not a Thunderbolt dev
 <p></p>
 <H4>Prioritization of Thunderbolt Protocol</H4>
 <p></p>
-When enabled, the BIOS might configure the Thunderbolt controller to assume a Thunderbolt device is attached, prioritizing PCIe tunneling or Thunderbolt signaling over USB SuperSpeed.
-<p></p>
-USB-C ports multiplex USB and Thunderbolt over the same pins/lanes. If Thunderbolt gets precedence, the USB SuperSpeed pairs (SSRX/SSRX+ and SSTX/SSTX+) might not negotiate at their full potential, capping the port at USB 3.0 (5 Gbps) instead of USB 3.2 Gen 2 (10 Gbps).
+When enabled, the BIOS might configure the Thunderbolt controller to assume a Thunderbolt device is attached, prioritizing PCIe tunneling or Thunderbolt signaling over USB SuperSpeed. USB-C ports multiplex USB and Thunderbolt over the same pins/lanes. If Thunderbolt gets precedence, the USB SuperSpeed pairs (SSRX/SSRX+ and SSTX/SSTX+) might not negotiate at their full potential, capping the port at USB 3.0 (5 Gbps) instead of USB 3.2 Gen 2 (10 Gbps).
 <p></p>
 <H4> Lane Misconfiguration</H4>
 <p></p>
-Thunderbolt 3 uses up to 4 PCIe lanes, dynamically allocated with USB and DisplayPort. Pre-boot activation might reserve or misalign these lanes, leaving fewer or slower paths for USB data.
-<p></p>
-Your 300-500 MB/s matches USB 3.0’s real-world limit (400-500 MB/s with overhead), suggesting it’s stuck at 5 Gbps instead of 10 Gbps (800-1000 MB/s in real-world).
+Thunderbolt 3 uses up to 4 PCIe lanes, dynamically allocated with USB and DisplayPort. Pre-boot activation might reserve or misalign these lanes, leaving fewer or slower paths for USB data. Your 300-500 MB/s matches USB 3.0’s real-world limit (400-500 MB/s with overhead), suggesting it’s stuck at 5 Gbps instead of 10 Gbps (800-1000 MB/s in real-world).
 <p></p>
 <H4> Latency or Overhead</H4>
 <p></p>
@@ -86,9 +82,10 @@ Which is not bad at all, but it requires a deeper investigation. Therefore, here
 &num; variables<br>
 f=/tmp/usbkey.tst<br>
 d=/dev/sda<br>
+n=100
 <p></p>
 &num; test 10 or 100 tries<br>
-umount $d&ast; 2>/dev/null; for i in $(seq 100); do<br>
+umount $d&ast; 2>/dev/null; for i in $(seq $n); do<br>
 dd if=$d bs=1M count=256 skip=$[RANDOM%256] of=/dev/null 2>&1 |\<br>
  &nbsp; grep bytes; done | tee $f<br>
 <p></p>
@@ -97,11 +94,13 @@ str=$(cat $f | cut -d, -f4 | sort -n)<br>
 min=$(echo "$str" | head -n1)<br>
 max=$(echo "$str" | tail -n1)<br>
 let sum=$(sed -e "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/" $f | tr -d '\n')0<br>
-avg=$[sum/100].$[sum%100]<br>
+avg=$[sum/n].$[sum%n]<br>
 <p></p>
 &num; results<br>
 printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"<br>
 </code></blockquote>
+<p></p>
+<div class="pagebreak"><br></div>
 <p></p>
 <H4>Results print out & comments</H4>
 <p></p>
@@ -115,6 +114,89 @@ the average data transfer speed is looking quite impressive!
 Anyway, here we are testing the USB data speed transfer.
 <p></p>
 The use of a real USB stick like Netac US9 is just for bragging... <img class='emoji wbsketch' src='../img/emoji/grin.png'>
+<p></p>
+<hr>
+<p></p>
+<H3 id="thinkpad-x390-tweaks">ThinkPad X390 tweaks</H3>
+<p></p>
+All the changes presented here requires the <tt>root</tt> permission.
+<p></p>
+<H4>1. snpd warning in dmesg</H4>
+<p></p>
+In case you Linux kernel <tt>dmeg</tt> log reports a problem with <tt>snapd</tt> configuration you can apply this change:
+<p></p>
+<blockquote class="code"><code>
+&num; with systemd v254+, skip going through failed state during restart<br>
+&num;RestartMode=direct<br>
+&num;Restart=always<br>
+Restart=on-failure<br>
+RestartSec=5s<br>
+</code></blockquote>
+<p></p>
+<p></p>
+<H4>2. i915 granted in initramfs</H4>
+<p></p>
+This is optional and might create troubles, apply only if necessary:
+<p></p>
+<blockquote class="code"><code>
+echo "<br>
+drm_kms_helper<br>
+drm_fb_helper<br>
+i915" >> /etc/initramfs-tools/modules<br>
+echo blacklist elan_i2c >> /etc/modprobe.d/blacklist.conf<br>
+echo blacklist thunderbolt >> /etc/modprobe.d/blacklist.conf<br>
+update-initramfs -u # -k all # only after giving a test<br>
+</code></blockquote>
+<p></p>
+Having a 2nd kernel for testing and boot the system when the 1st fails, it is a good habit.
+<p></p>
+<H4>3. non-US keyboard mapping</H4>
+<p></p>
+<blockquote class="code"><code>
+kbd.map=it # choose your keyboard layout<br>
+update-grub
+</code></blockquote>
+<p></p>
+<H4>4. avoid logo shown at boot</H4>
+<p></p>
+<blockquote class="code"><code>
+bgrt_disable=1<br>
+update-grub
+</code></blockquote>
+<p></p>
+<div class="pagebreak"><br></div>
+<p></p>
+<H2 id="an-useful-usb-c-hub">An useful USB-C hub</H2>
+<p></p>
+Ask me why I am so happy with little gadget...
+<p></p>
+<div class='center'>
+<img src="../img/305-thinkpad-x390-thunderbolt-netac-usbstick-img-002.jpg" width="400">
+<br>
+<sup>right click menu to (2x) enlarge the image</sup>
+</div>
+<p></p>
+I will tell you what I do not like about it - the HDMI - is a duplication for my Thinkpad X390 or X280 and I wish I had found the version with a USB-C port, instead. Cheaper and more useful for me. However, I understand that a lot of people out there that have not yet joined the Cult (of having a Thinkpad as their laptop) desperately need a HDMI port and this adapter provides it to them.
+<p></p>
+The 2x USB 3.0 ports are valuable but they seem to work at 5 Gbits each. If they can sustain that speed simultaneously, then it starts to be reasonable.
+<p></p>
+<li><tt>min: 276 MB/s, avg: 424.29 MB/s, max: 445 MB/s</tt></li>
+<p></p>
+Again, for most people this is enough. For those who have an X390 or X280 this little guy can charge the laptop while functioning as a hub therefore a USB 3.2 at 10Gbits became available. Moreover, few devices can really fully leverage 10Gbits data transfer.
+<p></p>
+Having a SD and MMC reader, especially if it is able to read both at the same time, is something nice to have. Especially for those who are still using dedicated digital photo cameras. I paid €4.99 for such a reader, alone. So the two main reasons I bought this USB hub is because:
+<p></p>
+<li class='numli'><b>1.&emsp;</b>it frees a 10Gbits USB-C port while it keeps my laptop under charge;</li>
+<li class='numli'><b>2.&emsp;</b>provide me with a Gigabits Ethernet RJ45 port.</li>
+<p></p>
+And it is a real gigabits network which are another five bucks but takes away a USB port:
+<p></p>
+<li><tt>dd if=/dev/zero bs=1500 count=16M | nc -N 10.10.10.2 1111</tt></li>
+<li><tt>25165824000 bytes (25 GB, 23 GiB) copied, 213.972 s, 118 MB/s</tt></li>
+<p></p>
+Please, keep in consideration that Ubuntu 22.04 on the Esprimo P910 is running with a whole CPU core dedicated to the kernel and IRQ management while the X390 is using a low-latency kernel and both are leveraging Intel IOMMU passthrough.
+<p></p>
+Last but not least, it costs €8.15 on Temu and it is sent within Europe using the Amazon 2-days delivery service (islands, apart) at the extra price of €2.99.
 <p></p>
 <br>
 <p></p>

@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-03-01:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/305-thinkpad-x390-thunderbolt-netac-usbstick.png" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/305-thinkpad-x390-thunderbolt-netac-usbstick-img-001.png" width="800"><br></div>
 
 ## ThinkPad X390 BIOS USB-C full bandwidth
 
@@ -21,15 +21,11 @@ Your Netac US9 is a USB 3.2 drive (likely Gen 2, 10 Gbps), not a Thunderbolt dev
 
 #### Prioritization of Thunderbolt Protocol
 
-When enabled, the BIOS might configure the Thunderbolt controller to assume a Thunderbolt device is attached, prioritizing PCIe tunneling or Thunderbolt signaling over USB SuperSpeed.
-
-USB-C ports multiplex USB and Thunderbolt over the same pins/lanes. If Thunderbolt gets precedence, the USB SuperSpeed pairs (SSRX/SSRX+ and SSTX/SSTX+) might not negotiate at their full potential, capping the port at USB 3.0 (5 Gbps) instead of USB 3.2 Gen 2 (10 Gbps).
+When enabled, the BIOS might configure the Thunderbolt controller to assume a Thunderbolt device is attached, prioritizing PCIe tunneling or Thunderbolt signaling over USB SuperSpeed. USB-C ports multiplex USB and Thunderbolt over the same pins/lanes. If Thunderbolt gets precedence, the USB SuperSpeed pairs (SSRX/SSRX+ and SSTX/SSTX+) might not negotiate at their full potential, capping the port at USB 3.0 (5 Gbps) instead of USB 3.2 Gen 2 (10 Gbps).
 
 ####  Lane Misconfiguration
 
-Thunderbolt 3 uses up to 4 PCIe lanes, dynamically allocated with USB and DisplayPort. Pre-boot activation might reserve or misalign these lanes, leaving fewer or slower paths for USB data.
-
-Your 300-500 MB/s matches USB 3.0’s real-world limit (400-500 MB/s with overhead), suggesting it’s stuck at 5 Gbps instead of 10 Gbps (800-1000 MB/s in real-world).
+Thunderbolt 3 uses up to 4 PCIe lanes, dynamically allocated with USB and DisplayPort. Pre-boot activation might reserve or misalign these lanes, leaving fewer or slower paths for USB data. Your 300-500 MB/s matches USB 3.0’s real-world limit (400-500 MB/s with overhead), suggesting it’s stuck at 5 Gbps instead of 10 Gbps (800-1000 MB/s in real-world).
 
 ####  Latency or Overhead
 
@@ -65,9 +61,10 @@ Which is not bad at all, but it requires a deeper investigation. Therefore, here
 &num; variables<br>
 f=/tmp/usbkey.tst<br>
 d=/dev/sda<br>
+n=100
 
 &num; test 10 or 100 tries<br>
-umount $d&ast; 2>/dev/null; for i in $(seq 100); do<br>
+umount $d&ast; 2>/dev/null; for i in $(seq $n); do<br>
 dd if=$d bs=1M count=256 skip=$[RANDOM%256] of=/dev/null 2>&1 |\<br>
  &nbsp; grep bytes; done | tee $f<br>
 
@@ -76,11 +73,13 @@ str=$(cat $f | cut -d, -f4 | sort -n)<br>
 min=$(echo "$str" | head -n1)<br>
 max=$(echo "$str" | tail -n1)<br>
 let sum=$(sed -e "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/" $f | tr -d '\n')0<br>
-avg=$[sum/100].$[sum%100]<br>
+avg=$[sum/n].$[sum%n]<br>
 
 &num; results<br>
 printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"<br>
 [/CODE]
+
+++++++
 
 #### Results print out & comments
 
@@ -94,6 +93,89 @@ the average data transfer speed is looking quite impressive!
 Anyway, here we are testing the USB data speed transfer.
 
 The use of a real USB stick like Netac US9 is just for bragging... {:-D}
+
+---
+
+### ThinkPad X390 tweaks
+
+All the changes presented here requires the `root` permission.
+
+#### 1. snpd warning in dmesg
+
+In case you Linux kernel `dmeg` log reports a problem with `snapd` configuration you can apply this change:
+
+[!CODE]
+&num; with systemd v254+, skip going through failed state during restart<br>
+&num;RestartMode=direct<br>
+&num;Restart=always<br>
+Restart=on-failure<br>
+RestartSec=5s<br>
+[/CODE]
+
+
+#### 2. i915 granted in initramfs
+
+This is optional and might create troubles, apply only if necessary:
+
+[!CODE]
+echo "<br>
+drm_kms_helper<br>
+drm_fb_helper<br>
+i915" >> /etc/initramfs-tools/modules<br>
+echo blacklist elan_i2c >> /etc/modprobe.d/blacklist.conf<br>
+echo blacklist thunderbolt >> /etc/modprobe.d/blacklist.conf<br>
+update-initramfs -u # -k all # only after giving a test<br>
+[/CODE]
+
+Having a 2nd kernel for testing and boot the system when the 1st fails, it is a good habit.
+
+#### 3. non-US keyboard mapping
+
+[!CODE]
+kbd.map=it # choose your keyboard layout<br>
+update-grub
+[/CODE]
+
+#### 4. avoid logo shown at boot
+
+[!CODE]
+bgrt_disable=1<br>
+update-grub
+[/CODE]
+
+++++++
+
+## An useful USB-C hub
+
+Ask me why I am so happy with little gadget...
+
+|x|>
+<img src="img/305-thinkpad-x390-thunderbolt-netac-usbstick-img-002.jpg" width="400">
++
+<sup>right click menu to (2x) enlarge the image</sup>
+<|x|
+
+I will tell you what I do not like about it - the HDMI - is a duplication for my Thinkpad X390 or X280 and I wish I had found the version with a USB-C port, instead. Cheaper and more useful for me. However, I understand that a lot of people out there that have not yet joined the Cult (of having a Thinkpad as their laptop) desperately need a HDMI port and this adapter provides it to them.
+
+The 2x USB 3.0 ports are valuable but they seem to work at 5 Gbits each. If they can sustain that speed simultaneously, then it starts to be reasonable.
+
+- `min: 276 MB/s, avg: 424.29 MB/s, max: 445 MB/s`
+
+Again, for most people this is enough. For those who have an X390 or X280 this little guy can charge the laptop while functioning as a hub therefore a USB 3.2 at 10Gbits became available. Moreover, few devices can really fully leverage 10Gbits data transfer.
+
+Having a SD and MMC reader, especially if it is able to read both at the same time, is something nice to have. Especially for those who are still using dedicated digital photo cameras. I paid €4.99 for such a reader, alone. So the two main reasons I bought this USB hub is because:
+
+1. it frees a 10Gbits USB-C port while it keeps my laptop under charge;
+2. provide me with a Gigabits Ethernet RJ45 port.
+
+And it is a real gigabits network which are another five bucks but takes away a USB port:
+
+- `dd if=/dev/zero bs=1500 count=16M | nc -N 10.10.10.2 1111`
+- `25165824000 bytes (25 GB, 23 GiB) copied, 213.972 s, 118 MB/s`
+
+Please, keep in consideration that Ubuntu 22.04 on the Esprimo P910 is running with a whole CPU core dedicated to the kernel and IRQ management while the X390 is using a low-latency kernel and both are leveraging Intel IOMMU passthrough.
+
+Last but not least, it costs €8.15 on Temu and it is sent within Europe using the Amazon 2-days delivery service (islands, apart) at the extra price of €2.99.
 
 +
 
