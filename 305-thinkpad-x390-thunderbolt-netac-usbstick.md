@@ -165,8 +165,8 @@ Again, for most people this is enough. For those who have an X390 or X280 this l
 
 Having a SD and MMC reader, especially because both are functional at the same time, is something nice to have. Especially for those who are still using dedicated digital photo cameras. I paid €4.99 for such a reader, alone. So the two main reasons I bought this USB hub is because:
 
-1. it frees a 10Gbits USB-C port while it keeps my laptop under charge;
-2. provide me with a Gigabits Ethernet RJ45 port.
+1. it uses the PD 3.0 10Gbits UBS-C port for powering the laptop, leaving the other one free;
+2. it provides a Ethernet 1Gbits RJ45 and 2x USB 3.0 5Gbits ports, a SD/MMC cards reader.
 
 And it is a real gigabits network which are another five bucks but takes away a USB port:
 
