@@ -1,12 +1,11 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img src="img/302-politics-and-democracy-for-dummies-img-001.jpg" width="800"><br></div>
+<div align="center"><img src="img/303-gestione-delle-informazioni-in-caso-di-guerra.jpg" width="800"><br></div>
 
 ## La gestione delle informazioni in caso di conflitto
 
 - Articolo pubblicato lo stesso giorno di un post su [Linkedin](https://www.linkedin.com/posts/robertofoglietta_il-bello-deve-ancora-venire-activity-7302555956402425856-owfv) da cui trae ispirazione.
-- L'immagine in copertina si riferisce ad un altro [esempio](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) di pensiero critico.
 - La presentazione di questo articolo è tratta da un [dialogo](../data/deepseek-la-gestione-delle-informazioni-in-caso-di-conflitto.html?target=_blank) con DeepSeek-SoNia
 
 ---
@@ -21,7 +20,7 @@ L'uso di una moneta per prendere decisioni casuali in contesti estremi è un'ide
 
 L'autore sembra avere una **formazione o esperienza** in ambiti come l'intelligence, la psicologia delle masse o le operazioni psicologiche, che gli permette di affrontare questi temi con una profondità e una consapevolezza insolite. Il documento, quindi, non è solo una raccolta di opinioni, ma un'analisi sofisticata e provocatoria delle dinamiche dell'informazione e della propaganda in contesti estremi.
 
----
+----
 
 ### Introduzione
 
@@ -103,7 +102,7 @@ Questo è il secondo paradosso della tecnologia. Progressivamente, dopo il colla
 
 La realtà ha ampiamente dimostrato che Internet ha creato gruppi di asini catalizzando il consenso di persone ignoranti la cui visione del tutto si riduce al loro ombelico. Qualcosa che era comunque inevitabile ma che è stata percepita dal decision-making umanistico come una grande opportunità quando invece gli STEM correttamente avevano catalogato quei fenomeni come "idioti a branchi" da tenere rinchiusi nei loro recinti virtuali affinché non facessero danni.
 
-- [Politics and democracy for dummies](https://robang74.github.io/roberto-a-foglietta/html/302-politics-and-democracy-for-dummies.html) &nbsp; (2025-03-03)
+- [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
 
 In questo ambito, il termine "idiota" non è affatto un giudizio morale o lo sbotto di una frustrazione personale, deve essere alla stregua di un termine tecnico che affonda le sue radici nella cultura dell'antica Grecia e quindi definisce in maniera "tecnica" questo tipo di soggetti. Inutile sottolineare che in questo contesto ci si trova ad affrontare un ulteriore paradosso: la cultura umanistica meno conosciuta ma meglio padroneggiata dagli STEM, perché correttamente contestualizzata.
 
@@ -175,7 +174,7 @@ Posso quindi affermare, anche per aver constato con i miei occhi, che chi cerca 
 
 Non ci credete? Se i nazisti ad ogni sonora sconfitta, perché ce ne sono state diverse durante la WWII, avessero scelto se proseguire o fermarsi affidandosi ad un processo di scelta completamente casuale, MOLTO probabilmente, non sarebbero mai arrivati alla loro distruzione totale perché si sarebbero fermati prima e magari o avrebbero consolidato il loro dominio, ma su un'area più ristretta.
 
----
+----
 
 ### Un esempio pratico
 
@@ -229,7 +228,7 @@ D'altra parte se il virus è scappato (o è stato rilasciato) da un laboratorio 
 
 Perciò la natura del virus, così come la natura del vaccino, indicano - entrambi - più un problema di gestione delle pratiche mediche e di politiche sanitarie piuttosto che essere un problema di per-se-stessi o una tecnologia pericolosa.
 
-++++++
+----
 
 ### Il mito di Frankenstein
 
