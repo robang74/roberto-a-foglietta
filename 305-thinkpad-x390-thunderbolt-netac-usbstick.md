@@ -61,7 +61,7 @@ Which is not bad at all, but it requires a deeper investigation. Therefore, here
 &num; variables<br>
 f=/tmp/usbkey.tst<br>
 d=/dev/sda<br>
-n=100
+n=10
 
 &num; test 10 or 100 tries<br>
 umount $d&ast; 2>/dev/null; for i in $(seq $n); do<br>
@@ -70,10 +70,11 @@ dd if=$d bs=1M count=256 skip=$[RANDOM%256] of=/dev/null 2>&1 |\<br>
 
 &num; maths<br>
 str=$(cat $f | cut -d, -f4 | sort -n)<br>
-min=$(echo "$str" | head -n1)<br>
-max=$(echo "$str" | tail -n1)<br>
-let sum=$(sed -e "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/" $f | tr -d '\n')0<br>
-avg=$[sum/n].$[sum%n]<br>
+min=$(echo "$str" | head -n1); max=$(echo "$str" | tail -n1)<br>
+let sum=$(sed -ne "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n')0<br>
+if [ $sum -eq 0 ]; then<br>
+let sum=$(sed -ne "s/.&ast; s, \([0-9.,]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n',.)0<br>
+let n*=10; fi; avg=$[sum/n].$[sum%n]<br>
 
 &num; results<br>
 printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"<br>
