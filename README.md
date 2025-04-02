@@ -26,6 +26,12 @@
 
 [**`IT`**] L'accesso al mio account LinkedIn è stato temporaneamente bloccato di nuovo, sembra che abbiano un problema con CrowdStrike.... {:-D}
 
+### Update 2025-04-02
+
+[**`EN`**] After the Paragon case also Graphite case emerged -- another spyware that the secret services used to monitor the online activities of certain people and which apparently also generated anomalies in social network traffic, unnerving the NIDS/SIEM systems -- Linkedin spontaneously reactivated my account. I think that for this outcome, the revelations in the New York Times (The Secret History of the War in Ukraine) about Ukrainian military activities in Germany, which began a few days after the start of war hostilities, also contributed. It seems an April fool joke, but that's it. In fact, I waited until the next day to be sure before committing this update.
+
+[**`IT`**] Dopo il caso Paragon è emerso anche il caso Graphite -- un altro spyware che i servizi segreti utilizzavano per monitorare le attività online di alcune persone e che a quanto pare generava anche anomalie nel traffico dei social network, innervosendo i sistemi NIDS/SIEM -- Linkedin ha riattivato spontaneamente il mio account. Credo che a questo risultato abbiano contribuito anche le rivelazioni del New York Times (The Secret History of the War in Ukraine) sulle attività militari ucraine in Germania, iniziate pochi giorni dopo l'inizio delle ostilità belliche. Sembra un pesce d'aprile invece è così. Infatti ho atteso il giorno dopo per esserne certo, prima di fare il commit di questo aggiornameto.
+
 ...
 
 ### Data management
