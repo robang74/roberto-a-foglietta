@@ -41,6 +41,16 @@ Welcome aboard Mr. Sock, happy to salute YOU - despite not being human - as one 
 
 +
 
+## Related articles
+
+- [The "paper money" is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
+
+- [Socialism is not Communism](301-socialism-is-not-communism.md#?target=_blank) &nbsp; (2025-01-30)
+
+- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md#?target=_blank) &nbsp; (2025-03-07)
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
