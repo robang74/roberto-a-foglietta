@@ -71,4 +71,3 @@ Impreparazione, ignoranza e furbizia unite alla scellarata moda tipicamente ital
 
 </div>
 
-
