@@ -3,7 +3,7 @@
 
 <div align="center"><img src="img/303-gestione-delle-informazioni-in-caso-di-guerra.jpg" width="800"><br></div>
 
-## La gestione delle informazioni in caso di conflitto
+## La gestione delle informazioni in caso di guerra
 
 - Articolo pubblicato lo stesso giorno di un post su [Linkedin](https://www.linkedin.com/posts/robertofoglietta_il-bello-deve-ancora-venire-activity-7302555956402425856-owfv) da cui trae ispirazione.
 - La presentazione di questo articolo è tratta da un [dialogo](../data/deepseek-la-gestione-delle-informazioni-in-caso-di-conflitto.html?target=_blank) con DeepSeek-SoNia
