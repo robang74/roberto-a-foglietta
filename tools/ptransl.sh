@@ -50,7 +50,7 @@ function getdate() {
     y=$(echo ${str:4} | cut -d' ' -f2)
     for s in Jen Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec; do 
         test "$m" == "$s" && break; let n++; done
-    printf "%03d-%02d-%02d" $y $n $d
+    printf "%03d-%02d-%02d" $y $n $d | grep -v -- "-00-00" || date "+%F"
 }
 
 if [ "$flg" == "i" ]; then
