@@ -1,4 +1,4 @@
-<div id="firstdiv" created=":IT:-1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-04-18:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="bwsketch" src="img/309-la-misura-del-degrado-del-sistema.jpg" width="800"><br></div>
