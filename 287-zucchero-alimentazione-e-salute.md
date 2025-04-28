@@ -6,6 +6,10 @@
 
 * Published Sep 24, 2024 - origin [LinkedIn](https://it.linkedin.com/pulse/zucchero-alimentazione-e-salute-roberto-a-foglietta-rs10f) article
 
+* Updated Apr 28, 2025 - including [LinkedIn](https://www.linkedin.com/posts/revaz-m-56898618_rmsciencetechinvest-cells-activity-7322415545973108736-Kqbt/) post [here](#update-2025-04-28)
+
+
+
 Questo articolo è il prodotto di diversi post pubblicati in precedenza su LinkedIn.
 
 ---
@@ -138,13 +142,33 @@ La ragione è alquanto banale e si riassume in semplice domanda: perché dovrei 
 
 Più ancora che il legislatore - *con le c.d. sugar tax da incrementare progressivamente* - quello che può fare la differenza è il mercato. La scelta del consumatore costringe necessariamente gli zuccherifici a fare innovazione oppure a chiudere al contrarsi del mercato. Messi di fronte a questa concreta evenienza, saranno costretti ad innovare, altrimenti no.
 
-<br/>
++
+
+## Update 2025-04-28
+
+When the human body is hungry, it eats itself, removing all sick and aging cells. 
+
+When your stomach growls, your body isn’t just craving food -- it’s activating one of the most powerful healing processes known to science. It’s called autophagy, which literally means “self-eating.” But don’t be alarmed. This isn’t a bad thing. In fact, it’s a natural cellular detox mechanism where your body breaks down and recycles damaged or aging components inside your cells. Think of it like spring cleaning for your insides. When you go for several hours without eating -- especially past the 14–16 hour mark -- your body’s insulin levels drop. This triggers your cells to switch from digesting food to tidying up their own internal mess. They start breaking down dysfunctional mitochondria, misfolded proteins, and toxins, turning them into usable materials or clearing them out completely. The result? You get fresher, more efficient cells and potentially lower risk of diseases like Alzheimer’s, Parkinson’s, and type 2 diabetes.
+
+This isn’t some fringe health idea -- it’s backed by serious research. Dr. Yoshinori Ohsumi even won the Nobel Prize in 2016 for discovering how autophagy works. Studies show that mice put through fasting cycles lived longer, aged slower, and had fewer signs of disease. Some human studies also suggest that practices like intermittent fasting -- not eating for 16 hours and consuming all meals in an 8-hour window -- can improve heart health, reduce inflammation, and enhance cognitive performance. Even a 24-hour fast, done occasionally, can significantly boost cellular cleanup. What’s even more amazing is that your body reuses the breakdown products from autophagy. The amino acids, fatty acids, and sugars get recycled to build new cells or fuel your body -- meaning nothing is wasted.
+
+Hunger, in this case, isn’t a problem -- it’s a solution. In a world where food is always available, our bodies rarely get the chance to activate these ancient survival processes. Our ancestors naturally fasted when food was scarce, and their bodies adapted to thrive during those times. Fasting isn’t about starving -- it’s about giving your body a break from constant digestion so it can focus on repair. Of course, this isn’t for everyone. Pregnant women, people with certain health conditions, or those on specific medications should consult their doctor first. But for most healthy adults, short fasting windows can be a safe and incredibly effective way to support long-term health. It’s like hitting the reset button on a cellular level.
+
+So next time you feel a bit hungry, don’t rush to grab a snack. Let your body do what it’s built to do -- clean, repair, and rejuvenate from the inside out. Hunger, in the right dose, might just be the most natural medicine we’ve forgotten. 
+
+#### References
+
+Historical landmarks of autophagy research by Ohsumi, Y., 2014 on [NIH](https://pubmed.ncbi.nlm.nih.gov/24366340/).
+
+- Pub. **Cell Research**, 24 (1), 9–23. Mattson, M. P., Longo, V. D., et al. 
+
++
 
 ## Related articles
 
 * Q&A - [The sugar's role in our foods and lives](https://robang74.github.io/chatgpt-answered-prompts/html/the-sugar-role-in-our-foods-and-lives.html) (2024-09-22)
 
-<br/>
++
 
 ## Share alike
 
