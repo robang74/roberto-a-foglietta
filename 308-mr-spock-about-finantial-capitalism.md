@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch" src="img/308-mr-spock-about-finantial-capitalism.jpg" width="800"><br></div>
 
-## Mr. Spock about finatial capitalism
+## Mr. Spock about financial capitalism
 
 Published initially on [Facebook](https://www.facebook.com/photo?fbid=10161665912523736&set=a.10150400606833736) the same day.
 
@@ -43,11 +43,15 @@ Welcome aboard Mr. Sock, happy to salute YOU - despite not being human - as one 
 
 ## Related articles
 
+- [The BRICS financial system, hope or WW3?](265-the-brics-financial-system-hope-or-ww3.md#?target=_blank) &nbsp; (2024-06-07)
+
 - [The "paper money" is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
 
 - [Socialism is not Communism](301-socialism-is-not-communism.md#?target=_blank) &nbsp; (2025-01-30)
 
 - [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md#?target=_blank) &nbsp; (2025-03-07)
+
+- [Bicentennial man is a girl, in love](https://robang74.github.io/chatbots-for-fun/html/bicentennial-man-is-a-girl-in-love.html) &nbsp; (2025-04-28)
 
 +
 
