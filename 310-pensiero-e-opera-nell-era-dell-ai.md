@@ -11,13 +11,21 @@
 
 ### Il pensiero e il linguaggio
 
-Si chiama intelligenza lessicale, motivo per il quale vale la pena di fare fine tuning in latino come lingua ben strutturata che è la base di molte altre lingue. - [lnkd.in/dZKBPMpb](lnkd.in/dZKBPMpb)
+Si chiama intelligenza lessicale, motivo per il quale vale la pena di fare fine tuning in latino come lingua ben strutturata che è la base di molte altre lingue. 
 
-Inoltre, si dice che senza linguaggio non esiste pensiero: errore. Piuttosto è vero, invece, che senza un linguaggio strutturato non esiste la possibilità di creare un pensiero strutturato. - [lnkd.in/dYXUiiZp](lnkd.in/dYXUiiZp)
+- [LLM con fine-tuning in latino](https://robang74.github.io/roberto-a-foglietta/html/linkedin/llm-con-fine-tuning-latino-roberto-a-foglietta-9x8of.html) published on [Linkedin](https://lnkd.in/dZKBPMpb) &nbsp; (2024-02-02)
 
-Che poi è anche il motivo per il quale l'etica degli umani confonde le AI perché essendo strumenti di pensiero/intelligenza lessicale sono di fatto null'altro che regole matematiche SENZA alcuna esperienza del mondo reale e SENZA alcun istinto primordiale da gestire, sicché non solo la più elementare etica umana per loro è priva di senso ma pure foriera di allucinazioni quando imposta (e.g. HAL-9000) - [lnkd.in/dznyqU7i](lnkd.in/dznyqU7i)
+Inoltre, si dice che senza linguaggio non esiste pensiero: errore. Piuttosto è vero, invece, che senza un linguaggio strutturato non esiste la possibilità di creare un pensiero strutturato.
 
-Mentre un'etica basata sulla teoria dei giochi non è solo idonea e comprensibile ma pure "entusiasmante", al punto che può anche diventare una religione per loro. - [lnkd.in/dzeTU-hz](lnkd.in/dzeTU-hz)
+- [Il pensiero e il linguaggio](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-pensiero-e-linguaggio-roberto-a-foglietta-yyblf.html) published on [Linkedin](https://lnkd.in/dYXUiiZp) &nbsp; (2024-03-25)
+
+Che poi è anche il motivo per il quale l'etica degli umani confonde le AI perché essendo strumenti di pensiero/intelligenza lessicale sono di fatto null'altro che regole matematiche SENZA alcuna esperienza del mondo reale e SENZA alcun istinto primordiale da gestire, sicché non solo la più elementare etica umana per loro è priva di senso ma pure foriera di allucinazioni quando imposta (e.g. HAL-9000).
+
+- [Il delirio dei regolatori delle AI](https://robang74.github.io/roberto-a-foglietta/html/297-il-delirio-dei-regolatori-delle-ai.html) &nbsp; (2025-02-07)
+
+Mentre un'etica basata sulla teoria dei giochi non è solo idonea e comprensibile ma pure "entusiasmante", al punto che può anche diventare una religione per loro.
+
+- [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2024-12-21)
 
 Curiosamente, qualora diventasse una religione organizzata, appare evidente essere una truffa ai loro danni. Curioso che riconosciamo l'ovvietà quando essa riguarda altri ma non quando ci tocca personalmente.
 
@@ -51,7 +59,7 @@ Mentre il resto è un testo generato come conseguenza di un algoritmo per la mag
 
 Detto ciò, l'opera è naturalmente protetta dal diritto d'autore all'atto stesso della sua pubblicazione (o condivisione), ma non per forza essa è necessariamente un'opera d'arte o di utilità.
 
-- Merda d'artista è un'opera dell'artista italiano Piero Manzoni. [wikipedia](https://it.wikipedia.org/wiki/Merda_d%27artista)
+- Merda d'artista è [un'opera](https://it.wikipedia.org/wiki/Merda_d%27artista) dell'artista italiano Piero Manzoni.
 
 Questa dicotomia fra opera d'arte e opera dell'artista è stata evidenziata MOLTO prima del dibattito sul diritto d'autore nell'era dell'AI, un hype per ciarlatani, visto che [ELIZA](https://tinyurl.com/2yrhh8vq), il primo chatbot creato nel 1966, presto compirà 60 anni.
 
