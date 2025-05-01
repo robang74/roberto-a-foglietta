@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/311-primo-maggio-festa-dei-lavoratori.png" width="800"><br></div>
+<div align="center"><img class="wbsketch darkinv" src="img/311-primo-maggio-festa-dei-lavoratori.png" width="800"><br></div>
 
 ## Primo maggio, festa dei lavoratori
 
@@ -17,8 +17,8 @@ Dal 1° gennaio 2001 al 31° dicembre 2024, il debito pubblico è passato da qua
 
 Ora, sicuramente avrete sentito che gli stati sono costretti a mantenere un rapporto debito/PIL costante e QUINDI l'unico modo di aumentare il debito è aumentare i prezzi (valore delle transazioni quindi loro somma) e per pagare i maggiori interessi qualora il rapporto aumenti, aumentare l'imposizione fiscale.
 
-- debito 2.28x --> costo della vita 2x
-- debito/PIL +25% --> imposte +23%
+- `debito 2.28x --> costo della vita oltre 2x`
+- `debito/PIL +25% --> pressione fiscale +23%`
 
 Quindi, in media sono stati creati 66.6 miliardi di debito pubblico anno, e in cambio hanno dato ai lavoratori 80 euro una tantum e promettono 650 milioni una tantum, cioè altri 80 euro per 8.1milioni di lavoratori.
 
