@@ -31,7 +31,7 @@ You might not know, but understanding.
 
 The "**panem et circenses**" socialism ruled the world for centuries. And no, it never jeopardised the jearchy order in any way but stabilised it.
 
-Understanding is not an option, unless stupidity.
+Understanding is not an option, unless stupidity. &nbsp; --> [g.co](https://g.co/gemini/share/fb46e04eb8d6)
 
 +
 
