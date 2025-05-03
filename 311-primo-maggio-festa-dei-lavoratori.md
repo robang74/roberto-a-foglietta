@@ -30,6 +30,8 @@ A essere bonari e comprensivi, un popolo di deficienti?
 
 ### Il popolo non è deficiente ma impotente
 
+- *aggiornamento del 3 maggio 2025*.
+
 Il popolo è impotente perché deficiente, di tante concetti che sono indispensabili per esercitare una qualche tipo di potere, diretto o indiretto. Se invece mi stai dicendo che il potere comprende un solo linguaggio, quello della violenza, e il popolo è inerme e incapace di violenza. *Baaah*, *baaah*.
 
 In questa [chat](https://g.co/gemini/share/28d3a87a4b1e) il dialogo si è sviluppato bene anche senza prompting specifico. Comincia con l'analisi delle due diverse proposizioni e poi prosegue mostrando come il ciclo del potere evolve 
