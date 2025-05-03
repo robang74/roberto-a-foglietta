@@ -34,11 +34,19 @@ A essere bonari e comprensivi, un popolo di deficienti?
 
 Il popolo è impotente perché deficiente, di tante concetti che sono indispensabili per esercitare una qualche tipo di potere, diretto o indiretto. Se invece mi stai dicendo che il potere comprende un solo linguaggio, quello della violenza, e il popolo è inerme e incapace di violenza. *Baaah*, *baaah*.
 
-In questa [chat](https://g.co/gemini/share/28d3a87a4b1e) il dialogo si è sviluppato bene anche senza prompting specifico. Comincia con l'analisi delle due diverse proposizioni e poi prosegue mostrando come il ciclo del potere evolve 
+Questo dialogo si è sviluppato bene anche senza prompting specifico che ne caratterizzasse l'agente AI: 
 
-- violenza --> macchiavelli --> oppressione --> violenza
+- [Dialogo sul circolo vizioso del potere](https://g.co/gemini/share/28d3a87a4b1e) &nbsp; (2025-05-03)
 
-e che le rivoluzioni a poco servono senza un cambio culturale, includendo anche il mito del "Salvador Mundi" come elemento per posticipare ogni cambiamento e demandarlo ad una figura immaginaria che MAI si presenterà. Che a ben vedere, uscire da questo circolo vizioso, ha come risposta questo articolo:
+- [Trascrizione della chat sopra](data/gemini-sul-circolo-vizioso-del-potere.txt) &nbsp; su 80 colonne in UTF-8
+
+Comincia con l'analisi delle due diverse proposizioni e poi prosegue mostrando come il ciclo del potere evolve:
+
+- `violenza --> macchiavelli --> oppressione --> violenza`
+
+Includendo anche il mito del "Salvador Mundi" come elemento per posticipare ogni cambiamento e demandarlo ad una figura immaginaria che MAI si presenterà. 
+
+Inoltre, nello spezzare questo circolo vizioso, le rivoluzioni a poco servono senza un cambio culturale. Rispetto alla risposta proposta in questo articolo:
 
 - [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
 
