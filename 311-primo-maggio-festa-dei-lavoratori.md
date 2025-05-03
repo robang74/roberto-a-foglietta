@@ -26,6 +26,22 @@ Riassumendo, in questi 25 anni, una decina di milioni di persone hanno ricevuto 
 
 A essere bonari e comprensivi, un popolo di deficienti?
 
+---
+
+### Il popolo non è deficiente ma impotente
+
+Il popolo è impotente perché deficiente, di tante concetti che sono indispensabili per esercitare una qualche tipo di potere, diretto o indiretto. Se invece mi stai dicendo che il potere comprende un solo linguaggio, quello della violenza, e il popolo è inerme e incapace di violenza. *Baaah*, *baaah*.
+
+In questa [chat](https://g.co/gemini/share/28d3a87a4b1e) il dialogo si è sviluppato bene anche senza prompting specifico. Comincia con l'analisi delle due diverse proposizioni e poi prosegue mostrando come il ciclo del potere evolve 
+
+- violenza --> macchiavelli --> oppressione --> violenza
+
+e che le rivoluzioni a poco servono senza un cambio culturale, includendo anche il mito del "Salvador Mundi" come elemento per posticipare ogni cambiamento e demandarlo ad una figura immaginaria che MAI si presenterà. Che a ben vedere, uscire da questo circolo vizioso, ha come risposta questo articolo:
+
+- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
+
+Quindi il "problema" era già stato affrontato ancora prima di essere stato espresso nella sua interezza. Ma è un bene che lo sia stato perché altrimenti non si comprende l'importanza della soluzione se non si è consapevoli della gravità del problema.
+
 +
 
 ## Share alike
