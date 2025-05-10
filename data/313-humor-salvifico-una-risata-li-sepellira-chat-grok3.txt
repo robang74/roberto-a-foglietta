@@ -5,7 +5,7 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 https://x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7
 
 Created: 9th May 2025
-Published 10th May 2025 at 03:00
+Published 10th May 2025
 Attachment: none
 
 ================================================================================
@@ -116,10 +116,9 @@ potrebbe suonare:
 
 Memento: Jorge da Burgos de Il Nome della Rosa (libro 1980, film 1986), il
 monaco che temeva il riso, perché una risata può davvero seppellire
-l’oscurantismo.
+l’oscurantismo. Così si rende omaggio a Eco e si rafforza il messaggio del post! 
 
-Così si rende omaggio a Eco e si rafforza il messaggio del post! Vuoi che lo
-perfezioniamo ancora?
+Vuoi che lo perfezioniamo ancora?
 
 ---
 
