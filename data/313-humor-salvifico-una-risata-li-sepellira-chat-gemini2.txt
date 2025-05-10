@@ -1,6 +1,6 @@
 Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-************ Geminie2 su Humor salvifico: una risata li seppellirà ************
+************ Gemini2 su Humor salvifico: una risata li seppellirà ************
 
 https://g.co/gemini/share/bd756ccf6cdf
 
@@ -12,12 +12,13 @@ Attachment: none
 
 Spoiler: Lucifero (maschile, etimologia dal latino significa portatore di luce)
 è la stella della sera, che di mattino si chiama Venere (femminile, Afrodite
-nella mitologia greaca), che è un pianeta non una stella, brilla per il
+nella mitologia greca), che è un pianeta non una stella, brilla per il
 riflesso del Sole, prende il nome dalla dea romana della bellezza, amore,
 fertilità e natura primaverile, ha un'atmosfera molto densa ed è un vero
 inferno, spazzata da venti fortissimi, piogge e mari di acido solforico
-bollente. Brillante da lontano ma a contatto, tipo un ex incarognita, quasi. -
-- corretto?
+bollente. Brillante da lontano ma a contatto, tipo un ex incarognita, quasi.
+
+Corretto?
 
 ---
 
@@ -72,14 +73,14 @@ tacciare di ignoranza.
 
 Spoiler: Lucifero (maschile, etimologia dal latino significa portatore di luce)
 è la stella della sera, che di mattino si chiama Venere (femminile, Afrodite
-nella mitologia greaca), che è un pianeta non una stella, brilla per il
+nella mitologia greca), che è un pianeta non una stella, brilla per il
 riflesso del Sole, prende il nome dalla dea romana della bellezza, amore,
 fertilità e natura primaverile, ha un'atmosfera molto densa ed è un vero
 inferno, spazzata da venti fortissimi, piogge e mari di acido solforico
 bollente. Brillante da lontano ma a contatto, tipo un ex incarognita, quasi.
 
-Durante la catechesi per la comunione chiesi al prete come si risolveva il
-problema dell'onniscenza di dio rispetto al libero arbitrio dell'uomo senza il
+Durante la catechesi per la comunione chiesi al prete come si risolve il
+problema dell'onniscienza di dio rispetto al libero arbitrio dell'uomo senza il
 quale non vi poteva essere peccato. Mi rispose "mistero di fede", capii in quel
 momento che bestemmiare era la cosa più ragionevole da fare perché il "loro"
 dio meritava solo appellativi.
