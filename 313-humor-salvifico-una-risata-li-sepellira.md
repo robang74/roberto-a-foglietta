@@ -17,7 +17,7 @@ Perché dire semplicemente che con il martirio e l'oscurantismo ci hanno stracci
 
 ### Un breve aneddoto
 
-Durante la catechesi per la comunione chiesi al prete come si risolveva il problema dell'onniscenza di dio rispetto al libero arbitrio dell'uomo senza il quale non vi poteva essere peccato. Mi rispose "mistero di fede", capii in quel momento che bestemmiare era la cosa più ragionevole da fare perché il "loro" dio meritava solo appellativi.
+Durante la catechesi per la comunione chiesi al prete come si risolve il problema dell'onniscienza di dio rispetto al libero arbitrio dell'uomo senza il quale non vi poteva essere peccato. Mi rispose "mistero di fede", capii in quel momento che bestemmiare era la cosa più ragionevole da fare perché il "loro" dio meritava solo appellativi.
 
 Per proteggere mio fratello dalla nefasta influenza della dottrina, durante la cresima gli ho riassunto in breve a cosa andava consacrandosi e per concludere: "senza contare il pinguino stranovestito che sta avanzando verso di noi per ungerci la fronte quando vorrebbe invece buttarcelo in c*lo. Lo vedi come dondola?"
 
@@ -39,7 +39,7 @@ Direi quindi che il mio rapporto con il clero era già bello che definito prima 
 
 ### Spoiler
 
-Lucifero (maschile, etimologia dal latino significa portatore di luce) è la stella della sera, che di mattino si chiama Venere (femminile, Afrodite nella mitologia greaca), che è un pianeta non una stella, brilla per il riflesso del Sole, prende il nome dalla dea romana della bellezza, amore, fertilità e natura primaverile, ha un'atmosfera molto densa ed è un vero inferno, spazzata da venti fortissimi, piogge e mari di acido solforico bollente. Brillante da lontano ma a contatto, tipo un ex incarognita, quasi.
+Lucifero (maschile, etimologia dal latino significa portatore di luce) è la stella della sera, che di mattino si chiama Venere (femminile, Afrodite nella mitologia greca), che è un pianeta non una stella, brilla per il riflesso del Sole, prende il nome dalla dea romana della bellezza, amore, fertilità e natura primaverile, ha un'atmosfera molto densa ed è un vero inferno, spazzata da venti fortissimi, piogge e mari di acido solforico bollente. Brillante da lontano ma a contatto, tipo un ex incarognita, quasi.
 
 +
 
@@ -63,9 +63,9 @@ Un articolo che è interessante a prescindere dall'oggetto esaminato (ipotesi sp
 
 L'affermazione di cui sopra ci riconduce alla parodia dell'esorcismo di cui all'inizio di questa sezione e ci fa comprendere come nello "spoiler" ci sia già l'essenza del problema.
 
-Ci fa comprendere meglio perché Umberto Eco ne "Il Nome della Rosa" abbia contrapposto il personaggio di Jorge da Burgos a Guglielmo da Baskerville che pure in quel frangente rischò di essere vittima dell'inquisizione non perché eretico o ribelle ma "sedotto" dalla luce della ragione.
+Ci fa comprendere meglio perché Umberto Eco ne "Il Nome della Rosa" abbia contrapposto il personaggio di Jorge da Burgos a Guglielmo da Baskerville che pure in quel frangente rischiò di essere vittima dell'inquisizione non perché eretico o ribelle ma "sedotto" dalla luce della ragione.
 
-Ci porta a comprendere da cosa l'amore fraterno, nell'aneddoto di cui sopra, volesse proteggere e infine a giungere alla conclusione che con "il martirio e l'oscurantismo ci hanno stracciato gli ammennicoli", davvero è corretto nonostane la sua apparente semplicità espressiva.
+Ci porta a comprendere da cosa l'amore fraterno, nell'aneddoto di cui sopra, volesse proteggere e infine a giungere alla conclusione che con "il martirio e l'oscurantismo ci hanno stracciato gli ammennicoli", davvero è corretto nonostante la sua apparente semplicità espressiva.
 
 +
 
