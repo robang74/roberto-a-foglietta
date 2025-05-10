@@ -53,6 +53,8 @@ La parte importante (di uno qualsiasi delle tre chat) sono i prompt non le rispo
 
 - **ChatGPT** &nbsp; -- &nbsp; [chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5](https://chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5) &nbsp; ([trascrizione](data/313-humor-salvifico-una-risata-li-sepellira-chat-chatgpt.txt#?target=_blank))
 
+- Composizione di domande e risposte, alcune sono state riassunte, altre riportate &nbsp; ([trascrizione](data/313-humor-salvifico-una-risata-li-sepellira-chat-claude.txt#?target=_blank))
+
 Non che pesino nella realtà ma perché in essenza sostengono la frase con la quale si conclude l'articolo qui sotto linkato, che mostra come usare in modo corretto e consapevole gli agenti AI nella valutazione di ipotesi speculative e relativi modelli.
 
 - [ChatGPT su Leone XIV vs Gesù legionario](https://robang74.github.io/chatbots-for-fun/html/chatgpt-su-leone-xiv-vs-gesu-legionario.html) &nbsp; (2025-05-09)
