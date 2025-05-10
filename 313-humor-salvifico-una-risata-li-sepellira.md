@@ -47,11 +47,11 @@ Lucifero (maschile, etimologia dal latino significa portatore di luce) è la ste
 
 La parte importante (di uno qualsiasi delle tre chat) sono i prompt non le risposte. Perché sulle risposte possiamo avere opinioni, dibatti, etc. ma le domande restano e pesano. 
 
-- **Gemini2** &nbsp; -- &nbsp; [g.co/gemini/share/bd756ccf6cdf](https://g.co/gemini/share/bd756ccf6cdf)
+- **Gemini2** &nbsp; -- &nbsp; [g.co/gemini/share/bd756ccf6cdf](https://g.co/gemini/share/bd756ccf6cdf) &nbsp; ([trascrizione](data/313-humor-salvifico-una-risata-li-sepellira-chat-gemini2.txt#?target=_blank))
 
-- **x/Grok3** &nbsp; -- &nbsp; [x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7](https://x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7)
+- **x/Grok3** &nbsp; -- &nbsp; [x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7](https://x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7) &nbsp; ([trascrizione](data/313-humor-salvifico-una-risata-li-sepellira-chat-grok3.txt#?target=_blank))
 
-- **ChatGPT** &nbsp; -- &nbsp; [chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5](https://chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5)
+- **ChatGPT** &nbsp; -- &nbsp; [chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5](https://chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5) &nbsp; ([trascrizione](data/313-humor-salvifico-una-risata-li-sepellira-chat-chatgpt.txt#?target=_blank))
 
 Non che pesino nella realtà ma perché in essenza sostengono la frase con la quale si conclude l'articolo qui sotto linkato, che mostra come usare in modo corretto e consapevole gli agenti AI nella valutazione di ipotesi speculative e relativi modelli.
 
