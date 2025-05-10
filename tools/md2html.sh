@@ -164,14 +164,14 @@ function md2htmlfunc() {
 -e "s,{B-)},${emoji_a}cool.png'>,g" -e "s,{8-)},${emoji_a}nerd.png'>,g"     \
 -e "s,{:-|},${emoji_a}face.png'>,g" -e "s,{:-D},${emoji_a}grin.png'>,g"     \
 -e "s,{lol},${emoji_a}lol.png'>,g" -e "s,{:-(},${emoji_a}sad.png'>,g"       \
--e "s,{O:-)},${emoji_a}halo.png'>,g" -e "s,{:-*},${emoji_a}kiss.png'>,g"    \
+-e "s,{O:-)},${emoji_a}halo.png'>,g" -e "s,{:-\*},${emoji_a}kiss.png'>,g"   \
 -e "s,{:-/},${emoji_a}meh.png'>,g" -e "s,{ok},${emoji_a}ok.png'>,g"         \
 -e "s,{8=X},${emoji_a}death.png'>,g" -e "s,{8=},${emoji_a}skull.png'>,g"    \
 -e "s,{pig},${emoji_a}pig.png'>,g" -e "s,{bot},${emoji_a}robot.png'>,g"     \
 -e "s,{shh},${emoji_a}shh.png'>,g" -e "s,{hmm},${emoji_a}humm.png'>,g"      \
 -e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g"     \
 -e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g"     \
--e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8*)},${emoji_a}clown.png'>,g"    \
+-e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8\*)},${emoji_a}clown.png'>,g"   \
 -e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
