@@ -1,3 +1,8 @@
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: A4; margin: 0.36in 13.88mm 0.36in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+
+<div align="center"><img class="bwsketch paleinv" src="img/313-humor-salvifico-una-risata-li-seppellira.jpg" width="800"><br></div>
+
 ## Humor salvifico: una risata li seppellirà
 
 > [!WARN]
@@ -20,7 +25,7 @@ Mio fratello faceva fatica a trattenersi dal ridere così, il pinguino mi unse l
 
 Direi quindi che il mio rapporto con il clero era già bello che definito prima della mia maggiore età. Riguardo a mio fratello, non ho il minimo dubbio che dopo quell'esperienza "mistica" sia stato liberato dal Male, a tempo indefinito. L'umorismo ci protegge e una risata li seppellirà.
 
-...
+......
 
 #### Memento
 
@@ -42,15 +47,15 @@ Lucifero (maschile, etimologia dal latino significa portatore di luce) è la ste
 
 La parte importante (di uno qualsiasi delle tre chat) sono i prompt non le risposte. Perché sulle risposte possiamo avere opinioni, dibatti, etc. ma le domande restano e pesano. 
 
-- Gemini2 - https://g.co/gemini/share/bd756ccf6cdf
+- Gemini2 - [g.co/gemini/share/bd756ccf6cdf](https://g.co/gemini/share/bd756ccf6cdf)
 
-- Grok3 - https://x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7
+- Grok3 - [x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7](https://x.com/i/grok/share/SM8WrdqaOInp1wn5hpVYCArB7)
 
-- ChatGPT - https://chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5
+- ChatGPT - [chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5](https://chatgpt.com/share/681ea493-5354-8012-b06c-182f5fb505d5)
 
 Non che pesino nella realtà ma perché in essenza sostengono la frase con la quale si conclude l'articolo
 
-[]()
+- [ChatGPT su Leone XIV vs Gesù legionario](https://robang74.github.io/chatbots-for-fun/html/chatgpt-su-leone-xiv-vs-gesu-legionario.html)
 
 > Long story short: the AI will not replace you but your bullsh*t. {:-*}
 
@@ -79,4 +84,12 @@ Volendo prendere **Il Nome della Rosa** come un'analogia di una moderna società
 - Con la speranza che non occorra osservare la biblioteca bruciare per vedere la carrozza dell'inquisizione impantanata nel fango, ribaltarsi per opera dei paesani infuriati.
 
 Umberto Eco, nella sua sagacia di narratore non esplicita se la rabbia del popolo fu generata per aver messo al rogo una fanciulla, una di loro, oppure per la perdita della biblioteca e quindi il motivo stesso dell'esistenza del convento che nel male o nel bene, qualcosa per il loro sostentamento forniva, sebbene e spesso in cambio di "accordi" non affatto dignitosi.
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
 
