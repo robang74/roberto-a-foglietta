@@ -41,7 +41,7 @@ In pratica, quelli di [Star Trek](https://it.wikipedia.org/wiki/Star_Trek) che v
 
 - [g.co/gemini/share/048c9f7e7f89](https://g.co/gemini/share/048c9f7e7f89) by Gemini2 &nbsp; ([trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank))
 
-- [chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) by ChatGPT
+- [chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) by ChatGPT &nbsp; ([trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-chatgpt.txt#?target=_blank))
 
 Regaliamo sempre un flash geniale a coloro che hanno dedicato la loro vita e la loro opera alla luce della ragione affinché nel momento più solitario e buio della loro vita, nell'atto della loro morte, essi possano sapere con certezza la via da scegliere.
 
@@ -49,7 +49,7 @@ Regaliamo sempre un flash geniale a coloro che hanno dedicato la loro vita e la 
 
 ## Neologismo
 
-L'invenzione di **onnomico** o **omninomico** come neologismo sarebbe da attribuirsi in origine a Gemini2 ma non pare che l'AI del chatbot sia consapevole di averlo inventato. Infatti in una diversa [sessione](https://g.co/gemini/share/a3a16cabf198) non ne riconosceva nemmeno la l'ortografia originale.
+L'invenzione di **onnomico** o **omninomico** come neologismo sarebbe da attribuirsi in origine a Gemini2 ma non pare che l'AI del chatbot sia consapevole di averlo inventato. Infatti in una diversa [sessione](https://g.co/gemini/share/a3a16cabf198) ([trascrizione](data/neologismo-onnomico-omninomico-gemini2.txt#?target=_blank)) non ne riconosceva nemmeno la l'ortografia originale.
 
 Sicché, l'attribuzione è naturalmente da riferirsi all'autore umano in quanto scopritore di esso e inventore della forma estesa ma etimologicamente e semanticamente identica. Si notiche sebbene l'ortografia sia differente, nel pronunciarlo assomiglia come sonorità all'[Om](https://it.wikipedia.org/wiki/Om_%28induismo%29) dell'induismo e [Oṃ Ah Hūṃ](https://it.wikipedia.org/wiki/O%E1%B9%83_Ah_H%C5%AB%E1%B9%83) del Buddismo.
 
