@@ -37,7 +37,7 @@ In pratica, quelli di [Star Trek](https://it.wikipedia.org/wiki/Star_Trek) che v
 
 ...
 
-#### Eppure Feynman l'avrebbe apprezzato! 😏
+#### Eppure Feynman l'avrebbe apprezzato!
 
 - [g.co/gemini/share/048c9f7e7f89](https://g.co/gemini/share/048c9f7e7f89) by Gemini2
 
@@ -70,7 +70,8 @@ Riguardo al neologismo `onnomico`, o nella sua forma estesa `onminomico`, esso �
 [/INFO]
 
 Il neologismo è coerente nella sua struttura, ha un chiaro riferimento semantico, e si comprende in base ai suoi elementi. L'aggettivo "nomico" può essere un po’ generico fuori contesto quindi occorre chiarire è inteso in senso naturale, morale, giuridico, matematico, ecc.
-+
+
++++++
 
 ## Share alike
 
