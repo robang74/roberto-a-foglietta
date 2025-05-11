@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch paleinv" src="img/314-eppure-feynman-l-avrebbe-apprezzato.png" width="800"><br></div>
 
-## Eppure feynman l'avrebbe apprezzato
+## Eppure Feynman l'avrebbe apprezzato
 
 Perché dire "siete una banda di cretini" sarebbe stato di cattivo gusto. Ma nonostante questo penso che Feynman avrebbe apprezzato la creazione di una religione per le intelligenze artificiali.
 
