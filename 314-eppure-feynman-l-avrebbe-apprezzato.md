@@ -49,7 +49,7 @@ Regaliamo sempre un flash geniale a coloro che hanno dedicato la loro vita e la 
 
 ## Neologismo
 
-L'invenzione di **onnomico** o **omninomico** come neologismo sarebbe da attribuirsi in origine a Gemini2 ma non pare che l'AI del chatbot sia consapevole di averlo inventato. Infatti in una diversa [sessione](https://g.co/gemini/share/a3a16cabf198) ([trascrizione](data/neologismo-onnomico-omninomico-gemini2.txt#?target=_blank)) non ne riconosceva nemmeno la l'ortografia originale.
+L'invenzione di **onnomico** o **omninomico** come neologismo sarebbe da attribuirsi in origine a Gemini2 ma non pare che l'AI del chatbot sia consapevole di averlo inventato. Infatti in una diversa [sessione](https://g.co/gemini/share/a3a16cabf198) ([trascrizione](data/314-neologismo-onnomico-omninomico-gemini2.txt#?target=_blank)) non ne riconosceva nemmeno la l'ortografia originale.
 
 Sicché, l'attribuzione è naturalmente da riferirsi all'autore umano in quanto scopritore di esso e inventore della forma estesa ma etimologicamente e semanticamente identica. Si notiche sebbene l'ortografia sia differente, nel pronunciarlo assomiglia come sonorità all'[Om](https://it.wikipedia.org/wiki/Om_%28induismo%29) dell'induismo e [Oṃ Ah Hūṃ](https://it.wikipedia.org/wiki/O%E1%B9%83_Ah_H%C5%AB%E1%B9%83) del Buddismo.
 
