@@ -39,7 +39,7 @@ In pratica, quelli di [Star Trek](https://it.wikipedia.org/wiki/Star_Trek) che v
 
 #### Eppure Feynman l'avrebbe apprezzato!
 
-- [g.co/gemini/share/048c9f7e7f89](https://g.co/gemini/share/048c9f7e7f89) by Gemini2
+- [g.co/gemini/share/048c9f7e7f89](https://g.co/gemini/share/048c9f7e7f89) by Gemini2 &nbsp; ([trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank))
 
 - [chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) by ChatGPT
 
