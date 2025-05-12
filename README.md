@@ -14,11 +14,21 @@
 
 ...
 
+### Format conversion
+
+[**`EN`**] The PDFs collection is splitted into two folders [pdf.todo](pdf.todo/index.html?target=_blank) and [pdf.done](pdf.done/index.html?target=_blank) depending on whether they have already been converted to markdown format or not. Because the purpose of this project is also to revise and give a coherent and cohesive connotation to the collection of writings, not only to collect them in a single repository.
+
+[**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo/index.html?target=_blank) e [pdf.done](pdf.done/index.html?target=_blank) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
+
+...
+
 ### Update 2025-02-24
 
 [**`EN`**] My LinkedIn account access has been restored (down from 2024-12-15 up to 2025-02-23) and I took the chance to download my data, in particular all the articles. Among them I also found the drafts I did publish because I did not complete the writing or the review. Anyway, I am going to share that stuff as well starting from this [link](html/linkedin/index.htm) in their original HTML format.   
 
 [**`IT`**] L'accesso al mio account LinkedIn è stato ripristinato (down dal 2024-12-15 al 2025-02-23) e ho colto l'occasione per scaricare i miei dati, in particolare tutti gli articoli. Tra questi ho trovato anche le bozze che avevo pubblicato perché non avevo completato la stesura o la revisione. Ad ogni modo, condividerò anche questi articoli a partire da questo [link](html/linkedin/index.htm) nel loro formato HTML originale.
+
+...
 
 ### Update 2025-03-10
 
@@ -26,25 +36,33 @@
 
 [**`IT`**] L'accesso al mio account LinkedIn è stato temporaneamente bloccato di nuovo, sembra che abbiano un problema con CrowdStrike.... {:-D}
 
+...
+
 ### Update 2025-04-02
 
 [**`EN`**] After the Paragon case also Graphite case emerged -- another spyware that the secret services used to monitor the online activities of certain people and which apparently also generated anomalies in social network traffic, unnerving the NIDS/SIEM systems -- Linkedin spontaneously reactivated my account. I think that for this outcome, the revelations in the New York Times (The Secret History of the War in Ukraine) about Ukrainian military activities in Germany, which began a few days after the start of war hostilities, also contributed. It seems an April fool joke, but that's it. In fact, I waited until the next day to be sure before committing this update.
 
 [**`IT`**] Dopo il caso Paragon è emerso anche il caso Graphite -- un altro spyware che i servizi segreti utilizzavano per monitorare le attività online di alcune persone e che a quanto pare generava anche anomalie nel traffico dei social network, innervosendo i sistemi NIDS/SIEM -- Linkedin ha riattivato spontaneamente il mio account. Credo che a questo risultato abbiano contribuito anche le rivelazioni del New York Times (The Secret History of the War in Ukraine) sulle attività militari ucraine in Germania, iniziate pochi giorni dopo l'inizio delle ostilità belliche. Sembra un pesce d'aprile invece è così. Infatti ho atteso il giorno dopo per esserne certo, prima di fare il commit di questo aggiornameto.
 
-...
++
 
-### Data management
+## Data management
 
 [**`EN`**] One of the benefits of this approach is that a PDF document generated with some difficulty from an article published on LinkedIn is 8 times larger in size than one easily generated with this approach. But it is only the tip of the iceberg, in fact by using a git-oriented approach we have the complete revision control and obviously direct management of the data produced both in terms of availability and in terms of licensing.
 
 [**`IT`**] Uno dei benefici di questo approccio è che un documento PDF generato con una certa difficoltà da un articolo pubblicato su LinkedIn ha una dimensione 8 volte più grande di uno generato facilmente con questo approccio. Ma è solo la punta dell'iceberg, infatti usando un approccio git-oriented si ha il completo controllo delle revisioni e ovviamente la gestione diretta dei dati prodotti sia in termini di disponibilità sia in termini di licenza.
 
-### Format conversion
+...
 
-[**`EN`**] The PDFs collection is splitted into two folders [pdf.todo](pdf.todo/index.html?target=_blank) and [pdf.done](pdf.done/index.html?target=_blank) depending on whether they have already been converted to markdown format or not. Because the purpose of this project is also to revise and give a coherent and cohesive connotation to the collection of writings, not only to collect them in a single repository.
+### Scalability
 
-[**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo/index.html?target=_blank) e [pdf.done](pdf.done/index.html?target=_blank) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
+[**`EN`**] This is a website created by a combination of '70 technologies and 2020-30 technologies. It is a proof-of-concept because its specific implementation is not good for scalability but the regular expressions are, instead. Why this matter? Because of the general approach: an extended markdown language that can be parsed by regular expressions almost completely line-by-line, is the most efficient way to store data in a lightweight format that can easily and beautifully be converted in HTML, decorated with CSS and also printed in a PDF by any modern browser and using the computational power of the local machine.
+
+[**`IT`**] Questo è un sito web creato da una combinazione di tecnologie del '70 e del 2020-30. È una prova-di-concetto perché la sua specifica implementazione non è scalabile, ma lo sono invece le espressioni regolari. Perché è importante? Per via dell'approccio generale: un linguaggio markdown esteso che può essere elaborato da espressioni regolari, quasi completamente riga per riga, è il modo più efficiente per memorizzare i dati in un formato leggero che può essere facilmente e splendidamente convertito in HTML, decorato con i CSS e anche stampato in PDF da qualsiasi browser moderno e utilizzando la potenza di calcolo della macchina locale. 
+
+[**`EN`**] Hence: less data storage, less power, xMD but simple and text editor editable, ASCII compliant, JS web-GUI for user-friendly editing. Moreover, anyone familiar with github or wiki/pedia markdown will also feel comfortable with an extended version.
+
+[**`IT`**] Quindi: minore spazio disco, meno energia, xMD ma semplice e modificabile con un editor di testo, conforme ad ASCII, web-GUI JS per un editing facile da usare. Inoltre, chiunque conosca il markdown di github o wiki/pedia si sentirà a suo agio anche con una versione estesa.
 
 +
 
