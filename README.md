@@ -1,10 +1,10 @@
 <div id="firstdiv" created=":-2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 
-<div class="pagehead" align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.png" width="800"><br/>
+<div class="pagehead" align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.png" width="800"><br/></div>
 
-<h1>Roberto A. Foglietta</h1><hr>
+# Roberto A. Foglietta
 
-</div>
+---
 
 ## Rationale
 
@@ -78,7 +78,7 @@
 
 [**`IT`**] La maggior parte dei due miliardi di utenti di Internet hanno un drive cloud come questo. Molti ne hanno più di uno e ognuno di drive conserva una cronologia dei documenti, delle loro revisioni e versioni, talvolta anche di quelli cancellati come Apple ci ha dimostrato. Ognuno di questi account può caricare nuovamente i dati in pubblico o condividerli in pubblico tra gruppi o in privato tra amici intimi. Inoltre, tra due persone qualsiasi scelte tra questi 2 miliardi, non ci sono più di 7 connessioni personali per raggiungere chiunque altro su questo pianeta. Ciò significa che, nel peggiore dei casi, un documento può fare il giro del mondo in 7 giorni, se è urgente e necessario.
 
-<br/>
++
 
 ## Website
 
@@ -88,7 +88,7 @@
 
 [**`IT`**] Il sito web è più facile da consultare, ma non sempre aggiornato rispetto al progetto [github](https://github.com/robang74/roberto-a-foglietta?tab=readme-ov-file#roberto-a-foglietta). Tuttavia, le informazioni presentate nel sito web sono più stabili e riviste rispetto al progetto github, che può essere in corso di modifica.
 
-<br/>
++
 
 ## Forum
 
@@ -100,7 +100,7 @@
 
 * **`roberto.foglietta`@`gmail.com`** for a direct contact
 
-<br/>
++
 
 ## Index
 
@@ -108,7 +108,8 @@
 
 [**`IT`**] Man mano che i documenti in PDF saranno convertiti in markdown verranno aggiunti in questo indice, in ordine anticronologico giacché quello cronologico è presente nella lista dei file dato l'indice numerico che li precede nel nome. Invece, i nuovi articoli saranno scritti direttamente in formato markdown. La data di prima pubblicazione sarà riportata in formato universale come ANNO-MM-GG.
 
-<hr id="pages-index"/>
+<span id="pages-index"/></span>
+---
 
 * 314 - 2025-05-11 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/314-eppure-feynman-l-avrebbe-apprezzato.md)) [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/314-eppure-feynman-l-avrebbe-apprezzato.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/314-eppure-feynman-l-avrebbe-apprezzato.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/314-eppure-feynman-l-avrebbe-apprezzato.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/314-eppure-feynman-l-avrebbe-apprezzato.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [Eppure feynman l'avrebbe apprezzato](314-eppure-feynman-l-avrebbe-apprezzato.md)
 
@@ -188,15 +189,15 @@
 
 * 006 - 2016-04-17 - ([**`raw`**](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/006-l-illusione-del-controllo.md)) [[**`EN`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/006-l-illusione-del-controllo.md?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp)] [[**`DE`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/006-l-illusione-del-controllo.md?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp)] [[**`FR`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/006-l-illusione-del-controllo.md?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp)] [[**`ES`**](https://raw-githubusercontent-com.translate.goog/robang74/roberto-a-foglietta/refs/heads/main/006-l-illusione-del-controllo.md?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp)] - [L'illusione del controllo](006-l-illusione-del-controllo.md)
 
-<hr/>
+...
+
+* 001 up to 291, those not listed above are available in the [pdf.todo](pdf.todo/index.html?target=_blank) folder or at this [link](html/linkedin/index.htm?target=_blank) in HTML.
 
 [**`EN`**] Yet unconverted articles saved in PDF, and written since December 2015.
 
 [**`IT`**] Articoli in PDF ancora da convertire, e scritti a partire dal dicembre 2015.
 
-* 001 up to 291, those not listed above - [pdf.todo](pdf.todo/index.html?target=_blank) folder
-
-<br/>
++
 
 ## Related
 
@@ -212,7 +213,7 @@
 
 [**`IT`**] Nonostante il titolo, la prima raccolta di testi non si limita all'uso di ChatGPT, ma sono stati coinvolti anche chatbot come Mistral AI. Il titolo del progetto non è cambiato perché è ancora adatto per la maggiore e per mantenere vivi i link condivisi precedentemente con altre persone. Inoltre, mentre la prima raccolta ha un taglio serio, la seconda è decisamente orientata a un approccio umoristico anche quando vengono indagati temi molto seri.
 
-<br/>
++
 
 ## Translations
 
@@ -224,7 +225,7 @@
 
 [**`IT`**] Oppure, in alternativa, si può utilizzare un plug-in del browser di traduzione che può offrire la traduzione durante la navigazione. Quasi tutti i documenti, ma non tutti, perché alcuni documenti sono obsoleti o non più rilevanti. Pertanto, alcuni documenti sono salvati qui solo per completezza del backup o per una futura revisione e/o sviluppo.
 
-<br/>
++
 
 ## Script tools
 
@@ -244,7 +245,7 @@
 
 [**`IT`**] Lo script di shell [html/html2pdf.sh](tools/html2pdf.sh) converte le pagine html in documenti PDF. La sintassi è semplice `html2pdf.sh [-g] [-c|-w] $nomefile.md` e permette di creare un PDF anche usando `pdfcool.css` (grigio con toni di blu) e `pdfwamr.css` (grigio con toni di rosso) o usando una scala di grigi pura basata su uno di questi due. In alternativa si può usare `custom.css`, altrimenti il PDF verrà prodotto con lo sfondo nero come le pagine html hanno per default.
 
-<br/>
++
 
 ## Warp meme
 
@@ -260,7 +261,7 @@
 
 [**`IT`**] Infine, vale la pena di notare che Fabrizio De Andrè, già nel 1973, cantava: "*Intellettuali d'oggi idioti di domani ridatemi il cervello che basta alle mie mani*". Ecco qui, quindi!
 
-<br/>
++
 
 ## Copyright
 
