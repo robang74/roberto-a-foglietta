@@ -32,9 +32,9 @@
 
 ### Update 2025-03-10
 
-[**`EN`**] My LinkedIn account access has been temporarily blocked again, it seems they have a problem with CrowdStrike... {:-D}
+[**`EN`**] My LinkedIn account access has been temporarily blocked again (until 2025-04-01). It seems they have a problem with CrowdStrike... solved on 2025-05-15 with bitlocker encryption bypassed in minutes using bitpixie vulnerability, [PoC](https://cybersecuritynews.com/bitlocker-encryption-bypassed/) released. {:-D}
 
-[**`IT`**] L'accesso al mio account LinkedIn è stato temporaneamente bloccato di nuovo, sembra che abbiano un problema con CrowdStrike.... {:-D}
+[**`IT`**] L'accesso al mio account LinkedIn è stato temporaneamente bloccato di nuovo (fino al 2025-04-01). Sembra che abbiano un problema con CrowdStrike... risolto il 2025-05-15 con la cifratura bitlocker scavlacata in pochi minuti usando la vulnerabilità bitpixie, [PoC](https://cybersecuritynews.com/bitlocker-encryption-bypassed/) rilasciato. {:-D}
 
 ...
 
