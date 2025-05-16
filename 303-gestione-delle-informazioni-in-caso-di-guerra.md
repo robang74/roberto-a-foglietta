@@ -206,7 +206,7 @@ Conclusione? Norimberga 2, non è il virus, non è il vaccino ma la cattiva poli
 
 ...
 
-Magari però questa conclusione non ci piace e quindi andiamo a vedere quale [alternativa](https://www.open.online/2022/02/28/brevetto-moderna-2016-coronavirus-laboratorio/) ci propongono. Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
+Magari però questa conclusione non ci piace e quindi andiamo a vedere quale [alternativa](https://www.open.online/2022/02/28/brevetto-moderna-2016-coronavirus-laboratorio/) ([PDF](data/open-sul-brevetto-sars-covid.pdf#?target=_blank)) ci propongono. Nel 2022-02-28, Open (aka Facebook), smentiva la notizia come tale in quanto - secondo loro - mancava il contesto e per dimostrarlo citavano un brevetto DIVERSO del 2016 dicendo che i 19 amminoacidi erano una PARTE di quel brevetto.
 
 Se il brevetto originale è del 1997 è chiaro che entro la validità dello stesso - quindi entro 20 anni, quindi entro il 2017 e quindi nel 2016 per andare sul sicuro - è fondamentale provvedere a dotarsi di una altro brevetto che sia l'estensione del primo così chi usasse il primo si troverebbe di fronte al dilemma fra rischiare una causa oppure negoziare l'acquisto dei diritti di utilizzo di un brevetto più aggiornato e in teoria migliorativo.
 
