@@ -3,9 +3,9 @@
 
 <div align="center"><img class="bwsketch" src="img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-001.jpg" width="800"><br></div>
 
-## Non c'è 2° podio negli schemi Ponzi
+## Non c'è il 2° podio negli schemi Ponzi
 
-- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
+- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.* (**WIP**)
 
 ---
 
@@ -61,6 +61,8 @@ Un passaggio introduttivo che poi porterà necessariamente a parlare degli accor
 
 ## Il default tecnico dell'Italia
 
+- *Section Working in Progress*
+
 Lo spread indica quanto costa rifinanziare il debito pubblico e quindi, in sostanza, quanto ci costa la gestione finanziaria dello stesso. Ogni volta che abbiamo cercato di ridurre il debito pubblico è stato un massacro. Invece, è stato possibile aumentare il debito pubblico SOLO perché abbiamo creato inflazione.
 
 - debito 2.28x → costo della vita oltre 2x
@@ -81,6 +83,8 @@ che è un modo "tecnico" per dire che NON ha più importanza la produzione al pu
 +
 
 ## Il default tecnico del debito USA
+
+- *Section Working in Progress*
 
 Ma è ancora più grave, perché prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
 
