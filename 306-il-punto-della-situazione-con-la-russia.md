@@ -65,7 +65,9 @@ Le date conosciute e documentate sono quelle delle pubblicazioni: Der Spiegel, n
 
 Un ritardo fra il rilascio dell'intervista e la sua pubblicazione, per diverse ragioni molto concrete: figura politica di primo piano che rilascia dichiarazioni di portata storica in un momento molto delicato e in un contesto esplosivo che richiede verifiche rigorose, consultazioni con attori istituzionali fra cui è ragionevole inserire anche i vertici europei della NATO, almeno tramite il capo dell'esercito tedesco e/o del Cancelliere in carica, ed un'eventuale revisione dell'intervista stessa coerente con un ciclo di approvazione complesso.
 
-Dichiarazioni che sicuramente NON sono state fatte e pubblicate SENZA un intento preciso, di estrema ed urgente importanza. Quindi una comunicazione strategica come atto politico collettivo in seno alla Germania di cui si fece personalmente carico la Merkel come ex-Cancelliera ma che era in carica al tempo dei fatti.
+Dichiarazioni che sicuramente NON sono state fatte e pubblicate SENZA un intento preciso, di estrema ed urgente (*) importanza. Quindi una comunicazione strategica come atto politico collettivo in seno alla Germania di cui si fece personalmente carico la Merkel come ex-Cancelliera ma che era in carica al tempo dei fatti.
+
+(*) urgente, che non si poteva aspettare le fine della guerra.
 
 +
 
