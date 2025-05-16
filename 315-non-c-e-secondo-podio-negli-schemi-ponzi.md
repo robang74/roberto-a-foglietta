@@ -101,6 +101,7 @@ Il modo meno "appariscente" di farlo è quello che stiamo osservando: grandi soc
 
 ...
 
+<span id="us-debt-default"></span>
 #### U.S. public debt default
 
 Unfortunately, the U.S. public debt is gone in default after the grace period expired, that day Warren Buffett retired. The day after everything based on USD gets into a Ponzi scheme, technically speaking. How did the U.S. public debt default? Long story short: no any USD backup, anymore (we don't trust anymore).
