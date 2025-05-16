@@ -1,24 +1,29 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-001.png" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-001.jpg" width="800"><br></div>
 
 ## Non c'è 2° podio negli schemi Ponzi
 
+- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
+
+---
+
+### Quando Angela salvò l'Italia
+
 Sebbene con alti e bassi, lo spread per l'Italia cala dal Q4/2022. Cosa è successo in quel periodo?
 
-img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-002.png
-<div align="center"><img class="bwsketch" src="img/img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-002.png" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/315-non-c-e-secondo-podio-negli-schemi-ponzi-img-002.png" width="800"><br></div>
 
-La Merkel fece un'intervista che poi fu pubblicata successivamente ammettendo che entrambi gli accordi di Minsk erano stati sottoscritti, sapendo di volerli violare e solo per comprare tempo per preparare l'Ucraina alla guerra.
+La Merkel fece un'intervista che poi fu pubblicata successivamente ammettendo che entrambi gli accordi di Minsk erano stati sottoscritti, sapendo di volerli violare fin da principio e solo per comprare tempo per preparare l'Ucraina alla guerra.
 
-In pratica, ammise che NON era la Russia che voleva fare guerra a noi, ma eravamo noi a voler far la guerra alla Russia. Questo è un dettaglio che pare banale ma per un paese sull'orlo del tracollo, estremamente fragmentato in termini sociali, è fondamentale.
+In pratica, ammise che **non** era la Russia che voleva fare guerra a noi, ma eravamo noi a voler far la guerra alla Russia. Questo è un dettaglio che pare banale ma per un paese sempre sull'orlo del tracollo come l'Italia, estremamente fragmentato in termini sociali, è fondamentale.
 
-Perché se noi vogliamo fare la guerra alla Russia significa che la NATO come fanclub degli USA sta pagando per creare un crisi che poi si risolverà con una fuga (Afganistan docet) e che ha come unico obiettivo una qualche rapina (Iraq e Qweit, docet).
+Perché se noi vogliamo fare la guerra alla Russia significa che la NATO come fanclub degli USA sta pressando i governi europei a pagare per creare una crisi che poi si risolverà con una fuga (Afganistan docet) e che ha come unico obiettivo una qualche rapina (Iraq e Qweit, docet).
 
-Se invece fosse stata la Russia a decidere di fare la guerra alla NATO, l'Italia sarebbe stato il primo paese a collassare, finanziariamente e poi economicamente, fino a livelli di caos tali da portarlo al default effettivo, non tecnico.
+Se invece fosse stata la Russia a decidere di fare la guerra alla NATO, l'Italia sarebbe stato il primo paese a collassare, finanziariamente e poi economicamente, probabilmente anche socialmente, fino a livelli di caos tali da portarlo al default effettivo, non quello tecnico.
 
-Quella notizia - rivelazione della Merkel - pur essendo stata ignorata dai fan di Mr. Z, ha salvato l'Italia.
+Quella notizia -- rivelazione della Merkel -- pur essendo stata ignorata dai fan di Mr. Z ma non dai mercati che invece l'hanno colta al volo per avvantaggiarsene quanto più possibile e il prima possibile, ha salvato l'Italia.
 
 ---
 
@@ -26,17 +31,35 @@ Quella notizia - rivelazione della Merkel - pur essendo stata ignorata dai fan d
 
 Le date documentate sono quelle delle pubblicazioni: Der Spiegel, novembre 2022 e Die Zeit, 7 dicembre 2022. Tuttavia, è assolutamente ragionevole che l'intervista sia stata effettuate settimane prima, almeno prima della fine di settembre 2022.
 
-Un ritardo fra il rilascio dell'intervista e la sua pubblicazione, per diverse ragioni molto concrete: figura politica di primo piano che rilascia dichiarazioni di portata storica in un momento molto delicato e in un contesto esplosivo che richiede verifiche rigorose, consultazioni con attori istituzionali fra cui è ragionevole inserire anche i vertici europei della NATO, almeno tramite il capo dell'esercito tedesco e/o del Cancelliere in carica, ed un'eventuale revisione dell'intervista stessa coerente con un ciclo di approvazione complesso.
+Un ritardo fra il rilascio dell'intervista e la sua pubblicazione, per diverse ragioni molto concrete: una figura politica di primo piano che rilascia dichiarazioni di portata storica in un momento molto delicato e in un contesto esplosivo che richiede verifiche rigorose, consultazioni con attori istituzionali fra cui è ragionevole inserire anche i vertici europei della NATO, almeno tramite il capo dell'esercito tedesco e/o del Cancelliere in carica, ed un'eventuale revisione dell'intervista stessa coerente con un ciclo di approvazione complesso.
 
-Dichiarazioni che sicuramente NON sono state fatte e pubblicate SENZA un intento preciso, di estrema importanza e urgente da non poter aspettare le fine della guerra. Quindi una comunicazione strategica come atto politico collettivo in seno alla Germania di cui si fece personalmente carico la Merkel come ex-Cancelliera ma che era in carica al tempo dei fatti.
+Dichiarazioni che sicuramente **non** sono state fatte a caso e pubblicate **senza** un intento preciso, di estrema importanza e urgente da non poter aspettare le fine della guerra. Quindi una comunicazione strategica come atto politico collettivo in seno alla Germania di cui si fece personalmente carico la Merkel come ex-Cancelliera ma che era in carica al tempo dei fatti.
 
-Nel 2015, la Merkel aveva rilasciato interviste a Bild a ridosso del secondo trattato. Ma Bild, popolare e molto letto, non era il media naturale se l’obiettivo era la massima credibilità diplomatica ed era spesso in posizione critica verso il governo Scholz. 
+[!INFO]
 
-Al contrario Der Spiegel ha una lunga storia di inchieste su temi di sicurezza, intelligence e politica estera, e un profilo molto autorevole. Mentre Die Zeit è considerato il settimanale più intellettuale e rispettato della Germania, con ampia credibilità a livello europeo.
+Nel 2015, la Merkel aveva rilasciato interviste a Bild a ridosso del secondo trattato. Ma iL Bild -- popolare, molto letto e spesso in posizione critica verso il governo Scholz -- non era il media adatto.
 
----
+Poiché nel 2022 l’obiettivo era la massima credibilità diplomatica. Mentre nel 2015, era una questione di conquistarsi il favore ed eventualmente i voti anche fra i meno propensi a quell'area poltiica che sosteneva la Merkel. 
 
-### Il default tecnico dell'Italia
+Al contrario Der Spiegel ha una lunga storia di inchieste su temi di sicurezza, intelligence, politica estera, e un profilo molto autorevole. Mentre Die Zeit è considerato il settimanale più intellettuale e rispettato della Germania, con ampia credibilità a livello europeo.
+
+[/INFO]
+
+Quindi un'intervista che è stata presentata e confermata da due testate giornalistiche altamente specializzate, professionali e autorevoli. Il **verbo** sulla questione, sebbene in lingua tedesca e per gli abbonati o su carta stampata, quindi con una diffusione non immediatamente universale.
+
+Cosa che ha ovviamente permesso alla miriade di "*fact-checker*" di contestare l'interpretazione di quelle dichiarazioni eppure anche un **solo** passaggio, qui tradotto lascia pochi dubbi a riguardo: 
+
+> **Merkel**
+> 
+> Ritengo che l'avvio dell'adesione dell'Ucraina e della Georgia alla NATO, di cui si è discusso nel 2008, sia stato sbagliato. I due Paesi non avevano i prerequisiti necessari per farlo, né erano state pienamente considerate le conseguenze di una simile decisione, sia per quanto riguarda le azioni della Russia contro la Georgia e l'Ucraina, sia per quanto riguarda la NATO e le sue norme di mutua assistenza. E l'accordo di Minsk del 2014 è stato un tentativo di dare tempo all'Ucraina.
+
+- **Fonte**: [zeit.de](https://web.archive.org/web/20221213035833/https://www.zeit.de/2022/51/angela-merkel-russland-fluechtlingskrise-bundeskanzler/seite-3) by archive.org
+
+Un passaggio introduttivo che poi porterà necessariamente a parlare degli accordi di Minsk del 2015, di una questione che era cominciata nel 2008 e che sicuramente, come di fatto poi è avvenuto, non si sarebbe conclusa nel 2015.
+
++
+
+## Il default tecnico dell'Italia
 
 Lo spread indica quanto costa rifinanziare il debito pubblico e quindi, in sostanza, quanto ci costa la gestione finanziaria dello stesso. Ogni volta che abbiamo cercato di ridurre il debito pubblico è stato un massacro. Invece, è stato possibile aumentare il debito pubblico SOLO perché abbiamo creato inflazione.
 
@@ -55,9 +78,9 @@ Perché NOI peones siamo costretti a comprare gli euro (o dollari) con il nostro
 
 che è un modo "tecnico" per dire che NON ha più importanza la produzione al punto che le aziende guadagnerebbero di più dalla borsa se NON avessero lavoratori. In pratica, i lavoratori servono alle aziende SOLO per far finta di esistere e quotarsi in borsa.
 
----
++
 
-### Il default tecnico del debito USA
+## Il default tecnico del debito USA
 
 Ma è ancora più grave, perché prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
 
