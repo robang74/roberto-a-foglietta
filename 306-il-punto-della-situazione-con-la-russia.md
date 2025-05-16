@@ -61,6 +61,12 @@ La dichiarazione di Mario Draghi del 15 maggio 2025 mostra chiaramente l'evoluzi
 
 Perché che fosse ovvio, in termini di opinione pubblica, si sarebbe già dovuto sapere dal Q4/2022 dopo che la Merkel rivelò, in un'intervista concessa ad un'importante rivista tedesca,  le reali motivazioni dietro degli accordi di Minsk I e II.
 
+Le date conosciute e documentate sono quelle delle pubblicazioni: Der Spiegel, novembre 2022 e Die Zeit, 7 dicembre 2022. Tuttavia, è assolutamente ragionevole che l'intervista sia stata effettuate settimane prima, anche verso la fine di settembre 2022.
+
+Un ritardo fra il rilascio dell'intervista e la sua pubblicazione, per diverse ragioni molto concrete: figura politica di primo piano che rilascia dichiarazioni di portata storica in un momento molto delicato e in un contesto esplosivo che richiede verifiche rigorose, consultazioni con attori istituzionali fra cui è ragionevole inserire anche i vertici europei della NATO, almeno tramite il capo dell'esercito tedesco e/o del Cancelliere in carica, ed un'eventuale revisione dell'intervista stessa coerente con un ciclo di approvazione complesso.
+
+Dichiarazioni che sicuramente NON sono state fatte e pubblicate SENZA un intento preciso, di estrema ed urgente importanza. Quindi una comunicazione strategica come atto politico collettivo in seno alla Germania di cui si fece personalmente carico la Merkel come ex-Cancelliera ma che era in carica al tempo dei fatti.
+
 +
 
 ## Share alike
