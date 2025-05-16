@@ -1,15 +1,17 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/306-il-punto-della-situazione-con-la-russia.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/306-il-punto-della-situazione-con-la-russia.png" width="800"><br></div>
 
 ## Il punto della situazione
 
-Pubblicato lo stesso giorno come una serie di commenti su X poi raccolti in un post su Facebook.
+- **1st** edition: pubblicato lo stesso giorno in una serie di commenti su X poi raccolti in un post su Facebook.
+
+- **2nd** edition: immagine aggiornata con una più aderente al tema, la precedente è disponibile [qui](img/306-il-punto-della-situazione-con-la-russia-old.jpg#?target=_blank).
 
 ---
 
-#### Non c'è nulla da capire.
+### Non c'è nulla da capire.
 
 Come la Merkel ammise nel tardo 2022, gli accordi di Minsk I e II sono stati siglati sapendo che noi occidentali li avremmo violati, poi G20 a Bali 2023, anche. A questo punto è chiaro che con le buone o le cattive si prendono l'Ucraina per sicurezza.
 
@@ -19,7 +21,9 @@ La Russia era più americana dell'Italia e la UA sarebbe entrata nella UE. Invec
 
 Abbiamo dovuto sorbirci una gestione delinquente della pandemia per forzare il lavoro da remoto e mappare le "risorse umane" in termini di capacità bellica. La più grande esercitazione NATO prima di allora in Ucraina in Q3/2021.
 
-#### Poi guerra, missili mach 10, game over.
+---
+
+### Poi guerra, missili mach 10, game over.
 
 Sorpresi che la Russia voglia mettere in sicurezza l'Ucraina dopo che la CIA l'ha ri-popolata di nazisti, dopo che abbiamo violato patti per 30 anni: non un pollice a est?
 
@@ -33,7 +37,9 @@ Insomma, direi che è un po' presuntuoso da parte nostra pensare che i russi sia
 
 Poi, non è che ci stia andando meglio con gli africani e gli arabi, una volta che questi hanno capito come si devono trattare i "bianchi".
 
-#### Niger, Houthi, Afghanistan, etc. docet
+---
+
+### Niger, Houthi, Afghanistan, etc. docet
 
 Sapete qual'è la radice di quest'epica sconfitta e forse del collasso nostra stessa civiltà? Si riassume in una frase, tanto banale quanto letale.
 
@@ -46,6 +52,14 @@ Quella si chiama propaganda, per definizione, e NOI siamo rimasti vittime della 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
 Ora sarebbe il caso di mettere sotto processo coloro che ci hanno inebetito riempiendo i media di falsità invece di continuare a pretendere che gli ALTRI si adeguino alle nostre menzogne.
+
+---
+
+### Infine, l'ovvio viene accettato
+
+La dichiarazione di Mario Draghi del 15 maggio 2025 mostra chiaramente l'evoluzione della versione ufficiale sullo stato delle cose negli ultimi tre anni, il tempo che è stato necessario per accettare la realtà e ufficializzare l'ovvio.
+
+Perché che fosse ovvio, in termini di opinione pubblica, si sarebbe già dovuto sapere da Q4/2022 dopo che la Merkel rivelò, in un'intervista concessa ad un'importante rivista tedesca,  le reali motivazioni dietro degli accordi di Minsk I e II.
 
 +
 
