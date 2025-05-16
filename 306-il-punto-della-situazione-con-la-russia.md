@@ -59,7 +59,7 @@ Ora sarebbe il caso di mettere sotto processo coloro che ci hanno inebetito riem
 
 La dichiarazione di Mario Draghi del 15 maggio 2025 mostra chiaramente l'evoluzione della versione ufficiale sullo stato delle cose negli ultimi tre anni, il tempo che è stato necessario per accettare la realtà e ufficializzare l'ovvio.
 
-Perché che fosse ovvio, in termini di opinione pubblica, si sarebbe già dovuto sapere da Q4/2022 dopo che la Merkel rivelò, in un'intervista concessa ad un'importante rivista tedesca,  le reali motivazioni dietro degli accordi di Minsk I e II.
+Perché che fosse ovvio, in termini di opinione pubblica, si sarebbe già dovuto sapere dal Q4/2022 dopo che la Merkel rivelò, in un'intervista concessa ad un'importante rivista tedesca,  le reali motivazioni dietro degli accordi di Minsk I e II.
 
 +
 
