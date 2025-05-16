@@ -5,7 +5,7 @@
 
 ## Non c'è il 2° podio negli schemi Ponzi
 
-- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.* (**WIP**)
+- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
 
 ---
 
@@ -17,9 +17,9 @@ Sebbene con alti e bassi, lo spread per l'Italia cala dal Q4/2022. Cosa è succe
 
 La Merkel fece un'intervista che poi fu pubblicata successivamente ammettendo che entrambi gli accordi di Minsk erano stati sottoscritti, sapendo di volerli violare fin da principio e solo per comprare tempo per preparare l'Ucraina alla guerra.
 
-In pratica, ammise che **non** era la Russia che voleva fare guerra a noi, ma eravamo noi a voler far la guerra alla Russia. Questo è un dettaglio che pare banale ma per un paese sempre sull'orlo del tracollo come l'Italia, estremamente fragmentato in termini sociali, è fondamentale.
+In pratica, ammise che **non** era la Russia che voleva fare guerra a noi, ma eravamo noi a voler far la guerra alla Russia. Questo è un dettaglio che pare banale ma per un paese sempre sull'orlo del tracollo come l'Italia, estremamente frammentato in termini sociali, è fondamentale.
 
-Perché se noi vogliamo fare la guerra alla Russia significa che la NATO come fanclub degli USA sta pressando i governi europei a pagare per creare una crisi che poi si risolverà con una fuga (Afganistan docet) e che ha come unico obiettivo una qualche rapina (Iraq e Qweit, docet).
+Perché se noi vogliamo fare la guerra alla Russia significa che la NATO come fanclub degli USA sta pressando i governi europei a pagare per creare una crisi che poi si risolverà con una fuga (Afghanistan docet) e che ha come unico obiettivo una qualche rapina (Iraq e Kuwait, docet).
 
 Se invece fosse stata la Russia a decidere di fare la guerra alla NATO, l'Italia sarebbe stato il primo paese a collassare, finanziariamente e poi economicamente, probabilmente anche socialmente, fino a livelli di caos tali da portarlo al default effettivo, non quello tecnico.
 
@@ -37,9 +37,9 @@ Dichiarazioni che sicuramente **non** sono state fatte a caso e pubblicate **sen
 
 [!INFO]
 
-Nel 2015, la Merkel aveva rilasciato interviste a Bild a ridosso del secondo trattato. Ma iL Bild -- popolare, molto letto e spesso in posizione critica verso il governo Scholz -- non era il media adatto.
+Nel 2015, la Merkel aveva rilasciato interviste a Bild a ridosso del secondo trattato. Ma il Bild -- popolare, molto letto e spesso in posizione critica verso il governo Scholz -- non era il media adatto.
 
-Poiché nel 2022 l’obiettivo era la massima credibilità diplomatica. Mentre nel 2015, era una questione di conquistarsi il favore ed eventualmente i voti anche fra i meno propensi a quell'area poltiica che sosteneva la Merkel. 
+Poiché nel 2022 l’obiettivo era la massima credibilità diplomatica. Mentre nel 2015, era una questione di conquistarsi il favore ed eventualmente i voti anche tra i meno propensi a quell'area politica che sosteneva la Merkel. 
 
 Al contrario Der Spiegel ha una lunga storia di inchieste su temi di sicurezza, intelligence, politica estera, e un profilo molto autorevole. Mentre Die Zeit è considerato il settimanale più intellettuale e rispettato della Germania, con ampia credibilità a livello europeo.
 
@@ -83,11 +83,11 @@ che è un modo "tecnico" per dire che **non** ha più importanza la produzione a
 
 ## Il default tecnico del debito USA
 
-Ma è ancora più grave, perché prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
+Ma è ancora più grave, perchè prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
 
 - [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html)
 
-Quindi dal 2001 è in corso una guerra finanziaria fra dollaro ed euro. Di cui la "sorpresa" più devastante è stata l'ingresso della Cina nel WTO. In pratica gli USA hanno risposto alla creazione dell'euro con lo spostamento in Cina della produzione industriale. Quindi anche NOI siamo stati costretti a stampare euro invece di produrre.
+Quindi dal 2001 è in corso una guerra finanziaria tra dollaro ed euro. Di cui la "sorpresa" più devastante è stata l'ingresso della Cina nel WTO. In pratica gli USA hanno risposto alla creazione dell'euro con lo spostamento in Cina della produzione industriale. Quindi anche NOI siamo stati costretti a stampare euro invece di produrre.
 
 La cosa più interessante è che il debito pubblico americano è già tecnicamente fallito che è il motivo per il quale paradossalmente ora tutti i dollari sono costretti ad essere investiti in USA, quindi gli USA sono in saldo.
 
@@ -95,9 +95,9 @@ A noi europei toccherà la stessa sorte oppure la guerra contro qualcuno che ci 
 
 - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html)
 
-Una volta passato il periodo di grazia, il default è tecnico ma non necessariamente un collasso, però tutto il proseguo diventa puramente aleatorio e fideistico. Il che spinge tutti coloro che hanno grandi liquidità in USD o a convertile o a ritornarle alla sorgente.
+Una volta passato il periodo di grazia, il default è tecnico ma non necessariamente un collasso, però tutto il prosieguo diventa puramente aleatorio e fideistico. Il che spinge tutti coloro che hanno grandi liquidità in USD o a convertirle o a ritornarle alla sorgente.
 
-Il modo meno "appariscente" di farlo è quello che stiamo osservando: grandi società di tecnologia dotate di immense liquidità che investono contratti di costruzione di impianti, quali reattori nucleari, oppure principi arabi che investono in alta tecnologia in USA e armi, caso mai si dovessero difendere le posizioni con qualcosa di più effettivo della sola diplomazia che oltretutto, ultimamente, non gode di grande credibilità.
+Il modo meno "appariscente" di farlo è quello che stiamo osservando: grandi società di tecnologia dotate di immense liquidità che investono contratti di costruzione di impianti, quali reattori nucleari, oppure principi arabi che investono in alta tecnologia in USA e armi, casomai si dovessero difendere le posizioni con qualcosa di più effettivo della sola diplomazia che oltretutto, ultimamente, non gode di grande credibilità.
 
 ...
 
@@ -113,7 +113,7 @@ Warren Buffett was the #1 non-speculative finance guru investor before he retire
 
 > in the market, winners are those can keep a position as long as they will
 
-which defines him as a "non-speculative" investor, as long as we can consider a "speculative trader" everyone rely on high-frequency transactions to earn a sort of gain. By contrast, every HF trader can liquidate in a single working day their positions, something which cannot be reasonable done by those have a long-term investment strategy.
+which defines him as a "non-speculative" investor, as long as we can consider a "speculative trader" everyone rely on high-frequency transactions to earn a sort of gain. By contrast, every HF trader can liquidate in a single working day their positions, something which cannot be reasonably done by those who have a long-term investment strategy.
 
 +++++
 
@@ -122,3 +122,4 @@ which defines him as a "non-speculative" investor, as long as we can consider a 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
