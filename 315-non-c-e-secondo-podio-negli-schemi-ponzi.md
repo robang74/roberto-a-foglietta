@@ -67,15 +67,15 @@ Lo spread indica quanto costa rifinanziare il debito pubblico e quindi, in sosta
 
 - `debito/PIL +25% → pressione fiscale +23%`
 
-- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank)
+- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
 
 C'è però un problema di fondo: visto che il denaro viene creato (*quantitative easing, whatever it takes*) allora tutto questa "gestione finanziaria" in realtà è una truffa:
 
-- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank)
+- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
 
 Perché **noi** peones siamo costretti a comprare gli euro (o dollari) con il nostro lavoro mentre nella finanza li stampano, letteralmente dal nulla. È ovvio che la finanza si comprerà **tutto** e il lavoro diventerà inutile. Infatti i lavoratori sono stati cartolarizzati:
 
-- [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; su &nbsp; [LinkedIn](http://linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta)
+- [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; su &nbsp; [LinkedIn](http://linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
 
 che è un modo "tecnico" per dire che **non** ha più importanza la produzione al punto che le aziende guadagnerebbero di più dalla borsa se **non** avessero lavoratori. In pratica, i lavoratori servono alle aziende **solo** per far finta di esistere e quotarsi in borsa.
 
@@ -85,7 +85,7 @@ che è un modo "tecnico" per dire che **non** ha più importanza la produzione a
 
 Ma è ancora più grave, perchè prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
 
-- [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html)
+- [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) &nbsp; (2024-05-18)
 
 Quindi dal 2001 è in corso una guerra finanziaria tra dollaro ed euro. Di cui la "sorpresa" più devastante è stata l'ingresso della Cina nel WTO. In pratica gli USA hanno risposto alla creazione dell'euro con lo spostamento in Cina della produzione industriale. Quindi anche NOI siamo stati costretti a stampare euro invece di produrre.
 
@@ -93,7 +93,7 @@ La cosa più interessante è che il debito pubblico americano è già tecnicamen
 
 A noi europei toccherà la stessa sorte oppure la guerra contro qualcuno che ci rada al suolo e cancelli il ricordo del debito (default reset), tipo la Russia. Esiste una via di uscita che non sia la WW3, ma la BCE imita la FED e non c'è un secondo posto sul podio degli schemi Ponzi.
 
-- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html)
+- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
 
 Una volta passato il periodo di grazia, il default è tecnico ma non necessariamente un collasso, però tutto il prosieguo diventa puramente aleatorio e fideistico. Il che spinge tutti coloro che hanno grandi liquidità in USD o a convertirle o a ritornarle alla sorgente.
 
