@@ -116,7 +116,31 @@ Warren Buffett was the #1 non-speculative finance guru investor before he retire
 
 which defines him as a "non-speculative" investor, as long as we can consider a "speculative trader" everyone rely on high-frequency transactions to earn a sort of gain. By contrast, every HF trader can liquidate in a single working day their positions, something which cannot be reasonably done by those who have a long-term investment strategy.
 
-+++++
+...
+
+#### Il grande avversario di Trump<br><sup><i> &nbsp; Aggiornamento del 2025-05-17</i></sup>
+
+Il Moloch che l'amministrazione Trump dovrà affrontare è quei $7T di debito pubblico da rinnovare. Ma per darvi un'idea di cosa significhi la finanza negli USA e quindi il controllo del debito pubblico c'è l'altro screenshot e allora andiamo a mettere in prospettiva quei $7T con tutto il resto.
+
+- solo di interessi sul debito pubblico pagano $1T all'anno
+
+- sul debito pubblico e privato aggregato quasi $5.5T l'anno
+
+Ma non è finita qua perché queste sono solo le punte di due iceberg.
+
+- Fonte dei dati: [usdebtclock.org](https://www.usdebtclock.org)
+
+Il debito pubblico americano è sicuramente importante ma non è l'unico debito che USA hanno, infatti se andiamo a vedere quello privato, esso è semplicemente ENORME: un numero espresso da 15 cifre dove 10^12 sono trilioni quindi $103 trilioni, se includiamo anche i leverage finanziari (esposizione) si arriva ad un valore di 772% del PIL americano.
+
++
+
+## Conclusione
+
+Quindi non stiamo osservando solo un fallimento del debito pubblico USA ma anche sociale e produttivo (debito privato), anche finanziario e commerciale (esposizioni) e infine infra-strutturale perché è sufficiente ricordarsi della tragedia del ponte di Baltimora che ha portato alla luce altri 17mila ponti a rischio, dell'incendio di Los Angeles, dello stato della rete ferroviaria e in particolare di quella merci che è rimasta al '900, dei problemi di aggiornamento informatico come i sistemi di radiocontrollo dell'aeronautica civile come il black-out di 92 secondi all'aeroporto di Newark oppure alla marina militare che ancora utilizza Windows NT, e che fra tutti i problemi di aggiornamento è probabilmente il meno grave.
+
+In un contesto del genere servirebbe prudenza ma a questo stadio è più corretto dire psicofarmaci (ansiolitici) di cui il 25% degli americani fa uso regolare e probabilmente un altro 25% ne fa abuso insieme a droghe di vario tipo fra cui il Fentanyl. Invece c'è Trump che io personalmente adoro come presidente perché penso ci regalerà ENORMI soddisfazioni e anche uno spettacolare mandato in termini di show.
+
++
 
 ## Share alike
 
