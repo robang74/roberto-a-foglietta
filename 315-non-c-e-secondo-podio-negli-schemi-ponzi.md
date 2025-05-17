@@ -138,7 +138,16 @@ Il debito pubblico americano è sicuramente importante ma non è l'unico debito 
 
 Quindi non stiamo osservando solo un fallimento del debito pubblico USA ma anche sociale e produttivo (debito privato), anche finanziario e commerciale (esposizioni) e infine infra-strutturale perché è sufficiente ricordarsi della tragedia del ponte di Baltimora che ha portato alla luce altri 17mila ponti a rischio, dell'incendio di Los Angeles, dello stato della rete ferroviaria e in particolare di quella merci che è rimasta al '900, dei problemi di aggiornamento informatico come i sistemi di radiocontrollo dell'aeronautica civile come il black-out di 92 secondi all'aeroporto di Newark oppure alla marina militare che ancora utilizza Windows NT, e che fra tutti i problemi di aggiornamento è probabilmente il meno grave.
 
-In un contesto del genere servirebbe prudenza ma a questo stadio è più corretto dire psicofarmaci (ansiolitici) di cui il 25% degli americani fa uso regolare e probabilmente un altro 25% ne fa abuso insieme a droghe di vario tipo fra cui il Fentanyl. Invece c'è Trump che io personalmente adoro come presidente perché penso ci regalerà ENORMI soddisfazioni e anche uno spettacolare mandato in termini di show.
+Per coloro che pensano che rimanga il valore delle proprietà immobiliari da conteggiare in questo scenario, vale la pena di ricordare loro l'esegesi della bolla speculativa sui sub-prime loans negli USA: intere periferie che prima erano schiere di rinomate villette per la classe media, abbandonate e ridotte a spazzatura invendibile anche a $1 perché quelle zone sono de-facto diventate prive di servizi e di legge: 100% far-west, quindi periferie fantasma.
+
+In un contesto del genere servirebbe prudenza ma a questo stadio è più corretto dire psicofarmaci (ansiolitici) di cui il 25% degli americani fa uso regolare e probabilmente un altro 25% ne fa abuso insieme a droghe di vario tipo fra cui il Fentanyl. Invece c'è Trump che io personalmente adoro come presidente perché l'alternativa woke era pura follia -- per definizione alienazione dalla realtà -- e perché penso ci regalerà **enormi** soddisfazioni e anche uno spettacolare mandato in termini di show.
+
+#### La follia woke
+
+- [Il futuro non è green ma mixed](270-il-futuro-non-e-green-ma-mixed.md#?target=_blank) &nbsp; (2024-07-02)
+- [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank) &nbsp; (2024-09-22)
+- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
+- [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
 
 +
 
