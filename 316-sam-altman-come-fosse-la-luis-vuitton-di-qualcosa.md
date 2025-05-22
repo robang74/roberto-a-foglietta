@@ -15,19 +15,19 @@ Can be anything from Rabbit R1, to real-time translator earplugs or headphones, 
 
 The two most interesting fact are:
 
-1. the HUGE sum of money involved in;
+1. the **HUGE** sum of money involved in;
 
-2. the IO start-up has no even a website.
+2. the **IO start-up** has no even a website.
 
 A quick chat with ChatGPT clarify the news and the last statement, in particular:
 
 > Jony Ive's AI hardware startup is named io. Founded in 2024 by Ive alongside former Apple colleagues Tang Tan, Evans Hankey, and Scott Cannon, io was recently acquired by OpenAI in a $6.5 billion all-equity deal, marking OpenAI's significant expansion into consumer hardware.
-> 
+
 > While specific details about the devices are still under wraps, the project aims to develop a new category of AI-native hardware that offers an alternative to traditional smartphones. The envisioned devices are expected to integrate advanced AI functionalities—such as summarizing information, recognizing objects, and managing complex tasks—into a more ambient and less attention-demanding experience.
-> 
+ 
 > As of now, io, the AI hardware startup co-founded by Jony Ive, does not appear to have a public-facing website. The company has operated in stealth mode, focusing on developing innovative AI-powered devices that aim to redefine user interaction with technology.
 
-- Fonte dell'estratto di cui sopra: [ChatGPT](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8)
+- Fonte dell'estratto di cui sopra: [ChatGPT](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8) e la sua [trascrizione](data/316-jony-ive-ai-startup-chatgpt.txt#?target=_blank).
 
 Could we trust OpenAI's chatbot about Sam Altman next secret move? So, so. But it can be considered an official source. What they wish to let us know, beforehands. The marketing does not mimic the Apple but winks at the woke culture but without gender extremism and with an apparent modesty because the new luxury is no longer something to wear but an accessory to carry with us.
 
