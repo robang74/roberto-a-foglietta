@@ -81,23 +81,32 @@ Vuoi che ti aiuti a riscriverlo in una forma più incisiva ma equilibrata?
 
 ---
 
-Tono aggressivo e generalizzazioni eccessive. -- “narrativa tossica” è un
-fatto, che un certo tipo di narrativa porti a una sistematica frode delle
-start-up innovative. Le statistiche sono impietose a riguardo. “sberle come nei
-film di Trinità” -- è un fatto, non una frase buttata a caso, la
-ristrutturazione di OpenAI, ne è il risultato finale. “sofisticate truffe
-finanziarie” -- è un fatto, non solo statistico ma recentemente un'azienda
-innovativa AI driven che ha raccolto $450M dal Quatar e da Microsoft è fallita
-nel giro di una notte/giorno. Le evidenze ci sono per coloro che vogliono
-vederle. “Ha comprato della gente” è volutamente provocatorio ma
-disumanizzante. -- Diciamo che vorrei essere disumanizzato pure io, in quel
-modo, ricevendo 6.5 miliardi di dollari, per avere l'opportunità di fare
-qualcosa di epico. Dove si fa applicazione per farsi "disumanizzare" in questo
-modo? "luxury tech" -- poi esce uno che lo fa con Raspberry PI (o equivalente
-board low-cost low-tech) e allora l'unica differenza è la portabilità e il
-design. Se sei ricco compri la cosa da $3.000 mentre se sei povero ti
-costruisci la stessa cosa, più brutta e ingombrante con $300. Anche questo è un
-fatto, che giace sulla mia scrivania.
+Tono aggressivo e generalizzazioni eccessive.
+
+La “narrativa tossica” è un fatto, che un certo tipo di narrativa porti a una 
+sistematica frode delle start-up innovative. Le statistiche sono impietose a
+riguardo.
+
+Le “sberle come nei film di Trinità” è un fatto, non una frase buttata a caso,
+la ristrutturazione di OpenAI, ne è il risultato finale.
+
+Le “sofisticate truffe finanziarie” è un fatto, non solo statistico ma 
+recentemente un'azienda innovativa AI-driven che ha raccolto $450M dal Quatar
+e da Microsoft è fallita nel giro di una notte/giorno.
+
+Le evidenze ci sono per coloro che vogliono vederle.
+
+<<“Ha comprato della gente” è volutamente provocatorio ma disumanizzante.>>
+
+Diciamo che vorrei essere disumanizzato pure io, in quel modo, ricevendo 
+6.5 miliardi di dollari, per avere l'opportunità di fare qualcosa di epico.
+Dove si fa applicazione per farsi "disumanizzare" in questo modo? 
+
+La "luxury tech" poi esce uno che lo fa con Raspberry PI (o equivalente board
+low-cost low-tech) e allora l'unica differenza è la portabilità e il design.
+Se sei ricco compri la cosa da $3.000 mentre se sei povero ti costruisci la
+stessa cosa, più brutta e ingombrante con $300. Anche questo è un fatto, che
+giace sulla mia scrivania.
 
 ---
 
@@ -169,19 +178,24 @@ vuoi ottenere.
 
 ---
 
-se vuoi far cambiare idea a chi ancora crede nella retorica del pitch da 10
-slide -- loro non credono in quella roba, anzi sono i primi a sapere che NON
+<<se vuoi far cambiare idea a chi ancora crede nella retorica del pitch da 10
+slide>> -- loro non credono in quella roba, anzi sono i primi a sapere che NON
 funziona, ma sanno fare SOLO quello e ci provano a vincere la lotteria senza
-finire in galera. D'altronde 20-30 di seniority e/o eccellenza non s'inventano
-in due settimane. Quindi è "normale" che sia così, far cambiare loro idea
-sarebbe come chiedere ai piccini di non svolazzare perché esistono le aquile.
-Ognuno ha la sua nicchia ecologica. Eventualmente, il problema in termini di
-sistema è che non tutti quelli che meritano un'opportunità la ricevono in
-funzione della loro capacità ma devono diventare "ricattabili" perché questo è
-in sostanza il biglietto di uscita dal carcere: truffa, soldi, diventi
-riccattbile, entri nel club. Ho saltato i vari passaggi, per non essere troppo
-cinico e tossico, e ho semplicemente posto la questione in termini di club
-esclusivi vs libero mercato.
+finire in galera.
+
+D'altronde 20-30 anni di seniority e/o eccellenza non s'inventano in due
+settimane. Quindi è "normale" che sia così, far cambiare loro idea sarebbe
+come chiedere ai piccioni di non svolazzare perché esistono le aquile.
+
+Ognuno ha la sua nicchia ecologica.
+
+Eventualmente, il problema in termini di sistema è che non tutti quelli che
+meritano un'opportunità la ricevono in funzione della loro capacità ma devono
+diventare "ricattabili" perché questo è in sostanza il biglietto di uscita dal
+carcere: truffa, soldi, diventi riccattbile, entri nel club.
+
+Ho saltato i vari passaggi, per non essere troppo cinico e tossico, e ho
+semplicemente posto la questione in termini di club esclusivi vs libero mercato.
 
 ---
 
