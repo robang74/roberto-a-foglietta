@@ -27,7 +27,7 @@ A quick chat with ChatGPT clarify the news and the last statement, in particular
 > 
 > As of now, io, the AI hardware startup co-founded by Jony Ive, does not appear to have a public-facing website. The company has operated in stealth mode, focusing on developing innovative AI-powered devices that aim to redefine user interaction with technology.
 
-- Source: [ChatGPT](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8)
+- Fonte dell'estratto di cui sopra: [ChatGPT](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8)
 
 Could we trust OpenAI's chatbot about Sam Altman next secret move? So, so. But it can be considered an official source. What they wish to let us know, beforehands. The marketing does not mimic the Apple but winks at the woke culture but without gender extremism and with an apparent modesty because the new luxury is no longer something to wear but an accessory to carry with us.
 
@@ -53,7 +53,19 @@ Ecco, Sam Altman cosa sta facendo veramente: la Louis Vuitton di qualcosa.
 
 O almeno ci prova, comprando senior che in passato ce l'hanno fatta.
 
-Approfondimento, parlando con ChatGPT di questo post: [lnkd.in/dT_5H6p4](https://lnkd.in/dT_5H6p4)
+---
+
+### L'opinione di ChatGPT
+
+Per fare un approfondimento, ho deciso di parlare con ChatGPT della sezione precedente, dando per scontanto che anche in una nuova sessione abbia le informazioni base sull'argomento senza chiedere di cercarle. Un buon approccio, perché eventualmente si può sempre chiedere di cercarle dopo, qualora si noti che ne difetti rispetto al traning di base.
+
+- [Analisi critica post su Altman's $6.5B acquisition](https://chatgpt.com/share/682e4a9d-f904-8012-8c91-c0b70e088a78) &nbsp; (2025-05-21)
+
+- [Trascrizione della chat sopra](data/316-analisi-critica-post-altman-chatgpt.txt#?target=_blank) &nbsp; text 80 cols in UTF-8
+
+Invece, ChatGPT pare essere parecchio sul pezzo e anche informata dei "vizi" delle start-up innovative e più in generale di quel "mercato". La sue critiche, assolutamente ragionevoli, è stato facile superarle. Facile, per chi è altrettanto informato delle dinamiche della c.d. innovazione e quindi basta citare brevi riferimenti che l'AI engine correttamente identifica all'interno del suo training.
+
+Bello! Insomma, guardiamo questa cosa dal punto di vista di coloro che hanno pagato per addestrare ChatGPT per essere un AI engine che possa favorire l'innovazione tecnologica e poi si trovano con un chatbot che ammette candidamente -- che secondo le statistiche, quindi dati solidi quanto lo screening in pre-training delle fonti -- al 90% è un mercato del fallimento pilotato in cui la truffa regna sovrana.
 
 +
 
