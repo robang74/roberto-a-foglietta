@@ -315,6 +315,10 @@ ALLA FINE TUTTO SI RIASSUME IN UN TWEET
 
 Sta ancora murato vivo dopo aver attaccato i bombardieri russi che DEVONO stare esposti fuori dagli hangar per rispettare il trattato di non proliferazione nucleare (accordo globale) e che quindi NON devono essere attaccati da alcuno stato altrimenti gli altri reagiscono? 😎 
 
+Allo stato attuale, mi pare, che Zelensky e i suoi più vicini collaboratori siano nascosti da qualche parte, probabilmente in un bunker sottoterra. Ma gli attacchi a Mach 10 dei russi hanno dimostrato la capacità di distruggere in modo efficace strutture sotterranee anche profonde diversi piani. 
+
+A questo punto, se fosse colpito il bunker che ospita Mr. Z & Co, i russi potrebbero addurre la plausibility negability per svincolarsi anche dall'eventuale accusa di aver ammazzato un capo di stato: spiace, non sapevamo che fosse là sotto. Pensavamo fosse Antani.
+
 +
 
 ## Share alike
