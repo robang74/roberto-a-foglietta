@@ -17,6 +17,8 @@ It is essential because when we find a mistake in one of them, we can track down
 
 In this post are cited two topics. The sugar promotion into the food industry and the AI adoption hype. Let me propose two articles of mine about, in the next comment (here below, due to # of chars limitation) or, alternatively, for those who are less involved in science and technology, follow this [link](https://g.co/gemini/share/751136f5e2d4), instead.
 
+- [Gemini on Transparency in Scientific Funding](data/318-who-paid-for-that-study-gemini.txt#?target=_blank) &nbsp; transcription of the chat above linked.
+
 ---
 
 ### About sugar and AI hype topics
@@ -47,7 +49,13 @@ This above is an exemplified disclosing chain of funding sources. Because, the s
 
 However, this disclosure schema can be circumvented, in many ways and the most classic is inverting the cause-effect relationship: the paper is published, then the department in which the authors are working receive substantial financial help.
 
-Anyway, better than nothing is a good starting point.
+---
+
+### Conclusion
+
+Science needs transparency also about business influence and at this time there is not an universal way to track back funds in a way bibliography does for the source of information. Partial or voluntary disclosure is not enough and the example proposed works in bona-fide.
+
+Anyway, a good starting point is better than nothing.
 
 +
 

@@ -1,0 +1,213 @@
+Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
+
+*************** Gemini about Transparency in Scientific Funding ****************
+
+Created: 7th June 2025
+Published 7th June 2025
+Attachment: none
+
+================================================================================
+
+How do you think about this post? (ignore the 1. and 2. links)
+
+SOURCE(S) OF FUNDING OF A STUDY PAPER
+SHOULD BE DISCLOSED LIKE BIBLIOGRAPHY
+
+I agree that knowing the source of funding is essential and should be included
+in every paper like we usually do with bibliography. We do bibliography not
+just to count how many times a paper or an author got hits but to track down
+the source of knowledge and have a tree of them.
+
+It is essential because when we find a mistake in one of them, we can track
+down its impact in all the other papers that have been influenced by it. From a
+scientific point of view, unreliably bibliography is equivalent to jeopardise
+the fix & progress cycle.
+
+In this post are cited two topics. The sugar promotion into the food industry
+and the AI adoption hype. Let me propose you two articles of mine about, in the
+next comment (here below, due to # of chars limitation)
+
+***
+
+ABOUT SUGAR AND AI HYPE TOPICS
+
+In this post are cited two topics. The sugar promotion into the food industry
+and the AI adoption hype. Let me propose you two articles of mine about, in the
+next comment (here below)
+
+The role of the sugar in human food, might be underestimated as responsible for
+maligne cancer outbreaks. A single interpretation mistake can have caused a
+chain of failures in science. I may be right or wrong, but this is the kind of
+example I was writing above about bibliography. (auto-translation available on
+the website top-bar)
+
+1. lnkd.in/d7JzgtbF
+
+Instead, this is how AI can deal with unfiltered data and leveraging a
+progressive improving cycle makes them useful to feed an AI system.
+
+2. lnkd.in/dVE-8E2M
+
+This second article shows the importance of having a self-improving process
+cycle. Which directly refers by analogy to the fix & progress cycle and it
+raises a question: we know how to do right when dealing with stuff (data
+management) but we fail when dealing with systems (science & university).
+
+---
+
+This is a thought-provoking post that brings up a really important point about
+transparency in scientific research.
+
+The core argument is that the source of funding for a study paper should be
+disclosed as routinely as a bibliography. The reasoning behind this is solid:
+
+    * Tracking the source of knowledge: Just as a bibliography helps trace the
+      lineage of ideas and information, funding disclosure would provide
+      another crucial layer of context.
+
+    * Identifying and mitigating errors: If a flaw is found in research,
+      knowing the funding source could help in understanding potential biases
+      or influences, and subsequently, tracking the impact of that flawed
+      research on other studies that relied on it. This directly supports the
+      "fix & progress" cycle of science.
+
+    * Ensuring scientific integrity: The post implies that undisclosed funding
+      sources can "jeopardize the fix & progress cycle," which is a valid
+      concern. Financial interests can, at times, consciously or unconsciously,
+      influence research outcomes or their interpretation.
+
+The examples of "sugar promotion into the food industry" and "AI adoption hype"
+are good illustrations of areas where potential biases due to funding could be
+a significant concern. The point about a "single interpretation mistake"
+regarding sugar potentially causing a "chain of failures in science" powerfully
+underscores the need for thoroughness and transparency.
+
+The comparison between managing data effectively with AI and the potential
+shortcomings in "science & university systems" is also interesting. It raises a
+valid question about why we can implement self-improving cycles in data
+management but seem to struggle with similar processes in the broader
+scientific ecosystem.
+
+Overall, the post makes a strong case for increased transparency in scientific
+funding. It highlights how such disclosure isn't just about accountability, but
+also about strengthening the reliability and integrity of the scientific
+process itself.
+
+---
+
+What do you think about this proposal emerged by the following comments
+exchange?
+
+Fionagh Thomson wrote: <<They are disclosed in all reputable journals.>> - nice
+to know, but also in every article, specifically?
+
+Time to time, I read some scientific articles. Sometimes, those who wrote it,
+implicitly acknowledge the readers the source of funding.
+
+Sometimes, especially when it is a public foundation, they clearly state
+something like a budget (or a medal). However, by my own experience (which can
+be limited or not be aligned with the mainstream aka be a corner case), the
+bibliography section is usually standardised, while the chain of funding
+sources is not.
+
+Company ($$$$) -> NGO ($$$) -> University ($$) -> Paper ($).
+
+This above is an exemplified disclosing chain of funding sources. Because, the
+study behind the paper received a tiny financial support but the university
+which provides a stable position to the author of the paper might be involved
+in a way deeper.
+
+---
+
+This comment exchange brings up a critical nuance to the original proposal
+about disclosing funding sources: the idea of a "chain of funding" and the
+distinction between direct paper-specific funding and broader institutional
+support.
+
+Fionagh Thomson's initial comment, "They are disclosed in all reputable
+journals," is a good starting point. Indeed, most reputable journals do require
+authors to disclose direct funding for the research presented in the paper,
+usually in a dedicated "Funding" or "Acknowledgements" section. This often
+includes grant numbers and funding agency names.
+
+However, the subsequent comments from the original poster (who is likely the
+same person as in the initial prompt) highlight a significant gap:
+
+   1. "Nice to know, but also in every article, specifically?": This implicitly
+      questions how consistently and comprehensively this disclosure happens.
+      While a journal might have a policy, the actual implementation and level
+      of detail can vary.
+
+   2. Implicit vs. Explicit Disclosure: The observation that some authors
+      "implicitly acknowledge" funding versus "clearly state something like a
+      budget (or a medal)" suggests a lack of standardization in how this
+      information is presented.
+
+   3. The "Chain of Funding" Problem: This is the most crucial point. The
+      example provided:
+
+          o Company ($$$$) -> NGO ($$$) -> University ($$) -> Paper ($).
+
+      This illustrates that the direct funding received for the paper itself
+      might be a small part of a much larger financial ecosystem. A university
+      that provides a stable position, resources, and infrastructure to a
+      researcher might be heavily funded by entities with specific interests,
+      even if those interests don't directly fund the specific paper being
+      published.
+
+Why this "chain of funding" matters:
+
+    * Indirect Influence: While a company might not directly fund a particular
+      paper on, say, the health effects of a certain food ingredient, if that
+      company heavily funds the university department where the researcher
+      works, there could be subtle, unconscious, or even systemic pressures
+      that influence research directions, methodology, or interpretation of
+      results.
+
+    * Reputational Alignment: Universities and NGOs also have reputations and
+      financial incentives. If they are significantly supported by certain
+      industries, their overall research output might lean in directions
+      favorable to those industries, even if individual papers maintain
+      independence.
+
+    * Transparency and Public Trust: The public increasingly demands to know
+      who benefits from and influences research, especially when it concerns
+      public health, environmental issues, or rapidly evolving technologies
+      like AI. A simple "this paper was funded by X grant" might not be
+      sufficient to reveal the full picture of potential influences.
+
+    * Defining "Conflict of Interest": Current conflict of interest (COI)
+      statements often focus on direct financial ties of the authors to
+      entities that could gain or lose from the research. The "chain of
+      funding" proposal expands this to institutional ties, which is a much
+      broader and more complex area.
+
+Challenges of implementing a "chain of funding" disclosure:
+
+    * Complexity: Tracing every dollar back through multiple layers of funding
+      for an institution would be incredibly complex and potentially
+      impractical.
+
+    * Data Availability: Universities and NGOs might not always be transparent
+      about all their funding sources, especially private donations or
+      proprietary research agreements.
+
+    * Defining "Influence": At what point in the chain does funding become an
+      "influence" that needs to be disclosed? This would require clear
+      guidelines and potentially subjective judgments.
+
+    * Burdensome for Researchers: Adding more disclosure requirements could
+      become overly burdensome for researchers already navigating complex
+      publication processes.
+
+Conclusion:
+
+The proposal for disclosing a "chain of funding" goes beyond current standard
+practices in many journals and raises a legitimate and important point about
+the broader context of research funding. While the implementation challenges
+are significant, the underlying concern about potential indirect influences on
+research, especially through institutional funding, is valid and warrants
+further discussion within the scientific community and among policymakers. It
+pushes the conversation about transparency from just "who paid for this paper?"
+to "who supports the ecosystem in which this paper was produced?"
+
