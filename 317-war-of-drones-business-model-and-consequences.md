@@ -233,6 +233,56 @@ IL RESET NUCLEARE È NECESSARIO, LONDRA CONFERMA
 
 4 giugno 2025 - Londra fornirà a Kiev 100mila droni entro aprile 2026. [Quindi la Russia o lancia o lancia, pare deciso?!]
 
+---
+
+## Le vestigia dell'Unione Europea
+
+- Articolo a partire da un post pubblicato su LinkedIn alcuni giorni prima
+
+---
+
+### Informazioni di base
+
+Il Consiglio d’Europa (mappa blue/grigio) -- da NON confondere con il Consiglio dell'Unione Europea (mappa su globo) -- è un’organizzazione internazionale autonoma, estranea all’Unione Europea, fondata nel 1949 e composta oggi da 46 Stati membri. Il suo obiettivo principale è la promozione dei diritti umani, della democrazia e dello Stato di diritto in Europa. Ha sede a Strasburgo.
+
+Il mercato europeo comune (MEC) si riferisce al mercato unico (mappa con viola) dell'Unione europea (e, prima, della Comunità economica europea, CEE), la cui creazione era uno degli obiettivi fondamentali del trattato di Roma – firmato il 25 marzo 1957 ed entrato in vigore il 1º gennaio 1958 – che istituì la CEE. L'espressione veniva inoltre spesso utilizzata come sinonimo di CEE.
+
+Il mercato comune si basa su quattro libertà non scindibili per averne accesso:
+
+- 1. libera circolazione delle persone (Accordi di Schengen, Accordo di Dublino per gli immigrati e clandestini);
+
+- 2. libera circolazione dei servizi;
+
+- 3. libera circolazione delle merci (es. senza dazi doganali interni);
+
+- 4. libera circolazione dei capitali.
+
+Sulla disciplina della concorrenza e sulla limitazione degli aiuti statali alle imprese.
+
+L'Unione economica e monetaria (UEM) dell'Unione europea (mappa colorata) è un termine ampio: include l'insieme delle politiche fiscali, valutarie, concorrenziali e monetarie messe in coordinamento dal luglio 1988 con lo scopo di avvicinare le rispettive economie degli Stati dell'allora Comunità europea. Un momento importante, che assunse anche un valore simbolico del processo, fu l'adozione di una moneta unica europea, l'euro, nel 1999, in sostituzione delle rispettive valute nazionali da parte degli Stati membri dell'Unione europea. Si ebbe così una politica monetaria comune sotto il controllo della Banca centrale europea (BCE), dando vita alla cosiddetta eurozona.
+
+---
+
+### L'Unione Europea
+
+Da queste informazioni si desume che se anche l'Unione Europea (EU) -- come per magia -- cessasse di esistere improvvisamente, ben poco andrebbe perduto a parte il gigantesco sunk-cost di aver creato una macchina essenzialmente burocratica che avendo tradito l'ideale originale ha avuto l'infausta supponente arroganza di poter dominare la scena politica invece di creare una federazione europea sul modello elvetico.
+
+La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava per scontato che avrebbe controllato la sanità globale. Uguale la macchina di propaganda DEM-woke-Hollywood. Da marzo 2022, fate un riflessione su quante "entità" sono scomparse come ombre (o evaporate come nebbia) proprio al culmine, o ad un passo, della loro vittoria totale.
+
+Extreme Refactoring: replacing, reshaping, resizing, etc. all the system units, one by one, while the system is alive in production. In italiano: fare a pezzi e riassemblare in corsa. Roba che Transformer spostati!
+
+---
+
+UN'IMMAGINE VALE PIÙ DI MILLE PAROLE
+
+C'erano tempi in cui costruire un parcheggio e istituire una navetta bus per la spiaggia come fanno (facevano, almeno nel 2002) in nord africa da noi era fantascienza e si posteggiava alla caxxo di cane anche se apparentemente a lisca di pesce (ma appunto nel posto sbagliato).
+
+Nostalgia canaglia, ci fa sembrare che eravamo felici guardando delle vecchie foto e non ci fa capire che eravamo già dei perdenti allora. Solo fortunati a viaggiare su un'onda positiva senza pensare che quell'onda avrebbe dovuto essere sfruttata anche per fare un balzo in avanti e passare la mano alla generazione successiva.
+
+Ci sono fallimenti e fallimenti, quello della generazione dei boomer è uno di quelli che passerà alla storia e diventerà un caso studio nella scienza dell'ingegneria delle società (che non è social engineering ma society engineering). Cosa che é già così, infatti gli USA ci usano come criceti da esperimento.
+
+Se qualcosa (di incredibilmente stupido) funziona con noi, allora loro lo implementano su larga scala. Vedi tu, a volte la fortuna, di essere la razza (di criceti) eletta! 🤣 
+
 
 +
 
