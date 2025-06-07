@@ -299,7 +299,7 @@ Che il sistema sia il problema lo abbiamo visto durante la pandemia di covid dov
 
 ***
 
-premesso quanto sopra nel mio commento precedente, la questione non è se Zelensky sia il problema oppure se sia l'unico eroe a poter tenere testa a Putin, perché ormai pare che sia un incontro di box oppure una partita a scacchi dove le pedine sono la gente che muore.
+Premesso quanto sopra nel mio commento precedente, la questione non è se Zelensky sia il problema oppure se sia l'unico eroe a poter tenere testa a Putin, perché ormai pare che sia un incontro di box oppure una partita a scacchi dove le pedine sono la gente che muore.
 
 Il problema, VERO, e che si ripete ciclicamente è che gli USA sfruttando la democrazia e una rete di NGO finanziata all'occorrenza (nella migliore delle ipotesi) instaurano dei governi e talvolta dei regimi a loro favorevoli.
 
@@ -340,6 +340,39 @@ Quindi la domanda ultima è: aspetteranno altri 5-10 anni prima di riaprire il c
 Il rischio NON è tanto una WW3, anzi. Ma il collasso (**) del sogno americano. Un sogno oppure un incubo durato troppo a lungo? Secondo me, i russi e i cinesi, hanno imparato dalla storia della conquista del Far West americano e sanno che fare accordi con i bianchi dalla lingua biforcuta non è mai la scelta migliore anche se sul breve appare la scelta più razionale.
 
 (**) https://lnkd.in/deZSMbFz, no 2nd place.
+
++
+
+A.A.A. CONFUTAZIONE CERCASI #1
+
+Adoro quei video in cui per tutto il tempo in cui li guardi ti chiedi dove cominci lo schermo e dove gli scalini o la platea. Se fosse un personaggio di un film, si direbbe che c'è stato un profondo cambio di abitudini, cosa che NON si può affermare con ragionevole certezza per una persona reale di cui si conosce (e si può conoscere) effettivamente molto poco.
+
+Perciò ci limitiamo ad osservare il cambio di abitudini del "personaggio" che poi l'unica cosa che da comuni spettatori possiamo osservare, e apprezzare la barba incolta a dimostrare uno stato trasandato come l'Ucraina tenuta sveglia dai bombardamenti.
+
+Customi, e regia: 10/10
+Personaggio: statico
+Location: 7/10
+Pubblico: 4/10
+
+Notevole le persone presente presa di schiena e tutto sommati pochi, anche se pochi ma buoni basta, i pochi potrebbero essere chiunque e ovunque, anche in un bunker o in una realtà virtuale. Giacché l'inquadratura, a parte i primo piano e i mezzi busto, è pressoché statica quindi manca di profondità reale, ma solo geometrica.
+
+Spoiler: sto cercando una confutazione credibile alla teoria dell'eroe murato vivo dal 1° giugno ma ancora non l'ho trovata, ma io non demordo e che Kalar Popper mi assista in questa missione.
+
+https://x.com/Mylovanov/status/1931050675825439053
+
+---
+
+A.A.A. CONFUTAZIONE CERCASI #1
+
+In questa inquadratura più ampia si vede la sala e le persone, continua ad essere un ambiente chiuso con un limitato numero di persone.
+
+Comunque la cosa, più impressionante è che con questa apertura e una modesta traslazione della camera, i gradini appaiano inclusi nello schermo. Mentre lo schermo dietro appare solo come una proiezione artificialmente quadrettata.
+
+Questa idea della quadrettatura artificiale l'avevo già valutata anche prima, ma ora, in questo spezzone di video che è centrato sul primo piano e apre solo per pochi secondi sulla sala, la profondità dei gradini e quindi del palco scompare.
+
+Anche oggi, sarà domani che lo vedremo in carne e ossa. Se pensiamo che in questo momento tutto gira intorno al fatto che sia murato vivo o meno, ci si sono proprio impegnati per mettere in evidenza una scena che tolga ogni dubbio.
+
+https://x.com/Mylovanov/status/1931050675825439053
 
 +
 
