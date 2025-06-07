@@ -39,7 +39,7 @@ This second article shows the importance of having a self-improving process cycl
 
 ### Partial or voluntary disclosure
 
-Fionagh Thomson wrote: «*They are disclosed in all reputable journals.*» - nice to know, but also in every article, specifically? Time to time, I read some scientific articles. Sometimes, those who wrote it, implicitly acknowledge the readers the source of funding.
+Fionagh Thomson wrote: «*They are disclosed in all reputable journals.*» -- nice to know, but also in every article, specifically? Time to time, I read some scientific articles. Sometimes, those who wrote it, implicitly acknowledge the readers the source of funding.
 
 Sometimes, especially when it is a public foundation, they clearly state something like a budget (or a medal). However, by my own experience (which can be limited or not be aligned with the mainstream aka be a corner case), the bibliography section is usually standardised, while the chain of funding sources is not.
 
