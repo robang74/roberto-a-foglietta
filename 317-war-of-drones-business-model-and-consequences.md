@@ -370,7 +370,7 @@ Comunque la cosa, più impressionante è che con questa apertura e una modesta t
 
 Questa idea della quadrettatura artificiale l'avevo già valutata anche prima, ma ora, in questo spezzone di video che è centrato sul primo piano e apre solo per pochi secondi sulla sala, la profondità dei gradini e quindi del palco scompare.
 
-Anche oggi, sarà domani che lo vedremo in carne e ossa. Se pensiamo che in questo momento tutto gira intorno al fatto che sia murato vivo o meno, ci si sono proprio impegnati per mettere in evidenza una scena che tolga ogni dubbio.
+Anche oggi, sarà domani che lo vedremo in carne e ossa. Se pensiamo che in questo momento tutto gira intorno al fatto che sia murato vivo o meno, ci si sono proprio impegnati ZERO per mettere in evidenza una scena che tolga ogni dubbio.
 
 https://x.com/Mylovanov/status/1931050675825439053
 
