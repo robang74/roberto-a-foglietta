@@ -321,6 +321,26 @@ A questo punto, se fosse colpito il bunker che ospita Mr. Z & Co, i russi potreb
 
 (*) Intl. Antani è un personaggio immaginario della "supercazzola" di Amici Miei (film), cfr. [Dalla supercazzola alla civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html)
 
+---
+
+COSÌ VICINI, COSÌ LONTANI, CHE ORMAI CI SIAMO
+
+Gli UK stanno rientrando nella UE dopo la Brexit con addirittura l'idea di unire gli eserciti e manca solo l'adozione dell'Euro (*) per essere 100% allineati con Bruxelles. (*) Improbabile ma non impossibile visto che mentre si uniscono militarmente alla EU tagliano 15.000 operativi nella sanità pubblica per investire nelle armi (anche da dare all'Ucraina) quindi preso gli inglesi dovranno indebitarsi per curarsi e a quel punto non saranno più in grado di opporsi alla fine della Sterlina.
+
+Quindi mentre Trump parla di pace con Putin, il primo ministro Inglese e quello tedesco pensano al riarmo. La notizia che un bando di gara da €27 milioni (e la cifra non è stata scelta a caso) per rimodernare una caserma a 5Km dal duomo di Firenze per farne una base NATO per il controllo strategico va in questa direzione. A cui si aggiunge il voto che molti sostengono "tirato per i capelli" pro-Europa della Romania che DEVE ospitare la più grande base NATO al mondo in quanto la Romania è fondamentale per tenere a bada la Russia.
+
+Quindi stiamo tornado agli accordi di Minsk del 2015 con la Russia che oltre alla Crimea si è presa il Donbass e un corridoio che la colleghi alla Crimea via terra. O per lo meno, ci stiamo provando, visto che abbiamo perso di nuovo. Però non molliamo la presa e anzi, i militari si stanno facendo sempre più "prepotenti" nel chiedere risorse dal 2% al 5%.
+
+Sicché è inutile rigirarsi la frittata, e la domanda ultima è quale sarà il prossimo paese da sacrificare alla guerra contro la Russia? L'Europa? O la Polonia? Ecco, sulla Polonia sono già molto più confidente. Perché la Polonia è geograficamente in una posizione troppo delicata per essere invasa dalla Russia ma ottimale per mandarli a combattere in Ucraina.
+
+I generali russi stanno pressando Putin per avanzare ma Putin non si fida della loro esuberanza perché sa che i costi di una guerra convenzionale sono troppo elevati. Potrebbe decidere di trascinare gli USA al default ma questo non può farlo senza la Cina che nonostante sia alleata del Pakistan non ha gradito affatto il tafferuglio l'altro popoloso partner dei BRICS, l'India.
+
+Quindi la domanda ultima è: aspetteranno altri 5-10 anni prima di riaprire il conflitto oppure la riunione di capi di stato del 9 maggio ha già sancito che - lasciato un tempo di grazia agli occidentali perché decidano, elezioni incluse - poi sganciano due atomiche in atmosfera, riportano l'Ucraina al medioevo e ne fanno una novella Bielorussia?
+
+Il rischio NON è tanto una WW3, anzi. Ma il collasso (**) del sogno americano. Un sogno oppure un incubo durato troppo a lungo? Secondo me, i russi e i cinesi, hanno imparato dalla storia della conquista del Far West americano e sanno che fare accordi con i bianchi dalla lingua biforcuta non è mai la scelta migliore anche se sul breve appare la scelta più razionale.
+
+(**) https://lnkd.in/deZSMbFz, no 2nd place.
+
 +
 
 ## Share alike
