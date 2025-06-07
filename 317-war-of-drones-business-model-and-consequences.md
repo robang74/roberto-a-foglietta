@@ -219,13 +219,13 @@ https://www.linkedin.com/posts/la-ragione_la-pace-fra-ucraina-e-russia-non-sar%C
 
 ---
 
-Hanno da smaltire una batosta che parte dal 1992, e sono più di 33 anni. 
+Con la guerra in Ucraina, hanno da smaltire una batosta che parte dal 1992, e sono più di 33 anni. Tanto tempo, tanto debito USA che non si potrà smaltire facendo spendere il 5% del PIL in supporto ai militari, come stanno pianificando.
 
 Oggi l'esercito USA costa quasi $1T anno, senza attualizzare il costo del pregresso ma usando l'attuale, per 33 anni fa una spesa di $33T quasi l'intero debito pubblico americano di cui ORA si accorgono che è a rischio default per il 2026.
 
-L'idea che qualcuno lanci un'atomica e scoppi una gran bugna per insabbiare 33 anni di spese inutili a schiacciare la Russia sarà dura togliergliela dalla testa.
+L'idea che qualcuno lanci un'atomica e scoppi una gran bugna per insabbiare 33 anni di spese inutili a schiacciare la Russia sarà dura togliergliela dalla testa. Quindi anche tutti i supporters, e in particolare gli analisti compiacenti, rimarranno "attaccati" all'idea emotivamente per molto. Per molti, questa è la fine del mondo, comunque vada.
 
-Quindi anche tutti i supporters, e in particolare gli analisti compiacenti, rimarranno "attaccati" all'idea emotivamente per molto. Per molti, questa è la fine del mondo, comunque vada.
+Ma forse le cose non andranno in quella direzione, o per lo meno non secondo le queste aspettative.
 
 ---
 
@@ -317,7 +317,9 @@ Sta ancora murato vivo dopo aver attaccato i bombardieri russi che DEVONO stare 
 
 Allo stato attuale, mi pare, che Zelensky e i suoi più vicini collaboratori siano nascosti da qualche parte, probabilmente in un bunker sottoterra. Ma gli attacchi a Mach 10 dei russi hanno dimostrato la capacità di distruggere in modo efficace strutture sotterranee anche profonde diversi piani. 
 
-A questo punto, se fosse colpito il bunker che ospita Mr. Z & Co, i russi potrebbero addurre la plausibility negability per svincolarsi anche dall'eventuale accusa di aver ammazzato un capo di stato: spiace, non sapevamo che fosse là sotto. Pensavamo fosse Antani.
+A questo punto, se fosse colpito il bunker che ospita Mr. Z & Co, i russi potrebbero addurre la plausibility negability per svincolarsi anche dall'eventuale accusa di aver ammazzato un capo di stato: spiace, non sapevamo che fosse là sotto, pensavamo fosse Antani (*).
+
+(*) Intl. Antani è un personaggio immaginario della "supercazzola" di Amici Miei (film), cfr. [Dalla supercazzola alla civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html)
 
 +
 
