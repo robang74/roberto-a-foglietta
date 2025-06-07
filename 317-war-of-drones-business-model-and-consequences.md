@@ -283,6 +283,37 @@ Ci sono fallimenti e fallimenti, quello della generazione dei boomer è uno di q
 
 Se qualcosa (di incredibilmente stupido) funziona con noi, allora loro lo implementano su larga scala. Vedi tu, a volte la fortuna, di essere la razza (di criceti) eletta! 🤣 
 
+---
+
+ho visto oggi uno spezzone di intervista in cui Putin parla del problema del cambiamento nelle democrazie.
+
+Che quel video fosse originale piuttosto che generato dalla AI o che la traduzione in Inglese fosse fedele all'originale, non è una questione rilevante, nella misura in cui quanto detto sia significativo, e sicuramente alcuni passaggi lo sono.
+
+Per esempio, ha parlato di Obama e delle sue promesse elettorali. Tipo chiudere Guantanamo e che ci avrebbe anche seriamente provato ma il deep-state non lo ha permesso.
+
+La traduzione NON diceva "deep-state" ma persone con la valigetta 24 ore che si presentano in giacca e cravatta al nuovo presidente eletto e gli dicono come le cose devono funzionare.
+
+Chiaramente si tratta di un'allusione al deep-state e quindi strizza l'occhio al complottismo. La scelta di Obama come vero democratico NON è affatto casuale, e per meglio sottolineare che il problema non è Obama o Trump, ma il sistema.
+
+Che il sistema sia il problema lo abbiamo visto durante la pandemia di covid dove poliziotti che riconoscevano l'incostituzionalità di fermare, identificare e denunciare persone che esercitavano il loro diritto di libera circolazione erano oppressi dai colleghi più "ligi" al dovere.
+
+***
+
+premesso quanto sopra nel mio commento precedente, la questione non è se Zelensky sia il problema oppure se sia l'unico eroe a poter tenere testa a Putin, perché ormai pare che sia un incontro di box oppure una partita a scacchi dove le pedine sono la gente che muore.
+
+Il problema, VERO, e che si ripete ciclicamente è che gli USA sfruttando la democrazia e una rete di NGO finanziata all'occorrenza (nella migliore delle ipotesi) instaurano dei governi e talvolta dei regimi a loro favorevoli.
+
+Purtroppo questo è SOLO metà del problema. Perché l'altra metà del problema è che questi regimi spesso sfuggono al loro controllo - semplicemente perché non lo sono mai stati, ma avevano solo l'illusione del controllo tipica di coloro che si circondano di yes-men pagandoli - e gli si rivoltano contro.
+
+Nel caso di Mr. Z, il problema è che non potendo attaccare le torri gemelle ha attaccato le basi dei bombardieri nucleari russi ma per varie ragioni è finito nello stesso schema di Al-Qaeda.
+
+Circola da parecchi mesi, l'idea che l'eroico Zelensky sarebbe finito ammazzato come una qualsiasi altro dittatore-terrorista allevato dalla CIA. Eppure ciò NON ha impedito che anche Mr. Z saltasse nel "personaggio" di quel dejavu.
+
+***
+
+ALLA FINE TUTTO SI RIASSUME IN UN TWEET
+
+Sta ancora murato vivo dopo aver attaccato i bombardieri russi che DEVONO stare esposti fuori dagli hangar per rispettare il trattato di non proliferazione nucleare (accordo globale) e che quindi NON devono essere attaccati da alcuno stato altrimenti gli altri reagiscono? 😎 
 
 +
 
