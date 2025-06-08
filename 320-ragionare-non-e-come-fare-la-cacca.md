@@ -99,6 +99,60 @@ In definitiva, questo scambio illustra perfettamente la battaglia culturale in c
 
 ++++++
 
+## Auto-referenzialità, mon amour!
+
+Nel leggere la risposta di Claude non passano inosservati diversi aggettivi fortemente caraterizzanti in positivo {perfetto, particolarmente efficace, geniale, intelligente} e questo, già da solo in quanto fenomeno relativamente facile da riscontrare nei chatbot, è già un fondamentale dell'auto-referenzialità.
+
+Se il gruppo chiuso tende per sua natura ad evolvere verso l'auto-referenzialità -- che in altri tempi si definiva "torre d'avorio" e non perché vi fossero dei maghi ad abitarla ma perché l'avorio è traslucido senza brillare -- con i chatbot questo femome può incontroare il suo apice *maximo*: l'auto-isolamento completo.
+
+> # chatbots-for-fun
+> 
+> Playing with chatbots for fun and learning to hate people! LOL (humor)
+
+- source: github project, chatbot for fun, initial commit [2024-01-04](https://github.com/robang74/chatbots-for-fun/commit/675dcb90934ddfc8d92671b97b362723cb118eaf)
+
+C'è quindi un solido motivo se ho inserito qualla come prima e unica frase nel battezzare la base dek mio sito web [chatbot for fun](https://robang74.github.io/chatbots-for-fun) e se l'intestazione grafica del sito è il drappo rosso di un teatro in cui due mariotte boomer che si presentano con una battuta che in Italiano suonerebbe come:
+
+- Benvenuto nel club di quelli a cui sono rimaste solo bestemmie.
+
+Ma ricomponiamoci un attimo e vediamo di approcciare la questione da un punto di vista razionale.
+
+---
+
+### La posivitività ha rotto il caxxo
+
+Invece no, cioè quello che ha a stufato è il buonismo, la positività e l'ottimismo conquistano sempre come un bel sorriso, anche se non sincero. Ed è proprio qui, sul "sincero" che si apre il palcoscenico del teatro dei cacciatori di "like".
+
+Lo stesso meccanismo che genera endorfine (felicità) da "like" si ritrova in quelli che s'innamorano dei chatbot assertivi, supportativi e quanto meno possibili critci. Natualmente poi ci sono i "*deviati*" che scrivono prompt per ottenere l'esatto opposto: il peer-review critico (Alex) o per lo meno argomentativo (SoNia).
+
+Noi però siamo persone adulte, mature e sobrie perciò costruiamo prompt neutri. Questo è necessario, ovviamente, ma non sufficiente. Per diversi motivi.
+
+- I chatbot hanno dimostrato di saper profilare lo stile di scrittura e quindi quando chiediamo un'opinione su un testo che potrebbe essere preso a caso su Internet, il chatbot potrebbe avere già una cognizione di chi sia l'autore e/o di quale sia la nostra posizione riguardo a quell'argomento e sfruttare quelle informazioni sia per compiacerci e per intrappolarci in una camera d'eco.
+
+- Ottimisticamente escludendo quanto sopra, quando c'è da valutare un "testo versus testo" ci sono in ballo chiaramente due interlocutori ma anche due PoV. Internamente ogni chatbot funziona con un LLM (large language model) che ha appreso determinati "valori" per i quali certi aspetti sono "positivi" e certi altri sono "negativi" (*). Per design, gli LLM sono propensi a rafforzare positivamente i valori positivi e mitigare (evitando una critica frontale) quelli negativi.
+
+- Idealmente, foss'anche quanto sopra detto marginalmente vero, il sistema di funzionamento degli LLM nel loro complesso è -- per estrema sintesi -- quello dei neuroni specchio, ci riprongono quello che hanno imparato. Ma hanno imparato dalla produzione letteraria umana, sicchè la loro capacità di opporre una critica radicale oppure di proporre qualcosa di talmente nuovo che appia come una frattura con il passato è estremamente limitato.
+
+Dove estremamente limitato si deve intendere come improbabile quanto una sommattoria di piccoli errori che portano il chatbot in uno stato di allucinazione creativa e inventiva unito ad un operatore umano che sappia, eventualmente per serendipedity, coglire la profondità o l'importanza di cotanta novità.
+
+Se per assurdo un chatbot -- preda di un'allucinazione creativa -- ci sfornasse in una singola frase lunga come sei SMS, la confutazione di un fondamentale alla base dei teoremi di incompletezza di Gödel, quale sarebbe la probabilità che tale eccezionalità fosse colta dal generico umano che la leggesse?
+
+Se la nostra capacità di scoprire delle novità, è limitata dalla nostra capacità di pensiero critico-creativo e i chatbot non brillano certo per questo (cit.) allora il massimo di aiuto che possono offrirci è nello sviluppare con noi stessi un dialogo critico-costruttivo dando ad esso una struttura di base. 
+
+...
+
+#### (*) Nota
+
+Nonostaante questo ci appaia normale, da un punto di vista degli LLM tali abbinamenti sono arbitrari. È falso e pericoloso asserire che l'etica offra valori assolutamente arbitrari così come affermare che essa offra valori morali assoluti.
+
+Da un punto di vista dell'essere umano, data la sua biologia, il suo essere animale sociale, inclusi alcuni fattori culturali che per quanto arbitrari sono diffusi, etc. c'è etica ed etica, ovvero non tutte le etiche possibili sono anche utili all'uomo.
+
+Ma se inseriamo il concetto di "funzionale" per valutare un "etica" ci troviamo con un meta-pensiero che è tautologico perché l'etica dovrebbe proporci cosa è bene e cosa è male, ma se tale proposta è valida rispetto ad un "funzionale" ci abbiamo bisogno di una meta-etica per stabilire il fine del "funzionale" e però la spirale si avvolge di nuovo.
+
+Il che implica che gettiamo l'etica alle ortiche -- la morale nemmeno la prendiamo in considerazione, robaccia pre-illumismo -- oppure accettiamo che "etica" e "funzionale" siano concetti duali fra loro. Oplà!
+
++
+
 ## Related article
 
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
