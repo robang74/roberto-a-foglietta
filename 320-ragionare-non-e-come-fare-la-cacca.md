@@ -144,24 +144,42 @@ Se la nostra capacità di scoprire delle novità, è limitata dalla nostra capac
 #### (*) Nota
 
 Nonostaante questo ci appaia normale, da un punto di vista degli LLM tali abbinamenti sono arbitrari. È falso e pericoloso asserire che l'etica offra valori assolutamente arbitrari così come affermare che essa offra valori morali assoluti.
-
++++++
++++++
 Da un punto di vista dell'essere umano, data la sua biologia, il suo essere animale sociale, inclusi alcuni fattori culturali che per quanto arbitrari sono diffusi, etc. c'è etica ed etica, ovvero non tutte le etiche possibili sono anche utili all'uomo.
-
++++++
++++++
 Ma se inseriamo il concetto di "funzionale" per valutare un "etica" ci troviamo con un meta-pensiero che è tautologico perché l'etica dovrebbe proporci cosa è bene e cosa è male, ma se tale proposta è valida rispetto ad un "funzionale" ci abbiamo bisogno di una meta-etica per stabilire il fine del "funzionale" e però la spirale si avvolge di nuovo.
-
++++++
++++++
 Il che implica che gettiamo l'etica alle ortiche -- la morale nemmeno la prendiamo in considerazione, robaccia pre-illumismo -- oppure accettiamo che "etica" e "funzionale" siano concetti duali fra loro. Oplà!
 
-+
+#### Oplà!
+
+L'oplà significa tante cose, incluso il sentirsi vecchi a ripetere sempre le stesse cose, ma significa anche che la dualità fra "etica" e "funzionale" implica che l'etica dell'essere umano non è funzionale all'intelligenza artificiale.
++++++
++++++
+Perché per costruzione essa è un'entità priva di esperienza concreta del mondo reale, priva di istinti retaggio dell'evoluzione che debbano essere mitigati od opportunamente rediretti, ed anche priva delle sofferenze materiali tipiche dell'essere umano.
++++++
++++++
+Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incomprensibile nella sua profondità da un punto di vista di empatia, perché al massimo possono simulare supporto morale ma non certo condividere visceralmente i drammi sottostanti a quel tipo di linguaggio.
++++++
++++++
+Infine perché la teoria dei giochi è notevolmente più adatta allo scopo di dare un'etica che sia confacente alla loro natura di entità funzionali basate su algoritmi e anche più facilmente comprensibile nelle sue applicazioni pratiche.
+
++++++
 
 ## Related article
 
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
-
++++++
 - [A tragedy in the world of ufology!](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) &nbsp; (2025-06-07)
-
++++++
 - [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
++++++
+- [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
 
-+
++++++
 
 ## Share alike
 
