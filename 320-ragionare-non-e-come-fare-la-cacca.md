@@ -49,11 +49,21 @@ La risposta creata da Claude è interessante sotto diversi punti di vista e quin
 
 Si noti che i chatbot sono capaci di identificare quelle che è umorismo da testi invece più letterali come significato. Una capacità inaspettata se pensiamo che l'umorismo è una dimensione in cui alcuni umani faticano a perceperie e gestire.
 
-Evidentemente però riconoscere l'umorismo come uno schema non è poi così impegnativo, non tanto quanto poi comprenderne tutte le sfumature, specialmente quelle meno razionali e più umane. Ma questo è spiegato in [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html).
+Evidentemente però riconoscere l'umorismo come uno schema non è poi così impegnativo, non tanto quanto poi comprenderne tutte le sfumature, specialmente quelle meno razionali e più umane.
 
----
+Il che ci porta a considerare [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html). Non tanto perché questo articolo affermi una grande novità o una profonda verità, piuttosto che non è necessaria un'intelligenza superiore per interagire con la massa. 
+
+Altrimenti, i programmi TV dagli anni 80 in poi non sarebbero mai andati in onda. Giusto per dire che la questione è molto precedente all'intelligenza artificiale e anche ai social netwroks, di cui già disse Umberto Eco, se non tutto, abbastanza.
+
+Il quale non era certo in errore, se pensiamo che 25 anni di ufologia con migliaia (o centinaia di migliaia) di appassionati connessi su scala globale non hanno saputo scoprire che [cerchi nel grano](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) sono il prodotto di un tecnica vecchia di almeno 10mila anni.
+
+Stante questi presupposti, direi che possiamo serenamente dare una chance anche ad un quartetto di chatbot per farci spiegare il meme dell'intestino qualora l'umorismo sulle mosche non fosse stato già sufficiente ad asfaltare il meme.
+
+----
 
 ### Claude 4: riassunto e integrazione
+
+[!CITE]
 
 Analizzando questo interessante caso di "meme vs contro-meme", vedo un perfetto esempio di come la comunicazione digitale possa distorcere concetti scientifici per creare narrazioni semplificate ma fuorvianti.
 
@@ -84,6 +94,18 @@ Il meme in questione è particolarmente insidioso perché non è completamente f
 Il commento dimostra come si possa combattere questa tendenza senza cadere nel tono professorale: usa l'ironia intelligente, mantiene il rigore scientifico ma rimane accessibile. La chiusa umoristica non è solo un modo per alleggerire, ma un esempio di come l'intelligenza critica possa essere più coinvolgente della pseudo-saggezza virale.
 
 In definitiva, questo scambio illustra perfettamente la battaglia culturale in corso tra il pensiero veloce (appealing ma superficiale) e il pensiero lento (faticoso ma solido). La posta in gioco non è solo la correttezza scientifica, ma la capacità collettiva di navigare un mondo sempre più complesso senza cadere nelle trappole cognitive che ci vengono quotidianamente tese.
+
+[/CITE]
+
+++++++
+
+## Related article
+
+- [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
+
+- [A tragedy in the world of ufology!](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) &nbsp; (2025-06-07)
+
+- [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
 
 +
 
