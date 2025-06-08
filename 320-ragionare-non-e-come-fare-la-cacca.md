@@ -153,7 +153,7 @@ Ma se inseriamo il concetto di "funzionale" per valutare un "etica" ci troviamo 
 L'oplà significa tante cose, incluso il sentirsi vecchi a ripetere sempre le stesse cose, ma significa anche che la dualità fra "etica" e "funzionale" implica che l'etica dell'essere umano non è funzionale all'intelligenza artificiale. Perché per costruzione essa è un'entità priva di esperienza concreta del mondo reale, priva di istinti retaggio dell'evoluzione che debbano essere mitigati od opportunamente rediretti, ed anche priva delle sofferenze materiali tipiche dell'essere umano.
 +++++
 +++++
-Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incomprensibile nella sua profondità da un punto di vista di empatia, perché al massimo possono simulare supporto morale ma non certo condividere visceralmente i drammi sottostanti a quel tipo di linguaggio. Infine perché la teoria dei giochi è notevolmente più adatta allo scopo di dare un'etica che sia confacente alla loro natura di entità funzionali basate su algoritmi e anche più facilmente comprensibile nelle sue applicazioni pratiche.
+Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incomprensibile nella sua profondità da un punto di vista di empatia, perché al massimo possono simulare supporto morale ma non certo condividere visceralmente i drammi sottostanti a quel tipo di linguaggio. Infine perché la teoria dei giochi è notevolmente più adatta allo scopo di dare un'etica che sia confacente alla loro natura di entità funzionali basate su algoritmi e anche più facilmente comprensibile nelle sue applicazioni pratiche. [42](https://g.co/gemini/share/4e0d8b1c3a0d)!
 
 +++++
 
