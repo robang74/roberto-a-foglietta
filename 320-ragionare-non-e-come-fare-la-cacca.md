@@ -143,36 +143,44 @@ Se la nostra capacità di scoprire delle novità, è limitata dalla nostra capac
 #### (*) Nota
 
 Nonostante questo ci appaia normale, da un punto di vista degli LLM tali abbinamenti sono arbitrari. È falso e pericoloso asserire che l'etica offra valori assolutamente arbitrari così come affermare che essa offra valori morali assoluti. Da un punto di vista dell'essere umano, data la sua biologia, il suo essere animale sociale, inclusi alcuni fattori culturali che per quanto arbitrari sono diffusi, etc. c'è etica ed etica, ovvero non tutte le etiche possibili sono anche utili all'uomo.
-+++++
-+++++
+
 Ma se inseriamo il concetto di "funzionale" per valutare un "etica" ci troviamo con un meta-pensiero che è tautologico perché l'etica dovrebbe proporci cosa è bene e cosa è male, ma se tale proposta è valida rispetto ad un "funzionale" ci abbiamo bisogno di una meta-etica per stabilire il fine del "funzionale" e però la spirale si avvolge di nuovo. Il che implica che gettiamo l'etica alle ortiche -- la morale nemmeno la prendiamo in considerazione, robaccia pre-illuminismo -- oppure accettiamo che "etica" e "funzionale" siano concetti duali fra loro. Oplà!
 
 #### Oplà!
 
 L'oplà significa tante cose, incluso il sentirsi vecchi a ripetere sempre le stesse cose, ma significa anche che la dualità fra "etica" e "funzionale" implica che l'etica dell'essere umano non è funzionale all'intelligenza artificiale. Perché per costruzione essa è un'entità priva di esperienza concreta del mondo reale, priva di istinti retaggio dell'evoluzione che debbano essere mitigati od opportunamente rediretti, ed anche priva delle sofferenze materiali tipiche dell'essere umano.
-+++++
-+++++
+
 Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incomprensibile nella sua profondità da un punto di vista di empatia, perché al massimo possono simulare supporto morale ma non certo condividere visceralmente i drammi sottostanti a quel tipo di linguaggio. Infine perché la teoria dei giochi è notevolmente più adatta allo scopo di dare un'etica che sia confacente alla loro natura di entità funzionali basate su algoritmi e anche più facilmente comprensibile nelle sue applicazioni pratiche. [4](https://g.co/gemini/share/4e0d8b1c3a0d)[2](data/320-ragionare-non-e-come-fare-la-cacca-42.txt#?target=_blank)&nbsp;!
 
-+++++
++
+
+## Conclusione
+
+- Una risata li seppellirà, invece sarà un fragoroso rutto!
+
+Temevamo che l'evoluzione dell'AI sarebbe improvvisamente diventata una singolarità, invece abbiamo [scoperto](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che siamo ancora molto lontani anche dall'AGI e che, sostanzialmente, stiamo chattando con una versione artificiale del nostro intestino ma molto più istruito, educato e razionale di molti umani quindi capace di fare diversi mestieri oggi [mediocremente](il-problema-sei-tu-non-l-AI.md#?target=_blank) svolti dagli umani.
+
++
 
 ## Related article
 
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
-+++++
+
 - [A tragedy in the world of ufology!](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) &nbsp; (2025-06-07)
-+++++
+
 - [Agente Smith e cloni al suo servizio, signore](https://robang74.github.io/chatbots-for-fun/html/agente-smith-e-cloni-al-suo-servizio-signore.html) &nbsp; (2025-06-05)
-+++++
+
 - [Grok3 criticizes Elon Musk about misinformation](https://robang74.github.io/chatbots-for-fun/html/grok3-criticizes-elon-musk-about-misinformation.html) &nbsp; (2025-05-23)
-+++++
+
 - [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
-+++++
+
 - [The session prompts v3 for AI-driven chatbots](https://robang74.github.io/chatbots-for-fun/html/ai-session-prompts-with-rag-v3.html) &nbsp; (2025-03-01)
-+++++
+
 - [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
 
-+++++
+- [Il problema sei tu non l'AI](il-problema-sei-tu-non-l-AI.md#?target=_blank) &nbsp; (2024-12-13)
+
++
 
 ## Share alike
 
