@@ -399,6 +399,30 @@ Foreign Minister Rubio made it clear that the US wants to see a justification "f
 
 Now, of course, nothing happens by chance in the international big stage, and the fact that after three years of war and hundreds of billions of sunk and burned taxes in this corruption, a whole company of accountants from the USA is now landing in Kiev, of course, is no coincidence either.
 
+---
+
+0 - lnkd.in/dNs8zAEk - la guerra contro l'Ucraina è stata pianificata fin dal 1992, in questo lasso temporale, la macchina bellica USA è costata circa $33T di debito pubblico (quasi tutto per intero).
+
+
+
+1. - https://lnkd.in/dMrZac9F - si profila a breve (2026) una tempesta perfetta, che porterà al default USA, non solo pubblico ma anche privato ($103T entrambi), mentre si stima che le esposizioni "future" siano quasi l'800% dell'attuale GDP.
+
+
+
+2 - lnkd.in/djDq4tja - riguardo al riciclaggio di denaro che fa tanto gola ai politici in particolare i DEM americani e i pro-war europei. Un risultato ottenuto da Trump accogliendo la loro richiesta di innalzare al 5% GDP la spesa militare.
+
+
+
+3. - lnkd.in/dmpFQ3TR - quindi presto scoppierà un casino totale globale (salvo conflitto nucleare) e comunque vada la "soluzione" proposta dall'Europa è militarizzare la società civile.
+
+
+
+Sicché quando mi hanno chiesto come risolvere il "problema", non mi sono fatto scrupolo di indicare l'opzione nucleare che, in effetti, anche gli americani non escludono.
+
+
+
+Più trasparenti di così si muore, letteralmente!
+
 +
 
 ## Share alike
