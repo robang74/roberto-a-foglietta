@@ -162,7 +162,7 @@ Gli allarmisti temevano che l'evoluzione dell'AI sarebbe improvvisamente diventa
 
 - [L'opinione di Gemini](https://g.co/gemini/share/8174298b52cd) sull'intelligenza intestinale artificiale
 
-In questa analogia, il cibo da digere attraverso l'AI è l'umana conoscenza enciclopedica e la nostra cultura, mentre la risposta finale sarà cagata fuori su richiesta! {lol}
+In questa analogia, il cibo da digerire attraverso l'AI è l'umana conoscenza enciclopedica e la nostra cultura, mentre la risposta finale sarà cagata fuori su richiesta! {lol}
 
 +
 
