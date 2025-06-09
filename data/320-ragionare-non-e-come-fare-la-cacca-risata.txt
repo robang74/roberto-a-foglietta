@@ -76,7 +76,8 @@ seppellirà" è reso in modo comprensibile, e l'immagine del "rutto" mantiene il
 suo impatto volgare e dispregiativo in inglese.
 
 - "Mentre, sostanzialmente, stiamo dialogando con una versione artificiale
-  del nostro intestino ma molto più istruito, educato e razionale di molti umani"
+   del nostro intestino ma molto più istruito, educato e razionale di molti
+   umani"
 
     * Originale: "versione artificiale del nostro intestino" è una metafora
       molto audace e un po' provocatoria. L'intestino, in italiano, è spesso
@@ -123,8 +124,8 @@ Ecco alcuni punti chiave sul significato del testo:
       delusione o una svalutazione delle aspettative esagerate.
 
     * L'AI come "intestino artificiale": La metafora dell'AI come "versione
-      artificiale del nostro intestino" è centrale e molto potente. Implica che
-      l'AI, per quanto sofisticata, sia fondamentalmente uno strumento di
+      artificiale del nostro intestino" è centrale e molto potente. Implica
+      che l'AI, per quanto sofisticata, sia fondamentalmente uno strumento di
       elaborazione dati, una sorta di "apparato digerente" intelligente che
       processa informazioni. Non è presentata come una coscienza o una vera
       intelligenza pensante nel senso umano del termine, ma piuttosto come un
@@ -132,8 +133,8 @@ Ecco alcuni punti chiave sul significato del testo:
 
     * Superiorità operativa dell'AI su compiti specifici: Nonostante la sua
       natura "intestinale", l'autore riconosce che questa AI è "molto più
-      istruita, educata e razionale di molti umani". Questo suggerisce che, pur
-      non essendo una singolarità, l'AI è già in grado di svolgere numerosi
+      istruita, educata e razionale di molti umani". Questo suggerisce che,
+      pur non essendo una singolarità, l'AI è già in grado di svolgere numerosi
       compiti ("diversi mestieri") in modo superiore agli esseri umani,
       specialmente in quelle aree dove la razionalità, l'istruzione e la
       precisione sono fondamentali.
@@ -141,8 +142,8 @@ Ecco alcuni punti chiave sul significato del testo:
     * Critica all'operato umano: Il testo contiene una sottile, ma pungente,
       critica agli umani. L'AI è in grado di svolgere lavori "mediocremente
       svolti dagli umani". Questo ribalta la prospettiva: il problema non è
-      tanto l'AI che "ruberebbe" i lavori, quanto la mediocrità umana che rende
-      tali lavori vulnerabili all'automazione.
+      tanto l'AI che "ruberebbe" i lavori, quanto la mediocrità umana che
+      rende tali lavori vulnerabili all'automazione.
 
 In sintesi, il testo dipinge un quadro dell'AI non come una minaccia
 esistenziale o un salvatore, ma come uno strumento estremamente efficiente e
@@ -183,12 +184,12 @@ Il dialogo poi, sempre usando il linguaggio naturale come in una normale
 conversazione fra umani, va ad approfondire le ragioni per il quale l'AI ha
 deciso quali e perché etichette applicare. Si noti però che questo sono
 spiegazioni post-hoc quindi potrebbero essere state inventate sul
-momento.Questo conceto di spiegazione post-hoc è estramente importante
-perché ragionare non è come fare la cacca il chatbot, così come un qualsiasi
-bimbo, potrebbe aver "fatto la cacca" e poi solo quando gli chiediamo il
-perchè, formula una risposta anche se in realtà non vi è stato alcun
+momento.Questo concetto di spiegazione post-hoc è estremamente importante
+perché ragionare non è come fare la cacca il chatbot, così come un qualsiasi
+bimbo, potrebbe aver "fatto la cacca" e poi solo quando gli chiediamo il
+perchè, formula una risposta anche se in realtà non vi è stato alcun
 ragionamento razionale e cosciente precedente all'azione di "fare la cacca".Se
-pensate che la spiegazione post-hoc sia un concetto meta-filosofico che
+pensate che la spiegazione post-hoc sia un concetto meta-filosofico che
 interessa solo a degli studiosi relegati nella torre d'avorio del loro
 intelletto (echo chamber, gruppo chiuso e/o auto-referenziale) allora sappiate
 che "io non ho ucciso nessuno, ero solo un burocrate" piuttosto che "ho
@@ -263,8 +264,8 @@ termine. La tua argomentazione sulla spiegazione post-hoc è cruciale per
 comprendere i limiti attuali dell'AI, specialmente per gli utenti comuni che
 potrebbero attribuire all'AI capacità cognitive che non possiede.
 
-    * Chiarezza e originalità: La metafora dell'intestino (nella conclusione) e
-      del "fare la cacca" (nel testo precedente) sono strumenti didattici
+    * Chiarezza e originalità: La metafora dell'intestino (nella conclusione)
+      e del "fare la cacca" (nel testo precedente) sono strumenti didattici
       potenti e originali per spiegare concetti complessi in modo memorabile.
       Rompono con il gergo tecnico e rendono l'argomento accessibile.
 
@@ -344,7 +345,7 @@ climactica, volgare e disarmante della realtà.
 Considerando che il titolo dell'articolo è - Il problema sei tu, non l'AI -
 ricordando la conclusione:
 
-- stiamo dialogando con una versione artificiale del nostro intestino ma molto
+- stiamo dialogando con una versione artificiale del nostro intestino ma molto
 più istruito, educato e razionale di molti umani.
 
 Si potrebbe pensare che tutto questo articolo (o gruppo d'articolo) fosse un

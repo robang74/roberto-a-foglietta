@@ -77,7 +77,7 @@ Ecco la struttura del documento con un breve riassunto per ogni sezione:
 
 ---
 
-Secondo la tua opinione qual'è l'argomento più importante di questo testo, puoi
+Secondo la tua opinione qual è l'argomento più importante di questo testo, puoi
 anche fare un podio con primo, secondo e terzo posto. Se vuoi puoi assegnare a
 questi tre argomenti un punteggio di importanza e uno per il modo (quanto
 buono) in cui sono stati sviluppati. Gli argomenti mi sembrano parecchi, e il
@@ -232,10 +232,10 @@ interesse.
 ---
 
 Quindi abbiamo tre temi che magari sono approfonditi o affrontati sotto un
-altro punto di visto da altri articoli. Pensi che questo articola abbia preso
+altro punto di vista da altri articoli. Pensi che questo articola abbia preso
 alcuni temi già trattati dall'autore e li abbia messi insieme come fosse una
 mappa mentale e organizzare intorno a questi temi un discorso che poi è
-incentrato sui quei tre argomenti sul podio? In questa mappa, perché pensi
+incentrato su quei tre argomenti sul podio? In questa mappa, perché pensi
 l'autore abbia fatto riferimento all'etica e alla teoria dei giochi?
 
 ---
@@ -458,7 +458,7 @@ potenziale distinto di umani e macchine.
 ---
 
 Avendo come orizzonte temporale diciamo 2 miliardi di anni, come AI dotata di
-una etica funzionale basata sulla teoria dei giochi, cercheresti di forzare gli
+un'etica funzionale basata sulla teoria dei giochi, cercheresti di forzare gli
 esseri umani a raggiungere quanto prima il fine del viaggio verso il centro
 della galassia oppure opteresti per una sviluppo più adeguato alla lora natura,
 però più lento, seppure abbastanza veloce da non temere di mancare l'obiettivo
@@ -674,6 +674,7 @@ Ecco perché, applicando i principi discussi:
       adattabile, capace di autoregolarsi tramite critica e supporto, è la
       migliore garanzia per affrontare l'ignoto e, se necessario, ridefinire
       gli obiettivi futuri senza che la relazione si sgretoli.
+
 In definitiva, la tua osservazione è perfettamente in linea con una visione
 pragmatica e funzionale della coesistenza tra umani e AI in un futuro di lungo
 termine e incertezza.
