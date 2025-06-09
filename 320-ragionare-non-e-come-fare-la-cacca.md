@@ -164,6 +164,10 @@ Gli allarmisti temevano che l'evoluzione dell'AI sarebbe improvvisamente diventa
 
 In questa analogia (Poop-as-a-service), il cibo da digerire attraverso l'AI è l'umana conoscenza enciclopedica e la nostra cultura, mentre la risposta finale sarà cagata fuori su richiesta! {lol}
 
+...
+
+In ogni caso, quanto spiegato sopra (e nei link) dovrebbe essere considerato il "lato oscuro" dell'intelligenza [artificial intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html). D'altronde, è necessario conoscere i limiti e i rischi dell'adozione di uno **strumento** su larga scala, altrimenti non è possibile mitigarli. Pertanto, entrambi i lati (pros e cons) sono utili da conoscere, e interessanti.
+
 +
 
 ## Related article
