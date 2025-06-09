@@ -374,6 +374,31 @@ Anche oggi, sarà domani che lo vedremo in carne e ossa. Se pensiamo che in ques
 
 https://x.com/Mylovanov/status/1931050675825439053
 
+---
+
+THE PERFECT STORM
+
+Are you hearing the tic-toc from the doomsday clock?
+
+What is the best idea they had? Militarize the society!
+
+Wonderful idea. So, we can all die but in good order... 
+
+[image1] [image2]
+
+---
+
+### Money laundering reached its game over in Ukraine.
+
+https://www.linkedin.com/posts/p1st_korruption-rechenschaft-ukraine-activity-7337888850532327424-CZ0l
+
+Nearly 100 accountants in suits and ties landed in Kiev to begin a large-scale audit -- an audit -- of the use of American aid.
+And that this is not a courtesy visit is shown by the fact that the American State Department and the Treasury have booked the rooms in a Kiev luxury hotel for a whole month!
+
+Foreign Minister Rubio made it clear that the US wants to see a justification "for every cent that we have transferred from taxpayers' money", and it is of course only pure coincidence that exactly yesterday at the Romanian border the first member of the kleptocrat class who wanted to leave Kleptocratistan for Europe was arrested.
+
+Now, of course, nothing happens by chance in the international big stage, and the fact that after three years of war and hundreds of billions of sunk and burned taxes in this corruption, a whole company of accountants from the USA is now landing in Kiev, of course, is no coincidence either.
+
 +
 
 ## Share alike
