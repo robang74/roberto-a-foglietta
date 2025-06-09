@@ -11,7 +11,7 @@ Questo meme suggerisce che la nostra pancia possa ragionare facendo confusione f
 
 Il nostro sistema digerente è estremamente complesso, anche perché contiene un ecosistema batterico a sé stante, e quindi serve una rete neurale (SNE) per gestirlo. Non come il cuore che pure nella sua ammirevole architettura è solo una pompa per il quale bastano dei nervi a controllarlo.
 
-Sicché, anche oggi, affrontiamo un episodio di psychological warfare nell'abito dei social media. Quella che la NATO ha definito "[virtual manipulation](https://stratcomcoe.org/publications/virtual-manipulation-brief-2025-from-war-and-fear-to-confusion-and-uncertainty/320)" (manipolazione virtuale) mentre Oxford, più correttamente, l'ha definita "[brain rotting](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024)" (cervello che marcisce).
+Sicché, anche oggi, affrontiamo un episodio di psychological warfare nell'abito dei social media. Quella che la NATO ha definito "[virtual manipulation](https://stratcomcoe.org/publications/virtual-manipulation-brief-2025-from-war-and-fear-to-confusion-and-uncertainty/320)" (manipolazione virtuale, 2025-06-02, ISBN 978-9934-619-43-4) mentre Oxford, più correttamente, l'ha definita "[brain rotting](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024)" (cervello che marcisce, 2024-12-02).
 
 In effetti, anche se la nostra pancia fosse capace di suggerire decisioni, esse sarebbero limitate al "qui e ora" o "fight or flight". Quindi intrinsecamente prive di qualsiasi visione a lungo termine e tanto meno di quella strategica in termini di catena delle conseguenze.
 
@@ -106,16 +106,15 @@ Nel leggere la risposta di Claude non passano inosservati diversi aggettivi fort
 Se il gruppo chiuso tende per sua natura ad evolvere verso l'auto-referenzialità -- che in altri tempi si definiva "torre d'avorio" e non perché vi fossero dei maghi ad abitarla ma perché l'avorio è traslucido senza brillare -- con i chatbot questo fenomeno può incontrare il suo apice *maximo*: l'auto-isolamento completo.
 
 > # chatbots-for-fun
-> 
 > Playing with chatbots for fun and learning to hate people! LOL (humor)
 
 - source: github project, chatbot for fun, initial commit [2024-01-04](https://github.com/robang74/chatbots-for-fun/commit/675dcb90934ddfc8d92671b97b362723cb118eaf)
 
 C'è quindi un solido motivo se ho inserito quella come prima e unica frase nel battezzare la base del mio sito web [chatbot for fun](https://robang74.github.io/chatbots-for-fun) e se l'intestazione grafica del sito è il drappo rosso di un teatro in cui due mariotte boomer che si presentano con una battuta che in Italiano suonerebbe come:
 
-- Benvenuto nel club di quelli a cui sono rimaste solo bestemmie.
+- Benvenuto nel club di coloro a cui sono rimaste solo bestemmie.
 
-Ma ricomponiamoci un attimo e vediamo di approcciare la questione da un punto di vista razionale.
+Ma ricomponiamoci un attimo e vediamo di approcciare la questione da un punto di vista più razionale.
 
 ---
 
