@@ -401,27 +401,23 @@ Now, of course, nothing happens by chance in the international big stage, and th
 
 ---
 
-0 - lnkd.in/dNs8zAEk - la guerra contro l'Ucraina è stata pianificata fin dal 1992, in questo lasso temporale, la macchina bellica USA è costata circa $33T di debito pubblico (quasi tutto per intero).
+UKRAINE MONEY LAUNDERING IS DOOMED, ARE WE ALSO?
 
+More transparent than this, we literally die! Let me explain.
 
+0 - lnkd.in/dNs8zAEk - the war against Ukraine has been planned since 1992, in this period of time, the US war machine has cost about $33T of public debt (almost all of it in full, spoiler #3 in its comments).
 
-1. - https://lnkd.in/dMrZac9F - si profila a breve (2026) una tempesta perfetta, che porterà al default USA, non solo pubblico ma anche privato ($103T entrambi), mentre si stima che le esposizioni "future" siano quasi l'800% dell'attuale GDP.
+1. - lnkd.in/dMrZac9F - a perfect storm is looming soon (2026), which will lead to a US default, not only public but also private ($103T both), 
 
+2. - lnkd.in/dYRSgpuT - while it is estimated that "future" exposures are near to 800% of the current GDP.
 
+3 - lnkd.in/djDq4tja - regarding money laundering that is so tempting to politicians, especially the American DEMs and the European pro-war ones. 
 
-2 - lnkd.in/djDq4tja - riguardo al riciclaggio di denaro che fa tanto gola ai politici in particolare i DEM americani e i pro-war europei. Un risultato ottenuto da Trump accogliendo la loro richiesta di innalzare al 5% GDP la spesa militare.
+4 - lnkd.in/dxArx4ti - a result obtained by Trump accepting their request to raise military spending to 5% of GDP (who asked who, might vary).
 
+5. - lnkd.in/dmpFQ3TR - so soon a total global mess will break out (except nuclear conflict) and in any case the "solution" proposed by Europe is to militarize civil society.
 
-
-3. - lnkd.in/dmpFQ3TR - quindi presto scoppierà un casino totale globale (salvo conflitto nucleare) e comunque vada la "soluzione" proposta dall'Europa è militarizzare la società civile.
-
-
-
-Sicché quando mi hanno chiesto come risolvere il "problema", non mi sono fatto scrupolo di indicare l'opzione nucleare che, in effetti, anche gli americani non escludono.
-
-
-
-Più trasparenti di così si muore, letteralmente!
+So, how to solve the "problem", indicating a nuclear strike, is an option that even the Americans do not exclude.
 
 +
 
