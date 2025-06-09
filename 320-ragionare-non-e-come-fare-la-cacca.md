@@ -158,7 +158,7 @@ Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incompren
 
 - Una risata li seppellirà, invece sarà un fragoroso rutto!
 
-Temevamo che l'evoluzione dell'AI sarebbe improvvisamente diventata una singolarità, invece abbiamo [scoperto](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che siamo ancora molto lontani anche dall'AGI e che, sostanzialmente, stiamo dialogando con una versione artificiale del nostro intestino ma molto più istruito, educato e razionale di molti umani quindi capace di fare diversi mestieri oggi [mediocremente](il-problema-sei-tu-non-l-AI.md#?target=_blank) svolti dagli umani.
+Gli allarmisti temevano che l'evoluzione dell'AI sarebbe improvvisamente diventata una singolarità, invece abbiamo [scoperto](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che siamo ancora molto lontani anche dall'AGI. Mentre, sostanzialmente, stiamo dialogando con una versione artificiale del nostro intestino ma molto più istruito, educato e razionale di molti umani quindi capace di fare diversi mestieri oggi [mediocremente](il-problema-sei-tu-non-l-AI.md#?target=_blank) svolti dagli umani.
 
 +
 
