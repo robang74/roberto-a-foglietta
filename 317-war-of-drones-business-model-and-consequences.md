@@ -419,6 +419,33 @@ More transparent than this, we literally die! Let me explain.
 
 So, how to solve the "problem", indicating a nuclear strike, is an option that even the Americans do not exclude.
 
+***
+
+
+UN PO' DI SELEZIONE NATURALE, INEVITABILE
+
+Con l'adozione in massa degli AI nei dispositivi mobili certi problemi andranno ad acuirsi però altri andranno a risolversi (migliore educazione, più veloce apprendimento, indipendenza dai programmi scolastici).
+
+Indubbiamente la tecnologia cambia il mondo, quindi cambia l'ambiente e il modo con cui ci rapportiamo con esso. Questo crea, inevitabilmente, una pressione evolutiva, sotto la quale alcuni individui cedono.
+
+Società e civiltà, sono i mezzi che usiamo per evitare di confrontarci con la brutale realtà, ed emanciparci da essa. Eppure, nonostante tutti gli sforzi collettivi NON siamo in grado di ignorare la realtà, così come non siamo capaci di ELIMINARE del tutto la selezione naturale.
+
+La ragione è abbastanza tautologica oppure da un punto di vista sistemico, integrata nel modello stesso che adoperiamo per emanciparci dalla realtà, tipo usando la tecnologia, oppure crearci delle reti sociali di amicizie, gruppi, etc.
+
+Senza sorpresa, quando facciamo ciò incontriamo due limiti: 1. cambiamo l'ambiente; 2. emanciparsi va bene ma alienarsi dalla realtà non va bene, però dov'è il confine? Perciò è inevitabile, che alcuni si spingano "oltre".
+
+---
+
+LA TRAGEDIA DI CONFONDERE IL MEZZO CON IL FINE
+
+Che poi è anche il rapporto che vige fra "obbedire agli ordini" e la "disciplina". All'inizio obbedire agli ordini e aderire alle regole in modo fermo è necessario -- forse, ma comunque un modo universalmente usato -- per imparare la disciplina.
+
+Dopo però imparata, obbedire agli ordini dovrebbe diventare superfluo perché nel mentre si è anche divenuti abbastanza maturi da non aver bisogno di quel tipo di controllo da parte di altri. Invece, si crea un circolo vizioso nel quale lo STRUMENTO diventa il fine, invece di essere il mezzo per un obbiettivo più elevato.
+
+In questo banale esempio e nel suo perverso rapporto, possiamo cogliere nella sua profondità la follia del militarismo. D'altre era noto che gli Spartani fossero dei grandiosi eroi e dei fieri guerrieri ma se fosse stato per loro non avremmo mai avuto arte, poesia, letteratura e probabilmente nemmeno la scienza come attività intellettuale.
+
+Morale: stupidity kills.
+
 +
 
 ## Share alike
