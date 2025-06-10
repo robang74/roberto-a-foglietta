@@ -9,7 +9,7 @@ This article is written starting from posts published on Linkedin within the pre
 
 - [post #5](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
 
-- **2nd edition** includes the "Conclusion" section. Follow the white rabbit up to the end.
+- **2nd edition** includes the "Conclusions" section. Follow the white rabbit up to the end.
 
 ---
 
@@ -81,7 +81,7 @@ The above linked are articles about serious topics and their combination let be 
 
 +++++
 
-## Conclusion
+## Conclusions
 
 How did the war enter our minds and what war is being fought for the control of our minds? These are not two trivial questions. While the WW3 (nuclear war) started to be planned in 1992 after the Soviet Union fall ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), and later diverted against Russia.
 
@@ -99,9 +99,9 @@ Under this PoV, the Moon landing on July 20th, 1969 is probably the last **grant
 
 If we achieved **that**, hence "impossible is nothing" (cit.) starting the drift from the social-civilisation and science-engineer mastering emancipation from reality path to the alienation from reality, which is the most adherent and concise definition of madness.
 
-Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](data/321-wwz-simply-explained-for-dummies-conspiracy.txt#?target=_blank)), the text has been accepted as well-grounded explanation, entirely. 
+...
 
-- Preparation (on a topic), is a kind of magic! {;-)}
+Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](data/321-wwz-simply-explained-for-dummies-conspiracy.txt#?target=_blank)), the text has been accepted as well-grounded explanation, entirely.
 
 +++++
 
