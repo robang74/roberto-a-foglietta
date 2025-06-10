@@ -99,7 +99,7 @@ Under this PoV, the Moon landing on July 20th, 1969 is probably the last **grant
 
 If we achieved **that**, hence "impossible is nothing" (cit.) starting the drift from the social-civilisation and science-engineer mastering emancipation from reality path to the alienation from reality, which is the most adherent and concise definition of madness.
 
-Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](not-yet#?target=_blank)), the text has been accepted as well-grounded explanation, entirely. 
+Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](data/321-wwz-simply-explained-for-dummies-conspiracy.txt#?target=_blank)), the text has been accepted as well-grounded explanation, entirely. 
 
 - Preparation (on a topic), is a kind of magic! {;-)}
 
