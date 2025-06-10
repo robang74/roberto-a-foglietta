@@ -530,6 +530,12 @@ Q2/2025 -  State Department and Treasury, Rubio's demand for justification of ev
 
 Q2/2025 - The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
 
+THE DRAGHI'S QE STARTED THE BCE INFLATIONARY POLICY ERA
+
+HO -- So it's better to use the term "inflationary policy" from this point of view, and Draghi's QE just kicked off the season of this kind of expansionary monetary policy by the ECB, right?
+
+AI -- Absolutely. The term "inflationary policy" (or more precisely, expansionary monetary policy with potential inflationary effects) is much more appropriate to describe the general behavior of the ECB since 2015.
+
 +
 
 ## Share alike
