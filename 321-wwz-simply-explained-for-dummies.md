@@ -79,21 +79,31 @@ or, longer in Italian (auto-translation available in the topbar)
 
 The above linked are articles about serious topics and their combination let be AI seen as Poop-as-a-Service suggests, not just an analogy but also internal functioning. After all, we need to know the limits and the risks of adopting a **tool** on a large scale, otherwise we cannot mitigate them.
 
-+
++++++
 
-### Conclusion
+## Conclusion
 
 How did the war enter our minds and what war is being fought for the control of our minds? These are not two trivial questions. While the WW3 (nuclear war) started to be planned in 1992 after the Soviet Union fall ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), and later diverted against Russia.
 
 Diverted against Russia since 2007, in the hope to cancel the American public debt, which will default in 2026 ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), point #1). Instead, the WWZ (zombi war) has been planned since 1969, in response to the social turn that the Western world shown had taking in 1968.
 
+...
+
 This last claim will be augmented in a future article. Hint: [Brettonwood system](https://en.wikipedia.org/wiki/Bretton_Woods_system)'s agreement end, 1971. Which started the era of the USD as legal currency backed-up with oil as commodity (aka Petrol-Dollar agreement) which ended on the first day of G7 in Puglia (Italy, Q2/2024).
 
 That day, the USD became a pure fiat-currency without any real-world collateral. [The paper money is financial communism](278-the-paper-money-is-financial-communism.#?target=_blank), closed the circle and re-implemented Communism in its worst traits, only.
 
-Therefore and by now, **everything** is not only false but also **totally virtual**, like in the Matrix.
+- Therefore and by now, **everything** is not only false but also **totally virtual**, like in the Matrix.
 
-+
+Under this PoV, the Moon landing on July 20th, 1969 is probably the last **granted** factual news that we, as Western people, received from the media. And much probably the first one that has been leveraged to manipulate the public opinion.
+
+If we achieved **that**, hence "impossible is nothing" (cit.) starting the drift from the social-civilisation and science-engineer mastering emancipation from reality path to the alienation from reality, which is the most adherent and concise definition of madness.
+
+Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](not-yet#?target=_blank)), the text has been accepted as well-grounded explanation, entirely. 
+
+- Preparation (on a topic), is a kind of magic! {;-)}
+
++++++
 
 ## Share alike
 
