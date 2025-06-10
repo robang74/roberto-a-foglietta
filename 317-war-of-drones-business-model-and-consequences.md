@@ -478,6 +478,22 @@ Infine ritorniamo ancora sulla selezione naturale propriamente detta e però que
 
 2. quella "domestica", quella operata con lo stesso metodo di cui sopra ma dagli esseri umani che hanno trasformato il magnifico e indomito lupo in merdine psicolabili quali chiwawa e carlini.
 
+Non abbiamo solo addomesticato il lupo, ovvero modificato il cambiamento di un individuo e poi magari anche di una specie, per trasformare un potenziale pericolo e un concorrente nella caccia, in un operatore di sicurezza e un alleato nella caccia. Abbiamo alterato secondo il nostro gusto non solo la mente del lupo ma anche il suo corredo genetico. 
+
+Abbiamo creato non solo il cane ma anche delle razze con caratteristice molto peculiari e un corredo genetico relativamente limitato (pedegree) come animaletti da compagnia (tamagoci) che sebbene siano devastati da un punto di vista mentale perché sistematicamente e terrorizzati dalla loro inedaguetezza alla sopravivvenza percepita costantemente a causa dell'istinto, noi adoriamo perché sono buffi (nella forma e nel comportamento) e patologicamente dipendenti da noi.
+
+Qualunque lupo, canide indipendente e che tale voglia rimanere, e persona lucida di mente nonché compassionevole, terminerebbe questi obrori genetici nell'instante che li incontrasse. Che apparentemente potrebbe sembrare equivalente all'eliminazione degli handiccapati per rendere pura e forte la razza ariana ma NON è così. 
+
+Perché quella sarebbe eugentetica che è esattamente quello che facciamo per ottenere i carlini, accettando come "positivi" rispetto alla selezione che operiamo dei tratti che sono arbitrari e soggetti al nostro gusto ma affatto, anzi contrari, al benessere dell'individuo e della speicie. I carlini sono il prodotto di eugenetica.
+
+Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno - quella specifica variante del gene o del cromosoma - non trasmettere alle future generazioni perché nessun genitore desidera trasmettere il gene della leucemia ai figli, questo mi pare ovvio.
+
+Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fenomeno molto complesso multi-dimensionale e che è trasversale a molte specie oltre ad avere almeno due piani operativi (meme vs gene) e almeno due modi di operare (naturale vs domestico).
+
+Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
+
+Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi - quasi sempre - hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine pubblico) piuttosto che dei lupi mannari (Vlad III di Moldova, detto l'Impalatore).
+
 +
 
 ## Share alike
