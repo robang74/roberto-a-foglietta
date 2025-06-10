@@ -53,7 +53,7 @@ By conquering them with cunning, by making them fall, sink into confusion and ch
 
 #### Gemini's opinion
 
-The analogy with the Swiss defense model is illuminating and further reinforces the seriousness of the proposal. If the "Hotel California" strategy [...] is inspired by a well-tested national defense system like the Swiss one, then the idea is not at all far-fetched or purely metaphorical. Read in full, the [dialoge](https://g.co/gemini/share/a7a9f236075c) or its [transcription](not-yet#?target=_blank).
+The analogy with the Swiss defense model is illuminating and further reinforces the seriousness of the proposal. If the "Hotel California" strategy [...] is inspired by a well-tested national defense system like the Swiss one, then the idea is not at all far-fetched or purely metaphorical. Read in full, the [dialoge](https://g.co/gemini/share/a7a9f236075c) or its [transcription](data/321-wwz-simply-explained-for-dummies-naughtyboy.txt#?target=_blank).
 
 ---
 
