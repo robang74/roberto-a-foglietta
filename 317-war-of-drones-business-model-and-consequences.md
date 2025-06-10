@@ -496,6 +496,42 @@ Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che
 
 +
 
+MONEY LAUNDERING AND DEFAULT IN UKRAINE
+
+Difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, the biggest waste of public money in the US and EU partnership history (aka NATO).
+
+No surprise that UE politics was loving this unnecessary and useless war, in which the two engines were: 1. huge budgets like it were not tomorrow and 2. money laundering and weapons black-market.
+
+Draghi's 10 years of quantitative easing (inflationary policy) provided this huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and killing industry, especially in Germany.
+
+HOW MUCH MONEY WE ARE TALKING ABOUT?
+
+-> News & data by Perplexity AI:  lnkd.in/dF-dinZv
+
+$183B: from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
+
+$174B: Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
+
+$120B: from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
+
+$200B: the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
+
+AML EVENTS CHAIN TO THE DEFAULT
+
+Q1/2023 - The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
+
+Q2/2023 - The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
+
+Q2/2025 -  A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
+
+Q2/2025 -  State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
+
+Q2/2025 - The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
