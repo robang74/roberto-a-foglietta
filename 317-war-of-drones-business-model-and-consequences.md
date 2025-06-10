@@ -446,6 +446,38 @@ In questo banale esempio e nel suo perverso rapporto, possiamo cogliere nella su
 
 Morale: stupidity kills.
 
+---
+
+Se la stupidità uccide allora è un'agente della selezione naturale. Ma cos'è questo misterioso e incomprso fenomeno scoperto da Darwin? Intanto possiamo dire che cosa NON è la selezioen naturale e questa spiegazione ci è utile a capire come quel concetto venga usato per manipolare le menti deboli.
+
+La selezione naturale di Darwin, che nei suoi meccanismi fondamentali trova una lucida descrizione ne "Il Gene Egosita" (1976), non riguarda il singolo individuo la cui traiettoria di vita può essere anche fortemente alterata da accidenti o eventi casuali. Ma riguarda le specie, ovvero i gruppi di individui che sono geneticamente affini e però al contempo diversi.
+
+In realtà, la selezione naturale si applica anche ai cloni, come le banane, ma in maniera diversa e anzi proprio in questa differenza riusciamo a capire meglio sia la selezione naturale sia l'incidenza del caso. Il caso opera come il rumore bianco, ovvero è un fattore neutrale sul grande numero di occorrenze anche se dal punto di vista dell'individuo, l'accidente è qualcosa di ingiusto.
+
+Coloro che millantano che la selezione naturale privilegi l'individuo più forte o quello che meglio si adatta, parlano o della c.d. legge della Jungla (che non esiste, quindi è un mito ne bello ne buono) oppure di trasformismo sociale o opportunismo comportamentale (il mito del Gattopardo, tutto cambia perché nulla cambi, in effetti).
+
+Per quanto riguarda le banane, in quanto cloni di una sola pianta, sono comunque soggetti alla selezione naturale ma come singolo individuo distribuito. Il che rende la riproduzione per clonazione molto fragile, infatti diversi tipi di banane si sono estinti, anche se molto conveniente in termini energetici (non serve cercare un partner).
+
+L'uomo è una specie particolare perché basa il suo vantaggio evolutivo, rispetto ad altre specie animali, principalmente su due fattori: 
+
+- l'uso delle mani con pollice opponibile che ci permettono di usare in modo molto preciso ma anche con forza, molti e diversi strumenti
+
+- sull'intelletto (mente) che ci permette di manipolare idee (meme) sviluppare dei ragionamenti e comprendere relazioni di causa-effetto
+
+Si tenga conto che mente e cervello non stanno necessariamente nella relazione in cui funzionano software e hardware. La mente è più di un insieme di nozioni e algoritmi, ma trascuriamo questo aspetto, seppure essenziale e fondamentale, non ci è utile a comprendere invece le dinamiche più vicine a quello che sono le altre specie di mammiferi e quindi a comprendere il ruolo della selezione naturale.
+
+Occorre però sottolineare che a causa della specificità dell'essere umano, la mente di ogni individuo può essere vista come un entità che fa parte di un gruppo. Se all'interno di questo gruppo ci fosse una qualche forma di competizione, allora due sarebbero le direttrici principali che creano un significativo divario: l'intelligenze e l'informazione.
+
+Sono certo che avrete già sentito parlare di giochi ad assimetria informativa (o guerra assimetrica). Per contro, non vi stupirà leggere che l'omologazione sociale, crea cloni. Non come le banane, che sono dei cloni fisici, ma appiattisce la diversità delle menti costringendole in un unico schema, per esempio il pensiero unico.
+
+Quello che in genere viene chiamato il gregge, etc. dal quale ogni individuo vorrebbe distinguersi e nel quale ogni individuo vorrebbe adeguarsi per godere dei vantaggi del gruppo. Nei greggi di pecore in cui l'omologazione è percepita come uno svantaggio, diventano stormi di pappagalli, continuano a ripetere tutti la stessa cosa, ma ognuno sgargiante a modo suo. La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli.
+
+Infine ritorniamo ancora sulla selezione naturale propriamente detta e però questa volta insieme a Darwin ci mettiamo anche gli studi sui piselli condotti da Mendel. Sotto questo nuovo punto di vista, vi sono due tipi di selezione:
+
+1. quella "naturale", quella dell'evoluzione delle specie di Darwin dove un gruppo di individui (specie, appunto) a causa del fatto che alcuni individui muoiano prima di trasmettere il loro specifico patrimonio genetico e quindi rendano gli individui della generazione successiva meno incline ad essere vittime di un certo cambiamento dell'ambiente. Le culture di Peltri dei batteri, a contatto con la penicillina mostravano appunto questo andamento: il 90% dei batteri moriva, quelli lontani dalla penicillina e quelli più resistenti, invece davano origine ad una generazione in cui la successiva iniezione di penicillina era meno impattante e quinid solo 85% moriva, e via così fino ad ottenere - in via teorica - batteri penicillina-resistenti, quelli che negli ospedali chiamano "super-batteri".
+
+2. quella "domestica", quella operata con lo stesso metodo di cui sopra ma dagli esseri umani che hanno trasformato il magnifico e indomito lupo in merdine psicolabili quali chiwawa e carlini.
+
 +
 
 ## Share alike
