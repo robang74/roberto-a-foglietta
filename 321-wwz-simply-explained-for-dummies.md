@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies.jpg" width="800"><br></div>
+<div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies-img-001.jpg" width="800"><br></div>
 
 ## WWZ simply explained, for dummies
 
@@ -18,9 +18,13 @@ They're watching at you. Thus make for them a great show. So great that they can
 ### As simple as this
 
 - **Ring**: Hotel California, no way out
+
 - **Rule 1**: if the truth kills them, let them die
+
 - **Rule 2**: stupidity kills, let them die
+
 - **Rule 3**: simplicity is the key
+
 - **Sum**: surrender or die
 
 **War**, say it one more time!
@@ -35,7 +39,7 @@ The control system built for achieving the ultimate power, transferred the ultim
 
 Welcome to Hotel California, we are happy to inform you how much we are glad that you paid for this wonderful structure from which there is no way out, as per your request, sir.
 
----
+<div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies-img-002.jpg" width="800"><br></div>
 
 ### My dear brothers and sisters
 
@@ -44,8 +48,6 @@ Welcome to Hotel California, we are happy to inform you how much we are glad tha
 My dear brothers and sisters, if we want the military budget returns to social welfare (support for the common needs of human beings, not communism, society and civilization) we must fight our rulers and anyone who supports them as if they were Soviet invaders.
 
 By conquering them with cunning, by making them fall, sink into confusion and chaos, by reducing their "institutions" to madhouses, by dissecting the hypocrisy of their speeches and "values", they - in their shattering encounter with reality, in their tragic epilogue - will demonstrate to every future enemy, dreaming about an invasion, what the f*cking hell awaits them.
-
-Spoiler: Hotel California strategy, no way out!
 
 ...
 
@@ -63,11 +65,11 @@ This way of doing offer me three main advantages, the first is quick in provide 
 
 The best way to read a dialoge with a chatbot is reading **all** the human prompts before, ignoring the chatbot answers. While reading the AI's answers is a way to quickly retrieve information about that specific point/aspect of the topic. Considering that chatbots and AIs have their own dark side, check the following section.
 
----
+----
 
 ### Poop-as-a-Service, the AI dark side
 
-The reframing of PaaS in Poop-as-a-Service, is the ultimate sketch about trust chatbot like higher/est source of knowledge or information. Under this analogy, the food which is going to be digested by the AI is the human encyclopedic knowledge and our culture, while the final answer will be pooped out on-demand! 🤣 
+The reframing of PaaS in Poop-as-a-Service, is the ultimate sketch about trust chatbot like higher/est source of knowledge or information. Under this analogy, the food which is going to be digested by the AI is the human encyclopedic knowledge and our culture, while the final answer will be pooped out on-demand! {lol}
 
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
 
