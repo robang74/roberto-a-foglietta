@@ -59,7 +59,7 @@ The analogy with the Swiss defense model is illuminating and further reinforces 
 
 ### Wishing know more about WWZ insights?
 
-Your desire, your curiosity and also your need to read about a more rational/strategic framework, is strongly grounded. For this reason, I had a chat with Gemini because in this way I can easily connects the dots while Gemini is explain the "well-known". Read in full, the [dialogue](https://g.co/gemini/share/1daec60406fb) or its [transcription](not-yet#?target=_blank).
+Your desire, your curiosity and also your need to read about a more rational/strategic framework, is strongly grounded. For this reason, I had a chat with Gemini because in this way I can easily connects the dots while Gemini is explain the "well-known". Read in full, the [dialogue](https://g.co/gemini/share/1daec60406fb) or its [transcription](data/321-wwz-simply-explained-for-dummies-enemyone.txt#?target=_blank).
 
 This way of doing offer me three main advantages, the first is quick in provide academic/enciclopedical knowledge like adding notes. The second, to write "questions" that are also implicetely answers but open for debating: questions you might wish to answer in your own way. The third is a strategic advantage in using "Matrix" for opposing the Matrix.
 

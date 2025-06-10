@@ -2,6 +2,7 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
 *********** data/320-ragionare-non-e-come-fare-la-cacca-risata.txt *************
 
+Chatbot: Gemini 2.5 flash
 Created: 8h June 2025
 Published 8th June 2025
 Attachment: none
