@@ -5,9 +5,9 @@
 
 ## WWZ simply explained, for dummies
 
-This article is written starting from posts previously published on Linkedin within two weeks.
+This article is written starting from posts published on Linkedin within the previous three weeks, circa.
 
-- [post #4](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) - [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-05) - [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-27) - [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
+- [post #4](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
 
 ---
 
