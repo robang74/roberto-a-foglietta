@@ -7,7 +7,9 @@
 
 This article is written starting from posts published on Linkedin within the previous three weeks, circa.
 
-- [post #4](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
+- [post #5](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
+
+- **2nd edition** includes the "Conclusion" section. Follow the white rabbit up to the end.
 
 ---
 
@@ -18,13 +20,9 @@ They're watching at you. Thus make for them a great show. So great that they can
 ### As simple as this
 
 - **Ring**: Hotel California, no way out
-
 - **Rule 1**: if the truth kills them, let them die
-
 - **Rule 2**: stupidity kills, let them die
-
 - **Rule 3**: simplicity is the key
-
 - **Sum**: surrender or die
 
 **War**, say it one more time!
@@ -39,7 +37,9 @@ The control system built for achieving the ultimate power, transferred the ultim
 
 Welcome to Hotel California, we are happy to inform you how much we are glad that you paid for this wonderful structure from which there is no way out, as per your request, sir.
 
-<div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies-img-002.jpg" width="800"><br></div>
++
+<div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies-img-002.jpg" width="800"></div>
++
 
 ### My dear brothers and sisters
 
@@ -78,6 +78,20 @@ or, longer in Italian (auto-translation available in the topbar)
 - [Ragionare non è come fare la cacca!](320-ragionare-non-e-come-fare-la-cacca.md#?target=_blank) &nbsp; (2025-06-08)
 
 The above linked are articles about serious topics and their combination let be AI seen as Poop-as-a-Service suggests, not just an analogy but also internal functioning. After all, we need to know the limits and the risks of adopting a **tool** on a large scale, otherwise we cannot mitigate them.
+
++
+
+### Conclusion
+
+How did the war enter our minds and what war is being fought for the control of our minds? These are not two trivial questions. While the WW3 (nuclear war) started to be planned in 1992 after the Soviet Union fall ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), and later diverted against Russia.
+
+Diverted against Russia since 2007, in the hope to cancel the American public debt, which will default in 2026 ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), point #1). Instead, the WWZ (zombi war) has been planned since 1969, in response to the social turn that the Western world shown had taking in 1968.
+
+This last claim will be augmented in a future article. Hint: [Brettonwood system](https://en.wikipedia.org/wiki/Bretton_Woods_system)'s agreement end, 1971. Which started the era of the USD as legal currency backed-up with oil as commodity (aka Petrol-Dollar agreement) which ended on the first day of G7 in Puglia (Italy, Q2/2024).
+
+That day, the USD became a pure fiat-currency without any real-world collateral. [The paper money is financial communism](278-the-paper-money-is-financial-communism.#?target=_blank), closed the circle and re-implemented Communism in its worst traits, only.
+
+Therefore and by now, **everything** is not only false but also **totally virtual**, like in the Matrix.
 
 +
 
