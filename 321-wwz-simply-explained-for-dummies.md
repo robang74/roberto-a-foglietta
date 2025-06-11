@@ -15,6 +15,8 @@ This article is written starting from posts published on Linkedin within the pre
 
 ### They watch, and that's their fault!
 
+> If you out there speaking truth, best believe they watching you
+
 They're watching at you. Thus make for them a great show. So great that they cannot stop to watch while they get poisoned by the truth! {:-D} 
 
 ### As simple as this
