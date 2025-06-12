@@ -536,6 +536,55 @@ HO -- So it's better to use the term "inflationary policy" from this point of vi
 
 AI -- Absolutely. The term "inflationary policy" (or more precisely, expansionary monetary policy with potential inflationary effects) is much more appropriate to describe the general behavior of the ECB since 2015.
 
+---
+
+> Chissà perché vengono interpretati tutti al contrario
+
+Perché il sistema è distopico? Facile risposta ma non spiega nulla.
+
+Perché il modello educativo attuale si basa su paradigmi ottocenteschi che serviva a produrre operai utili per la Rivoluzione Industriale? Questa risposta interpreta il sistema, permette di fare delle previsioni, quindi delle verifiche su di esse, e permette di fare delle correzioni. (cfr. figura)
+
+https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html
+
+Il sistema educativo rispecchia i paradigmi dello Stato, anch'esso una struttura ottocentesca nonostante la Costituzione sia più recente e quindi più liberale e moderna. Troppo moderna, addirittura per uno stato ancora obsoleto nella sua struttura.
+
+La più evidente differenza fra stato ottocentesco e moderno, risiede nel concetto di "lean" = "snello, agile, laissez faire" mentre quello ottocentesco si basa sulla burocrazia come strumento di potere che blocca i cambiamenti sociali e mantiene il potere di una casta anche se non più nobiliare.
+
+Pachiderma burocratico, cancro in metastasi che poi cessa di essere stato di diritto, come ultimo atto prima del default
+
+=-> lnkd.in/de9te7k9
+
+L'Unione Europea attuale non è diversa dal paradigma ottocentesco e se si limita alla burocrazia è solo perché non ha ancora soddisfatto le altre perversioni di quel tipo di struttura di potere.
+
+https://robang74.github.io/chatgpt-answered-prompts/html/diritti-digitali-e-separazione-dei-dati-dai-social.html
+
+Questo dovrebbe ormai essere palese, altrimenti non si spiega come mai un ciuchino qualsiasi con tre regole di buon senso può straccionare in efficacia e efficienza uno come Draghi: il nostro uomo migliore. (cfr immagine)
+
+Secondo alcuni, probabilmente gli stessi che rimpiangono Berlusconi. In passato quando un re veniva sconfitto e quindi moriva si aveva l'abitudine di seppellirlo con tutta la sua corte, un'idea affatto malvagia in termini di voltare pagina.
+
+Ah, se pare "brutale" come approccio si tenga presente che con Saddam, Gheddafi e altri si è fatto lo stesso e si vorrebbe fare uguale con Putin, anche con Orban e Erdogan. Sono dittatori! 
+
+Quando "servivano" o "servono" sono rispettabilissime controparti negoziali. Quindi caviamocela dalla testa questa idea di superiorità morale che proprio NON esiste nè MAI è esistita.
+
+- Piuttosto che cambiare la morte!
+- Non vedo problemi, si può fare.
+
+Oltre al fatto che così come è improntata l'Unione Europea è un carrozzone inutile per gli europei che sfacciatamente è fuori traccia rispetto allo scopo originale che era costruire una federazione in stile elvetico fra i paesi dell'Europa occidentale.
+
+=-> lnkd.in/dydNZjfb
+
+Invece si ha giocato il ruolo di agente commerciale/finanziario dell'espansione NATO ad est, un'altra porcata che non aveva ragione di esistere fin dal principio (1992) e che inevitabilmente sta finendo in tragedia e saccheggio.
+
+Come per altro tutte le guerre (perse, tranne contro la tigre di carta iraqena) etero-dirette dagli USA. Un cliché che ormai è diventato un evergreen: $1T/y di macchina bellica e non si usa?
+
+=-> lnkd.in/drCFCVaQ
+
+Se sul default degli USA, il mondo della finanza nutre ottimismo, come lo nutriva per Leman & Brothers (too big to fail). Il default dell'Italia (2026) è a prescindere da quello USA perché basta vedere la dimensione della batosta rispetto alle crisi sistemiche 2001 e 2008.
+
+=-> lnkd.in/dMrZac9F
+
+Ottimismo: i fascisti avranno distrutto l'Italia due volte, abbiamo il capro espiatorio. Pessimismo: l'Unione Europea probabilmente non collasserà per la crisi 2026, speriamo periscano di Ucraina o di Russia, al peggio.
+
 +
 
 ## Share alike
