@@ -569,21 +569,24 @@ Quando "servivano" o "servono" sono rispettabilissime controparti negoziali. Qui
 - Piuttosto che cambiare la morte!
 - Non vedo problemi, si può fare.
 
+
 Oltre al fatto che così come è improntata l'Unione Europea è un carrozzone inutile per gli europei che sfacciatamente è fuori traccia rispetto allo scopo originale che era costruire una federazione in stile elvetico fra i paesi dell'Europa occidentale.
 
 =-> lnkd.in/dydNZjfb
 
-Invece si ha giocato il ruolo di agente commerciale/finanziario dell'espansione NATO ad est, un'altra porcata che non aveva ragione di esistere fin dal principio (1992) e che inevitabilmente sta finendo in tragedia e saccheggio.
-
-Come per altro tutte le guerre (perse, tranne contro la tigre di carta iraqena) etero-dirette dagli USA. Un cliché che ormai è diventato un evergreen: $1T/y di macchina bellica e non si usa?
+Invece, ha giocato il ruolo di agente commerciale/finanziario dell'espansione NATO ad est, un'altra porcata che non aveva ragione di esistere fin dal principio (1992) e che inevitabilmente sta finendo in tragedia e saccheggio.
 
 =-> lnkd.in/drCFCVaQ
+
+Come per altro tutte le guerre (perse, tranne contro la tigre di carta iraqena) etero-dirette dagli USA. Un cliché che ormai è diventato un evergreen: $1T/anno di macchina bellica e non si usa?
 
 Se sul default degli USA, il mondo della finanza nutre ottimismo, come lo nutriva per Leman & Brothers (too big to fail). Il default dell'Italia (2026) è a prescindere da quello USA perché basta vedere la dimensione della batosta rispetto alle crisi sistemiche 2001 e 2008.
 
 =-> lnkd.in/dMrZac9F
 
 Ottimismo: i fascisti avranno distrutto l'Italia due volte, abbiamo il capro espiatorio. Pessimismo: l'Unione Europea probabilmente non collasserà per la crisi 2026, speriamo periscano di Ucraina o di Russia, al peggio.
+
+***
 
 +
 
