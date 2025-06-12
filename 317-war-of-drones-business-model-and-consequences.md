@@ -588,6 +588,14 @@ Ottimismo: i fascisti avranno distrutto l'Italia due volte, abbiamo il capro esp
 
 ***
 
+Mi piace come analisi anche se forse è un po' troppo lineare. Soprattutto perché questo tipo di "trend" in realtà hanno due principi fondamentali alla base:
+
+1. già nel 1993, i miei professori dell'università di Genova a Fisica (che probabilmente in quanto scienziati avevano una maggiore propensione alla divulgazione) dicevano apertamente che "promuovevano" come loro collaboratori quelli bravi ma non troppo bravi da fare loro le scarpe così come i loro predecessori avevano fatto con loro ma questo modello di selezione avrebbe portato al collasso del sistema in 3 generazioni (*).
+
+2. esiste un trend, che si somma a quello già partito nel 1992 che risale al 1969 e che fondamentalmente vede nelle persone intelligenti, individui troppo intelligenti per obbedire agli ordini e quindi intrinsecamente inabili alla guerra che all'epoca era quella fredda e poi dal 1992 è diventata in prospettiva la WW3 perché senza una guerra in prospettiva, il complesso militare-bellico diventa marginale (solo difesa).
+
+Quindi - secondo me e in particolare oggi che come ha detto Merz occorre considerare la guerra come un'opzione viabile - il ragionamento sull'intelligenza va messo nel suo corretto contesto: quello della WWZ. https://lnkd.in/dA3kn7XS
+
 +
 
 ## Share alike
