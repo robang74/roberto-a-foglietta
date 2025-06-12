@@ -15,6 +15,8 @@ This article is written starting from posts published on Linkedin within the pre
 
 ### They watch, and that's their fault!
 
+- **Post #5** (2025-06-10) originally written in English, reported in full here below.
+
 > If you out there speaking truth, best believe they watching you
 
 They're watching at you. Thus make for them a great show. So great that they cannot stop to watch while they get poisoned by the truth! {:-D} 
@@ -33,19 +35,23 @@ They're watching at you. Thus make for them a great show. So great that they can
 
 ### Taijiquan mantra, how it works
 
+- **Post #2** (2025-06-04) originally written in English, reported in full here below.
+
 The antagonist stays still, the antagonist is impotent. The antagonist applìes force, the force is used against the antagonist. Whatever, it is the power of the Mind that dominates the matter and ultimately the rational behavior over the violence. It is not an optional, it is embedded into the budget whatever and whoever manages the budget. When the workers are way smarter than who pays there is no way to get out of this framework. 
 
 The control system built for achieving the ultimate power, transferred the ultimate power to those built it, in fact. Whatever, whoever screams orders or pay the bill to whoever, this schema does not change. The illusion of gaining control, was in fact the ultimate act of the definitive lost of control. Destroying the system, the control is lost. Running the system, the control is lost.
 
 Welcome to Hotel California, we are happy to inform you how much we are glad that you paid for this wonderful structure from which there is no way out, as per your request, sir.
 
+---
 +
 <div align="center"><img class="wbsketch darkinv" src="img/321-wwz-simply-explained-for-dummies-img-002.jpg" width="800"></div>
 +
+---
 
 ### My dear brothers and sisters
 
-- *Originally written in Italian*, to be read in the tone of a messianic leader, which is what they fear above all else even if I am a "naughty boy" quoting Monty Python.
+- **Post #1** (2025-05-22) originally written in Italian: starting from the title, it should be read in the tone of a messianic leader, which is what they fear above all else even if I am a "naughty boy" quoting Monty Python.
 
 My dear brothers and sisters, if we want the military budget returns to social welfare (support for the common needs of human beings, not communism, society and civilization) we must fight our rulers and anyone who supports them as if they were Soviet invaders.
 
@@ -67,9 +73,11 @@ This way of doing offer me three main advantages, the first is quick in provide 
 
 The best way to read a dialoge with a chatbot is reading **all** the human prompts before, ignoring the chatbot answers. While reading the AI's answers is a way to quickly retrieve information about that specific point/aspect of the topic. Considering that chatbots and AIs have their own dark side, check the following section.
 
-----
+---
 
 ### Poop-as-a-Service, the AI dark side
+
+- **Post #3** (2025-06-09) originally written in English, reported **almost** in full here below.
 
 The reframing of PaaS in Poop-as-a-Service, is the ultimate sketch about trust chatbot like higher/est source of knowledge or information. Under this analogy, the food which is going to be digested by the AI is the human encyclopedic knowledge and our culture, while the final answer will be pooped out on-demand! {lol}
 
@@ -81,7 +89,7 @@ or, longer in Italian (auto-translation available in the topbar)
 
 The above linked are articles about serious topics and their combination let be AI seen as Poop-as-a-Service suggests, not just an analogy but also internal functioning. After all, we need to know the limits and the risks of adopting a **tool** on a large scale, otherwise we cannot mitigate them.
 
-+++++
++
 
 ## Conclusions
 
@@ -105,7 +113,7 @@ If we achieved **that**, hence "impossible is nothing" (cit.) starting the drift
 
 Despite Gemini's first review of the text after the "Hint" reach the conclusion of being a "conspiracy theory" (a label, reasonable due to its patterns recognition) after a quick [debate](https://g.co/gemini/share/0d15a05acb36) (few prompts chat, [transcription](data/321-wwz-simply-explained-for-dummies-conspiracy.txt#?target=_blank)), the text has been accepted as well-grounded explanation, entirely.
 
-+++++
++
 
 ## Share alike
 
