@@ -19,7 +19,7 @@ Piuttosto è il sistema educativo che, come lo stato, è rimasto ancorato ai par
 
 Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando i militari misero fine ad un sistema sociale alternativo emergente perché lo consideravano inadatto per la guerra, allora quella fredda, e poi dopo il 1992 per quella che sarebbe venuta.
 
-> In 1969, George Land and Beth Jarman check 1000+ kids with NASA's high-creativity test: 98% of 5yo were in. While only 2% of adults were in. From 98% to 2%, what happened? They have been educated. 
+> In 1969, George Land and Beth Jarman check 1000+ kids with NASA's high-creativity test: 98% of 5yo were in while only 2% of adults. From 98% to 2%, what happened? They have been educated.
 > 
 > **Morale**: geniuses aren't rare, but buried.
 
