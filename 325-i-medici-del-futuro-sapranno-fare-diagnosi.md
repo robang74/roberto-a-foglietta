@@ -25,7 +25,7 @@ La **vera** sfida, quindi, non sta nell'adozione dell'AI nella diagnostica medic
 
 ### La tragedia del dimenticare come fare le cose
 
-Tragedia nel mondo dell'ufologia e degli appassionati dei cerchi nel grano: dopo 25 anni di intense indagini e speculazioni, non è stato scoperto il segreto di come piegare senza rompere gli steli di grano, una tecnica per realizzare cesti di vimini nota già diecimila anni fa!
+Tragedia nel mondo dell'ufologia e degli appassionati dei cerchi nel grano: dopo 25 anni di intense indagini e speculazioni, non è stato scoperto il segreto di come piegare senza rompere gli steli di grano, una tecnica usata anche per realizzare cestini di vimini già nota oltre diecimila anni fa!
 
 - [A tragedy in the world of ufology!](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) &nbsp; (2025-06-07)
 
