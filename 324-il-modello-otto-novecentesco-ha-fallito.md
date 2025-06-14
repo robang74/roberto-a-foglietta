@@ -5,8 +5,7 @@
 
 ## Il modello otto-novecentesco ha fallito
 
-- Articolo redatto a partire da vari commenti scritti su LinkedIn e poi sviluppati con il supporto di Gemini, in due chat: 1. [modelli obsoleti](https://g.co/gemini/share/00024414efa8) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini.txt#?target=_blank) e 2. [supporto alla scrittura](https://g.co/gemini/share/d12cf90c48a7) di cui [trascrizione](not-yet#?target=_blank)
-
+- Articolo redatto a partire da vari commenti scritti su LinkedIn e poi sviluppati con il supporto di Gemini, in due chat: 1. [modelli obsoleti](https://g.co/gemini/share/00024414efa8) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini-chat1.txt#?target=_blank) e 2. [supporto alla scrittura](https://g.co/gemini/share/d12cf90c48a7) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini-chat2.txt#?target=_blank)
 
 ---
 
@@ -74,6 +73,26 @@ Entrambi questi aspetti non sono cambiati, perché l'essere umano nella sua natu
 
 Il pensatore dell'800 o '900 è un uomo del suo tempo e parla di cose del suo tempo che NON è il nostro tempo. Questo è un fattore devastante quando si parla di modelli funzionali. Musica e arte, sono altro.
 
+Ogni tempo ha i suoi "valori" di riferimento. Noi viviamo in un mondo che ha cessato di esistere ma resta in piedi solo come un teatro mentre il nuovo mondo non è ancora sorto sulle rovine del precedente. Perché come diceva quello che hanno bruciato sul rogo con la lingua inchiodata: è ingenuo pensare che il potere riformi se stesso.
+
+Comunque anche se il potere volesse riformare se stesso, mi pare palese che esso non ha più la capacità nemmeno cognitiva di riformare se stesso e dall'altra parte perché coloro che hanno una certa lucidità non si prendono l'onere di sganciare la bomba (reset del sistema) per primi.
+
+---
+
+### Il progresso non è evoluzione
+
+> L'uomo evolvendosi con le continue scoperte scientifiche
+
+L'uomo **non** si evolve a causa delle scoperte scientifiche. Se fosse così avrebbe avuto ragione Lamarck e non Darwin.
+
+Noi esseri umani, come animali sociali, da sempre usiamo la società (gruppo) per costruire una civiltà (struttura funzionale non solo asset materiali) e attraverso questi due strumenti, che implicano anche ed eventualmente lo sviluppo tecnologico e poi in tempi relativamente recenti sviluppo scientifico, ci **emancipiamo** dalla brutalità della realtà.
+
+Il concetto di emanciparsi è sano, perché si accetta e la si riconosce anche nella sua brutalità, la si studia, la si comprende, e attraverso vari strumenti come quelli sopra citati e duro lavoro manuale, oppure tecnologia e lavoro intellettuale, ci si eleva dalla realtà emancipandosi da essa in una qual certa misura ma mai completamente.
+
+Non neghiamo la gravità, costruiamo aeroplani. Non neghiamo la malattie, sviluppiamo delle cure. Ma tutto ciò **non** fa evolvere l'essere umano nel senso Darwiniano propriamente detto del termine, sebbene un po' di selezione naturale rimanga. Perché l'emancipazione dalla realtà, essa stessa cambia l'ambiente e quindi genera una nuova pressione evolutiva. Quindi poco o tanto, un po' c'è.
+
+Il discorso **non** è complesso, basta comprendere la differenza: l'alienazione dalla realtà è follia, l'emancipazione è un percorso costruttivo. Ambedue sono processi ed esperienze collettive, per la maggiore, anche se alcuni individui possono avere contribuito più di altri perché magari hanno scoperto o inventato concetti o cose nuove.
+
 ---
 
 ### La transizione incomprensibile
@@ -112,7 +131,7 @@ Ovvero, significa che qualsiasi tentativo di influenzare la società o le istitu
 
 Si narra che un gerarca nazista -- l'ambasciatore tedesco Otto Abetz, quando poi l'aneddoto passò dalla trasmissione orale a quella scritta a guerra terminata -- osservando il dipinto riportato nell'intestazione di questo articolo (Guernica) chiese a Picasso chi fosse l'autore di tale orrore (obbrobrio) e Picasso sarcasticamente rispose: voi, signore.
 
-Una risposta essenziale che parodiando il lessico militare e che usa il plurale vezzeggiativo per indicare una responsabilità collettiva che il processo di Norimberga ha concretamente provato e definitivamente condannato, dimostrando non solo la genialità di Picasso nel comunicare ma anche la lucidità dello stesso rispetto alla realtà oggettiva.
+Una risposta essenziale che fa parodia del lessico militare e usa il plurale vezzeggiativo per indicare una responsabilità collettiva, che il processo di Norimberga ha concretamente provato e definitivamente condannato, dimostrando non solo la genialità di Picasso nel comunicare ma anche la lucidità dello stesso rispetto alla realtà oggettiva.
 
 +
 
