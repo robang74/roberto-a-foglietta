@@ -25,9 +25,41 @@ Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando 
 
 - **Note**: the claims briefly reported above are from George "Breakpoint and Beyond" book (1992), and it presents a study which was never peer-reviewed nor published by any scientific journal. However the broader idea of a decline in creativity with age and formal education is supported by relevant studies, including those by J. P. Guilford (1950), E. P. Torrance (1968) and K. H. Kim (2006).
 
-I militari, altra istituzione del '800 che anch'essa sta dimostrando tutta la sua inadeguatezza di fronte ad un mondo in cui è l'intelligenza e la creatività a costituire il potere del fare.
+---
 
-...
+### Il tempismo è essenziale
+
+Le date delle pubblicazioni indicate nella nosta - che non sono il prodotto di un cherry-picking ma suggerite da Gemini quando ho chiesto una valutazione sull'attendibilità dei risultati di Land & Jarman - indicano che i lavori più noti, non necessariamente quelli più significativi, sono stati pubblicati in tre momenti storici molto importanti:
+
+- 1950: quando si considera la fine della WW2 occorre considerare i vari fronti ma è utile anche pensare alla fine della WW2 prendendo in considerazione l'anno in cui anche tutte le varie vicissitudini legate alla guerra sono terminate e il mondo ha ripreso il suo commino, ad esempio in Italia potremmo considerare il 1948 come anno in cui la nazione ha scelto la Republica e la Costituzione è entrata in vigore. Tendenzialmente una pubblicazione del 1950 è da consirarsi giusto il tempo che la società si è stabilizzata, informarla di quele fosse il problema del modello educativo fino ad allora in vigore e magari suggerire che proprio quel modo di educare aveva portato al confronto armato in due guerre mondiali.
+
+- 1968: poco prima dello sbarco della Luna ma anche l'anno prima che lo LSD da farmaco sperimentale sommnistrato in micro-dosi agli studenti del college - molti dei quali inconsapevoli o parzialmente incosapevoli di essere parte di un programma segreto simile a quello definito MK Ultra (1953-1973) che per altro dai documenti desecreati dimostra la una totale inconsistenza sia nei risultati sia nel metodo e comunque privo di alcuna validità scientifica anche minimamente accennata quindi è ragionevole fosse solo un cash-cow per finanziare studi molto più discutibili - per compensare la perdita di creatività dovuta alla disciplina e alla scolastica dell'apprendimento tipico delle materie tecnico-scientifico.
+
+- 1992: poco dopo la caduta del muro di Berlino e anno alla fine del quale l'Unione Sovietica è improvvisamente collassata, anche se Land ha preferito pubblicare un libro piuttosto che portare lo studio condotto precedentemente come pubblicazione scientifica, a posteriori pare una scelta azzeccata sia in termini di tempistica della pubblicazione e sia in termini di formato comunicativo, perché senza quel libro anche i più noti studi scientifici non sarebbero arrivati all'opinione pubblica.
+
+- 2006: un anno prima della crisi dei sub-prime loans che per altro era del tutto prevedibile avendo come pattern sui fondamentali il classico schema inflazionistico già evidenziato da altre bolle speculative come quella del 2001 delle dot-com e più in generale lo stesso andamento degli schemi di Ponzi in cui la finanza opera con un livello di criterio sempre meno affidabile e priva di controlli o freni normativi giunge al devastante epilogo.
+
+In questa serie di date, personalmente, vedo un tentativo reiterato di mettere in discussione il modello di sistema educativo basato sul modello ideato durante la Rivoluzione Industriale, attraverso uno spassionato supportare a favore della creatività piuttosto della disciplina. D'altronde è noto che l'innovazione è tale solo quando riesce a cambiare le regole del gioco di un determinato settore, altrimenti sarebbe solo un ulteriore avanzamento tecnico che al più raggiunge un break-through per il quale oltre al cellulare touchscreen si può avere anche il tablet.
+
+---
+
+### La creatività è un problema
+
+In questo contesto è importante chiedersi quale sia invece l'istituzione sociale e culturale che invece è fondamentalmente radicata nella disciplina, e per la quale il pensiero critico e la creatività, invece, rappresentano un serio problema ad uno schema tanto semplice quando efficace: "credere, obbedire, combattere" fino a morire.
+
+Da questo punto di vista la Chiesa e la religione organizzata è solo ancillare nel combattere il pensiero critico e la creatività, certamente non abbastanza influente da aver potuto modellare la società americana che per altro è molto più incline a considerare la Bibbia come testo sacro piuttosto che il Vangelo.
+
+> È ragionevole affermare che le istituzioni militari moderne, in termini di disciplina e struttura organizzativa, mantengano ancora forti ancoraggi al modello ottocentesco, in particolare quello napoleonico.
+
+Sicché arriviamo, per esclusione, ai militari anch'essi un'istituzione ottocentesca, che anch'essa sta dimostrando tutta la sua inadeguatezza di fronte ad un mondo in cui è l'intelligenza e la creatività a costituire il vero potere del fare e quindi anche quello del distruggere.
+
+> È un'osservazione molto interessante e, in linea generale, è corretto affermare che il potere del fare implica intrinsecamente anche il potere di distruggere.
+
+Ma non è necessario farsi rassicurare in questi concetti da un chatbot, anche se è utile disporre di una citazione equilibrata ma significativa creata in modo rapido, basta pensare alla relativamente minuscola e apparentemente insignificante comunità dei Sapiens che pure, sebbene strutturalmente inferiori in termini di forza fisica, hanno condotto i Neanderthal all'estinzione semplicemente perché le due specie, in quanto simili nei fondamentali, occupavano la stessa nicchia ecologica e quindi erano in competizione.
+
+---
+
+### Non tutto è da buttare
 
 > Comunque l'ottocento non ha prodotto solo idioti.
 
