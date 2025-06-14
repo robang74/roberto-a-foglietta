@@ -25,7 +25,7 @@ Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando 
 
 - **Note**: the claims briefly reported above are from George "Breakpoint and Beyond" book (1992), and it presents a study which was never peer-reviewed nor published by any scientific journal. However the broader idea of a decline in creativity with age and formal education is supported by relevant studies, including those by J. P. Guilford (1950), E. P. Torrance (1968) and K. H. Kim (2006).
 
----
+----
 
 ### Il tempismo è essenziale
 
@@ -59,7 +59,7 @@ Ma non è necessario farsi rassicurare in questi concetti da un chatbot, anche s
 
 ---
 
-### Non tutto è da buttare
+### Non tutto è obsoleto
 
 > Comunque l'ottocento non ha prodotto solo idioti.
 
@@ -71,7 +71,9 @@ Entrambi questi aspetti non sono cambiati, perché l'essere umano nella sua natu
 
 Il pensatore dell'800 o '900 è un uomo del suo tempo e parla di cose del suo tempo che NON è il nostro tempo. Questo è un fattore devastante quando si parla di modelli funzionali. Musica e arte, sono altro.
 
-...
+---
+
+### La transizione incomprensibile
 
 > Adesso ci mancava lo scoppio della guerra tra Israele e Iran.
 
@@ -83,7 +85,9 @@ Si può sperare in tutto quello che si vuole, ma ci sono momenti in cui la stori
 
 Questo perché da una parte il potere non ha più la capacità nemmeno cognitiva di riformare se stesso e dall'altra parte perché coloro che hanno una certa lucidità non si prendono l'onere di sganciare per primi.
 
-...
+---
+
+### La novità nella storia
 
 > È da milioni di anni che esiste l'uomo ed è sempre [...] sopravvissuto a sciagure naturali a guerre, pestilenze, [...].
 
@@ -94,6 +98,24 @@ Continua con Gemini sui commenti già scritti qui
 - [g.co/gemini/share/00024414efa8](https://g.co/gemini/share/00024414efa8) &nbsp; [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini.txt#?target=_blank)
 
 +
+
+## Conclusione
+
+Nel social-marketing e nella comunicazione sociale-politica generalmente si identifica la soglia del 3% sotto la quale una minoranza anche "chiassosa" e molto determinata non è in grado di influenzare la società e quindi non rappresenta un elemento di pericolo sistemico di cambiamento.
+
+> Questa cifra è effettivamente citata in vari studi e teorie sull'influenza delle minoranze (minority influence) o sul 'punto di svolta' (tipping point) in movimenti sociali. Spesso viene indicata come la regola del 3.5% (the 3.5% rule).
+
+Sotto questo punto di vista, se consideriamo attendibili i dati forniti dallo studio di Land & Jarman che rilevano come la creatività sia ridotta dal 98% in età prescolare al 2% nella popolazione adulta, abbattere la creatività sotto al 4% è compatibile con l'affermazione che è intenzionale e programmatica la marginalizzazione della creatività come fattore di evoluzione del sistema e innovazione delle istituzioni.
+
+Ovvero, significa che qualsiasi tentativo di influenzare la società o le istituzioni sono sistematicamente azzerate. Perché sotto quella soglia qualsiasi atto di creatività può essere ignorato, manipolato, contenuto o marginalizzato.
+
+...
+
+Si narra che un gerarca nazista -- l'ambasciatore tedesco Otto Abetz, quando poi l'aneddoto passò dalla trasmissione orale a quella scritta a guerra terminata -- osservando il dipinto riportato nell'intestazione di questo articolo (Guernica) chiese a Picasso chi fosse l'autore di tale orrore (obbrobrio) e Picasso sarcasticamente rispose: voi, signore.
+
+Una risposta essenziale che parodiando il lessico militare e che usa il plurale vezzeggiativo per indicare una responsabilità collettiva che il processo di Norimberga ha concretamente provato e definitivamente condannato, dimostrando non solo la genialità di Picasso nel comunicare ma anche la lucidità dello stesso rispetto alla realtà oggettiva.
+
++++++
 
 ## Share alike
 
