@@ -1,25 +1,28 @@
-<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="bwsketch paleinv" src="img/324-il-modello-otto-novecentesco-ha-fallito.jpg" width="800"><br></div>
 
 ## Il modello otto-novecentesco ha fallito
 
+- Articolo redatto a partire da vari commenti scritti su LinkedIn e poi sviluppati con il supporto di Gemini, in due chat: 1. [modelli obsoleti](https://g.co/gemini/share/00024414efa8) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini.txt#?target=_blank) e 2. [supporto alla scrittura](https://g.co/gemini/share/d12cf90c48a7) di cui [trascrizione](not-yet#?target=_blank)
+
+
 ---
 
 Dubito che un risultato del genere, il fallimento della nostra civiltà, sia capitato per colpa degli insegnanti o addirittura alcuni di essi.
 
-> Tragedy in the world of ufology and crop circle enthusiasts, after 25 years of intense investigations, and speculations, did not achieve the secret of how to bend without breaking the wheat stalks, a technique for doing wicker baskets that was known ten-thousands years ago!
+> Tragedy in the world of ufology and crop circle enthusiasts, after 25 years of intense investigations, and speculations, did not achieve the secret of how to bend without breaking the wheat stalks, a technique for making wicker baskets that was known ten-thousands years ago!
 
-- [Tragedy in the world of ufology](https://robang74.github.io/roberto-a-foglietta/html/319-a-tragedy-in-the-world-of-ufology.html) &nbsp; (date)
+- [Tragedy in the world of ufology](https://robang74.github.io/roberto-a-foglietta/html/319-a-tragedy-in-the-world-of-ufology.html) &nbsp; (2025-06-07)
 
 Piuttosto è il sistema educativo che, come lo stato, è rimasto ancorato ai paradigmi dell '800 quelli che erano funzionali alla Rivoluzione Industriale per la quale produrre utili idioti era un vantaggio
 
-- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (date)
+- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
 
 Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando i militari misero fine ad un sistema sociale alternativo emergente perché lo consideravano inadatto per la guerra, allora quella fredda, e poi dopo il 1992 per quella che sarebbe venuta.
 
-> In 1969, George Land and Beth Jarman check 1000+ kids with NASA's high-creativity test: 98% of 5yo were in while only 2% of adults. From 98% to 2%, what happened? They have been educated.
+> In 1969, George Land and Beth Jarman checked 1000+ kids with NASA's high-creativity test: 98% of 5yo were in while only 2% of adults. From 98% to 2%, what happened? They have been educated.
 > 
 > **Morale**: geniuses aren't rare, but buried.
 
@@ -29,15 +32,15 @@ Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando 
 
 ### Il tempismo è essenziale
 
-Le date delle pubblicazioni indicate nella nosta - che non sono il prodotto di un cherry-picking ma suggerite da Gemini quando ho chiesto una valutazione sull'attendibilità dei risultati di Land & Jarman - indicano che i lavori più noti, non necessariamente quelli più significativi, sono stati pubblicati in tre momenti storici molto importanti:
+Le date delle pubblicazioni indicate nella nota - che non sono il prodotto di un cherry-picking ma suggerite da Gemini quando ho chiesto una valutazione sull'attendibilità dei risultati di Land & Jarman - indicano che i lavori più noti, non necessariamente quelli più significativi, sono stati pubblicati in tre momenti storici molto importanti:
 
-- 1950: quando si considera la fine della WW2 occorre considerare i vari fronti ma è utile anche pensare alla fine della WW2 prendendo in considerazione l'anno in cui anche tutte le varie vicissitudini legate alla guerra sono terminate e il mondo ha ripreso il suo commino, ad esempio in Italia potremmo considerare il 1948 come anno in cui la nazione ha scelto la Republica e la Costituzione è entrata in vigore. Tendenzialmente una pubblicazione del 1950 è da consirarsi giusto il tempo che la società si è stabilizzata, informarla di quele fosse il problema del modello educativo fino ad allora in vigore e magari suggerire che proprio quel modo di educare aveva portato al confronto armato in due guerre mondiali.
+- 1950: quando si considera la fine della WW2 occorre considerare i vari fronti ma è utile anche pensare alla fine della WW2 prendendo in considerazione l'anno in cui anche tutte le varie vicissitudini legate alla guerra sono terminate e il mondo ha ripreso il suo cammino, ad esempio in Italia potremmo considerare il 1948 come anno in cui la nazione ha scelto la Repubblica e la Costituzione è entrata in vigore. Tendenzialmente una pubblicazione del 1950 è da considerarsi giusto il tempo che la società si è stabilizzata, informarla di quale fosse il problema del modello educativo fino ad allora in vigore e magari suggerire che proprio quel modo di educare aveva portato al confronto armato in due guerre mondiali.
 
-- 1968: poco prima dello sbarco della Luna ma anche l'anno prima che lo LSD da farmaco sperimentale sommnistrato in micro-dosi agli studenti del college - molti dei quali inconsapevoli o parzialmente incosapevoli di essere parte di un programma segreto simile a quello definito MK Ultra (1953-1973) che per altro dai documenti desecreati dimostra la una totale inconsistenza sia nei risultati sia nel metodo e comunque privo di alcuna validità scientifica anche minimamente accennata quindi è ragionevole fosse solo un cash-cow per finanziare studi molto più discutibili - per compensare la perdita di creatività dovuta alla disciplina e alla scolastica dell'apprendimento tipico delle materie tecnico-scientifico.
+- 1968: poco prima dello sbarco della Luna ma anche l'anno prima che lo LSD da farmaco sperimentale somministrato in micro-dosi agli studenti del college - molti dei quali inconsapevoli o parzialmente inconsapevoli di essere parte di un programma segreto simile a quello definito MK Ultra (1953-1973) che per altro dai documenti desecretati dimostra la una totale inconsistenza sia nei risultati sia nel metodo e comunque privo di alcuna validità scientifica anche minimamente accennata quindi è ragionevole fosse solo un cash-cow per finanziare studi molto più discutibili - per compensare la perdita di creatività dovuta alla disciplina e alla scolastica dell'apprendimento tipico delle materie tecnico-scientifico.
 
 - 1992: poco dopo la caduta del muro di Berlino e anno alla fine del quale l'Unione Sovietica è improvvisamente collassata, anche se Land ha preferito pubblicare un libro piuttosto che portare lo studio condotto precedentemente come pubblicazione scientifica, a posteriori pare una scelta azzeccata sia in termini di tempistica della pubblicazione e sia in termini di formato comunicativo, perché senza quel libro anche i più noti studi scientifici non sarebbero arrivati all'opinione pubblica.
 
-- 2006: un anno prima della crisi dei sub-prime loans che per altro era del tutto prevedibile avendo come pattern sui fondamentali il classico schema inflazionistico già evidenziato da altre bolle speculative come quella del 2001 delle dot-com e più in generale lo stesso andamento degli schemi di Ponzi in cui la finanza opera con un livello di criterio sempre meno affidabile e priva di controlli o freni normativi giunge al devastante epilogo.
+- 2006: un anno prima della crisi dei subprime loans che per altro era del tutto prevedibile avendo come pattern sui fondamentali il classico schema inflazionistico già evidenziato da altre bolle speculative come quella del 2001 delle dot-com e più in generale lo stesso andamento degli schemi di Ponzi in cui la finanza opera con un livello di criterio sempre meno affidabile e priva di controlli o freni normativi giunge al devastante epilogo.
 
 In questa serie di date, personalmente, vedo un tentativo reiterato di mettere in discussione il modello di sistema educativo basato sul modello ideato durante la Rivoluzione Industriale, attraverso uno spassionato supportare a favore della creatività piuttosto della disciplina. D'altronde è noto che l'innovazione è tale solo quando riesce a cambiare le regole del gioco di un determinato settore, altrimenti sarebbe solo un ulteriore avanzamento tecnico che al più raggiunge un break-through per il quale oltre al cellulare touchscreen si può avere anche il tablet.
 
@@ -65,9 +68,9 @@ Ma non è necessario farsi rassicurare in questi concetti da un chatbot, anche s
 
 Ogni epoca ha avuto i suoi grandi pensatori e la sua larga base di idioti. La questione però è diversa. Perché un filosofo dell'antica Grecia è ancora contemporaneo come pensiero (o può esserlo) mentre un pensatore dell'800 o del '900 non lo è? Una domanda decisamente intrigante, no?
 
-Fondamentalmente la ragione è che il filoso dell'antica Grecia era secondo la nostra prospettiva un ateo perché gli dei dell'Olimpo erano delle caricatura delle vicende umane. Oltre al fatto che la società dell'epoca era estremamente basilare, il che portava questi pensatori a riflettere sulla natura dell'essere umano o sulla natura delle cose semplici. 
+Fondamentalmente la ragione è che il filosofo dell'antica Grecia era secondo la nostra prospettiva un ateo perché gli dei dell'Olimpo erano delle caricature delle vicende umane. Oltre al fatto che la società dell'epoca era estremamente basilare, il che portava questi pensatori a riflettere sulla natura dell'essere umano o sulla natura delle cose semplici. 
 
-Entrambi questi aspetti non sono cambiati, perché l'essere umano nella sua natura non si è certo evoluto negli ultimi 20-30 secoli, non parliamo d Neanderthal vs Sapiens. Così come le cose basilari della vita, e della natura, sono rimaste le stesse. Mangiamo, dormiamo, ci accoppiamo, ridiamo, piangiamo, etc.
+Entrambi questi aspetti non sono cambiati, perché l'essere umano nella sua natura non si è certo evoluto negli ultimi 20-30 secoli, non parliamo di Neanderthal vs Sapiens. Così come le cose basilari della vita, e della natura, sono rimaste le stesse. Mangiamo, dormiamo, ci accoppiamo, ridiamo, piangiamo, etc.
 
 Il pensatore dell'800 o '900 è un uomo del suo tempo e parla di cose del suo tempo che NON è il nostro tempo. Questo è un fattore devastante quando si parla di modelli funzionali. Musica e arte, sono altro.
 
@@ -77,7 +80,7 @@ Il pensatore dell'800 o '900 è un uomo del suo tempo e parla di cose del suo te
 
 > Adesso ci mancava lo scoppio della guerra tra Israele e Iran.
 
-Il default degli USA è inevitabile ed è previsto per il 2026 [link](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W).
+Il default degli USA è inevitabile ed è previsto per il 2026, cfr. LinkedIn [post](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W).
 
 Ogni tempo ha i suoi "valori" di riferimento. Noi viviamo in un mondo che ha cessato di esistere ma resta in piedi solo come un teatro mentre il nuovo mondo non è ancora sorto sulle rovine del precedente. Perché come diceva quello che hanno bruciato sul rogo con la lingua inchiodata: è ingenuo pensare che il potere riformi se stesso.
 
@@ -89,13 +92,9 @@ Questo perché da una parte il potere non ha più la capacità nemmeno cognitiva
 
 ### La novità nella storia
 
-> È da milioni di anni che esiste l'uomo ed è sempre [...] sopravvissuto a sciagure naturali a guerre, pestilenze, [...].
+> È da milioni di anni che esiste l'uomo ed è sempre [...] sopravvissuto a sciagure naturali a guerre, pestilenze, [...].
 
 Eppure nonostante ciò, mai come oggi l'essere umano, o anche alcuni di noi soltanto, hanno la capacità di portare su questo pianeta il livello di estinzione (che già in termini di biodiversità è epocale, il c.d. antropocene) ad un livello ancora più catastrofico quello della guerra nucleare.
-
-Continua con Gemini sui commenti già scritti qui 
-
-- [g.co/gemini/share/00024414efa8](https://g.co/gemini/share/00024414efa8) &nbsp; [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini.txt#?target=_blank)
 
 +
 
@@ -115,10 +114,11 @@ Si narra che un gerarca nazista -- l'ambasciatore tedesco Otto Abetz, quando poi
 
 Una risposta essenziale che parodiando il lessico militare e che usa il plurale vezzeggiativo per indicare una responsabilità collettiva che il processo di Norimberga ha concretamente provato e definitivamente condannato, dimostrando non solo la genialità di Picasso nel comunicare ma anche la lucidità dello stesso rispetto alla realtà oggettiva.
 
-+++++
++
 
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
