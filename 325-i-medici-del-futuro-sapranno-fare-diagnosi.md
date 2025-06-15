@@ -85,7 +85,7 @@ che l'ha riformulata in una maniera più corretta politicamente senza dare dei t
 
 > In a country where healthcare is a luxury, ChatGPT isn’t replacing doctors, it’s replacing silence.
 
-Qui è accessibile la [conversazione](https://chatgpt.com/share/684c8c36-5b2c-8012-91bb-b572e6750d95) con ChatGPT e la sua [trascrizione](not-yet.txt#?target=_blank), entrambe in inglese.
+Qui è accessibile la [conversazione](https://chatgpt.com/share/684c8c36-5b2c-8012-91bb-b572e6750d95) con ChatGPT e la sua [trascrizione](data/325-i-medici-del-futuro-sapranno-fare-diagnosi-reddit.txt#?target=_blank), entrambe in inglese.
 
 ----
 
