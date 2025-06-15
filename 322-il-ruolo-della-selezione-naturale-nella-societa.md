@@ -47,15 +47,15 @@ Curiosamente, anche in questo breve passaggio della loro vita, i lupi assolvono 
 
 ---
 
-IL RAPPORTO DEI NATIVI AMERICANI CON I BIANCHI
+### Il rapporto dei nativi americani con i bianchi
 
-Se i nativi americani potessero parlare direbbero di aver fatto un accordo di pace con il generale dei bianchi e quando andarono a protestare con lui dicendo che alcuni bianchi avevano sfruttato quell'accordo per attaccare la loro tribù gli fu risposto che il generale è responsabile solo dei suoi soldati e non di tutti i bianchi in circolazione e comunque se i bianchi sono inglesi e dovessero scottennarli lui sarebbe in qualche modo costretto ad investigare perché gli inglesi sono inglesi. Come facciano a distinguere gli inglesi dagli altri bianchi?
+Se gli antichi nativi americani potessero parlare direbbero di aver fatto un accordo di pace con il generale dei bianchi e quando andarono a protestare con lui lamentandosi che alcuni bianchi avevano sfruttato quell'accordo per attaccare la loro tribù, sentendosi rispondere che il generale è responsabile solo dei suoi soldati e non di tutti i bianchi in circolazione e comunque se i bianchi sono inglesi e dovessero scottennarli lui sarebbe costretto ad investigare perché gli inglesi sono inglesi. Come facciano a distinguere gli inglesi dagli altri bianchi? Problema vostro.
 
-https://lnkd.in/dwZm_yMa
+- [gotcha shitfighter](https://lnkd.in/dwZm_yMa) ovvero come i bianchi continuano ad essere sempre uguali a se stessi.
 
-Ecco la storia si ripete, non tale e quale, fa le rime. Se il capo tribù con i suoi guerrieri migliori scotennavano il generale e gli uomini del forte, anche il problema con gli altri bianchi era risolto. Quindi vale il detto del Grande Manitù: "quando vedi un bianco che cammina o cavalca sulla tua terra, tu scotennalo. Tu non sai perché ma lui, il bianco, lo sa. Ma soprattutto, ricorda figlio del vento, che dove c'è un bianco, ce ne sono molti altri, come gli scarafaggi. Quindi dopo averlo scalpato, chiama i tuoi fratelli per finire il lavoro".
+Ecco la storia si ripete, non tale e quale, ma fa le rime. Se il capo tribù con i suoi guerrieri migliori scotennavano il generale e gli uomini del forte, anche il problema con gli altri bianchi era risolto. Quindi vale il detto del Grande Manitù: "quando vedi un bianco che cammina o cavalca sulla tua terra, tu scotennalo. Tu non sai perché ma lui, il bianco, lo sa. Ma soprattutto, ricorda figlio del vento, che dove c'è un bianco, ce ne sono molti altri, come gli scarafaggi. Quindi dopo averlo scalpato, chiama i tuoi fratelli per finire il lavoro".
 
-Spoiler: scottennarli tutti, non uno di meno. C'est la vie! 🤗 
+- **Spoiler**: scottennarli tutti, non uno di meno. C'est la vie! 🤗 
 
 ---
 
