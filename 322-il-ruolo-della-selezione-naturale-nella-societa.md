@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch paleinv" src="img/322-il-ruolo-della-selezione-naturale-nella-societa.png" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/322-il-ruolo-della-selezione-naturale-nella-societa.png" width="800"><br></div>
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
@@ -151,7 +151,7 @@ Quello che in genere viene chiamato il gregge, etc. dal quale ogni individuo vor
 
 La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli. Un tempo si parlava di comunicazione corale, ma il coro implica dei ruoli, una scala fra baritoni e acuti, un'orchestrazione, uno spartito e quindi un'armonia fra struttura e diversità individuali. Armonia e struttura che nascono dalla consapevolezza del ruolo e della tecnica, cosa che manca completamente nei fenomeni di massa moderni.
 
----
+----
 
 ### La teoria genetica di Mendel e la selezione naturale di Darwin
 
@@ -163,28 +163,31 @@ Infine ritorniamo ancora sulla selezione naturale propriamente detta e però que
 
 Non abbiamo solo addomesticato il lupo, ovvero modificato il cambiamento di un individuo e poi magari anche di una specie, per trasformare un potenziale pericolo e un concorrente nella caccia, in un operatore di sicurezza e un alleato nella caccia. Abbiamo alterato secondo il nostro gusto non solo la mente del lupo ma anche il suo corredo genetico. 
 
-Abbiamo creato non solo il cane ma anche delle razze con caratteristice molto peculiari e un corredo genetico relativamente limitato (pedegree) come animaletti da compagnia (tamagoci) che sebbene siano devastati da un punto di vista mentale perché sistematicamente e terrorizzati dalla loro inedaguetezza alla sopravivvenza percepita costantemente a causa dell'istinto, noi adoriamo perché sono buffi (nella forma e nel comportamento) e patologicamente dipendenti da noi.
+Abbiamo creato non solo il cane ma anche delle razze con caratteristice molto peculiari e un corredo genetico relativamente limitato (pedegree) come animaletti da compagnia (tamagoci) che -- sebbene siano devastati da un punto di vista mentale perché sistematicamente e terrorizzati dalla loro inedaguetezza alla sopravivvenza percepita costantemente a causa dell'istinto -- noi adoriamo perché sono buffi (nella forma e nel comportamento) e patologicamente dipendenti da noi.
 
-Qualunque lupo, canide indipendente e che tale voglia rimanere, e persona lucida di mente nonché compassionevole, terminerebbe questi obrori genetici nell'instante che li incontrasse. Che apparentemente potrebbe sembrare equivalente all'eliminazione degli handiccapati per rendere pura e forte la razza ariana ma NON è così. 
+Qualunque lupo, canide indipendente e che tale voglia rimanere, e persona lucida di mente nonché compassionevole, terminerebbe questi obrori genetici nell'instante che li incontrasse. Superficialmente, appare un'idea ferocemente brutale che persino potrebbe sembrare equivalente all'eliminazione degli handiccapati per rendere pura e forte la razza ariana ma **non** è così.
 
-Perché quella sarebbe eugentetica che è esattamente quello che facciamo per ottenere i carlini, accettando come "positivi" rispetto alla selezione che operiamo dei tratti che sono arbitrari e soggetti al nostro gusto ma affatto, anzi contrari, al benessere dell'individuo e della speicie. I carlini sono il prodotto di eugenetica.
+Perché quella sarebbe **eugentetica**, che è esattamente quello che facciamo per ottenere i carlini: operiamo una **sistematica e strategica selezione*** degli individui in maniera che emergano e diventino sempre più evidenti nelle generazioni successive dei tratti che sono arbitrari e soggetti al nostro gusto ma affatto, anzi contrari, al benessere dell'individuo e della speicie. I carlini sono il prodotto dell'eugenetica.
 
-Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno - quella specifica variante del gene o del cromosoma - non trasmettere alle future generazioni perché nessun genitore desidera trasmettere il gene della leucemia ai figli, questo mi pare ovvio.
+Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno evitare che quella specifica variante del gene o del cromosoma si trasmetta alle future generazioni. D'altronde nessun genitore potrebbe desiderare trasmettere il gene della leucemia ai figli, questo mi pare ovvio. La medicina cerca di offrire i mezzi per sopprimere determinati geni, non individui ma geni, e non perché arbitrariamente spiacevoli ma perché disfunzionali alla sopravvivenza fisica.
+
+---
+
+### Alzare l'asticella, crea una pressione evolutiva
 
 Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fenomeno molto complesso multi-dimensionale e che è trasversale a molte specie oltre ad avere almeno due piani operativi (meme vs gene) e almeno due modi di operare (naturale vs domestico).
 
 Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
 
-Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi - quasi sempre - hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
-
-### Alzare l'asticella, crea una pressione evolutiva
+Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi -- quasi sempre -- hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
 
 Se la stupidità uccide, allora è un'agente della selezione naturale. 
 
-+++++
++
 
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
