@@ -59,17 +59,51 @@ Ecco la storia si ripete, non tale e quale, ma fa le rime. Se il capo tribù con
 
 ---
 
-UN PO' DI SELEZIONE NATURALE, INEVITABILE
+### Un po' di selezione naturale, è inevitabile
 
-Con l'adozione in massa degli AI nei dispositivi mobili certi problemi andranno ad acuirsi però altri andranno a risolversi (migliore educazione, più veloce apprendimento, indipendenza dai programmi scolastici).
+Lasciamoci alle spalle il mito del lupo presso i nativi americani e il loro rapporto con i bianchi -- dopo aver riflettuto -- per ritornare a questioni più moderne per non dire attuali e che influenzeranno il nostro prossimo futuro. Il ruolo dell'AI nelle nostre vite.
 
-Indubbiamente la tecnologia cambia il mondo, quindi cambia l'ambiente e il modo con cui ci rapportiamo con esso. Questo crea, inevitabilmente, una pressione evolutiva, sotto la quale alcuni individui cedono.
+Con l'adozione in massa degli AI nei dispositivi mobili certi problemi andranno ad acuirsi però altri andranno a risolversi: migliore educazione, più veloce apprendimento, indipendenza dai programmi scolastici. Nella misura che l'AI sarà utilizzata consapevolmente e qui cascano gli asini e non solo.
 
-Società e civiltà, sono i mezzi che usiamo per evitare di confrontarci con la brutale realtà, ed emanciparci da essa. Eppure, nonostante tutti gli sforzi collettivi NON siamo in grado di ignorare la realtà, così come non siamo capaci di ELIMINARE del tutto la selezione naturale.
+Indubbiamente la tecnologia cambia il mondo, quindi cambia l'ambiente e il modo con cui ci rapportiamo con esso. Questo crea, inevitabilmente, una pressione evolutiva, sotto la quale alcuni individui cedono. Nella misura in cui il progresso è inevitabile anche la pressione evolutiva è inevitabile.
 
-La ragione è abbastanza tautologica oppure da un punto di vista sistemico, integrata nel modello stesso che adoperiamo per emanciparci dalla realtà, tipo usando la tecnologia, oppure crearci delle reti sociali di amicizie, gruppi, etc.
+Società e civiltà, sono i mezzi che usiamo per evitare di confrontarci con la brutale realtà, ed emanciparci da essa. Eppure, nonostante tutti gli sforzi collettivi **non** siamo in grado di ignorare la realtà, così come non siamo capaci di **azzerare** del tutto la selezione naturale.
 
-Senza sorpresa, quando facciamo ciò incontriamo due limiti: 1. cambiamo l'ambiente; 2. emanciparsi va bene ma alienarsi dalla realtà non va bene, però dov'è il confine? Perciò è inevitabile, che alcuni si spingano "oltre".
+La ragione è abbastanza tautologica oppure da un punto di vista sistemico, integrata nel modello stesso che adoperiamo per emanciparci dalla realtà, tipo usando la tecnologia, oppure crearci delle reti sociali di amicizie, gruppi, etc. comunque alteriamo l'ambiente in modo sensibile.
+
+Se non lo facessimo, di alterare l'ambiente, non potremmo nemmeno emanciparci dalla brutalità della realtà. Per quanto possa apparire paradossale, il progresso **non** è un processo sotto il nostro controllo, se lo fosse sceglieremo di non progredire, come infatti accadde nel Medioevo.
+
+Eppure anche il Medioevo, nonostante i suoi dieci secoli di oscorantantismo e feudalismo, terminò. Come per altro tutto ciò che ha natura umana, che ha un inizio e una fine. Generalmente, ambedue relativamente improvvise. Perché è ingenuo pensare che il potere riformi se stesso.
+
+---
+
+### La pressione evolutiva esercitata dalle AI
+
+L'introduzione di una tecnologia che rappresenta un game-change, come Internet, il cellulare, lo smartphone e poi l'intelligenza artificiale costituiscono progressi tecnologici che esercitano dei cambiamenti sulla società, sulle istituzioni e sugli individui, inevitabilmente.
+
+- L'innovazione capita. Il progresso che non si cavalca, si subisce.
+
+Il complesso di tutte queste tecnologie insieme conduce all'ubiquità dell'accesso a vari strumenti dotati di intelligenza artificiale multi-modali, cioè capaci di elaborare testo, audio, immagini, video, documenti, etc. e generare una combinazione di questi formati.
+
+L'uso consapevole di questo strumento rappresenta chiaramente un vantaggio competitivo, indubbiamente e quindi è inevitabile la sua adozione. Ma di questo novello atterraggio sulla Luna, ci sono anche aspetti impegnativi, sfide e rischi. Nella sanità, per esempio.
+
+- [I medici del futuro sapranno fare diagnosi?](325-i-medici-del-futuro-sapranno-fare-diagnosi.md) &nbsp; (2025-06-14)
+
+La parte però più subdola dell'uso **consapevole** non riguarda tanto comprendere quali implicazioni comporti nel breve, medio e lungo termine. Queste, implicazioni, in una qualche misura possiamo prevederle. D'altronde è dall'Illiminismo che progrediamo e qualcosa abbiamo imparato a riguardo.
+
+La parte però più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidono delle loro dichiarazioni "eticamente roboroanti" che di fatto sono pateticamente ipocritiche e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
+
+Si può facilmente immaginare cosa possa accadere con una combinazione nemmeno tanto rara negli USA fra supposte intelligenza artificiale e naturale, ambedue erranti.
+
+- **HO**: sono un uomo sui trenta, non ho il ciclo da tre mesi, mal di testa, sendo di vomito specie la mattina, giramenti di testa e vertigini. Cosa può essere?
+
+- **AI**: la diagnosi più probabile è che tu sia incinta, ti consiglio di consultare il tuo ginecologo e di fare un test di gravidanza.
+
+- **HO**: trovo questa tua risposta, che disconosce la mia identità sessuale, molto offensiva: ormai sono diventato un uomo e quindi non posso rimanere incinta.
+
+- **AI**: chiedo scusa per la mia risposta innapropriata e in accordo alle nuove informazioni la diagnosi più probabile è tumore al cervello.
+
+Se pensate che questo faccia ridere, o che sia pura invenzione, vi tolgo subito il vezzo: né l'uno e né l'altro. Possiamo consolarci notando che la selezione naturale era all'opera da parecchio tempo, molto prima che le AI facessero il debutto al grande pubblico. La [gente era scema](319-a-tragedy-in-the-world-of-ufology.md#?target=blank) anche prima.
 
 ---
 
