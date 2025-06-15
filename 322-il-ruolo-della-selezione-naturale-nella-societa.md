@@ -1,11 +1,11 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-06-13:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="bwsketch" src="img/322-il-ruolo-della-selezione-naturale-nella-societa.png" width="800"><br></div>
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
-- **8th draft**: articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima.
+- **8th draft**: articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima e altro materiale scritto dopo.
 
 ---
 
