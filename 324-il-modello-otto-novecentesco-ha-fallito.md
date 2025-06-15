@@ -7,6 +7,8 @@
 
 - Articolo redatto a partire da vari commenti scritti su LinkedIn e poi sviluppati con il supporto di Gemini, in due chat: 1. [modelli obsoleti](https://g.co/gemini/share/00024414efa8) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini-chat1.txt#?target=_blank) e 2. [supporto alla scrittura](https://g.co/gemini/share/d12cf90c48a7) di cui [trascrizione](data/324-il-modello-otto-novecentesco-ha-fallito-Gemini-chat2.txt#?target=_blank)
 
+- **2nd edition**: aggiunta la sezione riguardo alla tragedia di confondere il mezzo con il fine.
+
 ---
 
 Dubito che un risultato del genere, il fallimento della nostra civiltà, sia capitato per colpa degli insegnanti o addirittura alcuni di essi.
@@ -27,7 +29,7 @@ Come per altro la NASA ha divulgato di recente ma già sapevano dal 1969 quando 
 
 - **Note**: the claims briefly reported above are from George "Breakpoint and Beyond" book (1992), and it presents a study which was never peer-reviewed nor published by any scientific journal. However the broader idea of a decline in creativity with age and formal education is supported by relevant studies, including those by J. P. Guilford (1950), E. P. Torrance (1968) and K. H. Kim (2006).
 
-----
+---
 
 ### Il tempismo è essenziale
 
@@ -109,13 +111,25 @@ Questo perché da una parte il potere non ha più la capacità nemmeno cognitiva
 
 ---
 
+### La tragedia di confondere il mezzo con il fine
+
+Che poi è anche il rapporto che vige fra "obbedire agli ordini" e la "disciplina". All'inizio obbedire agli ordini e aderire alle regole in modo fermo è necessario -- non necessariamente vero, ma comunque un modo universalmente usato -- per imparare la disciplina.
+
+Dopo averla imparata però, obbedire agli ordini dovrebbe diventare superfluo perché nel mentre si è anche divenuti abbastanza maturi da non aver bisogno di quel tipo di controllo da parte di altri. Invece, si crea un circolo vizioso nel quale lo **strumento** diventa il fine, invece di essere il mezzo per un obbiettivo più elevato.
+
+In questo banale esempio e nel suo perverso rapporto, possiamo cogliere nella sua profondità la follia del militarismo. D'altre era noto che gli Spartani fossero dei coraggiosi eroi e dei potenti guerrieri ma se fosse stato per loro non avremmo mai avuto arte, poesia, letteratura e probabilmente nemmeno la scienza come attività intellettuale.
+
+- **Morale**: stupidity kills.
+
+---
+
 ### La novità nella storia
 
 > È da milioni di anni che esiste l'uomo ed è sempre [...] sopravvissuto a sciagure naturali a guerre, pestilenze, [...].
 
 Eppure nonostante ciò, mai come oggi l'essere umano, o anche alcuni di noi soltanto, hanno la capacità di portare su questo pianeta il livello di estinzione (che già in termini di biodiversità è epocale, il c.d. antropocene) ad un livello ancora più catastrofico quello della guerra nucleare.
 
-++++
++
 
 ## Conclusione
 
