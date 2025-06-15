@@ -9,6 +9,8 @@
 
 - L'immagine originale (94.5Kb) usata con ChatGPT e sopra adattata all'intestazione, è disponibile [qui](https://media.licdn.com/dms/image/v2/D4D22AQHf405KPrW5Rw/feedshare-shrink_1280/B4DZducDhcHMAo-/0/1749904538769?e=1752710400&v=beta&t=Ln0eizLF-9Tbkfz78Zw5TzWz4ONtGS0lv2elTZfsgTs).
 
+- **2nd edition**: il rischio dell'auto-diagnosi e il ruolo di ChatGPT nel settore sanitario USA.
+
 ---
 
 ### L'utilità e il rischio dell'AI nella diagnostica
