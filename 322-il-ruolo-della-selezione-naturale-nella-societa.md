@@ -5,11 +5,13 @@
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
-https://www.linkedin.com/posts/%F0%9F%87%AE%F0%9F%87%B9-raffaele-tafuro-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-04206028_lo-sapevi-una-delle-prime-fotografie-di-activity-7333254111708000258-mFAq
+- Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima.
 
 ---
 
 ### Il lupo presso i nativi americani
+
+[!INFO]
 
 Lo sapevi? Una delle prime fotografie di un nativo americano insieme a un lupo risale alla fine del XIX secolo e mette in luce un legame profondo e simbolico.
 
@@ -17,19 +19,31 @@ In quell’epoca, i lupi non erano visti come minacce, ma come simboli di lealt�
 
 Man mano che il fronte occidentale cambiava, questi momenti scomparivano, rendendo immagini come questa testimonianze preziose di un modo di vivere basato sull’armonia con la natura. Sono foto che ci ricordano un tempo in cui la convivenza era fondamentale non solo per la sopravvivenza, ma anche per la costruzione dell’identità culturale.
 
+[/INFO]
+
+La foto associata a questo post si può vedere [qui](https://media.licdn.com/dms/image/v2/D4D22AQHWVKzrbkvOJA/feedshare-shrink_1280/B4DZcTzvlAIAAk-/0/1748384023937?e=1752710400&v=beta&t=dFqv5An0CXE_cI4cJ97IUi-4Pgu5BzJqK938aAM96z8) e ritrae un vecchio indiano pellerossa davanti al suo teepee con accanto un lupo che lo accompagna come fosse un animale domestico. Come fosse, perché ancora oggi, il lupo propriamene detto, **non** è un animale domestico.
+
+Questo è un testo che secondo alcuni benchmark capaci di analizzare la lingua italiana è all'85% generato dall'AI che non significa che ha un 15% di scrittura umana ma che è stato usata LLM moderno, relativamente avanzato, con una temperatura relativamente alta.
+
+Tipo x/Grok la cui temperatura è variata nell'arco del tempo ma tendenzialmente come chatbot orientato a creare post su X, tende ad avere questo rating. Un aspetto importante, ma che per ora ignoreremo, concentrandoci, invece, sul contenuto.
+
 ---
 
-L'EQUILIBRIO CON LA NATURA, QUESTO SCONOSCIUTO
+### L'equilibrio con la natura, questo sconosciuto
 
-https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U
+> il lupo per i nativi americani costituiva anche un'idenità culturale.
 
-Che poi era il motivo per il quale i nativi americani non permettevano alle persone malvagie (un forma di malattia mentale, a ben vedere) di assurgere al potere, perché costoro non erano accettati dai lupi che o se ne stavano alla larga oppure se necessario li aggredivano. Perché nessun lupo è così stupido da scegliersi come leader o compagno un soggetto "difettoso". 
+Che poi era il motivo per il quale i nativi americani non permettevano alle persone malvagie (un forma di malattia mentale, a ben vedere) di assurgere al potere, perché costoro non erano accettati dai lupi che o se ne stavano alla larga oppure se necessario li aggredivano.
 
-Con buona pace di tutti i buoinisti del caxxo, che pensano che nasciamo tutti uguali. Perché la malvagità non è la capacità di uccidere un altro essere umano ma la capacità istintiva di discernere quando e chi, debba essere terminato (o abbandonato al suo destino) e i lupi lo sanno così bene che quando sono vecchi o malati, per non pesare sul gruppo (e rischiare di infestarli con la loro carogna malata) si allontano spontaneamente dal branco per morire in solitudine. 
+Perché nessun lupo è così stupido da scegliersi come leader o come compagno un soggetto "difettoso". Con buona pace di tutti i buonisti o fautori della natura madre e bucolica, che pensano che nasciamo tutti uguali o che la felicità sia un diritto naturale.
 
-Curiosamente, in questo breve passaggio, assolvono ad un compito altrettanto importante, quando incontrano un umano che non dovrebbe circolare a piede libero, tentano di farne preda così facendo apportando equilibrio oppure andando incontro ad una rapida morte: a win-win outcome dal punto di vista dell'equilibrio naturale.
+Perché la malvagità è la capacità di uccidere un altro essere umano o farlo soffrire, inutilmente. L'opposto della capacità istintiva di discernere quando e chi, debba essere terminato (o abbandonato al suo destino).
 
-Continua in questa chat con Gemini 2: https://g.co/gemini/share/f2171a2c306c
+I lupi lo sanno così bene che quando sono vecchi o malati, per non pesare sul gruppo (e rischiare di infestarli con la loro carogna malata) si allontano spontaneamente dal branco per morire in solitudine.
+
+Curiosamente, anche in questo breve passaggio della loro vita, i lupi assolvono ad un compito altrettanto importante: quando incontrano un umano che non dovrebbe circolare a piede libero, tentano di farne preda così facendo apportando equilibrio oppure andando incontro ad una rapida morte. A win-win outcome, dal punto di vista dell'equilibrio naturale.
+
+- Continua con Gemini in questa [conversazione](https://g.co/gemini/share/f2171a2c306c) di cui la sua [trascrizione](not-yet.txt#?target=_blank).
 
 ---
 
