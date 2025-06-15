@@ -169,7 +169,7 @@ Qualunque lupo, canide indipendente e che tale voglia rimanere, e persona lucida
 
 Perché quella sarebbe **eugenetica**, che è esattamente quello che facciamo per ottenere i carlini: operiamo una **sistematica e strategica selezione*** degli individui in maniera che emergano e diventino sempre più evidenti nelle generazioni successive dei tratti che sono arbitrari e soggetti al nostro gusto ma affatto, anzi contrari, al benessere dell'individuo e della specie. I carlini sono il prodotto dell'eugenetica.
 
-Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno evitare che quella specifica variante del gene o del cromosoma si trasmetta alle future generazioni. D'altronde nessun genitore potrebbe desiderare trasmettere il gene della leucemia ai figli, questo mi pare ovvio. La medicina cerca di offrire i mezzi per sopprimere determinati geni, non individui ma geni, e non perché arbitrariamente spiacevoli ma perché disfunzionali alla sopravvivenza fisica.
+Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno evitare che quella specifica variante del gene o del cromosoma si trasmetta alle future generazioni. D'altronde nessun genitore potrebbe desiderare trasmettere il gene della leucemia ai figli, questo mi pare ovvio. La medicina cerca di offrire i mezzi per sopprimere determinati geni, non individui ma geni, e non perché arbitrariamente spiacevoli ma perché disfunzionali alla sopravvivenza fisica o di grave impedimento alla conduzioen di una vita dignitosa.
 
 ---
 
