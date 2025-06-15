@@ -117,15 +117,15 @@ Il che spiega perché nonostante i loro limiti e criicità nell'apprendimento, r
 
 ---
 
-### Alzare l'asticella, crea una pressione evolutiva
+### La selezione naturale, una teoria nota ma sconosciuta
 
-Se la stupidità uccide allora è un'agente della selezione naturale. Ma cos'è questo misterioso e incomprso fenomeno scoperto da Darwin? Intanto possiamo dire che cosa NON è la selezioen naturale e questa spiegazione ci è utile a capire come quel concetto venga usato per manipolare le menti deboli.
+Tutti abbiamo sentito nominare Darwin e la sua teoria delle selezione delle specie. Ma cos'è questo misterioso e incomprso fenomeno scoperto da Darwin? Prima di tutto, iniziamo con dire che cosa **non** è la selezioen naturale e questa spiegazione ci è utile a capire come quel concetto venga usato per manipolare le menti deboli.
 
 La selezione naturale di Darwin, che nei suoi meccanismi fondamentali trova una lucida descrizione ne "Il Gene Egosita" (1976), non riguarda il singolo individuo la cui traiettoria di vita può essere anche fortemente alterata da accidenti o eventi casuali. Ma riguarda le specie, ovvero i gruppi di individui che sono geneticamente affini e però al contempo diversi.
 
-In realtà, la selezione naturale si applica anche ai cloni, come le banane, ma in maniera diversa e anzi proprio in questa differenza riusciamo a capire meglio sia la selezione naturale sia l'incidenza del caso. Il caso opera come il rumore bianco, ovvero è un fattore neutrale sul grande numero di occorrenze anche se dal punto di vista dell'individuo, l'accidente è qualcosa di ingiusto.
+La selezione naturale si applica anche ai cloni, come le banane, ma in maniera diversa e anzi proprio in questa differenza riusciamo a capire meglio sia la selezione naturale sia l'incidenza del caso. Il caso opera come il rumore bianco, ovvero è un fattore neutrale sul grande numero di occorrenze anche se dal punto di vista dell'individuo, l'accidente è un evento ingiusto o fortunato.
 
-Coloro che millantano che la selezione naturale privilegi l'individuo più forte o quello che meglio si adatta, parlano o della c.d. legge della Jungla (che non esiste, quindi è un mito ne bello ne buono) oppure di trasformismo sociale o opportunismo comportamentale (il mito del Gattopardo, tutto cambia perché nulla cambi, in effetti).
+Coloro che millantano che la selezione naturale privilegi l'individuo più forte o quello che meglio si adatta, parlano o della c.d. legge della Jungla -- che non esiste, quindi è un mito ne bello ne buono -- oppure di trasformismo sociale o opportunismo comportamentale, tipo il mito del Gattopardo, tutto cambia perché nulla cambi, in effetti.
 
 Per quanto riguarda le banane, in quanto cloni di una sola pianta, sono comunque soggetti alla selezione naturale ma come singolo individuo distribuito. Il che rende la riproduzione per clonazione molto fragile, infatti diversi tipi di banane si sono estinti, anche se molto conveniente in termini energetici (non serve cercare un partner).
 
@@ -135,13 +135,25 @@ L'uomo è una specie particolare perché basa il suo vantaggio evolutivo, rispet
 
 - sull'intelletto (mente) che ci permette di manipolare idee (meme) sviluppare dei ragionamenti e comprendere relazioni di causa-effetto
 
-Si tenga conto che mente e cervello non stanno necessariamente nella relazione in cui funzionano software e hardware. La mente è più di un insieme di nozioni e algoritmi, ma trascuriamo questo aspetto, seppure essenziale e fondamentale, non ci è utile a comprendere invece le dinamiche più vicine a quello che sono le altre specie di mammiferi e quindi a comprendere il ruolo della selezione naturale.
+Si tenga conto che mente e cervello non stanno necessariamente nella relazione in cui funzionano software e hardware. La mente è più di un insieme di nozioni e algoritmi, ma trascuriamo questo aspetto, seppure essenziale e fondamentale, perché non ci è utile a comprendere invece le dinamiche più vicine a quello che sono le altre specie di mammiferi e quindi a comprendere il ruolo della selezione naturale.
+
+---
+
+### L'essenziale distinzione della specie umana da quelle animali
 
 Occorre però sottolineare che a causa della specificità dell'essere umano, la mente di ogni individuo può essere vista come un entità che fa parte di un gruppo. Se all'interno di questo gruppo ci fosse una qualche forma di competizione, allora due sarebbero le direttrici principali che creano un significativo divario: l'intelligenze e l'informazione.
 
-Sono certo che avrete già sentito parlare di giochi ad assimetria informativa (o guerra assimetrica). Per contro, non vi stupirà leggere che l'omologazione sociale, crea cloni. Non come le banane, che sono dei cloni fisici, ma appiattisce la diversità delle menti costringendole in un unico schema, per esempio il pensiero unico.
+Sono certo che avrete già sentito parlare di giochi ad assimetria informativa (o guerra assimetrica). Per contro, non vi stupirà leggere che l'omologazione sociale, crea cloni. Analogamente come le banane, che sono dei cloni fisici, gli stereotipic appiattiscono la diversità delle menti costringendole in un unico insieme limitati di schemi di pensiero e quindi anche comportamentali.
 
-Quello che in genere viene chiamato il gregge, etc. dal quale ogni individuo vorrebbe distinguersi e nel quale ogni individuo vorrebbe adeguarsi per godere dei vantaggi del gruppo. Nei greggi di pecore in cui l'omologazione è percepita come uno svantaggio, diventano stormi di pappagalli, continuano a ripetere tutti la stessa cosa, ma ognuno sgargiante a modo suo. La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli.
+Il pensiero unico è l'apoteosi di questa concentrazione dove ogni differenza è solo apparente ma non funzionale. Generalmente questo fenomeno del pensiero unico di manifesta, storicamente accertato, anche con una progressiva alienazione dalla realtà che per definizione è follia collettiva. Perché emanciparsi dalla realtà significa conoscerla così bene da aver sviluppato degli strumenti per gestirla molto bene, l'opposto dell'alienazione dalla realtà.
+
+Quello che in genere viene chiamato il gregge, etc. dal quale ogni individuo vorrebbe distinguersi e nel quale ogni individuo vorrebbe adeguarsi per godere dei vantaggi del gruppo. Nei greggi di pecore in cui l'omologazione è percepita come uno svantaggio, diventano stormi di pappagalli: continuano a ripetere tutti, fondamentalmente, la stessa cosa, ma ognuno sgargiante a modo suo.
+
+La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli. Un tempo si parlava di comunicazione corale, ma il coro implica dei ruoli, una scala fra baritoni e acuti, un'orchestrazione, uno spartito e quindi un'armonia fra struttura e diversità individuali. Armonia e struttura che nascono dalla consapevolezza del ruolo e della tecnica, cosa che manca completamente nei fenomeni di massa moderni.
+
+---
+
+### La teoria genetica di Mendel e la selezione naturale di Darwin
 
 Infine ritorniamo ancora sulla selezione naturale propriamente detta e però questa volta insieme a Darwin ci mettiamo anche gli studi sui piselli condotti da Mendel. Sotto questo nuovo punto di vista, vi sono due tipi di selezione:
 
@@ -164,6 +176,10 @@ Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fen
 Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
 
 Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi - quasi sempre - hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
+
+### Alzare l'asticella, crea una pressione evolutiva
+
+Se la stupidità uccide, allora è un'agente della selezione naturale. 
 
 +++++
 
