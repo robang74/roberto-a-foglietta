@@ -107,17 +107,17 @@ Se pensate che questo faccia ridere, o che sia pura invenzione, vi tolgo subito 
 
 ---
 
-LA TRAGEDIA DI CONFONDERE IL MEZZO CON IL FINE
+### Alcune informazioni sul funzionamento delle AI
 
-Che poi è anche il rapporto che vige fra "obbedire agli ordini" e la "disciplina". All'inizio obbedire agli ordini e aderire alle regole in modo fermo è necessario -- forse, ma comunque un modo universalmente usato -- per imparare la disciplina.
+I moderni LLM nonostante non abbiano una capacità di ragionare propria -- anche per la loro struttura emergente dagli algoritmi sottostanti è più simile alla rete neurale che nell'uomo gestisce la digestione e la produzione di feci che alla corteccia celebrale -- sono però capaci di **riconoscere** i passaggi logici-razionali e questo produce l'illusione del pensiero ma pensiero non è.
 
-Dopo però imparata, obbedire agli ordini dovrebbe diventare superfluo perché nel mentre si è anche divenuti abbastanza maturi da non aver bisogno di quel tipo di controllo da parte di altri. Invece, si crea un circolo vizioso nel quale lo STRUMENTO diventa il fine, invece di essere il mezzo per un obbiettivo più elevato.
+Infatti è sufficiente saltare un passaggio logico-razionale e derragliano, un fenomeno simile ma strutturalmente diverso da quello chiamato "allucinazioni delle AI" nel quale il tentativo di fornire in best-effort una risposta le porta ad inventarla, anche di sana pianta. Un fenomeno che esiste anche negli esseri umani, quando forniscono risposte post-hoc a decisioni che hanno preso, ma sulle quali **non** hanno mai effettivamente ragionato.
 
-In questo banale esempio e nel suo perverso rapporto, possiamo cogliere nella sua profondità la follia del militarismo. D'altre era noto che gli Spartani fossero dei grandiosi eroi e dei fieri guerrieri ma se fosse stato per loro non avremmo mai avuto arte, poesia, letteratura e probabilmente nemmeno la scienza come attività intellettuale.
-
-Morale: stupidity kills.
+Il che spiega perché nonostante i loro limiti e criicità nell'apprendimento, riescano a performare meglio del 98-99% degli umani in compiti di routine, piuttosto è sorprendente che abbiamo grosso modo lo stesso vantaggio anche nella capacità di argomentazione!
 
 ---
+
+### Alzare l'asticella, crea una pressione evolutiva
 
 Se la stupidità uccide allora è un'agente della selezione naturale. Ma cos'è questo misterioso e incomprso fenomeno scoperto da Darwin? Intanto possiamo dire che cosa NON è la selezioen naturale e questa spiegazione ci è utile a capire come quel concetto venga usato per manipolare le menti deboli.
 
