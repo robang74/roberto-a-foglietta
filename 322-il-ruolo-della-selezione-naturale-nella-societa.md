@@ -91,7 +91,7 @@ L'uso consapevole di questo strumento rappresenta chiaramente un vantaggio compe
 
 La parte più subdola dell'uso dell'AI **non** riguarda tanto la consapevolezza dell'utente o il comprendere da parte della società quali implicazioni comporti nel breve, medio e lungo termine. Queste implicazioni, in una qualche misura sappaimo prevederle. D'altronde è dall'Illuminismo che progrediamo costantemente, e qualcosa abbiamo imparato a riguardo.
 
-La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidono delle loro dichiarazioni "eticamente roboroanti" che di fatto sono pateticamente ipocritiche e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
+La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidono delle loro dichiarazioni "eticamente roboanti" che di fatto sono pateticamente ipocritiche e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
 
 Si può facilmente immaginare cosa possa accadere con una combinazione nemmeno tanto rara negli USA fra supposte intelligenza artificiale e naturale, ambedue erranti.
 
@@ -151,7 +151,7 @@ Quello che in genere viene chiamato gregge, etc. dal quale ogni individuo vorreb
 
 La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli. Un tempo si parlava di comunicazione corale, ma il coro implica dei ruoli, una scala fra baritoni e acuti, un'orchestrazione, uno spartito e quindi un'armonia fra struttura e diversità individuali. Armonia e struttura che nascono dalla consapevolezza del ruolo e della tecnica, cosa che manca completamente nei fenomeni di massa moderni.
 
-----
+~~~~
 
 ### La teoria genetica di Mendel e la selezione naturale di Darwin
 
