@@ -11,10 +11,10 @@ Attachment: comment on reddit (screenshot)
 
 This screenshot in attachment reports a comment by a ChatGPT user which used
 ChatGPT to check the symptoms of the wife and has been suggested hurry in the
-emergency at hospital. He reports that this suggestion saved his wife life.
+emergency at hospital. He reports that this suggestion saved his wife's life.
 This screenshot is proposed like ChatGPT can save lives but in my opinion this
 approach can be more harmful than safe because many people can take wrong
-actions disattenting their meditians. Moreover, the "derm" in this case could
+actions disattending their medicians. Moreover, the "derm" in this case could
 have been wrong like every human but it also possible s/he has no a medical
 degree but just a special course. I think that this happen in US because he
 said $20. What do you think about it?
@@ -31,50 +31,50 @@ Here are a few key considerations from both perspectives:
 
 **** ⚠️ Risks and Limitations ****
 
-   1. AI is not a substitute for medical training:
+1. AI is not a substitute for medical training:
 
-          o ChatGPT and similar tools are not licensed medical practitioners.
+      o ChatGPT and similar tools are not licensed medical practitioners.
 
-          o AI can offer suggestions based on patterns in data, but it can't
-            perform physical exams, interpret lab work in context, or take
-            legal responsibility.
+      o AI can offer suggestions based on patterns in data, but it can't
+        perform physical exams, interpret lab work in context, or take
+        legal responsibility.
 
-   2. Confirmation bias and false reassurance:
+2. Confirmation bias and false reassurance:
 
-          o A user might selectively believe AI when it confirms their
-            assumptions, or ignore professionals when they’re uncertain.
+      o A user might selectively believe AI when it confirms their
+        assumptions, or ignore professionals when they’re uncertain.
 
-          o Worse, if the AI gave reassuring but wrong advice, it could delay
-            care in life-threatening situations.
+      o Worse, if the AI gave reassuring but wrong advice, it could delay
+        care in life-threatening situations.
 
-   3. Variable quality of human professionals:
+3. Variable quality of human professionals:
 
-          o As you pointed out, a "derm" could be a board-certified
-            dermatologist—or just a technician with limited training.
+      o As you pointed out, a "derm" could be a board-certified
+        dermatologist—or just a technician with limited training.
 
-          o In systems like the U.S., where healthcare access and quality can
-            vary, people sometimes rely on "second opinions" from any source
-            they can get—including AI.
+      o In systems like the U.S., where healthcare access and quality can
+        vary, people sometimes rely on "second opinions" from any source
+        they can get—including AI.
 
 **** ✅ Potential Benefits ****
 
-   1. Acting as a second opinion:
+1. Acting as a second opinion:
 
-          o In this case, ChatGPT encouraged someone to seek urgent care based
-            on symptoms like fever post-procedure—a real red flag for sepsis,
-            which is time-sensitive and deadly.
+      o In this case, ChatGPT encouraged someone to seek urgent care based
+        on symptoms like fever post-procedure—a real red flag for sepsis,
+        which is time-sensitive and deadly.
 
-          o The AI might have helped the user overcome hesitation that could've
-            led to a tragedy.
+      o The AI might have helped the user overcome hesitation that could've
+        led to a tragedy.
 
-   2. Access for those with limited options:
+2. Access for those with limited options:
 
-          o For users in rural or underserved areas, AI might provide a first
-            step when no doctor is available or affordable.
+      o For users in rural or underserved areas, AI might provide a first
+        step when no doctor is available or affordable.
 
-          o The $20 the user mentioned likely refers to the ChatGPT Plus
-            subscription, which, for some, is more accessible than a visit to
-            urgent care or an ER.
+      o The $20 the user mentioned likely refers to the ChatGPT Plus
+        subscription, which, for some, is more accessible than a visit to
+        urgent care or an ER.
 
 **** 🌍 Cultural Context ****
 

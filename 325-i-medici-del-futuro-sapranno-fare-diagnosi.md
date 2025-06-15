@@ -53,7 +53,7 @@ Conclusione (diagnosi più probabile): Insufficienza cardiaca destra (o aumento 
 
 ### Il rischio dell'auto-diagnosi per gli utenti
 
-L'altro rischio importante riguardo alla capacità delle AI di fare diagnosi anche in modo molto sofisticato è quello che gli utenti finali possa seguire dei consigli che oggettivamente non sono supportati da un'esperienza medica nel mondo reale e fare scelte che possono compromettere seriamente la loro salute.
+L'altro rischio importante riguardo alla capacità delle AI di fare diagnosi anche in modo molto sofisticato è quello che gli utenti finali possano seguire dei consigli che oggettivamente non sono supportati da un'esperienza medica nel mondo reale e fare scelte che possono compromettere seriamente la loro salute.
 
 Ma se vogliamo essere onesti ed equilibrati nel ponderare questo rischio, occorre anche mettere in conto tutte quelle persone -- ben prima che ChatGPT & Co. fossero messi on-line -- che hanno scelto di affidarsi alla medicina omeopatica oppure a cure alternative o ai c.d. rimedi della nonna.
 
@@ -61,7 +61,7 @@ Quindi il problema esisteva ben prima dell'avvento dell'intelligenza artificiale
 
 Inutile dire che la [gestione della pandemia](file:///home/roberto/robang74/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) del Covid-19 ha profondamente e largamente minato la fiducia della gente, non solo riguardo alla medicina ma, anche delle istituzioni e delle forze dell'ordine che hanno sostenuto o addirittura obbligato le persone a seguire le direttive dall'alto.
 
-In questo panora, già molto compromesso, sarebbe alquanto ipocrita pensare che l'intelligenza artificiale possa, nel complesso di tutti i casi, fare peggio di quanto abbiamo fatto noi umani. Se non altro perché al netto di pregiudizi indotti, le AI non hanno un movente per danneggiare gli altri.
+In questo panorama, già molto compromesso, sarebbe alquanto ipocrita pensare che l'intelligenza artificiale possa, nel complesso di tutti i casi, fare peggio di quanto abbiamo fatto noi umani. Se non altro perché al netto di pregiudizi indotti, le AI non hanno un movente per danneggiare gli altri.
 
 ---
 
@@ -75,11 +75,11 @@ Per capire questo caso, però occorre notare che negli USA l'accesso ai servizi 
 
 Ovviamente, la prima cosa che ho fatto è quella di confrontarmi su questo caso con ChatGPT, incluso il problema dell'uso inappropriato del servizio riguardo all'auto-diagnosi e in contrasto con il parere del medico.
 
-Anche se, in questo caso, il *Derm*atologo potrebbe **non** essere un medico laureato e specializzato come lo intendiamo in Europa ma una figura professionale più simile ad un infermiere e forse anche meno, giusto un po' più specializzato di un estetista professionista, questo negli USA.
+Anche se, in questo caso, il *Derm*atologo potrebbe **non** essere un medico laureato e specializzato come lo intendiamo in Europa ma una figura professionale più simile ad un infermiere e forse anche meno, giusto un po' più specializzato di un'estetista professionista, questo negli USA.
 
-Un dubbio, riguardo al backgroud educativo degli operatori sanitari o equivalenti in USA, che è stato ritenuto ragionevole anche da ChatGPT anche se la mia opinione sull'argomento è stata etichettata come molto audace da parte del chatbot:
+Un dubbio, riguardo al background educativo degli operatori sanitari o equivalenti in USA, che è stato ritenuto ragionevole anche da ChatGPT anche se la mia opinione sull'argomento è stata etichettata come molto audace da parte del chatbot:
 
-> In un paese del terzo mondo dove l'accesso alla sistema sanitario non è universale, ChatGPT è meglio di niente.
+> In un paese del terzo mondo dove l'accesso al sistema sanitario non è universale, ChatGPT è meglio di niente.
 
 che l'ha riformulata in una maniera più corretta politicamente senza dare dei terzo-mondisti sanitari agli americani, perché non si sputa nel piatto in cui si mangia:
 
@@ -89,15 +89,15 @@ Qui è accessibile la [conversazione](https://chatgpt.com/share/684c8c36-5b2c-80
 
 ----
 
-### Prima di ridere degli amricani, pensiamo a noi
+### Prima di ridere degli americani, pensiamo a noi
 
-Ma la realtà è dura a morire e pare che dopo il mito di "Luigi" il giustiziere, in America abbiano ripresto a sparare per ammazzare quelli che li hanno condotti al paradigma forzato pay-or-die del sistema "carozzone" sanitario più costoso e inefficiente che l'essere umano abbia mai creato, roba che nel sud italia stanno messi meglio.
+Ma la realtà è dura a morire e pare che dopo il mito di "Luigi" il giustiziere, in America abbiano ripreso a sparare per ammazzare quelli che li hanno condotti al paradigma forzato pay-or-die del sistema "carrozzone" sanitario più costoso e inefficiente che l'essere umano abbia mai creato, roba che nel sud italia stanno messi meglio.
 
 - Americani, gente così povera che hanno ChatGPT invece del medico curante!
 
 Sembra umorismo e però non fa ridere. Non lo scrivo per sfottere gli americani, ma per giustamente sottolineare che nonostante gli americani siano un popolo armato fino a denti, comunque si sono trovati in questa situazione come anche la viralità del post su reddit dimostra.
 
-Perciò gli italiani -- disarmati e innocui -- una riflessione rigaurdo a quale direzione stia prendendo il diritto all'accesso universale alle strutture sanitrarie, dovrebbero farla prima che poi, invece di protestare contro le nozze da favola di Jeff Bezos a Venezia.
+Perciò gli italiani -- disarmati e innocui -- una riflessione riguardo a quale direzione stia prendendo il diritto all'accesso universale alle strutture sanitarie, dovrebbero farla prima che poi, invece di protestare contro le nozze da favola di Jeff Bezos a Venezia.
 
 +
 
