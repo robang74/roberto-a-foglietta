@@ -5,7 +5,7 @@
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
-- **9th draft**: articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima e altro materiale scritto dopo.
+- Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima e altro materiale scritto dopo.
 
 ---
 
@@ -43,7 +43,7 @@ I lupi lo sanno così bene che quando sono vecchi o malati, per non pesare sul g
 
 Curiosamente, anche in questo breve passaggio della loro vita, i lupi assolvono ad un compito altrettanto importante: quando incontrano un umano che non dovrebbe circolare a piede libero, tentano di farne preda così facendo apportando equilibrio oppure andando incontro ad una rapida morte. A win-win outcome, dal punto di vista dell'equilibrio naturale.
 
-- Continua con Gemini in questa [conversazione](https://g.co/gemini/share/f2171a2c306c) di cui la sua [trascrizione](not-yet.txt#?target=_blank).
+- Continua con Gemini in questa [conversazione](https://g.co/gemini/share/f2171a2c306c) di cui la sua [trascrizione](data/322-il-ruolo-della-selezione-naturale-nella-societa-2stili.txt#?target=_blank).
 
 ---
 
@@ -211,7 +211,7 @@ In questo contesto pare che la decisione di Trump, stante alle [ultime notizie](
 
 #### SoNia v3.6.0, argumentative 2nd level session prompt
 
-Infine, in questa [conversazione](https://g.co/gemini/share/c2d375412b9d), o la sua [trascrizione](not-yet.txt#?target=_blank), con Gemini si valuta e si commenta, sezione dopo sezione, l'articolo nella sua interezza. Si noti che per ottenere questo risultato il prompt di sessione [SoNia](https://robang74.github.io/chatbots-for-fun/data/sonia-argumentative-w-rag-v3.txt) è stato evoluto, da argomentativo su documento esistente (v3.5.3) ad argomentativo in scrittura (v3.6.0).
+Infine, in questa [conversazione](https://g.co/gemini/share/c2d375412b9d), o la sua [trascrizione](data/322-il-ruolo-della-selezione-naturale-nella-societa-gemini.txt#?target=_blank), con Gemini si valuta e si commenta, sezione dopo sezione, l'articolo nella sua interezza. Si noti che per ottenere questo risultato il prompt di sessione [SoNia](https://robang74.github.io/chatbots-for-fun/html/introducing-sonia-seamless-chat-experience.html) è stato evoluto, da argomentativo su documento esistente (v3.5.3) ad argomentativo in scrittura (v3.6.0).
 
 +
 
