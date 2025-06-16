@@ -5,7 +5,7 @@
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
-- **8th draft**: articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima e altro materiale scritto dopo.
+- **9th draft**: articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_lo-sapevi-una-delle-prime-fotografie-di-activity-7335203016804872193-qh3U) pubblicato la settimana prima e altro materiale scritto dopo.
 
 ---
 
@@ -89,9 +89,13 @@ L'uso consapevole di questo strumento rappresenta chiaramente un vantaggio compe
 
 - [I medici del futuro sapranno fare diagnosi?](325-i-medici-del-futuro-sapranno-fare-diagnosi.md) &nbsp; (2025-06-14)
 
-La parte più subdola dell'uso dell'AI **non** riguarda tanto la consapevolezza dell'utente o il comprendere da parte della società quali implicazioni comporti nel breve, medio e lungo termine. Queste implicazioni, in una qualche misura sappaimo prevederle. D'altronde è dall'Illuminismo che progrediamo costantemente, e qualcosa abbiamo imparato a riguardo.
+La parte più subdola dell'uso dell'AI **non** riguarda tanto la consapevolezza dell'utente o il comprendere da parte della società quali implicazioni comporti nel breve, medio e lungo termine. Queste implicazioni, in una qualche misura sappiamo prevederle. D'altronde è dall'Illuminismo che progrediamo costantemente, e qualcosa abbiamo imparato a riguardo.
 
-La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidono delle loro dichiarazioni "eticamente roboanti" che di fatto sono pateticamente ipocritiche e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante, la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
+---
+
+### Il rischio subdolo dell'adozione dell'AI
+
+La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidano delle loro dichiarazioni "eticamente roboanti" che di fatto sono pateticamente ipocrite e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante, la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
 
 Si può facilmente immaginare cosa possa accadere con una combinazione nemmeno tanto rara negli USA fra supposte intelligenza artificiale e naturale, ambedue erranti.
 
@@ -113,7 +117,7 @@ I moderni LLM nonostante non abbiano una capacità di ragionare propria -- anche
 
 Infatti è sufficiente saltare un passaggio logico-razionale e deragliano, un fenomeno simile ma strutturalmente diverso da quello chiamato "allucinazioni delle AI" nel quale il tentativo di fornire in best-effort una risposta le porta ad inventarla, anche di sana pianta. Un fenomeno che esiste anche negli esseri umani, quando forniscono risposte post-hoc a decisioni che hanno preso, ma sulle quali **non** hanno mai effettivamente ragionato.
 
-Il che spiega perché nonostante i loro limiti e criticità nell'apprendimento, riescano a performare meglio del 98-99% degli umani in compiti di routine, piuttosto è sorprendente che abbiamo grosso modo lo stesso vantaggio anche nella capacità di argomentazione!
+Il che spiega perché nonostante i loro limiti e criticità nell'apprendimento, riescano a performare meglio del 98% degli umani in compiti di routine, piuttosto è sorprendente che abbiamo grosso modo lo stesso vantaggio anche nella capacità di argomentazione!
 
 ---
 
@@ -182,6 +186,26 @@ Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fen
 Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
 
 Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi -- quasi sempre -- hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
+
++
+
+## Conclusione
+
+Questo articolo è relativamente lungo e articolato, perché tratta tre temi affatto banali e spesso anche incompresi o oggetto di manipolazioni interpretative arbitrarie, alle quali era anche doveroso opporre delle interpretazioni altrettanto emotivamente toccanti ma di effetto opposto e contrario, al fine di compensarle per poi rieducarle:
+
+- la brutalità della natura selvaggia, più in generale della realtà e anche della "natura" umana
+
+- la selezione e l'evoluzione nelle sue varie forme, quella naturale vs domestica, gene vs meme
+
+- l'introduzione dell'AI come fattore apicale di una transizione tecnologica che parte dal morse
+
+In questo contesto, alcune parti risentono di un'interpretazione antropocentrica che al pari delle spiegazioni c.d. post-hoc caricano di significato alcuni pattern comportamentali che nella letteratura sono riconosciuti come istintivi, quindi neutri da un punto di vista delle intenzioni, ma comunque funzionali.
+
+Sulla funzionalità di questi pattern, ho fornito la mia opinione ovviamente opinabile e volutamente polemica, perché -- nella misura in cui i risultati di Land & Berguet dello studio condotto dalla NASA e poi riferiti da Land in un libro pubblicato anni dopo (1992) -- il 98% degli adulti avrebbe perso l'umana e innata creatività e con essa anche la capacità del pensiero profondo.
+
+Un risultato ottenuto attraverso la pressione esercitata da diverse autorità e strutture di origine otto-novecentesca, il cui [fallimento](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) comincia ad apparire come esistenziale, sia per il rapporto con l'AI che per quanto docile ed addomesticata si porrebbe come un Labrador verso dei Carlini fra i quali le fatalità potrebbero accadere anche solo in rapporto mite e giocoso, sia perché altre culture distanti dalla nostra sia in termini geografici sia storici, abbiano approcciato l'educazione di massa con paradigmi assai più competitivi dei nostri.
+
+Il che ci porta esattamente alla conclusione di cui l'incipit della sezione precedente, il collasso di una società e di una cultura come effetto inevitabile di una resistenza interna al cambiamento creata grazie proprio all'uso propagandistico quegli strumenti tecnologici che avrebbero dovuto, in teoria, liberare la nostra creatività dalla scatola dei paradigmi otto-novecenteschi, e che invece rischiano di essere il decadimento che ammazza il gatto di Schrodinger, cioè la nostra civiltà.
 
 +
 
