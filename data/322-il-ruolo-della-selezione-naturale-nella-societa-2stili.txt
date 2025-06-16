@@ -1,9 +1,13 @@
+Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-Gemini 2.5 Flash
+****** data/322-il-ruolo-della-selezione-naturale-nella-societa-2stili.txt *****
 
-2 giugno 2025
+Chatbot: Gemini 2.5 flash
+Created: 2nd June 2025
+Published 2nd June 2025
+Attachment: none
 
-****** Conversation with Gemini ******
+================================================================================
 
 Un testo scritto da due autori diversi, cosa ne pensi?
 
