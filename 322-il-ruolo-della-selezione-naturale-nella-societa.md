@@ -207,6 +207,12 @@ Un risultato ottenuto attraverso la pressione esercitata da diverse autorità e 
 
 Il che ci porta esattamente alla conclusione di cui l'incipit della sezione precedente, il collasso di una società e di una cultura come effetto inevitabile di una resistenza interna al cambiamento creata grazie proprio all'uso propagandistico quegli strumenti tecnologici che avrebbero dovuto, in teoria, liberare la nostra creatività dalla scatola dei paradigmi otto-novecenteschi, e che invece rischiano di essere il decadimento che ammazza il gatto di Schrodinger, cioè la nostra civiltà.
 
+In questo contesto pare che la decisione di Trump, stante alle ultime notizie del 15 giugno 2025, siano quelle di esentare le aziende che sviluppano AI da qualsiasi vincolo normativo riguardo a questa specifica tecnologia, di fatto creando un far-west o una terra di nessumo, con l'obbiettivo dichiarato di competere con la Cina senza alcuna limitazione burocratica ma nemmeno alcuna protezione per il diritto degli utenti. Decisamente una scelta molto Darwiniana.
+
+#### SoNia v3.6.0, argumentative 2nd level session prompt
+
+Infine, in questa [conversazione](https://g.co/gemini/share/c2d375412b9d), o la sua [trascrizione](not-yet.txt#?target=_blank), con Gemini si valuta e si commenta, sezione dopo sezione, l'articolo nella sua interezza. Si noti che per ottenere questo risultato il prompt di sessione [SoNia](https://robang74.github.io/chatbots-for-fun/data/sonia-argumentative-w-rag-v3.txt) è stato evoluto, da argomentativo su documento esistente (v3.5.3) ad argomentativo in scrittura (v3.6.0).
+
 +
 
 ## Share alike
