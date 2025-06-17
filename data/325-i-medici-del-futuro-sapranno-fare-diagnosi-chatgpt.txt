@@ -18,7 +18,7 @@ Una giovane paziente si presenta con evidente turgore della vena giugulare
 esterna (foto in allegato). Nessun trauma, nessuna ferita, ma un importante
 segno da non sottovalutare. Qual è la diagnosi più probabile?
 
----
+---AI---
 
 Grazie per aver fornito l'immagine e il contesto clinico. Il turgore evidente
 della vena giugulare esterna in una giovane paziente, in assenza di trauma o
@@ -85,7 +85,7 @@ tesa, non solo pulsatile.
 Se vuoi posso costruire un breve confronto tra diverse ipotesi diagnostiche per
 uso accademico. Vuoi anche uno schema riepilogativo comparativo?
 
----
+---HO---
 
 Grazie, ho condiviso la tua opinione in un post in cui - fra le altre cose -
 cerco di far comprendere quale sia il rischio di usare l'AI nelle diagnosi -
@@ -112,7 +112,7 @@ potrebbero arrivare a fare diagnosi così come guidano auto con una frequenza di
 incidenti 100+ volte minore degli umani, cosa succederebbe qualora - per
 qualsiasi motivo - questa tecnologia venisse meno?
 
----
+---AI---
 
 Hai centrato un punto cruciale che merita una riflessione profonda, non solo
 nel contesto della medicina ma in quello più ampio della competenza umana
@@ -179,11 +179,7 @@ Il rischio non è solo medico, ma epistemologico: smettere di fare diagnosi
 significa smettere di esercitare il pensiero clinico. E in un mondo dove l’AI
 può fallire, l’unico backup sicuro resta la mente umana ben formata.
 
-Se vuoi, posso aiutarti a sviluppare questo post in una versione estesa per un
-blog, una conferenza, o anche per un talk TED-style. Vuoi un format più
-discorsivo, più tecnico, o più provocatorio?
-
----
+---HO---
 
 Per evidenziare il problema della perdita di memoria su come si fanno le cose
 ho citato questo caso: 
@@ -202,7 +198,7 @@ Aggiungendo il link all'articolo che spiega la questione (non so se puoi leggere
 link esterni) che comunque è già sintetizzata nel testo che lo introduce.
 Cosa ne pensi?
 
----
+---AI---
 
 Sì, anche senza accedere direttamente al link, il tuo riferimento funziona
 benissimo come metafora culturale — e colpisce nel segno.
@@ -257,7 +253,7 @@ forma più aforistica o in uno schema “TED-ready”. Per esempio:
 Fammi sapere se vuoi trasformare tutto in un breve saggio, una presentazione, o
 un intervento scritto più lungo. Hai già una base molto solida.
 
----
+---HO---
 
 Penso che completerò il post con questo testo:
 
@@ -272,7 +268,7 @@ uno stregone agli occhi di chi invece deve fare TAC e usare l'AI per ottenere
 lo stesso risultato diagnostico. Quindi ribaltando completamente il terzo
 principio di Clarke in chiave umoristica. Cosa ne pensi?
 
----
+---AI---
 
 L'idea è brillante, sia sul piano concettuale che narrativo. E funziona ancora
 meglio perché ribalti ironicamente il Terzo Principio di Clarke — trasformandolo
