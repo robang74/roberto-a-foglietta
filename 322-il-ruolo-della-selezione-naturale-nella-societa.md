@@ -209,6 +209,8 @@ Il che ci porta esattamente alla conclusione di cui l'incipit della sezione prec
 
 In questo contesto pare che la decisione di Trump, stante alle [ultime notizie](https://www.ilfattoquotidiano.it/2025/06/15/trump-big-tech-moratoria-intelligenza-artificiale-far-west-normativo-news/8025827/) del 15 giugno 2025 (ieri, [PDF](data/322-il-ruolo-della-selezione-naturale-nella-societa-trump.pdf#?target=_blank)), siano quelle di esentare le aziende che sviluppano AI da qualsiasi vincolo normativo riguardo a questa specifica tecnologia, di fatto creando un far-west o una terra di nessumo, con l'obbiettivo dichiarato di competere con la Cina senza alcuna limitazione burocratica ma nemmeno alcuna protezione per il diritto degli utenti. Decisamente una scelta molto Darwiniana.
 
+...
+
 #### SoNia v3.6.0, argumentative 2nd level session prompt
 
 Infine, in questa [conversazione](https://g.co/gemini/share/c2d375412b9d), o la sua [trascrizione](data/322-il-ruolo-della-selezione-naturale-nella-societa-gemini.txt#?target=_blank), con Gemini si valuta e si commenta, sezione dopo sezione, l'articolo nella sua interezza. Si noti che per ottenere questo risultato il prompt di sessione [SoNia](https://robang74.github.io/chatbots-for-fun/html/introducing-sonia-seamless-chat-experience.html) è stato evoluto, da argomentativo su documento esistente (v3.5.3) ad argomentativo in scrittura (v3.6.0).
