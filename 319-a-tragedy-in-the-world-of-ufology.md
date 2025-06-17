@@ -39,9 +39,11 @@ Twenty-five years of ufology, and speculations, did not achieve the secret of ho
 
 In the meanwhile technology made huge progress in every field, like a 2.5" HDD size 20GB weight 100gr. evolved in a 2TB NVMe M.2 SSD weight 10gr. Isn't better do science and tech than speculations? Sure, it is harder!
 
-...
+[!INFO]
+**Note (&ast;)**
 
-(*) The earliest baskets, including what we might call "wicker" ones (although the materials varied depending on local availability), date back to about 10,000-12,000 years ago. There are finds that testify to their presence as early as the 9th millennium BC in Asia Minor and the Middle East (for example at Shanidar in Iraq, Çatalhöyük in Turkey, and in Upper Egypt). Some of the oldest complete baskets have been found in the Negev and date back to 10,500 years ago. -- Gemini 2.
+The earliest baskets, including what we might call "wicker" ones (although the materials varied depending on local availability), date back to about 10,000-12,000 years ago. There are finds that testify to their presence as early as the 9th millennium BC in Asia Minor and the Middle East (for example at Shanidar in Iraq, Çatalhöyük in Turkey, and in Upper Egypt). Some of the oldest complete baskets have been found in the Negev and date back to 10,500 years ago. -- Gemini 2.
+[/INFO]
 
 +
 
