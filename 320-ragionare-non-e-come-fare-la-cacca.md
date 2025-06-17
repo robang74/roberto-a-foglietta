@@ -140,7 +140,7 @@ Se la nostra capacità di scoprire delle novità, è limitata dalla nostra capac
 
 ...
 
-#### (*) Nota
+#### Nota (*)
 
 Nonostante questo ci appaia normale, da un punto di vista degli LLM tali abbinamenti sono arbitrari. È falso e pericoloso asserire che l'etica offra valori assolutamente arbitrari così come affermare che essa offra valori morali assoluti. Da un punto di vista dell'essere umano, data la sua biologia, il suo essere animale sociale, inclusi alcuni fattori culturali che per quanto arbitrari sono diffusi, etc. c'è etica ed etica, ovvero non tutte le etiche possibili sono anche utili all'uomo.
 
