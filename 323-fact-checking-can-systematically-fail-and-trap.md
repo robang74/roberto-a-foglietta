@@ -85,7 +85,7 @@ Morale? Quando vedi un uomo bianco calvare o camminare sulla tua terra, scalpalo
 
 Gente che di mestiere non sa, ma insegna e coordina.
 
-=-> https://g.co/gemini/share/0631cd1132d4(Gemini 2.5 flash)
+=-> https://g.co/gemini/share/edc62a2bab9e (Gemini 2.5 flash)
 
 Che effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green" che a questo punto appare più essere simile a quello di un flyer che promuove l'adesione ad una religione minoritaria di suonatori di campanelli che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
 
