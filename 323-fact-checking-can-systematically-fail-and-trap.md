@@ -51,7 +51,7 @@ Quando invece la persona li conosce e chiede di verificarli, oplà: ad essere {p
 
 ...
 
-(*) NOTA 
+NOTA (*) 
 
 Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento, sono impazzite nei confronti dell'hype dell'AI.
 
@@ -78,6 +78,22 @@ Secondo questo principio è stupido anche chi si fa governare da dei corrotti o 
 Viene alla mente quella cinica citazione di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) le sceliete pure come adatti al potere. Peccato siano finiti a vivere nelle riserve, sembravano intelligenti, o no?
 
 Morale? Quando vedi un uomo bianco calvare o camminare sulla tua terra, scalpalo figlio del vento e poi - sapendo che i bianchi sono come gli scarafaggi che dove c'è n'è uno ce ne sono mille - chiama i tuoi fratelli per fare lo scalpo anche gli altri, tutti, non uno di meno.
+
+
+---
+
+
+Gente che di mestiere non sa, ma insegna e coordina.
+
+=-> https://g.co/gemini/share/0631cd1132d4(Gemini 2.5 flash)
+
+Che effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green" che a questo punto appare più essere simile a quello di un flyer che promuove l'adesione ad una religione minoritaria di suonatori di campanelli che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
+
+La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'investimento "tecnologico" diversificando e mitigando i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
+
+Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
+
+Da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
 
 +
 
