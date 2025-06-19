@@ -1,9 +1,11 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch paleinv" src="img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
 
 ## AI driven fact-check can sistemically fail
+
+- **1st draft**: articolo in scrittura attiva, ancora da completare.
 
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
 
@@ -46,19 +48,19 @@ Under this point of view, the Chinese thorium reactor is more a post-processing 
 
 Sometimes, when complexity gets into the picture, theory and practice have quite different outcomes. So, some years of observation of the first working prototype is a must, for safety and to secure the asset (aka lowering the ROI in short-terms in such a way it can provide higher ROI in long terms, said as a financial bro).
 
----
+...
 
-INFORMATION ABOUT THIS CHINESE REACTOR
+#### Information about this chinese reactor
 
-Chinese scientists successfully refueled a molten salt thorium reactor without shutting it down — something never done before. This reactor, located in a secret facility in the Gobi Desert, generates 2 megawatts of electricity, enough to power 2,000 homes. It’s based on a design first tested in the US in the 1960s but later shelved. China used that declassified research and built on it for decades.
+[!CITE]
+Chinese scientists successfully refueled a molten salt thorium reactor without shutting it down — something never done before. This reactor, located in a secret facility in the Gobi Desert, generates 2 megawatts of electricity, enough to power 2,000 homes. It’s based on a design first tested in the US in the 1960s but later shelved. China used that declassified research and built on it for decades. 
+[/CITE]
 
-[...]
+- Source: [post](https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post) and its [transcription](data/323-ai-driven-fact-check-can-sistemically-fail-reactor.txt#?target=_blank) on Facebook
 
-Full Facebook post can be read here: lnkd.in/dyvdFx_W
+...
 
----
-
-PERPLEXITY AI FACT-CHECKING
+#### Perplexity AI fact-checking
 
 1. The text you provided [original FB post in full, without the photo] is largely accurate and well supported by multiple recent news and open-source intelligence (OSINT) reports about China's thorium molten salt reactor breakthrough. -- lnkd.in/dU59MmRE
 
@@ -68,65 +70,67 @@ Without surprise, we as Westerners have a lot of reliable information about what
 
 ---
 
-IL FACT-CHECKING COME TRAPPOLA COGNITIVA
+### Il fact-chekcing come trappola cognitiva
 
-Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente.
+Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, è l'AI ad essere il game-changer (*) che permette di far emergere certe dinamiche in tempi molto ridotti.
 
-Come esemplificato in questo post in cui, ancora una volta, è l'AI ad essere il game-changer (*) che permette di far emergere certe dinamiche in tempi molto ridotti.
+Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
 
-Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking.
-
-2. While trying the same fact-checking with my own text written at the beginning of this post, leads to N-negative outcomes, apparently. Because as soon as I kick in with my own knowledge the fact-checking turns to be positive.
-
-Quindi, il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato. Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione.
-
-Quando invece la persona li conosce e chiede di verificarli, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la guerra all'intelligenza.
+Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la guerra all'intelligenza.
 
 ...
 
-NOTA (*) 
+#### Nota (*)
 
 Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento, sono impazzite nei confronti dell'hype dell'AI.
 
 Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo PoV sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?
 
-Tutto l'opposto: privacy (giusto in principio, come alcune società americane hanno apprezzato, ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi), e infiniti voli pindarici sull'etica, sul transumanesimo, sulla propaganda (giusto in principio, ma opposto come direzione, infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
+Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come alcune società americane hanno apprezzato -- ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi, conditi da infiniti voli pindarici sull'etica, sul transumanesimo, etc. per dare al tutto una parverza di cultura da sofisticati intellettuali.
+
+Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
 
 - Morale? Come quella naturale anche l'intelligenza artificiale è l'incubo della politica incapace.
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
 
-Intelligenza naturale e artificiale, combinate insieme davvero rappresentano il nemico pubblico #1. A pensare che se 'sti rimbambiti non avessero dichiarato guerra all'intelligenza umana, noi sarebbero impegnati a farci felicemente i fatti nostri invece di aver elevato a nostra missione esistenziale il fare le scarpe a quelli che hanno avuto la pessima idea di romperci le uova nel paniere.
-
-Quanto bisogna essere stupidi, per essere come loro?
-
 ---
 
-PRINCIPIO DI FORREST GUMP
+### Principio di Forrest Gump
 
 > "Stupido è chi lo stupido fa"
 
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
 
-Viene alla mente quella cinica citazione di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) le sceliete pure come adatti al potere. Peccato siano finiti a vivere nelle riserve, sembravano intelligenti, o no?
-
-Morale? Quando vedi un uomo bianco calvare o camminare sulla tua terra, scalpalo figlio del vento e poi - sapendo che i bianchi sono come gli scarafaggi che dove c'è n'è uno ce ne sono mille - chiama i tuoi fratelli per fare lo scalpo anche gli altri, tutti, non uno di meno.
-
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
 
 ---
 
+### L'importante è verdere, solo quello
 
-Gente che di mestiere non sa, ma insegna e coordina.
+Poi c'è il mercato quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scarica barile sugli altri.
 
-=-> https://g.co/gemini/share/edc62a2bab9e (Gemini 2.5 flash)
+Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green".
 
-Che effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green" che a questo punto appare più essere simile a quello di un flyer che promuove l'adesione ad una religione minoritaria di suonatori di campanelli che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
+Che a questo punto appare più essere simile a quello di un flyer pubblicitario di una cartomante piuttosto che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
 
-La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'investimento "tecnologico" diversificando e mitigando i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
+---
+
+### Il modello responsabile di Tetto d'Oro
+
+La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
+
+Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
 
 Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
 
+---
+
+### La politica cerca voti, non responsabilità
+
 Da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
+
+- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascizione](not-yet.txt#?target=_blank)
 
 +
 
@@ -135,3 +139,4 @@ Da un punto di vista politico invece le reti di vendita indipendenti portano mol
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
