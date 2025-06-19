@@ -21,13 +21,24 @@ D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le op
 
 Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
 
-Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli stessi argomenti in una sessione indipendente, la loro risposta sarà nuovamente affetta dal pregiudizio derivante dall'essere stati istruiti su nozioni ideologicamente pregiudiziali.
 
 ---
 
-THORIUM REACTORS AREN'T MADE FOR POWER PRODUCTION
+### Il problema rimane, quindi esponiamolo
 
-Robert Lasky wrote: <<It’s nothing but a Uyghur disposal and incineration facility.>> which is not totally wrong because the MAIN use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
+Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli stessi argomenti in una sessione indipendente, la loro risposta sarà nuovamente affetta dal pregiudizio derivante dall'essere stati istruiti su nozioni ideologicamente pregiudiziali.
+
+Purtroppo gli attali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal [paper di Apple](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per [ragioni diverse](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank).
+
+Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istitusione sia nella scienza.
+
+Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno documentato.
+
+---
+
+### Thorium reactors aren't made for power production
+
+Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is **not** totally wrong metaphorically speaking because the **main** use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
 
 Something not totally different because before Macron shut them down, France had few auto-fertilizing nuclear plants. With those implants and the uranium storage in France, they could have provided themselves with energy for 1000 years or nearly a century for all of Europe.
 
