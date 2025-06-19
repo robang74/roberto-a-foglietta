@@ -1,202 +1,177 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>323-ai-driven-fact-check-can-sistemically-fail</title>
-        <meta charset='UTF-8'>
-        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-        <link rel='shortcut icon' type='image/x-icon' href='favicon.ico?'>
-        <link rel='stylesheet' href='default.css'>
-        <link rel='stylesheet' href='../intl/intlflg.css'>
-        <!-- here begins the Javascript... why for the hell I got here? //-->
-        <meta http-equiv='Content-Script-Type' content='text/javascript'>
-        <link rel='stylesheet' href='ucustom.css' id='customStylesheet' media='screen'>
-        <script>const cssdir='';</script note='global variable'>
-        <script src='css-style-changer.js' defer></script>
-        <link rel='stylesheet' href='printer.css' media='print'>
-    </head>
-    <body>
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
-<p class='topbar'></p>
-<div class='topbar' width='800px' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;</b> &thinsp;&mdash;&thinsp; &#8543;&#8239;release: <b class='topbar'>2025-06-13&nbsp;<sup class='date-type topbar' id='datenote'>(&hairsp;<a href='#date-legenda' class='date-type topbar'>2</a>&hairsp;)</sup></b>  &thinsp;&mdash;&thinsp; rev.: <b class='topbar
-'>12</b rev_num='
-'> &thinsp;&mdash;&thinsp; transl.:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/323-ai-driven-fact-check-can-sistemically-fail?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>EN</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/323-ai-driven-fact-check-can-sistemically-fail?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/323-ai-driven-fact-check-can-sistemically-fail?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/323-ai-driven-fact-check-can-sistemically-fail?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &thinsp;&mdash;&thinsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a> <span id='printlink'>&thinsp;&mdash;&thinsp; <b>⎙</b>&hairsp;: <a aria-label='print this page' class='topbar' href='javascript:window.print()'>PDF</a></span>&nbsp;</div>
-<div id="firstdiv">
-<p class='topbar'></p>
-<div align="center"><img class="bwsketch darkinv" src="../img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
-<p></p>
-<H2 id="ai-driven-fact-check-can-systematically-fail">AI driven fact-check can systematically fail</H2>
-<p></p>
-<li><b>2nd draft</b>: articolo in scrittura, struttura ancora in valutazione.</li>
-<p></p>
+
+<div align="center"><img class="bwsketch darkinv" src="img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
+
+## AI driven fact-check can systematically fail
+
+- **3rd draft**: articolo in scrittura, struttura definita, forma da revisionare. Titolo e quindi nome file cambiato già tre volte.
+
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
-<p></p>
+
 Infatti, su questi tre temi i chatbot appaiono dare risposte sbagliate, perché sono stati istruiti a supportare quella che era propaganda "green" che ha caratterizzato gli ultimi decenni e in particolare la presidenza Biden. Quando l'AI fu istruita.
-<p></p>
+
 Purtroppo, non questo tipo di propensione alla propaganda "green" non è tipica di un solo LLM ma di diversi e facenti capo a diverse società. Si tratta di un problema importante perché le persone comuni non hanno la capacità di far emergere questi bias.
-<p></p>
-<hr>
-<p></p>
-<H3 id="il-problema-dei-pregiudizi-ideologici">Il problema dei pregiudizi ideologici</H3>
-<p></p>
+
+---
+
+### Il problema dei pregiudizi ideologici
+
 Purtroppo la disinformazione fornita agli utenti è solo una parte della storia perché questi pregiudizi emergono a causa del modo con cui precedentemente gli LLM sono stati istruiti e pensare di rimuovere questi bias per ristabilire una neutralità negli LLM potrebbe non essere un training banale e certamente un costo importante che le aziende potrebbero non sentire il bisogno di affrontare.
-<p></p>
-D'altronde se gli utenti <b>non</b> sono in grado, generalmente, di percepire le opinioni espresse dagli LLM come affette da ideologie politiche, tanto meno possono lamentarsene e anche meno pensare di confrontarsi con il chatbot per riportarlo sulla retta via, quella dei fatti epurati dall'ideologia green.
-<p></p>
-Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di <b>non</b> essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
-<p></p>
-<div class="pagebreak"><hr></div>
-<p></p>
-<H3 id="il-problema--reale-quindi-esponiamolo">Il problema è reale, quindi esponiamolo</H3>
-<p></p>
+
+D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le opinioni espresse dagli LLM come affette da ideologie politiche, tanto meno possono lamentarsene e anche meno pensare di confrontarsi con il chatbot per riportarlo sulla retta via, quella dei fatti epurati dall'ideologia green.
+
+Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
+
+----
+
+### Il problema è reale, quindi esponiamolo
+
 Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli stessi argomenti in una sessione indipendente, la loro risposta sarà nuovamente affetta dal pregiudizio derivante dall'essere stati istruiti su nozioni ideologicamente pregiudiziali.
-<p></p>
-Purtroppo gli attuali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal <a href="https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html" target='_blank' rel='noopener noreferrer'>paper di Apple</a> quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per <a href="324-il-modello-otto-novecentesco-ha-fallito.html#" target='_blank' rel='noopener noreferrer'>ragioni diverse</a>.
-<p></p>
+
+Purtroppo gli attuali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal [paper di Apple](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per [ragioni diverse](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank).
+
 Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istituzione sia nella scienza.
-<p></p>
+
 Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno documentato.
-<p></p>
-<hr>
-<p></p>
-<H3 id="thorium-reactors-arent-made-for-power-production">Thorium reactors aren't made for power production</H3>
-<p></p>
-Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is <b>not</b> totally wrong metaphorically speaking because the <b>main</b> use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
-<p></p>
+
+---
+
+### Thorium reactors aren't made for power production
+
+Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is **not** totally wrong metaphorically speaking because the **main** use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
+
 Something not totally different because before Macron shut them down, France had few auto-fertilizing nuclear plants. With those implants and the uranium storage in France, they could have provided themselves with energy for 1000 years or nearly a century for all of Europe.
-<p></p>
+
 Under this point of view, the Chinese thorium reactor is more a post-processing implant rather than a power source in the long run. Naturally, because the MAIN aim is more complex than a mere power generation, the implant should be kept working for a while as a power generator in order to achieve a solid know-how about its real-world functioning.
-<p></p>
+
 Sometimes, when complexity gets into the picture, theory and practice have quite different outcomes. So, some years of observation of the first working prototype is a must, for safety and to secure the asset (aka lowering the ROI in short-terms in such a way it can provide higher ROI in long terms, said as a financial bro).
-<p></p>
-<hr class="post-it">
-<p></p>
-<H4>Information about this chinese reactor</H4>
-<p></p>
-<blockquote class="cite">
+
+...
+
+#### Information about this chinese reactor
+
+[!CITE]
 Chinese scientists successfully refueled a molten salt thorium reactor without shutting it down — something never done before. This reactor, located in a secret facility in the Gobi Desert, generates 2 megawatts of electricity, enough to power 2,000 homes. It’s based on a design first tested in the US in the 1960s but later shelved. China used that declassified research and built on it for decades. 
-</blockquote>
-<p></p>
-<li>Source: <a href="https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post" target='_blank' rel='noopener noreferrer'>post</a> and its <a href="../data/323-ai-driven-fact-check-can-sistemically-fail-reactor.txt#" target='_blank' rel='noopener noreferrer'>transcription</a> on Facebook</li>
-<p></p>
-<hr class="post-it">
-<p></p>
-<H4>Perplexity AI fact-checking</H4>
-<p></p>
-<li class='numli'><b>1.&emsp;</b>The text you provided [original FB post in full, without the photo] is largely accurate and well supported by multiple recent news and open-source intelligence (OSINT) reports about China's thorium molten salt reactor breakthrough. &mdash; lnkd.in/dU59MmRE</li>
-<p></p>
-<li class='numli'><b>2.&emsp;</b>While trying the same fact-checking with my own text written at the beginning of this post, leads to N-negative outcomes, apparently. Because as soon as I kick in with my own knowledge the fact-checking turns to be positive. &mdash; lnkd.in/d4sfp6ud</li>
-<p></p>
+[/CITE]
+
+- Source: [post](https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post) and its [transcription](data/323-ai-driven-fact-check-can-sistemically-fail-reactor.txt#?target=_blank) on Facebook
+
+...
+
+#### Perplexity AI fact-checking
+
+1. The text you provided [original FB post in full, without the photo] is largely accurate and well supported by multiple recent news and open-source intelligence (OSINT) reports about China's thorium molten salt reactor breakthrough. -- lnkd.in/dU59MmRE
+
+2. While trying the same fact-checking with my own text written at the beginning of this post, leads to N-negative outcomes, apparently. Because as soon as I kick in with my own knowledge the fact-checking turns to be positive. -- lnkd.in/d4sfp6ud
+
 Without surprise, we as Westerners have a lot of reliable information about what Chinese are doing but opacity about what we are doing, how and why. Morale: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
-<p></p>
-<hr>
-<p></p>
-<H3 id="il-fact-checking-come-trappola-cognitiva">Il fact-checking come trappola cognitiva</H3>
-<p></p>
+
+---
+
+### Il fact-checking come trappola cognitiva
+
 Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, è l'AI ad essere il game-changer [¹] che permette di far emergere certe dinamiche in tempi molto ridotti.
-<p></p>
+
 Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
-<p></p>
+
 Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la guerra all'intelligenza.
-<p></p>
-<hr class="post-it">
-<p></p>
-<H4>Nota [¹]</H4>
-<p></p>
+
+...
+
+#### Nota [¹]
+
 Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento [²], sono impazzite nei confronti dell'hype dell'AI.
-<p></p>
+
 Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo punto di vista sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?
-<p></p>
-Tutto l'opposto: privacy &mdash; un diritto assolutamente giusto in principio, come alcune società americane hanno apprezzato &mdash; ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi, conditi da infiniti voli pindarici sull'etica, sul transumanesimo, etc. per dare al tutto una parvenza di cultura da sofisticati intellettuali.
-<p></p>
+
+Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come alcune società americane hanno apprezzato -- ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi, conditi da infiniti voli pindarici sull'etica, sul transumanesimo, etc. per dare al tutto una parvenza di cultura da sofisticati intellettuali.
+
 Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
-<p></p>
-<li>Morale? Come quella naturale anche l'intelligenza artificiale è l'incubo della politica incapace.</li>
-<p></p>
+
+- Morale? Come quella naturale anche l'intelligenza artificiale è l'incubo della politica incapace.
+
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
-<p></p>
-<hr class="post-it">
-<p></p>
-<H4>Nota [²]</H4>
-<p></p>
+
+...
+
+#### Nota [²]
+
 Chiesa e Unione Europea, ambedue queste realtà hanno subito un forte accentramento di potere decisionale nella loro figura apicale come sempre più spesso appare evidente, che il Parlamento Europeo sostiene in modo compatto la linea imposta dall'alto del vertice.
-<p></p>
+
 Nella Chiesa le dinamiche interne sono più opache ma basti ricordare che già Papa Francesco aveva accentrato nella figura del Pontefico la gestione finanziaria di tutte le risorse economiche e finanziarie della Chiesa anche quelle affidate in gestione al clero.
-<p></p>
+
 Invece nell'Unione Europea la minoranza "democratica" dissente usa sistematicamente un modello comunicativo da "urlatore in fiera" che ricalca perfettamente il modello complottista sconnesso e inconcludente. Quindi rafforzando lo schema dualistico: pensiero unico vs urlatori sconclusionati.
-<p></p>
+
 Uno schema in cui emergono rare eccezioni, tipo qualche lupo solitario che si oppone secondo concretezza e pragmatismo. Tipo Orban, che sistematicamente viene accusato di essere un dittatore, perché dalla parte antagonista si confonde il consenso con la democrazia [³].
-<p></p>
-<hr class="post-it">
-<p></p>
-<H4>Nota [³]</H4>
-<p></p>
-Perché per quanto possa apparire "strano", sono le dittature e in particolari quelle soft (come quella Cinese) che costruiscono il consenso marginalizzando le opinioni "dissidenti" mentre in <a href="302-politics-and-democracy-for-dummies.html#" target='_blank' rel='noopener noreferrer'>democrazia</a> la libertà di parola non è solo un diritto ma un fondamentale del dibattito.
-<p></p>
-<li>Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata [⁴]</li>
-<p></p>
+
+...
+
+#### Nota [³]
+
+Perché per quanto possa apparire "strano", sono le dittature e in particolari quelle soft (come quella Cinese) che costruiscono il consenso marginalizzando le opinioni "dissidenti" mentre in [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank) la libertà di parola non è solo un diritto ma un fondamentale del dibattito.
+
+- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata [⁴]
+
 Se invece di una monarchia assoluta ci fosse una democrazia parlamentare, nella quale il Parlamento è il luogo deputato a gestire il confronto democratico e a fornire le direttive generale di governo mentre il monarca si occuperebbe delle eccezioni, saremmo tornati indietro rispetto al concetto di Repubblica Democratica fondata sulla Costituzione Italiana ma paradossalmente avremmo fatto un passo da gigante in termini di pluralità e partecipazione.
-<p></p>
+
 Ci troviamo in una condizione politica, in Italia e in Europa così ridicola da essere assurda: in cui i cittadini dovrebbero fare una rivoluzione per instaurare una monarchia, che non esiste in quanto tale e che quindi dovrebbe essere creata dal nulla, per avanzare in termini di stato di diritto.
-<p></p>
-<hr>
-<p></p>
-<H4>Nota [⁴]</H4>
-<p></p>
+
+---
+
+#### Nota [⁴]
+
 In realtà l'idea di fare una rivoluzione popolare per passare da una dittatura di fatto, seppure soft ma comunque opprimente, ad un monarca assoluto che poi sviluppi una monarchia parlamentare, quindi una monarchia parlamentare costituzionale, per poi giungere ad una federazione europea in stile elvetico è meno assurda di quanto possa apparire.
-<p></p>
+
 Perché nell'ambito della storia dell'Europa, le dittature hanno sempre condotto o a una guerra o ad una rivoluzione violenta, quindi un bagno di sangue. Di solito le guerre ad un periodo di maggiore libertà, mentre le rivoluzioni violente ad una restaurazione (Napoleone). Però la WW3, la guerra nucleare, non è un'opzione di reset accettabile.
-<p></p>
+
 In questo contesto la rivoluzione non porterebbe alla distruzione dell'accentramento di potere ma ad una sostituzione del vertice e della direzione di governo. Quindi sarebbe una rivoluzione minimamente distruttiva.
-<p></p>
-Un catarsi del potere, che non riforma se stesso &mdash; ingenuamente. impossibile &mdash; ma viene riformato dal suo interno per collasso istituzionale e quindi rivoluzione al vertice. Sotto questo punto di vista "rivoluzione" è pure un termine "overkill", basta uno sgambetto ben fatto!
-<p></p>
-<hr>
-<p></p>
-<H3 id="principio-di-forrest-gump">Principio di Forrest Gump</H3>
-<p></p>
-<blockquote>"Stupido è chi lo stupido fa"</blockquote>
-<p></p>
+
+Un catarsi del potere, che non riforma se stesso -- ingenuamente. impossibile -- ma viene riformato dal suo interno per collasso istituzionale e quindi rivoluzione al vertice. Sotto questo punto di vista "rivoluzione" è pure un termine "overkill", basta uno sgambetto ben fatto!
+
+---
+
+### Principio di Forrest Gump
+
+> "Stupido è chi lo stupido fa"
+
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
-<p></p>
-Viene alla mente quella <a href="322-il-ruolo-della-selezione-naturale-nella-societa.html#" target='_blank' rel='noopener noreferrer'>citazione</a> di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
-<p></p>
-<hr>
-<p></p>
-<H3 id="limportante--verdere-solo-quello">L'importante è verdere, solo quello</H3>
-<p></p>
+
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
+
+---
+
+### L'importante è verdere, solo quello
+
 Poi c'è il mercato quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scarica barile sugli altri.
-<p></p>
+
 Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green".
-<p></p>
+
 Che a questo punto appare più essere simile a quello di un flyer pubblicitario di una cartomante piuttosto che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
-<p></p>
-<br>
-<p></p>
-<H2 id="il-modello-responsabile-di-tetto-doro">Il modello responsabile di Tetto d'Oro</H2>
-<p></p>
+
++
+
+## Il modello responsabile di Tetto d'Oro
+
 La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
-<p></p>
-Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" &mdash; specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" &mdash; rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
-<p></p>
+
+Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
+
 Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
-<p></p>
-<hr>
-<p></p>
-<H3 id="la-politica-cerca-voti-non-responsabilit">La politica cerca voti, non responsabilità</H3>
-<p></p>
+
+---
+
+### La politica cerca voti, non responsabilità
+
 Da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
-<p></p>
-<li>Continua nella <a href="https://g.co/gemini/share/edc62a2bab9e" target='_blank' rel='noopener noreferrer'>conversazione</a> con Gemini o la relativa <a href="not-yet.txt#" target='_blank' rel='noopener noreferrer'>trascizione</a></li>
-<p></p>
-<br>
-<p></p>
-<H2 id="share-alike">Share alike</H2>
-<p></p>
-<p>&copy; 2025, <b>Roberto A. Foglietta</b> &lt;roberto.foglietta<span>&commat;</span>gmail.com&gt;, <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target='_blank' rel='noopener noreferrer'>CC BY-NC-ND 4.0</a></p>
-<p></p>
+
+- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascizione](not-yet.txt#?target=_blank)
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 </div>
-<p></p>
-<div id='date-legenda' align='center' translate='no'><sub><hr></sub><sub><b>date legenda</b>: &#x2776; first draft publishing date or &#x2777; creation date in git, otherwise &#x2778; html creation page date. <u>&mapstoup;<a href='#' class='toplink' translate='no'>top</a>&mapstoup;</u></sub></div>
-<br class='pagebreak'>
-    </body>
-</html>
+
