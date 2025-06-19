@@ -125,6 +125,9 @@ In realtà l'idea di fare una rivoluzione popolare per passare da una dittatura 
 
 Perché nell'ambito della storia dell'Europa, le dittature hanno sempre condotto o a una guerra o ad una rivoluzione violenta, quindi un bagno di sangue. Di solito le guerre ad un periodo di maggiore libertà, mentre le rivoluzioni violente ad una restaurazione (Napoleone). Però la WW3, la guerra nucleare, non è un'opzione di reset accettabile.
 
+In questo contesto la rivoluzione non porterebbe alla distruzione dell'accentramento di potere ma ad una sostituzione del vertice e della direzione di governo. Quindi sarebbe una rivoluzione minimamente distruttiva.
+
+Un catarsi del potere, che non riforma se stesso -- ingenuamente. impossibile -- ma viene riformato dal suo interno per collasso istituzionale e quindi rivoluzione al vertice. Sotto questo punto di vista "rivoluzione" è pure un termine "overkill", basta uno sgambetto ben fatto!
 
 ---
 
