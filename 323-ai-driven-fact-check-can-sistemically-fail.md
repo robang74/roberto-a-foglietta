@@ -111,11 +111,20 @@ Uno schema in cui emergono rare eccezioni, tipo qualche lupo solitario che si op
 
 Perché per quanto possa apparire "strano", sono le dittature e in particolari quelle soft (come quella Cinese) che costruiscono il consenso marginalizzando le opinioni "dissidenti" mentre in [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank) la libertà di parola non è solo un diritto ma un fondamentale del dibattito.
 
-- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata
+- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata [⁴]
 
 Se invece di una monarchia assoluta ci fosse una democrazia parlamentare, nella quale il Parlamento è il luogo deputato a gestire il confronto democratico e a fornire le direttive generale di governo mentre il monarca si occuperebbe delle eccezioni, saremmo tornati indietro rispetto al concetto di Repubblica Democratica fondata sulla Costituzione Italiana ma paradossalmente avremmo fatto un passo da gigante in termini di pluralità e partecipazione.
 
 Ci troviamo in una condizione politica, in Italia e in Europa così ridicola da essere assurda: in cui i cittadini dovrebbero fare una rivoluzione per instaurare una monarchia, che non esiste in quanto tale e che quindi dovrebbe essere creata dal nulla, per avanzare in termini di stato di diritto.
+
+---
+
+#### Nota [⁴]
+
+In realtà l'idea di fare una rivoluzione popolare per passare da una dittatura di fatto, seppure soft ma comunque opprimente, ad un monarca assoluto che poi sviluppi una monarchia parlamentare, quindi una monarchia parlamentare costituzionale, per poi giungere ad una federazione europea in stile elvetico è meno assurda di quanto possa apparire.
+
+Perché nell'ambito della storia dell'Europa, le dittature hanno sempre condotto o a una guerra o ad una rivoluzione violenta, quindi un bagno di sangue. Di solito le guerre ad un periodo di maggiore libertà, mentre le rivoluzioni violente ad una restaurazione (Napoleone). Però la WW3, la guerra nucleare, non è un'opzione di reset accettabile.
+
 
 ---
 
