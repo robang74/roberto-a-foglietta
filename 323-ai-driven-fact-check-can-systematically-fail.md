@@ -131,7 +131,7 @@ Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come a
 
 Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
 
-- Morale? Come quella naturale anche l'intelligenza artificiale è l'incubo della politica incapace.
+- Morale? Come quella naturale anche l'intelligenza artificiale è [l'incubo della politica incapace](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lai-%C3%A8-lincubo-della-politica-incapace-roberto-a-foglietta.html).
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
 
