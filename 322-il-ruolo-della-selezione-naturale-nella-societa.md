@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-06-13:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/322-il-ruolo-della-selezione-naturale-nella-societa.png" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/322-il-ruolo-della-selezione-naturale-nella-societa.png" width="800"><br></div>
 
 ## Il rapporto fra il lupo e l'essere umano semi-primitivo
 
