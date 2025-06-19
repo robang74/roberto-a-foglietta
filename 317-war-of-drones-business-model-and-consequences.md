@@ -596,6 +596,55 @@ Mi piace come analisi anche se forse è un po' troppo lineare. Soprattutto perch
 
 Quindi - secondo me e in particolare oggi che come ha detto Merz occorre considerare la guerra come un'opzione viabile - il ragionamento sull'intelligenza va messo nel suo corretto contesto: quello della WWZ. https://lnkd.in/dA3kn7XS
 
+***
+
+WAIT, THAT BILLBOARD IS NOT TOTALLY CORRECT!
+
+The billboard's message is not totally true: the public debt is $36 but combined with the private debt (loans, and credit cards exposures, etc.) it reaches $103T. Moreover, considering the finance leverage exposition on futures etc. then it skyrockets to 772% of the U.S. GDP.
+
+Therefore, it is wrong to claim that the federal state is the ONLY responsible but ALL Americans love debts. You might not agree because YOU in person are not on this bandwagon, but numbers do not lie and in general $103T pro-capite becomes $303K each, including newborns and 100+ grannies.
+
+303K * 340M = 103 x 10^3 (K*M) = 103 x 10^(3+3+6) = 103 x 10^12 = 103T
+
+***
+
+IL GRANDE AVVERSARIO DI TRUMP
+
+Il Moloch che l'amministrazione Trump dovrà affrontare è quei $7T di debito pubblico da rinnovare. Ma per darvi un'idea di cosa significhi la finanza negli USA e quindi il controllo del debito pubblico c'è l'altro screenshot e allora andiamo a mettere in prospettiva quei $7T con tutto il resto.
+
+- solo di interessi sul debito pubblico pagano $1T all'anno
+
+- sul debito pubblico e privato aggregato quasi $5.5T l'anno
+
+Ma non è finita, qua perché questi sono solo le punte di due iceberg.
+
+Il debito pubblico americano è sicuramente importante ma non è l'unico debito che USA hanno, infatti se andiamo a vedere quello privato, esso è semplicemente ENORME: un numero espresso da 15 cifre dove 10^12 sono trilioni quindi $103 trilioni, se includiamo anche i leverage finanziari (esposizione) si arriva ad un valore di 772% del PIL americano.
+
+- Fonte dei dati: lnkd.in/eDTTzvz3
+
+Quindi non stiamo osservando solo un fallimento del debito pubblico USA ma anche sociale e produttivo (debito privato), anche finanziario e commerciale (esposizioni) e infine infra-strutturale perché è sufficiente ricordarsi della tragedia del ponte di Baltimora che ha portato alla luce altri 17mila ponti a rischio, dell'incendio di Los Angeles, dello stato della rete ferroviaria e in particolare di quella merci che è rimasta al '900, dei problemi di aggiornamento informatico come i sistemi di radiocontrollo dell'aeronautica civile come il black-out di 92 secondi all'aeroporto di Newark oppure alla marina militare che ancora utilizza Windows NT, e che fra tutti i problemi di aggiornamento è probabilmente il meno grave.
+
+In un contesto del genere servirebbe prudenza ma a questo stadio è più corretto dire psicofarmaci (ansiolitici) di cui il 25% degli americani fa uso regolare e probabilmente un altro 25% ne fa abuso insieme a droghe di vario tipo fra cui il Fentanyl. Invece c'è Trump che io personalmente adoro come presidente perché penso ci regalerà ENORMI soddisfazioni e anche uno spettacolare mandato in termini di show.
+
+Articolo completo: lnkd.in/dD84RYN6
+
++
+
+ MODERN FAIRY TALE, ABOUT U.S. PUBLIC DEBT DEFAULT
+
+Unfortunately, the U.S. public debt is gone in default after the grace period expired, that day Warren Buffett (*) retired. The day after everything based on USD gets into a Ponzi scheme, technically speaking. How did the U.S. public debt default? Long story short: no any USD backup, anymore (we don't trust anymore). 
+
+Gemini2 is debating about details but -- in fact, for everyone who knows in depth the financial mechanisms -- during G7 in Puglia (2024) the Saudi Arabia puts a stop to the Petrodollar agreement, de-facto removing the last real-world collateral to backup the USD. Unsurprisingly, they found themselves, after the grace period expired, sitting on an Everest of paper money and suddenly they decided that investing $600B in AI tech in the USA and buying $142B american weapons was a good way to protect their position.
+
+Is this explaining to you something about how quickly some "positions" evolve? Good, then the whole story will amuse you much more!
+
+=-> lnkd.in/dM8dx-s6
+
+(*) the #1 non-speculative finance guru investor retired, his motto was "on the market, win those can keep a position as long as they will" which makes him a non-speculative investor in terms of HF transactions.
+
+***
+Screenshot taken from the video from this post: lnkd.in/dcbs-vgV
+
 +
 
 ## Share alike
