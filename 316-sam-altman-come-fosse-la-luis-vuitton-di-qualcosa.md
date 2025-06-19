@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-02-21:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/316-sam-altman-come-fosse-la-luis-vuitton-di-qualcosa.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/316-sam-altman-come-fosse-la-luis-vuitton-di-qualcosa.jpg" width="800"><br></div>
 
 ## Sam Altman, come fosse la Louis Vuitton di qualcosa
 
