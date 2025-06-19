@@ -3,9 +3,9 @@
 
 <div align="center"><img class="bwsketch darkinv" src="img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
 
-## AI driven fact-check can sistemically fail
+## AI driven fact-check can systematically fail
 
-- **1st draft**: articolo in scrittura attiva, ancora da completare.
+- **2nd draft**: articolo in scrittura, struttura ancora in valutazione.
 
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
 
@@ -17,22 +17,21 @@ Purtroppo, non questo tipo di propensione alla propaganda "green" non è tipica 
 
 ### Il problema dei pregiudizi ideologici
 
-Purtroppo la disiformazione fornita agli utenti è solo una parte della storia perché questi pregiudizi emergono a causa del modo con cui precedentemente gli LLM sono stati istruiti e pensare di rimuovere questi bias per ristabilire una neutralità negli LLM potrebbe non essere un training banale e certamente un costo importante che le aziende potrebbero non sentire il bisogno di affrontare.
+Purtroppo la disinformazione fornita agli utenti è solo una parte della storia perché questi pregiudizi emergono a causa del modo con cui precedentemente gli LLM sono stati istruiti e pensare di rimuovere questi bias per ristabilire una neutralità negli LLM potrebbe non essere un training banale e certamente un costo importante che le aziende potrebbero non sentire il bisogno di affrontare.
 
 D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le opinioni espresse dagli LLM come affette da ideologie politiche, tanto meno possono lamentarsene e anche meno pensare di confrontarsi con il chatbot per riportarlo sulla retta via, quella dei fatti epurati dall'ideologia green.
 
 Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
 
+----
 
----
-
-### Il problema rimane, quindi esponiamolo
+### Il problema è reale, quindi esponiamolo
 
 Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli stessi argomenti in una sessione indipendente, la loro risposta sarà nuovamente affetta dal pregiudizio derivante dall'essere stati istruiti su nozioni ideologicamente pregiudiziali.
 
-Purtroppo gli attali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal [paper di Apple](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per [ragioni diverse](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank).
+Purtroppo gli attuali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal [paper di Apple](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per [ragioni diverse](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank).
 
-Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istitusione sia nella scienza.
+Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istituzione sia nella scienza.
 
 Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno documentato.
 
@@ -70,9 +69,9 @@ Without surprise, we as Westerners have a lot of reliable information about what
 
 ---
 
-### Il fact-chekcing come trappola cognitiva
+### Il fact-checking come trappola cognitiva
 
-Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, è l'AI ad essere il game-changer (*) che permette di far emergere certe dinamiche in tempi molto ridotti.
+Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, è l'AI ad essere il game-changer [¹] che permette di far emergere certe dinamiche in tempi molto ridotti.
 
 Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
 
@@ -80,19 +79,43 @@ Questo, se il fact-checking è fatto da una persona che non conosce almeno i fon
 
 ...
 
-#### Nota (*)
+#### Nota [¹]
 
-Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento, sono impazzite nei confronti dell'hype dell'AI.
+Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento [²], sono impazzite nei confronti dell'hype dell'AI.
 
-Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo PoV sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?
+Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo punto di vista sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?
 
-Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come alcune società americane hanno apprezzato -- ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi, conditi da infiniti voli pindarici sull'etica, sul transumanesimo, etc. per dare al tutto una parverza di cultura da sofisticati intellettuali.
+Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come alcune società americane hanno apprezzato -- ma invece di limitarsi a delle linee guida essenziali, burocratese a tomi, conditi da infiniti voli pindarici sull'etica, sul transumanesimo, etc. per dare al tutto una parvenza di cultura da sofisticati intellettuali.
 
 Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
 
 - Morale? Come quella naturale anche l'intelligenza artificiale è l'incubo della politica incapace.
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
+
+...
+
+#### Nota [²]
+
+Chiesa e Unione Europea, ambedue queste realtà hanno subito un forte accentramento di potere decisionale nella loro figura apicale come sempre più spesso appare evidente, che il Parlamento Europeo sostiene in modo compatto la linea imposta dall'alto del vertice.
+
+Nella Chiesa le dinamiche interne sono più opache ma basti ricordare che già Papa Francesco aveva accentrato nella figura del Pontefico la gestione finanziaria di tutte le risorse economiche e finanziarie della Chiesa anche quelle affidate in gestione al clero.
+
+Invece nell'Unione Europea la minoranza "democratica" dissente usa sistematicamente un modello comunicativo da "urlatore in fiera" che ricalca perfettamente il modello complottista sconnesso e inconcludente. Quindi rafforzando lo schema dualistico: pensiero unico vs urlatori sconclusionati.
+
+Uno schema in cui emergono rare eccezioni, tipo qualche lupo solitario che si oppone secondo concretezza e pragmatismo. Tipo Orban, che sistematicamente viene accusato di essere un dittatore, perché dalla parte antagonista si confonde il consenso con la democrazia [³].
+
+...
+
+#### Nota [³]
+
+Perché per quanto possa apparire "strano", sono le dittature e in particolari quelle soft (come quella Cinese) che costruiscono il consenso marginalizzando le opinioni "dissidenti" mentre in [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank) la libertà di parola non è solo un diritto ma un fondamentale del dibattito.
+
+- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata
+
+Se invece di una monarchia assoluta ci fosse una democrazia parlamentare, nella quale il Parlamento è il luogo deputato a gestire il confronto democratico e a fornire le direttive generale di governo mentre il monarca si occuperebbe delle eccezioni, saremmo tornati indietro rispetto al concetto di Repubblica Democratica fondata sulla Costituzione Italiana ma paradossalmente avremmo fatto un passo da gigante in termini di pluralità e partecipazione.
+
+Ci troviamo in una condizione politica, in Italia e in Europa così ridicola da essere assurda: in cui i cittadini dovrebbero fare una rivoluzione per instaurare una monarchia, che non esiste in quanto tale e che quindi dovrebbe essere creata dal nulla, per avanzare in termini di stato di diritto.
 
 ---
 
@@ -114,9 +137,9 @@ Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un ch
 
 Che a questo punto appare più essere simile a quello di un flyer pubblicitario di una cartomante piuttosto che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
 
----
++
 
-### Il modello responsabile di Tetto d'Oro
+## Il modello responsabile di Tetto d'Oro
 
 La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
 
