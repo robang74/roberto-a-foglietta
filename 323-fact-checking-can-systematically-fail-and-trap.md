@@ -3,6 +3,28 @@
 
 <div align="center"><img class="bwsketch paleinv" src="img/323-fact-checking-can-systematically-fail-and-trap.jpg" width="800"><br></div>
 
+## AI driven fact-check can sistemically fail
+
+Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
+
+Infatti, su questi tre temi i chatbot appaiono dare risposte sbagliate, perché sono stati istruiti a supportare quella che era propaganda "green" che ha caratterizzato gli ultimi decenni e in particolare la presidenza Biden. Quando l'AI fu istruita.
+
+Purtroppo, non questo tipo di propensione alla propaganda "green" non è tipica di un solo LLM ma di diversi e facenti capo a diverse società. Si tratta di un problema importante perché le persone comuni non hanno la capacità di far emergere questi bias.
+
+---
+
+### Il problema dei pregiudizi ideologici
+
+Purtroppo la disiformazione fornita agli utenti è solo una parte della storia perché questi pregiudizi emergono a causa del modo con cui precedentemente gli LLM sono stati istruiti e pensare di rimuovere questi bias per ristabilire una neutralità negli LLM potrebbe non essere un training banale e certamente un costo importante che le aziende potrebbero non sentire il bisogno di affrontare.
+
+D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le opinioni espresse dagli LLM come affette da ideologie politiche, tanto meno possono lamentarsene e anche meno pensare di confrontarsi con il chatbot per riportarlo sulla retta via, quella dei fatti epurati dall'ideologia green.
+
+Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
+
+Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli stessi argomenti in una sessione indipendente, la loro risposta sarà nuovamente affetta dal pregiudizio derivante dall'essere stati istruiti su nozioni ideologicamente pregiudiziali.
+
+---
+
 THORIUM REACTORS AREN'T MADE FOR POWER PRODUCTION
 
 Robert Lasky wrote: <<It’s nothing but a Uyghur disposal and incineration facility.>> which is not totally wrong because the MAIN use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
