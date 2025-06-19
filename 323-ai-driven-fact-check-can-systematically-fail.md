@@ -5,7 +5,7 @@
 
 ## AI driven fact-check can systematically fail
 
-- **3rd draft**: articolo in scrittura, struttura definita, forma da revisionare.
+- **4th draft**: articolo in scrittura, struttura definita, forma da revisionare.
 
 - Titolo e quindi nome file cambiato già tre volte, git 1st commit [5c50c77](https://github.com/robang74/roberto-a-foglietta/commit/5c50c77).
 
@@ -79,7 +79,47 @@ Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela que
 
 Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la guerra all'intelligenza.
 
+---
+
+### Principio di Forrest Gump
+
+> "Stupido è chi lo stupido fa"
+
+Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
+
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
+
+---
+
+### L'importante è verdere, solo quello
+
+Poi c'è il mercato quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scarica barile sugli altri.
+
+Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green".
+
+Che a questo punto appare più essere simile a quello di un flyer pubblicitario di una cartomante piuttosto che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
+
+----
+
+### Il modello responsabile di Tetto d'Oro
+
+La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
+
+Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
+
+Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
+
+---
+
+### La politica cerca voti, non responsabilità
+
+- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascizione](not-yet.txt#?target=_blank)
+
+In estrema sintesi: da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
+
++
 ...
++
 
 #### Nota [¹]
 
@@ -95,7 +135,7 @@ Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inven
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
 
-...
+....
 
 #### Nota [²]
 
@@ -119,7 +159,7 @@ Se invece di una monarchia assoluta ci fosse una democrazia parlamentare, nella 
 
 Ci troviamo in una condizione politica, in Italia e in Europa così ridicola da essere assurda: in cui i cittadini dovrebbero fare una rivoluzione per instaurare una monarchia, che non esiste in quanto tale e che quindi dovrebbe essere creata dal nulla, per avanzare in termini di stato di diritto.
 
----
+...
 
 #### Nota [⁴]
 
@@ -130,44 +170,6 @@ Perché nell'ambito della storia dell'Europa, le dittature hanno sempre condotto
 In questo contesto la rivoluzione non porterebbe alla distruzione dell'accentramento di potere ma ad una sostituzione del vertice e della direzione di governo. Quindi sarebbe una rivoluzione minimamente distruttiva.
 
 Un catarsi del potere, che non riforma se stesso -- ingenuamente. impossibile -- ma viene riformato dal suo interno per collasso istituzionale e quindi rivoluzione al vertice. Sotto questo punto di vista "rivoluzione" è pure un termine "overkill", basta uno sgambetto ben fatto!
-
----
-
-### Principio di Forrest Gump
-
-> "Stupido è chi lo stupido fa"
-
-Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
-
-Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
-
----
-
-### L'importante è verdere, solo quello
-
-Poi c'è il mercato quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scarica barile sugli altri.
-
-Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green".
-
-Che a questo punto appare più essere simile a quello di un flyer pubblicitario di una cartomante piuttosto che ad un prospetto di investimento perché questo è di fatto la "green" energy, un investimento a rischio per il nostro futuro.
-
-+
-
-## Il modello responsabile di Tetto d'Oro
-
-La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
-
-Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
-
-Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
-
----
-
-### La politica cerca voti, non responsabilità
-
-Da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
-
-- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascizione](not-yet.txt#?target=_blank)
 
 +
 
