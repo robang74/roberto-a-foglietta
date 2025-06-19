@@ -1,11 +1,13 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created="2025-06-13:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch darkinv" src="img/323-ai-driven-fact-check-can-sistemically-fail.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/323-ai-driven-fact-check-can-systematically-fail.jpg" width="800"><br></div>
 
 ## AI driven fact-check can systematically fail
 
-- **3rd draft**: articolo in scrittura, struttura definita, forma da revisionare. Titolo e quindi nome file cambiato già tre volte.
+- **3rd draft**: articolo in scrittura, struttura definita, forma da revisionare.
+
+- Titolo e quindi nome file cambiato già tre volte, git 1st commit [5c50c77](https://github.com/robang74/roberto-a-foglietta/commit/5c50c77).
 
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
 
