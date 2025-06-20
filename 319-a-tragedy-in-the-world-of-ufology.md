@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/319-a-tragedy-in-the-world-of-ufology.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/319-a-tragedy-in-the-world-of-ufology.jpg" width="800"><br></div>
 
 ## A tragedy in the world of ufology!
 
@@ -35,12 +35,12 @@ By who and why? Spoiler: by those were interested in marketing the SETI project.
 
 You can see the traces of a large agricultural machine delimiting the crop circles and they are crossing it like lines into a notebook, the wheat stalks seem to be bent without breaking like the wicker in the wicker baskets, could it have been the steam that did it?
 
-Twenty-five years of ufology, and speculations, did not achieve the secret of how to bend without breaking the wheat stalks, a technique (*) that was known ten-thousands years ago!
+Twenty-five years of ufology, and speculations, did not achieve the secret of how to bend without breaking the wheat stalks (&#8202;&#x200D;*using pressurised water vapor, which is a modern variant of*&nbsp;), a technique [¹] known for being used as far back as ten-thousand years ago!
 
 In the meanwhile technology made huge progress in every field, like a 2.5" HDD size 20GB weight 100gr. evolved in a 2TB NVMe M.2 SSD weight 10gr. Isn't better do science and tech than speculations? Sure, it is harder!
 
 [!INFO]
-**Note (&ast;)**
+**Note [¹]**
 
 The earliest baskets, including what we might call "wicker" ones (although the materials varied depending on local availability), date back to about 10,000-12,000 years ago. There are finds that testify to their presence as early as the 9th millennium BC in Asia Minor and the Middle East (for example at Shanidar in Iraq, Çatalhöyük in Turkey, and in Upper Egypt). Some of the oldest complete baskets have been found in the Negev and date back to 10,500 years ago. -- Gemini 2.
 [/INFO]
