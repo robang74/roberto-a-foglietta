@@ -215,7 +215,7 @@ Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di gi
 
 A pensare che se la Russia, come ci avevano decantato, fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni occidentali, ora avremmo il gas russo gratis e l'Europa sarebbe stata liberata dal pensiero unico mentre lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
 
-- [Long Live Novichok!: The British poison which fooled the world](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=blank) by John Helmer (2025-01-13)
+- [Long Live Novichok!](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=blank) -- The British poison which fooled the world by John Helmer (2025-01-13)
 
 Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i servizi segreti inglesi usano per uccidere -- e dare la colpa ai Russi -- gli infiltrati della CIA in Russia, quando falliscono la loro missione e tentano di ripare in Europa, e rischiamo seriamente di esaurire le teorie del complotto!
 
