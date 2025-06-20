@@ -13,7 +13,7 @@ Questo articolo è stato scritto a partire da diverse interazioni avute su Linke
 
 Infatti, su questi tre temi i chatbot appaiono dare risposte sbagliate, perché sono stati istruiti a supportare quella che era propaganda "green" che ha caratterizzato gli ultimi decenni e in particolare la presidenza Biden. Quando l'AI fu istruita.
 
-Purtroppo, non questo tipo di propensione alla propaganda "green" non è tipica di un solo LLM ma di diversi e facenti capo a diverse società. Si tratta di un problema importante perché le persone comuni non hanno la capacità di far emergere questi bias.
+Purtroppo, questo tipo di propensione acritica verso il "green" non è specifica di un solo LLM ma, anzi, di diversi e facenti capo a diverse società. Si tratta di un problema importante perché le persone comuni non hanno la capacità di difendersi da questa propaganda camuffata da informazione fattuale.
 
 ---
 
