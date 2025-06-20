@@ -121,7 +121,7 @@ Curiosamente, invece, per vivere in un mondo più sicuro sarebbe utile tagliare 
 
 Infatti, l'intelligenza è un facoltà "non intensiva" che permette di sfruttare anche un **piccolo** budget per una difesa molto più efficace rispetto ad un budget **enorme** fornito a delle teste di legno. D'altronde la militarizzazione della società ci porterebbe indietro verso un modello otto-novecentesco che sappiamo come abbia tragicamente[fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=blank] in tutte le maniere possibili in cui un modello sociale può fallire.
 
-È davvero incredibile vedere quante parole servono per nascondere la verità e quanti pochi fatti bastino per rivelarla.
+È davvero incredibile vedere quante parole servono per nascondere la verità e quanti [pochi fatti](321-wwz-simply-explained-for-dummies.md#?target=blank) bastino per rivelarla.
 
 ---
 
