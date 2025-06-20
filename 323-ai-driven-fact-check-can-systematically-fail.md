@@ -120,7 +120,7 @@ In estrema sintesi: da un punto di vista politico invece le reti di vendita indi
 +
 ...
 +
-
+<span id="note"></span>
 #### Nota [¹]
 
 Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento [²], sono impazzite nei confronti dell'hype dell'AI.
@@ -204,7 +204,7 @@ Da queste informazioni si desume che se anche l'Unione Europea (EU) -- come per 
 La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava per scontato che avrebbe controllato la sanità globale. Uguale la macchina di propaganda DEM-woke-Hollywood. Da marzo 2022, fate un riflessione su quante "entità" sono scomparse come ombre (o evaporate come nebbia) proprio al culmine, o ad un passo, della loro vittoria totale.
 
 ...
-<span id="note"></span>
+
 #### Nota [⁶]
 
 Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la **criminale** gestione della pandemia Covid-19.
