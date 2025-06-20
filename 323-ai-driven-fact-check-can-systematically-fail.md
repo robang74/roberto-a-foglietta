@@ -57,7 +57,7 @@ Sometimes, when complexity gets into the picture, theory and practice have quite
 Chinese scientists successfully refueled a molten salt thorium reactor without shutting it down — something never done before. This reactor, located in a secret facility in the Gobi Desert, generates 2 megawatts of electricity, enough to power 2,000 homes. It’s based on a design first tested in the US in the 1960s but later shelved. China used that declassified research and built on it for decades. 
 [/CITE]
 
-- Source: [post](https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post) and its [transcription](data/323-ai-driven-fact-check-can-sistemically-fail-reactor.txt#?target=_blank) on Facebook
+- Source: [post](https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post) and its [transcription](data/323-ai-driven-fact-check-can-systematically-fail-reactor.txt#?target=_blank) on Facebook
 
 ...
 
@@ -136,7 +136,7 @@ Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare l
 
 ### La politica cerca voti, non responsabilità
 
-- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascrizione](not-yet.txt#?target=_blank)
+- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascrizione](data/323-ai-driven-fact-check-can-systematically-fail-gemini.txt#?target=_blank)
 
 In estrema sintesi: da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
 
