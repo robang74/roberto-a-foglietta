@@ -5,9 +5,9 @@
 
 ## AI driven fact-check can systematically fail
 
-- **7th draft**: articolo in scrittura, struttura definita, forma da revisionare, note spostate.
-
 - Titolo e quindi nome del file cambiato già tre volte, git 1st commit [`5c50c77`](https://github.com/robang74/roberto-a-foglietta/commit/5c50c77) della prima bozza.
+
+- **1st edition**: le [note](#note) che in origine erano incluse in qui, sono diventate un articolo indipendente.
 
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
 
@@ -33,7 +33,7 @@ Ovviamente non ho risolto il problema degli LLM, ovvero se interrogati su quegli
 
 Purtroppo gli attuali LLM anche quando sono dotati di un'architettura LRM non sono in grado di una reale capacità di ragionamento, come evidenziato dal [paper di Apple](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) quindi non possono emanciparsi da questi pregiudizi, come in effetti anche gli esseri umani, anche se per [ragioni diverse](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank).
 
-Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istituzione sia nella scienza.
+Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istituzioni, sia nella scienza.
 
 Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno documentato.
 
@@ -41,7 +41,7 @@ Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno
 
 ### Thorium reactors aren't made for power production
 
-Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is **not** totally wrong metaphorically speaking because the **main** use of this kind of nuclear reactors is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocess the exhausted nuclear fuel from conventional uranium power plants.
+Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is **not** totally wrong metaphorically speaking because the **main** use of this kind of nuclear reactor is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocessing the exhausted nuclear fuel from conventional uranium power plants.
 
 Something not totally different because before Macron shut them down, France had few auto-fertilizing nuclear plants. With those implants and the uranium storage in France, they could have provided themselves with energy for 1000 years or nearly a century for all of Europe.
 
@@ -84,7 +84,7 @@ Questo, se il fact-checking è fatto da una persona che non conosce almeno i fon
 <span id="note"></span>
 #### Nota (*)
 
-A forza di fare fact-ckecking e debunking del pensiero unico, le note sono diventate un articolo a sè stante:
+A forza di fare fact-checking e debunking del pensiero unico, le note sono diventate un articolo a sé stante:
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
 
@@ -110,13 +110,13 @@ Viviamo strani giorni
 
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
 
-Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li sceliete pure come i più adatti per governarvi.
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
 
 ----
 
-### L'importante è verdere, solo quello
+### L'importante è vendere, solo quello
 
-Poi c'è il mercato quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scarica barile sugli altri.
+Poi c'è il mercato, quello che dovrebbe essere l'esempio portante di un sistema che funziona perché si autoregola, e invece a ben vedere tutto ruota su un unico paradigma: l'importante è vendere, il resto sono problemi dei quali si fa scaricabarile sugli altri.
 
 Venditori effettivamente conoscono quello che potrebbe dire sull'argomento un chatbot ma poi quando si affronta il chatbot si scopre che la realtà è molto distante e diversa dal bucolico depliant promozionale del mercato "green".
 
@@ -126,7 +126,7 @@ Che a questo punto appare più essere simile a quello di un flyer pubblicitario 
 
 ### Il modello responsabile di Tetto d'Oro
 
-La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un idea onesta alla base. Il produttore, conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
+La proposta di valore di "Tetto d'Oro Beghelli" usava metafore evocative, tipiche del marketing, ma aveva un'idea onesta alla base. Il produttore conosceva i limiti della tecnologia e quindi andava a fare società con coloro che mettevano l'asset "tetto" e loro l'asset tecnologico.
 
 Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un approccio con un ROI troppo "basso" -- specialmente se non supportato da forti incentivi all'acquisto di energia prodotta in modo decentralizzato e/o "green" -- rispetto al vantaggio concorrenziale dato dalle reti di vendita indipendenti e importatori di prodotti dell'asia.
 
@@ -136,7 +136,7 @@ Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare l
 
 ### La politica cerca voti, non responsabilità
 
-- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascizione](not-yet.txt#?target=_blank)
+- Continua nella [conversazione](https://g.co/gemini/share/edc62a2bab9e) con Gemini o la relativa [trascrizione](not-yet.txt#?target=_blank)
 
 In estrema sintesi: da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
 
