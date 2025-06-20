@@ -75,13 +75,19 @@ Il Consiglio d’Europa (mappa blue/grigio) -- da NON confondere con il Consigli
 
 Il mercato europeo comune (MEC) si riferisce al mercato unico (mappa con viola) dell'Unione europea (e, prima, della Comunità economica europea, CEE), la cui creazione era uno degli obiettivi fondamentali del trattato di Roma – firmato il 25 marzo 1957 ed entrato in vigore il 1º gennaio 1958 – che istituì la CEE. L'espressione veniva inoltre spesso utilizzata come sinonimo di CEE.
 
+[/INFO]
+
 Il mercato comune si basa su quattro libertà non imprenscindibili per averne accesso effettivo che si possono riassumere in due punti:
 
-- libera circolazione delle persone (accordi di Schengen per i cittadini e accordo di Dublino per gli immigrati e clandestini);
+- libera circolazione delle persone (accordi di Schengen per i cittadini
+   - e accordo di Dublino per gli immigrati e clandestini;
 
-- libera circolazione dei capitali, servizi e delle merci (mercato unico, senza dazi doganali interni, banca centrale europea);
+- libera circolazione dei capitali, servizi e delle merci
+   - mercato unico, senza dazi doganali interni, banca centrale europea;
 
 Sulla disciplina della concorrenza e sulla limitazione degli aiuti statali alle imprese.
+
+[!INFO]
 
 L'Unione economica e monetaria (UEM) dell'Unione europea (mappa colorata) è un termine ampio: include l'insieme delle politiche fiscali, valutarie, concorrenziali e monetarie messe in coordinamento dal luglio 1988 con lo scopo di avvicinare le rispettive economie degli Stati dell'allora Comunità europea. Un momento importante, che assunse anche un valore simbolico del processo, fu l'adozione di una moneta unica europea, l'euro, nel 1999, in sostituzione delle rispettive valute nazionali da parte degli Stati membri dell'Unione europea. Si ebbe così una politica monetaria comune sotto il controllo della Banca centrale europea (BCE), dando vita alla cosiddetta eurozona.
 
