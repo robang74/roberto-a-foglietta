@@ -5,7 +5,7 @@
 
 ## A tragedy in the world of ufology!
 
-Tragedy in the world of ufology and crop circle enthusiasts, after 25 years of intense investigations, the mystery is revealed to them with a post on Linkedin (here also reported on Facebook).
+Tragedy in the world of ufology and crop circle enthusiasts, after 25 years of intense investigations, the mystery is revealed to them with a post on Linkedin (and also published on Facebook)..
 
 We (humans) have bent the wheat stalks, without breaking them, with the same principle by which we have known how to make wicker baskets for over 10 thousand years and we did it to raise funds for the SETI project as a publicity stunt!
 
@@ -35,7 +35,7 @@ By who and why? Spoiler: by those were interested in marketing the SETI project.
 
 You can see the traces of a large agricultural machine delimiting the crop circles and they are crossing it like lines into a notebook, the wheat stalks seem to be bent without breaking like the wicker in the wicker baskets, could it have been the steam that did it?
 
-Twenty-five years of ufology, and speculations, did not achieve the secret of how to bend without breaking the wheat stalks (&#8202;&#x200D;*using pressurised water vapor, which is a modern variant of*&nbsp;), a technique [¹] known for being used as far back as ten-thousand years ago!
+Twenty-five years of ufology, and speculations by thousands or even hundred-thousands people, did not achieve the secret of how to bend without breaking the wheat stalks (&#8202;&#x200D;*using pressurised water vapor, which is a modern variant of*&nbsp;), a technique [¹] known for being used as far back as ten-thousand years ago!
 
 In the meanwhile technology made huge progress in every field, like a 2.5" HDD size 20GB weight 100gr. evolved in a 2TB NVMe M.2 SSD weight 10gr. Isn't better do science and tech than speculations? Sure, it is harder!
 
