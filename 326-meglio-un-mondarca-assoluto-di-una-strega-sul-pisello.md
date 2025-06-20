@@ -131,7 +131,7 @@ Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettat
 
 In questa chat con Gemini si dipana un ragionamento che parte dall'attualità e va indietro per sei secoli dai quali emerge l'invidia sfacciata per la Russia come Terza Roma che ha sempre trovato un qualche vantaggio sufficiente a non farsi MAI sottomettere dagli Europei.
 
-- [gemini.google.com/share/454f6850b456](https://gemini.google.com/share/454f6850b456)
+- La [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini e sua [trascirzione](data/326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello-putin.txt#?target=_blank) su Putin come un moderno Zar della Russia 
 
 In estrema sintesi: tolleriamo i Cinesi che ci sono distanti culturalmente, tolleriamo gli Africani che un tempo li abbiamo ridotti in schiavitù, tolleriamo i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
 
@@ -144,5 +144,4 @@ Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazion
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
 
