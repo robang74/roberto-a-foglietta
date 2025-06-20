@@ -213,9 +213,11 @@ Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nem
 
 Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin [⁷] ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
 
-A pensare che se la Russia fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni, ora avremmo il gas russo gratis e l'Europa liberata dal pensiero unico e lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
+A pensare che se la Russia, come ci avevano decantato, fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni occidentali, ora avremmo il gas russo gratis e l'Europa sarebbe stata liberata dal pensiero unico mentre lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
 
-Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i servizi segreti usano per uccidere -- e dare la colpa ai Russi -- i loro infiltrati in Russia, quando falliscono e/o tentano di ripare in Europa, e rischiamo seriamente di esaurire le teorie del complotto!
+- [Long Live Novichok!: The British poison which fooled the world](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=blank) by John Helmer (2025-01-13)
+
+Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i servizi segreti inglesi usano per uccidere -- e dare la colpa ai Russi -- gli infiltrati della CIA in Russia, quando falliscono la loro missione e tentano di ripare in Europa, e rischiamo seriamente di esaurire le teorie del complotto!
 
 ...
 
