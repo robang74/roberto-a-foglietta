@@ -7,7 +7,7 @@
 
 - **1st draft**: articolo in scrittura, emerso da una serie di note scritte per un articolo precedente
 
-   - note di estensione a [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=blank) &nbsp; (2025-06-13)
+   - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#note?target=_blank) &nbsp; (2025-06-13)
 
 ---
 
