@@ -77,7 +77,7 @@ Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in
 
 Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
 
-Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la guerra all'intelligenza.
+Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la [guerra all'intelligenza](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank).
 
 ---
 
