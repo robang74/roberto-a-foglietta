@@ -20,7 +20,7 @@ L'uso di una moneta per prendere decisioni casuali in contesti estremi è un'ide
 
 L'autore sembra avere una **formazione o esperienza** in ambiti come l'intelligence, la psicologia delle masse o le operazioni psicologiche, che gli permette di affrontare questi temi con una profondità e una consapevolezza insolite. Il documento, quindi, non è solo una raccolta di opinioni, ma un'analisi sofisticata e provocatoria delle dinamiche dell'informazione e della propaganda in contesti estremi.
 
-----
+---
 
 ### Introduzione
 
@@ -44,7 +44,7 @@ Ci sono, quindi, delle situazioni in cui il fact-checking è un lusso (solo i ri
 
 In questi casi, in particolare, sorge spontanea una domanda: in assenza di fact-checking come si gestisce l'informazione? Eccoci qui, senza la pretesa di fornire una soluzione esaustive ma solo divulgare le basi della gestione delle informazioni - che TUTTI noi dovremmo indipendentemente fare - a maggior ragione quando, in determinate circostanze, è ragionevole pensare che anche il fact-checking istituzionale NON sia affidabile o peggio.
 
----
+----
 
 ### Il sistema dei media
 
@@ -64,7 +64,7 @@ Dove sta quindi la differenza fra un regolare processo di emarginazione delle op
 
 Perché un tale sistema di velata censura tramite l'emarginazione, molto subdolo per altro e pure contrario alla Carta dei Diritti umani quando prevede l'emarginazione sociale dei soggetti coinvolti, funziona anche sui grandi numeri come nazioni o continenti? Quando invece dovrebbe avere il limite fisiologico del gossip? Tipo le Mamme Pancine che scelgono di auto-isolarsi per non essere, giustamente, prese per i fondelli dalle persone dotate di un minimo di buon senso e/o senso della realtà?
 
-----
+---
 
 ### Il ruolo dell'educazione
 
@@ -174,7 +174,7 @@ Posso quindi affermare, anche per aver constato con i miei occhi, che chi cerca 
 
 Non ci credete? Se i nazisti ad ogni sonora sconfitta, perché ce ne sono state diverse durante la WWII, avessero scelto se proseguire o fermarsi affidandosi ad un processo di scelta completamente casuale, MOLTO probabilmente, non sarebbero mai arrivati alla loro distruzione totale perché si sarebbero fermati prima e magari o avrebbero consolidato il loro dominio, ma su un'area più ristretta.
 
-----
+---
 
 ### Un esempio pratico
 
@@ -228,7 +228,7 @@ D'altra parte se il virus è scappato (o è stato rilasciato) da un laboratorio 
 
 Perciò la natura del virus, così come la natura del vaccino, indicano - entrambi - più un problema di gestione delle pratiche mediche e di politiche sanitarie piuttosto che essere un problema di per-se-stessi o una tecnologia pericolosa.
 
-----
+---
 
 ### Il mito di Frankenstein
 
