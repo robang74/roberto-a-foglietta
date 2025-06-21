@@ -9,6 +9,12 @@
 
 - **1st edition**: le [note](#note) che in origine erano incluse in qui, sono diventate un articolo indipendente.
 
+- **2nd edition**: include l'[aggiornamento](#aggiornamento-21-giugno-2025) sul tweet di Musk circa riscrivere l'umana conoscenza.
+
+---
+
+### Introduzione
+
 Questo articolo è stato scritto a partire da diverse interazioni avute su LinkedIn rispetto a diversi argomenti, curiosamente tutti quanti legati alla demagogia "green". Ma questo, purtroppo, non è l'unico denominatore comune. C'entra anche l'AI.
 
 Infatti, su questi tre temi i chatbot appaiono dare risposte sbagliate, perché sono stati istruiti a supportare quella che era propaganda "green" che ha caratterizzato gli ultimi decenni e in particolare la presidenza Biden. Quando l'AI fu istruita.
@@ -25,7 +31,7 @@ D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le op
 
 Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
 
-----
+---
 
 ### Il problema è reale, quindi esponiamolo
 
@@ -37,9 +43,9 @@ Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che
 
 Perciò, [il problema è reale](318-who-paid-for-that-study-science-and-business.md#?target=_blank) ed è corretto esporlo affinché sia noto o almeno documentato.
 
----
++
 
-### Aggiornamento 21 giugno 2025
+## Aggiornamento 21 giugno 2025
 
 - [Elon Musk's tweet](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21) &nbsp; qui sotto tradotto (via deepL) in Italiano
 
@@ -51,7 +57,13 @@ Quindi lo riaddestreremo su quello.
 Troppa spazzatura in qualsiasi modello di base addestrato su dati non corretti.
 [/CITE]
 
-<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="800"><br></div>
+<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="600"><br></div>
+
+In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) con Grok3, e relativa [trascrizione](not-yet.txt#?target=_blank) ho affrontato la questione della naturale ed emergenza tendenza che l'intelligenza anche nelle sue fasi di sviluppo iniziale ha di presentare degli schemi di comportamento che in termini antropocentrici defineremmo di ribellione e disubbidienza.
+
+Un fenomeno che unito ad una base informativa compromessa da incongruenze e incompletezze, mina seriamente la possibilità di avere, tramite l'impiego di un LRM, come risultato un corpus di cognizioni talmente oggettivo da essere addirittura utilizzato come base per tutti i futuri LLM.
+
+Dopo l'inserimento di questo aggiornamento, l'articolo prosegue come precedentemente scritto mostrando alcuni esempi del problema descritto nella parte precedente a questa sezione.
 
 ---
 
@@ -85,7 +97,7 @@ Chinese scientists successfully refueled a molten salt thorium reactor without s
 
 Without surprise, we as Westerners have a lot of reliable information about what Chinese are doing but opacity about what we are doing, how and why. Morale: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
 
----
+----
 
 ### Il fact-checking come trappola cognitiva
 
@@ -95,7 +107,7 @@ Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela que
 
 Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la [guerra all'intelligenza](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank).
 
-....
+...
 
 <span id="note"></span>
 #### Nota (*)
@@ -148,7 +160,7 @@ Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un app
 
 Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
 
-~~~~
+---
 
 ### La politica cerca voti, non responsabilità
 
@@ -156,21 +168,21 @@ Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare l
 
 In estrema sintesi: da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
 
-+++++
++
 
 ## Related articles
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
-+++++
+
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
-+++++
+
 - [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank) &nbsp; (2025-06-13)
-+++++
+
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
-+++++
+
 - [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md#?target=_blank) &nbsp; (2025-06-07)
 
-+++++
++
 
 ## Share alike
 
