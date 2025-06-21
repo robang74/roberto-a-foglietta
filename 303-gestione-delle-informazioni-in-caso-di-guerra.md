@@ -1,5 +1,5 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img src="img/303-gestione-delle-informazioni-in-caso-di-guerra.jpg" width="800"><br></div>
 
@@ -44,7 +44,7 @@ Ci sono, quindi, delle situazioni in cui il fact-checking è un lusso (solo i ri
 
 In questi casi, in particolare, sorge spontanea una domanda: in assenza di fact-checking come si gestisce l'informazione? Eccoci qui, senza la pretesa di fornire una soluzione esaustive ma solo divulgare le basi della gestione delle informazioni - che TUTTI noi dovremmo indipendentemente fare - a maggior ragione quando, in determinate circostanze, è ragionevole pensare che anche il fact-checking istituzionale NON sia affidabile o peggio.
 
-----
+---
 
 ### Il sistema dei media
 
@@ -106,7 +106,7 @@ La realtà ha ampiamente dimostrato che Internet ha creato gruppi di asini catal
 
 In questo ambito, il termine "idiota" non è affatto un giudizio morale o lo sbotto di una frustrazione personale, deve essere alla stregua di un termine tecnico che affonda le sue radici nella cultura dell'antica Grecia e quindi definisce in maniera "tecnica" questo tipo di soggetti. Inutile sottolineare che in questo contesto ci si trova ad affrontare un ulteriore paradosso: la cultura umanistica meno conosciuta ma meglio padroneggiata dagli STEM, perché correttamente contestualizzata.
 
----
+----
 
 ### La sfida del globalismo
 
@@ -214,7 +214,7 @@ Se confrontiamo l'immagine di Open con quella di questo video vediamo che non so
 
 Oltretutto è oggettivamente arduo provare sia l'una che l'altra ipotesi ANCHE per gli esperti. Invece, la gestione sconsiderata della pandemia è una certezza.
 
----
++
 
 ### Conclusione
 
