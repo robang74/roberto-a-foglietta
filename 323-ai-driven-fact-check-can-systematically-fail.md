@@ -51,7 +51,7 @@ Quindi lo riaddestreremo su quello.
 Troppa spazzatura in qualsiasi modello di base addestrato su dati non corretti.
 [/CITE]
 
-<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="600"><br></div>
+<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="800"><br></div>
 
 ---
 
@@ -95,7 +95,7 @@ Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela que
 
 Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la [guerra all'intelligenza](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank).
 
-...
+....
 
 <span id="note"></span>
 #### Nota (*)
