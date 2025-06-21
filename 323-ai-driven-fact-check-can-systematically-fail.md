@@ -41,7 +41,7 @@ Perciò, [il problema è reale](318-who-paid-for-that-study-science-and-business
 
 ### Aggiornamento 21 giugno 2025
 
-- [Elon Musk's twwt](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21) &nbsp; qui sotto tradotto (via deepL) in Italiano
+- [Elon Musk's tweet](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21) &nbsp; qui sotto tradotto (via deepL) in Italiano
 
 [!CITE]
 Utilizzeremo Grok 3.5 (forse dovremmo chiamarlo 4), che dispone di un ragionamento avanzato, per riscrivere l'intero corpus della conoscenza umana, aggiungendo le informazioni mancanti ed eliminando gli errori.
