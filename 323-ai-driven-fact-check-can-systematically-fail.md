@@ -35,7 +35,7 @@ Purtroppo gli attuali LLM anche quando sono dotati di un'architettura LRM non so
 
 Purtroppo esiste anche un problema analogo nelle pubblicazioni scientifiche, che non sarà banale, indolore e veloce da risolvere. Inquinare i pozzi della conoscenza e della scienza, per vincere una guerra ideologica e raccogliere voti, crea danni a lungo termine, incluso perdere la fiducia della gente sia nelle istituzioni, sia nella scienza.
 
-Perciò, il problema è reale ed è corretto esporlo affinché sia noto o almeno documentato.
+Perciò, [il problema è reale](318-who-paid-for-that-study-science-and-business.md#?target=_blank) ed è corretto esporlo affinché sia noto o almeno documentato.
 
 ---
 
@@ -110,7 +110,7 @@ Viviamo strani giorni
 
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
 
-Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di un capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
 
 ----
 
@@ -140,7 +140,21 @@ Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare l
 
 In estrema sintesi: da un punto di vista politico invece le reti di vendita indipendenti portano molti più voti perché condizionano il mercato in un modo simile a quello dello spaccio di sostanze stupefacenti per il quale alla fine gli acquirenti rimangono "bloccati" in scelte "irreversibili" pena una grave perdita (sunk cost) che spesso però è la scelta giusta da fare.
 
-+
++++++
+
+## Related articles
+
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
++++++
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
++++++
+- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank) &nbsp; (2025-06-13)
++++++
+- [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
++++++
+- [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md#?target=_blank) &nbsp; (2025-06-07)
+
++++++
 
 ## Share alike
 
