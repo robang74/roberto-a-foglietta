@@ -86,11 +86,9 @@ which implies to take care of "our" people and let them be free enough to pay ba
 
 and your customers will make you rich.
 
-Also the best collaboration-or-deceit game strategy when random players are involved
+Also the best collaboration-or-deceit game strategy when random players are involved, which is the so named "tic-for-tac" which is fundamentally the ancient Roman proverb "do ut des" -- I give to you in order you give to me -- or leading by example -- I do this because you do like me -- or reciprocity, whatever you like.
 
 - [The game theory's ethics](https://robang74.github.io/chatbots-for-fun/html/ai-peer-review-prompt-with-rag.html#the-game-theory-s-ethics) &nbsp; (2025-01-21)
-
-is the so named "tic-for-tac" which is fundamentally the ancient Roman proverb "do ut des" - I give to you in order you give to me - or leading by example - I do this because you do like me - or reciprocity, whatever you like.
 
 Under this point of view, a socialist country like Switzerland - in this case socialism is a pragmatic approach shared among left and right, while in Sweden is more a political concept - grants to their citizens the basics cares and in doing this they grant them real freedom and when people are free to speak, free to work or do business, they behave coherently with the rules of the nature (aka a certain order embedded into reality) bringing on the table more value that they consume (otherwise we would have been extinct eons ago, if we would not able to do that).
 
@@ -123,9 +121,9 @@ Instead, doing to other nations will ultimately lead to war-as-business foreign 
 
 Which is the reason because a "dystopian system controlled media" is going to suppress that instinct beforehand, ending up to the point in which young people die in unbelievable stupid social challenges. Guess why? Managing instincts is good because otherwise we were animals, suppressing them is bad because it leads people to be dysfunctional and the brutal reality will not pardon them for being ingenuity dysfunctional.
 
----
+~~~~
 
-### Instincts management
+### Instincts & management
 
 By the way, managing instincts - also known as instinct governance through self-management and societal channelling - is a dual-layered practice.
 
@@ -149,7 +147,7 @@ From a collective PoV, bullying someone by a group might lead us to the wrong co
 
 Switzerland has more weapons for inhabitants than the USA but near-zero homicide cases and not any mass shooting event, which suggests to us that any kind of tools availability does not cause directly and necessarily the misuse of them but other factors should get into the scene.
 
-----
+---
 
 ### Conservation of value law
 
@@ -181,7 +179,7 @@ In fact, on the opposite side we can imagine that everyone on this planet adopte
 
 Therefore, the "variety" concept works well for the single persona as well as for nations as well as for humanity as a whole. Unsurprisingly, I wish to add, because a concept that scales well from the individual to the whole of humanity, it does not happen because of an accident.
 
----
+----
 
 ### The brutality of reality
 
@@ -209,7 +207,7 @@ Within a reasonable and ideal anthropomorphism of reality, we can say that Mrs. 
 
 Under this PoV, we can please ourselves in our room space and enjoy our own party, ignoring that Mrs. Reality exists until she gets into the room and sh*t starts to rain like it's in the middle of a hurricane. Hence, we can ignore her, but not the consequences of ignoring her.
 
----
+----
 
 ### Meeting a true American
 
@@ -253,9 +251,9 @@ All of these points were pretty damn clear in the mind of **every** feudal landl
 
 Despite this evidences, there are many people in the world with a peculiar concentration in USA that believe socialism (as a practical way of caring about our own business as ruling kings) is as bad as communism, even when they are relatively poor and living on food stamps (which is relatively sane form of assistencialism, Caritas free meals program docet).
 
----
++
 
-### Conclusions
+## Conclusions
 
 Is it hard to reach a conclusion? Monkeys and other primates did this on their own despite being considered soulless animals. Think about it, all the time you need but not too much! {;-)}
 
@@ -287,7 +285,7 @@ Finally, I agree that reality is much more complicated (but not more complex, ju
 > 
 > This section has been written with various AIs support, after peer-reviewing the document with them.
 
----
+...
 
 ### Society vs Reality
 
