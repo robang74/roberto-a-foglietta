@@ -82,7 +82,7 @@ function full_mdlinkconv() {
 function title_tags_add() {
     local i strn find file=$1; shift
     for i in "$@"; do
-        find=$(echo "$i" | sed -e 's/\([",$*()]\)/\\\1/g' -e 's,\[,\\\[,g')
+        find=$(echo "$i" | sed -e 's/\([",$*]\)/\\\1/g' -e 's,\[,\\[,g' -e 's,\],\\],g')
         strn=$(echo "$i" | tr 'A-Z ' 'a-z-' | tr -dc '0-9a-z-')
         sed -e "s,\(<H[1-3] id=.\)$find\(.>.*\),\\1$strn\\2," -i $file
     done
@@ -175,6 +175,7 @@ function md2htmlfunc() {
 -e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
+-e "s,(#\([0-9]\+\)),<sup>(\&#x202f;<a href='#nota-\\1'>\\1</a>\&#x202f;)</sup>,g" \
 -e 's,\(>\)\{0\,1\} -- ,\1 \&mdash; ,g' -e 's,\\\*,\&ast;,g' \
 -e 's,\([^!/]\)-->,\1\&rarr;,g' -e 's,<--,\&larr;,g' \
 -e 's,(\*),(\&ast;),g' -e 's,\[\*\],[\&ast;],g' \
