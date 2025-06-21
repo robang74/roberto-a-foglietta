@@ -5,7 +5,7 @@
 
 ## Meglio un monarca assoluto che una strega sul pisello
 
-- **2nd draft**: articolo in scrittura, emerso da una serie di note scritte per un articolo precedente
+- **1st edition**: articolo emerso da una serie di note scritte per un articolo precedente
 
    - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#note?target=_blank) &nbsp; (2025-06-13)
 
@@ -129,7 +129,7 @@ Infatti, l'intelligenza è un facoltà "non intensiva" che permette di sfruttare
 
 È davvero incredibile vedere quante parole servono per nascondere la verità e quanti [pochi fatti](321-wwz-simply-explained-for-dummies.md#?target=_blank) bastino per rivelarla.
 
----
+~~~~
 
 ### Nota (8)
 
