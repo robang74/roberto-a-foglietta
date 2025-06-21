@@ -15,9 +15,9 @@ This article is written starting from posts published on Linkedin within the pre
 
 ### Introduction
 
-How did the war enter our minds and what war is being fought for the control of our minds? These are not two trivial questions. While the WW3 (nuclear war) started to be planned in 1992 after the Soviet Union fall ([post #5](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), and later diverted against Russia in the hope to cancel the American public debt, which will default in 2026 (). Instead, the WWZ (zombi war) has been planned since 1969, in response to the social turn that the Western world shown had taking in 1968.
+How did the war enter our minds and what war is being fought for the control of our minds?
 
-This last claim, I did not be argumented, yet.
+These are two non-trivial questions. Let's start from here-now and go back to the time.
 
 ---
 
@@ -101,7 +101,9 @@ The above linked are articles about serious topics and their combination let be 
 
 ## Conclusions
 
-How did the war enter our minds and what war is being fought for the control of our minds? These are not two trivial questions. While the WW3 (nuclear war) started to be planned in 1992 ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), after the Soviet Union fall, and later diverted against Russia.
+> How did the war enter our minds and what war is being fought for the control of our minds? 
+
+While the WW3 (nuclear war) started to be planned in 1992 ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), 2025-06-10), after the Soviet Union fall, and later diverted against Russia.
 
 Diverted against Russia since 2007, in the hope to cancel the American public debt, which will default in 2026 ([post #4](https://www.linkedin.com/posts/robertofoglietta_doomsday-is-today-but-at-which-time-please-activity-7337952187270021122-NR6W), point #1). Instead, the WWZ (zombi war) has been planned since 1969, in response to the social turn that the Western world shown had taking in 1968.
 
