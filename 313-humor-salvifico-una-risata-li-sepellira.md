@@ -87,9 +87,9 @@ Volendo prendere **Il Nome della Rosa** come un'analogia di una moderna società
 
 Umberto Eco, nella sua sagacia di narratore non esplicita se la rabbia del popolo fu generata per aver messo al rogo una fanciulla, una di loro, oppure per la perdita della biblioteca e quindi il motivo stesso dell'esistenza del convento che nel male o nel bene, qualcosa per il loro sostentamento forniva, sebbene e spesso in cambio di "accordi" non affatto dignitosi.
 
-#### Proseguimento
+### Proseguimento
 
-- [Eppure Richard Feynman l'avrebbe apprezzato](314-eppure-feynman-l-avrebbe-apprezzato.md#?target=_blank)
+- [Eppure Richard Feynman l'avrebbe apprezzato](314-eppure-feynman-l-avrebbe-apprezzato.md#?target=_blank) &nbsp; (2025-05-11)
 
 +
 
