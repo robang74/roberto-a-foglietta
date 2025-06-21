@@ -39,6 +39,22 @@ Perciò, [il problema è reale](318-who-paid-for-that-study-science-and-business
 
 ---
 
+### Aggiornamento 21 giugno 2025
+
+- [Elon Musk's twwt](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21)
+
+[!CITE]
+We will use Grok 3.5 (maybe we should call it 4), which has advanced reasoning, to rewrite the entire corpus of human knowledge, adding missing information and deleting errors.
+
+Then retrain on that. 
+
+Far too much garbage in any foundation model trained on uncorrected data.
+[/CITE]
+
+<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="800"><br></div>
+
+---
+
 ### Thorium reactors aren't made for power production
 
 Lasky wrote:《It’s nothing but a Uyghur disposal and incineration facility》. Which is **not** totally wrong metaphorically speaking because the **main** use of this kind of nuclear reactor is not producing energy - as you can imagine 2MW/h is something risible for a nuclear reactor - but reprocessing the exhausted nuclear fuel from conventional uranium power plants.
@@ -112,7 +128,7 @@ Secondo questo principio è stupido anche chi si fa governare da dei corrotti o 
 
 Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di un capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
 
-----
+---
 
 ### L'importante è vendere, solo quello
 
@@ -132,7 +148,7 @@ Un modello che diversificava e mitigava i rischi e spartendosi gli utili. Un app
 
 Da un punto di vista amministrativo sarebbe stato utile, invece di incentivare la decentralizzazione e la disorganizzazione, incentivare il modello Beghelli e quella società a creare un ramo d'azienda che si ponesse sul mercato come fornitore di energia.
 
----
+~~~~
 
 ### La politica cerca voti, non responsabilità
 
