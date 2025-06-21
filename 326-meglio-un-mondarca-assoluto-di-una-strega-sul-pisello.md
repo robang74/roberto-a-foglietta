@@ -13,6 +13,8 @@
 
 ### Nota [1]
 
+> Ancora una volta, l'AI è il game-changer, che permette di far emergere certe dinamiche in tempi brevi.
+
 Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento [2], sono impazzite nei confronti dell'hype dell'AI.
 
 Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo punto di vista sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?

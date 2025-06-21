@@ -73,7 +73,7 @@ Without surprise, we as Westerners have a lot of reliable information about what
 
 ### Il fact-checking come trappola cognitiva
 
-Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, è l'AI ad essere il game-changer (*) che permette di far emergere certe dinamiche in tempi molto ridotti.
+Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in favore della propaganda politica? La tragica risposta è sì, decisamente. Ancora una volta, l'AI è il game-changer (*), che permette di far emergere certe dinamiche in tempi brevi.
 
 Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
 
