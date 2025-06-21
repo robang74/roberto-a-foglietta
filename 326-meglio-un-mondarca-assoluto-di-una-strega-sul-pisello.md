@@ -11,11 +11,11 @@
 
 ---
 
-### Nota [1]
+### Nota (1)
 
 > Ancora una volta, l'AI è il game-changer, che permette di far emergere certe dinamiche in tempi brevi.
 
-Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento [2], sono impazzite nei confronti dell'hype dell'AI.
+Il che spiega perché tanto la Chiesa, quanto l'Unione Europea in qualità di entità politica e burocratica, ambedue istituzioni strutturalmente resistenti al cambiamento (#2), sono impazzite nei confronti dell'hype dell'AI.
 
 Certo, l'AI come ogni hype tecnologico muove molto denaro, ma sotto questo punto di vista sarebbe stato opportuno cavalcarla senza sella per andare, come in effetti ha fatto Trump, a raccogliere trilioni di investimenti. Invece cosa hanno fatto?
 
@@ -29,7 +29,7 @@ Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come 
 
 ----
 
-### Nota [2]
+### Nota (2)
 
 Chiesa e Unione Europea, ambedue queste realtà hanno subito un forte accentramento di potere decisionale nella loro figura apicale come sempre più spesso appare evidente, che il Parlamento Europeo sostiene in modo compatto la linea imposta dall'alto del vertice.
 
@@ -37,15 +37,15 @@ Nella Chiesa le dinamiche interne sono più opache ma basti ricordare che già P
 
 Invece nell'Unione Europea la minoranza "democratica" dissente usa sistematicamente un modello comunicativo da "urlatore in fiera" che ricalca perfettamente il modello complottista sconnesso e inconcludente. Quindi rafforzando lo schema dualistico: pensiero unico vs urlatori sconclusionati.
 
-Uno schema in cui emergono rare eccezioni, tipo qualche lupo solitario che si oppone secondo concretezza e pragmatismo. Tipo Orban, che sistematicamente viene accusato di essere un dittatore, perché dalla parte antagonista si confonde il consenso con la democrazia [3].
+Uno schema in cui emergono rare eccezioni, tipo qualche lupo solitario che si oppone secondo concretezza e pragmatismo. Tipo Orban, che sistematicamente viene accusato di essere un dittatore, perché dalla parte antagonista si confonde il consenso con la democrazia (#3).
 
 ---
 
-### Nota [3]
+### Nota (3)
 
 Perché per quanto possa apparire "strano", sono le dittature e in particolari quelle soft (come quella Cinese) che costruiscono il consenso marginalizzando le opinioni "dissidenti" mentre in [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank) la libertà di parola non è solo un diritto ma un fondamentale del dibattito.
 
-- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata [4]
+- Una monarchia assoluta sarebbe più onesta, almeno la gente saprebbe come viene governata (#4)
 
 Se invece di una monarchia assoluta ci fosse una democrazia parlamentare, nella quale il Parlamento è il luogo deputato a gestire il confronto democratico e a fornire le direttive generale di governo mentre il monarca si occuperebbe delle eccezioni, saremmo tornati indietro rispetto al concetto di Repubblica Democratica fondata sulla Costituzione Italiana ma paradossalmente avremmo fatto un passo da gigante in termini di pluralità e partecipazione.
 
@@ -53,7 +53,7 @@ Ci troviamo in una condizione politica, in Italia e in Europa così ridicola da 
 
 ---
 
-### Nota [4]
+### Nota (4)
 
 In realtà l'idea di fare una rivoluzione popolare per passare da una dittatura di fatto, seppure soft ma comunque opprimente, ad un monarca assoluto che poi sviluppi una monarchia parlamentare, quindi una monarchia parlamentare costituzionale, per poi giungere ad una federazione europea in stile elvetico è meno assurda di quanto possa apparire.
 
@@ -63,13 +63,13 @@ In questo contesto la rivoluzione non porterebbe alla distruzione dell'accentram
 
 Un catarsi del potere, che non riforma se stesso -- ingenuamente. impossibile -- ma viene riformato dal suo interno per collasso istituzionale e quindi rivoluzione al vertice. Sotto questo punto di vista "rivoluzione" è pure un termine "overkill", basta uno sgambetto ben fatto!
 
-Un'idea che appare di primo acchito bizzarra, ma che invece ha un suo solido fondamento razionale. Certamente è un azzardo, ma le alternative non paiono migliori. D'altronde l'atto scatenante è uno sgambetto agli attuali vertici europei [5], una cosa -- Buona e Giusta [&trade;] -- che andrebbe fatta a prescindere [6].
+Un'idea che appare di primo acchito bizzarra, ma che invece ha un suo solido fondamento razionale. Certamente è un azzardo, ma le alternative non paiono migliori. D'altronde l'atto scatenante è uno sgambetto agli attuali vertici europei (#5), una cosa -- Buona e Giusta [&trade;] -- che andrebbe fatta a prescindere (#6).
 
 ---
 
-### Nota [5]
+### Nota (5)
 
-D'altronde l'Unione europea come la conosciamo oggi è un carrozzone burocratico che impantana l'impresa e saccheggia i cittadini a favore della militarizzazione della società [7], oltre ad essere inutile funzionalmente. In particolare riguardo all'ultima informazione:
+D'altronde l'Unione europea come la conosciamo oggi è un carrozzone burocratico che impantana l'impresa e saccheggia i cittadini a favore della militarizzazione della società (#7), oltre ad essere inutile funzionalmente. In particolare riguardo all'ultima informazione:
 
 [!INFO]
 
@@ -103,13 +103,13 @@ La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava 
 
 ---
 
-### Nota [6]
+### Nota (6)
 
 Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la **criminale** gestione della pandemia Covid-19.
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin [8] ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
+Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin (8) ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
 
 A pensare che se la Russia, come ci avevano decantato, fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni occidentali, ora avremmo il gas russo gratis e l'Europa sarebbe stata liberata dal pensiero unico mentre lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
 
@@ -119,7 +119,7 @@ Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i ser
 
 ---
 
-### Nota [7]
+### Nota (7)
 
 La militarizzazione della società civile come propagandato da un "interessante" documento di 164 pagine in [PDF](https://commission.europa.eu/document/download/5bb2881f-9e29-42f2-8b77-8739b19d047c_en?filename=2024_Niinisto-report_Book_VF.pdf), scritto da Sauli Niinistö consulente speciale del Presidente della Commissione Europea che lo ha commissionato per essere pronto per ottobre 2024.
 
@@ -133,7 +133,7 @@ Infatti, l'intelligenza è un facoltà "non intensiva" che permette di sfruttare
 
 ---
 
-### Nota [8]
+### Nota (8)
 
 Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettato di tollerare gli Africani e i Musulmani, relativamente di buon grado considerato il nostro storico passato di Crociati e schivisti negrieri, ma hanno continuato ad odiare i Russi e in particolare la figura di Putin?
 
