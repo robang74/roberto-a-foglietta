@@ -1,5 +1,5 @@
 <div id="firstdiv" created="2025-01-30:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img src="img/301-socialism-is-not-communism.jpg" width="800"><br></div>
 
@@ -54,7 +54,7 @@ Good time as well as a good starting point to put the idea that socialism = comm
 
 Please, notice that every Latin `-ism` postfix implies an ideology and ideology is great to inspire people but also bad in leading them to cope with reality. Both happen because idealising a concept - like true love or virginity - allows us to make it much more appealing (or the opposite) but it also alienates us from practical reasoning.
 
-+++++
+---
 
 ### Socialism vs Communism
 
@@ -100,7 +100,7 @@ Which finally brings us to consider the ancient african word "ubuntu":
 
 the same reciprocal and mutual relationship between the individual and the society. Plus, the idea that individuals are the product of the society (or the part of the society related to them).
 
----
+----
 
 ### The practice of caring
 
@@ -121,7 +121,7 @@ Instead, doing to other nations will ultimately lead to war-as-business foreign 
 
 Which is the reason because a "dystopian system controlled media" is going to suppress that instinct beforehand, ending up to the point in which young people die in unbelievable stupid social challenges. Guess why? Managing instincts is good because otherwise we were animals, suppressing them is bad because it leads people to be dysfunctional and the brutal reality will not pardon them for being ingenuity dysfunctional.
 
-~~~~
+---
 
 ### Instincts & management
 
@@ -179,7 +179,7 @@ In fact, on the opposite side we can imagine that everyone on this planet adopte
 
 Therefore, the "variety" concept works well for the single persona as well as for nations as well as for humanity as a whole. Unsurprisingly, I wish to add, because a concept that scales well from the individual to the whole of humanity, it does not happen because of an accident.
 
-----
+---
 
 ### The brutality of reality
 
@@ -207,7 +207,7 @@ Within a reasonable and ideal anthropomorphism of reality, we can say that Mrs. 
 
 Under this PoV, we can please ourselves in our room space and enjoy our own party, ignoring that Mrs. Reality exists until she gets into the room and sh*t starts to rain like it's in the middle of a hurricane. Hence, we can ignore her, but not the consequences of ignoring her.
 
-----
+---
 
 ### Meeting a true American
 
