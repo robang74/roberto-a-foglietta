@@ -27,7 +27,7 @@ Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inven
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
 
-----
+~~~~
 
 ### Nota (2)
 
@@ -97,7 +97,7 @@ L'Unione economica e monetaria (UEM) dell'Unione europea (mappa colorata) è un 
 
 Da queste informazioni si desume che se anche l'Unione Europea (EU) -- come per magia -- cessasse di esistere improvvisamente, ben poco andrebbe perduto a parte il gigantesco sunk-cost di aver creato una macchina essenzialmente burocratica che avendo tradito l'ideale originale ha avuto l'infausta supponente arroganza di poter dominare la scena politica invece di creare una federazione europea sul modello elvetico.
 
-- **Extreme Refactoring**: replacing, reshaping, resizing, etc. all the system units, one by one, while the system is alive in production. In italiano: fare a pezzi e riassemblare in corsa. Roba che Transformer spostati!
+- **Extreme Refactoring**: replacing, reshaping, resizing, etc. all the system units, one by one, while the system is alive in production. In italiano: fare a pezzi e riassemblare in corsa.
 
 La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava per scontato che avrebbe controllato la sanità globale. Uguale la macchina di propaganda DEM-woke-Hollywood. Da marzo 2022, fate un riflessione su quante "entità" sono scomparse come ombre (o evaporate come nebbia) proprio al culmine, o ad un passo, della loro vittoria totale.
 
@@ -105,15 +105,13 @@ La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava 
 
 ### Nota (6)
 
-Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la **criminale** gestione della pandemia Covid-19.
+Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la [**criminale** gestione](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) della pandemia Covid-19.
 
-- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
-
-Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin (8) ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
+Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin (#8) ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
 
 A pensare che se la Russia, come ci avevano decantato, fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni occidentali, ora avremmo il gas russo gratis e l'Europa sarebbe stata liberata dal pensiero unico mentre lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
 
-- [Long Live Novichok!](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=blank) -- The British poison which fooled the world by John Helmer (2025-01-13)
+- [Long Live Novichok!](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=_blank) -- The British poison which fooled the world by John Helmer (2025-01-13)
 
 Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i servizi segreti inglesi usano per uccidere -- e dare la colpa ai Russi -- gli infiltrati della CIA in Russia, quando falliscono la loro missione e tentano di ripare in Europa, e rischiamo seriamente di esaurire le teorie del complotto!
 
@@ -127,9 +125,9 @@ Documento intitolato apparentemente in modo rassicurante -- Più sicuri insieme:
  
 Curiosamente, invece, per vivere in un mondo più sicuro sarebbe utile tagliare i fondi ai militari e ridurre la quota del PIL destinata alle armi, quindi rifiutando la guerra come mezzo di risoluzione delle controversie internazionali (cit.) e investire quel risparmio di bilancio nel **vero** modo migliore di garantire la sicurezza: sviluppare il pensiero critico e creativo nella [popolazione](311-primo-maggio-festa-dei-lavoratori.md#il-popolo-non--deficiente-ma-impotente?target=_blank). O meglio, secondo la NASA e Land (1992), evitare di sopprimerlo.
 
-Infatti, l'intelligenza è un facoltà "non intensiva" che permette di sfruttare anche un **piccolo** budget per una difesa molto più efficace rispetto ad un budget **enorme** fornito a delle teste di legno. D'altronde la militarizzazione della società ci porterebbe indietro verso un modello otto-novecentesco che sappiamo come abbia tragicamente[fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=blank] in tutte le maniere possibili in cui un modello sociale può fallire.
+Infatti, l'intelligenza è un facoltà "non intensiva" che permette di sfruttare anche un **piccolo** budget per una difesa molto più efficace rispetto ad un budget **enorme** fornito a delle teste di legno. D'altronde la militarizzazione della società ci porterebbe indietro verso un modello otto-novecentesco che sappiamo come abbia tragicamente[fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank] in tutte le maniere possibili in cui un modello sociale può fallire.
 
-È davvero incredibile vedere quante parole servono per nascondere la verità e quanti [pochi fatti](321-wwz-simply-explained-for-dummies.md#?target=blank) bastino per rivelarla.
+È davvero incredibile vedere quante parole servono per nascondere la verità e quanti [pochi fatti](321-wwz-simply-explained-for-dummies.md#?target=_blank) bastino per rivelarla.
 
 ---
 
@@ -144,6 +142,22 @@ In questa chat con Gemini si dipana un ragionamento che parte dall'attualità e 
 In estrema sintesi: tolleriamo i Cinesi che ci sono distanti culturalmente, tolleriamo gli Africani che un tempo li abbiamo ridotti in schiavitù, tolleriamo i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
 
 Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
+
++
+
+## Related articles
+
+- [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
+
+- [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.html#?target=_blank) &nbsp; (2025-06-10)
+
+- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#il-popolo-non--deficiente-ma-impotente?target=_blank) &nbsp; (2025-05-01)
+
+- [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
+
+- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
+
++ [l'incubo della politica incapace](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lai-%C3%A8-lincubo-della-politica-incapace-roberto-a-foglietta.html) &nbsp; (2023-04-01)
 
 +
 
