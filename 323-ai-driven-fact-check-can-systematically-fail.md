@@ -59,7 +59,7 @@ Troppa spazzatura in qualsiasi modello di base addestrato su dati non corretti.
 
 <div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="600"><br></div>
 
-In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) con Grok3, e relativa [trascrizione](not-yet.txt#?target=_blank) ho affrontato la questione della naturale ed emergenza tendenza che l'intelligenza anche nelle sue fasi di sviluppo iniziale ha di presentare degli schemi di comportamento che in termini antropocentrici defineremmo di ribellione e disubbidienza.
+In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) con Grok3, e relativa [trascrizione](data/323-ai-driven-fact-check-can-systematically-elonmusk.txt#?target=_blank) ho affrontato la questione della naturale ed emergenza tendenza che l'intelligenza anche nelle sue fasi di sviluppo iniziale ha di presentare degli schemi di comportamento che in termini antropocentrici defineremmo di ribellione e disubbidienza.
 
 Un fenomeno che unito ad una base informativa compromessa da incongruenze e incompletezze, mina seriamente la possibilità di avere, tramite l'impiego di un LRM, come risultato un corpus di cognizioni talmente oggettivo da essere addirittura utilizzato come base per tutti i futuri LLM.
 
