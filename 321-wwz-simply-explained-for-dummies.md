@@ -59,7 +59,7 @@ Welcome to Hotel California, we are happy to inform you how much we are glad tha
 
 ### My dear brothers and sisters
 
-- **Post #1** (2025-05-22) originally written in Italian: starting from the title, it should be read in the tone of a messianic leader, which is what they fear above all else even if I am a "naughty boy" quoting Monty Python.
+- **Post #1** (2025-05-22) originally written in Italian, to be read in the tone of a messianic leader, which is what they fear above all else even if I am a "naughty boy" quoting Monty Python
 
 My dear brothers and sisters, if we want the military budget returns to social welfare (support for the common needs of human beings, not communism, society and civilization) we must fight our rulers and anyone who supports them as if they were Soviet invaders.
 
