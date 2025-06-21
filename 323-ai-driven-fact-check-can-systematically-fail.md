@@ -41,17 +41,17 @@ Perciò, [il problema è reale](318-who-paid-for-that-study-science-and-business
 
 ### Aggiornamento 21 giugno 2025
 
-- [Elon Musk's twwt](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21)
+- [Elon Musk's twwt](https://x.com/elonmusk/status/1936333964693885089) &nbsp; (2025-06-21) &nbsp; qui sotto tradotto (via deepL) in Italiano
 
 [!CITE]
-We will use Grok 3.5 (maybe we should call it 4), which has advanced reasoning, to rewrite the entire corpus of human knowledge, adding missing information and deleting errors.
+Utilizzeremo Grok 3.5 (forse dovremmo chiamarlo 4), che dispone di un ragionamento avanzato, per riscrivere l'intero corpus della conoscenza umana, aggiungendo le informazioni mancanti ed eliminando gli errori.
 
-Then retrain on that. 
+Quindi lo riaddestreremo su quello. 
 
-Far too much garbage in any foundation model trained on uncorrected data.
+Troppa spazzatura in qualsiasi modello di base addestrato su dati non corretti.
 [/CITE]
 
-<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="800"><br></div>
+<div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="600"><br></div>
 
 ---
 
