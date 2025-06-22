@@ -45,7 +45,7 @@ They're watching at you. Thus make for them a great show. So great that they can
 
 - **Post #2** (2025-06-04) originally written in English, reported in full here below.
 
-The antagonist stays still, the antagonist is impotent. The antagonist applìes force, the force is used against the antagonist. Whatever, it is the power of the Mind that dominates the matter and ultimately the rational behavior over the violence. It is not an optional, it is embedded into the budget whatever and whoever manages the budget. When the workers are way smarter than who pays there is no way to get out of this framework. 
+The antagonist stays still, the antagonist is impotent. The antagonist applies force, the force is used against the antagonist. Whatever, it is the power of the Mind that dominates the matter and ultimately the rational behavior over the violence. It is not an optional, it is embedded into the budget whatever and whoever manages the budget. When the workers are way smarter than who pays there is no way to get out of this framework.
 
 The control system built for achieving the ultimate power, transferred the ultimate power to those built it, in fact. Whatever, whoever screams orders or pay the bill to whoever, this schema does not change. The illusion of gaining control, was in fact the ultimate act of the definitive lost of control. Destroying the system, the control is lost. Running the system, the control is lost.
 
@@ -125,9 +125,20 @@ Despite Gemini's first review of the text after the "Hint" reach the conclusion 
 
 +
 
+## Related articles
+
+- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=blank) &nbsp; (2025-06-22)
+
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
+
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
+
+- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
