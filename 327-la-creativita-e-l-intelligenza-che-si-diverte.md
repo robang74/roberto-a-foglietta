@@ -53,6 +53,12 @@ Il tutto spiegato facile, in una [conversazione](https://g.co/gemini/share/75a78
 
 LOL {lol}
 
+...
+
+#### Nota di colore
+
+Si noti che il diagramma delle traiettorie prodotte dall'attrattore strano di Lorenz, così come presentato nell'immagine, assomiglia sia ad una farfalla (effetto, 1963) sia alla maschera di Zorro (1919). La quale, però, è nata ben prima del suo personaggio ed era prodotta in forme stilisticamente e artigianalmente ben più pregiate, come quelle ("domino" o "lupo") usate nel carnevale di Venezia (1094). Maschere così piacevoli alla vista che, infatti, divennero di moda nel XVIII secolo, sopratutto fra le cortigiane e le donne di ceto sociale elevato, diffondendosi prima presso la corte francese, anche nella versione "lorgnette masque" rette tramite un supporto a bastoncino, e poi in Europa.
+
 +
 
 ## Share alike
