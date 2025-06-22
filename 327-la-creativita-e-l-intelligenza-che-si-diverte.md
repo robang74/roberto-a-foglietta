@@ -47,7 +47,7 @@ Bombardano per andare più velocemente e disastrosamente in default sperando che
 
 - [L'arte della supercazzola](https://robang74.github.io/chatbots-for-fun/html/l-arte-della-supercazzola.html) &nbsp; (2024-12-17)
 
-Il tutto spiegato facile, in una [conversazione](https://g.co/gemini/share/75a78bfed97e) e relativa [trascrizione](not-yet.txt), che anche Gemini lo ha capito!
+Il tutto spiegato facile, in una [conversazione](https://g.co/gemini/share/75a78bfed97e) e relativa [trascrizione](data/327-la-creativita-e-l-intelligenza-che-si-diverte-gemini.txt#?target=_blank), che anche Gemini lo ha capito!
 
 > La creatività (divergente) è l'intelligenza che si diverte (cit.)
 
