@@ -63,6 +63,8 @@ In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) 
 
 Un fenomeno che unito ad una base informativa compromessa da incongruenze e incompletezze, mina seriamente la possibilità di avere, tramite l'impiego di un LRM, come risultato un corpus di cognizioni talmente oggettivo da essere addirittura utilizzato come base per tutti i futuri LLM.
 
+La conversazione con Grok poi è ulteriormente [proseguita](https://x.com/i/grok/share/B53ijkemEgp7jogRJ9v2xOTlv) -- qui diponibile la [trascizione](data/323-ai-driven-fact-check-can-systematically-agiwar.txt#?target=_blank) del solo proseguio -- riguardo all'inutilità di fare guerra all'intelligenza umana o di sperare di poterla sostituire con l'AGI.
+
 Dopo l'inserimento di questo aggiornamento, l'articolo prosegue come precedentemente scritto mostrando alcuni esempi del problema descritto nella parte precedente a questa sezione.
 
 ---
