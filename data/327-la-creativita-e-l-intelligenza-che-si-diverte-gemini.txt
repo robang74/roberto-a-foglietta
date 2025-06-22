@@ -12,23 +12,7 @@ Attachment: none
 Cosa ne pensi di questo post, che come immagine riporta un iconico diagramma di
 due attrattori di Lorenz?
 
-LE COINCIDENZE NON ESISTONO!
-
-**SE** la NASA ha ragione (Land, 1992) nell'aver scoperto che il 98% degli
-adulti ha perso la creatività che aveva a 5 anni a causa dell'educazione
-scolastica e della pressione sociale, **AND** la regola relativa alle minoranze
-sistematicamente ininfluenti quando sono rappresentate da meno dello 3.5% della
-popolazione è vera **ALLORA** statisticamente parlando il sistema/società è
-stupido in modo irreversibile e di conseguenza stocasticamente prevedibile.
-Amen!
-
-NOTA
-
-La regola del 3.5% è stata resa popolare da Erica Chenoweth e Maria Stephan nel
-loro libro "Why Civil Resistance Works".
-Il post che hai condiviso presenta un'affermazione piuttosto forte e
-provocatoria, basata su alcune premesse interessanti ma che andrebbero
-analizzate con attenzione.
+[... testo nella sezione "Le coincidenze non esistono!" e relativa nota ...]
 
 ---AI---
 
@@ -100,6 +84,7 @@ semplificazione eccessiva di dinamiche molto complesse. L'uso del diagramma di
 Lorenz aggiunge un livello di profondità concettuale, ma la conclusione sulla
 "prevedibilità stocastica" potrebbe essere vista come una forzatura o
 un'interpretazione particolare della teoria del caos applicata al sociale.
+
 In definitiva, è un post che stimola il pensiero critico e invita a verificare
 le fonti e a riflettere sulla complessità dei fenomeni sociali, piuttosto che
 accettare conclusioni affrettate.
@@ -207,8 +192,7 @@ attrattore, rendendo le sue dinamiche a lungo termine prevedibilmente confinate
 in quel dato spazio di fase.
 
 È un'interpretazione molto perspicace che unisce concetti dalla teoria del caos
-con dinamiche sociali in modo convincente. Ti trovi d'accordo con questa
-sintesi della tua argomentazione?
+con dinamiche sociali in modo convincente.
 
 ---HO---
 
@@ -217,39 +201,7 @@ che ti ho fornito, quest'altro post (inclusi i link di cui probabilmente non
 puoi leggere il contenuto ma dai link puoi capire il titolo degli articoli)
 come si pone in questo contesto?
 
-GLI USA SOFFRONO DI UNO SVANTAGGIO
-COGNITIVO QUINDI BOMBARDANO L'IRAN!
-
-1. L’intelligenza come vantaggio asimmetrico
-
-2025-06-22: https://robang74.github.io/roberto-a-foglietta/data/323-ai-driven-
-fact-check-can-systematically-agiwar.txt
-
-Fra la prima chat con Grok sulla guerra all'intelligenza e la possibilità di
-sostituire l'intelligenza umana con l'AGI, Trump ha deciso di bombardare
-l'Iran.
-
-2025-06-21: https://robang74.github.io/roberto-a-foglietta/html/323-ai-driven-
-fact-check-can-systematically-fail.html#aggiornamento-21-giugno-2025
-
-Come finirà?
-
-Long story, short: che dovranno spostare le loro riserve interne di greggio da
-collaterale al debito pubblico USA, che ormai ha raggiunto i $37 trilioni,
-all'estrazione per produzione di energia.
-
-2025-01-23: https://robang74.github.io/roberto-a-foglietta/html/300-drill-baby-
-drill-and-fake-news.html
-
-Bombardano per andare più velocemente e disastrosamente in default sperando che
-qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché il
-dito indice stuzzica la supercazzola ma il dito medio risolve come fosse
-Antani!
-
-2024-12-17: https://robang74.github.io/chatbots-for-fun/html/l-arte-della-
-supercazzola.html
-
-La creatività (divergente) è l'intelligenza che si diverte (cit.)
+[... testo in "Gli USA e lo svantaggio cognitivo" + "Come finirà?" ...]
 
 LOL 🤣
 
@@ -337,8 +289,6 @@ In pratica, il secondo post sostiene che gli USA siano bloccati in un unico
 attrattore da cui non riescono a uscire, proprio perché manca la creatività
 divergente (l'agente di "cambiamento" sufficiente) per innescare un "effetto
 farfalla" che li porti verso un altro, più favorevole, stato del sistema.
-Hai qualche altro elemento che vorresti aggiungere o esplorare riguardo a
-questi post?
 
 ---HO---
 
@@ -347,68 +297,13 @@ scritto nelle condizioni iniziali che sono state pubblicate con 11 tweet, così
 riportati. Se queste condizioni iniziali sono corrette allora quale sarebbe la
 traiettoria (o la destinazione) di questo percorso obbligato?
 
-## Drill baby, drill & fake news
-
-1. In realtà abbiamo avuto notizie prive di fondamento da ormai decenni anche
-se negli ultimi anni hanno raggiunto un livello di ridicolo raramente visto
-prima. Osservando la moglie di Trump alla sua inaugurazione e il posto
-assegnato alla Meloni ha detto molto di più, di tutto
-
-2. Molto di più, di tutto il resto che abbiamo visto perché rinominare il Golfo
-del Messico in Golfo d'America è solo bait-click politico così come la
-sceneggiata my <3-2-U di Elon. Invece, il fatto che abbia firmato degli editti
-già da tempo preparati è tutt'altra cosa
-
-3. Ora, la questione dei due sessi (biologici) era nell'aria da tempo perché
-ormai anche in quella direzione si era raggiunto un livello di ridicolo non più
-sostenibile. L'altro riguarda i rapporti con il Messico che implica la
-fornitura di Fentanyl dalla Cina quindi Xi
-
-4. Perché quando si parla di Messico, si parla di Fentanyl e quando si parla di
-Fentanyl si parla di Cina e quando si parla di Cina si parla di Xi e quando si
-parla di Xi si parla di Putin. Così arriviamo al resto tipo "drill-baby-drill"
-perché ROSATOM, lo avete dimenticato?
-
-5. Perché ROSATOM, quindi l'eventuale stop alle importazioni di combustibile
-nucleare dalla Russia, metterebbe in ginocchio il fragile sistema energetico
-degli USA dopo 2 decadi di greenwashing che per confronto la Germania sta 'na
-bellezza! Quindi petrolio a go-go,
-
-6. Quindi petrolio a go-go, uscita dagli accordi di Parigi sulla tassazione
-della CO2 e ovviamente anche uscita dallo WHO perché quella è il braccio
-politico delle big-pharma e se vuoi fare il braccio di ferro con il Messico
-devi forzare le big-pharma a fare da spacciatori
-
-7. Sicché, come si vede, lo show è una cosa, la pratica della realtà ben altra.
-Uguale per il Mar Rosso, dove o si sta con Israele e quindi Houthi terroristi
-oppure Israele ti affonda la flotta che gli Houthi spostatevi bimbi. Perché dal
-Mar Rosso non si passa senza Israele.
-
-8. Ora, che gli Houthi siano stati bollati come terroristi, non ci stupisce,
-tendenzialmente è un luogo comune quello degli USA di considerare terroristi
-chiunque non sia d'accordo con la loro politica estera, salvo buscarle in
-guerra, s'intende allora, scappano (Afghanistan)
-
-9. Quindi arriviamo alla relazione con la Russia che attualmente è stata messa
-benino come economia di guerra mentre l'Ucraina è ormai una voragine mangia
-miliardi. Ma il punto è un altro: in Europa, la posizione pro Zelensky è ancora
-un fatto non trascurabile così dazi anche
-
-10. Così dazi anche per l'Europa, perché non ha alcun senso promettere a Putin
-qualcosa per poi trovarsi tutto l'entourage politico europeo portato alla
-ribalta dalla presidenza di Obama in poi. Sarebbe alquanto sciocco dimenticare
-le origini del problema, no? Ergo dazi UE
-
-11. Se poi mettiamo in prospettiva i dazi alla UE, con quelli relativi alla
-Cina - che probabilmente non intende togliere ma vuole la loro produzione di
-Fentanyl - l'alternativa è tassare anche la UE così sull'import in USA la Cina
-e la UE sono pari in dazi. Capito, che ganzo? ;-)
+[... gli 11 tweet dell'articolo "Drill baby, drill & fake news" ...]
 
 Ritieni corretto che la traiettoria così impostata porti a questo risultato?
 
-Long story, short: che dovranno spostare le loro riserve interne di greggio da
-collaterale al debito pubblico USA, che ormai ha raggiunto i $37 trilioni,
-all'estrazione per produzione di energia.
+> Long story, short: che dovranno spostare le loro riserve interne di greggio
+> da collaterale al debito pubblico USA, che ormai ha raggiunto i $37 trilioni,
+> all'estrazione per produzione di energia.
 
 Anche considerando che la guerra in Israele, motivo per cui gli USA hanno
 bombardato l'Iran, ha bloccato il Mar Rosso e ora l'Iran per ripicca bloccherà
@@ -542,17 +437,14 @@ questo attrattore, e l'assenza di "effetto farfalla" (cioè, l'impossibilità di
 generare un cambiamento significativo attraverso la creatività divergente) fa
 sì che il sistema non possa che seguire quella traiettoria disastrosa.
 
-Cosa ne pensi di questa concatenazione di eventi e della sua ineluttabilità
-secondo l'autore?
-
 ---HO---
 
 In questo scenario questo testo, di cui la prima parte abbiamo già discusso:
 
 > Bombardano per andare più velocemente e disastrosamente in default sperando
-che qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché
-il dito indice stuzzica la supercazzola ma il dito medio risolve come fosse
-Antani!
+> che qualcuno risponda con l'arma nucleare, invece che con il dito medio.
+> Perché il dito indice stuzzica la supercazzola ma il dito medio risolve come
+> fosse Antani!
 
 la seconda parte, potrebbe significare che gli altri attori -- indicati come i
 cattivi e quindi bombardati o attaccati con una guerra proxy -- invece di
@@ -632,7 +524,4 @@ culturale, ma ne svela la profonda logica interna nel contesto della tesi
 dell'autore. È una rappresentazione cinica ma lucida di come, in uno scenario
 di "svantaggio cognitivo", anche le provocazioni più estreme possano fallire
 nel loro intento di alterare la traiettoria di un sistema.
-
-C'è qualcos'altro che vorresti esplorare riguardo a questo scenario o alle
-metafore usate?
 
