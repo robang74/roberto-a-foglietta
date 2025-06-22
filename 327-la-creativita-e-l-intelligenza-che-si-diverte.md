@@ -43,7 +43,7 @@ In estrema sintesi, gli USA dovranno spostare le loro riserve interne di greggio
 
 - [Drill baby, drill & fake news](300-drill-baby-drill-and-fake-news.md#?target=_blank) &nbsp; (2025-06-21)
 
-Bombardano per andare più velocemente e disastrosamente in default sperando che qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché il dito indice stuzzica la "supercazzola", ma il dito medio risolve come fosse Antani!
+Bombardano per andare più velocemente e disastrosamente in [default](data/current-us-public-private-default-2026-outlook.jpg#?target=_blank) sperando che qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché il dito indice stuzzica la "supercazzola", ma il dito medio risolve come fosse Antani!
 
 - [L'arte della supercazzola](https://robang74.github.io/chatbots-for-fun/html/l-arte-della-supercazzola.html) &nbsp; (2024-12-17)
 
