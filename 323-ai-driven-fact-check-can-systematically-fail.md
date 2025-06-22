@@ -176,6 +176,8 @@ In estrema sintesi: da un punto di vista politico invece le reti di vendita indi
 
 ## Related articles
 
+- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=blank) &nbsp; (2025-06-22)
+
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
