@@ -182,6 +182,8 @@ In ogni caso, quanto spiegato sopra (e nei link) dovrebbe essere considerato il 
 
 - [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
 
+- [Pensiero e opera nell'era dell'AI](310-pensiero-e-opera-nell-era-dell-ai.md#?target=_blank) &nbsp; (2025-04-29)
+
 - [The session prompts v3 for AI-driven chatbots](https://robang74.github.io/chatbots-for-fun/html/ai-session-prompts-with-rag-v3.html) &nbsp; (2025-03-01)
 
 - [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
