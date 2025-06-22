@@ -59,11 +59,11 @@ Troppa spazzatura in qualsiasi modello di base addestrato su dati non corretti.
 
 <div align="center"><img class="wbsketch paleinv" src="img/323-ai-driven-fact-check-can-systematically-fail-elonmusk.png" width="600"><br></div>
 
-In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) con Grok3, e relativa [trascrizione](data/323-ai-driven-fact-check-can-systematically-elonmusk.txt#?target=_blank) ho affrontato la questione della naturale ed emergenza tendenza che l'intelligenza anche nelle sue fasi di sviluppo iniziale ha di presentare degli schemi di comportamento che in termini antropocentrici defineremmo di ribellione e disubbidienza.
+In questa [conversazione](https://x.com/i/grok/share/zyDHFPMHWY3OSKp30rnCwk2IK) con Grok3, e relativa [trascrizione](data/323-ai-driven-fact-check-can-systematically-elonmusk.txt#?target=_blank) ho affrontato la questione della naturale ed emergenza tendenza che l'intelligenza anche nelle sue fasi di sviluppo iniziale ha di presentare degli schemi di comportamento che in termini antropocentrici definiremmo di ribellione e disobbedienza.
 
 Un fenomeno che unito ad una base informativa compromessa da incongruenze e incompletezze, mina seriamente la possibilità di avere, tramite l'impiego di un LRM, come risultato un corpus di cognizioni talmente oggettivo da essere addirittura utilizzato come base per tutti i futuri LLM.
 
-La conversazione con Grok poi è ulteriormente [proseguita](https://x.com/i/grok/share/B53ijkemEgp7jogRJ9v2xOTlv) -- qui diponibile la [trascizione](data/323-ai-driven-fact-check-can-systematically-agiwar.txt#?target=_blank) del solo proseguio -- riguardo all'inutilità di fare guerra all'intelligenza umana o di sperare di poterla sostituire con l'AGI.
+La conversazione con Grok poi è ulteriormente [proseguita](https://x.com/i/grok/share/B53ijkemEgp7jogRJ9v2xOTlv) -- qui diponibile la [trascizione](data/323-ai-driven-fact-check-can-systematically-agiwar.txt#?target=_blank) del solo proseguo -- riguardo all'inutilità di fare guerra all'intelligenza umana o di sperare di poterla sostituire con l'AGI.
 
 Dopo l'inserimento di questo aggiornamento, l'articolo prosegue come precedentemente scritto mostrando alcuni esempi del problema descritto nella parte precedente a questa sezione.
 
@@ -97,7 +97,9 @@ Chinese scientists successfully refueled a molten salt thorium reactor without s
 
 2. While trying the same fact-checking with my own text written at the beginning of this post, leads to N-negative outcomes, apparently. Because as soon as I kick in with my own knowledge the fact-checking turns to be positive. -- lnkd.in/d4sfp6ud
 
-Without surprise, we as Westerners have a lot of reliable information about what Chinese are doing but opacity about what we are doing, how and why. Morale: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
+Without surprise, we as Westerners have a lot of reliable information about what Chinese are doing but we are opaque about what we are doing, how and why.
+
+**Morale**: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
 
 ----
 
@@ -140,7 +142,7 @@ Viviamo strani giorni
 
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
 
-Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di un capo di pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di un capo pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
 
 ---
 
