@@ -11,9 +11,9 @@ Questo articolo è stato, inizialmente, scritto come una sequenza di Tweet, di c
 
 ---
 
-* In realtà abbiamo avuto notizie prive di fondamento da ormai decenni anche se negli ultimi anni hanno raggiunto un livello di ridicolo raramente visto prima. Secondo la moglie di Trump alla sua inaugurazione e il posto assegnato alla Meloni ha detto molto di più, di tutto [1/11]
+* In realtà abbiamo avuto notizie prive di fondamento da ormai decenni anche se negli ultimi anni hanno raggiunto un livello di ridicolo raramente visto prima. Osservando la moglie di Trump alla sua inaugurazione e il posto assegnato alla Meloni ha detto molto di più, di tutto [1/11]
 
-* molto di più, di tutto il resto che abbiamo visto perché rinominare il Golfo del Messico in Golfo d'America è solo bait-click politico così come la sceneggiata my <3-2-U di Elon. Invece, il fatto che abbia firmato degli editti già da tempo preparati è tutt'altra cosa [2/11]
+* Molto di più, di tutto il resto che abbiamo visto perché rinominare il Golfo del Messico in Golfo d'America è solo bait-click politico così come la sceneggiata my <3-2-U di Elon. Invece, il fatto che abbia firmato degli editti già da tempo preparati è tutt'altra cosa [2/11]
 
 * Ora, la questione dei due sessi (biologici) era nell'aria da tempo perché ormai anche in quella direzione si era raggiunto un livello di ridicolo non più sostenibile. L'altro riguarda i rapporti con il Messico che implica la fornitura di Fentanyl dalla Cina quindi Xi [3/11]
 
@@ -29,7 +29,7 @@ Questo articolo è stato, inizialmente, scritto come una sequenza di Tweet, di c
 
 * Quindi arriviamo alla relazione con la Russia che attualmente è stata messa benino come economia di guerra mentre l'Ucraina è ormai una voragine mangia miliardi. Ma il punto è un altro: in Europa, la posizione pro Zelensky è ancora un fatto non trascurabile così dazi anche [9/11]
 
-* così dazi anche per l'Europa, perché non ha alcun senso promettere a Putin qualcosa per poi trovarsi tutto l'entourage politico europeo portato alla ribalta dalla presidenza di Obama in poi. Sarebbe alquanto sciocco dimenticare le origini del problema, no? Ergo dazi UE [10/11]
+* Così dazi anche per l'Europa, perché non ha alcun senso promettere a Putin qualcosa per poi trovarsi tutto l'entourage politico europeo portato alla ribalta dalla presidenza di Obama in poi. Sarebbe alquanto sciocco dimenticare le origini del problema, no? Ergo dazi UE [10/11]
 
 * Se poi mettiamo in prospettiva i dazi alla UE, con quelli relativi alla Cina - che probabilmente non intende togliere ma vuole la loro produzione di Fentanyl - l'alternativa è tassare anche la UE così sull'import in USA la Cina e la UE sono pari in dazi. Capito, che ganzo? ;-) [11/11]
 
@@ -37,19 +37,19 @@ Questo articolo è stato, inizialmente, scritto come una sequenza di Tweet, di c
 
 ## Considerazioni
 
-Giusto per fare un confronto: ci sono voluti 11 per spiegare la politica di Trump a 3 giorni dal suo insediamento. Sotto questo punto di vista è incredibile il volume ENORME di news, articoli e opinioni, quando poi - in fondo, in fondo - basta un po' di buon senso e capacità di comprendere come fare i propri interessi per capire la politica (anche estera) di Trump e in generale degli USA.
+Giusto per fare un confronto: ci sono voluti 11 tweet per spiegare la politica di Trump a tre giorni dal suo insediamento. Sotto questo punto di vista è incredibile il volume **enorme** di news, articoli e opinioni, quando poi -- in fondo, in fondo -- basta un po' di buon senso e capacità di comprendere come fare i propri interessi per capire la politica (anche estera) di Trump e in generale degli USA.
 
-Se non fossimo stati portati alla confusione più completa, ci riusciremo tutti quanti (almeno con una triennale) a comprenderla, perché ricordiamoci - come palesemente detto durante l'insediamento di Trump - gli USA hanno una storia e una cultura "democratica" di 250 anni, noi 10 volte tanto, i cinesi 20 volte tanto.
+Se non fossimo stati portati alla confusione più completa, ci riusciremo tutti quanti (almeno con una triennale) a comprenderla, perché ricordiamoci -- come palesemente detto durante l'insediamento di Trump -- gli USA hanno una storia e una cultura "democratica" di 250 anni, noi 10 volte tanto, i cinesi 20 volte tanto.
 
-Forse però, la cosa più eclatante che è stata detta durante l'insediamento di Trump è la combinazione della citazione - esplicitamente riferita alla banconota da $1 - in God We Trust (e quindi tutto lo show relativo) insieme all'affermazione che gli USA sono il più grande esperimento della civiltà occidentale, e in tal caso andando a ricordarsi della questione del Fugio cent, quello dei padri fondatori, in pratica un esperimento della massoneria Europea che evidentemente vedeva nell'Europa una giardino troppo affolato dove "espandersi".
+Forse però, la cosa più eclatante che è stata detta durante l'insediamento di Trump è la combinazione della citazione -- esplicitamente riferita alla banconota da $1 -- in God We Trust (e quindi tutto lo show relativo) insieme all'affermazione che gli USA sono il più grande esperimento della civiltà occidentale, e in tal caso andando a ricordarsi della questione del Fugio cent, quello dei padri fondatori, in pratica un esperimento della massoneria Europea che evidentemente vedeva nell'Europa una giardino troppo affolato per "espandersi".
 
-Curioso perché i padri fondatori americani hanno fatto una guerra d'indipendenza (due se ci mettiamo quella di secessione) per liberarsi dell'influenza degli inglesi (e della corona inglese, che imponeva tasse fra il 2% e il 4% sui commerci) per poi trovarsi a svilupparsi come un esperimento massonico in cui - praticamente - il servizio sanitario nazionale distribuisce oppiacei sintetici invece di cure e le cure, così come l'istruzione superiore, sono solo per coloro che hanno denaro.
+Curioso perché i padri fondatori americani hanno fatto una guerra d'indipendenza (due, se ci mettiamo quella di secessione) per liberarsi dell'influenza degli inglesi (e della corona inglese, che imponeva tasse fra il 2% e il 4% sui commerci) per poi trovarsi a svilupparsi come un esperimento massonico in cui, praticamente, il servizio sanitario nazionale distribuisce oppiacei sintetici invece di cure e le cure, così come l'istruzione superiore, sono solo per coloro che ricchi o benestanti.
 
-Denaro che però è disconnesso da qualsiasi forma di realtà - come per altro il prezzo dell'energia elettrica in Europa - ma è solo carta moneta stampata a debito.
+Denaro che però è disconnesso da qualsiasi forma di realtà -- come per altro il prezzo dell'energia elettrica in Europa -- ma è solo carta moneta stampata a debito.
 
 Eh già, una bella botta di cruda realtà! {:-J}
 
-<br/>
++
 
 ## Share alike
 
