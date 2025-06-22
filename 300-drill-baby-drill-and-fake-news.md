@@ -5,33 +5,31 @@
 
 ## Drill baby, drill & fake news
 
-* Published Jan 23, 2025 - origin [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161402722993736)
-
-Questo articolo è stato, inizialmente, scritto come una sequenza di Tweet, di cui ho mantenuto il format, poi esteso con un post su Facebook
+- Questo articolo riporta una serie di tweet, poi integrati in un [post](https://www.facebook.com/roberto.a.foglietta/posts/10161402722993736) pubblicato su Facebook.
 
 ---
 
-* In realtà abbiamo avuto notizie prive di fondamento da ormai decenni anche se negli ultimi anni hanno raggiunto un livello di ridicolo raramente visto prima. Osservando la moglie di Trump alla sua inaugurazione e il posto assegnato alla Meloni ha detto molto di più, di tutto [1/11]
+1. In realtà abbiamo avuto notizie prive di fondamento da ormai decenni anche se negli ultimi anni hanno raggiunto un livello di ridicolo raramente visto prima. Osservando la moglie di Trump alla sua inaugurazione e il posto assegnato alla Meloni ha detto molto di più, di tutto
 
-* Molto di più, di tutto il resto che abbiamo visto perché rinominare il Golfo del Messico in Golfo d'America è solo bait-click politico così come la sceneggiata my <3-2-U di Elon. Invece, il fatto che abbia firmato degli editti già da tempo preparati è tutt'altra cosa [2/11]
+2. Molto di più, di tutto il resto che abbiamo visto perché rinominare il Golfo del Messico in Golfo d'America è solo bait-click politico così come la sceneggiata my <3-2-U di Elon. Invece, il fatto che abbia firmato degli editti già da tempo preparati è tutt'altra cosa
 
-* Ora, la questione dei due sessi (biologici) era nell'aria da tempo perché ormai anche in quella direzione si era raggiunto un livello di ridicolo non più sostenibile. L'altro riguarda i rapporti con il Messico che implica la fornitura di Fentanyl dalla Cina quindi Xi [3/11]
+3. Ora, la questione dei due sessi (biologici) era nell'aria da tempo perché ormai anche in quella direzione si era raggiunto un livello di ridicolo non più sostenibile. L'altro riguarda i rapporti con il Messico che implica la fornitura di Fentanyl dalla Cina quindi Xi
 
-* Perché quando si parla di Messico, si parla di Fentanyl e quando si parla di Fentanyl si parla di Cina e quando si parla di Cina si parla di Xi e quando si parla di Xi si parla di Putin. Così arriviamo al resto tipo "drill-baby-drill" perché ROSATOM, lo avete dimenticato? [4/11]
+4. Perché quando si parla di Messico, si parla di Fentanyl e quando si parla di Fentanyl si parla di Cina e quando si parla di Cina si parla di Xi e quando si parla di Xi si parla di Putin. Così arriviamo al resto tipo "drill-baby-drill" perché ROSATOM, lo avete dimenticato?
 
-* Perché ROSATOM, quindi l'eventuale stop alle importazioni di combustibile nucleare dalla Russia, metterebbe in ginocchio il fragile sistema energetico degli USA dopo 2 decadi di greenwashing che per confronto la Germania sta 'na bellezza! Quindi petrolio a go-go, [5/11]
+5. Perché ROSATOM, quindi l'eventuale stop alle importazioni di combustibile nucleare dalla Russia, metterebbe in ginocchio il fragile sistema energetico degli USA dopo 2 decadi di greenwashing che per confronto la Germania sta 'na bellezza! Quindi petrolio a go-go,
 
-* Quindi petrolio a go-go, uscita dagli accordi di Parigi sulla tassazione della CO2 e ovviamente anche uscita dallo WHO perché quella è il braccio politico delle big-pharma e se vuoi fare il braccio di ferro con il Messico devi forzare le big-pharma a fare da spacciatori [6/11]
+6. Quindi petrolio a go-go, uscita dagli accordi di Parigi sulla tassazione della CO2 e ovviamente anche uscita dallo WHO perché quella è il braccio politico delle big-pharma e se vuoi fare il braccio di ferro con il Messico devi forzare le big-pharma a fare da spacciatori
 
-* Sicché, come si vede, lo show è una cosa, la pratica della realtà ben altra. Uguale per il Mar Rosso, dove o si sta con Israele e quindi Houthi terroristi oppure Israele ti affonda la flotta che gli Houthi spostatevi bimbi. Perché dal Mar Rosso non si passa senza Israele. [7/11]
+7. Sicché, come si vede, lo show è una cosa, la pratica della realtà ben altra. Uguale per il Mar Rosso, dove o si sta con Israele e quindi Houthi terroristi oppure Israele ti affonda la flotta che gli Houthi spostatevi bimbi. Perché dal Mar Rosso non si passa senza Israele.
 
-* Ora, che gli Houthi siano stati bollati come terroristi, non ci stupisce, tendenzialmente è un luogo comune quello degli USA di considerare terroristi chiunque non sia d'accordo con la loro politica estera, salvo buscarle in guerra, s'intende allora, scappano (Afghanistan) [8/11]
+8. Ora, che gli Houthi siano stati bollati come terroristi, non ci stupisce, tendenzialmente è un luogo comune quello degli USA di considerare terroristi chiunque non sia d'accordo con la loro politica estera, salvo buscarle in guerra, s'intende allora, scappano (Afghanistan)
 
-* Quindi arriviamo alla relazione con la Russia che attualmente è stata messa benino come economia di guerra mentre l'Ucraina è ormai una voragine mangia miliardi. Ma il punto è un altro: in Europa, la posizione pro Zelensky è ancora un fatto non trascurabile così dazi anche [9/11]
+9. Quindi arriviamo alla relazione con la Russia che attualmente è stata messa benino come economia di guerra mentre l'Ucraina è ormai una voragine mangia miliardi. Ma il punto è un altro: in Europa, la posizione pro Zelensky è ancora un fatto non trascurabile così dazi anche
 
-* Così dazi anche per l'Europa, perché non ha alcun senso promettere a Putin qualcosa per poi trovarsi tutto l'entourage politico europeo portato alla ribalta dalla presidenza di Obama in poi. Sarebbe alquanto sciocco dimenticare le origini del problema, no? Ergo dazi UE [10/11]
+10. Così dazi anche per l'Europa, perché non ha alcun senso promettere a Putin qualcosa per poi trovarsi tutto l'entourage politico europeo portato alla ribalta dalla presidenza di Obama in poi. Sarebbe alquanto sciocco dimenticare le origini del problema, no? Ergo dazi UE
 
-* Se poi mettiamo in prospettiva i dazi alla UE, con quelli relativi alla Cina - che probabilmente non intende togliere ma vuole la loro produzione di Fentanyl - l'alternativa è tassare anche la UE così sull'import in USA la Cina e la UE sono pari in dazi. Capito, che ganzo? ;-) [11/11]
+11. Se poi mettiamo in prospettiva i dazi alla UE, con quelli relativi alla Cina - che probabilmente non intende togliere ma vuole la loro produzione di Fentanyl - l'alternativa è tassare anche la UE così sull'import in USA la Cina e la UE sono pari in dazi. Capito, che ganzo? ;-)
 
 +
 
