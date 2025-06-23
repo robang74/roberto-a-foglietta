@@ -32,7 +32,7 @@ In this conversation with Gemini after leveraging a comment exchange for explain
 
 The chat has been update with the "minimum latency" as a reference concept for indicating a soft real-time specification in contrast with the hard real-time concept of having a top-limit about response time range. Moreover, the "minimum latency" concept helps us to understand the difference with "delay" as a fixed timing and "jitter" as concept for studying in a quantitative way the latencies propagation and their accumulations.
 
-=-> Gemini chat: [lnkd.in/dJJmwmcJ](https://lnkd.in/dJJmwmcJ)
+=-> Gemini chat: [lnkd.in/dJJmwmcJ](https://lnkd.in/dJJmwmcJ) and its [transcription](data/328-opus-coded-dred-and-real-time-systems.txt#?target=_blank)
 
 Then, the chat is updated again about how providing a statistically granted hard real-time system starting from tuning a soft real-time system but fast-to-respond. Which is after all the ONLY way humans can achieve a real-world hard real-time system. Including a marketing strategy and a business model embedded into the development method of delivering the product from R&D to sales. Because a well-designed product sells by itself. 
 
