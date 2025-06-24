@@ -11,6 +11,24 @@
 
 ---
 
+THE DIFFERENCE BETWEEN LAW AND JUSTICE
+
+It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
+
+Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference and let me briefly summarise few relevant aspects:
+
+- a law like the one included into artt. 1 and 36 of the Italian Constitution which defines the role of the work in our jurisdiction despite being clear and aligned with the justice (right) it is ignored, including safety at work.
+
+- a law can be out-of-justice (wrong) like those were persecuting Jews or black people (apartheid) but because socially accepted and enforced by authorities, they were applied and respected by all, even those who wished not.
+
+- no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
+
+It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
+
+In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colony who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+
+---
+
 ### From war and fear to confusion and uncertanty by NATO
 
 An estimated ~7.9 % of all the interactions we tracked show statistics-based signs of coordination. Kremlin‑aligned messaging bursts were roughly twice as frequent as their pro‑Western counterparts, and about three times as frequent for the posts that appeared on more than one platform. 
