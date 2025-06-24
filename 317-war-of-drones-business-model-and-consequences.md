@@ -23,9 +23,9 @@ Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally che
 
 - no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
 
-It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
+It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **two** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
 
-In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colony who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
 
 ---
 
