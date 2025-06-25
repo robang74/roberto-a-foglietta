@@ -341,7 +341,7 @@ Instead, another interesting "question" (or topic, more precisely) is about doin
 
 - **One fits all**: scalable business model, today is Russia, tomorrow could be any other country on demand. First successful story 18mo, the next 9mo, the next 6mo, the next 3mo, the next 1mo (physical time to reach the targets) at that point is "destroying as service" on demand.
 
-- **No way out**: absolute fidelisation up to the point of blackmailing the fighters: Gotcha, shitfighter. You have officially become a military target! (cit.) - your 14yo son/daughter into a "heroic lega" but trapped a terrorist network.
+- **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter produly entered into an "heroic lega" but trapped a terrorist network, instead.
 
 Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever would be the age behind the player behind the joystick pad.
 
@@ -353,7 +353,7 @@ About the drones attack against military nuclear facilities, whatever it happene
 
 - such a kind of attack can be soon develop autonomously as a private on-demand terrorism business **and** it has the potential of penetrate our society and culture with deep consequences which are beyond imagination;
 
-- the target chosen creates a **very** dangerous precedent because - including a previous destruction of an over-horizon radar - it is the 2nd and most daring attack which infringes the nuclear non-proliferation agreements.
+- the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringes the nuclear non-proliferation agreements.
 
 Those agreements enforce not only Russia but also USA to keep that facilities exposed in such way others countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facility are going to push the world back to the timesin which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
 
