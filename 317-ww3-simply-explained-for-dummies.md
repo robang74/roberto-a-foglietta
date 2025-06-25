@@ -224,14 +224,16 @@ Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, 
 
 ### Ukraine war: money laundering and its default
 
-It is difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, the biggest waste of public money in the US and EU partnership history (aka NATO). No surprise that UE politics was loving this unnecessary and useless war, in which the two main drivers were:
+It is difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, it has been the biggest waste of public money in the US and EU partnership history (aka NATO). No surprise that UE politics was loving this unnecessary and useless war, in which the two main drivers were:
 
-- 1. huge budgets like it were not tomorrow and 
-- 2. money laundering and weapons black-market.
+- huge budgets like it were not tomorrow and 
+- money laundering and weapons black-market.
 
-Draghi's 10 years of quantitative easing (inflationary policy) provided this huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and killing industry, especially in Germany.
+Draghi's 10 years of quantitative easing -- which kicked off the season of expansionary monetary policy, which also sustained an inflationary pricing policy -- provided the necessary huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and shutting down industry, especially in Germany.
 
 - News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](../data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.md#?target=_blank)
+
+...
 
 #### How much money we are talking about?
 
@@ -244,6 +246,8 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 - **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
+
+...
 
 #### The AML events chain to the default
 
@@ -608,51 +612,6 @@ Il rischio NON è tanto una WW3, anzi. Ma il collasso (**) del sogno americano. 
 
 (**) https://lnkd.in/deZSMbFz, no 2nd place.
 
-+
-
-A.A.A. CONFUTAZIONE CERCASI #1
-
-Adoro quei video in cui per tutto il tempo in cui li guardi ti chiedi dove cominci lo schermo e dove gli scalini o la platea. Se fosse un personaggio di un film, si direbbe che c'è stato un profondo cambio di abitudini, cosa che NON si può affermare con ragionevole certezza per una persona reale di cui si conosce (e si può conoscere) effettivamente molto poco.
-
-Perciò ci limitiamo ad osservare il cambio di abitudini del "personaggio" che poi l'unica cosa che da comuni spettatori possiamo osservare, e apprezzare la barba incolta a dimostrare uno stato trasandato come l'Ucraina tenuta sveglia dai bombardamenti.
-
-Customi, e regia: 10/10
-Personaggio: statico
-Location: 7/10
-Pubblico: 4/10
-
-Notevole le persone presente presa di schiena e tutto sommati pochi, anche se pochi ma buoni basta, i pochi potrebbero essere chiunque e ovunque, anche in un bunker o in una realtà virtuale. Giacché l'inquadratura, a parte i primo piano e i mezzi busto, è pressoché statica quindi manca di profondità reale, ma solo geometrica.
-
-Spoiler: sto cercando una confutazione credibile alla teoria dell'eroe murato vivo dal 1° giugno ma ancora non l'ho trovata, ma io non demordo e che Kalar Popper mi assista in questa missione.
-
-https://x.com/Mylovanov/status/1931050675825439053
-
----
-
-A.A.A. CONFUTAZIONE CERCASI #1
-
-In questa inquadratura più ampia si vede la sala e le persone, continua ad essere un ambiente chiuso con un limitato numero di persone.
-
-Comunque la cosa, più impressionante è che con questa apertura e una modesta traslazione della camera, i gradini appaiano inclusi nello schermo. Mentre lo schermo dietro appare solo come una proiezione artificialmente quadrettata.
-
-Questa idea della quadrettatura artificiale l'avevo già valutata anche prima, ma ora, in questo spezzone di video che è centrato sul primo piano e apre solo per pochi secondi sulla sala, la profondità dei gradini e quindi del palco scompare.
-
-Anche oggi, sarà domani che lo vedremo in carne e ossa. Se pensiamo che in questo momento tutto gira intorno al fatto che sia murato vivo o meno, ci si sono proprio impegnati ZERO per mettere in evidenza una scena che tolga ogni dubbio.
-
-https://x.com/Mylovanov/status/1931050675825439053
-
----
-
-THE PERFECT STORM
-
-Are you hearing the tic-toc from the doomsday clock?
-
-What is the best idea they had? Militarize the society!
-
-Wonderful idea. So, we can all die but in good order... 
-
-[image1] [image2]
-
 ---
 
 ### Money laundering reached its game over in Ukraine.
@@ -739,48 +698,6 @@ Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fen
 Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
 
 Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi - quasi sempre - hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
-
-+
-
-MONEY LAUNDERING AND DEFAULT IN UKRAINE
-
-Difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, the biggest waste of public money in the US and EU partnership history (aka NATO).
-
-No surprise that UE politics was loving this unnecessary and useless war, in which the two engines were: 1. huge budgets like it were not tomorrow and 2. money laundering and weapons black-market.
-
-Draghi's 10 years of quantitative easing (inflationary policy) provided this huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and killing industry, especially in Germany.
-
-HOW MUCH MONEY WE ARE TALKING ABOUT?
-
--> News & data by Perplexity AI:  lnkd.in/dF-dinZv
-
-$183B: from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
-
-$174B: Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
-
-$120B: from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
-
-$200B: the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
-
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
-
-AML EVENTS CHAIN TO THE DEFAULT
-
-Q1/2023 - The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
-
-Q2/2023 - The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
-
-Q2/2025 -  A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
-
-Q2/2025 -  State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
-
-Q2/2025 - The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
-
-THE DRAGHI'S QE STARTED THE BCE INFLATIONARY POLICY ERA
-
-HO -- So it's better to use the term "inflationary policy" from this point of view, and Draghi's QE just kicked off the season of this kind of expansionary monetary policy by the ECB, right?
-
-AI -- Absolutely. The term "inflationary policy" (or more precisely, expansionary monetary policy with potential inflationary effects) is much more appropriate to describe the general behavior of the ECB since 2015.
 
 ---
 
