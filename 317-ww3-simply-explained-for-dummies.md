@@ -5,13 +5,15 @@
 
 ## WW3 simply explained, for dummies
 
-- Articolo a partire da vari post pubblicati su LinkedIn alcuni giorni prima a partire dal 1° giugno 2025.
+- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.facebook.com/photo?fbid=10161836313578736&set=a.10150400606833736) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
 - **WORKING IN PROGRESS** -- This article content might change radically or its way of reading, patience.
 
 ---
 
-The war against Russia has been planned since 1992, in this period of time, the US war machine has cost about $33T of public debt which is almost all of it in full. A strong claim and a bold conclusion which deserve an explanation. Why does NATO still exist, after 1992?
+###  Why does NATO still exist, after 1992?
+
+The war against Russia has been planned since 1992, in this period of time, the US war machine has cost about $33T of public debt which is almost all of it in full. A strong claim and a bold conclusion which deserve an explanation.
 
 At the end of 1991, the Soviet Union suddenly collapsed. Suddenly because the Red Star Empire took relatively few years from when the Glasnost (transparency) started to be actively carried on. While Perestroika (changement) was the key point of Gorbačëv presidency (1985), the Glasnost remained behind on its schedule until the Chernobyl nuclear disaster (1986). That event forced the Soviet Communist Party to accept a breach into their opaque system of power. A breach that made the Soviet Union collapse, after all.
 
@@ -21,22 +23,64 @@ At the end of 1989, the Berlin Wall was falling and by the end of 1991 also the 
 
 In theory. Because in practice, many options have been considered including a transformation and a rearrangement. Up to 2004, the idea of including Russia into the NATO alliance was still on the table. Looking back at that time, we can say that the idea of letting Russia enter into NATO was substantially a trick to buy time and the Russia 's patiente for extending NATO towards the east in violation of the promise Gorbačëv received from NATO.
 
-The turning point arrived with the Putin' speech at the Munich Security Conference in 2007 because, among other interesting things, Putin was pretty clear in exposing the NATO subtle plan of their expansion to the east and surrounding Russia with NATO military installations all around their borders. Something that Russia would not be going to tolerate anymore, silently.
+The turning point arrived with the Putin' speech at the Munich Security Conference in February 2007 because, among other interesting things, Putin was pretty clear in exposing the NATO subtle plan of their expansion to the east and surrounding Russia with NATO military installations all around their borders. Something that Russia would not be going to tolerate anymore, silently.
 
-- [Vladimir Putin' speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin) in Munich 2007 and its full [English transcription](http://en.kremlin.ru/events/president/transcripts/24034) from Kremlin (via http only)
+- [Vladimir Putin' speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin) in Munich and its full [English transcription](http://en.kremlin.ru/events/president/transcripts/24034) from Kremlin (*via http only*)
 
 In that year the subprime loans bubble exploded and soon after the burst reached Europe, many U.S. non-governative organisations started to pop-up and spread in Ukraine. Looking at those past times, we can recognise as recently admitted by the U.S. a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
 
 Under this point of view, it is worth to notice that there is no any way that aany country can apply fro joining the NATO by their own governemnt decision. But **only** by an official and explicit invitation from USA becuase this is the **only** procedure allowed among NATO to expand their obbligations over other countries.
 
-Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA.
+Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA, and it still seems to be the case today.
 
-- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
+- 2025-06-24 -- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
 
 Anyway, back to the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
 However, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also canceled the Russian language as the second official language of Ukraine.
 
+---
+
+### Keith Kellogg: NATO is waging a proxy-war **with** Russia
+
+2025-05-30: US Special Envoy for Ukraine Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia.
+
+COPERTURA DELLA NOTIZIA E LE SUE MAGGIORI FONTI
+
+- Politico (USA, 30th May)
+   - https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine/
+
+- Reuters (UK, 30th May)
+   - https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30/
+
+- Tass (Russia, 1st June)
+   - https://tass.com/world/1966517
+
+- RIA Novosti (Russia, 1st June)
+   - https://www.nampa.org/text/22647158
+
+- Akmu (Bulgaria, 1st June)
+   - https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev
+
+- Times of India (video, 1st June)
+   - https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe
+
+Il riassunto della notizia nei suoi punti essenziali fatto da Perplexity AI (which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology)
+
+- Perplexity AI (USA, 1st June)
+   - https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig
+
+UN PAIO DI RETROSCENA RIGUARDO A QUESTA NOTIZIA
+
+> Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi “da bocca della verità”.
+
+Ci sono due motivi per cui questo accade: 
+
+- Trump a differenza di molti altri presidenti americani è un business man nel senso proprio del termine e NON un politico (o un rappresentante politico di una specifica minoranza di americani, tipo i petrolieri a cui va imputato il piano di controllo globale fatto passare per anti-terrorismo dopo il 9/11) quindi come ogni business man non si gioca all-in su un bluff quando ormai le carte sono scoperte.
+
+- a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da JFK quindi con il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
+
+Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" (ma nelle interpretazioni) c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due cose sulle quali l'intera presidenza di Trump si basa.
 
 <!--
 
