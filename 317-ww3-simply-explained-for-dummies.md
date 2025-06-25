@@ -48,7 +48,7 @@ Unfortunately, the Misk agreements were not going to settle the Ukraine case whi
 In fact, Ukraine after having accepted to give back to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was consistently supported by Russia which was paying relatively good fees for gas transfer in Europe passing through Ukraine and buying their public debts as much as they were in need.
 
 Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercitation that NATO did at that time.
-
+++++
 [!INFO]
 In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
 [/INFO]
@@ -186,8 +186,14 @@ Please, tell me we are not going to fall in it again!? Well, same heades, same i
 Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus those which casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet
 
 +
-
+---
+|x|>
+WORKING IN PROGRESS
+<|x|
+---
 +
+
+++++
 
 ### Kellogg declarations, press coverage
 
