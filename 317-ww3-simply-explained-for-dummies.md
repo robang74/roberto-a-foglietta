@@ -181,6 +181,10 @@ It is amazing how some people can think that we **all** are a bunch of idiots th
 
 Please, tell me we are not going to fall in it again!? Well, same heades, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between the two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
 
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
+
+Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus those which casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet
+
 +
 
 COPERTURA DELLA NOTIZIA E LE SUE MAGGIORI FONTI
