@@ -97,6 +97,20 @@ It is important to understand that Ukrainian like Russian Winter is extremely ri
 
 Considering that Russian people perceive Ukrainins people peers in culture and in 2017, vice versa was still largely common, the idea of many deaths among civilians was unacceptable as much as troop large losses. Under this PoV an apparently solid promise to sign a peace agreement within the nearly coming G20 consess was very appealing, not only for Kyviv but also for Russia.
 
+Despite all of these, Russia kept their position in the Ukraine war. Despite after elections Trump radically changed foreign policy, deeply changed the Biden administration, and cut down the US foreign aid program doomed to die from the propaganda and false fact-checking machines, the political heritage of the Biden administration in Europe and UK were still supporting Zelensky and his laundering machine war.
+
+[!INFO]
+On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes—dubbed Operation “Spider's Web”—damaged or destroyed 34 percent of Russia's strategic cruise missile–carrying bomber fleet.
+[/INFO]
+
+Thus, nothing changed until the Zelensky's best hit against Russia costed him the definitive loss of the war. Due to the fact these weapons are wether exposed instead of kept safely and hidden in hangars because a global non-nuclear proliferation thready. Which also implies that no any country should leverage this exposition for attacking these infrastructures which are by the thready doomed to disappear due to their aging. A reasonably smooth way to free the world from the self-mutual global nuclear destruction.
+
+With that attack Ukraine violated one of the most universally respected thredy. Probably the **only** one and the last one that has always been universally respected on a global scale. Without any doubts because of a **very** good reason, after all.
+
+At that point every reasonable hope about the Ukraine war was lost. Thus Trump managed to force Zelensky to sign an agreement that obbligate -- under certain specific circumstances -- the Ukraine to pay back the whole amount of financial support for the war against Russia. This is the point in which Europe became the US primary target, instead of Russia. While Russia, slowly but inevitably, is going to conquer the whole Ukraine as anticipated by Putin who claimed that Ukraine is part of Russia, de-facto.
+
+At this point, the proposal to surrender to Russia in exchange of the Lviv metropolitan area for the sake of Poland and give 10 years to Ukraine under the Russia control to recover from the hate and mourning of the deaths in war -- plus a necessarily denazification of their culture and military troops -- does not sound so much weird, but something that would have been inevitable and could have been happened in advance sparing a lot of lives and sufferences.  With the granted advantage of bringing Lviv into a soon-to-join Europe condition.
+
 ---
 
 ### NATO is waging a proxy-war with Russia
