@@ -61,11 +61,11 @@ However, there is another explanation for having used "**with**" as a correct tr
 
 Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order: 
 
-- 2001-07-20 -- G8 summit in Genoa seen an unprecedented case of violence against unarmed people by Police under the Berlusconi government;
+- 2001-07-20 -- G8 summit in Genoa, during which we have seen an unprecedented case of violence against unarmed people, and the worst violation of human rights happened in the Europe after the end of the WW2 as stated by Amnesty International, perpetrated by Italian Police under the Berlusconi government;
 
-- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the US and EU policy toward security over freedom;
+- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and travelling people towards security over freedom;
 
-- 2001-12-01 -- China entered into World Trade Organisation (WTO).
+- 2001-12-01 -- China entered into the World Trade Organisation (WTO).
 
 In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years.
 
