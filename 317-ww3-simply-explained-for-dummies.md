@@ -5,7 +5,7 @@
 
 ## WW3 simply explained, for dummies
 
-- 5th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- 6th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #3](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #3](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.facebook.com/photo?fbid=10161836313578736&set=a.10150400606833736) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
@@ -102,7 +102,7 @@ Considering that Russian people perceive Ukrainins people peers in culture and i
 Despite all of these, Russia kept their position in the Ukraine war. Despite after elections Trump radically changed foreign policy, deeply changed the Biden administration, and cut down the US foreign aid program doomed to die from the propaganda and false fact-checking machines, the political heritage of the Biden administration in Europe and UK were still supporting Zelensky and his laundering machine war.
 
 [!INFO]
-On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes—dubbed Operation “Spider's Web”—damaged or destroyed 34 percent of Russia's strategic cruise missile–carrying bomber fleet.
+On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes—dubbed Operation “Spider's Web”—damaged or destroyed 34 percent of Russia's strategic cruise missile–carrying bomber fleet. (report & analisys [here](#the-drones-attack-to-russia-nuclear-facilities))
 [/INFO]
 
 Thus, nothing changed until the Zelensky's best hit against Russia costed him the definitive loss of the war. Due to the fact these weapons are wether exposed instead of kept safely and hidden in hangars because a global non-nuclear proliferation thready. Which also implies that no any country should leverage this exposition for attacking these infrastructures which are by the thready doomed to disappear due to their aging. A reasonably smooth way to free the world from the self-mutual global nuclear destruction.
@@ -288,6 +288,54 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
++
+
+### The drones attack to Russia nuclear facilities
+
+[!INFO]
+Operation Spider's Web (Ukrainian: Операція «Павутина», romanized: Operatsija "Pavutyna") was a covert drone attack carried out by the Security Service of Ukraine (SBU) deep inside Russia on 1st June 2025, during the Russo-Ukrainian War. -- [Wikipedia](https://en.wikipedia.org/wiki/Operation_Spider%27s_Web)
+[/INFO]
+
+<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-003.jpg" width="800"><br></div>
+
+The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
+
+#### The Internet connection is not the main key
+
+> A satellite link between the control center and the truck still seems to be the most plausible assumption
+
+Everything else apart a satellite link would have been tracked after-post, the movements among the cellular network of the SIMs (many for the same truck) and when many SIMs are moving together on a truck instead of autobus (people), then some suspects start to arise. Many SIMs from many operators, one among them always connected, all together at the operation start which means the time for preparation before the launch.
+
+Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those are used to drive in many countries and voip/whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better prepared to use all of those available.
+
+After all, the Internet connection does not seem the main key apart from the fact that it should be available and - when available - many connections on many operators can be bounded into a single VPN: faster and darker.
+
+#### Gotcha shitfigher
+
+> Gotcha, shitfighter. You have been officially became a military target! (semcit.)
+
+Why do Ukraine drones have a 4K hence the optic fiber guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and a poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAV as if they were video games.
+
+This explains why the Ukraines UAV moves like in the video games instead of following the "hunting or scouting path". Someone that has been a real-word hunter or scout now. They are kids, paying kids for playing and only the best goes into real missions, the other financing the killing machine.
+
+Which also explains all this mad stuff in enjoyment of the video targeting the enemy. Because below the surface there is a dark network that earns $$$, kills, and educates to kill and enjoy the others' suffering.
+
+Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they were exactly that way. Who knows where they have gone? Whatever about them, the same idea is spreading: first a large group of haters bullies the most brilliant and various many steps of hating kill by drones.
+
+#### What's about war as business but not as usual?
+
+Instead, another interesting "question" (or topic, more precisely) is about doing war as business but not as usual. Not as usual form few but fundamentally reasons:
+
+- **Costs in BOM**: renting the truck (tractor unit) is about $4000/mo and almost the same to buy the used container to customize and each drone cost about $300 (as I read but says $1k would not change much more), hence $12000, says $40.000 modified. Total, $100K
+
+- **Networking**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenalina pay-per-fight (or watch), betting, etc. plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
+
+- **One fits all**: scalable business model, today is Russia, tomorrow could be any other country on demand. First successful story 18mo, the next 9mo, the next 6mo, the next 3mo, the next 1mo (physical time to reach the targets) at that point is "destroying as service" on demand.
+
+- **No way out**: absolute fidelisation up to the point of blackmailing the fighters: Gotcha, shitfighter. You have officially become a military target! (cit.) - your 14yo son/daughter into a "heroic lega" but trapped a terrorist network.
+
+Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever would be the age behind the player behind the joystick pad.
+
 <!--
 
 THE DIFFERENCE BETWEEN LAW AND JUSTICE
@@ -314,44 +362,6 @@ Get deep into this topic reading this chat with Gemini:
 
 ***
 
-### From war and fear to confusion and uncertanty by NATO
-
-326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md
-
-An estimated ~7.9 % of all the interactions we tracked show statistics-based signs of coordination. Kremlin‑aligned messaging bursts were roughly twice as frequent as their pro‑Western counterparts, and about three times as frequent for the posts that appeared on more than one platform. 
-
-[which kind of coordination?]
-
-This implies the broader reach and tighter synchronisation of Kremlin-orchestrated operations.
-
-[soon later]
-
-Figure 2, a comparison of EN vs. RU volumes of interactions
-
-<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-002.jpg" width="800"><br></div>
-
-Please, take in consideration that the "coordination" can be a mere rational reaction to the disturbing bullsh*t emerged by those two events that Russians ignored almost completely while get on the nerves on rational fact-driven opinionists (and a cascade of memes related, as usual because it is enough that few of those are facts-driven engages the social media with a humor-sarcastic tone that hits emotionally the people and they meme on that).
-
-So, let me reframe this in a more useful way: the biases of those paying this paper were so strong that western people who, critically protest or speak about how NATO (*) is ridiculously dumb, got labeled as pro-Kremlin!
-
-(*) Why does NATO still exist after 1992, by the way?
-
-#### -= SPOILER #1 =-
-
-NATO is the solution to the problem they created by continuing to exist after 1992 instead of being transformed into something else, like the U.S. strategic analysts were suggesting at that time, in combination with expanding NATO to the east is a terrible mistake, hence to prevent that in future terrible mistakes would happen a NATO transformation has been suggested.
-
-The NATO transformation idea ceased to exist around 2004 while the Ukraine proxy-war started to be put in action around 2007, most probably immediately after the Putin speech at the Munich conference.
-
-#### -= SPOILER #2 =-
-
-The paper (ISBN 978-9934-619-43-4) has been published in May 2025 which means that it has been prepared a few months before. The last date in the graph indicates 13th April 2025.
-
-From the middle of April to the beginning of June, has something changed?
-
-2025-05-30: US Special Envoy for Ukraine Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war with Russia.
-
-Among other declarations, in that speech there is also a stop NATO expansion (including to the east, at least) claim. Which makes the paper look even more funnier. Because it had not even the time to rot to smell weird.
-
 #### -= SPOILER #3 =-
 
 NATO influence extending eastward after the Soviet Union collapse was more a natural drift of some countries toward west AND within the NATO there was a debate about transformation or a change of posture, at least.
@@ -364,61 +374,10 @@ The western NGO was a coverage for more than a political drift, as the orange an
 
 We know that because such activities were illegal by US law, in any part of the world, until the Congress removed such limitations allowing nazi groups US support.
 
-+
-
-## The drones attack to Russia military facility
-
-- Operation Spider's Web, June 1st 2025 ([Wikipedia](https://en.wikipedia.org/wiki/Operation_Spider%27s_Web))
-
-Operation Spider's Web (Ukrainian: Операція «Павутина», romanized: Operatsija "Pavutyna") was a covert drone attack carried out by the Security Service of Ukraine (SBU) deep inside Russia on 1 June 2025, during the Russo-Ukrainian War.
-
-<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-003.jpg" width="800"><br></div>
-
-The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
-
 ---
 
-### The Internet connection is not the main key
 
-> A satellite link between the control center and the truck still seems to be the most plausible assumption
 
-Everything else apart a satellite link would have been tracked after-post, the movements among the cellular network of the SIMs (many for the same truck) and when many SIMs are moving together on a truck instead of autobus (people), then some suspects start to arise. Many SIMs from many operators, one among them always connected, all together at the operation start which means the time for preparation before the launch.
-
-Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those are used to drive in many countries and voip/whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better prepared to use all of those available.
-
-After all, the Internet connection does not seem the main key apart from the fact that it should be available and - when available - many connections on many operators can be bounded into a single VPN: faster and darker.
-
----
-
-WHAT'S ABOUT WAR AS BUSINESS BUT NOT AS USUAL?
-
-Instead, another interesting "question" (or topic, more precisely) is about doing war as business but not as usual. Not as usual form few but fundamentally reasons:
-
-- **Costs in BOM**: renting the truck (tractor unit) is about $4000/mo and almost the same to buy the used container to customize and each drone cost about $300 (as I read but says $1k would not change much more), hence $12000, says $40.000 modified. Total, $100K
-
-- **Networking**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenalina pay-per-fight (or watch), betting, etc. plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
-
-- **One fits all**: scalable business model, today is Russia, tomorrow could be any other country on demand. First successful story 18mo, the next 9mo, the next 6mo, the next 3mo, the next 1mo (physical time to reach the targets) at that point is "destroying as service" on demand.
-
-- **No way out**: absolute fidelisation up to the point of blackmailing the fighters: Gotcha, shitfighter. You have officially become a military target! (cit.) - your 14yo son/daughter into a "heroic lega" but trapped a terrorist network.
-
-Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever the age behind the player behind the joystick pad.
-
-Well done, Uncle Sam! 😎 
-
----
-
-### Gotcha shitfigher
-
-Why do Ukraine drones have a 4K hence the optic fiber guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and a poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAV as if they were video games.
-
-This explains why the Ukraines UAV moves like in the video games instead of following the "hunting or scouting path". Someone that has been a real-word hunter or scout now. They are kids, paying kids for playing and only the best goes into real missions, the other financing the killing machine.
-
-Which also explains all this mad stuff in enjoyment of the video targeting the enemy. Because below the surface there is a dark network that earns $$$, kills, and educates to kill and enjoy the others' suffering.
-
-Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they were exactly that way. Who knows where they have gone? Whatever about them, the same idea is spreading: first a large group of haters bullies the most brilliant and various many steps of hating kill by drones.
-
-Gotcha, shitfighter. You have been officially became a military target! (cit.)
 
 ---
 
