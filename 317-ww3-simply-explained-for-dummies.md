@@ -59,13 +59,19 @@ However, there is another explanation for having used "**with**" as a correct tr
 
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order: 
+Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order:
+
+- 1999-01-01 -- Euro became an official currency controlled and emitted by European Central Bank;
+
+- 2000-03-10 -- The dot-com bubble burst, specifically with the Nasdaq peaking at 5.048,followed by a sharp decline, which fell to 1.134 by October 4th 2002 with a capitalisation lost of 77.54%;
 
 - 2001-07-20 -- G8 summit in Genoa, during which we have seen an unprecedented case of violence against unarmed people, and the worst violation of human rights happened in the Europe after the end of the WW2 as stated by Amnesty International, perpetrated by Italian Police under the Berlusconi government;
 
 - 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and travelling people towards security over freedom;
 
-- 2001-12-01 -- China entered into the World Trade Organisation (WTO).
+- 2001-12-11 -- China entered as a member into the World Trade Organisation (WTO). As part of their accession, China agreed to various commitments, including reducing trade barriers, opening their market, and improving intellectual property protection;
+
+- 2002-03-01 -- Euro became the sole official legal tender for the 12 European countries that adhered to it.
 
 In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years.
 
