@@ -5,9 +5,9 @@
 
 ## WW3 simply explained, for dummies
 
-- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.facebook.com/photo?fbid=10161836313578736&set=a.10150400606833736) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
+- 4th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
-- 3rd draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #3](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #3](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.facebook.com/photo?fbid=10161836313578736&set=a.10150400606833736) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
 ---
 
@@ -48,7 +48,9 @@ Unfortunately, the Misk agreements were not going to settle the Ukraine case whi
 In fact, Ukraine after having accepted to give back to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was consistently supported by Russia which was paying relatively good fees for gas transfer in Europe passing through Ukraine and buying their public debts as much as they were in need.
 
 Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercitation that NATO did at that time.
+
 ++++
+
 [!INFO]
 In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
 [/INFO]
@@ -195,6 +197,43 @@ The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was acc
 
 Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
 
+----
+
+### Ukraine war: money laundering and its default
+
+It is difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, the biggest waste of public money in the US and EU partnership history (aka NATO). No surprise that UE politics was loving this unnecessary and useless war, in which the two main drivers were:
+
+- 1. huge budgets like it were not tomorrow and 
+- 2. money laundering and weapons black-market.
+
+Draghi's 10 years of quantitative easing (inflationary policy) provided this huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and killing industry, especially in Germany.
+
+- News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](../data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.md#?target=_blank)
+
+#### How much money we are talking about?
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
+
+- **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
+
+- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
+
+- **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
+
+- **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
+
+#### The AML events chain to the default
+
+- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
+
+- Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
+
+- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
+
+- Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
+
+- Q2/2025 -- The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
+
 +
 ---
 |x|>
@@ -202,8 +241,6 @@ WORKING IN PROGRESS
 <|x|
 ---
 +
-
-++++
 
 ### Kellogg declarations, press coverage
 
@@ -217,7 +254,7 @@ WORKING IN PROGRESS
 
 Here below a summary of the press coverage made by Perplexity AI which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology:
 
-- 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](not-yet.txt#?target=_blank)
+- 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
 #### Un paio di retroscena a questa notizia
 
@@ -233,27 +270,13 @@ Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](h
 
 <!--
 
-## War of drones, business model and consequences
+WAR HEADS VS SMART BRAINS
 
-UKRAINE MONEY LAUNDERING IS DOOMED, ARE WE ALSO?
+Amusing 164 pages document (PDF) in trying to negate the obvious: defunding the military and reducing war-mongering GDP quota, is the best way to stay safe because critical and creative thinking with a little budget in defence is MUCH more effective than a HUGE budget provided to wood-heads. It is truly amazing seeing how many words are needed to conceal the truth and how few facts can reveal it.
 
-More transparent than this, we literally die! Let me explain.
+164 pag. paper -> https://lnkd.in/dG493CTV
 
-0 - lnkd.in/dNs8zAEk - the war against Russia has been planned since 1992, in this period of time, the US war machine has cost about $33T of public debt (almost all of it in full, spoiler #3 in its comments).
-
-1. - lnkd.in/dMrZac9F - a perfect storm is looming soon (2026), which will lead to a US default, not only public but also private ($103T both), 
-
-2. - lnkd.in/dYRSgpuT - while it is estimated that "future" exposures are near to 800% of the current GDP.
-
-3 - lnkd.in/djDq4tja - regarding money laundering that is so tempting to politicians, especially the American DEMs and the European pro-war ones. 
-
-4 - lnkd.in/dxArx4ti - a result obtained by Trump accepting their request to raise military spending to 5% of GDP (who asked who, might vary).
-
-5. - lnkd.in/dmpFQ3TR - so soon a total global mess will break out (except nuclear conflict) and in any case the "solution" proposed by Europe is to militarize civil society.
-
-So, how to solve the "problem", indicating a nuclear strike, is an option that even the Americans do not exclude.
-
----
+***
 
 THE DIFFERENCE BETWEEN LAW AND JUSTICE
 
@@ -267,11 +290,15 @@ Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally che
 
 - no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
 
-It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **two** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
+It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
 
 In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
 
----
+Get deep into this topic reading this chat with Gemini:
+
+=-> https://lnkd.in/dPANsKeK
+
+***
 
 ### From war and fear to confusion and uncertanty by NATO
 
@@ -406,7 +433,6 @@ We are bringing terroristic attacks into our international negotiation toolkit, 
 +
 
 ## La fine della guerra
-
 
 THE WONDERFUL M&M COUPLE IS
 GOING TO CONQUER THE WORLD
@@ -883,8 +909,74 @@ Is this explaining to you something about how quickly some "positions" evolve? G
 
 (*) the #1 non-speculative finance guru investor retired, his motto was "on the market, win those can keep a position as long as they will" which makes him a non-speculative investor in terms of HF transactions.
 
-***
 Screenshot taken from the video from this post: lnkd.in/dcbs-vgV
+
+***
+
+LE COINCIDENZE NON ESISTONO!
+
+**SE** la NASA ha ragione (Land, 1992) nell'aver scoperto che il 98% degli adulti ha perso la creatività che aveva a 5 anni a causa dell'educazione scolastica e della pressione sociale, **AND** la regola relativa alle minoranze sistematicamente ininfluenti quando sono rappresentate da meno dello 3.5% della popolazione è vera **ALLORA** statisticamente parlando il sistema/società è stupido in modo irreversibile e di conseguenza stocasticamente prevedibile. Amen!
+
+NOTA
+
+La regola del 3.5% è stata resa popolare da Erica Chenoweth e Maria Stephan nel loro libro "Why Civil Resistance Works".
+
+***
+
+GLI USA SOFFRONO DI UNO SVANTAGGIO
+COGNITIVO QUINDI BOMBARDANO L'IRAN!
+
+1. L’intelligenza come vantaggio asimmetrico
+
+=-> https://lnkd.in/dqCg3EiC (2025-06-22)
+
+Fra la prima chat con Grok sulla guerra all'intelligenza e la possibilità di sostituire l'intelligenza umana con l'AGI, Trump ha deciso di bombardare l'Iran.
+
+=-> https://lnkd.in/e4H9yerx (2025-06-21)
+
+Come finirà?
+
+Long story, short: che dovranno spostare le loro riserve interne di greggio da collaterale al debito pubblico USA, che ormai ha raggiunto i $37 trilioni, all'estrazione per produzione di energia.
+
+=-> https://lnkd.in/dn67ggH4 (2025-01-23)
+
+Bombardano per andare più velocemente e disastrosamente in default sperando che qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché il dito indice stuzzica la supercazzola ma il dito medio risolve come fosse Antani!
+
+=-> https://lnkd.in/eGr7S2c2 (2024-12-17)
+
+La creatività (divergente) è l'intelligenza che si diverte (cit.)
+
+=-> https://lnkd.in/efKvFcWh (analisi di post)
+
+Il tutto spiegato facile che anche Gemini lo ha capito!
+
+LOL 🤣 
+
+***
+
+IL COLLASSO DEL SISTEMA, MARCIO DA FARE SCHIFO
+
+Se è una campagna di fango contro Stramer, allora è ben orchestrata ma lui ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità. Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
+
+https://lnkd.in/dcUVzph2 - aljazeera
+
+https://lnkd.in/d-R9U2mT - RNZ
+
+https://lnkd.in/dUnExHnk - timesofindia
+
+https://lnkd.in/dB48waRc - sky news
+
+https://lnkd.in/d32Ketxj - euronews
+
+***
+
+15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo.
+
+Fonte della notizia: lnkd.in/d6qpURUF
+
+COMMENTO
+
+Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
 
 //-->
 
