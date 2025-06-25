@@ -9,9 +9,6 @@
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #6](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
-https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW
-
-
 ---
 
 ###  Why does NATO still exist, after 1992?
