@@ -39,6 +39,36 @@ Anyway, back to the operational season started in 2007, it was supported by the 
 
 However, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also canceled the Russian language as the second official language of Ukraine.
 
+[!INFO]
+The Minsk agreements are a pair of agreements aimed at ending the war in the Donbas region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
+[/INFO]
+
+Unfortunately, the Misk agreements were not going to settle down the Ucraine case which at that time was allowed to join the European Union but it was not ready for that due their shortcoming in many fields like infrastructures, legislation, finantial and economic stability.
+
+In fact, Ukraine after having accepted to give ack to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was constantly supporeted by Russia which was paying relatively good fee for gas transfer in Europe passing trought Ukraine and buying their public debts as much as they were in need.
+
+Under these circumstances the best role of Ucraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vasted military excercitation that NATO did at that time.
+
+[!INFO]
+In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
+[/INFO]
+
+Which triggered, as expected, the Russia reaction that after several attempts to settle down the situation, the last failed because Biden forbid to Zelensky the permission to sign an agreement with Russia, on the end of Febraruay 2022, Russia troops entered into the Ukrain territory.
+
+It is worth to notice that Angela Merkel in late 2022, when it was clear that Russia could not have forced into a finantial default nor it was possible to isolate Russia in that geopolitical scenario. spoken out about the US agreed to undergo with the Minsk I and II agreements just to prepare the Ukraine for a war against Russia,
+
+[!INFO]
+On 26 September 2022, a series of underwater explosions and consequent gas leaks occurred on 3 of 4 Nord Stream pipes, rendering them inoperable. The Nord Stream 1 (NS1) and Nord Stream 2 (NS2) are natural gas pipelines. They are two of 23 gas pipelines between Europe and Russia.
+[/INFO]
+
+An event that was anticipated by Biden meeting in Berlin with Scholtz in front of a quite surprised journalists team who were uncapable to cope with the idea that an US president would have dare to destroy a strategic infrastractuer co-owned by Germany which is an ally, also in NATO.
+
+- [Non c'è il 2° podio negli schemi Ponzi](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) &nbsp; (2025-05-16)
+
+This event he broke down all resistance in Angela Merkel to speak out about the nature of the Ukraine proxy-war. Unfrotunately, apart the effects on the finantial markets and the BTP-bound spread for Italy, politics and propaganda warmongers were not affected at all.
+
+The propaganda machine combined with the so called "fact-cheking" machine was at its full funtioning in marginalising and supprensing every dissent around the fairy tale for which there were an attacker and an attacked. Tthe same litany repeated by Meloni at her last meeting with Trump which lead her interpreter to fall in confusion.
+
 ---
 
 ### NATO is waging a proxy-war with Russia
@@ -83,7 +113,7 @@ Supporting the suspicion (reasonably grounded since Genova G8 violence) that the
 
 Something about health management that we never seen in Europe before and which went totally unchallenged despite the corruption scandal and comdannation in trials related to the medical contracts and agreements.
 
-...
++
 
 COPERTURA DELLA NOTIZIA E LE SUE MAGGIORI FONTI
 
