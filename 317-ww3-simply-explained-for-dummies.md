@@ -173,9 +173,7 @@ Our worst nightmare is that others are like us, thinking like us and are going t
 
 The fear of being invaded will let us be squeezed by a more 3% of our GDP in buying weapons. When nations buy weapons in large quantities they should use them otherwise politicians should face the shame of having wasted a lot of public money. The sunk-cost fallacy, right?
 
-Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts. Which compound is more than $104 trillions? On 25th June 2025, the [usdebtclock.org](https://www.usdebtclock.org) was accounting the U.S. public debt a little above $37T and the combined with private debt half its way to $105T.
-
-It is amazing how some people can think that we **all** are a bunch of idiots that can hopelessly fall again and again into the same rat-traps just because they are presented with a different box.
+Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts. It is amazing how some people can think that we **all** are a bunch of idiots that can hopelessly fall again and again into the same rat-traps just because it is presented in a different shape or color.
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
@@ -183,7 +181,19 @@ Please, tell me we are not going to fall in it again!? Well, same heades, same i
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
 
-Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus those which casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet
+Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus those which casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet.
+
+---
+
+### Few but essential information about Americans
+
+> Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts.
+
+The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was accounting the U.S. public debt a little above $37T which compounded with private debt made a $104.7T figure. Let me put this number in a more human-centric perspective:
+
+- `$308K x 340M = $104.7 x 10^3 (KxM) = $104.7 x 10^(3+3+6) = $104.7 x 10^12 = $104.7T`
+
+Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
 
 +
 ---
