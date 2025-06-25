@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-06-01:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/317-war-of-drones-business-model-and-consequences-img-001.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-001.jpg" width="800"><br></div>
 
 ## WW3 simply explained, for dummies
 
@@ -92,7 +92,7 @@ This implies the broader reach and tighter synchronisation of Kremlin-orchestrat
 
 Figure 2, a comparison of EN vs. RU volumes of interactions
 
-<div align="center"><img class="bwsketch" src="img/317-war-of-drones-business-model-and-consequences-img-002.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-002.jpg" width="800"><br></div>
 
 Please, take in consideration that the "coordination" can be a mere rational reaction to the disturbing bullsh*t emerged by those two events that Russians ignored almost completely while get on the nerves on rational fact-driven opinionists (and a cascade of memes related, as usual because it is enough that few of those are facts-driven engages the social media with a humor-sarcastic tone that hits emotionally the people and they meme on that).
 
@@ -136,7 +136,7 @@ We know that because such activities were illegal by US law, in any part of the 
 
 Operation Spider's Web (Ukrainian: Операція «Павутина», romanized: Operatsija "Pavutyna") was a covert drone attack carried out by the Security Service of Ukraine (SBU) deep inside Russia on 1 June 2025, during the Russo-Ukrainian War.
 
-<div align="center"><img class="bwsketch" src="img/317-war-of-drones-business-model-and-consequences-img-003.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-003.jpg" width="800"><br></div>
 
 The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
 
