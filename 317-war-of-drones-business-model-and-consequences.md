@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch" src="img/317-war-of-drones-business-model-and-consequences-img-001.jpg" width="800"><br></div>
 
-## War of drones, business model and consequences
+## WW3 simply explained, for dummies
 
 - Articolo a partire da vari post pubblicati su LinkedIn alcuni giorni prima a partire dal 1° giugno 2025.
 
@@ -15,7 +15,7 @@ The war against Russia has been planned since 1992, in this period of time, the 
 
 At the end of 1991, the Soviet Union suddenly collapsed. Suddenly because the Red Star Empire took relatively few years from when the Glasnost (transparency) started to be actively carried on. While Perestroika (changement) was the key point of Gorbačëv presidency (1985), the Glasnost remained behind on its schedule until the Chernobyl nuclear disaster (1986). That event forced the Soviet Communist Party to accept a breach into their opaque system of power. A breach that made the Soviet Union collapse, after all.
 
-- Security by obscurity is always a poor choice which is doomed to tragically fail
+- Security by obscurity is always a poor choice, and it is doomed to a tragic failure.
 
 At the end of 1989, the Berlin Wall was falling and by the end of 1991 also the Soviet Union. With the dissolution of the Varsavia Pact, also NATO ceased to have its own meaning because the NATO alliance was in place during the Cold War to defend the Western Capitalism and Democracy from Soviet Communism and Tyranny. Once the Evil Empire was gone, alsa the NATO was due to be dismissed.
 
@@ -23,17 +23,24 @@ In theory. Because in practice, many options have been considered including a tr
 
 The turning point arrived with the Putin' speech at the Munich Security Conference in 2007 because, among other interesting things, Putin was pretty clear in exposing the NATO subtle plan of their expansion to the east and surrounding Russia with NATO military installations all around their borders. Something that Russia would not be going to tolerate anymore, silently.
 
-- [Vladimir Putin' speech in Munich 2007](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin)
-- [English transcription from Kremlin](http://en.kremlin.ru/events/president/transcripts/24034) &nbsp; (http only)
+- [Vladimir Putin' speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin) in Munich 2007 and its full [English transcription](http://en.kremlin.ru/events/president/transcripts/24034) from Kremlin (via http only)
 
 In that year the subprime loans bubble exploded and soon after the burst reached Europe, many U.S. non-governative organisations started to pop-up and spread in Ukraine. Looking at those past times, we can recognise as recently admitted by the U.S. a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
 
-That operational season was supported by the U.S. Congress that removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
+Under this point of view, it is worth to notice that there is no any way that aany country can apply fro joining the NATO by their own governemnt decision. But **only** by an official and explicit invitation from USA becuase this is the **only** procedure allowed among NATO to expand their obbligations over other countries.
+
+Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA.
+
+- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
+
+Anyway, back to the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
 However, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also canceled the Russian language as the second official language of Ukraine.
 
 
 <!--
+
+## War of drones, business model and consequences
 
 UKRAINE MONEY LAUNDERING IS DOOMED, ARE WE ALSO?
 
