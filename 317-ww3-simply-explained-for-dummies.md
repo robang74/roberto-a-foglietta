@@ -5,7 +5,7 @@
 
 ## WW3 simply explained, for dummies
 
-- 4th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- 5th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #3](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #3](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.facebook.com/photo?fbid=10161836313578736&set=a.10150400606833736) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
@@ -151,11 +151,31 @@ In particular, the 9/11 shock and its narrative supported the mass surveillance 
 
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
 
-Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds. Which would explain why the World Health Organisation has been so deeply involved as the Covid-19 pandemia had such a criminal management.
+Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds.
+
+---
+
+### The people minds as the ultimate battlefield
+
+The psychological warfare in the context of social media, something that NATO has called "virtual manipulation" while Oxford, more correctly, has defined it as "brain rotting" ([2024-12-02](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024)).
+
+- [From war and fear to confusion and uncertanty](https://stratcomcoe.org/publications/virtual-manipulation-brief-2025-from-war-and-fear-to-confusion-and-uncertainty/320) &nbsp; by NATO (ISBN 978-9934-619-43-4, 2025-06-02)
+
+A 30 pages essay that has been completed at the end of May 2025 thus it has been prepared a few months before. The last date in the graph indicates 13th April 2025. Which is aligned with the "pre-bunking" approach published by Von der Leyen.
+
+[!INFO]
+Ursula von der Leyen’s idea of exposing people to deliberately created fake-news to build resistance aligns closely with the concept of psychological inoculation or "pre-bunking". The idea is to expose people to simplified (aka meme) and deliberately misinformation to teach them how it works.
+[/INFO]
+
+Unfortunately the pre-bunking approach can conversely used to made the population more resistant to the facts-driven fact-checking in favour of a propaganda-driven fact-checking as shown in this article in which a common person would not be able to argue but passively assimilate the baised notions provided by the AI, as an example of propaganda-driven misinformation provider.
+
+- [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
+
+Which explains why the World Health Organisation has been so deeply involved in the Covid-19 pandemia resulting in such a criminal management: the absence of ethical and lawful civil resistance to the mainstream propaganda.
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Something about health management that we never seen in Europe before and which went totally unchallenged despite the corruption scandal and comdannation in trials related to the medical contracts and agreements.
+Something about health management that we never seen in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and comdannation in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercisitation on full scale.
 
 ---
 
@@ -270,15 +290,9 @@ Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](h
 
 <!--
 
-WAR HEADS VS SMART BRAINS
-
-Amusing 164 pages document (PDF) in trying to negate the obvious: defunding the military and reducing war-mongering GDP quota, is the best way to stay safe because critical and creative thinking with a little budget in defence is MUCH more effective than a HUGE budget provided to wood-heads. It is truly amazing seeing how many words are needed to conceal the truth and how few facts can reveal it.
-
-164 pag. paper -> https://lnkd.in/dG493CTV
-
-***
-
 THE DIFFERENCE BETWEEN LAW AND JUSTICE
+
+https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D (2025-06-24)
 
 It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
 
@@ -301,6 +315,8 @@ Get deep into this topic reading this chat with Gemini:
 ***
 
 ### From war and fear to confusion and uncertanty by NATO
+
+326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md
 
 An estimated ~7.9 % of all the interactions we tracked show statistics-based signs of coordination. Kremlin‑aligned messaging bursts were roughly twice as frequent as their pro‑Western counterparts, and about three times as frequent for the posts that appeared on more than one platform. 
 
