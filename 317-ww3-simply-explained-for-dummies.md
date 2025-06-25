@@ -155,11 +155,11 @@ Supporting the suspicion (reasonably grounded since Genova G8 violence) that the
 
 ---
 
-### The people minds as the ultimate battlefield
+### People minds as the ultimate battlefield
 
 The psychological warfare in the context of social media, something that NATO has called "virtual manipulation" while Oxford, more correctly, has defined it as "brain rotting" ([2024-12-02](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024)).
 
-- [From war and fear to confusion and uncertanty](https://stratcomcoe.org/publications/virtual-manipulation-brief-2025-from-war-and-fear-to-confusion-and-uncertainty/320) &nbsp; by NATO (ISBN 978-9934-619-43-4, 2025-06-02)
+- [From war and fear to confusion and uncertainty](https://stratcomcoe.org/publications/virtual-manipulation-brief-2025-from-war-and-fear-to-confusion-and-uncertainty/320) &nbsp; by NATO (ISBN 978-9934-619-43-4, 2025-06-02)
 
 A 30 pages essay that has been completed at the end of May 2025 thus it has been prepared a few months before. The last date in the graph indicates 13th April 2025. Which is aligned with the "pre-bunking" approach published by Von der Leyen.
 
