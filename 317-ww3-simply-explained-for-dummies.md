@@ -9,6 +9,9 @@
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #6](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
+https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW
+
+
 ---
 
 ###  Why does NATO still exist, after 1992?
@@ -276,6 +279,8 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
+...
+
 #### Un paio di retroscena a questa notizia
 
 > Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi “da bocca della verità”.
@@ -300,6 +305,8 @@ Operation Spider's Web (Ukrainian: Операція «Павутина», romani
 
 The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
 
+...
+
 #### The Internet connection is not the main key
 
 > A satellite link between the control center and the truck still seems to be the most plausible assumption
@@ -309,6 +316,8 @@ Everything else apart a satellite link would have been tracked after-post, the m
 Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those are used to drive in many countries and voip/whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better prepared to use all of those available.
 
 After all, the Internet connection does not seem the main key apart from the fact that it should be available and - when available - many connections on many operators can be bounded into a single VPN: faster and darker.
+
+...
 
 #### Gotcha shitfigher
 
@@ -321,6 +330,8 @@ This explains why the Ukraines UAV moves like in the video games instead of foll
 Which also explains all this mad stuff in enjoyment of the video targeting the enemy. Because below the surface there is a dark network that earns $$$, kills, and educates to kill and enjoy the others' suffering.
 
 Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they were exactly that way. Who knows where they have gone? Whatever about them, the same idea is spreading: first a large group of haters bullies the most brilliant and various many steps of hating kill by drones.
+
+...
 
 #### What's about war as business but not as usual?
 
@@ -335,6 +346,20 @@ Instead, another interesting "question" (or topic, more precisely) is about doin
 - **No way out**: absolute fidelisation up to the point of blackmailing the fighters: Gotcha, shitfighter. You have officially become a military target! (cit.) - your 14yo son/daughter into a "heroic lega" but trapped a terrorist network.
 
 Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever would be the age behind the player behind the joystick pad.
+
+...
+
+#### the drones attack is terrorism-as-a-service
+
+About the drones attack against military nuclear facilities, whatever it happened to Russia, there are two **huge** critical risks to consider:
+
+- such a kind of attack can be soon develop autonomously as a private on-demand terrorism business **and** it has the potential of penetrate our society and culture with deep consequences which are beyond imagination;
+
+- the target chosen creates a **very** dangerous precedent because - including a previous destruction of an over-horizon radar - it is the 2nd and most daring attack which infringes the nuclear non-proliferation agreements.
+
+Those agreements enforce not only Russia but also USA to keep that facilities exposed in such way others countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facility are going to push the world back to the timesin which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
+
+We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society and at the same time we are find ourselves back to Cuba missiles crisis time but on a 8B+ people planet, many more nuclear-war abilitaed states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
 
 <!--
 
@@ -376,11 +401,6 @@ We know that because such activities were illegal by US law, in any part of the 
 
 ---
 
-
-
-
----
-
 ### The game changer
 
 Now, the game is to find those kids before Russian hackers and secret services agents do. It is like Dama, the piece taken without a backup is gone.
@@ -390,22 +410,6 @@ Precious hint: take the maximum advantage in the meantime Russia is busy in sele
 Good luck, adventurers! (cit.)
 
 ---
-
-ABOUT THE DRONES ATTACK
-
-About the drones attack against military nuclear facilities, there are two HUGE red flags to consider:
-
-1. that kind of attack can be soon develop autonomously as a private on-demand terrorism business AND it has the potential of penetrate our society and culture with immense consequences which are beyond imagination. - lnkd.in/dZMmnaNV
-
-2. the target chosen creates a VERY dangerous precedent because - including a previous destruction of an over-horizon radar - it is the 2nd and most daring attack which infringes the nuclear non-proliferation agreements. - lnkd.in/d5hinkFk
-
-Those agreements enforce not only Russia but also USA to keep that facilities exposed in such way others countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed.
-
-Non nuclear states which are driven these kind of attack are going to push the world back to the times in which nuclear threads were hidden. Which means that first-strike re-enter as a "reasonable" option.
-
-We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society plus back to Cuba missiles crisis times but with 8B+ people, Internet complexity and a lot more of cocaine! 
-
-+
 
 ## La fine della guerra
 
