@@ -272,12 +272,8 @@ WORKING IN PROGRESS
 ### Kellogg declarations, press coverage
 
 - 2025-05-29 -- ABC News, USA, [video](https://www.youtube.com/watch?v=UkjscqKH21g)
-- 2025-05-30 -- Politico, USA, [artcle](https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine)
-- 2025-05-30 -- Reuters, UK, [article](https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30)
-- 2025-06-01 -- Tass, Russia, [article](https://tass.com/world/1966517)
-- 2025-06-01 -- RIA Novosti, Russia, [article](https://www.nampa.org/text/22647158)
-- 2025-06-01 -- Akmu, Bulgaria, [article](https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev)
-- 2025-06-01 -- Times of India, [video](https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe)
+- 2025-05-30 -- Politico, USA, [artcle](https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine); Reuters, UK, [article](https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30)
+- 2025-06-01 -- Tass, RU, [article](https://tass.com/world/1966517); RIA Novosti, RU, [article](https://www.nampa.org/text/22647158); Akmu, BG, [article](https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev); Times of India, [video](https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe)
 
 Here below a summary of the press coverage made by Perplexity AI which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology:
 
@@ -402,16 +398,6 @@ Soon after that speech US funded NGO started to infiltrate the Ukraine society w
 The western NGO was a coverage for more than a political drift, as the orange and maiden revolutions shown. More than that, they were working as a network to convey financial support for CIA operations in breeding, training and then weaponise neo-nazi paramilitary groups.
 
 We know that because such activities were illegal by US law, in any part of the world, until the Congress removed such limitations allowing nazi groups US support.
-
----
-
-### The game changer
-
-Now, the game is to find those kids before Russian hackers and secret services agents do. It is like Dama, the piece taken without a backup is gone.
-
-Precious hint: take the maximum advantage in the meantime Russia is busy in selecting the targets to hit as retaliation.
-
-Good luck, adventurers! (cit.)
 
 ---
 
@@ -761,16 +747,6 @@ Quindi - secondo me e in particolare oggi che come ha detto Merz occorre conside
 
 ***
 
-WAIT, THAT BILLBOARD IS NOT TOTALLY CORRECT!
-
-The billboard's message is not totally true: the public debt is $36 but combined with the private debt (loans, and credit cards exposures, etc.) it reaches $103T. Moreover, considering the finance leverage exposition on futures etc. then it skyrockets to 772% of the U.S. GDP.
-
-Therefore, it is wrong to claim that the federal state is the ONLY responsible but ALL Americans love debts. You might not agree because YOU in person are not on this bandwagon, but numbers do not lie and in general $103T pro-capite becomes $303K each, including newborns and 100+ grannies.
-
-303K * 340M = 103 x 10^3 (K*M) = 103 x 10^(3+3+6) = 103 x 10^12 = 103T
-
-***
-
 IL GRANDE AVVERSARIO DI TRUMP
 
 Il Moloch che l'amministrazione Trump dovrà affrontare è quei $7T di debito pubblico da rinnovare. Ma per darvi un'idea di cosa significhi la finanza negli USA e quindi il controllo del debito pubblico c'è l'altro screenshot e allora andiamo a mettere in prospettiva quei $7T con tutto il resto.
@@ -791,9 +767,9 @@ In un contesto del genere servirebbe prudenza ma a questo stadio è più corrett
 
 Articolo completo: lnkd.in/dD84RYN6
 
-+
+***
 
- MODERN FAIRY TALE, ABOUT U.S. PUBLIC DEBT DEFAULT
+MODERN FAIRY TALE, ABOUT U.S. PUBLIC DEBT DEFAULT
 
 Unfortunately, the U.S. public debt is gone in default after the grace period expired, that day Warren Buffett (*) retired. The day after everything based on USD gets into a Ponzi scheme, technically speaking. How did the U.S. public debt default? Long story short: no any USD backup, anymore (we don't trust anymore). 
 
