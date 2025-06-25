@@ -41,11 +41,48 @@ However, the Dombass and a few other Ukraine regions in which Russian people wer
 
 ---
 
-### Keith Kellogg: NATO is waging a proxy-war **with** Russia
+### NATO is waging a proxy-war with Russia
 
-2025-05-30: US Special Envoy for Ukraine Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia.
+- **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia.
+
+While I did not find the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that India news are strongly rooted with this expression instead of the most straightforward "a proxy war **against** Russia".
+
+> In a stunning admission, Donald Trump’s Ukraine envoy Keith Kellogg declared that NATO is in a proxy war **with** Russia, echoing long-standing claims made by Vladimir Putin.
+
+- Times of India: [article](https://timesofindia.indiatimes.com/videos/international/putin-was-right-trump-envoy-keith-kellogg-stuns-nato-in-blistering-attack-over-ukraine-stand/videoshow/121547368.cms) published on 1st June 2025.
+
+We might wonder it can be a choice for avoid a confrontation language, thus replacing **against** with **with** or it is because a translation from Russian bespoken by Putin, or India's English short way for report "**involving**" Russia as said by Keith Kellogg.
+
+> It highlights that the conflict is happening in relation to or involving Russia, rather than simply being directed at Russia as a passive target. (Gemini)
+
+However, there is another explanation for having used "**with**" as a correct translation of revealing "**involving**" bespoken by Keith Kellogg: Russia in involved in a proxy-war not against Russia, but with Russia, against Europe and in particular the European Union, and in particular the Euro which is the **only** fiat-currency that can be compete with the US dollar for supporting the international trades and a global financial reserve of liquidity.
+
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
+
+Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order: 
+
+- 2001-07-20 -- G8 summit in Genoa seen an unprecedented case of violence against unarmed people by Police under the Berlusconi government;
+
+- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the US and EU policy toward security over freedom;
+
+- 2001-12-01 -- China entered into World Trade Organisation (WTO).
+
+In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years.
+
+- [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
+
+Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds. Which would explain why the World Health Organisation has been so deeply involved as the Covid-19 pandemia had such a criminal management.
+
+- [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
+
+Something about health management that we never seen in Europe before and which went totally unchallenged despite the corruption scandal and comdannation in trials related to the medical contracts and agreements.
+
+...
 
 COPERTURA DELLA NOTIZIA E LE SUE MAGGIORI FONTI
+
+- ABC News (USA, video, 29th May)
+   - https://www.youtube.com/watch?v=UkjscqKH21g
 
 - Politico (USA, 30th May)
    - https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine/
