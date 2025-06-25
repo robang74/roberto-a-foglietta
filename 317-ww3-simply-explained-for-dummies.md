@@ -171,11 +171,11 @@ Unfortunately the pre-bunking approach can conversely used to made the populatio
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
 
-Which explains why the World Health Organisation has been so deeply involved in the Covid-19 pandemia resulting in such a criminal management: the absence of ethical and lawful civil resistance to the mainstream propaganda.
+Which explains why the World Health Organization has been so deeply involved in the Covid-19 pandemic, resulting in such a criminal mismanagement: the absence of ethical and legal civil resistance to mainstream propaganda.
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Something about health management that we never seen in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and comdannation in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercisitation on full scale.
+Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and comdannation in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercisitation on full scale.
 
 ---
 
