@@ -150,7 +150,7 @@ Under this perspective, the Ukraine proxy-war is part of a plan developed the ye
 
 - 2002-03-01 -- Euro became the sole official legal tender for the 12 European countries that adhered to it.
 
-In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years.
+In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years. (cfr. [press coverage](#the-grooming-gangs-scandal-in-uk))
 
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
 
@@ -315,7 +315,7 @@ Everything else apart a satellite link would have been tracked after-post, the m
 
 Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those are used to drive in many countries and voip/whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better prepared to use all of those available.
 
-After all, the Internet connection does not seem the main key apart from the fact that it should be available and - when available - many connections on many operators can be bounded into a single VPN: faster and darker.
+After all, the Internet connection does not seem the main key apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster and darker.
 
 ...
 
@@ -349,7 +349,7 @@ Welcome into the new world in which shitcoin, drugs home delivery, and eros on d
 
 ...
 
-#### the drones attack is terrorism-as-a-service
+#### The drones attack is terrorism-as-a-service
 
 About the drones attack against military nuclear facilities, whatever it happened to Russia, there are two **huge** critical risks to consider:
 
@@ -360,6 +360,22 @@ About the drones attack against military nuclear facilities, whatever it happene
 Those agreements enforce not only Russia but also USA to keep that facilities exposed in such way others countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facility are going to push the world back to the timesin which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
 
 We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society and at the same time we are find ourselves back to Cuba missiles crisis time but on a 8B+ people planet, many more nuclear-war abilitaed states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
+
++
+
+### The grooming gangs scandal in UK
+
+[!INFO]
+15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo.
+[/INFO]
+
+- Il Corriere, IT, [articolo](https://www.corriere.it/esteri/25_giugno_15/ragazzine-abusate-pachistani-inchiesta-gran-bretagna-24a7e838-09f1-49ef-a746-93c59e1dfxlk.shtml) completo.
+
+Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
+
+Se fosse una campagna di fango contro Stramer, allora è ben orchestrata -- [Aljazeera](https://lnkd.in/dcUVzph2) - [RNZ](https://lnkd.in/d-R9U2mT) - [Times of India](https://lnkd.in/dUnExHnk) - [Sky News](https://lnkd.in/dB48waRc) - [Euro News](https://lnkd.in/d32Ketxj) -- e con una copertura globale, ma Stramer ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità.
+
+Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
 
 <!--
 
@@ -823,32 +839,6 @@ La creatività (divergente) è l'intelligenza che si diverte (cit.)
 Il tutto spiegato facile che anche Gemini lo ha capito!
 
 LOL 🤣 
-
-***
-
-IL COLLASSO DEL SISTEMA, MARCIO DA FARE SCHIFO
-
-Se è una campagna di fango contro Stramer, allora è ben orchestrata ma lui ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità. Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
-
-https://lnkd.in/dcUVzph2 - aljazeera
-
-https://lnkd.in/d-R9U2mT - RNZ
-
-https://lnkd.in/dUnExHnk - timesofindia
-
-https://lnkd.in/dB48waRc - sky news
-
-https://lnkd.in/d32Ketxj - euronews
-
-***
-
-15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo.
-
-Fonte della notizia: lnkd.in/d6qpURUF
-
-COMMENTO
-
-Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
 
 //-->
 
