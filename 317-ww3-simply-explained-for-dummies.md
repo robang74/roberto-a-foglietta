@@ -30,9 +30,9 @@ The turning point arrived with the Putin' speech at the Munich Security Conferen
 
 - [Vladimir Putin' speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin) in Munich and its full [English transcription](http://en.kremlin.ru/events/president/transcripts/24034) from Kremlin (*via http only*)
 
-In that year the subprime loans bubble exploded and soon after the burst reached Europe, many U.S. non-governative organisations started to pop-up and spread in Ukraine. Looking at those past times, we can recognise as recently admitted by the U.S. a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
+Soon after that speech US funded NGOs started to infiltrate the Ukraine society with the aim of influencing the political context. Looking at those past times, we can recognise it but at that time it was not so obvious. Only recently documents emerged by the U.S. archives that a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
 
-Under this point of view, it is worth to notice that there is no any way that aany country can apply fro joining the NATO by their own governemnt decision. But **only** by an official and explicit invitation from USA becuase this is the **only** procedure allowed among NATO to expand their obbligations over other countries.
+In that same year the subprime loans bubble exploded and soon after the burst reached Europe. Under this point of view, it is worth to notice that there is no any way that aany country can apply fro joining the NATO by their own governemnt decision. But **only** by an official and explicit invitation from USA becuase this is the **only** procedure allowed among NATO to expand their obbligations over other countries.
 
 Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA, and it still seems to be the case today.
 
@@ -40,7 +40,7 @@ Therefore, the idea published by the media about the free-will of joining NATO i
 
 Anyway, back to the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
-However, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also canceled the Russian language as the second official language of Ukraine.
+Morever, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also removed by law the right to use Russian language as the second official language of Ukraine.
 
 [!INFO]
 The Minsk agreements are a pair of agreements aimed at ending the war in the Donbas region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
@@ -51,8 +51,6 @@ Unfortunately, the Misk agreements were not going to settle the Ukraine case whi
 In fact, Ukraine after having accepted to give back to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was consistently supported by Russia which was paying relatively good fees for gas transfer in Europe passing through Ukraine and buying their public debts as much as they were in need.
 
 Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercitation that NATO did at that time.
-
-++++
 
 [!INFO]
 In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
