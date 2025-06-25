@@ -115,7 +115,7 @@ At this point, the proposal to surrender to Russia in exchange of the Lviv metro
 
 ### NATO is waging a proxy-war with Russia
 
-- **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia.
+- **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia. (cfr. [press coverage](#kellogg-declarations-press-coverage))
 
 While I did not find the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that India news are strongly rooted with this expression instead of the most straightforward "a proxy war **against** Russia".
 
@@ -187,45 +187,33 @@ Anyway, in the above linked article a third option is presented and despite it h
 
 +
 
-COPERTURA DELLA NOTIZIA E LE SUE MAGGIORI FONTI
++
 
-- ABC News (USA, video, 29th May)
-   - https://www.youtube.com/watch?v=UkjscqKH21g
+### Kellogg declarations, press coverage
 
-- Politico (USA, 30th May)
-   - https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine/
+- 2025-05-29 -- ABC News, USA, [video](https://www.youtube.com/watch?v=UkjscqKH21g)
+- 2025-05-30 -- Politico, USA, [artcle](https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine)
+- 2025-05-30 -- Reuters, UK, [article](https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30)
+- 2025-06-01 -- Tass, Russia, [article](https://tass.com/world/1966517)
+- 2025-06-01 -- RIA Novosti, Russia, [article](https://www.nampa.org/text/22647158)
+- 2025-06-01 -- Akmu, Bulgaria, [article](https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev)
+- 2025-06-01 -- Times of India, [video](https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe)
 
-- Reuters (UK, 30th May)
-   - https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30/
+Here below a summary of the press coverage made by Perplexity AI which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology:
 
-- Tass (Russia, 1st June)
-   - https://tass.com/world/1966517
+- 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](not-yet.txt#?target=_blank)
 
-- RIA Novosti (Russia, 1st June)
-   - https://www.nampa.org/text/22647158
-
-- Akmu (Bulgaria, 1st June)
-   - https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev
-
-- Times of India (video, 1st June)
-   - https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe
-
-Il riassunto della notizia nei suoi punti essenziali fatto da Perplexity AI (which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology)
-
-- Perplexity AI (USA, 1st June)
-   - https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig
-
-UN PAIO DI RETROSCENA RIGUARDO A QUESTA NOTIZIA
+#### Un paio di retroscena a questa notizia
 
 > Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi “da bocca della verità”.
 
 Ci sono due motivi per cui questo accade: 
 
-- Trump a differenza di molti altri presidenti americani è un business man nel senso proprio del termine e NON un politico (o un rappresentante politico di una specifica minoranza di americani, tipo i petrolieri a cui va imputato il piano di controllo globale fatto passare per anti-terrorismo dopo il 9/11) quindi come ogni business man non si gioca all-in su un bluff quando ormai le carte sono scoperte.
+- Trump a differenza di molti altri presidenti americani è un business man nel senso proprio del termine e NON un politico ne un rappresentante politico di una specifica minoranza di americani -- tipo i petrolieri a cui va imputato il piano di controllo globale fatto passare per anti-terrorismo dopo il 9/11 -- quindi come ogni business man non si gioca all-in su un bluff quando ormai le carte sono scoperte.
 
-- a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da JFK quindi con il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
+- a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da quello con ben altro esito contro JFK quindi, Trump contro il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
 
-Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" (ma nelle interpretazioni) c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due cose sulle quali l'intera presidenza di Trump si basa.
+Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
 <!--
 
