@@ -5,7 +5,7 @@
 
 ## WW3 simply explained, for dummies
 
-- 7th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- 8th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente:[post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
@@ -149,7 +149,7 @@ In particular, the 9/11 shock and its narrative supported the mass surveillance 
 
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
 
-Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds.
+Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds. On a broader view, it seems that NATO is the problem that is trying to sell the solution to the problem of their own existence as a cold-war organisation survived too long after the cold-war was gone.
 
 ---
 <span id="people-minds-as-the-ultimate-battlefield"></span>
@@ -278,6 +278,48 @@ Let me be clear about that: it is not a Trump fault but the historical American 
 
 The US is facing an intelligence deficit which, leveraged by technology, clearly provides every other country a potential asymmetric advantage never existed before in modern times.
 
+---
+
+### They don't know what the f&ast;ck they're doing
+
+- The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
+
+Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise.Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restrictions scenarios.
+
+...
+
+#### About Israel
+
+[!INFO]
+Israel maintains a policy of "nuclear ambiguity" (also known as "opacity"), meaning it neither confirms nor denies possessing nuclear weapons. However, there is substantial evidence from various sources suggesting that Israel has a nuclear arsenal.
+
+Israel does not have any civilian nuclear power plants for electricity generation, but it does have nuclear research reactors—most notably the Dimona reactor, which is widely believed to produce plutonium for nuclear weapons.
+
+Israel's nuclear research reactors are not all under the same level of IAEA scrutiny. The Dimona reactor is the key to Israel’s alleged nuclear weapons program, while Soreq operates under international oversight. Israel has never signed the Nuclear Non-Proliferation Treaty (NPT), so it is not obligated to open all facilities to inspections.
+[/INFO]
+
+#### About Iran
+
+[!INFO]
+Iran is a signatory to the Nuclear Non-Proliferation Treaty (NPT) and must allow IAEA inspections of declared nuclear facilities. The IAEA monitors enrichment levels (e.g., uranium enriched to 3.67%, 20%, and 60% under the 2015 JCPOA).
+
+After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enriching uranium up to 60%, near weapons-grade). Iran stopped implementing the Additional Protocol in 2021 but still allows basic NPT-required inspections.
+[/INFO]
+
+...
+
+Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
+
+Israel has less or nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyau policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the David temple.
+
+Moreover, Israel has been created after WW2 to compensate Jews for the Shoaha letting them have their own country and they choose to move in Palestine to create Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoaha but forcing Jews to move to Madagascar.
+
+Under this Pov, it seems that the UK managed to accomplish what was the Hitler's initial plan of letting them move in Palestine instead of forcing them to leave for Madagascar. Quite a curious choice because Madagascar is an island ten times larger than the Israel and Palestine lands and it offers a much better climate.
+
+Trump is right in saying -- *they don't know what the f&ast;ck they're doing* -- but we are wondering the same about the UK and much time before they made Brexit. The same question would be asked about the US but it is a hopeless one: they are desperately trying to win something but we don't know WTF is that.
+
+Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway! LOL
+
 +
 ---
 |x|>
@@ -296,7 +338,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
-.....
+...
 
 #### Un paio di retroscena a questa notizia
 
@@ -310,7 +352,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-++++
+...
 
 ### The drones attack to Russia nuclear facilities
 
@@ -334,7 +376,7 @@ Many things can go wrong, so that solution can be a mere emergency backup while 
 
 After all, the Internet connection does not seem the main key apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster and darker.
 
-...
+....
 
 #### Gotcha shitfigher
 
@@ -414,7 +456,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-....
+...
 
 #### The AML events chain to the default
 
@@ -858,7 +900,7 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+++++
++
 
 ## Share alike
 
