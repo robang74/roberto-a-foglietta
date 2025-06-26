@@ -240,29 +240,41 @@ Despite the Israel vs Iran conflict, being active for less than two weeks brough
 
 > If a lie can start a war, re-establishing the truth is the necessary step for peace (cit.)
 
-Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business. Under this PoV, while the Israel attack against Iran killed many Khomeini regime's top players, the Iran attack which managed to pass through the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proof can be seen in military-to-civilian suite-change in King Carlo personal meeting photos.
+Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business.
 
-The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers. Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Ferdow underground facility.
+Under this PoV, while the Israel attack against Iran killed many Khomeini regime's top players, while the Iran attack which managed to pass through the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proof can be seen in military-to-civilian suite-change in King Carlo personal meeting photos.
 
-Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed. The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump leadership.
+The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers.
+
+Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Ferdow underground facility.
+
+Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed.
+
+The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump leadership.
 
 Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
 
-Obviously, Iran is confirming damages to the Fordow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy. Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface.
+Obviously, Iran is confirming damages to the Fordow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy.
+
+Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface.
 
 - 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
 
 In these twelves days of escalation Iran achieved three strategically victories beyond their own imagination despite the key men loss they have suffered:
 
-- 1. their missile strikes were shown to be able to saturate the Israel and American counter-measure;
+- 1. their missile strikes were shown to be able to saturate the Israel and American countermeasures;
 - 2. their ballistic vectors travelling at Mach 15 with 2.600 km range shown to be deadly effective;
 - 3. their ability to close down the marine traffic into the Hormuz strait can also stress the UAE.
 
-In combination with the Houthi capacity of blocking the marine traffic in the Red Sea, increasing the logistic chain by two weeks, Iran can cut off the market about 30% of the world oil supply. The related energy price increase can strongly foster the U.S. consumer price inflation putting the Trump presidency into serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
+In combination with the Houthi capacity of blocking the marine traffic in the Red Sea, increasing the logistic chain by two weeks, Iran can cut off the market about 30% of the world oil supply. 
+
+The related energy price increase can strongly foster the U.S. consumer price inflation putting the Trump presidency into serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
 
 Everything considered, Trump's desperate need of victory is not just a personal issue but a U.S. systemic need otherwise facing a complete lack of credibility and reliability which are the two main signs of a systemic default. After all, every default happens sooner than the numbers accounting in a way that the default is unavoidable.
 
-Let me be clear about that: it is not a Trump fault but the historical American confusion between tactic and strategy, or tactic-as-a-strategy culture, or poker-vs-chess-playing, or law-versus-justice confusion (cfr. an [example](#the-difference-between-law-and-justice)). The US is facing an intelligence deficit which, leveraged by technology, clearly provides every other country a potential asymmetric advantage never existed before in modern times.
+Let me be clear about that: it is not a Trump fault but the historical American confusion between tactic and strategy, or tactic-as-a-strategy culture, or poker-vs-chess-playing, or law-versus-justice confusion (cfr. an [example](#the-difference-between-law-and-justice)).
+
+The US is facing an intelligence deficit which, leveraged by technology, clearly provides every other country a potential asymmetric advantage never existed before in modern times.
 
 +
 ---
