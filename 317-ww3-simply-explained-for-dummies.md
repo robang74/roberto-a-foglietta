@@ -246,7 +246,7 @@ Under this PoV, while the Israel attack against Iran killed many Khomeini regime
 
 The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers.
 
-Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Ferdow underground facility.
+Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Fordow underground facility.
 
 Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed.
 
@@ -258,7 +258,9 @@ Obviously, Iran is confirming damages to the Fordow nuclear site because they kn
 
 Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface.
 
-- 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
+[!INFO]
+2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
+[/INFO]
 
 In these twelves days of escalation Iran achieved three strategically victories beyond their own imagination despite the key men loss they have suffered:
 
