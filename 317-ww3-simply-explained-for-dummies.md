@@ -152,8 +152,8 @@ In particular, the 9/11 shock and its narrative supported the mass surveillance 
 Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds.
 
 ---
-
-### People minds as the ultimate battlefield
+<span id="people-minds-as-the-ultimate-battlefield"></span>
+### People minds is the ultimate battlefield
 
 The psychological warfare in the context of social media, something that NATO has called "virtual manipulation" while Oxford, more correctly, has defined it as "brain rotting" ([2024-12-02](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024)).
 
@@ -169,7 +169,7 @@ Unfortunately the pre-bunking approach can conversely used to made the populatio
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
 
-Which explains why the World Health Organization has been so deeply involved in the Covid-19 pandemic, resulting in such a criminal mismanagement: the absence of ethical and legal civil resistance to mainstream propaganda.
+Or this example [here](#how-misinformation-leads-to-blind-obey) reported. Both of which explains why the World Health Organization has been so deeply involved in the Covid-19 pandemic, resulting in such a criminal mismanagement: the absence of ethical and legal civil resistance to mainstream propaganda.
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
@@ -383,10 +383,10 @@ We are bringing terroristic attacks into our international negotiation toolkit, 
 ### The grooming gangs scandal in UK
 
 [!INFO]
-15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo.
+15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo. -- [Il Corriere](https://www.corriere.it/esteri/25_giugno_15/ragazzine-abusate-pachistani-inchiesta-gran-bretagna-24a7e838-09f1-49ef-a746-93c59e1dfxlk.shtml)
 [/INFO]
 
-- Il Corriere, IT, [articolo](https://www.corriere.it/esteri/25_giugno_15/ragazzine-abusate-pachistani-inchiesta-gran-bretagna-24a7e838-09f1-49ef-a746-93c59e1dfxlk.shtml) completo.
+
 
 Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
 
@@ -449,6 +449,16 @@ It is amusing to listen those trying telling the story that a "promise" without 
 In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
 
 Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK)
+
++
+
+### How misinformation leads to blind obey
+
+Looking at this image, it is clear that even those who are not experts of military avionics can detect unrealistic details. It is silly to believe that Iran is trying to confuse Israel and Mossad with these images, doesn'it? Can pro-Iran or pro-Israel cheering people on social-media make any difference in a real world war? Why do those who spread these AI-generated images don't care that their images cannot last against a proper evaluation?
+
+<div align="center"><img class="bwsketch" src="data/317-ai-generated-images-as-a-misinformation-to-obey.jpg" width="800"><br></div>
+
+Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
 
 <!--
@@ -951,7 +961,7 @@ LOL 🤣
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+
++++++
 
 ## Share alike
 
