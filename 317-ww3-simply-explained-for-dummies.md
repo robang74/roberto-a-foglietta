@@ -236,9 +236,9 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
 
-> In time of war the first victim is the truth (cit.)
+> When lie starts a war, re-establishing the truth is the necessary step for peace (cit.)
 
-> If a lie can start a war, re-establishing the truth is the necessary step for peace (cit.)
+> In time of war the first victim is the truth (cit.)
 
 Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business.
 
@@ -535,20 +535,6 @@ https://edition.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuc
 
 ***
 
-#### -= SPOILER #3 =-
-
-NATO influence extending eastward after the Soviet Union collapse was more a natural drift of some countries toward west AND within the NATO there was a debate about transformation or a change of posture, at least.
-
-A debate (or the debate was a pretending show about NATO would not be NATO anymore soon, hence eastward expansion was not THAT thing) which was going on up to 2004, at least. On the other side, the "debate show" inconsistency was clearly exposed during the Munich security conference in 2007 by the Putin [speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin).
-
-Soon after that speech US funded NGO started to infiltrate the Ukraine society with the aim of influencing the political context. Something that we can clearly see and claim, by now. But at that time it was not so obvious.
-
-The western NGO was a coverage for more than a political drift, as the orange and maiden revolutions shown. More than that, they were working as a network to convey financial support for CIA operations in breeding, training and then weaponise neo-nazi paramilitary groups.
-
-We know that because such activities were illegal by US law, in any part of the world, until the Congress removed such limitations allowing nazi groups US support.
-
----
-
 ## La fine della guerra
 
 THE WONDERFUL M&M COUPLE IS
@@ -640,12 +626,6 @@ IL RESET NUCLEARE È NECESSARIO, LONDRA CONFERMA
 
 ---
 
-## Le vestigia dell'Unione Europea
-
-- Articolo a partire da un post pubblicato su LinkedIn alcuni giorni prima
-
----
-
 ### Informazioni di base
 
 Il Consiglio d’Europa (mappa blue/grigio) -- da NON confondere con il Consiglio dell'Unione Europea (mappa su globo) -- è un’organizzazione internazionale autonoma, estranea all’Unione Europea, fondata nel 1949 e composta oggi da 46 Stati membri. Il suo obiettivo principale è la promozione dei diritti umani, della democrazia e dello Stato di diritto in Europa. Ha sede a Strasburgo.
@@ -714,18 +694,6 @@ Nel caso di Mr. Z, il problema è che non potendo attaccare le torri gemelle ha 
 
 Circola da parecchi mesi, l'idea che l'eroico Zelensky sarebbe finito ammazzato come una qualsiasi altro dittatore-terrorista allevato dalla CIA. Eppure ciò NON ha impedito che anche Mr. Z saltasse nel "personaggio" di quel dejavu.
 
-***
-
-ALLA FINE TUTTO SI RIASSUME IN UN TWEET
-
-Sta ancora murato vivo dopo aver attaccato i bombardieri russi che DEVONO stare esposti fuori dagli hangar per rispettare il trattato di non proliferazione nucleare (accordo globale) e che quindi NON devono essere attaccati da alcuno stato altrimenti gli altri reagiscono? 😎 
-
-Allo stato attuale, mi pare, che Zelensky e i suoi più vicini collaboratori siano nascosti da qualche parte, probabilmente in un bunker sottoterra. Ma gli attacchi a Mach 10 dei russi hanno dimostrato la capacità di distruggere in modo efficace strutture sotterranee anche profonde diversi piani. 
-
-A questo punto, se fosse colpito il bunker che ospita Mr. Z & Co, i russi potrebbero addurre la plausibility negability per svincolarsi anche dall'eventuale accusa di aver ammazzato un capo di stato: spiace, non sapevamo che fosse là sotto, pensavamo fosse Antani (*).
-
-(*) Intl. Antani è un personaggio immaginario della "supercazzola" di Amici Miei (film), cfr. [Dalla supercazzola alla civiltà](https://robang74.github.io/chatgpt-answered-prompts/html/dalla-supercazzola-alla-civita.html)
-
 ---
 
 COSÌ VICINI, COSÌ LONTANI, CHE ORMAI CI SIAMO
@@ -745,93 +713,6 @@ Quindi la domanda ultima è: aspetteranno altri 5-10 anni prima di riaprire il c
 Il rischio NON è tanto una WW3, anzi. Ma il collasso (**) del sogno americano. Un sogno oppure un incubo durato troppo a lungo? Secondo me, i russi e i cinesi, hanno imparato dalla storia della conquista del Far West americano e sanno che fare accordi con i bianchi dalla lingua biforcuta non è mai la scelta migliore anche se sul breve appare la scelta più razionale.
 
 (**) https://lnkd.in/deZSMbFz, no 2nd place.
-
----
-
-### Money laundering reached its game over in Ukraine.
-
-https://www.linkedin.com/posts/p1st_korruption-rechenschaft-ukraine-activity-7337888850532327424-CZ0l
-
-Nearly 100 accountants in suits and ties landed in Kiev to begin a large-scale audit -- an audit -- of the use of American aid.
-And that this is not a courtesy visit is shown by the fact that the American State Department and the Treasury have booked the rooms in a Kiev luxury hotel for a whole month!
-
-Foreign Minister Rubio made it clear that the US wants to see a justification "for every cent that we have transferred from taxpayers' money", and it is of course only pure coincidence that exactly yesterday at the Romanian border the first member of the kleptocrat class who wanted to leave Kleptocratistan for Europe was arrested.
-
-Now, of course, nothing happens by chance in the international big stage, and the fact that after three years of war and hundreds of billions of sunk and burned taxes in this corruption, a whole company of accountants from the USA is now landing in Kiev, of course, is no coincidence either.
-
----
-
-UN PO' DI SELEZIONE NATURALE, INEVITABILE
-
-Con l'adozione in massa degli AI nei dispositivi mobili certi problemi andranno ad acuirsi però altri andranno a risolversi (migliore educazione, più veloce apprendimento, indipendenza dai programmi scolastici).
-
-Indubbiamente la tecnologia cambia il mondo, quindi cambia l'ambiente e il modo con cui ci rapportiamo con esso. Questo crea, inevitabilmente, una pressione evolutiva, sotto la quale alcuni individui cedono.
-
-Società e civiltà, sono i mezzi che usiamo per evitare di confrontarci con la brutale realtà, ed emanciparci da essa. Eppure, nonostante tutti gli sforzi collettivi NON siamo in grado di ignorare la realtà, così come non siamo capaci di ELIMINARE del tutto la selezione naturale.
-
-La ragione è abbastanza tautologica oppure da un punto di vista sistemico, integrata nel modello stesso che adoperiamo per emanciparci dalla realtà, tipo usando la tecnologia, oppure crearci delle reti sociali di amicizie, gruppi, etc.
-
-Senza sorpresa, quando facciamo ciò incontriamo due limiti: 1. cambiamo l'ambiente; 2. emanciparsi va bene ma alienarsi dalla realtà non va bene, però dov'è il confine? Perciò è inevitabile, che alcuni si spingano "oltre".
-
----
-
-LA TRAGEDIA DI CONFONDERE IL MEZZO CON IL FINE
-
-Che poi è anche il rapporto che vige fra "obbedire agli ordini" e la "disciplina". All'inizio obbedire agli ordini e aderire alle regole in modo fermo è necessario -- forse, ma comunque un modo universalmente usato -- per imparare la disciplina.
-
-Dopo però imparata, obbedire agli ordini dovrebbe diventare superfluo perché nel mentre si è anche divenuti abbastanza maturi da non aver bisogno di quel tipo di controllo da parte di altri. Invece, si crea un circolo vizioso nel quale lo STRUMENTO diventa il fine, invece di essere il mezzo per un obbiettivo più elevato.
-
-In questo banale esempio e nel suo perverso rapporto, possiamo cogliere nella sua profondità la follia del militarismo. D'altre era noto che gli Spartani fossero dei grandiosi eroi e dei fieri guerrieri ma se fosse stato per loro non avremmo mai avuto arte, poesia, letteratura e probabilmente nemmeno la scienza come attività intellettuale.
-
-Morale: stupidity kills.
-
----
-
-Se la stupidità uccide allora è un'agente della selezione naturale. Ma cos'è questo misterioso e incomprso fenomeno scoperto da Darwin? Intanto possiamo dire che cosa NON è la selezioen naturale e questa spiegazione ci è utile a capire come quel concetto venga usato per manipolare le menti deboli.
-
-La selezione naturale di Darwin, che nei suoi meccanismi fondamentali trova una lucida descrizione ne "Il Gene Egosita" (1976), non riguarda il singolo individuo la cui traiettoria di vita può essere anche fortemente alterata da accidenti o eventi casuali. Ma riguarda le specie, ovvero i gruppi di individui che sono geneticamente affini e però al contempo diversi.
-
-In realtà, la selezione naturale si applica anche ai cloni, come le banane, ma in maniera diversa e anzi proprio in questa differenza riusciamo a capire meglio sia la selezione naturale sia l'incidenza del caso. Il caso opera come il rumore bianco, ovvero è un fattore neutrale sul grande numero di occorrenze anche se dal punto di vista dell'individuo, l'accidente è qualcosa di ingiusto.
-
-Coloro che millantano che la selezione naturale privilegi l'individuo più forte o quello che meglio si adatta, parlano o della c.d. legge della Jungla (che non esiste, quindi è un mito ne bello ne buono) oppure di trasformismo sociale o opportunismo comportamentale (il mito del Gattopardo, tutto cambia perché nulla cambi, in effetti).
-
-Per quanto riguarda le banane, in quanto cloni di una sola pianta, sono comunque soggetti alla selezione naturale ma come singolo individuo distribuito. Il che rende la riproduzione per clonazione molto fragile, infatti diversi tipi di banane si sono estinti, anche se molto conveniente in termini energetici (non serve cercare un partner).
-
-L'uomo è una specie particolare perché basa il suo vantaggio evolutivo, rispetto ad altre specie animali, principalmente su due fattori: 
-
-- l'uso delle mani con pollice opponibile che ci permettono di usare in modo molto preciso ma anche con forza, molti e diversi strumenti
-
-- sull'intelletto (mente) che ci permette di manipolare idee (meme) sviluppare dei ragionamenti e comprendere relazioni di causa-effetto
-
-Si tenga conto che mente e cervello non stanno necessariamente nella relazione in cui funzionano software e hardware. La mente è più di un insieme di nozioni e algoritmi, ma trascuriamo questo aspetto, seppure essenziale e fondamentale, non ci è utile a comprendere invece le dinamiche più vicine a quello che sono le altre specie di mammiferi e quindi a comprendere il ruolo della selezione naturale.
-
-Occorre però sottolineare che a causa della specificità dell'essere umano, la mente di ogni individuo può essere vista come un entità che fa parte di un gruppo. Se all'interno di questo gruppo ci fosse una qualche forma di competizione, allora due sarebbero le direttrici principali che creano un significativo divario: l'intelligenze e l'informazione.
-
-Sono certo che avrete già sentito parlare di giochi ad assimetria informativa (o guerra assimetrica). Per contro, non vi stupirà leggere che l'omologazione sociale, crea cloni. Non come le banane, che sono dei cloni fisici, ma appiattisce la diversità delle menti costringendole in un unico schema, per esempio il pensiero unico.
-
-Quello che in genere viene chiamato il gregge, etc. dal quale ogni individuo vorrebbe distinguersi e nel quale ogni individuo vorrebbe adeguarsi per godere dei vantaggi del gruppo. Nei greggi di pecore in cui l'omologazione è percepita come uno svantaggio, diventano stormi di pappagalli, continuano a ripetere tutti la stessa cosa, ma ognuno sgargiante a modo suo. La società moderna e le sue estensioni tecnologiche sono la fiera dei pappagalli.
-
-Infine ritorniamo ancora sulla selezione naturale propriamente detta e però questa volta insieme a Darwin ci mettiamo anche gli studi sui piselli condotti da Mendel. Sotto questo nuovo punto di vista, vi sono due tipi di selezione:
-
-1. quella "naturale", quella dell'evoluzione delle specie di Darwin dove un gruppo di individui (specie, appunto) a causa del fatto che alcuni individui muoiano prima di trasmettere il loro specifico patrimonio genetico e quindi rendano gli individui della generazione successiva meno incline ad essere vittime di un certo cambiamento dell'ambiente. Le culture di Peltri dei batteri, a contatto con la penicillina mostravano appunto questo andamento: il 90% dei batteri moriva, quelli lontani dalla penicillina e quelli più resistenti, invece davano origine ad una generazione in cui la successiva iniezione di penicillina era meno impattante e quinid solo 85% moriva, e via così fino ad ottenere - in via teorica - batteri penicillina-resistenti, quelli che negli ospedali chiamano "super-batteri".
-
-2. quella "domestica", quella operata con lo stesso metodo di cui sopra ma dagli esseri umani che hanno trasformato il magnifico e indomito lupo in merdine psicolabili quali chiwawa e carlini.
-
-Non abbiamo solo addomesticato il lupo, ovvero modificato il cambiamento di un individuo e poi magari anche di una specie, per trasformare un potenziale pericolo e un concorrente nella caccia, in un operatore di sicurezza e un alleato nella caccia. Abbiamo alterato secondo il nostro gusto non solo la mente del lupo ma anche il suo corredo genetico. 
-
-Abbiamo creato non solo il cane ma anche delle razze con caratteristice molto peculiari e un corredo genetico relativamente limitato (pedegree) come animaletti da compagnia (tamagoci) che sebbene siano devastati da un punto di vista mentale perché sistematicamente e terrorizzati dalla loro inedaguetezza alla sopravivvenza percepita costantemente a causa dell'istinto, noi adoriamo perché sono buffi (nella forma e nel comportamento) e patologicamente dipendenti da noi.
-
-Qualunque lupo, canide indipendente e che tale voglia rimanere, e persona lucida di mente nonché compassionevole, terminerebbe questi obrori genetici nell'instante che li incontrasse. Che apparentemente potrebbe sembrare equivalente all'eliminazione degli handiccapati per rendere pura e forte la razza ariana ma NON è così. 
-
-Perché quella sarebbe eugentetica che è esattamente quello che facciamo per ottenere i carlini, accettando come "positivi" rispetto alla selezione che operiamo dei tratti che sono arbitrari e soggetti al nostro gusto ma affatto, anzi contrari, al benessere dell'individuo e della speicie. I carlini sono il prodotto di eugenetica.
-
-Mentre una persona handicappata è un accidente accaduto ad un individuo che se riguarda anche il suo patrimonio genetico è opportuno - quella specifica variante del gene o del cromosoma - non trasmettere alle future generazioni perché nessun genitore desidera trasmettere il gene della leucemia ai figli, questo mi pare ovvio.
-
-Quindi quando parliamo di selezione naturali c.d. Darwiniana, parliamo di un fenomeno molto complesso multi-dimensionale e che è trasversale a molte specie oltre ad avere almeno due piani operativi (meme vs gene) e almeno due modi di operare (naturale vs domestico).
-
-Perciò è molto facile che questo concetto sia manipolato per manipolare le persone creando in loro false aspettative sia in termini di vantaggi sia in termini di pericoli. Che poi, nella pratica, è un po' come la caccia alle streghe nel Medioevo: bruciare tutto quello che per la sua stranezza o superiorità ci incute timore, a prescindere che sia giusto o utile.
-
-Il sonno della ragione genera mostri e la banalità del male ci ha insegnato che essi - quasi sempre - hanno le rassicuranti sembianze tipiche dei carlini (anonimi burocrati e ligi servi dell'ordine costituito) piuttosto che dei lupi mannari (Vlad III di Valacchia, detto l'Impalatore).
 
 ---
 
@@ -865,7 +746,6 @@ Quando "servivano" o "servono" sono rispettabilissime controparti negoziali. Qui
 
 - Piuttosto che cambiare la morte!
 - Non vedo problemi, si può fare.
-
 
 Oltre al fatto che così come è improntata l'Unione Europea è un carrozzone inutile per gli europei che sfacciatamente è fuori traccia rispetto allo scopo originale che era costruire una federazione in stile elvetico fra i paesi dell'Europa occidentale.
 
@@ -969,8 +849,6 @@ La creatività (divergente) è l'intelligenza che si diverte (cit.)
 =-> https://lnkd.in/efKvFcWh (analisi di post)
 
 Il tutto spiegato facile che anche Gemini lo ha capito!
-
-LOL 🤣 
 
 //-->
 
