@@ -5,9 +5,9 @@
 
 ## WW3 simply explained, for dummies
 
-- 6th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- 7th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
-- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
+- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente:[post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
 ---
 
@@ -230,7 +230,39 @@ Draghi's 10 years of quantitative easing -- which kicked off the season of expan
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead. (cfr. [numbers & dates](#money-laundering-and-ukraine-default))
 
-+++++
+---
+
+### Israel vs Iran twelve days war
+
+Despite the Israel vs Iran conflicts was active for less of two weeks brought uncertainty in that region at unprecedent levels. The Trump intervention in defending Israel and settle the dispute about Iran nuclear war plan did not achieved transparency but wrapped the confusion around the US president person.
+
+> In time of war the first victim is the truth (cit.) - If a lie can start a war, then restablishing the truth is the necessary step for the peace (cit.)
+
+Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business. Under this PoV, while Israel attack against Iran killed many Khomeini regime's top players, the Iran attack which manage to pass trought the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proff can be seen into military-to-civilian suite-change in King Carlo personal meeting photos.
+
+The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers. Because of this, Trump to attack Iran nuclear facilities had to move around the globe some of these bombardiers otherwise out-of-the-range. Iran get acknoledged of these displacement, correctly identify it as the sign of an imment attack and remove the most valuable stuff from the Ferdow underground facility.
+
+Few days later the attack, FBI opened an investigation because the preliminary military assesment has leaked. That classifid file is claiming that Ferodow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed. The leak happen after Trump had claimed that attack was an overwhelming success. So, the assesment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attemp to jeopardise the Trump leadership.
+
+Let me you notice that while Iran can correctly anticipate a USA strategic attack by two days and promply reacting, on the other side of information machinery the U.S. presidence has to battler against the internal leaks of an assesment which would be supposed providing him informaiton not contrasting his public declarations.
+
+Obviously, Iran is confirming damages to the Ferodow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy. Moreover, Israel is mad about the Iran nuclear supposedely-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no any terrain drepression has been noticed but just dust on the surface.
+
+- 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
+
+In these twelves days of escalation Iran achieved three strategically victories behyond their own immagination despite the key men loss they have suffered:
+
+- 1. their missiles strikes shown to be able to saturate the Israel and American counter-measure;
+- 2. their balistic vectors travelling at Mach 15 with 2.600 km range shown to be deadly effective;
+- 3. their ability to close down the marine traffic into the Hormutz strait can stress also UAE.
+
+In combination with the Houti capacity of blocking the marine traffic in the Red Sea, increasing the logistic chan by two weeks, Iran can cut off the market about 30% of the world oil supply. The related energy price increase can strongly foster the U.S. consumer price inflaction putting the Trump precidency into a serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
+
+Everything considered, the Trump's desperate need of victory is not just a personal issue but a U.S. systemic need otherwise facing a complete lack of credibility and reliability which are the two main sign of a systemic default. After all, a every default happens sooner that the numbers accounting in a way that the default is unavoidable.
+
+Let me be clear about that: it is not a Trump fault but the historical american confusion between tatic and strategy, or tatic-as-a-strategy culture, or pocker-vs-chess-playing, or law-versus-justice confusion. (cfr. an [example](#the-difference-between-law-and-justice))
+
++
 ---
 |x|>
 WORKING IN PROGRESS
@@ -380,7 +412,40 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - Q2/2025 -- The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
 
++
+
+### The difference between law and justice
+
+It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
+
+Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference and let me briefly summarise few relevant aspects:
+
+- a law like the one included into artt. 1 and 36 of the Italian Constitution which defines the role of the work in our jurisdiction despite being clear and aligned with the justice (right) it is ignored, including safety at work.
+
+- a law can be out-of-justice (wrong) like those were persecuting Jews or black people (apartheid) but because socially accepted and enforced by authorities, they were applied and respected by all, even those who wished not.
+
+- no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
+
+It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
+
+In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+
+Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK)
+
+
 <!--
+
+Jun 24, 2025 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says
+
+https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6
+
+2025-06-25 -- The Pentagon has launched a criminal investigation into the leak of a classified Defense Intelligence Agency report assessing that damage to Iranian nuclear facilities from U.S. airstrikes didn’t significantly set back Tehran’s nuclear program.
+
+“We're doing a leak investigation with the FBI right now because this information is for internal purposes, battle damage assessments,” Defense Secretary Pete Hegseth said at the NATO summit on Wednesday. He added that press reports detailing the findings are meant to “spin it to make the president look bad when this was an overwhelming success.”
+
+Seated next to President Donald Trump, NATO chief Mark Rutte and Secretary of State Marco Rubio at the start of a day of meetings, Hegseth didn’t provide details of the investigation, but did confirm the classified intelligence assessment and its findings, saying its conclusions are “low confidence.” The comments came after both Trump and Rubio referred to the news reports as fake stories.
+
+https://www.politico.eu/article/us-pentagon-investigation-iran-intel-leak-pete-hegseth-donald-trump-rubio/
 
 2025-06-25 -- The Federal Bureau of Investigation has started a probe into how a preliminary intelligence assessment about U.S. military strikes in Iran became public, Defense Secretary Pete Hegseth said Wednesday morning.
 
@@ -423,27 +488,6 @@ https://edition.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuc
 
 ***
 
-THE DIFFERENCE BETWEEN LAW AND JUSTICE
-
-https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D (2025-06-24)
-
-It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
-
-Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference and let me briefly summarise few relevant aspects:
-
-- a law like the one included into artt. 1 and 36 of the Italian Constitution which defines the role of the work in our jurisdiction despite being clear and aligned with the justice (right) it is ignored, including safety at work.
-
-- a law can be out-of-justice (wrong) like those were persecuting Jews or black people (apartheid) but because socially accepted and enforced by authorities, they were applied and respected by all, even those who wished not.
-
-- no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
-
-It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
-
-In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
-
-Get deep into this topic reading this chat with Gemini:
-
-=-> https://lnkd.in/dPANsKeK
 
 ***
 
