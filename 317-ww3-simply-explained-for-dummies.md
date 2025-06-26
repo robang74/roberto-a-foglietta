@@ -7,7 +7,7 @@
 
 - 6th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
-- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #6](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
+- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente: [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
 ---
 
@@ -228,35 +228,9 @@ Draghi's 10 years of quantitative easing -- which kicked off the season of expan
 
 - News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](../data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.md#?target=_blank)
 
-...
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead. (cfr. [numbers & dates](#money-laundering-and-ukraine-default))
 
-#### How much money we are talking about?
-
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
-
-- **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
-
-- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
-
-- **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
-
-- **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
-
-...
-
-#### The AML events chain to the default
-
-- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
-
-- Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
-
-- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
-
-- Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
-
-- Q2/2025 -- The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
-
-+
++++++
 ---
 |x|>
 WORKING IN PROGRESS
@@ -274,7 +248,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
-...
+.....
 
 #### Un paio di retroscena a questa notizia
 
@@ -372,7 +346,82 @@ Se fosse una campagna di fango contro Stramer, allora è ben orchestrata -- [Alj
 
 Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
 
+++++
+
+### Money laundering and Ukraine default
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
+
+...
+
+#### How much money we are talking about?
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
+
+- **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
+
+- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
+
+- **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
+
+- **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
+
+...
+
+#### The AML events chain to the default
+
+- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
+
+- Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
+
+- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
+
+- Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
+
+- Q2/2025 -- The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
+
 <!--
+
+2025-06-25 -- The Federal Bureau of Investigation has started a probe into how a preliminary intelligence assessment about U.S. military strikes in Iran became public, Defense Secretary Pete Hegseth said Wednesday morning.
+
+The Wall Street Journal
+https://www.wsj.com/livecoverage/iran-israel-ceasefire-conflict-news/card/fbi-probing-leak-of-iran-strike-intelligence-report-hegseth-says-AjoWvf8RvvLvpKlhjP8J
+
+2025-06-25 -- The Pentagon’s Defense Intelligence Agency (DIA) told Al Arabiya English on Wednesday that an investigation has been launched into the leak of a classified assessment on the US strikes against Iran’s nuclear facilities, describing the report as “preliminary” and of “low-confidence.”
+
+https://english.alarabiya.net/News/middle-east/2025/06/25/pentagon-fbi-launch-probe-into-leaked-report-on-us-strikes-on-iran-s-nuclear-sites
+
+
+2025-06-22 -- Trump says US military ‘obliterated’ three key nuclear sites in Iran, including Fordow. “There will be either peace or there will be tragedy for Iran far greater than we have witnessed over the last eight days,” the US president said.
+
+https://english.alarabiya.net/News/middle-east/2025/06/22/us-bombs-three-nuclear-sites-in-iran-including-fordow-trump
+
+
+2025-06-23 -- Gli Stati Uniti hanno perso le tracce delle 409 chilogrammi di uranio arricchito dell'Iran. Dopo gli attacchi israeliani e americani del 13 giugno e del 21-22 giugno contro le principali strutture nucleari iraniane, Washington e i suoi alleati non sanno se il materiale fissile più pericoloso di Teheran sia stato distrutto dai bombardamenti o evacuato preventivamente in una destinazione ignota. Questo uranio, arricchito al 60% e custodito teoricamente sotto controllo dell'Agenzia internazionale per l'energia atomica (Aiea), rappresenta il cuore del programma nucleare iraniano perché se ulteriormente arricchito al 90% potrebbe essere utilizzato per produrre armi nucleari.
+
+https://www.wired.it/article/uranio-arricchito-iran-400-chili-spariti/
+
+March 12, 2021 -- The U.S. Military Is Missing Six Nuclear Weapons
+
+The 1996 John Woo film Broken Arrow features a quite memorable line – uttered by character actor Frank Whaley – “I don’t know what’s scarier, losing nuclear weapons, or that it happens so often there’s actually a term for it.” In fact, the term “Broken Arrow” does refer to the loss of a nuclear weapon and it has happened more than once.
+
+Between 1950 and 1980, there have been 32 documented nuclear weapon accidents that involve the unexpected accidental launching, firing, detonating, theft or loss of the weapon. To date, six U.S. nuclear weapons have been lost and shockingly never recovered. Below you will find a breakdown of the situations that lead to this shocking statistic.
+
+https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032
+
+https://taskandpurpose.com/history/us-military-nuclear-weapons-missing/
+
+
+2025-06-25 -- Exclusive: Early US intel assessment suggests strikes on Iran did not destroy nuclear sites, sources say. The US military strikes on three of Iran’s nuclear facilities last weekend did not destroy the core components of the country’s nuclear program and likely only set it back by months, according to an early US intelligence assessment that was described by seven people briefed on it.
+
+The assessment, which has not been previously reported, was produced by the Defense Intelligence Agency, the Pentagon’s intelligence arm. It is based on a battle damage assessment conducted by US Central Command in the aftermath of the US strikes, one of the sources said.
+
+The analysis of the damage to the sites and the impact of the strikes on Iran’s nuclear ambitions is ongoing, and could change as more intelligence becomes available. But the early findings are at odds with President Donald Trump’s repeated claims that the strikes “completely and totally obliterated” Iran’s nuclear enrichment facilities. Secretary of Defense Pete Hegseth also said on Sunday that Iran’s nuclear ambitions “have been obliterated.”
+
+https://edition.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites
+
+
+***
 
 THE DIFFERENCE BETWEEN LAW AND JUSTICE
 
