@@ -236,7 +236,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
 
-> When lie starts a war, re-establishing the truth is the necessary step for peace (cit.)
+> When lies start a war, re-establishing the truth is the necessary step for peace (cit.)
 
 > In time of war the first victim is the truth (cit.)
 
@@ -244,9 +244,9 @@ Well said but Israel vs Iran escalation did not show anything of that. The only 
 
 Under this PoV, while the Israel attack against Iran killed many Khomeini regime's top players, while the Iran attack which managed to pass through the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proof can be seen in military-to-civilian suite-change in King Carlo personal meeting photos.
 
-The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers.
+The other shocking news is about no-radiation-increase finding after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers.
 
-Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Fordow underground facility.
+Because of this, Trump to attack Iran nuclear facilities had to move some of them around the globe, because they were out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Fordow underground facility.
 
 Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed.
 
@@ -254,9 +254,9 @@ The leak happened after Trump had claimed that the attack was an overwhelming su
 
 Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
 
-Obviously, Iran is confirming damages to the Fordow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy.
+Obviously, Iran is confirming damages to the Fordow nuclear site because they know that saying anything different would imply to give solid proof and thus exposing highly sensitive information to the enemy. As long they are wrong, as long they are affected by an asymmetrical disadvantage.
 
-Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface. (cfr. [here](#how-to-analise-osint-war-information))
+Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because it is the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but dust on the surface. (cfr. [here](#how-to-analise-osint-war-information))
 
 [!INFO]
 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
@@ -284,7 +284,7 @@ The US is facing an intelligence deficit which, leveraged by technology, clearly
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
-Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise.Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restrictions scenarios.
+Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise. Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restrictions scenarios.
 
 ...
 
@@ -310,11 +310,17 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
-Israel has less or nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyau policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the David temple.
+The state of Israel has almost nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyahu policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the Solomon’s Temple (The Second Temple).
 
-Moreover, Israel has been created after WW2 to compensate Jews for the Shoaha letting them have their own country and they choose to move in Palestine to create Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoaha but forcing Jews to move to Madagascar.
+[!INFO]
+Some anti-Zionist rabbis in Israel, such as those from Neturei Karta, protest against the Israeli government, citing religious texts that they interpret as forbidding Jewish sovereignty over the land until the Messiah comes. These groups often reference the destruction of the Second Temple (70 CE) as a divine punishment that suspended Jewish political control. However, this view is a minority position in Judaism, and most Israeli Jews—including religious Zionists—disagree.
 
-Under this Pov, it seems that the UK managed to accomplish what was the Hitler's initial plan of letting them move in Palestine instead of forcing them to leave for Madagascar. Quite a curious choice because Madagascar is an island ten times larger than the Israel and Palestine lands and it offers a much better climate.
+**Long story short**: the conflict between ultra-Orthodox anti-Zionists and the state of Israel is real but complex and not just about the Temple.
+[/INFO]
+
+Moreover, Israel has been created after WW2 to compensate Jews for the Shoah letting them have their own country and they choose to move in Palestine to create the State of Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoah but forcing Jews to move in Madagascar.
+
+Under this Pov, it seems that the UK managed to accomplish what was the Hitler's initial plan by supporting them to leave for Palestine instead of forcing them to move in Madagascar. Quite a curious choice because Madagascar is an island ten times larger than the Israel and Palestine lands and it offers a much better climate.
 
 Trump is right in saying -- *they don't know what the f&ast;ck they're doing* -- but we are wondering the same about the UK and much time before they made Brexit. The same question would be asked about the US but it is a hopeless one: they are desperately trying to win something but we don't know WTF is that.
 
@@ -376,7 +382,7 @@ Many things can go wrong, so that solution can be a mere emergency backup while 
 
 After all, the Internet connection does not seem the main key apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster and darker.
 
-....
+...
 
 #### Gotcha shitfigher
 
@@ -502,7 +508,7 @@ Looking at this image, it is clear that even those who are not experts of milita
 
 Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
-+
+++++
 
 ### How to analise OSINT war information
 
