@@ -234,35 +234,35 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ### Israel vs Iran twelve days war
 
-Despite the Israel vs Iran conflicts was active for less of two weeks brought uncertainty in that region at unprecedent levels. The Trump intervention in defending Israel and settle the dispute about Iran nuclear war plan did not achieved transparency but wrapped the confusion around the US president person.
+Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
 
 > In time of war the first victim is the truth (cit.)
 
-> If a lie can start a war, restablishing the truth is the necessary step for the peace (cit.)
+> If a lie can start a war, re-establishing the truth is the necessary step for peace (cit.)
 
-Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business. Under this PoV, while Israel attack against Iran killed many Khomeini regime's top players, the Iran attack which manage to pass trought the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proff can be seen into military-to-civilian suite-change in King Carlo personal meeting photos.
+Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business. Under this PoV, while the Israel attack against Iran killed many Khomeini regime's top players, the Iran attack which managed to pass through the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proof can be seen in military-to-civilian suite-change in King Carlo personal meeting photos.
 
-The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers. Because of this, Trump to attack Iran nuclear facilities had to move around the globe some of these bombardiers otherwise out-of-the-range. Iran get acknoledged of these displacement, correctly identify it as the sign of an imment attack and remove the most valuable stuff from the Ferdow underground facility.
+The other shock news from this scenario is about the finding of no-radiation-increase after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers. Because of this, Trump to attack Iran nuclear facilities had to move around the globe, some of these bombardiers otherwise out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Ferdow underground facility.
 
-Few days later the attack, FBI opened an investigation because the preliminary military assesment has leaked. That classifid file is claiming that Ferodow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed. The leak happen after Trump had claimed that attack was an overwhelming success. So, the assesment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attemp to jeopardise the Trump leadership.
+Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed. The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump leadership.
 
-Let me you notice that while Iran can correctly anticipate a USA strategic attack by two days and promply reacting, on the other side of information machinery the U.S. presidence has to battler against the internal leaks of an assesment which would be supposed providing him informaiton not contrasting his public declarations.
+Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
 
-Obviously, Iran is confirming damages to the Ferodow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy. Moreover, Israel is mad about the Iran nuclear supposedely-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no any terrain drepression has been noticed but just dust on the surface.
+Obviously, Iran is confirming damages to the Fordow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy. Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface.
 
 - 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
 
-In these twelves days of escalation Iran achieved three strategically victories behyond their own immagination despite the key men loss they have suffered:
+In these twelves days of escalation Iran achieved three strategically victories beyond their own imagination despite the key men loss they have suffered:
 
-- 1. their missiles strikes shown to be able to saturate the Israel and American counter-measure;
-- 2. their balistic vectors travelling at Mach 15 with 2.600 km range shown to be deadly effective;
-- 3. their ability to close down the marine traffic into the Hormutz strait can stress also UAE.
+- 1. their missile strikes were shown to be able to saturate the Israel and American counter-measure;
+- 2. their ballistic vectors travelling at Mach 15 with 2.600 km range shown to be deadly effective;
+- 3. their ability to close down the marine traffic into the Hormuz strait can also stress the UAE.
 
-In combination with the Houti capacity of blocking the marine traffic in the Red Sea, increasing the logistic chan by two weeks, Iran can cut off the market about 30% of the world oil supply. The related energy price increase can strongly foster the U.S. consumer price inflaction putting the Trump precidency into a serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
+In combination with the Houthi capacity of blocking the marine traffic in the Red Sea, increasing the logistic chain by two weeks, Iran can cut off the market about 30% of the world oil supply. The related energy price increase can strongly foster the U.S. consumer price inflation putting the Trump presidency into serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
 
-Everything considered, the Trump's desperate need of victory is not just a personal issue but a U.S. systemic need otherwise facing a complete lack of credibility and reliability which are the two main sign of a systemic default. After all, a every default happens sooner that the numbers accounting in a way that the default is unavoidable.
+Everything considered, Trump's desperate need of victory is not just a personal issue but a U.S. systemic need otherwise facing a complete lack of credibility and reliability which are the two main signs of a systemic default. After all, every default happens sooner than the numbers accounting in a way that the default is unavoidable.
 
-Let me be clear about that: it is not a Trump fault but the historical american confusion between tatic and strategy, or tatic-as-a-strategy culture, or pocker-vs-chess-playing, or law-versus-justice confusion. (cfr. an [example](#the-difference-between-law-and-justice))
+Let me be clear about that: it is not a Trump fault but the historical American confusion between tactic and strategy, or tactic-as-a-strategy culture, or poker-vs-chess-playing, or law-versus-justice confusion (cfr. an [example](#the-difference-between-law-and-justice)). The US is facing an intelligence deficit which, leveraged by technology, clearly provides every other country a potential asymmetric advantage never existed before in modern times.
 
 +
 ---
