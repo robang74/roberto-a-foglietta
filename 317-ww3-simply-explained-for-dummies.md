@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-06-01:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-001.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch paleinv" src="img/317-ww3-simply-explained-for-dummies-img-001.jpg" width="800"><br></div>
 
 ## WW3 simply explained, for dummies
 
@@ -236,7 +236,9 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 Despite the Israel vs Iran conflicts was active for less of two weeks brought uncertainty in that region at unprecedent levels. The Trump intervention in defending Israel and settle the dispute about Iran nuclear war plan did not achieved transparency but wrapped the confusion around the US president person.
 
-> In time of war the first victim is the truth (cit.) - If a lie can start a war, then restablishing the truth is the necessary step for the peace (cit.)
+> In time of war the first victim is the truth (cit.)
+
+> If a lie can start a war, restablishing the truth is the necessary step for the peace (cit.)
 
 Well said but Israel vs Iran escalation did not show anything of that. The only great achievement of this escalation was to remove Zelensky from the war-as-a-show business. Under this PoV, while Israel attack against Iran killed many Khomeini regime's top players, the Iran attack which manage to pass trought the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proff can be seen into military-to-civilian suite-change in King Carlo personal meeting photos.
 
@@ -294,7 +296,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-+
+++++
 
 ### The drones attack to Russia nuclear facilities
 
@@ -378,7 +380,7 @@ Se fosse una campagna di fango contro Stramer, allora è ben orchestrata -- [Alj
 
 Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
 
-++++
++
 
 ### Money laundering and Ukraine default
 
@@ -417,6 +419,8 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 ### The difference between law and justice
 
 It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
+
+<div align="center"><img class="bwsketch paleinv" src="data/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
 
 Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference and let me briefly summarise few relevant aspects:
 
@@ -484,9 +488,6 @@ The assessment, which has not been previously reported, was produced by the Defe
 The analysis of the damage to the sites and the impact of the strikes on Iran’s nuclear ambitions is ongoing, and could change as more intelligence becomes available. But the early findings are at odds with President Donald Trump’s repeated claims that the strikes “completely and totally obliterated” Iran’s nuclear enrichment facilities. Secretary of Defense Pete Hegseth also said on Sunday that Iran’s nuclear ambitions “have been obliterated.”
 
 https://edition.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites
-
-
-***
 
 
 ***
@@ -929,6 +930,12 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 LOL 🤣 
 
 //-->
+
++
+
+## Related articles
+
+- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
 +
 
