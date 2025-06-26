@@ -256,7 +256,7 @@ Let me you notice that while Iran correctly managed to anticipate the USA strat
 
 Obviously, Iran is confirming damages to the Fordow nuclear site because they know saying anything different would imply to give solid proff and thus highly sensitive information to the enemy.
 
-Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface.
+Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because of the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but just dust on the surface. (cfr. [here](#how-to-analise-osint-war-information))
 
 [!INFO]
 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
@@ -314,11 +314,11 @@ Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](h
 
 ### The drones attack to Russia nuclear facilities
 
+<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-003.jpg" width="800"><br></div>
+
 [!INFO]
 Operation Spider's Web (Ukrainian: Операція «Павутина», romanized: Operatsija "Pavutyna") was a covert drone attack carried out by the Security Service of Ukraine (SBU) deep inside Russia on 1st June 2025, during the Russo-Ukrainian War. -- [Wikipedia](https://en.wikipedia.org/wiki/Operation_Spider%27s_Web)
 [/INFO]
-
-<div align="center"><img class="bwsketch" src="img/317-ww3-simply-explained-for-dummies-img-003.jpg" width="800"><br></div>
 
 The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
 
@@ -414,7 +414,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-...
+....
 
 #### The AML events chain to the default
 
@@ -460,6 +460,25 @@ Looking at this image, it is clear that even those who are not experts of milita
 
 Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
++
+
+### How to analise OSINT war information
+
+In times of war, information is precious but also at risk of being manufactured. Those that need to extract valuable conclusions from publicly available information have to follow the scientific method in which making hypotheses and cast speculations are part of a strictly ruled way of doing.
+
+For example, in the case of Fordow bombing, the absence of radioactivity leak and more than 3 meters terrain depression on a large are fitting into null-hypothesis: no damage. A delusional conclusion, despite the bombs doing their work perfectly and the hits were precise as they should have to be.
+
+Reasonably, even a nuclear detonation over the Fordow site might not manage to seriously damage its underground structure. Not even if a tactical nuclear explosion delivers the most of its shockwave to the surface. While including a nuclear warhead into a GBU-57 is not an easy task to achieve.
+
+This is a clear brute-force oriented approach which fails by its own design. Why? Because "hammering" something to destroy it, is based on the supposition about our current way of building structures and hence their common fragilities: flat cells suspended by robust pillars on large foundations.
+
+Iran is a country which was known in ancient times as Persia. Their concept of underground structures are way different than all the modern architectures. Just an example which is quick to grasp: Roman Colosseum and monumental aqueducts have lasted millenia despite their massive weights.
+
+The arch, the barrel ceiling, the domes, and similar structures are made to be as solid as their weight is heavy. A structure like that carved into rocks or embedded underground would as simply discharge the shockwave as if they were transparent while a modern structure would implode.
+
+This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- once developed a Mach 15 ballistic rocket technology and still have a deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
+
+This lead to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fits into recurrent players as per the games theory definition. Which leads to consider the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
 <!--
 
