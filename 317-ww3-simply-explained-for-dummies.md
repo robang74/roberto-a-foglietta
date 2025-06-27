@@ -326,7 +326,15 @@ Here we are again to stand against a country that initially was doing within the
 
 Do you need convincing proof? They agreed a cease-fire with Israel thanks to the Trump mediation and a few hours later they launched two missiles against Israel. Which formally broke the cease-fire agreement but in practice two missiles are too few to saturate the ground-to-air countermeasures and reach their targets. Israel reacts back with a jet fighters bombing capable attack which has been stopped by a Trump phone call, otherwise Iran would have known that the agreement was just another poker bluff to see and they call down two cards, in fact.
 
-- **TODO**: this section is going to be extended, WIP
+[!INFO]
+The only instances of nuclear weapons being used in combat were the atomic bombings of Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945) during World War II.
+[/INFO]
+
+Imagine that Israel would have dropped a nuke to Fordow surface -- whatever it would achieved its underground structure destruction or more probably resulting in a great pyrotechnical show -- that would break the implicit but unchallenged dogma for which nuclear weapons are forbidden as means for composing conflicts after the end of WW2.
+
+Moreover, it would have been an attack carried on by a non-compliant IAEA and non-proliferation nuclear thready state against another country which, instead, is still under that constrains within certain limits, at least. Moreover, without a direct existential threat not even as a response for a nuclear direct attack (reciprocity).
+
+Which fully explains why Trump lost his temper over it.
 
 ---
 
@@ -380,7 +388,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-....
+...
 
 ### The drones attack to Russia nuclear facilities
 
@@ -484,7 +492,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-....
+...
 
 #### The AML events chain to the default
 
@@ -530,7 +538,7 @@ Looking at this image, it is clear that even those who are not experts of milita
 
 Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
-+
+++++
 
 ### How to analise OSINT war information
 
