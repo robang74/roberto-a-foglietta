@@ -234,6 +234,10 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ### Israel vs Iran twelve days war
 
+[!INFO]
+For the sake of completeness, in this article for "**Israel**" is **always** intended specifically the "**State of Israel**" -- which at the time of writing is governed by Netanyahu precidency -- without contemplating any of the concepts behind it or any other way of intending it, including Israel as a nation.
+[/INFO]
+
 Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
 
 > When lies start a war, re-establishing the truth is the necessary step for peace (cit.)
@@ -328,13 +332,13 @@ Do you need convincing proof? They agreed a cease-fire with Israel thanks to the
 
 ### Few but relevant information about Israel
 
-The state of Israel has almost nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyahu policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the Solomon’s Temple (The Second Temple).
+The State of Israel has almost nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyahu policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the Solomon’s Temple (The Second Temple).
 
 [!INFO]
 Some anti-Zionist rabbis in Israel, such as those from Neturei Karta, protest against the Israeli government, citing religious texts that they interpret as forbidding Jewish sovereignty over the land until the Messiah comes. These groups often reference the destruction of the Second Temple (70 CE) as a divine punishment that suspended Jewish political control. However, this view is a minority position in Judaism, and most Israeli Jews—including religious Zionists—disagree.
 [/INFO]
 
-- **Long story short**: the conflict between ultra-Orthodox anti-Zionists and the state of Israel is real but complex and not just about the Temple.
+- **Long story short**: the conflict between ultra-Orthodox anti-Zionists and the State of Israel is real but complex and not just about the Temple.
 
 Moreover, Israel has been created after WW2 to compensate Jews for the Shoah letting them have their own country and they choose to move in Palestine to create the State of Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoah but forcing Jews to move in Madagascar.
 
@@ -480,7 +484,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-...
+....
 
 #### The AML events chain to the default
 
@@ -928,13 +932,13 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 
 //-->
 
-+++++
++
 
 ## Related articles
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+++++
++
 
 ## Share alike
 
