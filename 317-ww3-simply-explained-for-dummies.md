@@ -324,9 +324,9 @@ The state of Israel has almost nothing to do with Jews, and for those who have s
 
 [!INFO]
 Some anti-Zionist rabbis in Israel, such as those from Neturei Karta, protest against the Israeli government, citing religious texts that they interpret as forbidding Jewish sovereignty over the land until the Messiah comes. These groups often reference the destruction of the Second Temple (70 CE) as a divine punishment that suspended Jewish political control. However, this view is a minority position in Judaism, and most Israeli Jews—including religious Zionists—disagree.
-
-**Long story short**: the conflict between ultra-Orthodox anti-Zionists and the state of Israel is real but complex and not just about the Temple.
 [/INFO]
+
+- **Long story short**: the conflict between ultra-Orthodox anti-Zionists and the state of Israel is real but complex and not just about the Temple.
 
 Moreover, Israel has been created after WW2 to compensate Jews for the Shoah letting them have their own country and they choose to move in Palestine to create the State of Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoah but forcing Jews to move in Madagascar.
 
@@ -336,7 +336,7 @@ Trump is right in saying -- *they don't know what the f&ast;ck they're doing* --
 
 Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway! LOL
 
-+
+++++
 ---
 |x|>
 WORKING IN PROGRESS
@@ -518,7 +518,7 @@ Looking at this image, it is clear that even those who are not experts of milita
 
 Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
-++++
++
 
 ### How to analise OSINT war information
 
