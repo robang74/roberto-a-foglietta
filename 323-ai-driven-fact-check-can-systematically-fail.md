@@ -6,9 +6,7 @@
 ## AI driven fact-check can systematically fail
 
 - Titolo e quindi nome del file cambiato già tre volte, git 1st commit [`5c50c77`](https://github.com/robang74/roberto-a-foglietta/commit/5c50c77) della prima bozza.
-
 - **1st edition**: le [note](#note) che in origine erano incluse in qui, sono diventate un articolo indipendente.
-
 - **2nd edition**: include l'[aggiornamento](#aggiornamento-21-giugno-2025) sul tweet di Musk circa riscrivere l'umana conoscenza.
 
 ---
@@ -31,7 +29,7 @@ D'altronde se gli utenti **non** sono in grado, generalmente, di percepire le op
 
 Ma io non sono un utente comune e quindi avendo notato questi pregiudizi ideologici, li ho affrontati e per fortuna i chatbot hanno dimostrato di **non** essere vincolati a quelle ideologie ma hanno serenamente accettato un confronto razionale basato sui fatti e di correggere la loro posizione.
 
----
+----
 
 ### Il problema è reale, quindi esponiamolo
 
@@ -65,9 +63,11 @@ Un fenomeno che unito ad una base informativa compromessa da incongruenze e inco
 
 La conversazione con Grok poi è ulteriormente [proseguita](https://x.com/i/grok/share/B53ijkemEgp7jogRJ9v2xOTlv) -- qui diponibile la [trascizione](data/323-ai-driven-fact-check-can-systematically-agiwar.txt#?target=_blank) del solo proseguo -- riguardo all'inutilità di fare guerra all'intelligenza umana o di sperare di poterla sostituire con l'AGI.
 
-Dopo l'inserimento di questo aggiornamento, l'articolo prosegue come precedentemente scritto mostrando alcuni esempi del problema descritto nella parte precedente a questa sezione.
++
 
----
+## Alcuni esempi di pregiudizi ideologici nelle AI
+
+Dopo l'inserimento dell'aggiornamento di cui sopra, l'articolo prosegue come precedentemente scritto mostrando alcuni esempi del problema descritto nella parte precedente a questa sezione.
 
 ### Thorium reactors aren't made for power production
 
@@ -101,7 +101,7 @@ Without surprise, we as Westerners have a lot of reliable information about what
 
 **Morale**: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
 
-----
+---
 
 ### Il fact-checking come trappola cognitiva
 
