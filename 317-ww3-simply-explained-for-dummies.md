@@ -5,7 +5,7 @@
 
 ## WW3 simply explained, for dummies
 
-- 8th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
+- 9th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
 
 - Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente:[post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
 
@@ -215,7 +215,7 @@ The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was acc
 
 Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
 
----
+----
 
 ### Ukraine war: money laundering and its default
 
@@ -356,12 +356,38 @@ Trump is right in saying -- *they don't know what the f&ast;ck they're doing* --
 
 Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway!
 
+---
+
+### Iran as nuclear threat for Israel
+
+By the mainstream narrative, Iran weaponry enrichment grade program is delayed by some months. Which is reasonable because even if Fordow underground structure has not been damaged, an extensive check-out of it is required before move back instruments and material, for continue the operations. Unless, another underground site has been prepared in these years and it can continue the operations without any sensitive delay. An hypothesis that cannot be excluded considering that Iran, after 2018, progressively limited the IAEA inspections.
+
+Unfortunately, the reality can a even be less comfortable than this. As the China and Russia shown, non-Western countrie suffering our prejudice in dealing with them like full autonomous and rightful geopolitical player decided to strongly embrace science and technological advancement as a way to emancipate themselves from our prejudice and moral judgmentalism. As the China and Russia shown, obtaining pretty impressive results and Iran does not seem having did differently.
+
+What we can expect from Iran, then? Nothing less than what we have recently seen from others non-Western countries which challenged and on some degrees defeated what we can call "unchallenged dogmas" about science and engineering. Like using a special kind of steel instead of the expensive titanium for supersonic and hypersonic rockets. Or using the carbon fine-grained for producing high-quality steel at unprecedented fast-pace. Which is a news more facts-grounded than others like the steel-for-ipersonic-fly. 
+
+In creating nuclear warheads -- as shown by the laboratory incidents during the Manhattan project, and soon later the end of WW2 -- reaching the critical condition in which a neutron flow into the nuclear fuel can sustain itself or even exponentially increases, is not enough to create an explosion because the initial flare switch off itself due to the sharp thermal gradient that expand and change the geometry or rearrange the structure in a way in which the worst outcoming is the total melting of the core like in Chernobyl disaster.
+
+To create an explosion relatively **lot** a of mass should be converted in energy before the heat dissipation create such thermal and pressure gradient that put out of order the device that was supposed made the core exploding. Hence density, high-ratio of efficiency coefficient of neutrons rate increasing (above 1.5, at least) and extremely quick times are needed. In this scenario moderators, like water, or absorbers, like U-238, are such stuff to move out from the core, as per universal dogma.
+
+Because of this dogmas, the uranium isotope U-235 should be almost the only one allowed. More higher its is concentration, less Kg is require for reaching a critical explosive mass. While using tightly synchronized concentric explosion to increase the density, even for a very short time, allows to drop the 64Kg (Little-Boy) a 10Kg circa di quelle ad attivazione per implosione. Unchallenged dogmans and we cannot expect any support on this topic, even from DeepSeek Chinese chatbot.
+
+However U-238 is a competitive absorber because fast neutrons (> 1MeV) are the only way in which the explosion breed itself creating more neutrons at each generation. In fact, the U-235 naturally emits fast neutrons within 1MeV and 2MeV range with a symmetric distribution centered on 1.5MeV emission peek. The cross section -- hence the probability of a fission into a U-235 + N event -- increases by 584 x 93% = 540 times, when a fast neutron slows down and become a thermal neutron near-zero.
+
+The neutrons moderation takes 18-20 hits which is a too slow process for creating an explosion but fine for producing energy on a stable and controllable way like in the nuclear reactors, but kill any hope for "explosion". The loss of energy by a series of hits, among two object which have nearly the same mass, follow the rule of 50% each hit. In fact, 1MeV / 2^20 = 1eV. So, in an a nuclear explosion fast neutrons can be hit a U-235 atom creating a fission and a neutron emission, or be absorbed by a U-238 atom or be reflected back by the deflector or get lost escaping from the system, altogether.
+
+- **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% more probable path for an U-235+N prolif event. Not so much but enough get above the 1.5 in the N-to-N increment rate like in a weaponary-full grade enriched nuclear fuel.
+
+This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that it can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needd for squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the NTP treaty.
+
 +
 ---
 |x|>
 WORKING IN PROGRESS
 <|x|
 ---
++
++
 +
 
 ### Kellogg declarations, press coverage
@@ -388,7 +414,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-...
+....
 
 ### The drones attack to Russia nuclear facilities
 
@@ -492,7 +518,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-...
+....
 
 #### The AML events chain to the default
 
@@ -538,7 +564,7 @@ Looking at this image, it is clear that even those who are not experts of milita
 
 Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
 
-++++
++
 
 ### How to analise OSINT war information
 
@@ -940,13 +966,13 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 
 //-->
 
-+
++++++
 
 ## Related articles
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+
++++++
 
 ## Share alike
 
