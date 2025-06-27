@@ -280,7 +280,7 @@ The US is facing an intelligence deficit which, leveraged by technology, clearly
 
 ---
 
-### They don't know what the f&ast;ck they're doing
+### Israel vs Iran seen from Europe
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
@@ -310,11 +310,19 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
-However, the idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2.600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively drop it, is a **must to have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
+The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2.600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively drop it, is a **must to have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
 
-Anyway, here we are again to stand against a country that initially was doing within the international rules, decided to progressively doing differently observing that others aren't following the same rules they have to, achieving some scaring technological breakthroughs which has been challenged in a war and once these technological breakthroughs shown to be effective, join the VIP club of the geopolitical club.
+---
+
+### They don't know what the f&ast;ck they're doing
+
+- The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
+
+Here we are again to stand against a country that initially was doing within the international rules, decided to progressively doing differently observing that others aren't following the same rules they have to, achieving some scaring technological breakthroughs which has been challenged in a war and once these technological breakthroughs shown to be effective, join the VIP club of the geopolitical club.
 
 Do you need convincing proof? They agreed a cease-fire with Israel thanks to the Trump mediation and a few hours later they launched two missiles against Israel. Which formally broke the cease-fire agreement but in practice two missiles are too few to saturate the ground-to-air countermeasures and reach their targets. Israel reacts back with a jet fighters bombing capable attack which has been stopped by a Trump phone call, otherwise Iran would have known that the agreement was just another poker bluff to see and they call down two cards, in fact.
+
+- **TODO**: this section is going to be extended, WIP
 
 ---
 
@@ -334,9 +342,9 @@ Under this Pov, it seems that the UK managed to accomplish what was the Hitler's
 
 Trump is right in saying -- *they don't know what the f&ast;ck they're doing* -- but we are wondering the same about the UK and much time before they made Brexit. The same question would be asked about the US but it is a hopeless one: they are desperately trying to win something but we don't know WTF is that.
 
-Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway! LOL
+Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway!
 
-++++
++
 ---
 |x|>
 WORKING IN PROGRESS
@@ -368,7 +376,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-...
+....
 
 ### The drones attack to Russia nuclear facilities
 
@@ -920,13 +928,13 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 
 //-->
 
-+
++++++
 
 ## Related articles
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+
++++++
 
 ## Share alike
 
