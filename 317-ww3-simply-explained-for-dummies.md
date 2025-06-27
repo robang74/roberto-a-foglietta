@@ -215,7 +215,7 @@ The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was acc
 
 Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
 
-----
+---
 
 ### Ukraine war: money laundering and its default
 
@@ -376,7 +376,7 @@ However U-238 is a competitive absorber because fast neutrons (> 1MeV) are the o
 
 The neutrons moderation takes 18-20 hits which is a too slow process for creating an explosion but fine for producing energy on a stable and controllable way like in the nuclear reactors, but kill any hope for "explosion". The loss of energy by a series of hits, among two object which have nearly the same mass, follow the rule of 50% each hit. In fact, 1MeV / 2^20 = 1eV. So, in an a nuclear explosion fast neutrons can be hit a U-235 atom creating a fission and a neutron emission, or be absorbed by a U-238 atom or be reflected back by the deflector or get lost escaping from the system, altogether.
 
-- **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% more probable path for an U-235+N prolif event. Not so much but enough get above the 1.5 in the N-to-N increment rate like in a weaponary-full grade enriched nuclear fuel.
+- **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% (due to an increased cross section and almost near-zero U-238 absorption rate) more probable path for an U-235+N prolif event. Not so much but enough to get above the 1.5 in the N-to-N increment rate like in a nearly weaponry full-grade enriched nuclear fuel.
 
 This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that it can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needd for squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the NTP treaty.
 
@@ -400,7 +400,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
-...
+....
 
 #### Un paio di retroscena a questa notizia
 
@@ -414,7 +414,7 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
-....
+...
 
 ### The drones attack to Russia nuclear facilities
 
@@ -504,7 +504,7 @@ Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco otte
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
 
-...
+....
 
 #### How much money we are talking about?
 
@@ -518,7 +518,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
 
-....
+...
 
 #### The AML events chain to the default
 
