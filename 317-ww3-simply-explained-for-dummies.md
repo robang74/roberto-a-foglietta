@@ -380,7 +380,7 @@ The neutron's moderation takes 18-20 hits which is a too slow process for creati
 
 This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needed to squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the NPT treaty.
 
-That's all folks about why we should not underestimate Iran did not buy the cease-fire for giving US/Israel more time to better prepare the next war, but they bought time for their own nuclear weapon construction?
+That's all folks about why we should not underestimate Iran did not buy the cease-fire for giving US/Israel more time to better prepare for the next war, but they bought time for their own nuclear weapon construction.
 
 +
 ---
