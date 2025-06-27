@@ -310,6 +310,16 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
+However, the idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2.600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively drop it, is a **must to have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
+
+Anyway, here we are again to stand against a country that initially was doing within the international rules, decided to progressively doing differently observing that others aren't following the same rules they have to, achieving some scaring technological breakthroughs which has been challenged in a war and once these technological breakthroughs shown to be effective, join the VIP club of the geopolitical club.
+
+Do you need convincing proof? They agreed a cease-fire with Israel thanks to the Trump mediation and a few hours later they launched two missiles against Israel. Which formally broke the cease-fire agreement but in practice two missiles are too few to saturate the ground-to-air countermeasures and reach their targets. Israel reacts back with a jet fighters bombing capable attack which has been stopped by a Trump phone call, otherwise Iran would have known that the agreement was just another poker bluff to see and they call down two cards, in fact.
+
+---
+
+### Few but relevant information about Israel
+
 The state of Israel has almost nothing to do with Jews, and for those who have some doubts about that, they should ask those Rabbis living in Israel protesting against Netanyahu policy about Gaza. Those Rabbs have been beaten by the Israel police because they were claiming that the Bible indicates that Jews have no right on that land after the destruction of the Solomon’s Temple (The Second Temple).
 
 [!INFO]
@@ -527,6 +537,16 @@ The arch, the barrel ceiling, the domes, and similar structures are made to be a
 This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- once developed a Mach 15 ballistic rocket technology and still have a deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
 
 This lead to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fits into recurrent players as per the games theory definition. Which leads to consider the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
+
++
+
+### The US foreign diplomacy's failure
+
+Is it surpringin? Not at all, because like in the far-west those who do not have a gun or are ready to use it in defending their own self-interests were at the mercy of the others. I think that native americans confined to reserves can tell you about it in a pretty convincing way. So, the Iran crisis is nothing else than another chapter of the poker-face-as-diplomacy combined with winning-card-or-gun-duel as a universal negotiation strategy.
+
+Trump saying that Spain will pay double tariff because they did not sign for the military expenditure increase, is a pretty clear example of this posture. And again, it is not a Trump fault, instead thanks to Trump finally we see in plain view what it was the US foreign posture since Wolfowitz doctrine has been officially adopted (1992). Trump might wish to replace the doctrine but I would not succeed unless he clearly shows what Wolfowitz idea is working in the real-world.
+
+We all, need to expose how much wrong things are before asking others to accepting to change them. False. Nobody requires an authorisation to change wrong things not even others people acceptance. Within the above conceptual framework, anyone who have the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still need to create the proper condition to defend his decision in front of the Congress and his nation.
 
 <!--
 
