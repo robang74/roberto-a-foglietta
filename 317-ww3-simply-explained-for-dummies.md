@@ -578,6 +578,8 @@ In times of war, information is precious but also at risk of being manufactured.
 
 For example, in the case of Fordow bombing, the absence of radioactivity leak and more than 3 meters terrain depression on a large are fitting into null-hypothesis: no damage. A delusional conclusion, despite the bombs doing their work perfectly and the hits were precise as they should have to be.
 
+<div align="center"><img class="bwsketch" src="data/317-fordow-photos-before-after-bombing.jpg" width="800"><br></div>
+
 Reasonably, even a nuclear detonation over the Fordow site might not manage to seriously damage its underground structure. Not even if a tactical nuclear explosion delivers the most of its shockwave to the surface. While including a nuclear warhead into a GBU-57 is not an easy task to achieve.
 
 This is a clear brute-force oriented approach which fails by its own design. Why? Because "hammering" something to destroy it, is based on the supposition about our current way of building structures and hence their common fragilities: flat cells suspended by robust pillars on large foundations.
