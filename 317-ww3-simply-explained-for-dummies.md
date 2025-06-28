@@ -5,9 +5,7 @@
 
 ## WW3 simply explained, for dummies
 
-- 9th draft -- **WORKING IN PROGRESS** -- This article's content might change radically or its way of reading. Hence, stay tuned because every update can reveal a kind of surprise and the best is to come, yet.
-
-- Articolo iniziato a scrivere ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) da vari post pubblicati su LinkedIn e Facebook la settimana precedente:[post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30)
+- This article has been written starting from several posts published on LinkedIn and Facebook, weeks before and collected into ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) -- [post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30) -- it took nine drafts, each adding a new topic, to reach the first edition.
 
 ---
 
@@ -383,9 +381,17 @@ This is a theoretical example about how to challenge the "dogmatic" way of creat
 That's all folks about why we should not underestimate Iran did not buy the cease-fire for giving US/Israel more time to better prepare for the next war, but they bought time for their own nuclear weapon construction.
 
 +
+
+## Conclusion
+
+From the point of view of a wo/man on the beach who stands up in front of the ocean, by the naked eyes the Earth can reasonably seem flat. Indeed, it is round. Therefore, what we put around goes around.
+
+Karma, isn't it?
+
+++++
 ---
 |x|>
-WORKING IN PROGRESS
+NOTES AND FURTHER INFORMATION
 <|x|
 ---
 +
@@ -400,7 +406,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
 
-....
+...
 
 #### Un paio di retroscena a questa notizia
 
@@ -504,7 +510,7 @@ Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco otte
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
 
-....
+...
 
 #### How much money we are talking about?
 
@@ -966,13 +972,13 @@ Il tutto spiegato facile che anche Gemini lo ha capito!
 
 //-->
 
-+++++
++
 
 ## Related articles
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-+++++
++
 
 ## Share alike
 
