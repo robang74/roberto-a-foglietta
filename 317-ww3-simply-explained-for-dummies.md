@@ -27,15 +27,15 @@ The turning point arrived with the Putin' speech at the Munich Security Conferen
 
 Soon after that speech US funded NGOs started to infiltrate the Ukraine society with the aim of influencing the political context. Looking at those past times, we can recognise it but at that time it was not so obvious. Only recently documents emerged by the U.S. archives that a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
 
-In that same year the subprime loans bubble exploded and soon after the burst reached Europe. Under this point of view, it is worth to notice that there is no any way that aany country can apply fro joining the NATO by their own governemnt decision. But **only** by an official and explicit invitation from USA becuase this is the **only** procedure allowed among NATO to expand their obbligations over other countries.
+In that same year the subprime loans bubble exploded and soon after the burst reached Europe. Under this point of view, it is worth noting that there is no way that any country can apply for joining NATO by their own government decision. But **only** by an official and explicit invitation from USA because this is the **only** procedure allowed among NATO to expand their obligations over other countries.
 
 Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA, and it still seems to be the case today.
 
 - 2025-06-24 -- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
 
-Anyway, back to the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
+Anyway, back when the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
-Morever, the Dombass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also removed by law the right to use Russian language as the second official language of Ukraine.
+Moreover, the Dumbass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also removed by law the right to use Russian language as the second official language of Ukraine.
 
 [!INFO]
 The Minsk agreements are a pair of agreements aimed at ending the war in the Donbas region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
@@ -45,7 +45,7 @@ Unfortunately, the Misk agreements were not going to settle the Ukraine case whi
 
 In fact, Ukraine after having accepted to give back to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was consistently supported by Russia which was paying relatively good fees for gas transfer in Europe passing through Ukraine and buying their public debts as much as they were in need.
 
-Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercitation that NATO did at that time.
+Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercise that NATO did at that time.
 
 [!INFO]
 In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
@@ -67,9 +67,9 @@ This event broke down all resistance in Angela Merkel to speak out about the nat
 
 The propaganda machine combined with the so called "fact-checking" machine were at their full functioning power in marginalising and supprensing every dissent around the fairy tale for which there was an attacker and an attacked. The same litany repeated by Meloni at her last meeting with Trump which led her interpreter to fall in confusion.
 
-Back to 2022 Spring, while Mario Draghi the ex-EBC director was proposing his personal dilemma to Italians -- kepp the air-conditioner up running or see the end of the war -- in Russia they were managed to pass through the repentine fall of the Rublo value -- the finantial shock that supposedely should have brought in bankrupty Russia -- and they were setting up their economy for a long-terms war with the opposite of Draghi's recipe and also the opposite Italy's recipe.
+Back to 2022 Spring, while Mario Draghi the ex-EBC director was proposing his personal dilemma to Italians -- keep the air-conditioner up running or see the end of the war -- in Russia they were managed to pass through the repentine fall of the Rublo value -- the financial shock that supposedly should have brought in bankruptcy Russia -- and they were setting up their economy for a long-terms war with the opposite of Draghi's recipe and also the opposite Italy's recipe.
 
-They decided to raise the wages even more than before. It is worth noticing that in the previous two decades since the first Putin precidency, all the wages in Russia were increasing on average more than the Rublo inflaction and soon after the UA-RU military hostility begun even more. They moved their positive commercial balance into wages and do-by-themselves thus heavily investing in their own domestic instrial production fulfilling all the positions left open from the Western companies that were leaving Russia.
+They decided to raise the wages even more than before. It is worth noticing that in the previous two decades since the first Putin presidency, all the wages in Russia were increasing on average more than the Ruble inflation and soon after the UA-RU military hostility began even more. They moved their positive commercial balance into wages and do-by-themselves thus heavily investing in their own domestic industrial production fulfilling all the positions left open from the Western companies that were leaving Russia.
 
 - [Primo maggio, festa dei lavoratori](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
 
@@ -93,21 +93,21 @@ Despite all these abrupt changes, the UA-RU conflict was still in progress with 
 
 It is important to understand that Ukrainian like Russian Winter is extremely rigid compared with those many other geographical location experiments. Keeping a siege to a largely and relatively densely inhabited city like Kyviv can cause a huge loss of military or a huge loss of civilians, depending how fast and brutal is the siege and related conquest of the city.
 
-Considering that Russian people perceive Ukrainins people peers in culture and in 2017, vice versa was still largely common, the idea of many deaths among civilians was unacceptable as much as troop large losses. Under this PoV an apparently solid promise to sign a peace agreement within the nearly coming G20 consess was very appealing, not only for Kyviv but also for Russia.
+Considering that Russian people perceive Ukrainian people as peers in culture and in 2017, vice versa was still largely common, the idea of ​​many deaths among civilians was unacceptable as much as too large military losses. Under this PoV an apparently solid promise to sign a peace agreement within the nearly coming G20 meeting was very appealing, not only for Kyviv but also for Russia.
 
 Despite all of these, Russia kept their position in the Ukraine war. Despite after elections Trump radically changed foreign policy, deeply changed the Biden administration, and cut down the US foreign aid program doomed to die from the propaganda and false fact-checking machines, the political heritage of the Biden administration in Europe and UK were still supporting Zelensky and his laundering machine war.
 
 [!INFO]
-On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes—dubbed Operation “Spider's Web”—damaged or destroyed 34 percent of Russia's strategic cruise missile–carrying bomber fleet. (report & analisys [here](#the-drones-attack-to-russia-nuclear-facilities))
+On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes—dubbed Operation “Spider's Web”—damaged or destroyed 34 percent of Russia's strategic cruise missile–carrying bomber fleet. (report & analysis [here](#the-drones-attack-to-russia-nuclear-facilities))
 [/INFO]
 
 Thus, nothing changed until the Zelensky's best hit against Russia costed him the definitive loss of the war. Due to the fact these weapons are wether exposed instead of kept safely and hidden in hangars because a global non-nuclear proliferation thready. Which also implies that no any country should leverage this exposition for attacking these infrastructures which are by the thready doomed to disappear due to their aging. A reasonably smooth way to free the world from the self-mutual global nuclear destruction.
 
-With that attack Ukraine violated one of the most universally respected thredy. Probably the **only** one and the last one that has always been universally respected on a global scale. Without any doubts because of a **very** good reason, after all.
+With that attack Ukraine violated one of the most universally respected treaties. Probably the **only** one and the last one that has always been universally respected on a global scale. Without any doubts because of a **very** good reason, after all.
 
-At that point every reasonable hope about the Ukraine war was lost. Thus Trump managed to force Zelensky to sign an agreement that obbligate -- under certain specific circumstances -- the Ukraine to pay back the whole amount of financial support for the war against Russia. This is the point in which Europe became the US primary target, instead of Russia. While Russia, slowly but inevitably, is going to conquer the whole Ukraine as anticipated by Putin who claimed that Ukraine is part of Russia, de-facto.
+At that point every reasonable hope about the Ukraine war was lost. Thus Trump managed to force Zelensky to sign an agreement that is obligating -- under certain specific circumstances -- the Ukraine to pay back the whole amount of financial support for the war against Russia. This is the point in which Europe became the US primary target, instead of Russia. While Russia, slowly but inevitably, is going to conquer the whole Ukraine as anticipated by Putin who claimed that Ukraine is part of Russia, de-facto.
 
-At this point, the proposal to surrender to Russia in exchange of the Lviv metropolitan area for the sake of Poland and give 10 years to Ukraine under the Russia control to recover from the hate and mourning of the deaths in war -- plus a necessarily denazification of their culture and military troops -- does not sound so much weird, but something that would have been inevitable and could have been happened in advance sparing a lot of lives and sufferences.  With the granted advantage of bringing Lviv into a soon-to-join Europe condition.
+At this point, the proposal to surrender to Russia in exchange of the Lviv metropolitan area for the sake of Poland and give 10 years to Ukraine under the Russia control to recover from the hate and mourning of the deaths in war -- plus a necessarily denazification of their culture and military troops -- does not sound so much weird, but something that would have been inevitable and could have been happened in advance sparing a lot of lives and suffering. With the granted advantage of bringing Lviv into a soon-to-join Europe condition.
 
 ---
 
@@ -125,11 +125,11 @@ We might wonder it can be a choice for avoid a confrontation language, thus repl
 
 > It highlights that the conflict is happening in relation to or involving Russia, rather than simply being directed at Russia as a passive target. (Gemini)
 
-However, there is another explanation for having used "**with**" as a correct translation of revealing "**involving**" bespoken by Keith Kellogg: Russia in involved in a proxy-war not against Russia, but with Russia, against Europe and in particular the European Union, and in particular the Euro which is the **only** fiat-currency that can be compete with the US dollar for supporting the international trades and a global financial reserve of liquidity.
+However, there is another explanation for having used "**with**" as a correct translation of revealing "**involving**" bespoken by Keith Kellogg: Russia in involved in a proxy-war not against Russia, but with Russia, against Europe and in particular the European Union, and in particular the Euro which is the **only** fiat-currency that can compete with the US dollar for supporting the international trades and a global financial reserve of liquidity.
 
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order:
+Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order:
 
 - 1999-01-01 -- Euro became an official currency controlled and emitted by European Central Bank;
 
@@ -163,7 +163,7 @@ A 30 pages essay that has been completed at the end of May 2025 thus it has been
 Ursula von der Leyen’s idea of exposing people to deliberately created fake-news to build resistance aligns closely with the concept of psychological inoculation or "pre-bunking". The idea is to expose people to simplified (aka meme) and deliberately misinformation to teach them how it works.
 [/INFO]
 
-Unfortunately the pre-bunking approach can conversely used to made the population more resistant to the facts-driven fact-checking in favour of a propaganda-driven fact-checking as shown in this article in which a common person would not be able to argue but passively assimilate the baised notions provided by the AI, as an example of propaganda-driven misinformation provider.
+Unfortunately the pre-bunking approach can conversely used to made the population more resistant to the facts-driven fact-checking in favour of a propaganda-driven fact-checking as shown in this article in which a common person would not be able to argue but passively assimilate the biased notions provided by the AI, as an example of propaganda-driven misinformation provider.
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
 
@@ -171,7 +171,7 @@ Or this example [here](#how-misinformation-leads-to-blind-obey) reported. Both o
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and comdannation in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercisitation on full scale.
+Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and conviction in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercise on full scale.
 
 ---
 
@@ -183,23 +183,23 @@ We can also agree that the U.S. has an historical attitude to playing poker on m
 
 Considering these premises, how the table has turned in favor of Russia explained in 2nd-last section and the facts interpretation proposed in the last section, we can agree that once taken the most from Ukraine and then left behind as a problem for Russia, the next goal would be leverage the Biden's era European leadership to squeeze the most from Europe. How?
 
-What's the best way to move from "**against**" to "**with**" Russia and send them an "you too involved" message by the Keith Kellogg words and by the "Times of India" columns in order to leverage the fear of a Soviet-like invasion of the Europe? Nowadays, Russia is going to take Ukraine but who can grant us that they will stop there?
+What's the best way to move from "**against**" to "**with**" Russia and send them an "you too involved" message by the Keith Kellogg words and by the "Times of India" columns in order to leverage the fear of a Soviet-like invasion of Europe? Nowadays, Russia is going to take Ukraine but who can grant us that they will stop there?
 
 Curiously, we as Europeans are keen to think that Russians are thinking like we were thinking. If Russia would have left us to take Ukraine and include it into NATO, building up military bases and bio-weapons laboratories, who would have granted them that the next step would not have been attacking Russia? Like Ukraine did with European military support, as Kellogg admitted?
 
 Our worst nightmare is that others are like us, thinking like us and are going to behave like us. Which is not unfair, after all as Putin said: they tried to strangle us, it is time to show them some kind of reciprocity. Does reciprocity sound very dangerous? Welcome aboard Game's Theory students!
 
-The fear of being invaded will let us be squeezed by a more 3% of our GDP in buying weapons. When nations buy weapons in large quantities they should use them otherwise politicians should face the shame of having wasted a lot of public money. The sunk-cost fallacy, right?
+The fear of being invaded will let us be squeezed by more than 3% of our GDP in buying weapons. When nations buy weapons in large quantities they should use them otherwise politicians should face the shame of having wasted a lot of public money. The sunk-cost fallacy, right?
 
 Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts. It is amazing how some people can think that we **all** are a bunch of idiots that can hopelessly fall again and again into the same rat-traps just because it is presented in a different shape or color.
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
-Please, tell me we are not going to fall in it again!? Well, same heades, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between the two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
+Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between the two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
 
-Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus those which casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet.
+Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus that casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet.
 
 ---
 
@@ -211,7 +211,7 @@ The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was acc
 
 - `$308K x 340M = $104.7 x 10^3 (KxM) = $104.7 x 10^(3+3+6) = $104.7 x 10^12 = $104.7T`
 
-Which is an astinionishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
+Which is an astonishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
 
 ---
 
@@ -233,7 +233,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 ### Israel vs Iran twelve days war
 
 [!INFO]
-For the sake of completeness, in this article for "**Israel**" is **always** intended specifically the "**State of Israel**" -- which at the time of writing is governed by Netanyahu precidency -- without contemplating any of the concepts behind it or any other way of intending it, including Israel as a nation.
+For the sake of completeness, in this article for "**Israel**" is **always** intended specifically the "**State of Israel**" -- which at the time of writing is governed by the Netanyahu presidency -- without contemplating any of the concepts behind it or any other way of intending it, including Israel as a nation.
 [/INFO]
 
 Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
@@ -254,11 +254,11 @@ Few days after the attack, the FBI opened an investigation because the prelimina
 
 The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump leadership.
 
-Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
+Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
 
 Obviously, Iran is confirming damages to the Fordow nuclear site because they know that saying anything different would imply to give solid proof and thus exposing highly sensitive information to the enemy. As long they are wrong, as long they are affected by an asymmetrical disadvantage.
 
-Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because it is the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but dust on the surface. (cfr. [here](#how-to-analise-osint-war-information))
+Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because it is the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but dust on the surface. (cfr. [here](#how-to-analyze-osint-war-information))
 
 [!INFO]
 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
@@ -316,7 +316,7 @@ The idea that Iran can achieve the nuclear bomb and they are capable of mounting
 
 ---
 
-### They don't know what the f&ast;ck they're doing
+### They don't know what the f*ck they're doing
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
@@ -330,7 +330,7 @@ The only instances of nuclear weapons being used in combat were the atomic bombi
 
 Imagine that Israel would have dropped a nuke to Fordow surface -- whatever it would achieved its underground structure destruction or more probably resulting in a great pyrotechnical show -- that would break the implicit but unchallenged dogma for which nuclear weapons are forbidden as means for composing conflicts after the end of WW2.
 
-Moreover, it would have been an attack carried on by a non-compliant IAEA and non-proliferation nuclear thready state against another country which, instead, is still under that constrains within certain limits, at least. Moreover, without a direct existential threat not even as a response for a nuclear direct attack (reciprocity).
+Moreover, it would have been an attack carried on by a non-compliant IAEA and non-proliferation nuclear treaty state against another country which, instead, is still under those constraints within certain limits, at least. Moreover, without a direct existential threat not even as a response for a nuclear direct attack (reciprocity).
 
 Which fully explains why Trump lost his temper over it.
 
@@ -346,11 +346,11 @@ Some anti-Zionist rabbis in Israel, such as those from Neturei Karta, protest ag
 
 - **Long story short**: the conflict between ultra-Orthodox anti-Zionists and the State of Israel is real but complex and not just about the Temple.
 
-Moreover, Israel has been created after WW2 to compensate Jews for the Shoah letting them have their own country and they choose to move in Palestine to create the State of Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoah but forcing Jews to move in Madagascar.
+Moreover, Israel has been created after WW2 to compensate Jews for the Shoah letting them have their own country and they choose to move in Palestine to create the State of Israel supported by the UK. It is worth noting that Hitler initial plan was not about Shoah but forcing Jews to move to Madagascar.
 
-Under this Pov, it seems that the UK managed to accomplish what was the Hitler's initial plan by supporting them to leave for Palestine instead of forcing them to move in Madagascar. Quite a curious choice because Madagascar is an island ten times larger than the Israel and Palestine lands and it offers a much better climate.
+Under this Pov, it seems that the UK managed to accomplish what was the Hitler's initial plan by supporting them to leave for Palestine instead of forcing them to move to Madagascar. Quite a curious choice because Madagascar is an island ten times larger than the Israel and Palestine lands and it offers a much better climate.
 
-Trump is right in saying -- *they don't know what the f&ast;ck they're doing* -- but we are wondering the same about the UK and much time before they made Brexit. The same question would be asked about the US but it is a hopeless one: they are desperately trying to win something but we don't know WTF is that.
+Trump is right in saying -- *they don't know what the f*ck they're doing* -- but we are wondering the same about the UK and much time before they made Brexit. The same question would be asked about the US but it is a hopeless one: they are desperately trying to win something but we don't know WTF is that.
 
 Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway!
 
@@ -366,7 +366,7 @@ What can we expect from Iran, then? Nothing less than what we have recently seen
 
 In creating nuclear warheads -- as shown by the laboratory incidents during the Manhattan project, and soon later the end of WW2 -- reaching the critical condition in which a neutron flow into the nuclear fuel can sustain itself or even exponentially increases, is not enough to create an explosion because the initial flare switch off itself due to the sharp thermal gradient that expand and change the geometry or rearrange the structure in a way in which the worst outcoming is the total melting of the core like in Chernobyl disaster.
 
-To create an explosion, relatively a **lot** of mass should be converted in energy before the heat dissipation creates such thermal and pressure gradients that put out of order the device that was supposed to make the core explode. Hence density, high-ratio of efficiency coefficient of neutrons rate increasing (above 1.5, at least) and extremely quick times are needed. In this scenario moderators, like water, or absorbers, like U-238, are such stuff to move out from the core, as per universal dogma.
+To create an explosion, relatively a **lot** of mass should be converted into energy before the heat dissipation creates such thermal and pressure gradients that put out of order the device that was supposed to make the core explode. Hence density, high-ratio of efficiency coefficient of neutrons rate increasing (above 1.5, at least) and extremely quick times are needed. In this scenario moderators, like water, or absorbers, like U-238, are such stuff to move out from the core, as per universal dogma.
 
 Because of these dogmas, the uranium isotope U-235 should be almost the only one allowed. The higher its concentration, less Kg is required for reaching a critical explosive mass. While using tightly synchronized concentric explosion to increase the density, even for a very short time, allows to drop the 64Kg (Little-Boy) a 10Kg circa di quelle ad attivazione per implosione. Unchallenged dogmans and we cannot expect any support on this topic, even from DeepSeek Chinese chatbot.
 
@@ -374,7 +374,7 @@ However U-238 is a competitive absorber because fast neutrons (> 1MeV) are the o
 
 The neutron's moderation takes 18-20 hits which is a too slow process for creating an explosion but fine for producing energy in a stable and controllable way like in the nuclear reactors, but kills any hope for "explosion". The loss of energy by a series of hits, among two objects which have nearly the same mass, follows the rule of 50% each hit. In fact, 1MeV / 2^20 = 1eV. So, in a nuclear explosion fast neutrons can be hit by a U-235 atom creating a fission and a neutron emission, or be absorbed by a U-238 atom or be reflected back by the deflector or get lost escaping from the system altogether.
 
-- **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% (due to an increased cross section and almost near-zero U-238 absorption rate) more probable path for an U-235+N prolif event. Not so much but enough to get above the 1.5 in the N-to-N increment rate like in a nearly weaponry full-grade enriched nuclear fuel.
+- **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% (due to an increased cross section and almost near-zero U-238 absorption rate) more probable path for an U-235+N prolific event. Not so much but enough to get above the 1.5 in the N-to-N increment rate like in a nearly weaponry full-grade enriched nuclear fuel.
 
 This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needed to squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the NPT treaty.
 
@@ -448,7 +448,7 @@ After all, the Internet connection does not seem the main key apart from the fac
 
 #### Gotcha shitfigher
 
-> Gotcha, shitfighter. You have been officially became a military target! (semcit.)
+> Gotcha, shitfighter. You have officially become a military target! (semcit.)
 
 Why do Ukraine drones have a 4K hence the optic fiber guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and a poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAV as if they were video games.
 
@@ -464,13 +464,13 @@ Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they 
 
 Instead, another interesting "question" (or topic, more precisely) is about doing war as business but not as usual. Not as usual form few but fundamentally reasons:
 
-- **Costs in BOM**: renting the truck (tractor unit) is about $4000/mo and almost the same to buy the used container to customize and each drone cost about $300 (as I read but says $1k would not change much more), hence $12000, says $40.000 modified. Total, $100K
+- **Costs in BOM**: renting the truck (tractor unit) is about $4000/mo and almost the same to buy the used container to customize and each drone costs about $300 (as I read but says $1k would not change much more), hence $12000, says $40.000 modified. Total, $100K
 
 - **Networking**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenalina pay-per-fight (or watch), betting, etc. plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
 
 - **One fits all**: scalable business model, today is Russia, tomorrow could be any other country on demand. First successful story 18mo, the next 9mo, the next 6mo, the next 3mo, the next 1mo (physical time to reach the targets) at that point is "destroying as service" on demand.
 
-- **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter produly entered into an "heroic lega" but trapped a terrorist network, instead.
+- **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter produly entered into an "heroic lega" but trapped by a terrorist network, instead.
 
 Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever would be the age behind the player behind the joystick pad.
 
@@ -482,11 +482,11 @@ About the drones attack against military nuclear facilities, whatever it happene
 
 - such a kind of attack can be soon develop autonomously as a private on-demand terrorism business **and** it has the potential of penetrate our society and culture with deep consequences which are beyond imagination;
 
-- the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringes the nuclear non-proliferation agreements.
+- the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringed the nuclear non-proliferation agreements.
 
-Those agreements enforce not only Russia but also USA to keep that facilities exposed in such way others countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facility are going to push the world back to the timesin which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
+Those agreements enforce not only Russia but also the USA to keep those facilities exposed in such a way other countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facilities are going to push the world back to the times in which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
 
-We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society and at the same time we are find ourselves back to Cuba missiles crisis time but on a 8B+ people planet, many more nuclear-war abilitaed states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
+We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society and at the same time we are find ourselves back to Cuba missiles crisis time but on a 8B+ people planet, many more nuclear-war capable states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
 
 +
 
@@ -502,7 +502,7 @@ Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati
 
 Se fosse una campagna di fango contro Stramer, allora è ben orchestrata -- [Aljazeera](https://lnkd.in/dcUVzph2) - [RNZ](https://lnkd.in/d-R9U2mT) - [Times of India](https://lnkd.in/dUnExHnk) - [Sky News](https://lnkd.in/dB48waRc) - [Euro News](https://lnkd.in/d32Ketxj) -- e con una copertura globale, ma Stramer ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità.
 
-Quindi che il sistema attacchi Stramer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
+Quindi che il sistema attacchi Keir Starmer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
 
 +
 
@@ -512,7 +512,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ...
 
-#### How much money we are talking about?
+#### How much money are we talking about?
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
 
@@ -522,7 +522,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
 
-- **$200B** -- the EU and its Member States have made available in financial, military, humanitarian, and refugee assistance to Ukraine.
+- **$200B** -- the EU and its Member States have made available financial, military, humanitarian, and refugee assistance to Ukraine.
 
 ...
 
@@ -554,9 +554,9 @@ Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally che
 
 - no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
 
-It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreement which are official agreements with official signature are fine to be bended, overruled, ignored and break unilaterally by those who trying to sell the fairy tales that they would honored ONLY their own signature.
+It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreements which are official agreements with official signatures are fine to be bent, overruled, ignored and broken unilaterally by those who are trying to sell the fairy tales that they would honour ONLY their own signature.
 
-In this case, the best is to remember them that life-sentenced criminal hexiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+In this case, the best is to remember them that life-sentenced criminal exiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
 
 Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK)
 
@@ -572,7 +572,9 @@ Because the main goal is NOT convincing the enemy and not even the common people
 
 +
 
-### How to analise OSINT war information
+
+<span id="how-to-analise-osint-war-information"></span>
+### How to analyse OSINT war information
 
 In times of war, information is precious but also at risk of being manufactured. Those that need to extract valuable conclusions from publicly available information have to follow the scientific method in which making hypotheses and cast speculations are part of a strictly ruled way of doing.
 
@@ -590,7 +592,7 @@ The arch, the barrel ceiling, the domes, and similar structures are made to be a
 
 This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- once developed a Mach 15 ballistic rocket technology and still have a deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
 
-This lead to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fits into recurrent players as per the games theory definition. Which leads to consider the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
+This led to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fit into recurrent players as per the games theory definition. Which leads to considering the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
 +
 
@@ -600,379 +602,7 @@ Is it surpringin? Not at all, because like in the far-west those who do not have
 
 Trump saying that Spain will pay double tariff because they did not sign for the military expenditure increase, is a pretty clear example of this posture. And again, it is not a Trump fault, instead thanks to Trump finally we see in plain view what it was the US foreign posture since Wolfowitz doctrine has been officially adopted (1992). Trump might wish to replace the doctrine but I would not succeed unless he clearly shows what Wolfowitz idea is working in the real-world.
 
-We all, need to expose how much wrong things are before asking others to accepting to change them. False. Nobody requires an authorisation to change wrong things not even others people acceptance. Within the above conceptual framework, anyone who have the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still need to create the proper condition to defend his decision in front of the Congress and his nation.
-
-<!--
-
-Jun 24, 2025 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says
-
-https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6
-
-2025-06-25 -- The Pentagon has launched a criminal investigation into the leak of a classified Defense Intelligence Agency report assessing that damage to Iranian nuclear facilities from U.S. airstrikes didn’t significantly set back Tehran’s nuclear program.
-
-“We're doing a leak investigation with the FBI right now because this information is for internal purposes, battle damage assessments,” Defense Secretary Pete Hegseth said at the NATO summit on Wednesday. He added that press reports detailing the findings are meant to “spin it to make the president look bad when this was an overwhelming success.”
-
-Seated next to President Donald Trump, NATO chief Mark Rutte and Secretary of State Marco Rubio at the start of a day of meetings, Hegseth didn’t provide details of the investigation, but did confirm the classified intelligence assessment and its findings, saying its conclusions are “low confidence.” The comments came after both Trump and Rubio referred to the news reports as fake stories.
-
-https://www.politico.eu/article/us-pentagon-investigation-iran-intel-leak-pete-hegseth-donald-trump-rubio/
-
-2025-06-25 -- The Federal Bureau of Investigation has started a probe into how a preliminary intelligence assessment about U.S. military strikes in Iran became public, Defense Secretary Pete Hegseth said Wednesday morning.
-
-The Wall Street Journal
-https://www.wsj.com/livecoverage/iran-israel-ceasefire-conflict-news/card/fbi-probing-leak-of-iran-strike-intelligence-report-hegseth-says-AjoWvf8RvvLvpKlhjP8J
-
-2025-06-25 -- The Pentagon’s Defense Intelligence Agency (DIA) told Al Arabiya English on Wednesday that an investigation has been launched into the leak of a classified assessment on the US strikes against Iran’s nuclear facilities, describing the report as “preliminary” and of “low-confidence.”
-
-https://english.alarabiya.net/News/middle-east/2025/06/25/pentagon-fbi-launch-probe-into-leaked-report-on-us-strikes-on-iran-s-nuclear-sites
-
-
-2025-06-22 -- Trump says US military ‘obliterated’ three key nuclear sites in Iran, including Fordow. “There will be either peace or there will be tragedy for Iran far greater than we have witnessed over the last eight days,” the US president said.
-
-https://english.alarabiya.net/News/middle-east/2025/06/22/us-bombs-three-nuclear-sites-in-iran-including-fordow-trump
-
-
-2025-06-23 -- Gli Stati Uniti hanno perso le tracce delle 409 chilogrammi di uranio arricchito dell'Iran. Dopo gli attacchi israeliani e americani del 13 giugno e del 21-22 giugno contro le principali strutture nucleari iraniane, Washington e i suoi alleati non sanno se il materiale fissile più pericoloso di Teheran sia stato distrutto dai bombardamenti o evacuato preventivamente in una destinazione ignota. Questo uranio, arricchito al 60% e custodito teoricamente sotto controllo dell'Agenzia internazionale per l'energia atomica (Aiea), rappresenta il cuore del programma nucleare iraniano perché se ulteriormente arricchito al 90% potrebbe essere utilizzato per produrre armi nucleari.
-
-https://www.wired.it/article/uranio-arricchito-iran-400-chili-spariti/
-
-March 12, 2021 -- The U.S. Military Is Missing Six Nuclear Weapons
-
-The 1996 John Woo film Broken Arrow features a quite memorable line – uttered by character actor Frank Whaley – “I don’t know what’s scarier, losing nuclear weapons, or that it happens so often there’s actually a term for it.” In fact, the term “Broken Arrow” does refer to the loss of a nuclear weapon and it has happened more than once.
-
-Between 1950 and 1980, there have been 32 documented nuclear weapon accidents that involve the unexpected accidental launching, firing, detonating, theft or loss of the weapon. To date, six U.S. nuclear weapons have been lost and shockingly never recovered. Below you will find a breakdown of the situations that lead to this shocking statistic.
-
-https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032
-
-https://taskandpurpose.com/history/us-military-nuclear-weapons-missing/
-
-
-2025-06-25 -- Exclusive: Early US intel assessment suggests strikes on Iran did not destroy nuclear sites, sources say. The US military strikes on three of Iran’s nuclear facilities last weekend did not destroy the core components of the country’s nuclear program and likely only set it back by months, according to an early US intelligence assessment that was described by seven people briefed on it.
-
-The assessment, which has not been previously reported, was produced by the Defense Intelligence Agency, the Pentagon’s intelligence arm. It is based on a battle damage assessment conducted by US Central Command in the aftermath of the US strikes, one of the sources said.
-
-The analysis of the damage to the sites and the impact of the strikes on Iran’s nuclear ambitions is ongoing, and could change as more intelligence becomes available. But the early findings are at odds with President Donald Trump’s repeated claims that the strikes “completely and totally obliterated” Iran’s nuclear enrichment facilities. Secretary of Defense Pete Hegseth also said on Sunday that Iran’s nuclear ambitions “have been obliterated.”
-
-https://edition.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites
-
-
-***
-
-## La fine della guerra
-
-THE WONDERFUL M&M COUPLE IS
-GOING TO CONQUER THE WORLD
-
-They haven't been beaten enough by Russia, and they are wishing another massive dose from China. They speak in that way thinking they can have the cheering of their nationals supporters, looking as wo/men-in-power but...
-
-Spoiler: yesterday Macon met Meloni, and now the M&M couple is thinking that, after setting down their conflicts, united they can stand and win. I am going to end the list of bad words to swear!
-
----
-
-L'attacco vantato da Zelensky ai bombardieri nucleari della Russia, che avrebbe comunque sollevato ENORMI questioni di sicurezza anche se fosse stato diretto contro altre installazioni comunque strategiche (https://lnkd.in/dZMmnaNV), viola il trattato di non proliferazione delle armi (e velivoli relativi) perché essi debbono rimanere esposti così da poter essere H24 sotto il controllo visivo dei satelliti spia.
-
-Un controllo incrociato che però ha come collaterale anche quello che nessuna delle parti, direttamente o per intermediazione, possa attaccare quelle strutture o velivoli. Si tratta di un accordo globale, non limitato alla Russia e agli USA. Coincidenza vuole che
-
-2025-05-30: US Special Envoy for Ukraine Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war with Russia.
-
-due giorni prima dell'attacco gli americani hanno pubblicamente ammesso che quell Ucraino-Russa fosse una loro guerra per procura contro la Russia, anche se nel titolo della notizia questo aspetto non traspare esplicitamente e la notizia è circolata molto poco (copertura notizia al 1° giugno, https://lnkd.in/dWKt69jX)
-
-Appare quindi ovvio che a seguito dell'attacco solo due opzioni rimanevano sul tavolo: 1. sospendere l'accordo a livello globale e con la guerra UA-RU ancora in corso; 2. oppure mettere fine all'eroismo fuori controllo di Zelensky. Attualmente l'offerta di pace da parte della Russia è una resa incondizionata dell'Ucraina.
-
-Non mi pare che ci sia molto da aggiungere. Ma ora inizia il balletto dei negoziati. In pratica, a questione ormai conclusa, si tratta di assegnarsi i meriti di questa splendida sconfitta dell'Ucraina - scusate volevo dire, vittoria della diplomazia internazionale sulla guerra - per giustificare la valanga di miliardi e 18 (o 19, ho perso il conto) pacchetti di sanzioni.
-
-Beh, beh, beh!
-
-+
-
-LA VERA RAGIONE PER LA QUALE ODIANO PUTIN
-
-Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettato di tollerare gli Africani e i Musulmani ma hanno continuato ad odiare i Russi e in particolare la figura di Putin?
-
-In questa chat con Gemini 2 si dipana un discorso che parte dall'attualità e va indietro per sei secoli dai quali emerge l'invidia sfacciata per la Russia come Terza Roma che ha sempre trovato un qualche vantaggio sufficiente a non farsi MAI sottomettere dagli Europei.
-
-=-> https://lnkd.in/dvPMB-Wx
-
-Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un tempo li abbiamo ridotti in schiavitù, passino i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
-
-Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
-
-Dio, quanto ci fa incaxxare quest'uomo! Vero? 😉 
-
----
-
-Berlusconi e i dittatori
-
-l successo di Berlusconi nel intessere rapporti funzionali con Putin e Gheddafi è proprio in quel "funzionali". Serviva qualcuno in occidente che dialogasse con due personalità, molto diverse ma in qualche misura affini e strategiche, per dare loro l'impressione di avere un canale per farsi ascoltare quando invece si stava già pianificando e organizzando il loro omicidio e la razzia del loro prosperoso paese, quando lo fosse abbastanza da giustificare la razzia violenta, appunto. In questo schema, Berlusconi era l'uomo della Provvidenza giacché da una parte era idolatrato dagli italiani perché incarnava il LORO modello di uomo di successo e dall'altra parte perché era ovvio che Berlusconi con i suoi mille conflitti era un personaggio politico che NON sarebbe rimasto in sella oltre i 20 anni. Un clichè, tutti gli uomini di potere, dopo 20 anni, diventano dittatori da eliminare e i loro paesi nazioni di cui fare razzia. Anyway, Berlusconi era l'uomo giusto al momento giusto, quasi come fosse stato calzato e vestito per quel ruolo oppure allevato, addirittura. Geddafi è morto e la Libia è stata devastata. Con l'altro dei due, non pare stia andando nello stesso modo e ho la sensazione, che il secondo farà giustizia.
-
-+
-
-SPIACE DELUDERVI MA IL RESET NUCLEARE È NECESSARIO
-
-Mettiamola così: indebolire la potenza nucleare in termini di offensività e difensiva, quindi deterrenza, una volta, due volte e non c'è due senza tre. 
-
-Se ci mettiamo tutto insieme, tipo che questo delirio è working in progress dal 2007, e il voltafaccia al G20 di Bali che i russi avevano accettato di ritirarsi quando ormai avevano quasi circondato Kiev in cambio della pace e poi si sono sentiti dire: avete perso (perché ora ci entriamo anche con la NATO ma "mercenari"), si capisce bene che la testata la tirano i russi oppure la tirano gli inglesi. I primi che non possono farne proprio a meno.
-
-Ma a meno di cosa? Di ammettere il default pubblico USA (e non solo pubblico anche strutturale e sociale).
-
-https://lnkd.in/dYRSgpuT
-
-https://lnkd.in/d3GckiC2
-
-Quindi mettetevi il cuore in pace, il reset arriverà dal cielo (desu vult, in god $1 we trust) a prescindere da chi lancerà. Se gentilmente lo fanno i russi, e si sbrigano, colpendo giusto 3 obiettivi, abbiamo vinto tutti e tutto.
-
-https://lnkd.in/dzBTuuEc
-
-Fate pace anche con il cervello, e se vi fa sentire meglio anche il segno della croce (funzionale quanto l'autoerotismo nell'abbattere l'ansia, de gustibus).
-
----
-
-“La pace fra Ucraina e Russia non sarà immediata”. A dirlo è il presidente statunitense Donald Trump che, attraverso un post social, fa sapere di aver parlato telefonicamente con il suo omologo russo Vladimir Putin.
-
-https://www.linkedin.com/posts/la-ragione_la-pace-fra-ucraina-e-russia-non-sar%C3%A0-immediata-activity-7336082909948227587--CVW
-
----
-
-Con la guerra in Ucraina, hanno da smaltire una batosta che parte dal 1992, e sono più di 33 anni. Tanto tempo, tanto debito USA che non si potrà smaltire facendo spendere il 5% del PIL in supporto ai militari, come stanno pianificando.
-
-Oggi l'esercito USA costa quasi $1T anno, senza attualizzare il costo del pregresso ma usando l'attuale, per 33 anni fa una spesa di $33T quasi l'intero debito pubblico americano di cui ORA si accorgono che è a rischio default per il 2026.
-
-L'idea che qualcuno lanci un'atomica e scoppi una gran bugna per insabbiare 33 anni di spese inutili a schiacciare la Russia sarà dura togliergliela dalla testa. Quindi anche tutti i supporters, e in particolare gli analisti compiacenti, rimarranno "attaccati" all'idea emotivamente per molto. Per molti, questa è la fine del mondo, comunque vada.
-
-Ma forse le cose non andranno in quella direzione, o per lo meno non secondo le queste aspettative.
-
----
-
-IL RESET NUCLEARE È NECESSARIO, LONDRA CONFERMA
-
-4 giugno 2025 - Londra fornirà a Kiev 100mila droni entro aprile 2026. [Quindi la Russia o lancia o lancia, pare deciso?!]
-
----
-
-### Informazioni di base
-
-Il Consiglio d’Europa (mappa blue/grigio) -- da NON confondere con il Consiglio dell'Unione Europea (mappa su globo) -- è un’organizzazione internazionale autonoma, estranea all’Unione Europea, fondata nel 1949 e composta oggi da 46 Stati membri. Il suo obiettivo principale è la promozione dei diritti umani, della democrazia e dello Stato di diritto in Europa. Ha sede a Strasburgo.
-
-Il mercato europeo comune (MEC) si riferisce al mercato unico (mappa con viola) dell'Unione europea (e, prima, della Comunità economica europea, CEE), la cui creazione era uno degli obiettivi fondamentali del trattato di Roma – firmato il 25 marzo 1957 ed entrato in vigore il 1º gennaio 1958 – che istituì la CEE. L'espressione veniva inoltre spesso utilizzata come sinonimo di CEE.
-
-Il mercato comune si basa su quattro libertà non scindibili per averne accesso:
-
-- 1. libera circolazione delle persone (Accordi di Schengen, Accordo di Dublino per gli immigrati e clandestini);
-
-- 2. libera circolazione dei servizi;
-
-- 3. libera circolazione delle merci (es. senza dazi doganali interni);
-
-- 4. libera circolazione dei capitali.
-
-Sulla disciplina della concorrenza e sulla limitazione degli aiuti statali alle imprese.
-
-L'Unione economica e monetaria (UEM) dell'Unione europea (mappa colorata) è un termine ampio: include l'insieme delle politiche fiscali, valutarie, concorrenziali e monetarie messe in coordinamento dal luglio 1988 con lo scopo di avvicinare le rispettive economie degli Stati dell'allora Comunità europea. Un momento importante, che assunse anche un valore simbolico del processo, fu l'adozione di una moneta unica europea, l'euro, nel 1999, in sostituzione delle rispettive valute nazionali da parte degli Stati membri dell'Unione europea. Si ebbe così una politica monetaria comune sotto il controllo della Banca centrale europea (BCE), dando vita alla cosiddetta eurozona.
-
----
-
-### L'Unione Europea
-
-Da queste informazioni si desume che se anche l'Unione Europea (EU) -- come per magia -- cessasse di esistere improvvisamente, ben poco andrebbe perduto a parte il gigantesco sunk-cost di aver creato una macchina essenzialmente burocratica che avendo tradito l'ideale originale ha avuto l'infausta supponente arroganza di poter dominare la scena politica invece di creare una federazione europea sul modello elvetico.
-
-La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava per scontato che avrebbe controllato la sanità globale. Uguale la macchina di propaganda DEM-woke-Hollywood. Da marzo 2022, fate un riflessione su quante "entità" sono scomparse come ombre (o evaporate come nebbia) proprio al culmine, o ad un passo, della loro vittoria totale.
-
-Extreme Refactoring: replacing, reshaping, resizing, etc. all the system units, one by one, while the system is alive in production. In italiano: fare a pezzi e riassemblare in corsa. Roba che Transformer spostati!
-
----
-
-UN'IMMAGINE VALE PIÙ DI MILLE PAROLE
-
-C'erano tempi in cui costruire un parcheggio e istituire una navetta bus per la spiaggia come fanno (facevano, almeno nel 2002) in nord africa da noi era fantascienza e si posteggiava alla caxxo di cane anche se apparentemente a lisca di pesce (ma appunto nel posto sbagliato).
-
-Nostalgia canaglia, ci fa sembrare che eravamo felici guardando delle vecchie foto e non ci fa capire che eravamo già dei perdenti allora. Solo fortunati a viaggiare su un'onda positiva senza pensare che quell'onda avrebbe dovuto essere sfruttata anche per fare un balzo in avanti e passare la mano alla generazione successiva.
-
-Ci sono fallimenti e fallimenti, quello della generazione dei boomer è uno di quelli che passerà alla storia e diventerà un caso studio nella scienza dell'ingegneria delle società (che non è social engineering ma society engineering). Cosa che é già così, infatti gli USA ci usano come criceti da esperimento.
-
-Se qualcosa (di incredibilmente stupido) funziona con noi, allora loro lo implementano su larga scala. Vedi tu, a volte la fortuna, di essere la razza (di criceti) eletta! 🤣 
-
----
-
-ho visto oggi uno spezzone di intervista in cui Putin parla del problema del cambiamento nelle democrazie.
-
-Che quel video fosse originale piuttosto che generato dalla AI o che la traduzione in Inglese fosse fedele all'originale, non è una questione rilevante, nella misura in cui quanto detto sia significativo, e sicuramente alcuni passaggi lo sono.
-
-Per esempio, ha parlato di Obama e delle sue promesse elettorali. Tipo chiudere Guantanamo e che ci avrebbe anche seriamente provato ma il deep-state non lo ha permesso.
-
-La traduzione NON diceva "deep-state" ma persone con la valigetta 24 ore che si presentano in giacca e cravatta al nuovo presidente eletto e gli dicono come le cose devono funzionare.
-
-Chiaramente si tratta di un'allusione al deep-state e quindi strizza l'occhio al complottismo. La scelta di Obama come vero democratico NON è affatto casuale, e per meglio sottolineare che il problema non è Obama o Trump, ma il sistema.
-
-Che il sistema sia il problema lo abbiamo visto durante la pandemia di covid dove poliziotti che riconoscevano l'incostituzionalità di fermare, identificare e denunciare persone che esercitavano il loro diritto di libera circolazione erano oppressi dai colleghi più "ligi" al dovere.
-
-***
-
-Premesso quanto sopra nel mio commento precedente, la questione non è se Zelensky sia il problema oppure se sia l'unico eroe a poter tenere testa a Putin, perché ormai pare che sia un incontro di box oppure una partita a scacchi dove le pedine sono la gente che muore.
-
-Il problema, VERO, e che si ripete ciclicamente è che gli USA sfruttando la democrazia e una rete di NGO finanziata all'occorrenza (nella migliore delle ipotesi) instaurano dei governi e talvolta dei regimi a loro favorevoli.
-
-Purtroppo questo è SOLO metà del problema. Perché l'altra metà del problema è che questi regimi spesso sfuggono al loro controllo - semplicemente perché non lo sono mai stati, ma avevano solo l'illusione del controllo tipica di coloro che si circondano di yes-men pagandoli - e gli si rivoltano contro.
-
-Nel caso di Mr. Z, il problema è che non potendo attaccare le torri gemelle ha attaccato le basi dei bombardieri nucleari russi ma per varie ragioni è finito nello stesso schema di Al-Qaeda.
-
-Circola da parecchi mesi, l'idea che l'eroico Zelensky sarebbe finito ammazzato come una qualsiasi altro dittatore-terrorista allevato dalla CIA. Eppure ciò NON ha impedito che anche Mr. Z saltasse nel "personaggio" di quel dejavu.
-
----
-
-COSÌ VICINI, COSÌ LONTANI, CHE ORMAI CI SIAMO
-
-Gli UK stanno rientrando nella UE dopo la Brexit con addirittura l'idea di unire gli eserciti e manca solo l'adozione dell'Euro (*) per essere 100% allineati con Bruxelles. (*) Improbabile ma non impossibile visto che mentre si uniscono militarmente alla EU tagliano 15.000 operativi nella sanità pubblica per investire nelle armi (anche da dare all'Ucraina) quindi preso gli inglesi dovranno indebitarsi per curarsi e a quel punto non saranno più in grado di opporsi alla fine della Sterlina.
-
-Quindi mentre Trump parla di pace con Putin, il primo ministro Inglese e quello tedesco pensano al riarmo. La notizia che un bando di gara da €27 milioni (e la cifra non è stata scelta a caso) per rimodernare una caserma a 5Km dal duomo di Firenze per farne una base NATO per il controllo strategico va in questa direzione. A cui si aggiunge il voto che molti sostengono "tirato per i capelli" pro-Europa della Romania che DEVE ospitare la più grande base NATO al mondo in quanto la Romania è fondamentale per tenere a bada la Russia.
-
-Quindi stiamo tornado agli accordi di Minsk del 2015 con la Russia che oltre alla Crimea si è presa il Donbass e un corridoio che la colleghi alla Crimea via terra. O per lo meno, ci stiamo provando, visto che abbiamo perso di nuovo. Però non molliamo la presa e anzi, i militari si stanno facendo sempre più "prepotenti" nel chiedere risorse dal 2% al 5%.
-
-Sicché è inutile rigirarsi la frittata, e la domanda ultima è quale sarà il prossimo paese da sacrificare alla guerra contro la Russia? L'Europa? O la Polonia? Ecco, sulla Polonia sono già molto più confidente. Perché la Polonia è geograficamente in una posizione troppo delicata per essere invasa dalla Russia ma ottimale per mandarli a combattere in Ucraina.
-
-I generali russi stanno pressando Putin per avanzare ma Putin non si fida della loro esuberanza perché sa che i costi di una guerra convenzionale sono troppo elevati. Potrebbe decidere di trascinare gli USA al default ma questo non può farlo senza la Cina che nonostante sia alleata del Pakistan non ha gradito affatto il tafferuglio l'altro popoloso partner dei BRICS, l'India.
-
-Quindi la domanda ultima è: aspetteranno altri 5-10 anni prima di riaprire il conflitto oppure la riunione di capi di stato del 9 maggio ha già sancito che - lasciato un tempo di grazia agli occidentali perché decidano, elezioni incluse - poi sganciano due atomiche in atmosfera, riportano l'Ucraina al medioevo e ne fanno una novella Bielorussia?
-
-Il rischio NON è tanto una WW3, anzi. Ma il collasso (**) del sogno americano. Un sogno oppure un incubo durato troppo a lungo? Secondo me, i russi e i cinesi, hanno imparato dalla storia della conquista del Far West americano e sanno che fare accordi con i bianchi dalla lingua biforcuta non è mai la scelta migliore anche se sul breve appare la scelta più razionale.
-
-(**) https://lnkd.in/deZSMbFz, no 2nd place.
-
----
-
-> Chissà perché vengono interpretati tutti al contrario
-
-Perché il sistema è distopico? Facile risposta ma non spiega nulla.
-
-Perché il modello educativo attuale si basa su paradigmi ottocenteschi che serviva a produrre operai utili per la Rivoluzione Industriale? Questa risposta interpreta il sistema, permette di fare delle previsioni, quindi delle verifiche su di esse, e permette di fare delle correzioni. (cfr. figura)
-
-https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html
-
-Il sistema educativo rispecchia i paradigmi dello Stato, anch'esso una struttura ottocentesca nonostante la Costituzione sia più recente e quindi più liberale e moderna. Troppo moderna, addirittura per uno stato ancora obsoleto nella sua struttura.
-
-La più evidente differenza fra stato ottocentesco e moderno, risiede nel concetto di "lean" = "snello, agile, laissez faire" mentre quello ottocentesco si basa sulla burocrazia come strumento di potere che blocca i cambiamenti sociali e mantiene il potere di una casta anche se non più nobiliare.
-
-Pachiderma burocratico, cancro in metastasi che poi cessa di essere stato di diritto, come ultimo atto prima del default
-
-=-> lnkd.in/de9te7k9
-
-L'Unione Europea attuale non è diversa dal paradigma ottocentesco e se si limita alla burocrazia è solo perché non ha ancora soddisfatto le altre perversioni di quel tipo di struttura di potere.
-
-https://robang74.github.io/chatgpt-answered-prompts/html/diritti-digitali-e-separazione-dei-dati-dai-social.html
-
-Questo dovrebbe ormai essere palese, altrimenti non si spiega come mai un ciuchino qualsiasi con tre regole di buon senso può straccionare in efficacia e efficienza uno come Draghi: il nostro uomo migliore. (cfr immagine)
-
-Secondo alcuni, probabilmente gli stessi che rimpiangono Berlusconi. In passato quando un re veniva sconfitto e quindi moriva si aveva l'abitudine di seppellirlo con tutta la sua corte, un'idea affatto malvagia in termini di voltare pagina.
-
-Ah, se pare "brutale" come approccio si tenga presente che con Saddam, Gheddafi e altri si è fatto lo stesso e si vorrebbe fare uguale con Putin, anche con Orban e Erdogan. Sono dittatori! 
-
-Quando "servivano" o "servono" sono rispettabilissime controparti negoziali. Quindi caviamocela dalla testa questa idea di superiorità morale che proprio NON esiste nè MAI è esistita.
-
-- Piuttosto che cambiare la morte!
-- Non vedo problemi, si può fare.
-
-Oltre al fatto che così come è improntata l'Unione Europea è un carrozzone inutile per gli europei che sfacciatamente è fuori traccia rispetto allo scopo originale che era costruire una federazione in stile elvetico fra i paesi dell'Europa occidentale.
-
-=-> lnkd.in/dydNZjfb
-
-Invece, ha giocato il ruolo di agente commerciale/finanziario dell'espansione NATO ad est, un'altra porcata che non aveva ragione di esistere fin dal principio (1992) e che inevitabilmente sta finendo in tragedia e saccheggio.
-
-=-> lnkd.in/drCFCVaQ
-
-Come per altro tutte le guerre (perse, tranne contro la tigre di carta iraqena) etero-dirette dagli USA. Un cliché che ormai è diventato un evergreen: $1T/anno di macchina bellica e non si usa?
-
-Se sul default degli USA, il mondo della finanza nutre ottimismo, come lo nutriva per Leman & Brothers (too big to fail). Il default dell'Italia (2026) è a prescindere da quello USA perché basta vedere la dimensione della batosta rispetto alle crisi sistemiche 2001 e 2008.
-
-=-> lnkd.in/dMrZac9F
-
-Ottimismo: i fascisti avranno distrutto l'Italia due volte, abbiamo il capro espiatorio. Pessimismo: l'Unione Europea probabilmente non collasserà per la crisi 2026, speriamo periscano di Ucraina o di Russia, al peggio.
-
-***
-
-Mi piace come analisi anche se forse è un po' troppo lineare. Soprattutto perché questo tipo di "trend" in realtà hanno due principi fondamentali alla base:
-
-1. già nel 1993, i miei professori dell'università di Genova a Fisica (che probabilmente in quanto scienziati avevano una maggiore propensione alla divulgazione) dicevano apertamente che "promuovevano" come loro collaboratori quelli bravi ma non troppo bravi da fare loro le scarpe così come i loro predecessori avevano fatto con loro ma questo modello di selezione avrebbe portato al collasso del sistema in 3 generazioni (*).
-
-2. esiste un trend, che si somma a quello già partito nel 1992 che risale al 1969 e che fondamentalmente vede nelle persone intelligenti, individui troppo intelligenti per obbedire agli ordini e quindi intrinsecamente inabili alla guerra che all'epoca era quella fredda e poi dal 1992 è diventata in prospettiva la WW3 perché senza una guerra in prospettiva, il complesso militare-bellico diventa marginale (solo difesa).
-
-Quindi - secondo me e in particolare oggi che come ha detto Merz occorre considerare la guerra come un'opzione viabile - il ragionamento sull'intelligenza va messo nel suo corretto contesto: quello della WWZ. https://lnkd.in/dA3kn7XS
-
-***
-
-IL GRANDE AVVERSARIO DI TRUMP
-
-Il Moloch che l'amministrazione Trump dovrà affrontare è quei $7T di debito pubblico da rinnovare. Ma per darvi un'idea di cosa significhi la finanza negli USA e quindi il controllo del debito pubblico c'è l'altro screenshot e allora andiamo a mettere in prospettiva quei $7T con tutto il resto.
-
-- solo di interessi sul debito pubblico pagano $1T all'anno
-
-- sul debito pubblico e privato aggregato quasi $5.5T l'anno
-
-Ma non è finita, qua perché questi sono solo le punte di due iceberg.
-
-Il debito pubblico americano è sicuramente importante ma non è l'unico debito che USA hanno, infatti se andiamo a vedere quello privato, esso è semplicemente ENORME: un numero espresso da 15 cifre dove 10^12 sono trilioni quindi $103 trilioni, se includiamo anche i leverage finanziari (esposizione) si arriva ad un valore di 772% del PIL americano.
-
-- Fonte dei dati: lnkd.in/eDTTzvz3
-
-Quindi non stiamo osservando solo un fallimento del debito pubblico USA ma anche sociale e produttivo (debito privato), anche finanziario e commerciale (esposizioni) e infine infra-strutturale perché è sufficiente ricordarsi della tragedia del ponte di Baltimora che ha portato alla luce altri 17mila ponti a rischio, dell'incendio di Los Angeles, dello stato della rete ferroviaria e in particolare di quella merci che è rimasta al '900, dei problemi di aggiornamento informatico come i sistemi di radiocontrollo dell'aeronautica civile come il black-out di 92 secondi all'aeroporto di Newark oppure alla marina militare che ancora utilizza Windows NT, e che fra tutti i problemi di aggiornamento è probabilmente il meno grave.
-
-In un contesto del genere servirebbe prudenza ma a questo stadio è più corretto dire psicofarmaci (ansiolitici) di cui il 25% degli americani fa uso regolare e probabilmente un altro 25% ne fa abuso insieme a droghe di vario tipo fra cui il Fentanyl. Invece c'è Trump che io personalmente adoro come presidente perché penso ci regalerà ENORMI soddisfazioni e anche uno spettacolare mandato in termini di show.
-
-Articolo completo: lnkd.in/dD84RYN6
-
-***
-
-MODERN FAIRY TALE, ABOUT U.S. PUBLIC DEBT DEFAULT
-
-Unfortunately, the U.S. public debt is gone in default after the grace period expired, that day Warren Buffett (*) retired. The day after everything based on USD gets into a Ponzi scheme, technically speaking. How did the U.S. public debt default? Long story short: no any USD backup, anymore (we don't trust anymore). 
-
-Gemini2 is debating about details but -- in fact, for everyone who knows in depth the financial mechanisms -- during G7 in Puglia (2024) the Saudi Arabia puts a stop to the Petrodollar agreement, de-facto removing the last real-world collateral to backup the USD. Unsurprisingly, they found themselves, after the grace period expired, sitting on an Everest of paper money and suddenly they decided that investing $600B in AI tech in the USA and buying $142B american weapons was a good way to protect their position.
-
-Is this explaining to you something about how quickly some "positions" evolve? Good, then the whole story will amuse you much more!
-
-=-> lnkd.in/dM8dx-s6
-
-(*) the #1 non-speculative finance guru investor retired, his motto was "on the market, win those can keep a position as long as they will" which makes him a non-speculative investor in terms of HF transactions.
-
-Screenshot taken from the video from this post: lnkd.in/dcbs-vgV
-
-***
-
-LE COINCIDENZE NON ESISTONO!
-
-**SE** la NASA ha ragione (Land, 1992) nell'aver scoperto che il 98% degli adulti ha perso la creatività che aveva a 5 anni a causa dell'educazione scolastica e della pressione sociale, **AND** la regola relativa alle minoranze sistematicamente ininfluenti quando sono rappresentate da meno dello 3.5% della popolazione è vera **ALLORA** statisticamente parlando il sistema/società è stupido in modo irreversibile e di conseguenza stocasticamente prevedibile. Amen!
-
-NOTA
-
-La regola del 3.5% è stata resa popolare da Erica Chenoweth e Maria Stephan nel loro libro "Why Civil Resistance Works".
-
-***
-
-GLI USA SOFFRONO DI UNO SVANTAGGIO
-COGNITIVO QUINDI BOMBARDANO L'IRAN!
-
-1. L’intelligenza come vantaggio asimmetrico
-
-=-> https://lnkd.in/dqCg3EiC (2025-06-22)
-
-Fra la prima chat con Grok sulla guerra all'intelligenza e la possibilità di sostituire l'intelligenza umana con l'AGI, Trump ha deciso di bombardare l'Iran.
-
-=-> https://lnkd.in/e4H9yerx (2025-06-21)
-
-Come finirà?
-
-Long story, short: che dovranno spostare le loro riserve interne di greggio da collaterale al debito pubblico USA, che ormai ha raggiunto i $37 trilioni, all'estrazione per produzione di energia.
-
-=-> https://lnkd.in/dn67ggH4 (2025-01-23)
-
-Bombardano per andare più velocemente e disastrosamente in default sperando che qualcuno risponda con l'arma nucleare, invece che con il dito medio. Perché il dito indice stuzzica la supercazzola ma il dito medio risolve come fosse Antani!
-
-=-> https://lnkd.in/eGr7S2c2 (2024-12-17)
-
-La creatività (divergente) è l'intelligenza che si diverte (cit.)
-
-=-> https://lnkd.in/efKvFcWh (analisi di post)
-
-Il tutto spiegato facile che anche Gemini lo ha capito!
-
-//-->
+We all need to expose how much wrong things are before asking others to accept to change them. False. Nobody requires an authorisation to change wrong things, not even other people's acceptance. Within the above conceptual framework, anyone who has the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still needs to create the proper condition to defend his decision in front of the Congress and his nation.
 
 +
 
