@@ -503,15 +503,15 @@ We are bringing terroristic attacks into our international negotiation toolkit, 
 
 ### The grooming gangs scandal in UK
 
+- For the English version and the global press coverage visit this [section](#grooming-gangs-press-coverage).
+
 [!INFO]
 15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo. -- [Il Corriere](https://www.corriere.it/esteri/25_giugno_15/ragazzine-abusate-pachistani-inchiesta-gran-bretagna-24a7e838-09f1-49ef-a746-93c59e1dfxlk.shtml)
 [/INFO]
 
-
-
 Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
 
-Se fosse una campagna di fango contro Stramer, allora è ben orchestrata -- [Aljazeera](https://lnkd.in/dcUVzph2) - [RNZ](https://lnkd.in/d-R9U2mT) - [Times of India](https://lnkd.in/dUnExHnk) - [Sky News](https://lnkd.in/dB48waRc) - [Euro News](https://lnkd.in/d32Ketxj) -- e con una copertura globale, ma Stramer ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità.
+Se fosse una campagna di fango contro Stramer, allora è ben orchestrata e con una copertura di notizie pressoché globale, ma Stramer ha da perdere solo la reputazione mentre il sistema nel suo complesso, la dignità di ergersi ad autorità.
 
 Quindi che il sistema attacchi Keir Starmer e come conseguenza di questo attacco ottenga la delegittimazione di se stesso come autorità, porta alla conclusione che il sistema è diretto da dementi, oppure marcio al punto da essere intollerabile anche per coloro che si nutrono di esso.
 
@@ -619,15 +619,15 @@ We all need to expose how much wrong things are before asking others to accept t
 
 ### The worst democracy is better than the best dictatorship
 
-It seems a very nice idea, but it is not. In fact, this claim was considered false by those invented democracy, the Ancient Greeks, and among them, Platone in paritcular. Ancient Greeks are used to elect a tyrant for copying with hard times like war.
+It seems like a very nice idea, but it is not. In fact, this claim was considered false by those who invented democracy, the Ancient Greeks, and among them, Platone in particular. Ancient Greeks are used to elect a tyrant for copying with hard times like war.
 
-How they choose him? A savvy and intelligent man, who was more keen to solve the problem for which he got in power than procastinate it to keep the power. Under this point of view, the dictatorship of idiots are the worst democracy, way worse than the Ancient Greeks tynnady as the best dictorship known.
+How did they choose him? A savvy and intelligent man, who was more keen to solve the problem for which he got in power than procrastinate it to keep the power. Under this point of view, the dictatorship of idiots is the worst democracy, way worse than the Ancient Greeks tyranid is the best kind of dictatorship that we known.
 
 [!INFO]
 Many forms of Government have been tried and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
 [/INFO]
 
-Curiosly, the author of that origina citation is Winston Churchill, who expressed that concept at the House of Commons on November 11, 1947. Churchill became Prime Minister for the first time on May 10, 1940, leading the UK through most of World War II. He was defeated in the General Election of July 1945 by Clement Attlee's Labour Party, and thus ceased to be Prime Minister at that time.
+Curiously, the author of that origina citation is Winston Churchill, who expressed that concept at the House of Commons on November 11, 1947. Churchill became Prime Minister for the first time on May 10, 1940, leading the UK through most of World War II. He was defeated in the General Election of July 1945 by Clement Attlee's Labour Party, and thus ceased to be Prime Minister at that time.
 
 [!INFO]
 Nassir Ghaemi's "A First-Rate Madness: Uncovering the Psychiatric Illnesses That Shaped History" (2011) is a prominent modern work that explicitly argues that mood disorders, particularly hypomania and depression, can contribute to effective leadership during times of crisis, and he uses Churchill as a prime example.
@@ -637,9 +637,9 @@ Ghaemi suggests that Churchill's depressive tendencies made him a political real
 It's widely acknowledged that Churchill consumed large amounts of alcohol (brandy, champagne, whisky) and smoked numerous cigars daily. He famously worked unconventional hours, often sleeping during the day and working through the night.
 [/INFO]
 
-In modern times, the gossip about Churchill was choosen to lead the UK during the WW2 despite being known to be addicted to various substances found its way when Nassir Ghaemi used his profile as the best example of a personality disorders help leadership in hard times. Anyway, immediately after the end of the war, Churchill was not the first choice anymore and when he managed to win a second term in 1951, he was seriously ill at the point that he had to resign few years later.
+In modern times, the gossip about Churchill was chosen to lead the UK during WW2 despite being known to be addicted to various substances found its way when Nassir Ghaemi used his profile as the best example of a personality disorder that helps leadership in hard times. Anyway, immediately after the end of the war, Churchill was not the first choice anymore and when he managed to win a second term in 1951, he was seriously ill to the point that he had to resign a few years later.
 
-So, who are those put the fundamentals to support the idea that the worst of the democracy is not better of every conceivable tirrany or dictatorshio? Not many but great minds:
+So, who are those who put the fundamentals to support the idea that the worst of the democracy is not better than every conceivable tyranny or dictatorship? Not many but great minds:
 
 - La Res Publica -- Platone (428 -- 348 BC)
 - Il principe -- Niccolò Machiavelli (1469 -- 1527)
@@ -647,21 +647,19 @@ So, who are those put the fundamentals to support the idea that the worst of the
 - De la démocratie en Amérique - Alexis de Tocqueville (1805 -- 1859)
 - Zur Genealogie der Moral. Eine Streitschrift - Friedrich Nietzsche (1844 -- 1900)
 
-Is our world governed by a mix of malice **and** stupidity as long as Hanlon's Razor cannot explain anymore what we are watching developing under our noses? Unfortunately it is even worse than that. After the Soviet Union collapsed, the NATO would have transformed itself or ceased to exist as per a cold-war institution, to be replaced by something more suitable to the new geopolitical scenario. 
+Is our world governed by a mix of malice **and** stupidity as long as Hanlon's Razor cannot explain anymore what we are watching developing under our noses? Unfortunately it is even worse than that. After the Soviet Union collapsed, NATO would have transformed itself or ceased to exist as per a cold-war institution, to be replaced by something more suitable to the new geopolitical scenario.
 
 [!INFO]
 Hanlon's Razor is a mental shortcut which teaches us, in the words of Robert J. Hanlon to never attribute to malice that which is adequately explained by stupidity. In other words, rather than questioning people's intentions, question their competence. A good advice, indeed.
 [/INFO]
 
-Unfortunately, it did not happen and in 10 years, they manage to put in power those were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles but NOT those mentally-illed around schools. People who are ALSO pedophyles because traumatised by abuses in childhood and with a strong attitude of bending the others people minds (manipulation) in order to cause them sufferance (sadism) not just kill or steal.
+Unfortunately, it did not happen and in 10 years, they managed to put in power those who were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles but **not** those mentally-illed around schools. People who are **also** pedophyles because they were traumatised by abuse in their childhood and with a strong attitude of bending the other people's minds (manipulation) in order to cause them suffering (sadism) not just kill or steal.
 
-War is the worst nightmare in terms of abuses but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathologically forms of saddism. In case you might think that I am exaggerating, then think again because THIS below is just the tip of this iceberg. The "grooming gangs" scandal about covering the 2011 investigation which states that the phenomeno was arising in the early 2000s.
+<span id="grooming-gangs-press-coverage"></span>
+War is the worst nightmare in terms of abuse but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathological forms of sadism. For example, the "grooming gangs" scandal, which is about covering the 2011 investigation which found out that the phenomenon was arising in the early 2000s. And **this** case is just the tip of this iceberg.
 
-- [lnkd.in/d-R9U2mT](https://lnkd.in/d-R9U2mT) - RNZ
-- [lnkd.in/dB48waRc](https://lnkd.in/dB48waRc) - Sky News
-- [lnkd.in/d32Ketxj](https://lnkd.in/d32Ketxj) - Euro News
-- [lnkd.in/dcUVzph2](https://lnkd.in/dcUVzph2) - Aljazeera
-- [lnkd.in/dUnExHnk](https://lnkd.in/dUnExHnk) - Times of India
+
+- The "grooming gangs" scandal press coverage: [RNZ](https://lnkd.in/d-R9U2mT) - [Sky News](https://lnkd.in/dB48waRc) - [Euro News](https://lnkd.in/d32Ketxj) - [Aljazeera](https://lnkd.in/dcUVzph2) - [Times of India](https://lnkd.in/dUnExHnk)
 
 At this point the we can consider the citation from "El ingenioso hidalgo Don Quijote de la Mancha" (Part 1 published 1605, Part 2 published 1615) by Miguel de Cervantes Saavedra (1547 -- 1616) who never let Don Quixote saying this quote which can easily be found on social networks.
 
