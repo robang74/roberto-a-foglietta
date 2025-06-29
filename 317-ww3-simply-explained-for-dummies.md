@@ -207,22 +207,22 @@ Anyway, in the above linked article a third option is presented and despite it h
 
 > Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts.
 
-The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, it was accounting the U.S. public debt a little above $37T which compounded with private debt made a $104.7T figure. Let me put this number in a more human-centric perspective:
+The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, was accounting the U.S. public debt a little above $37T which compounded with private debt made a $104.7T figure. Let me put this number in a more human-centric perspective:
 
 - `$308K x 340M = $104.7 x 10^3 (KxM) = $104.7 x 10^(3+3+6) = $104.7 x 10^12 = $104.7T`
 
-Which is an astonishing $308K pro-capite, including newborns and 99yo elder, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut down it, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Leman & Brother?
+Which is an astonishing $308K pro-capite, including newborns and 99yo elders, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut it down, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Lehman Brothers? The same, but a way bigger.
 
 ---
 
 ### Ukraine war: money laundering and its default
 
-It is difficult to say how many hundreds of billions Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, it has been the biggest waste of public money in the US and EU partnership history (aka NATO). No surprise that UE politics was loving this unnecessary and useless war, in which the two main drivers were:
+It is difficult to say how many hundreds of billions the Ukraine war really sucks, relatively easier knowing the budget allocated. For sure, it has been the biggest waste of public money in the US and EU partnership history (aka NATO). No surprise that EU politics was loving this unnecessary and useless war, in which the two main drivers were:
 
-- huge budgets like it were not tomorrow and 
-- money laundering and weapons black-market.
+- huge budgets like there was no tomorrow and
+- money laundering and the weapons black market.
 
-Draghi's 10 years of quantitative easing -- which kicked off the season of expansionary monetary policy, which also sustained an inflationary pricing policy -- provided the necessary huge financial mass to push into the Ukraine destruction while the end-consumer prices and energy costs skyrocketing, oppressing people and shutting down industry, especially in Germany.
+Draghi's 10 years of quantitative easing -- which kicked off the season of expansionary monetary policy, which also sustained an inflationary pricing policy -- provided the necessary huge financial mass to push into the Ukraine destruction while end-consumer prices and energy costs skyrocketed, oppressing people and shutting down industry, especially in Germany.
 
 - News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](../data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.md#?target=_blank)
 
