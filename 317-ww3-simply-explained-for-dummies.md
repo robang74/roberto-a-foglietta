@@ -449,11 +449,11 @@ The coordinated strikes targeted the Russian Air Force's Long-Range Aviation ass
 
 > A satellite link between the control center and the truck still seems to be the most plausible assumption
 
-Everything else apart a satellite link would have been tracked after-post, the movements among the cellular network of the SIMs (many for the same truck) and when many SIMs are moving together on a truck instead of autobus (people), then some suspects start to arise. Many SIMs from many operators, one among them always connected, all together at the operation start which means the time for preparation before the launch.
+Everything else apart, a satellite link would have been tracked after-post. The movements among the cellular network of the SIMs (many for the same truck) and when many SIMs are moving together on a truck instead of an autobus (people), then some suspects start to arise. Many SIMs from many operators, one among them always connected, all together at the operation start which means the time for preparation before the launch.
 
-Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those are used to drive in many countries and voip/whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better prepared to use all of those available.
+Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those who are used to drive in many countries and VoIP/Whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better, it could be prepared to use all of those available.
 
-After all, the Internet connection does not seem the main key apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster and darker.
+After all, the Internet connection does not seem the main key, apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster, more opaque and more reliable.
 
 ...
 
@@ -461,11 +461,11 @@ After all, the Internet connection does not seem the main key apart from the fac
 
 > Gotcha, shitfighter. You have officially become a military target! (semcit.)
 
-Why do Ukraine drones have a 4K hence the optic fiber guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and a poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAV as if they were video games.
+Why do Ukraine drones have a 4K, hence fiber optic guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAVs as if they were video games.
 
-This explains why the Ukraines UAV moves like in the video games instead of following the "hunting or scouting path". Someone that has been a real-word hunter or scout now. They are kids, paying kids for playing and only the best goes into real missions, the other financing the killing machine.
+This explains why the Ukrainian UAVs move like in video games instead of following the "hunting or scouting path". Someone that has been a real-word hunter or scout now. They are kids, paying kids for playing and only the best goes into real missions, the others financing the killing machine.
 
-Which also explains all this mad stuff in enjoyment of the video targeting the enemy. Because below the surface there is a dark network that earns $$$, kills, and educates to kill and enjoy the others' suffering.
+Which also explains all this mad stuff in enjoyment of the video targeting the enemy. Because below the surface there is a dark network that earns $$$, kills, and educates to kill and enjoy the suffering of others.
 
 Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they were exactly that way. Who knows where they have gone? Whatever about them, the same idea is spreading: first a large group of haters bullies the most brilliant and various many steps of hating kill by drones.
 
@@ -473,15 +473,15 @@ Nothing new, I met three ex KGBs with Polish ID cards but from Ukraine and they 
 
 #### What's about war as business but not as usual?
 
-Instead, another interesting "question" (or topic, more precisely) is about doing war as business but not as usual. Not as usual form few but fundamentally reasons:
+Instead, another interesting "question" (or topic, more precisely) is about doing war as business, but not as usual. Not as usual for a few but fundamental reasons:
 
-- **Costs in BOM**: renting the truck (tractor unit) is about $4000/mo and almost the same to buy the used container to customize and each drone costs about $300 (as I read but says $1k would not change much more), hence $12000, says $40.000 modified. Total, $100K
+- **Costs in BOM**: renting the truck (tractor unit) is about $4'000/month and almost the same to buy the used container to customize. Each drone costs about $300 (as I read but saying $1k would not change much), hence $12'000, say $40'000 modified. Total, $100K.
 
-- **Networking**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenalina pay-per-fight (or watch), betting, etc. plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
+- **Network externalities**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenaline pay-per-fight (or watch), betting, etc., plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
 
-- **One fits all**: scalable business model, today is Russia, tomorrow could be any other country on demand. First successful story 18mo, the next 9mo, the next 6mo, the next 3mo, the next 1mo (physical time to reach the targets) at that point is "destroying as service" on demand.
+- **One fits all**: scalable business model. Today is Russia, tomorrow could be any other country on demand. First successful story 18 months, the next 9 months, the next 6 months, the next 3 months, the next 1 month (the strictly necessary time to reach the targets). At that point it is "destroying as a service" on demand.
 
-- **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter produly entered into an "heroic lega" but trapped by a terrorist network, instead.
+- **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter proudly entered into an "heroic league" but trapped by a terrorist network, instead.
 
 Welcome into the new world in which shitcoin, drugs home delivery, and eros on demand are stuff for boys, while real-world terrorism is for men, whatever would be the age behind the player behind the joystick pad.
 
