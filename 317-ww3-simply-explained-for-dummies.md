@@ -389,11 +389,14 @@ From the point of view of a wo/man on the beach who stands up in front of the oc
 Karma, isn't it?
 
 +
+<div class="printonly">
 ---
 |x|>
 NOTES AND FURTHER INFORMATION FOLLOWING
 <|x|
 ---
+</div>
+
 ++++
 ---
 |x|>
@@ -416,7 +419,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 #### Un paio di retroscena a questa notizia
 
-> Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi “da bocca della verità”.
+> Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi "da bocca della verità".
 
 Ci sono due motivi per cui questo accade: 
 
@@ -436,7 +439,7 @@ Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](h
 Operation Spider's Web (Ukrainian: Операція «Павутина», romanized: Operatsija "Pavutyna") was a covert drone attack carried out by the Security Service of Ukraine (SBU) deep inside Russia on 1st June 2025, during the Russo-Ukrainian War. -- [Wikipedia](https://en.wikipedia.org/wiki/Operation_Spider%27s_Web)
 [/INFO]
 
-The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases—Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka—using drones concealed in and launched from trucks on Russian territory.
+The coordinated strikes targeted the Russian Air Force's Long-Range Aviation assets at five air bases -- Belaya, Dyagilevo, Ivanovo Severny, Olenya, and Ukrainka -- using drones concealed in and launched from trucks on Russian territory.
 
 ...
 
