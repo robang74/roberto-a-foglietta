@@ -619,15 +619,15 @@ We all need to expose how much wrong things are before asking others to accept t
 
 ### The worst democracy is better than the best dictatorship
 
-It seems like a very nice idea, but it is not. In fact, this claim was considered false by those who invented democracy, the Ancient Greeks, and among them, Platone in particular. Ancient Greeks are used to elect a tyrant for copying with hard times like war.
+It seems like a very nice idea, but it is not. In fact, this claim was considered false by those who invented democracy, the Ancient Greeks, and among them, Plato in particular. Ancient Greeks used to elect a tyrant for coping with hard times like war.
 
-How did they choose him? A savvy and intelligent man, who was more keen to solve the problem for which he got in power than procrastinate it to keep the power. Under this point of view, the dictatorship of idiots is the worst democracy, way worse than the Ancient Greeks tyranid is the best kind of dictatorship that we known.
+How did they choose him? A savvy and intelligent man, who was more keen to solve the problem for which he got in power than procrastinate it to keep the power. Under this point of view, the dictatorship of idiots is the worst democracy, way worse than the Ancient Greeks'tyranny, which is the best kind of dictatorship that we know.
 
 [!INFO]
 Many forms of Government have been tried and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
 [/INFO]
 
-Curiously, the author of that origina citation is Winston Churchill, who expressed that concept at the House of Commons on November 11, 1947. Churchill became Prime Minister for the first time on May 10, 1940, leading the UK through most of World War II. He was defeated in the General Election of July 1945 by Clement Attlee's Labour Party, and thus ceased to be Prime Minister at that time.
+Curiously, the author of the above citation is Winston Churchill, who expressed that concept at the House of Commons on November 11, 1947. Churchill became Prime Minister for the first time on May 10, 1940, leading the UK through most of World War II. He was defeated in the General Election of July 1945 by Clement Attlee's Labour Party, and thus ceased to be Prime Minister at that time.
 
 [!INFO]
 Nassir Ghaemi's "A First-Rate Madness: Uncovering the Psychiatric Illnesses That Shaped History" (2011) is a prominent modern work that explicitly argues that mood disorders, particularly hypomania and depression, can contribute to effective leadership during times of crisis, and he uses Churchill as a prime example.
@@ -637,9 +637,9 @@ Ghaemi suggests that Churchill's depressive tendencies made him a political real
 It's widely acknowledged that Churchill consumed large amounts of alcohol (brandy, champagne, whisky) and smoked numerous cigars daily. He famously worked unconventional hours, often sleeping during the day and working through the night.
 [/INFO]
 
-In modern times, the gossip about Churchill was chosen to lead the UK during WW2 despite being known to be addicted to various substances found its way when Nassir Ghaemi used his profile as the best example of a personality disorder that helps leadership in hard times. Anyway, immediately after the end of the war, Churchill was not the first choice anymore and when he managed to win a second term in 1951, he was seriously ill to the point that he had to resign a few years later.
+In modern times, the gossip about Churchill being chosen to lead the UK during WW2 despite being known to be addicted to various substances found its way when Nassir Ghaemi used his profile as the best example of a personality disorder that helps leadership in hard times. Anyway, immediately after the end of the war, Churchill was not the first choice anymore and when he managed to win a second term in 1951, he was seriously ill to the point that he had to resign a few years later.
 
-So, who are those who put the fundamentals to support the idea that the worst of the democracy is not better than every conceivable tyranny or dictatorship? Not many but great minds:
+So, who are those who put the fundamentals to support the idea that the worst of democracy is not better than every conceivable tyranny or dictatorship? Not many, but great minds:
 
 - La Res Publica -- Platone (428 -- 348 BC)
 - Il principe -- Niccolò Machiavelli (1469 -- 1527)
@@ -647,21 +647,20 @@ So, who are those who put the fundamentals to support the idea that the worst of
 - De la démocratie en Amérique - Alexis de Tocqueville (1805 -- 1859)
 - Zur Genealogie der Moral. Eine Streitschrift - Friedrich Nietzsche (1844 -- 1900)
 
-Is our world governed by a mix of malice **and** stupidity as long as Hanlon's Razor cannot explain anymore what we are watching developing under our noses? Unfortunately it is even worse than that. After the Soviet Union collapsed, NATO would have transformed itself or ceased to exist as per a cold-war institution, to be replaced by something more suitable to the new geopolitical scenario.
+Is our world governed by a mix of malice **and** stupidity in such a way Hanlon's Razor cannot explain anymore what we are watching developing under our noses? Unfortunately it is even worse than that. After the Soviet Union collapsed, NATO would have transformed itself or ceased to exist as per a cold-war institution, to be replaced by something more suitable to the new geopolitical scenario.
 
 [!INFO]
 Hanlon's Razor is a mental shortcut which teaches us, in the words of Robert J. Hanlon to never attribute to malice that which is adequately explained by stupidity. In other words, rather than questioning people's intentions, question their competence. A good advice, indeed.
 [/INFO]
 
-Unfortunately, it did not happen and in 10 years, they managed to put in power those who were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles but **not** those mentally-illed around schools. People who are **also** pedophyles because they were traumatised by abuse in their childhood and with a strong attitude of bending the other people's minds (manipulation) in order to cause them suffering (sadism) not just kill or steal.
+Unfortunately, it did not happen and in 10 years, they managed to put in power those who were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles, but **not** those mentally-illed around schools. People who are **also** pedophyles because they were traumatised by abuse in their childhood and with a strong attitude of bending other people's minds (manipulation) in order to cause them suffering (sadism) not just kill, steal or be able to escape from justice.
 
 <span id="grooming-gangs-press-coverage"></span>
-War is the worst nightmare in terms of abuse but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathological forms of sadism. For example, the "grooming gangs" scandal, which is about covering the 2011 investigation which found out that the phenomenon was arising in the early 2000s. And **this** case is just the tip of this iceberg.
-
+War is the worst nightmare in terms of abuse, but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathological forms of sadism. For example, the "grooming gangs" scandal, which is about covering the 2011 investigation which found out that the phenomenon was arising in the early 2000s. And **this** case is just the tip of this iceberg.
 
 - The "grooming gangs" scandal press coverage: [RNZ](https://lnkd.in/d-R9U2mT) - [Sky News](https://lnkd.in/dB48waRc) - [Euro News](https://lnkd.in/d32Ketxj) - [Aljazeera](https://lnkd.in/dcUVzph2) - [Times of India](https://lnkd.in/dUnExHnk)
 
-At this point the we can consider the citation from "El ingenioso hidalgo Don Quijote de la Mancha" (Part 1 published 1605, Part 2 published 1615) by Miguel de Cervantes Saavedra (1547 -- 1616) who never let Don Quixote saying this quote which can easily be found on social networks.
+At this point, we can consider the citation from "El ingenioso hidalgo Don Quijote de la Mancha" (Part 1 published 1605, Part 2 published 1615) by Miguel de Cervantes Saavedra (1547 -- 1616) who never let Don Quixote saying this quote which can easily be found on social networks.
 
 > Dear Sancho (Panza), we are fighting against three giants: fear, ignorance and injustice. (meme)
 
