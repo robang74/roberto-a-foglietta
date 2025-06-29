@@ -584,9 +584,9 @@ Because the main goal is **not** convincing the enemy and not even the common pe
 <span id="how-to-analise-osint-war-information"></span>
 ### How to analyse OSINT war information
 
-In times of war, information is precious but also at risk of being manufactured. Those that need to extract valuable conclusions from publicly available information have to follow the scientific method in which making hypotheses and cast speculations are part of a strictly ruled way of doing.
+In times of war, information is precious but also at risk of being manufactured. Those that need to extract valuable conclusions from publicly available information have to follow the scientific method, within which making hypotheses and speculations are part of a strictly ruled way of doing.
 
-For example, in the case of Fordow bombing, the absence of radioactivity leak and more than 3 meters terrain depression on a large are fitting into null-hypothesis: no damage. A delusional conclusion, despite the bombs doing their work perfectly and the hits were precise as they should have to be.
+For example, in the case of the Fordow bombing, the absence of radioactivity leak and more than 3 meters of terrain depression on a large area it into a null-hypothesis: no damage. A delusional conclusion, despite the bombs doing their work perfectly and the hits were precise as they should have been.
 
 <div align="center"><img class="bwsketch" src="data/317-fordow-photos-before-after-bombing.jpg" width="800"><br></div>
 
@@ -594,11 +594,11 @@ Reasonably, even a nuclear detonation over the Fordow site might not manage to s
 
 This is a clear brute-force oriented approach which fails by its own design. Why? Because "hammering" something to destroy it, is based on the supposition about our current way of building structures and hence their common fragilities: flat cells suspended by robust pillars on large foundations.
 
-Iran is a country which was known in ancient times as Persia. Their concept of underground structures are way different than all the modern architectures. Just an example which is quick to grasp: Roman Colosseum and monumental aqueducts have lasted millenia despite their massive weights.
+Iran is a country which was known in ancient times as Persia. Their concept of underground structures is way different than all the modern architectures. Just an example which is quick to grasp: Roman Colosseum and monumental aqueducts have lasted millenia despite their massive weights.
 
-The arch, the barrel ceiling, the domes, and similar structures are made to be as solid as their weight is heavy. A structure like that carved into rocks or embedded underground would as simply discharge the shockwave as if they were transparent while a modern structure would implode.
+The arch, the barrel ceiling, the domes, and similar structures are made to be as solid as their weight is heavy. A structure like that carved into rocks or embedded underground would simply discharge the shockwave as if they were transparent while a modern structure would implode.
 
-This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- once developed a Mach 15 ballistic rocket technology and still have a deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
+This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- that has developed a Mach 15 ballistic rocket technology and still possesses deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
 
 This led to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fit into recurrent players as per the games theory definition. Which leads to considering the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
@@ -606,11 +606,11 @@ This led to the conclusion that with Iran we cannot enjoy the luxury of playing 
 
 ### The US foreign diplomacy's failure
 
-Is it surpringin? Not at all, because like in the far-west those who do not have a gun or are ready to use it in defending their own self-interests were at the mercy of the others. I think that native americans confined to reserves can tell you about it in a pretty convincing way. So, the Iran crisis is nothing else than another chapter of the poker-face-as-diplomacy combined with winning-card-or-gun-duel as a universal negotiation strategy.
+Is it surprising? Not at all, because like in the far-west those who do not have a gun or are ready to use it in defending their own self-interests were at the mercy of the others. I think that native Americans confined to reserves can tell you about it in a pretty convincing way. So, the Iran crisis is nothing else than another chapter of the poker-face-as-diplomacy combined with winning-card-or-gun-duel as a universal negotiation strategy.
 
-Trump saying that Spain will pay double tariff because they did not sign for the military expenditure increase, is a pretty clear example of this posture. And again, it is not a Trump fault, instead thanks to Trump finally we see in plain view what it was the US foreign posture since Wolfowitz doctrine has been officially adopted (1992). Trump might wish to replace the doctrine but I would not succeed unless he clearly shows what Wolfowitz idea is working in the real-world.
+Trump saying that Spain will pay double tariff because they did not sign for the military expenditure increase, is a pretty clear example of this posture. And again, it is not a Trump fault. On the opposite, thanks to Trump finally we see in plain view what was the  US foreign posture since the Wolfowitz doctrine has been officially adopted (1992). Trump might wish to replace the doctrine but he would not succeed unless he clearly shows what the Wolfowitz idea is working in the real-world.
 
-We all need to expose how much wrong things are before asking others to accept to change them. False. Nobody requires an authorisation to change wrong things, not even other people's acceptance. Within the above conceptual framework, anyone who has the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still needs to create the proper condition to defend his decision in front of the Congress and his nation.
+We all need to expose how much wrong things are before asking others to accept to change them. False. Nobody requires an authorization to change wrong things, not even other people's acceptance. Within the above conceptual framework, anyone who has the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still needs to create the proper conditions to defend his decision in front of the Congress and his nation.
 
 +
 
