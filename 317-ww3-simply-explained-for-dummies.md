@@ -113,41 +113,41 @@ At this point, the proposal to surrender to Russia in exchange of the Lviv metro
 
 ### NATO is waging a proxy-war with Russia
 
-- **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia. (cfr. [press coverage](#kellogg-declarations-press-coverage))
+- **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg, has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia. (cfr. [press coverage](#kellogg-declarations-press-coverage))
 
-While I did not find the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that India news are strongly rooted with this expression instead of the most straightforward "a proxy war **against** Russia".
+While I did not loof for the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that Indian news sources are strongly rooted with this expression instead of the more straightforward "a proxy war **against** Russia".
 
 > In a stunning admission, Donald Trump’s Ukraine envoy Keith Kellogg declared that NATO is in a proxy war **with** Russia, echoing long-standing claims made by Vladimir Putin.
 
 - Times of India: [article](https://timesofindia.indiatimes.com/videos/international/putin-was-right-trump-envoy-keith-kellogg-stuns-nato-in-blistering-attack-over-ukraine-stand/videoshow/121547368.cms) published on 1st June 2025.
 
-We might wonder it can be a choice for avoid a confrontation language, thus replacing **against** with **with** or it is because a translation from Russian bespoken by Putin, or India's English short way for report "**involving**" Russia as said by Keith Kellogg.
+We might wonder if it can be a choice to avoid confrontational language, thus replacing **against** with **with**, or if it is because of India's English short way to report "**involving**" Russia as said by Keith Kellogg.
 
 > It highlights that the conflict is happening in relation to or involving Russia, rather than simply being directed at Russia as a passive target. (Gemini)
 
-However, there is another explanation for having used "**with**" as a correct translation of revealing "**involving**" bespoken by Keith Kellogg: Russia in involved in a proxy-war not against Russia, but with Russia, against Europe and in particular the European Union, and in particular the Euro which is the **only** fiat-currency that can compete with the US dollar for supporting the international trades and a global financial reserve of liquidity.
+However, there is another explanation for having used "**with**" as a correct translation of revealing "**involving**" spoken by Keith Kellogg: Russia is involved in a proxy-war not against Russia, but with Russia, against Europe and in particular the European Union, and in particular the Euro which is the **only** fiat-currency that can compete with the US dollar for supporting international trades and a global financial reserve of liquidity.
 
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance and trading for decades up to now.  Just to cite the most relevant in chronological order:
+Under this perspective, the Ukraine proxy-war is part of a plan developed the year after the Euro started to be used in Europe. In 2001, few but relevant facts happened that completely reshaped the outlook of global geopolitics, finance, and trading for decades up to now. Just to cite the most relevant in chronological order:
 
-- 1999-01-01 -- Euro became an official currency controlled and emitted by European Central Bank;
+- 1999-01-01 -- Euro became an official currency controlled and issued by the European Central Bank;
 
-- 2000-03-10 -- The dot-com bubble burst, specifically with the Nasdaq peaking at 5.048,followed by a sharp decline, which fell to 1.134 by October 4th 2002 with a capitalisation lost of 77.54%;
+- 2000-03-10 -- The dot-com bubble burst, specifically with the Nasdaq peaking at 5'048, followed by a sharp decline, which fell to 1'134 by October 4, 2002 with a capitalization lost of 77.54%;
 
-- 2001-07-20 -- G8 summit in Genoa, during which we have seen an unprecedented case of violence against unarmed people, and the worst violation of human rights happened in the Europe after the end of the WW2 as stated by Amnesty International, perpetrated by Italian Police under the Berlusconi government;
+- 2001-07-20 -- G8 summit in Genoa, during which we have seen an unprecedented case of violence against unarmed people, and the worst violation of human rights happened in Europe after the end of the WW2 as stated by Amnesty International, perpetrated by Italian Police under the Berlusconi government;
 
-- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and travelling people towards security over freedom;
+- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and traveling people towards security over freedom;
 
 - 2001-12-11 -- China entered as a member into the World Trade Organisation (WTO). As part of their accession, China agreed to various commitments, including reducing trade barriers, opening their market, and improving intellectual property protection;
 
-- 2002-03-01 -- Euro became the sole official legal tender for the 12 European countries that adhered to it.
+- 2002-03-01 — Euro became the sole official legal tender for the first twelve European countries that started to use it.
 
-In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal which was proven since 2011, is rooted into the early 2000' years. (cfr. [press coverage](#the-grooming-gangs-scandal-in-uk))
+In particular, the 9/11 shock and its narrative supported the mass surveillance systems deployments for contrasting international terrorism. Accidentally, we are discovering that in the UK the "grooming gangs" scandal, which was proven since 2011, is rooted into the early 2000's years. (cfr. [press coverage](#the-grooming-gangs-scandal-in-uk))
 
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
 
-Supporting the suspicion (reasonably grounded since Genova G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds. On a broader view, it seems that NATO is the problem that is trying to sell the solution to the problem of their own existence as a cold-war organisation survived too long after the cold-war was gone.
+Supporting the suspicion (reasonably grounded since the Genoa G8 violence) that the idea of manipulating people was a plan much deeper in our flesh and blood than just our minds. On a broader view, it seems that NATO is the problem that is trying to sell the solution to the problem of their own existence as a cold-war organisation survived too long after the Soviet Union collapse.
 
 ---
 <span id="people-minds-as-the-ultimate-battlefield"></span>
