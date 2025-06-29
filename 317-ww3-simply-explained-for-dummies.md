@@ -11,25 +11,25 @@
 
 ###  Why does NATO still exist, after 1992?
 
-The war against Russia has been planned since 1992, in this period of time, the US war machine has cost about $33T of public debt which is almost all of it in full. A strong claim and a bold conclusion which deserve an explanation.
+The war against Russia has been planned since 1992. In this period of time, the US war machine has cost about $33T of public debt, which is almost all of it. A strong claim and a bold conclusion which deserve an explanation.
 
 At the end of 1991, the Soviet Union suddenly collapsed. Suddenly because the Red Star Empire took relatively few years from when the Glasnost (transparency) started to be actively carried on. While Perestroika (changement) was the key point of Gorbačëv presidency (1985), the Glasnost remained behind on its schedule until the Chernobyl nuclear disaster (1986). That event forced the Soviet Communist Party to accept a breach into their opaque system of power. A breach that made the Soviet Union collapse, after all.
 
 - Security by obscurity is always a poor choice, and it is doomed to a tragic failure.
 
-At the end of 1989, the Berlin Wall was falling and by the end of 1991 also the Soviet Union. With the dissolution of the Varsavia Pact, also NATO ceased to have its own meaning because the NATO alliance was in place during the Cold War to defend the Western Capitalism and Democracy from Soviet Communism and Tyranny. Once the Evil Empire was gone, alsa the NATO was due to be dismissed.
+At the end of 1989, the Berlin Wall was falling and by the end of 1991, also the Soviet Union collapsed. With the dissolution of the Warsaw Pact, also NATO ceased to have its own meaning because the NATO alliance was in place during the Cold War to defend the Western Capitalism and Democracy from Soviet Communism and Tyranny. Once the Evil Empire was gone, alsa the NATO was due to be dismissed.
 
-In theory. Because in practice, many options have been considered including a transformation and a rearrangement. Up to 2004, the idea of including Russia into the NATO alliance was still on the table. Looking back at that time, we can say that the idea of letting Russia enter into NATO was substantially a trick to buy time and the Russia 's patiente for extending NATO towards the east in violation of the promise Gorbačëv received from NATO.
+In theory. Because in practice, many options have been considered, including a transformation and a rearrangement. Up to 2004, the idea of including Russia into the NATO alliance was still on the table. Looking back at that time, we can say that the idea of letting Russia enter into NATO was substantially a trick to buy time and Russia's patience for extending NATO towards the east in violation of the promise Gorbačëv received from NATO.
 
-The turning point arrived with the Putin' speech at the Munich Security Conference in February 2007 because, among other interesting things, Putin was pretty clear in exposing the NATO subtle plan of their expansion to the east and surrounding Russia with NATO military installations all around their borders. Something that Russia would not be going to tolerate anymore, silently.
+The turning point arrived with Putin's speech at the Munich Security Conference in February 2007 because, among other interesting things, Putin was pretty clear in exposing the NATO subtle plan of their expansion to the east and surrounding Russia with NATO military installations all around their borders. Something that Russia would not be going to tolerate anymore, silently.
 
 - [Vladimir Putin' speech](https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin) in Munich and its full [English transcription](http://en.kremlin.ru/events/president/transcripts/24034) from Kremlin (*via http only*)
 
-Soon after that speech US funded NGOs started to infiltrate the Ukraine society with the aim of influencing the political context. Looking at those past times, we can recognise it but at that time it was not so obvious. Only recently documents emerged by the U.S. archives that a political interference in Ukraine to create some revolutions to bring in power a pro-European government which would later go against Russia.
+Soon after that speech, US-funded NGOs started to infiltrate Ukrainian society with the aim of influencing the political context. Looking at those past times, we can recognise it, but at that time, it was not so obvious. Only recently have documents emerged from the U.S. archives showing a political interference in Ukraine to create some revolutions to bring to power a pro-European government which would later go against Russia.
 
-In that same year the subprime loans bubble exploded and soon after the burst reached Europe. Under this point of view, it is worth noting that there is no way that any country can apply for joining NATO by their own government decision. But **only** by an official and explicit invitation from USA because this is the **only** procedure allowed among NATO to expand their obligations over other countries.
+In that same year, the subprime loans bubble exploded, and soon after, the burst reached Europe. From this point of view, it is worth noting that there is no way that any country can apply for joining NATO by their own government decision, but **only** by an official and explicit invitation from the USA because this is the **only** procedure allowed among NATO to expand their obligations over other countries.
 
-Therefore, the idea published by the media about the free-will of joining NATO is a mere fraud towards public opinion leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA approval. Which supports the idea that NATO is a military fanclub of the USA, and it still seems to be the case today.
+Therefore, the idea published by the media about the free will of joining NATO is a mere fraud towards public opinion, leveraging the ignorance about how NATO works by its own statute which, obviously, cannot be changed without the USA's approval. This supports the idea that NATO is a military fan-club of the USA, and it still seems to be the case today.
 
 - 2025-06-24 -- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
 
