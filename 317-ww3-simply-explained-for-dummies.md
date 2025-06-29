@@ -33,33 +33,33 @@ Therefore, the idea published by the media about the free will of joining NATO i
 
 - 2025-06-24 -- [NATO chief Mark Rutte](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran) commends Trump for pushing European nations to increase (from 2% up to 5% of the GDP) their military spending, in a ‘BIG way’ thanks to US pressure.
 
-Anyway, back when the operational season started in 2007, it was supported by the U.S. Congress which lately removed the law forbidding to fund, train and arm neo-nazis groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
+Anyway, back when the operational season started in 2007, it was supported by the U.S. Congress, which later removed the law forbidding the funding, training, and arming of neo-Nazi groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
-Moreover, the Dumbass and a few other Ukraine regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, time to time, by the central Ukraine government. Which also removed by law the right to use Russian language as the second official language of Ukraine.
+Moreover, Donbas and a few other Ukrainian regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, from time to time, by the central Ukrainian government, which also removed by law the right to use Russian language as the second official language of Ukraine.
 
 [!INFO]
 The Minsk agreements are a pair of agreements aimed at ending the war in the Donbas region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
 [/INFO]
 
-Unfortunately, the Misk agreements were not going to settle the Ukraine case which at that time was allowed to join the European Union but it was not ready for that due to their shortcomings in many fields like infrastructures, legislation, financial and economic stability.
+Unfortunately, the Minsk agreements were not going to settle the Ukraine case, which at that time was allowed to join the European Union, but it was not ready for that due to their shortcomings in many fields like infrastructures, legislation, and financial and economic stability.
 
-In fact, Ukraine after having accepted to give back to Russia the nuclear weapons, soon after the Soviet Union dissolution, December 1994, was consistently supported by Russia which was paying relatively good fees for gas transfer in Europe passing through Ukraine and buying their public debts as much as they were in need.
+In fact, Ukraine, after having accepted to give back to Russia the nuclear weapons soon after the Soviet Union dissolution in December 1994, was consistently supported by Russia, which was paying relatively good fees for gas transfer to Europe passing through Ukraine and buying their public debts as much as they were in need.
 
-Under these circumstances the best role of Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the ending of 2021. When Ukraine hosted the vastest military exercise that NATO did at that time.
+Under these circumstances, the best role for Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the end of 2021, when Ukraine hosted the vastest military exercise that NATO did at that time.
 
 [!INFO]
 In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
 [/INFO]
 
-Which triggered, as expected, the Russia reaction that after several attempts to settle down the situation, the last failed because Biden forbade Zelensky the permission to sign an agreement with Russia, on the end of February 2022, Russian troops entered into the Ukraine territory.
+Which triggered, as expected, the Russian reaction that after several attempts to settle down the situation -- the last failed because Biden forbade Zelensky the permission to sign an agreement with Russia -- on the end of February 2022, Russian troops entered into the Ukrainian territory.
 
-It is worth noting that Angela Merkel in late 2022, when it was clear that Russia could not be forced into a financial default nor it was possible to isolate Russia in that geopolitical scenario. spoken out about the US agreed to undergo with the Minsk I and II agreements just to prepare the Ukraine for a war against Russia,
+It is worth noting that Angela Merkel in late 2022, when it was clear that Russia could not be forced into a financial default nor it was possible to isolate Russia in that geopolitical scenario, spoke out about the US agreed to undergo with the Minsk I and II agreements just to prepare Ukraine for a war against Russia.
 
 [!INFO]
 On 26 September 2022, a series of underwater explosions and consequent gas leaks occurred on 3 of 4 Nord Stream pipes, rendering them inoperable. The Nord Stream 1 (NS1) and Nord Stream 2 (NS2) are natural gas pipelines. They are two of 23 gas pipelines between Europe and Russia.
 [/INFO]
 
-An event that was anticipated by Biden meeting in Berlin with Scholtz in front of a quite surprised journalists team who were incapable to cope with the idea that an US president would have dared to destroy a strategic infrastructure co-owned by Germany which is an ally, also in NATO.
+An event that was anticipated by Biden meeting in Berlin with Scholz in front of a quite surprised journalist team who were incapable to cope with the idea that a US president would have dared to destroy a strategic infrastructure co-owned by Germany, which is an ally, also in NATO.
 
 - [Non c'è il 2° podio negli schemi Ponzi](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) &nbsp; (2025-05-16)
 
