@@ -163,7 +163,7 @@ A 30 pages essay that has been completed at the end of May 2025 thus it has been
 Ursula von der Leyen’s idea of exposing people to deliberately created fake-news to build resistance aligns closely with the concept of psychological inoculation or "pre-bunking". The idea is to expose people to simplified (aka meme) and deliberately misinformation to teach them how it works.
 [/INFO]
 
-Unfortunately the pre-bunking approach can conversely used to made the population more resistant to the facts-driven fact-checking in favour of a propaganda-driven fact-checking as shown in this article in which a common person would not be able to argue but passively assimilate the biased notions provided by the AI, as an example of propaganda-driven misinformation provider.
+Unfortunately the pre-bunking approach can conversely be used to make the population more resistant to facts-driven fact-checking in favour of a propaganda-driven fact-checking as explained in this article liked below, in which a common person would not be able to argue but passively assimilate the biased notions provided by the AI, as an example of a propaganda-driven misinformation provider.
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
 
@@ -175,27 +175,27 @@ Something about health management that we never saw in Europe before and which w
 
 ---
 
-### Squeezing the most from the Russia fear
+### Squeezing the most from the fear of Russia
 
 We can easily agree that the U.S. foreign policy was **always** been towards their own specific interests without any pity nor consideration for their allies. As clearly stated by the [Wolfowitz doctrine](https://en.wikipedia.org/wiki/Wolfowitz_Doctrine) (1992) which would be naive to ignore.
 
-We can also agree that the U.S. has an historical attitude to playing poker on many tables at the same time and quickly leaving those tables in which they are losing too much or in which the counterparty did not buy their bluff (aka their arbitrary narrative or deal-as-a-trap tactic).
+We can also agree that the U.S. has a historical attitude to playing poker on many tables at the same time and quickly leaving those tables in which they are losing too much or in which the counterparty did not buy their bluff (aka their arbitrary narrative or deal-as-a-trap tactic).
 
-Considering these premises, how the table has turned in favor of Russia explained in 2nd-last section and the facts interpretation proposed in the last section, we can agree that once taken the most from Ukraine and then left behind as a problem for Russia, the next goal would be leverage the Biden's era European leadership to squeeze the most from Europe. How?
+Considering these premises, how the table has turned in favor of Russia explained in the 2nd-last section and the facts interpretation proposed in the last section, we can agree that once the U.S. has taken the most from Ukraine and then left them behind as a problem for Russia, the next goal would be to leverage the Biden's era European leadership to squeeze the most from Europe. How?
 
-What's the best way to move from "**against**" to "**with**" Russia and send them an "you too involved" message by the Keith Kellogg words and by the "Times of India" columns in order to leverage the fear of a Soviet-like invasion of Europe? Nowadays, Russia is going to take Ukraine but who can grant us that they will stop there?
+What's the best way to move from "**against**" to "**with**" Russia and send them an "you too involved" message by Keith Kellogg's words and by the "Times of India" columns in order to leverage the fear of a Soviet-like invasion of Europe? Nowadays, Russia is going to take Ukraine but who can grant us that they will stop there?
 
-Curiously, we as Europeans are keen to think that Russians are thinking like we were thinking. If Russia would have left us to take Ukraine and include it into NATO, building up military bases and bio-weapons laboratories, who would have granted them that the next step would not have been attacking Russia? Like Ukraine did with European military support, as Kellogg admitted?
+Curiously, we as Europeans are keen to think that Russians are thinking like we do. If Russia would have left us to take Ukraine and include it into NATO, building up military bases and bio-weapons laboratories, who would have granted them that our next step would not have been attacking Russia? Like Ukraine did with European military support, as Kellogg admitted?
 
-Our worst nightmare is that others are like us, thinking like us and are going to behave like us. Which is not unfair, after all as Putin said: they tried to strangle us, it is time to show them some kind of reciprocity. Does reciprocity sound very dangerous? Welcome aboard Game's Theory students!
+Our worst nightmare is that others are like us, thinking like us and are going to behave like us. Which is not unfair, after all as Putin said: "they tried to strangle us, it is time to show them some kind of reciprocity. Does reciprocity sound very dangerous? Welcome aboard Game's Theory students!
 
-The fear of being invaded will let us be squeezed by more than 3% of our GDP in buying weapons. When nations buy weapons in large quantities they should use them otherwise politicians should face the shame of having wasted a lot of public money. The sunk-cost fallacy, right?
+The fear of being invaded will let us be squeezed by an extra 3% of our GDP in buying weapons. When nations buy weapons in large quantities they should use them otherwise politicians should face the shame of having wasted a lot of public money. The sunk-cost fallacy, right? An evergreen.
 
-Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts. It is amazing how some people can think that we **all** are a bunch of idiots that can hopelessly fall again and again into the same rat-traps just because it is presented in a different shape or color.
+Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to hide the US public and private debts. It is amazing how some people can think that we **all** are a bunch of idiots hopelessly keen to fall again and again into the same rat-traps just because it is presented with different words.
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
-Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between the two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
+Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between these two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
 
