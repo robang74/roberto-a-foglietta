@@ -613,6 +613,56 @@ Trump saying that Spain will pay double tariff because they did not sign for the
 
 We all need to expose how much wrong things are before asking others to accept to change them. False. Nobody requires an authorisation to change wrong things, not even other people's acceptance. Within the above conceptual framework, anyone who has the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still needs to create the proper condition to defend his decision in front of the Congress and his nation.
 
+<!--
+
+### The worst democracy is better than the best dictatorship.
+
+It seems a very nice idea, but it is not. In fact, this claim was considered false by those invented democracy, the Ancient Greeks, and among them, Platone in paritcular. Ancient Greeks are used to elect a tyrant for copying with hard times like war.
+
+How they choose him? A savvy and intelligent man, who was more keen to solve the problem for which he got in power than procastinate it to keep the power. Under this point of view, the dictatorship of idiots are the worst democracy, way worse than the Ancient Greeks tynnady as the best dictorship known.
+
+[!INFO]
+Many forms of Government have been tried and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.
+[/INFO]
+
+Curiosly, the author of that origina citation is Winston Churchill, who expressed that concept at the House of Commons on November 11, 1947. Churchill became Prime Minister for the first time on May 10, 1940, leading the UK through most of World War II. He was defeated in the General Election of July 1945 by Clement Attlee's Labour Party, and thus ceased to be Prime Minister at that time.
+
+[!INFO]
+Nassir Ghaemi's "A First-Rate Madness: Uncovering the Psychiatric Illnesses That Shaped History" (2011) is a prominent modern work that explicitly argues that mood disorders, particularly hypomania and depression, can contribute to effective leadership during times of crisis, and he uses Churchill as a prime example.
+
+Ghaemi suggests that Churchill's depressive tendencies made him a political realist who understood the true threat of Hitler, while his hypomanic phases fueled his boundless energy and creativity in wartime.
+
+It's widely acknowledged that Churchill consumed large amounts of alcohol (brandy, champagne, whisky) and smoked numerous cigars daily. He famously worked unconventional hours, often sleeping during the day and working through the night.
+[/INFO]
+
+In modern times, the gossip about Churchill was choosen to lead the UK during the WW2 despite being known to be addicted to various substances found its way when Nassir Ghaemi used his profile as the best example of a personality disorders help leadership in hard times. Anyway, immediately after the end of the war, Churchill was not the first choice anymore and when he managed to win a second term in 1951, he was seriously ill at the point that he had to resign few years later.
+
+So, who are those put the fundamentals to support the idea that the worst of the democracy is not better of every conceivable tirrany or dictatorshio? Not many but great minds:
+
+- La Res Publica -- Platone (428 -- 348 BC)
+- Il principe -- Niccolò Machiavelli (1469 -- 1527)
+- De l'esprit des lois -- Montesquieu (1689 -- 1755)
+- De la démocratie en Amérique - Alexis de Tocqueville (1805 -- 1859)
+- Zur Genealogie der Moral. Eine Streitschrift - Friedrich Nietzsche (1844 -- 1900)
+
+Is our world governed by a mix of malice **and** stupidity as long as Hanlon's Razor cannot explain anymore what we are watching developing under our noses? Unfortunately it is even worse than that. After the Soviet Union collapsed, the NATO would have transformed itself or ceased to exist as per a cold-war institution, to be replaced by something more suitable to the new geopolitical scenario. 
+
+[!INFO]
+Hanlon's Razor is a mental shortcut which teaches us, in the words of Robert J. Hanlon to never attribute to malice that which is adequately explained by stupidity. In other words, rather than questioning people's intentions, question their competence. A good advice, indeed.
+[/INFO]
+
+Unfortunately, it did not happen and in 10 years, they manage to put in power those were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles but NOT those mentally-illed around schools. People who are ALSO pedophyles because traumatised by abuses in childhood and with a strong attitude of bending the others people minds (manipulation) in order to cause them sufferance (sadism) not just kill or steal.
+
+War is the worst nightmare in terms of abuses but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathologically forms of saddism. In case you might think that I am exaggerating, then think again because THIS below is just the tip of this iceberg
+
+- https://lnkd.in/d-R9U2mT - RNZ
+- https://lnkd.in/dB48waRc - Sky News
+- https://lnkd.in/d32Ketxj - Euro News
+- https://lnkd.in/dcUVzph2 - Aljazeera
+- https://lnkd.in/dUnExHnk - Times of India
+
+//-->
+
 +
 
 ## Related articles
