@@ -24,6 +24,12 @@
 */
 
 @media print {
+    .printonly {
+        display: block; !important;
+        visibility: visible !important;
+        overflow: visible !important;
+    }
+
     .pagebreak {
         clear: both;
         page-break-after: always;

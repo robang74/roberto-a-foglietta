@@ -316,3 +316,9 @@ a.toplink {
     font-size: 75%;
 }
 
+.printonly {
+        display: none;
+        overflow: hidden;
+        visibility: collapse;
+}
+
