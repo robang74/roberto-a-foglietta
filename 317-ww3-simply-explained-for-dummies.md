@@ -669,6 +669,10 @@ At this point the we can consider the citation from "El ingenioso hidalgo Don Qu
 
 Unsurprisingly, this meme is suggesting that those who try to fight those three giants are hopelessly mad as Don Quixote attacking windmills. Well, let me clarify that fear, ignorance, and injustice have always existed, but nowadays we are facing the Native American prophecy (or a curse by their god) about white people's attitude of rising to the power of evil people, to be led by them.
 
+Under our noses the *last conspiracy theory* is going to reveal a truth, but we cannot see it. Our eyes are useless when our minds are blind. Moreover, when our minds are driven by fear-ignorance-and-injustice, we are blindly seeking *security*, and those who created the problem are ready to cash in on our tax money and infiltrate civil society to provide more fine-grained control in the hope to achieve the ultimate power, ignoring that micromanagement destroys productivity in companies but it kills the human spirit when applied to society.
+
+> El sueño de la razón produce monstruos, cit. Francisco Goya y Lucientes (1746 – 1828) 
+
 +
 
 ## Related articles
