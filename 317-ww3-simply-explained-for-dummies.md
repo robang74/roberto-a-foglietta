@@ -388,10 +388,16 @@ From the point of view of a wo/man on the beach who stands up in front of the oc
 
 Karma, isn't it?
 
++
+---
+|x|>
+NOTES AND FURTHER INFORMATION FOLLOWING
+<|x|
+---
 ++++
 ---
 |x|>
-NOTES AND FURTHER INFORMATION
+NOTES AND FURTHER INFORMATION COLLECTION
 <|x|
 ---
 +
