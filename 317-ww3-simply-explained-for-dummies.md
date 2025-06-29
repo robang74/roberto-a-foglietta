@@ -234,11 +234,11 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ### Israel vs Iran twelve days war
 
-[!INFO]
-For the sake of completeness, in this article for "**Israel**" is **always** intended specifically the "**State of Israel**" -- which at the time of writing is governed by the Netanyahu presidency -- without contemplating any of the concepts behind it or any other way of intending it, including Israel as a nation.
-[/INFO]
+> [!NOTE]
+> 
+> For the sake of clarity, in this article for "**Israel**" is **always** intended specifically the "**State of Israel**" -- which at the time of writing is governed by the Netanyahu presidency -- without contemplating any of the concepts behind it or any other way of intending it, including Israel as a nation.
 
-Despite the Israel vs Iran conflict, being active for less than two weeks brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
+Despite the Israel vs Iran conflict being active for less than two weeks it brought uncertainty in that region at unprecedented levels. The Trump intervention in defending Israel and settling the dispute about the Iran nuclear war plan did not achieve transparency but wrapped the confusion around the US president.
 
 > When lies start a war, re-establishing the truth is the necessary step for peace (cit.)
 
@@ -248,13 +248,13 @@ Well said but Israel vs Iran escalation did not show anything of that. The only 
 
 Under this PoV, while the Israel attack against Iran killed many Khomeini regime's top players, while the Iran attack which managed to pass through the Israel anti-missiles defence killed Zelensky as a star of the "rightful war against Russia". The definitive proof can be seen in military-to-civilian suite-change in King Carlo personal meeting photos.
 
-The other shocking news is about no-radiation-increase finding after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombardiers.
+The other shocking news is about no-radiation-increase finding after the [GBU-57](https://en.wikipedia.org/wiki/GBU-57A/B_MOP) bombing. This is a **very** peculiar type of bomb and can be deployed **only** using [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_B-2_Spirit) bombers.
 
 Because of this, Trump to attack Iran nuclear facilities had to move some of them around the globe, because they were out-of-the-range. Iran got informed about this displacement, correctly identified it as the sign of an imminent attack and removed the most valuable stuff from the Fordow underground facility.
 
 Few days after the attack, the FBI opened an investigation because the preliminary military assessment had leaked. That classified file is claiming that Fordow nuclear facility has not been destroyed but Iran nuclear enrichment process has been delayed.
 
-The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump leadership.
+The leak happened after Trump had claimed that the attack was an overwhelming success. So, the assessment has been renamed as "preliminary" that cannot reach any final conclusions, and the leak is an attempt to jeopardise the Trump credibility.
 
 Let me you notice that while Iran correctly managed to anticipate the USA strategic attack in two days and promptly reacted to it, on the other side of information machinery the U.S. president has to battle against the internal leaks of an assessment which would be supposed to provide him information not contrasting his public declarations.
 
@@ -266,15 +266,15 @@ Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might att
 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
 [/INFO]
 
-In these twelves days of escalation Iran achieved three strategically victories beyond their own imagination despite the key men loss they have suffered:
+In these twelve days of escalation Iran achieved three strategically victories, beyond their own imagination, despite the key personnel loss they have suffered:
 
-- 1. their missile strikes were shown to be able to saturate the Israel and American countermeasures;
-- 2. their ballistic vectors travelling at Mach 15 with 2.600 km range shown to be deadly effective;
-- 3. their ability to close down the marine traffic into the Hormuz strait can also stress the UAE.
+- 1. their missile strikes were shown to be able to saturate the Israeli and American countermeasures;
+- 2. their ballistic vectors, travelling at Mach 15 with 2'600 km range, shown to be deadly effective;
+- 3. their ability to close down the marine traffic into the Hormuz Strait can also stress the UAE.
 
-In combination with the Houthi capacity of blocking the marine traffic in the Red Sea, increasing the logistic chain by two weeks, Iran can cut off the market about 30% of the world oil supply. 
+In combination with the Houthi capacity of blocking the marine traffic in the Red Sea, increasing the logistic chain by two weeks, Iran can cut off the market up to 30% of the world oil supply. 
 
-The related energy price increase can strongly foster the U.S. consumer price inflation putting the Trump presidency into serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
+The related energy price increase can strongly foster the U.S. consumer price inflation, putting the Trump presidency into serious political trouble, driving the USA into a pre-collapsing social condition which will lead to a default facing the 2026 maturity wall.
 
 Everything considered, Trump's desperate need of victory is not just a personal issue but a U.S. systemic need otherwise facing a complete lack of credibility and reliability which are the two main signs of a systemic default. After all, every default happens sooner than the numbers accounting in a way that the default is unavoidable.
 
