@@ -551,36 +551,35 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ### The difference between law and justice
 
-It is always embarrassing when we need to remember to a lawyer the difference between law and justice. Especially because, they are keen to intend it as a procedural difference between legislation and its application.
+It is always embarrassing when we need to remind a lawyer of the difference between law and justice. Especially because they are keen to interpret it as a procedural difference between legislation and its application.
 
 <div align="center"><img class="bwsketch paleinv" src="data/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
 
-Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference and let me briefly summarise few relevant aspects:
+Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference, and let me briefly summarise a faw relevant aspects:
 
-- a law like the one included into artt. 1 and 36 of the Italian Constitution which defines the role of the work in our jurisdiction despite being clear and aligned with the justice (right) it is ignored, including safety at work.
+- a law like the one included in articles 1 and 36 of the Italian Constitution, which defines the role of work in our jurisdiction, despite being clear and aligned with justice (right), it is ignored, including safety at work.
 
-- a law can be out-of-justice (wrong) like those were persecuting Jews or black people (apartheid) but because socially accepted and enforced by authorities, they were applied and respected by all, even those who wished not.
+- a law can be out-of-justice (wrong) like those that were persecuting Jews or oppressing black people (apartheid), but because socially accepted and enforced by authorities, they were applied and respected by all, even those who wished not to.
 
-- no law is present (far-west) and we might think that in this condition it would be the chaos, or the strongest prevails but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
+- no law is present (far-west), and we might think that in this condition it would be chaos, or the strongest prevails, but, in fact, those who can enforce justice became the law (sheriff) because people see the right emerging.
 
-It is amusing to listen those trying telling the story that a "promise" without an official signature and agreement is worth nothing but at that time was necessary to close a deal and by contrast the **TWO** Minsk agreements which are official agreements with official signatures are fine to be bent, overruled, ignored and broken unilaterally by those who are trying to sell the fairy tales that they would honour ONLY their own signature.
+It is amusing to listen to those trying to tell the story that a "promise" without an official signature and agreement is worth nothing, but at that time was necessary to close the deal. And by contrast, the **two** Minsk agreements, which are official agreements with official signatures, are fine to be bent, overruled, ignored, and broken unilaterally by those who are trying to sell the fairy tales that they would honour **only** their own signature.
 
-In this case, the best is to remember them that life-sentenced criminal exiled in Australia developed a way better civilised society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learnt yet -- after 250 years their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+In this case, the best is to remind them that life-sentenced criminals exiled in Australia developed a way better civilized society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learn yet -- after 250 years of their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
 
-Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK)
+Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK) or its [transcription](not-yet.txt#?target=_blank)
 
 +
 
 ### How misinformation leads to blind obey
 
-Looking at this image, it is clear that even those who are not experts of military avionics can detect unrealistic details. It is silly to believe that Iran is trying to confuse Israel and Mossad with these images, doesn'it? Can pro-Iran or pro-Israel cheering people on social-media make any difference in a real world war? Why do those who spread these AI-generated images don't care that their images cannot last against a proper evaluation?
+Looking at this image, it is clear that even those who are not experts of military avionics can detect unrealistic details. It is silly to believe that Iran is trying to confuse Israel and Mossad with these images, doesn't it? Can pro-Iran or pro-Israel cheering people on social-media make any difference in a real world war? Why do those who spread these AI-generated images don't care that their images cannot last against a proper evaluation?
 
 <div align="center"><img class="bwsketch" src="data/317-ai-generated-images-as-a-misinformation-to-obey.jpg" width="800"><br></div>
 
-Because the main goal is NOT convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. Does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrendering to they CANNOT know the truth, they should not ask for it but obey, only.
+Because the main goal is **not** convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. It does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrender to the idea that they **cannot** know the truth, they should not ask for it but obey, only.
 
 +
-
 
 <span id="how-to-analise-osint-war-information"></span>
 ### How to analyse OSINT war information
