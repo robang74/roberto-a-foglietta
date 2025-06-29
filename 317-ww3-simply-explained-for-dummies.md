@@ -479,7 +479,7 @@ Instead, another interesting "question" (or topic, more precisely) is about doin
 
 - **Network externalities**: Internet, darknet, 4K entertainment, pay-per-play, simulations, tournaments, real adrenaline pay-per-fight (or watch), betting, etc., plus more (like drug delivery and various illegal material) can easily fulfil the budget for organising these operations.
 
-- **One fits all**: scalable business model. Today is Russia, tomorrow could be any other country on demand. First successful story 18 months, the next 9 months, the next 6 months, the next 3 months, the next 1 month (the strictly necessary time to reach the targets). At that point it is "destroying as a service" on demand.
+- **One fits all**: scalable business model. Today is Russia, tomorrow could be any other country on demand. First successful story 18 months, the next 9 months, 6, 3, and finally one month, just the strictly necessary time to reach the targets. At that point it is "destroying as a service" on demand.
 
 - **No way out**: absolute fidelisation up to the point of blackmailing the fighters. Imagine your 14yo son/daughter proudly entered into an "heroic league" but trapped by a terrorist network, instead.
 
