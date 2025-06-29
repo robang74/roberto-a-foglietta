@@ -489,15 +489,15 @@ Welcome into the new world in which shitcoin, drugs home delivery, and eros on d
 
 #### The drones attack is terrorism-as-a-service
 
-About the drones attack against military nuclear facilities, whatever it happened to Russia, there are two **huge** critical risks to consider:
+About the drone attack against military nuclear facilities, whatever happened to Russia, there are two **huge** critical risks to consider:
 
-- such a kind of attack can be soon develop autonomously as a private on-demand terrorism business **and** it has the potential of penetrate our society and culture with deep consequences which are beyond imagination;
+- such a kind of attack can soon develop autonomously as a private on-demand terrorism business, **and** it has the potential to penetrate our society and culture with deep consequences which are beyond imagination;
 
 - the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringed the nuclear non-proliferation agreements.
 
-Those agreements enforce not only Russia but also the USA to keep those facilities exposed in such a way other countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war enabled facilities are going to push the world back to the times in which such threads were hidden. Which means that first-strike policy re-enter as a "reasonable" option.
+Those agreements enforce not only Russia but also the USA to keep those facilities exposed in such a way other countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war-enabled facilities are going to push the world back to the times in which such threats were hidden. Which means that the first-strike policy re-enters as a "reasonable" option.
 
-We are bringing terroristic attacks into our international negotiation toolkit, in our culture and society and at the same time we are find ourselves back to Cuba missiles crisis time but on a 8B+ people planet, many more nuclear-war capable states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
+We are bringing terroristic attacks into our international negotiation toolkit, into our culture and society, and at the same time we are find ourselves back to the Cuba missiles crisis time but on a planet with 8B+ people, many more nuclear-war capable states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
 
 +
 
@@ -519,17 +519,15 @@ Quindi che il sistema attacchi Keir Starmer e come conseguenza di questo attacco
 
 ### Money laundering and Ukraine default
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead.
 
 ...
 
 #### How much money are we talking about?
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead.
-
 - **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
 
-- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
+- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B was for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
 
 - **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
 
@@ -539,7 +537,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 #### The AML events chain to the default
 
-- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, the month-long booking at a luxury hotel by the U.S.
+- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, and the month-long booking at a luxury hotel by the U.S.
 
 - Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
 
@@ -547,7 +545,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
 
-- Q2/2025 -- The news about Ukraine's specific state-bond default on GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
+- Q2/2025 -- The news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
 
 +
 
