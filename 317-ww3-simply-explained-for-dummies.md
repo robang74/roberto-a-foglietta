@@ -381,15 +381,6 @@ From the point of view of a person on the beach who stands up in front of the oc
 Karma, isn't it?
 
 +
-<div class="printonly">
----
-|x|>
-NOTES AND FURTHER INFORMATION FOLLOWING
-<|x|
----
-</div>
-
-++++
 ---
 |x|>
 NOTES AND FURTHER INFORMATION COLLECTION
@@ -445,7 +436,7 @@ Many things can go wrong, so that solution can be a mere emergency backup while 
 
 After all, the Internet connection does not seem the main key, apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster, more opaque and more reliable.
 
-...
+....
 
 #### Gotcha shitfigher
 
@@ -481,13 +472,13 @@ Welcome into the new world in which shitcoin, drugs home delivery, and eros on d
 
 About the drone attack against military nuclear facilities, whatever happened to Russia, there are two **huge** critical risks to consider:
 
-- such a kind of attack can soon develop autonomously as a private on-demand terrorism business, **and** it has the potential to penetrate our society and culture with deep consequences which are beyond imagination;
+- such a kind of attack can soon develop as a private on-demand terrorism business, **and** it has the potential to penetrate our society and culture with deep consequences which are beyond imagination;
 
-- the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringed the nuclear non-proliferation agreements.
+- the target chosen creates a **very** dangerous precedent because, including a previous destruction of an over-horizon radar, it was the 2nd and most daring attack which infringed the nuclear NPT agreement.
 
 Those agreements enforce not only Russia but also the USA to keep those facilities exposed in such a way other countries can check by satellite (or visual) where and how much defensive-attack nuclear power is deployed. Those who attack nuclear war-enabled facilities are going to push the world back to the times in which such threats were hidden. Which means that the first-strike policy re-enters as a "reasonable" option.
 
-We are bringing terroristic attacks into our international negotiation toolkit, into our culture and society, and at the same time we are find ourselves back to the Cuba missiles crisis time but on a planet with 8B+ people, many more nuclear-war capable states, and with the fast & mobile Internet connection complexity in addition on top of all of that.
+We are bringing terroristic attacks into our international negotiation toolkit, into our culture and society. Meanwhile, we are find ourselves back to the Cuba missiles crisis time but on a planet with 8B+ people, many more nuclear-war capable states, and with Internet-telcom complexity in addition on top of all of that.
 
 +
 
@@ -523,7 +514,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available financial, military, humanitarian, and refugee assistance to Ukraine.
 
-...
+....
 
 #### The AML events chain to the default
 
