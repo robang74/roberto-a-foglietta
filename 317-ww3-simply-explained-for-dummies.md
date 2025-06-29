@@ -7,6 +7,8 @@
 
 - This article has been written starting from several posts published on LinkedIn and Facebook, weeks before and collected into ([#ad1b414](https://github.com/robang74/roberto-a-foglietta/commits/ad1b414)) -- [post #7](https://www.linkedin.com/posts/robertofoglietta_the-difference-between-law-and-justice-it-activity-7343325991924084737-Ae8D) (2025-06-24) - [post #7](https://www.facebook.com/photo?fbid=10161934894878736&set=a.10150400606833736) (2025-06-24) - [post #6](https://www.linkedin.com/posts/robertofoglietta_le-coincidenze-non-esistono-se-la-nasa-activity-7342491389278007296-5liz) (2025-06-22) - [post #5](https://www.linkedin.com/posts/robertofoglietta_us-public-and-private-default-in-2026-waiting-activity-7342570175474364417-5dvI) (2025-06-22) - [post #4](https://www.linkedin.com/posts/robertofoglietta_money-laundering-and-default-in-ukraine-activity-7338234419914158081-XfdJ) (2025-06-10) - [post #3](https://www.linkedin.com/posts/robertofoglietta_this-is-huge-my-fellow-nato-friends-an-activity-7336018392090394624-HTFv) (2025-06-05) - [post #2](https://www.facebook.com/photo?fbid=10161837002823736&set=a.10150400606833736) (2025-06-02) - [post #1](https://www.linkedin.com/posts/robertofoglietta_gotcha-shitfighter-why-do-ukraine-drones-activity-7335272801190174721-KhaW) (2025-06-02) - [post #0](https://www.facebook.com/photo?fbid=10161833541543736&set=a.10150400606833736) (2025-05-30) -- it took 9 drafts, each adding a new topic, and a month for the 1st edition.
 
+- **2nd** edition includes deeper [insight](#the-worst-democracy-is-better-than-the-best-dictatorship) about psychological warfare and memes.
+
 ---
 
 ###  Why does NATO still exist, after 1992?
@@ -171,7 +173,7 @@ Or this example [here](#how-misinformation-leads-to-blind-obey) reported. Both o
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and conviction in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercise on full scale.
+Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and conviction in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercise on full scale (cfr. [here](the-worst-democracy-is-better-than-the-best-dictatorship) gets in deeper about psychological warfare and memes).
 
 ---
 
@@ -613,9 +615,9 @@ Trump saying that Spain will pay double tariff because they did not sign for the
 
 We all need to expose how much wrong things are before asking others to accept to change them. False. Nobody requires an authorisation to change wrong things, not even other people's acceptance. Within the above conceptual framework, anyone who has the power to do a change, they are automagically authorised. In a world of lies, doing is the most revolutionary of oddities. However, Trump is a US president and he still needs to create the proper condition to defend his decision in front of the Congress and his nation.
 
-<!--
++
 
-### The worst democracy is better than the best dictatorship.
+### The worst democracy is better than the best dictatorship
 
 It seems a very nice idea, but it is not. In fact, this claim was considered false by those invented democracy, the Ancient Greeks, and among them, Platone in paritcular. Ancient Greeks are used to elect a tyrant for copying with hard times like war.
 
@@ -653,21 +655,27 @@ Hanlon's Razor is a mental shortcut which teaches us, in the words of Robert J. 
 
 Unfortunately, it did not happen and in 10 years, they manage to put in power those were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles but NOT those mentally-illed around schools. People who are ALSO pedophyles because traumatised by abuses in childhood and with a strong attitude of bending the others people minds (manipulation) in order to cause them sufferance (sadism) not just kill or steal.
 
-War is the worst nightmare in terms of abuses but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathologically forms of saddism. In case you might think that I am exaggerating, then think again because THIS below is just the tip of this iceberg
+War is the worst nightmare in terms of abuses but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathologically forms of saddism. In case you might think that I am exaggerating, then think again because THIS below is just the tip of this iceberg. The "grooming gangs" scandal about covering the 2011 investigation which states that the phenomeno was arising in the early 2000s.
 
-- https://lnkd.in/d-R9U2mT - RNZ
-- https://lnkd.in/dB48waRc - Sky News
-- https://lnkd.in/d32Ketxj - Euro News
-- https://lnkd.in/dcUVzph2 - Aljazeera
-- https://lnkd.in/dUnExHnk - Times of India
+- [lnkd.in/d-R9U2mT](https://lnkd.in/d-R9U2mT) - RNZ
+- [lnkd.in/dB48waRc](https://lnkd.in/dB48waRc) - Sky News
+- [lnkd.in/d32Ketxj](https://lnkd.in/d32Ketxj) - Euro News
+- [lnkd.in/dcUVzph2](https://lnkd.in/dcUVzph2) - Aljazeera
+- [lnkd.in/dUnExHnk](https://lnkd.in/dUnExHnk) - Times of India
 
-//-->
+At this point the we can consider the citation from "El ingenioso hidalgo Don Quijote de la Mancha" (Part 1 published 1605, Part 2 published 1615) by Miguel de Cervantes Saavedra (1547 -- 1616) who never let Don Quixote saying this quote which can easily be found on social networks.
+
+> Dear Sancho (Panza), we are fighting against three giants: fear, ignorance and injustice. (meme)
+
+Unsurprisingly, this meme is suggesting that those who try to fight those three giants are hopelessly mad as Don Quixote attacking windmills. Well, let me clarify that fear, ignorance, and injustice have always existed, but nowadays we are facing the Native American prophecy (or a curse by their god) about white people's attitude of rising to the power of evil people, to be led by them.
 
 +
 
 ## Related articles
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
+
+- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
 
 +
 
