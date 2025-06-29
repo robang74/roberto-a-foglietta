@@ -15,11 +15,11 @@
 
 The war against Russia has been planned since 1992. In this period of time, the US war machine has cost about $33T of public debt, which is almost all of it. A strong claim and a bold conclusion which deserve an explanation.
 
-At the end of 1991, the Soviet Union suddenly collapsed. Suddenly because the Red Star Empire took relatively few years from when the Glasnost (transparency) started to be actively carried on. While Perestroika (changement) was the key point of Gorbačëv presidency (1985), the Glasnost remained behind on its schedule until the Chernobyl nuclear disaster (1986). That event forced the Soviet Communist Party to accept a breach into their opaque system of power. A breach that made the Soviet Union collapse, after all.
+At the end of 1991, the Soviet Union suddenly collapsed. Suddenly because the Red Star Empire took relatively few years from when the Glasnost (transparency) started to be actively carried on. While Perestroika (reforming) was the key point of Gorbačëv presidency (1985), the Glasnost remained behind on its schedule until the Chernobyl nuclear disaster (1986). That event forced the Soviet Communist Party to accept a breach into their opaque system of power. A breach that made the Soviet Union collapse, after all.
 
 - Security by obscurity is always a poor choice, and it is doomed to a tragic failure.
 
-At the end of 1989, the Berlin Wall was falling and by the end of 1991, also the Soviet Union collapsed. With the dissolution of the Warsaw Pact, also NATO ceased to have its own meaning because the NATO alliance was in place during the Cold War to defend the Western Capitalism and Democracy from Soviet Communism and Tyranny. Once the Evil Empire was gone, alsa the NATO was due to be dismissed.
+At the end of 1989, the Berlin Wall was falling and by the end of 1991, also the Soviet Union collapsed. With the dissolution of the Warsaw Pact, also NATO ceased to have its own meaning because the NATO alliance was in place during the Cold War to defend the Western Capitalism and Democracy from Soviet Communism and Tyranny. Once the Evil Empire was gone, also the NATO was due to be dismissed.
 
 In theory. Because in practice, many options have been considered, including a transformation and a rearrangement. Up to 2004, the idea of including Russia into the NATO alliance was still on the table. Looking back at that time, we can say that the idea of letting Russia enter into NATO was substantially a trick to buy time and Russia's patience for extending NATO towards the east in violation of the promise Gorbačëv received from NATO.
 
@@ -37,10 +37,10 @@ Therefore, the idea published by the media about the free will of joining NATO i
 
 Anyway, back when the operational season started in 2007, it was supported by the U.S. Congress, which later removed the law forbidding the funding, training, and arming of neo-Nazi groups also outside the USA. Because that was what the CIA was doing exactly in Ukraine by covering operations and later under the Sunlight. Thus we reach the Minsk agreements and the Crimea annexation by Russia with a popular referendum.
 
-Moreover, Donbas and a few other Ukrainian regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, from time to time, by the central Ukrainian government, which also removed by law the right to use Russian language as the second official language of Ukraine.
+Moreover, Donbass and a few other Ukrainian regions in which Russian people were living as the majority of the population were put under the pressure of being bombed, from time to time, by the central Ukrainian government, which also removed by law the right to use Russian language as the second official language of Ukraine.
 
 [!INFO]
-The Minsk agreements are a pair of agreements aimed at ending the war in the Donbas region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
+The Minsk agreements are a pair of agreements aimed at ending the war in the Donbass region of Ukraine. The first agreement, Minsk I, was signed on September 5, 2014. The second agreement, Minsk II, was signed on February 12, 2015. Minsk I focused on a ceasefire and establishing a security zone along the border between Ukraine and Russia, with monitoring by the Organization for Security and Co-operation in Europe (OSCE). Minsk II built on this, outlining a package of measures for implementing the Minsk agreement.
 [/INFO]
 
 Unfortunately, the Minsk agreements were not going to settle the Ukraine case, which at that time was allowed to join the European Union, but it was not ready for that due to their shortcomings in many fields like infrastructures, legislation, and financial and economic stability.
@@ -50,7 +50,7 @@ In fact, Ukraine, after having accepted to give back to Russia the nuclear weapo
 Under these circumstances, the best role for Ukraine was to remain neutral and prosper in acting like a trading bridge between Russia and Europe. Like they did since 2007 and mainly since the end of 2021, when Ukraine hosted the vastest military exercise that NATO did at that time.
 
 [!INFO]
-In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defense capabilities and deter potential Russian aggression.
+In late 2021, NATO conducted military exercises in and around Ukraine, alongside discussions about Ukraine's potential NATO membership and increased security cooperation. These exercises were part of a broader effort to strengthen Ukraine's defence capabilities and deter potential Russian aggression.
 [/INFO]
 
 Which triggered, as expected, the Russian reaction that after several attempts to settle down the situation -- the last failed because Biden forbade Zelensky the permission to sign an agreement with Russia -- on the end of February 2022, Russian troops entered into the Ukrainian territory.
@@ -75,16 +75,6 @@ They decided to raise wages even more than before. It is worth noticing that in 
 
 - [Primo maggio, festa dei lavoratori](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
 
-This event broke down all resistance in Angela Merkel to speak out about the nature of the Ukraine proxy-war. Unfortunately, apart from the effects on the financial markets and the BTP-bund spread for Italy, politics and propaganda warmongers were not affected at all by this revelation.
-
-The propaganda machine combined with the so called "fact-checking" machine were at their full functioning power in marginalising and supprensing every dissent around the fairy tale for which there was an attacker and an attacked. The same litany repeated by Meloni at her last meeting with Trump which led her interpreter to fall in confusion.
-
-Back to 2022 Spring, while Mario Draghi the ex-EBC director was proposing his personal dilemma to Italians -- keep the air-conditioner up running or see the end of the war -- in Russia they were managed to pass through the repentine fall of the Ruble value -- the financial shock that supposedly should have brought in bankruptcy Russia -- and they were setting up their economy for a long-terms war with the opposite of Draghi's recipe and also the opposite Italy's recipe.
-
-They decided to raise the wages even more than before. It is worth noticing that in the previous two decades since the first Putin presidency, all the wages in Russia were increasing on average more than the Ruble inflation and soon after the UA-RU military hostility began even more. They moved their positive commercial balance into wages and do-by-themselves thus heavily investing in their own domestic industrial production fulfilling all the positions left open from the Western companies that were leaving Russia.
-
-- [Primo maggio, festa dei lavoratori](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
-
 In fact, while Italy kept increasing its public debt, stabilizing its ratio with the GDP, and inflating consumer prices, thus increasing wealth concentration, in Russia they did the opposite: inflating wages more than Ruble inflation, thus increasing their GDP. Because GDP is defined as the sum of all transactions -- which can be production or waste; nevertheless, they sum up in a positive manner in this "peculiar" index -- thus there are mainly two ways to increase it: increasing wages or increasing prices. These two opposite ways of managing economics led Italy to raise their Gini index to reach the falling-down Russia Gini index, just before the war started.
 
 Then the energy prices skyrocketed to the point in which Germany saw their first industry contraction since the end of WW2. Despite the energy prices cooling down, but not even nearly down to the prices before the UA-RU crisis, the green-washing ideology which lasted 20 years, combined with the decision of Germany to shut down their last three nuclear plants at the same time, led to a sensitive deindustrialization. Something which was unthinkable just one year before.
@@ -95,7 +85,7 @@ Despite all these abrupt changes, the UA-RU conflict was still in progress with 
 
 It is important to understand that Ukrainian, like Russian, Winter is extremely rigid compared with those of many other geographical location experiments. Keeping a siege to a largely and relatively densely inhabited city like Kyiv can cause a huge loss of military or civilians, depending how fast and brutal is the siege and related conquest of the city.
 
-Considering that Russian people perceive Ukrainian people as peers in culture and in 2017, the vice versa was still largely common, the idea of many deaths among civilians was unacceptable as much as too large military losses. Under this pont of view an apparently solid promise to sign a peace agreement within the nearly coming G20 meeting was very appealing, not only for Kyiv but also for Russia.
+Considering that Russian people perceive Ukrainian people as peers in culture and in 2017, the vice versa was still largely common, the idea of many deaths among civilians was unacceptable as much as too large military losses. Under this point of view an apparently solid promise to sign a peace agreement within the nearly coming G20 meeting was very appealing, not only for Kyiv but also for Russia.
 
 Despite all of these, Russia kept their position in the Ukraine war. Despite after elections Trump radically changed foreign policy, deeply changed the Biden administration, and cut down the US foreign aid program doomed to die from the propaganda and false fact-checking machines, the political heritage of the Biden administration in Europe and UK were still supporting Zelensky and his laundering machine war.
 
@@ -103,7 +93,7 @@ Despite all of these, Russia kept their position in the Ukraine war. Despite aft
 On June 1, Ukraine launched drone attacks against strategic air bases across Russia. Ukrainian President Volodymyr Zelenskyy claimed that the strikes -- dubbed Operation "Spider's Web" -- damaged or destroyed 34% of Russia's strategic cruise missile-carrying bomber fleet. (report & analysis [here](#the-drones-attack-to-russia-nuclear-facilities))
 [/INFO]
 
-Thus, nothing changed until Zelensky's best hit against Russia costed him the definitive loss of the war. Due to the fact that these weapons are either exposed instead of kept safely and hidden in hangars because of a global non-nuclear proliferation treaty. Which also implies that no country should leverage this exposition for attacking these infrastructures which are by the non-proliferation treaty doomed to disappear due to their aging. Which is a reasonably smooth way to free the world from self-mutual global nuclear destruction.
+Thus, nothing changed until Zelensky's best hit against Russia costed him the definitive loss of the war. Due to the fact that these weapons are either exposed instead of kept safely and hidden in hangars because of a global non-nuclear proliferation treaty. Which also implies that no country should leverage this exposition for attacking these infrastructures which are by the non-proliferation treaty doomed to disappear due to their ageing. Which is a reasonably smooth way to free the world from self-mutual global nuclear destruction.
 
 So far, with that attack, Ukraine violated one of the most universally respected treaties. Probably the **only** one and the last one that has always been universally respected on a global scale. Without any doubts because of a **very** good reason, after all.
 
@@ -117,7 +107,7 @@ At this point, the proposal to surrender to Russia in exchange of the Lviv metro
 
 - **2025-05-30**: US Special Envoy for Ukraine, Keith Kellogg, has acknowledged that Russian President Vladimir Putin is right that NATO is waging a proxy war **with** Russia. (cfr. [press coverage](#kellogg-declarations-press-coverage))
 
-While I did not loof for the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that Indian news sources are strongly rooted with this expression instead of the more straightforward "a proxy war **against** Russia".
+While I did not look for the exact point of the video interviews and speech in which Keith Kellogg says "a proxy war **with** Russia", it seems that Indian news sources are strongly rooted with this expression instead of the more straightforward "a proxy war **against** Russia".
 
 > In a stunning admission, Donald Trump’s Ukraine envoy Keith Kellogg declared that NATO is in a proxy war **with** Russia, echoing long-standing claims made by Vladimir Putin.
 
@@ -139,7 +129,7 @@ Under this perspective, the Ukraine proxy-war is part of a plan developed the ye
 
 - 2001-07-20 -- G8 summit in Genoa, during which we have seen an unprecedented case of violence against unarmed people, and the worst violation of human rights happened in Europe after the end of the WW2 as stated by Amnesty International, perpetrated by Italian Police under the Berlusconi government;
 
-- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and traveling people towards security over freedom;
+- 2001-09-11 -- the Twin Tower disaster on 9/11 that turned the USA and EU policies about flights and travelling people towards security over freedom;
 
 - 2001-12-11 -- China entered as a member into the World Trade Organisation (WTO). As part of their accession, China agreed to various commitments, including reducing trade barriers, opening their market, and improving intellectual property protection;
 
@@ -183,7 +173,7 @@ We can easily agree that the U.S. foreign policy was **always** been towards the
 
 We can also agree that the U.S. has a historical attitude to playing poker on many tables at the same time and quickly leaving those tables in which they are losing too much or in which the counterparty did not buy their bluff (aka their arbitrary narrative or deal-as-a-trap tactic).
 
-Considering these premises, how the table has turned in favor of Russia explained in the 2nd-last section and the facts interpretation proposed in the last section, we can agree that once the U.S. has taken the most from Ukraine and then left them behind as a problem for Russia, the next goal would be to leverage the Biden's era European leadership to squeeze the most from Europe. How?
+Considering these premises, how the table has turned in favour of Russia explained in the 2nd-last section and the facts interpretation proposed in the last section, we can agree that once the U.S. has taken the most from Ukraine and then left them behind as a problem for Russia, the next goal would be to leverage the Biden's era European leadership to squeeze the most from Europe. How?
 
 What's the best way to move from "**against**" to "**with**" Russia and send them an "you too involved" message by Keith Kellogg's words and by the "Times of India" columns in order to leverage the fear of a Soviet-like invasion of Europe? Nowadays, Russia is going to take Ukraine but who can grant us that they will stop there?
 
@@ -197,7 +187,7 @@ Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
-Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildely. In a revolution or in a war, and the main difference between these two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
+Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildly. In a revolution or in a war, and the main difference between these two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
 
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
 
@@ -215,7 +205,7 @@ The [usdebtclock.org](https://www.usdebtclock.org) on 25th June 2025, was accoun
 
 Which is an astonishing $308K pro-capite, including newborns and 99yo elders, while the U.S. public debt is going to face a huge $8T maturity wall in 2026. Unless they manage to renew that part of their debt or cut it down, the U.S. will be technically in default. Do you remember the triple-A too-big-to-fail Lehman Brothers? The same, but a way bigger.
 
----
+----
 
 ### Ukraine war: money laundering and its default
 
@@ -356,7 +346,7 @@ Trump is right in saying -- *they don't know what the f*ck they're doing* -- but
 
 Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway!
 
----
+----
 
 ### Iran as nuclear threat for Israel
 
@@ -378,7 +368,7 @@ The neutron's moderation whole process takes 18-20 hits which is a too slow proc
 
 - **Spoiler**: hydrogen in atomic or in molecular form sparse, not too much and not less but, enough to introduce a new single H-hit 3x slower but 150% (due to an increased cross section and almost near-zero U-238 absorption rate) more probable path for an U-235+N prolific event. Not so much but enough to get above the 1.5 in the N-to-N increment rate like in a nearly weaponry full-grade enriched nuclear fuel.
 
-This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needed to squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the NPT treaty.
+This is a theoretical example about how to challenge the "dogmatic" way of creating a nuclear bomb that can allow U-235 enriched at 60% working as it would have been enriched as 88%. Which is not the 95-98% grade needed to squeeze the most of the juice from an Uranium nuclear bomb but an impressive step forward leveraging the maximum concentration allowed by IAEA under the non-proliferation treaty (NPT).
 
 That's all folks about why we should not underestimate Iran did not buy the cease-fire for giving US/Israel more time to better prepare for the next war, but they bought time for their own nuclear weapon construction.
 
@@ -447,11 +437,11 @@ The coordinated strikes targeted the Russian Air Force's Long-Range Aviation ass
 
 #### The Internet connection is not the main key
 
-> A satellite link between the control center and the truck still seems to be the most plausible assumption
+> A satellite link between the control centre and the truck still seems to be the most plausible assumption
 
 Everything else apart, a satellite link would have been tracked after-post. The movements among the cellular network of the SIMs (many for the same truck) and when many SIMs are moving together on a truck instead of an autobus (people), then some suspects start to arise. Many SIMs from many operators, one among them always connected, all together at the operation start which means the time for preparation before the launch.
 
-Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something unconceivable also for a stopped truck: pay-tv for those who are used to drive in many countries and VoIP/Whatsapp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better, it could be prepared to use all of those available.
+Many things can go wrong, so that solution can be a mere emergency backup while the satellite connection is the most effective and reliable. Plus, a satellite link for the Internet is not something inconceivable also for a stopped truck: play-tv for those who are used to drive in many countries and VoIP/WhatsApp for friends and family. However, in principle, any commercial Internet satellite operator can be used. Even better, it could be prepared to use all of those available.
 
 After all, the Internet connection does not seem the main key, apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster, more opaque and more reliable.
 
@@ -461,7 +451,7 @@ After all, the Internet connection does not seem the main key, apart from the fa
 
 > Gotcha, shitfighter. You have officially become a military target! (semcit.)
 
-Why do Ukraine drones have a 4K, hence fiber optic guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAVs as if they were video games.
+Why do Ukraine drones have a 4K, hence optic fibre guidance? Even a poor model pilot (or old Flight Simulator pilot) can use instrumental flight and poor vision to navigate. But not the kids who get mad and do not enjoy the game when they use UAVs as if they were video games.
 
 This explains why the Ukrainian UAVs move like in video games instead of following the "hunting or scouting path". Someone that has been a real-word hunter or scout now. They are kids, paying kids for playing and only the best goes into real missions, the others financing the killing machine.
 
@@ -541,7 +531,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
 
-- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defense company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
+- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defence company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
 
 - Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
 
@@ -565,7 +555,7 @@ Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally che
 
 It is amusing to listen to those trying to tell the story that a "promise" without an official signature and agreement is worth nothing, but at that time was necessary to close the deal. And by contrast, the **two** Minsk agreements, which are official agreements with official signatures, are fine to be bent, overruled, ignored, and broken unilaterally by those who are trying to sell the fairy tales that they would honour **only** their own signature.
 
-In this case, the best is to remind them that life-sentenced criminals exiled in Australia developed a way better civilized society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learn yet -- after 250 years of their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honor their own word.
+In this case, the best is to remind them that life-sentenced criminals exiled in Australia developed a way better civilized society while those colonial people who were sent with a gun in one hand and the Bible in the other still did not learn yet -- after 250 years of their independence -- what was obvious to hopelessly criminals: at the end of the day, the most important asset of a man, a team or a nation is the discipline to honour their own word.
 
 Get deep into this topic reading this chat with Gemini: [lnkd.in/dPANsKeK](https://lnkd.in/dPANsKeK) or its [transcription](not-yet.txt#?target=_blank)
 
@@ -598,7 +588,7 @@ Iran is a country which was known in ancient times as Persia. Their concept of u
 
 The arch, the barrel ceiling, the domes, and similar structures are made to be as solid as their weight is heavy. A structure like that carved into rocks or embedded underground would simply discharge the shockwave as if they were transparent while a modern structure would implode.
 
-This is not about cheering in favor of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- that has developed a Mach 15 ballistic rocket technology and still possesses deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
+This is not about cheering in favour of Iran or against Israel, it is about recognizing that a civilization -- whether we like them or not -- that has developed a Mach 15 ballistic rocket technology and still possesses deep knowledge about five thousand years of constructions, isn't a cake to face in a war.
 
 This led to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fit into recurrent players as per the games theory definition. Which leads to considering the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
@@ -650,7 +640,7 @@ Is our world governed by a mix of malice **and** stupidity in such a way Hanlon'
 Hanlon's Razor is a mental shortcut which teaches us, in the words of Robert J. Hanlon to never attribute to malice that which is adequately explained by stupidity. In other words, rather than questioning people's intentions, question their competence. A good advice, indeed.
 [/INFO]
 
-Unfortunately, NATO did not change and in 10 years after 1992, they managed to put in power those who were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Pedophiles, but **not** those mentally-illed around schools. People who are **also** pedophyles (universal predators, more in general) because they were traumatised by abuse in their childhood and with a strong attitude of bending other people's minds (manipulation) in order to cause them suffering (sadism) not just kill, steal or be able to escape from justice.
+Unfortunately, NATO did not change and in 10 years after 1992, they managed to put in power those who were the best manipulators available to defend their existence. Who are these people, so great mind manipulators? Paedophiles, but **not** those mentally-ill around schools. People who are **also** paedophiles (universal predators, more in general) because they were traumatised by abuse in their childhood and with a strong attitude of bending other people's minds (manipulation) in order to cause them suffering (sadism) not just kill, steal or be able to escape from justice.
 
 <span id="grooming-gangs-press-coverage"></span>
 War is the worst nightmare in terms of abuse, but by contrast, the ultimate "dream" for people who wish to perpetrate abuses because they are addicted to pathological forms of sadism. For example, the "grooming gangs" scandal, which is about covering the 2011 investigation which found out that the phenomenon was arising in the early 2000s. And **this** case is just the tip of this iceberg.
