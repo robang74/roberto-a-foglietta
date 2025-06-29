@@ -288,7 +288,7 @@ The US is facing an intelligence deficit which, leveraged by technology, clearly
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
-Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise. Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restrictions scenarios.
+Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise. Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restriction scenarios.
 
 ...
 
@@ -312,9 +312,9 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 ...
 
-Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
+Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine, as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
-The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2.600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively drop it, is a **must to have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
+The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2'600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively deploy it, is a **must-have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
 
 ---
 
@@ -322,7 +322,7 @@ The idea that Iran can achieve the nuclear bomb and they are capable of mounting
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
-Here we are again to stand against a country that initially was doing within the international rules, decided to progressively doing differently observing that others aren't following the same rules they have to, achieving some scaring technological breakthroughs which has been challenged in a war and once these technological breakthroughs shown to be effective, join the VIP club of the geopolitical club.
+Here we are again to stand against a country that initially was doing within the international rules, but decided to progressively act differently observing that others aren't following the same rules they have to, achieving some scary technological breakthroughs which have been challenged in a war and once these technological breakthroughs have shown to be effective, they join the VIP club of the geopolitical club.
 
 Do you need convincing proof? They agreed a cease-fire with Israel thanks to the Trump mediation and a few hours later they launched two missiles against Israel. Which formally broke the cease-fire agreement but in practice two missiles are too few to saturate the ground-to-air countermeasures and reach their targets. Israel reacts back with a jet fighters bombing capable attack which has been stopped by a Trump phone call, otherwise Iran would have known that the agreement was just another poker bluff to see and they call down two cards, in fact.
 
