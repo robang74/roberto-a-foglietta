@@ -101,7 +101,7 @@ Without surprise, we as Westerners have a lot of reliable information about what
 
 **Morale**: fact-checking can be also a trap, when it is provided by an unqualified entity or an AI which weights information from a set of sources that are aligned even if they are supposed to be independent.
 
----
+----
 
 ### Il fact-checking come trappola cognitiva
 
