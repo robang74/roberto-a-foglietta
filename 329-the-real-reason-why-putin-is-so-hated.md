@@ -5,7 +5,7 @@
 
 ## The real reason why Putin is so hated
 
-- This article has been written starting from a [post](https://www.facebook.com/photo/?fbid=10161818323693736&set=a.10150400606833736) published on Facebook, on 28th of May 2025.
+- This article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
 
 ---
 
