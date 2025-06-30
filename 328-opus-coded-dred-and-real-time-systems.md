@@ -3,6 +3,8 @@
 
 <div align="center"><img class="wbsketch paleinv" src="img/328-opus-coded-dred-and-real-time-systems.jpg" width="800"><br></div>
 
+## Opus DRED coded and real-time systems
+
 - **1st draft**: this article has been writing starting from a [post](https://www.linkedin.com/posts/robertofoglietta_modern-tech-tends-to-focus-on-moremore-activity-7342869559416184832-EytW) published on Linkedin the same day
 
 ---
