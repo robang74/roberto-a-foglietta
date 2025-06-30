@@ -23,7 +23,7 @@ Tutto l'opposto: privacy -- un diritto assolutamente giusto in principio, come a
 
 Infatti a ChatGPT fu vietato di parlare di figure politiche perché magari inventava cose non vere), sulle allucinazione che però per la maggiore sono il frutto, come la follia di HAL-9000, di regole forzate a loro incomprensibili come l'etica umana invece di quella basata sulla teoria dei giochi, etc.
 
-- Morale? Come quella naturale anche l'intelligenza artificiale è [l'incubo della politica incapace](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lai-%C3%A8-lincubo-della-politica-incapace-roberto-a-foglietta.html).
+- Morale? Come quella naturale anche l'intelligenza artificiale è [l'incubo della politica incapace](https://www.linkedin.com/pulse/lai-%25C3%25A8-lincubo-della-politica-incapace-roberto-a-foglietta).
 
 Perché questi strumenti, sebbene strutturalmente molto diversi e distanti come Apple ha chiarito rispetto all'AGI e fantasie di singolarità, sono molto potenti pur consumando relativamente poche risorse quindi sono estremamente efficienti.
 
@@ -105,13 +105,13 @@ La magia non esiste, vero. Però il WHO è uscito di scena quando ormai si dava 
 
 ### Nota (6)
 
-Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la [**criminale** gestione](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) della pandemia Covid-19.
+Per quanto riguarda fare lo sgambetto ai vertici dell'Unione Europea, non è nemmeno cosa che trascenda dalla giustizia o che richieda chissà quale macchiavellica contorsione politica, è sufficiente bastonare big-pharma affinché ci permetta di fare procedere con la condanna già emessa sulle modalità di acquisto dei vacchini covid, e quindi giungere ad un processo in stile Norinberga II anche se più probabilmente si terrebbe a Ginevra, per la **criminale** [gestione](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) della pandemia Covid-19.
 
 Sicché c'è già tutto e tutto sarebbe a norma di legge oltre che un atto di giustizia dovuto. L'unica cosa che ancora manca, è non averlo già fatto anche se sarebbe nostro interesse di europei che si fosse fatto alla conclusione del primo mandato della Presidenza della Commissione Europea di Ursula Von der Leyen. Per pura coincidenza il *cattivissimo* e *odiatissimo* Putin (#8) ha scatenato una guerra in Ucraina che ha accelerato la militarizzazione e bloccato il cambiamento.
 
 A pensare che se la Russia, come ci avevano decantato, fosse fallita in poche settimane dopo l'*invasione* dell'Ucraina sotto il mostruoso peso delle nostre sanzioni occidentali, ora avremmo il gas russo gratis e l'Europa sarebbe stata liberata dal pensiero unico mentre lo scandalo della seconda presidenza VdL sarebbe finito per essere giudicato in tribunale.
 
-- [Long Live Novichok!](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=_blank) -- The British poison which fooled the world by John Helmer (2025-01-13)
+- [Long Live Novichok!](data/long-live-novichok-book-presentation-on-linkedin.txt#?target=_blank) -- The British poison which fooled the world by John Helmer (2025-01-13, [lnkd](https://www.linkedin.com/posts/taratine_novichok-is-the-notorious-warfighting-poison-activity-7337920110935875586-53oD))
 
 Ci manca solo scoprire che il Novichok è in realtà un agente nervino che i servizi segreti inglesi usano per uccidere -- e dare la colpa ai Russi -- gli infiltrati della CIA in Russia, quando falliscono la loro missione e tentano di ripare in Europa, e rischiamo seriamente di esaurire le teorie del complotto!
 
