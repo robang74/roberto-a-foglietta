@@ -304,7 +304,7 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine, as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
-The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2'600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively deploy it, is a **must-have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
+The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2'600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively deploy it, is a **must-have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. [diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
 
 ---
 
