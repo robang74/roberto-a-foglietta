@@ -5,7 +5,7 @@
 
 ## Sam Altman, come fosse la Louis Vuitton di qualcosa
 
-- Questo articolo è stato scritto a partire da un post pubblicato su [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_sam-altman-ha-comprato-una-start-up-per-65b-activity-7331070589421391873-smDc) e [Facebook](https://www.facebook.com/photo?fbid=10161794077968736&set=a.10150400606833736) il giorno prima.
+- Questo articolo è stato scritto a partire da un post pubblicato su [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_sam-altman-ha-comprato-una-start-up-per-65b-activity-7331070589421391873-smDc) e [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161794078323736) il giorno prima.
 
 ---
 
@@ -27,7 +27,7 @@ A quick chat with ChatGPT clarify the news and the last statement, in particular
  
 > As of now, io, the AI hardware startup co-founded by Jony Ive, does not appear to have a public-facing website. The company has operated in stealth mode, focusing on developing innovative AI-powered devices that aim to redefine user interaction with technology.
 
-- Fonte dell'estratto di cui sopra: [ChatGPT](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8) e la sua [trascrizione](data/316-jony-ive-ai-startup-chatgpt.txt#?target=_blank).
+- Fonte dell'estratto di cui sopra: [conversazione](https://chatgpt.com/share/682e30ca-8d18-8012-b712-c32eb188fae8) con ChatGPT e la sua [trascrizione](data/316-jony-ive-ai-startup-chatgpt.txt#?target=_blank).
 
 Could we trust OpenAI's chatbot about Sam Altman next secret move? So, so. But it can be considered an official source. What they wish to let us know, beforehands. The marketing does not mimic the Apple but winks at the woke culture but without gender extremism and with an apparent modesty because the new luxury is no longer something to wear but an accessory to carry with us.
 
