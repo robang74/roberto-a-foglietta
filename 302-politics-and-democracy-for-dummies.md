@@ -5,7 +5,7 @@
 
 ## Politics and democracy for dummies
 
-- Initially published on the same day on [Facebook](https://www.facebook.com/photo?fbid=10161498948978736) and [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_good-time-to-explain-how-etymology-works-activity-7302261920118534144-yNrO).
+- Initially published on the same day on [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161498958303736) and [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_good-time-to-explain-how-etymology-works-activity-7302261920118534144-yNrO).
 
 Seeing the picture above, a meme shared on Facebook, I decided it was a good time to explain how etymology works. So, let's start this journey!
 
@@ -51,17 +51,19 @@ Therefore, politics and democracy were about deciding WHO does WHAT, not about W
 
 ++++++
 
-## ChatGPT-SoNia
+## ChatGPT/SoNia
 
 In order to explain the reasons behind the posts shared on Facebook and Linkedin, and after having written [this](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/9d113520e4e31ecccf929fd110714639af8003ef/302-politics-and-democracy-for-dummies.md) paper, I have leveraged the session prompt SoNia v3.5.0, [here](https://raw.githubusercontent.com/robang74/chatbots-for-fun/88398418167022078eb7b7caa822c7d3b5d8bfb9/data/sonia-argumentative-w-rag-v3.txt) saved, to obtain a feedback.
 
-- [Dialoge about "Politics and democracy for dummies" with ChatGPT-SoNia](https://chatgpt.com/share/67c5942a-f1e8-8012-9230-d6934448ea5b) &nbsp; (2025-03-03)
+- A [dialoge](https://chatgpt.com/share/67c5942a-f1e8-8012-9230-d6934448ea5b) with ChatGPT/SoNia and its [transcription](data/302-politics-and-democracy-for-dummies-chatgpt.txt#?target=_blank) &nbsp; (2025-03-03)
 
 As you can read, SoNia leveraging the peer-review rules framework and when explicitly ask for, provides an academic-like pros-cons review with related ratings of the document content.
 
 Instead, immediately after questioned again about the general meaning, reasons behind delivering a Karma lesson and the social media communication, SoNia contradicts its 75% rating related to overall educational value, giving more value to the human and social impact of the message rather than the formality, informative-density and precision which an academic paper requires, usually.
 
-Which is exactly what is expected by SoNia and defines its added-value compared with AleX which is the academic-like peer-review dedicated prompt, essential but not for divulgation oriented not-so-much user-friendly for common people (cfr. [The session prompts v3 for AI-driven chatbots](https://robang74.github.io/chatbots-for-fun/html/ai-session-prompts-with-rag-v3.html)). 
+Which is exactly what is expected by SoNia and defines its added-value compared with AleX which is the academic-like peer-review dedicated prompt, essential but not for divulgation oriented not-so-much user-friendly for common people.
+
+- [Introducing SoNia' seamless chat experience](https://robang74.github.io/chatbots-for-fun/html/introducing-sonia-seamless-chat-experience.html) &nbsp; (2025-06-13)
 
 +
 
