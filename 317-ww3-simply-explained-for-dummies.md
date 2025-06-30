@@ -410,7 +410,7 @@ Ci sono due motivi per cui questo accade:
 
 - a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da quello con ben altro esito contro JFK quindi, Trump contro il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
 
-Che ormai le carte fossero scoperte, lo prova la chat linkata in questo [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736?ref=embed_post) (2025-05-28) perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
+Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascrittao]([trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank)). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
 ...
 
