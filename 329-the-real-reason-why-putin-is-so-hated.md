@@ -41,7 +41,7 @@ Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettat
 
 In questa chat con Gemini 2 si dipana un discorso che parte dall'attualità e va indietro per sei secoli dai quali emerge l'invidia sfacciata per la Russia come Terza Roma che ha sempre trovato un qualche vantaggio sufficiente a non farsi MAI sottomettere dagli Europei.
 
-- https://gemini.google.com/share/454f6850b456
+- Approfondimenti in questa [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
 
 Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un tempo li abbiamo ridotti in schiavitù, passino i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
 
