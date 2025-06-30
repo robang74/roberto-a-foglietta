@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-06-01:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch paleinv" src="img/317-ww3-simply-explained-for-dummies-img-001.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated.jpg" width="800"><br></div>
 
 ## The real reason why Putin is so hated
 
@@ -46,6 +46,18 @@ In questa chat con Gemini 2 si dipana un discorso che parte dall'attualità e va
 Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un tempo li abbiamo ridotti in schiavitù, passino i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
 
 Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
+
++
+
+## Conclusion
+
+We, as Western peopl, lost the proxy-war against Russia thus we did not managed to torture the witch nor to burn her. Suddendly, our enemy is not anymore Russia but Iran. In such a case it is not because of the lover for the State of Israel, but because Iran is planning to threat us developing a nuclear bomb.
+
+Curiosly, Kohomeni is **not** the enemy because at his age, he is a more like an orthodox icon rather than man of astuce. In fact, those who as been targeted were top-level commanders in charge or scientists. Unfortunately, U.S. did not have enough SM-3 to continue the war an protect Israel, and not powerful bombs enough to effecitvely hit Iran.
+
+Because of these two limitations, a cease-fire agreement was necessary otherwise another war was bitterly lost on the battefield. So, the manouvre to shift the public opinon torward Iran, the new #1 enemy, was also failed and soon we were focerd to see on East and accept also the oher bitterly war lost on the battlefield.
+
+Whatever, a war is lost or win, the real defeated is the diplomacy.
 
 +
 
