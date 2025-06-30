@@ -5,7 +5,7 @@
 
 ## Non c'è il 2° podio negli schemi Ponzi
 
-- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/photo/?fbid=10161771372168736&set=a.10150400606833736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
+- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161771372418736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
 
 ---
 
@@ -75,7 +75,7 @@ C'è però un problema di fondo: visto che il denaro viene creato (*quantitative
 
 Perché **noi** peones siamo costretti a comprare gli euro (o dollari) con il nostro lavoro mentre nella finanza li stampano, letteralmente dal nulla. È ovvio che la finanza si comprerà **tutto** e il lavoro diventerà inutile. Infatti i lavoratori sono stati cartolarizzati:
 
-- [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; su &nbsp; [LinkedIn](http://linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
+- [La cartolarizzazione del lavoratore](linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html#?target=_blank) &nbsp; su &nbsp; [LinkedIn](http://linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
 
 che è un modo "tecnico" per dire che **non** ha più importanza la produzione al punto che le aziende guadagnerebbero di più dalla borsa se **non** avessero lavoratori. In pratica, i lavoratori servono alle aziende **solo** per far finta di esistere e quotarsi in borsa.
 
@@ -85,7 +85,7 @@ che è un modo "tecnico" per dire che **non** ha più importanza la produzione a
 
 Ma è ancora più grave, perchè prima dell'euro era privilegio esclusivo del dollaro americano espandere la massa monetaria e diluire il suo valore quindi creare inflazione, con l'euro questo "privilegio" è diventato anche nostro e se non lo facessimo anche noi, il resto del mondo preferirebbe usare l'euro per gestire le loro riserve finanziarie.
 
-- [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) &nbsp; (2024-05-18)
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
 Quindi dal 2001 è in corso una guerra finanziaria tra dollaro ed euro. Di cui la "sorpresa" più devastante è stata l'ingresso della Cina nel WTO. In pratica gli USA hanno risposto alla creazione dell'euro con lo spostamento in Cina della produzione industriale. Quindi anche NOI siamo stati costretti a stampare euro invece di produrre.
 
