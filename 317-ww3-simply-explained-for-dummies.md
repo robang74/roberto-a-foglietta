@@ -73,7 +73,7 @@ Back to Spring 2022, while Mario Draghi, the ex-ECB director, was proposing his 
 
 They decided to raise wages even more than before. It is worth noticing that in the previous two decades since the first Putin presidency, all wages in Russia were increasing on average more than the Ruble inflation, and soon after the UA-RU military hostility began, even more. They moved their positive commercial balance into wages and do-by-themselves, thus heavily investing in their own domestic industrial production, fulfilling all the positions left open by the Western companies that were leaving Russia.
 
-- [Primo maggio, festa dei lavoratori](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
+- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
 
 In fact, while Italy kept increasing its public debt, stabilizing its ratio with the GDP, and inflating consumer prices, thus increasing wealth concentration, in Russia they did the opposite: inflating wages more than Ruble inflation, thus increasing their GDP. Because GDP is defined as the sum of all transactions -- which can be production or waste; nevertheless, they sum up in a positive manner in this "peculiar" index -- thus there are mainly two ways to increase it: increasing wages or increasing prices. These two opposite ways of managing economics led Italy to raise their Gini index to reach the falling-down Russia Gini index, just before the war started.
 
@@ -163,7 +163,7 @@ Or this example [here](#how-misinformation-leads-to-blind-obey) reported. Both o
 
 - [La semplicità delle direttive in caso di crisi](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) &nbsp; (2024-12-29)
 
-Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and conviction in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercise on full scale (cfr. [here](the-worst-democracy-is-better-than-the-best-dictatorship) gets in deeper about psychological warfare and memes).
+Something about health management that we never saw in Europe before and which went totally unchallenged despite the corruption scandal (eg. [Pfizergate](https://en.wikipedia.org/wiki/Pfizergate)) and conviction in trials related to the medical contracts and European states agreements. A civilian-tailored WW3 exercise on full scale (cfr. [here](#the-worst-democracy-is-better-than-the-best-dictatorship) gets in deeper about psychological warfare and memes).
 
 ---
 
@@ -189,7 +189,7 @@ Starting a war to hide today's avoidable sunk-cost sounds like starting a WW3 to
 
 Please, tell me we are not going to fall in it again!? Well, same heads, same ideas, same story. Which is the main reason because sometimes in our history heads have fallen, wildly. In a revolution or in a war, and the main difference between these two is **who** determines the enemy of the people: their governments (war) or themselves (revolution).
 
-- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello..md#?target=_blank) &nbsp; (2025-06-20)
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-20)
 
 Anyway, in the above linked article a third option is presented and despite it having a near-zero probability to happen because rationality is not the driver of our times, it is a great bonus that casts a light of hope into a dark future outlook. At least, every way has been tracked even if not paved, yet.
 
@@ -250,7 +250,7 @@ Let me you notice that while Iran correctly managed to anticipate the USA strate
 
 Obviously, Iran is confirming damages to the Fordow nuclear site because they know that saying anything different would imply to give solid proof and thus exposing highly sensitive information to the enemy. As long they are wrong, as long they are affected by an asymmetrical disadvantage.
 
-Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because it is the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but dust on the surface. (cfr. [here](#how-to-analyze-osint-war-information))
+Moreover, Israel is mad about the Iran nuclear supposedly-war plan and might attack with tactical nuclear bombs because it is the **only** more powerful alternative to GBU-57 which failed to destroy the underground facility but just drilling holes. In fact, no terrain depression has been noticed but dust on the surface. (cfr. [here](#how-to-analyse-osint-war-information))
 
 [!INFO]
 2025-06-24 -- US Navy warships are firing top ballistic missile interceptors at an 'alarming rate,' admiral says. Since last year, US warships have repeatedly fired SM-3 interceptors to defend Israel from Iranian missiles. These are assets the US would need in a high-end fight. The SM-3 missile comes in multiple variants, which can cost from $10M up to $30M, according to the MDA. In October 2024, Tehran launched more than 180 ballistic missiles at Israel. -- Source: [Business Insider](https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says-2025-6)
@@ -304,7 +304,7 @@ After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enric
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine, as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
-The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2'600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively deploy it, is a **must-have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. [diplomacy failure](#the-US-foreign-diplomacy-s-failure)).
+The idea that Iran can achieve the nuclear bomb and they are capable of mounting it over a rocket that can travel 2'600 km and hit at Mach 15, objectively is not a comforting idea. On the other hand, if a nation decides that having a nuclear bomb and the capability to effectively deploy it, is a **must-have** to be a relevant geopolitical player then we can agree the idea of "politics" and more in general "diplomacy" is rotten bad (cfr. [diplomacy failure](#the-us-foreign-diplomacys-failure)).
 
 ---
 
@@ -392,7 +392,7 @@ NOTES AND FURTHER INFORMATION COLLECTION
 
 - 2025-05-29 -- ABC News, USA, [video](https://www.youtube.com/watch?v=UkjscqKH21g)
 - 2025-05-30 -- Politico, USA, [artcle](https://www.politico.eu/article/russia-vladimir-putin-kremlin-donald-trump-keith-kellogg-nato-expansion-ukraine); Reuters, UK, [article](https://www.reuters.com/world/china/trump-envoy-says-russian-concern-over-nato-enlargement-is-fair-2025-05-30)
-- 2025-06-01 -- Tass, RU, [article](https://tass.com/world/1966517); RIA Novosti, RU, [article](https://www.nampa.org/text/22647158); Akmu, BG, [article](https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev); Times of India, [video](https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe)
+- 2025-06-01 -- Tass, RU, [article](https://tass.com/world/1966517); Pravda, RU, [article](https://norway.news-pravda.com/en/norway/2025/05/31/4104.html); Akmu, BG, [article](https://fakti.bg/en/world/975248-kellogg-putin-is-partly-right-that-nato-is-waging-a-proxy-war-with-russia-kremlin-sees-western-aid-for-kiev); Times of India, [video](https://youtu.be/H7AsFjkrhqA?si=r5KvYUqcZisBlSMe)
 
 Here below a summary of the press coverage made by Perplexity AI which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology:
 
@@ -410,7 +410,7 @@ Ci sono due motivi per cui questo accade:
 
 - a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da quello con ben altro esito contro JFK quindi, Trump contro il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
 
-Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascrittao]([trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank)). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
+Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascrittao](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
 ...
 
