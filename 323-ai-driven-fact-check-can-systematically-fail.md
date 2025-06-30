@@ -87,7 +87,7 @@ Sometimes, when complexity gets into the picture, theory and practice have quite
 Chinese scientists successfully refueled a molten salt thorium reactor without shutting it down — something never done before. This reactor, located in a secret facility in the Gobi Desert, generates 2 megawatts of electricity, enough to power 2,000 homes. It’s based on a design first tested in the US in the 1960s but later shelved. China used that declassified research and built on it for decades. 
 [/CITE]
 
-- Source: [post](https://www.facebook.com/photo.php?fbid=9877296489057202&set=a.231706290282985&type=3&ref=embed_post) and its [transcription](data/323-ai-driven-fact-check-can-systematically-fail-reactor.txt#?target=_blank) on Facebook
+- Source: [post](https://www.facebook.com/ramir.bilbao.1/posts/9877296725723845) and its [transcription](data/323-ai-driven-fact-check-can-systematically-fail-reactor.txt#?target=_blank) on Facebook
 
 ...
 
@@ -109,7 +109,7 @@ Può un'abitudine sana come il fact-checking rivelarsi una trappola cognitiva in
 
 Saltiamo la sostanza del post e andiamo direttamente in fondo dove si rivela questo insidioso aspetto del fact-checking, riassunto magistralmente nel punto #2 di cui sopra. Da cui si dovrebbe concludere che il nucleare è {pericoloso, costoso, complicato, etc.} e ciò che ho scritto di mio nel post, è sbagliato.
 
-Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la [guerra all'intelligenza](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank).
+Questo, se il fact-checking è fatto da una persona che non conosce almeno i fondamentali dei vari aspetti della questione. Quando invece la persona conosce l'argomento e chiede di verificare i fondamentali dello stesso, oplà: ad essere {pericoloso, costoso, complicato, etc.} è la politica che fa la [guerra all'intelligenza](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=_blank).
 
 ...
 
@@ -118,7 +118,7 @@ Questo, se il fact-checking è fatto da una persona che non conosce almeno i fon
 
 A forza di fare fact-checking e debunking del pensiero unico, le note sono diventate un articolo a sé stante:
 
-- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-19)
 
 Forse, dal titolo un po' bizzarro ma poi nemmeno più di tanto considerando che "viviamo strani giorni", una definizione presa dal titolo della [canzone](https://www.youtube.com/watch?v=MSgcdlUi3yw) dall'album `Imboscata` (1996) di Franco Battiato.
 
@@ -142,7 +142,7 @@ Viviamo strani giorni
 
 Secondo questo principio è stupido anche chi si fa governare da dei corrotti o da degli stupidi che hanno come unica missione nella loro vita di accentrare la gestione delle risorse in un ristretto circolo di gente che è patologicamente dipendente dal binomio denaro-potere oppure da quello potere-denaro.
 
-Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) di un capo pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
+Viene alla mente quella [citazione](322-il-ruolo-della-selezione-naturale-nella-societa.md#:~:text=Ecco%20la%20storia%20si%20ripete?target=_blank) di un capo pellerossa: anche noi abbiamo persone malvagie ma non gli permettiamo di salire al potere, invece voi (riferendosi ai bianchi) li scegliete pure come i più adatti per governarvi.
 
 ---
 
@@ -176,13 +176,13 @@ In estrema sintesi: da un punto di vista politico invece le reti di vendita indi
 
 ## Related articles
 
-- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=blank) &nbsp; (2025-06-22)
+- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-19)
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
-- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=blank) &nbsp; (2025-06-13)
+- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#conclusione?target=_blank) &nbsp; (2025-06-13)
 
 - [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
 
