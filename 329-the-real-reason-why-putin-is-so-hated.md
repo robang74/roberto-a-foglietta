@@ -55,8 +55,7 @@ Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazion
 
 Per approfondire questa parte, continua leggendo la [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
 
-
-+
+++++
 
 ## Conclusion
 
@@ -66,17 +65,17 @@ Curiously, Kohomeni is **not** the enemy because at his age, he is more like an 
 
 Because of these two limitations, a cease-fire agreement was necessary otherwise another war was bitterly lost on the battlefield. So, the maneuver to shift the public opinion toward Iran, the new #1 enemy, was also failed and soon we were forced to see on East and accept also the oher bitterly war lost on the battlefield.
 
-Whatever, a war is lost or won, the real defeat is diplomacy.
+Anyway, in this story, the real defeat is diplomacy.
 
 +
 
 ## Update 2025-07-01
 
+<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
+
 > [!WARNING]
 > 
 > Contenuto aggiunto ma ancora in profonda fase di revisione, tradurre in inglese e associare con fonti/link.
-
-<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
 
 ---
 
@@ -106,9 +105,9 @@ Citazione dello stesso in Italiano fatta al Parlamento Italiano e affato fuori l
 
 Mentre Zelensky che è ancora in carica come presidente dell'Ucraina nonostante il suo mandato elettivo sia scaduto nell'aprile 2024, per tutto quanto sopra -- e altro ancora che sapremo in futuro quando ormai non più capo di stato non si potrà più nascondere dietro il paravento dei servizi segreti (SBU) -- magari ritratto proprio in questa foto ghignante metnre stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
 
-La cosa più ardua per gli storici del futuro, però, sarà trovare una ragionevole spiegazione a come in 60 anni, ovver nell'arco di due generazioni, siamo passati da quelli a questi.
-
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
+
+La cosa più ardua per gli storici del futuro, però, sarà trovare una ragionevole spiegazione a come in 60 anni, ovver nell'arco di due generazioni, siamo passati da quelli a questi.
 
 ---
 
@@ -122,9 +121,9 @@ Ma evidentemente come ha rivelato la Merkel dopo che il sabotaggio del Nord Stre
 
 Perché per quanto possa la propaganda NATO aver stravolto la mente delle persone, rimane un fatto acclarato nell'intera storia della diplomazia internazionale che coloro che firmano un patto, non lo mantengono, lo ignorano per anni, e per altro lo fanno consapevolmente tanto prima o poi sarà l'altra parte a dover reagire, è considerato "iniziare una guerra". 
 
-Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
+- [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
-- https://robang74.github.io/roberto-a-foglietta/html/317-ww3-simply-explained-for-dummies.html
+Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
 
 ---
 
