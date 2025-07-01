@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-001.jpg" width="800"><br></div>
 
 ## The real reason why Putin is so hated
 
@@ -62,6 +62,56 @@ Curiously, Kohomeni is **not** the enemy because at his age, he is more like an 
 Because of these two limitations, a cease-fire agreement was necessary otherwise another war was bitterly lost on the battlefield. So, the maneuver to shift the public opinion toward Iran, the new #1 enemy, was also failed and soon we were forced to see on East and accept also the oher bitterly war lost on the battlefield.
 
 Whatever, a war is lost or won, the real defeat is diplomacy.
+
++
+
+## Update 2025-07-01
+
+Contenuto aggiunto ma ancora in fase di revisione
+
+<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
+
+---
+
+### Zelensky, la stella cadente della UE
+
+Secondo me Zelensky sarà portato, dai posteri, come icona di questo primo quarto di secolo. Lasciatemi che vi spieghi, perché è una storia notevole.
+
+Ha iniziato una guerra che non voleva fare e non gli conveniva fare, si è ostinato a continuarla fino a quando quelli che lo avevano costretto a scommeterci all-in, non hanno cambiato presidente e quindi lo hanno abbandonato dopo averlo costretto a firmare la restituzione dei prestiti di guerra, poi il giorno che pensava di aver vinto tutto, ha scoperto che aveva perso e si è rintanato in un bunker.
+
+Quando finalmente è uscito dal bunker è stato ricevuto da Carlo, il Re d'Inghilterra:  è entrato con la mimetica nel bunker e ne è uscito in abito nero, anche perché qualsiasi altro colore non si addice al riciclaggio di denaro che a questo punto doveva svoltare perché pure gli europei fanno fatica ad accettare un perdente come eroe.
+
+Si noti che Re Carlo, è anche il primo sovrano inglese e quindi capo della Chiesa Anglicana -- da quando un suo predecessore chiamato Enrico VIII volendo divorziare dalla moglie ma trovando l'opposizione del papato ha deciso che fondare la chiesa Anglicana e tagliare la testa alla moglie era più consono che sopportare ambedue! -- che ha fatto gli auguri per la festa mussulmana del digiuno invece che per la Pasqua cristiana e ha elevato a titolo onorifico con tanto di spada sulla spalla un musulmano.
+
+Per carità di dio, i tempi cambiano ed entro certi limiti questo richiede anche adattamento, ma considerando che la monarchia è un'istituzione che per sua natura è tanto conservativa e tradizionale almeno quanto la Chiesa, passare da Enrico VIII a Carlo è un po' uno shock. Il che non ci deve stupire se gli Australiani hanno minacciato l'indipendenza -- più un atto formale che sostanziale -- dalla Corona Inglese se avessero continuato ad insistere che dovevano cambiare l'effige della Regina Elisabetta con quella di Carlo. Quest'ultimo salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile.
+
+> per il poco tempo che dio gli ha concesso di essere re. (cit.)
+
+Zelensky, per tutto questo e altro ancora che sapremo, magari proprio in questa foto sorridente che stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
+
+Piccola nota di colore: a parte il naso con le narici a forma di aspirapolvere, ogni volta che lo vedo continuo a sorprendermi che sia il ritratto sputato di mio fratello quando aveva ancora i capelli completamente scuri.
+
+La cosa più ardua per gli storici del futuro sarà spiegare come in 60 anni, due generazioni, siamo passati da quelli a questi.
+
+https://robang74.github.io/roberto-a-foglietta/html/309-la-misura-del-degrado-del-sistema.html
+
+---
+
+### Secondo la tradizione diplomatica
+
+Viviamo strani giorni, nei quali i segni dal cielo ci giungono in svariate e impreviste maniere! 🤣
+
+AM wrote: <<Ha iniziato una guerra>> -- avevano trovato un accordo di pace già a novembre 2021, che poi non era altro che attenersi agli accordi di Minsk e smetterla di perseguitare i cittadini ucraini di lingua e origine russa che poi nella pratica si limitava a smetterla di fare quelle azioni tipo bombardare il Donbass che andavano avanti da prima degli accordi di Minsk e che avrebbero dovuto essere cessati già da allora. Ma evidentemente come ha rivelato la Merkel dopo che il sabotaggio del Nord Stream I e II, gli americani avevano acconsentito che le parti firmassero quegli accordi ma solo per prendere tempo per preparare l'Ucraina alla guerra. La proposta di pace è rimasta sul tavolo e Zelensky si era convinto a firmare ed (questa volta) ad onorare la firma del trattato ma Biden lo ha chiamato e gli ha ordinato di non firmare, di fatto causando l'inizio della guerra. Perché per quanto possa la propaganda NATO aver stravolto la mente delle persone, rimane un fatto acclarato nell'intera storia della diplomazia internazionale che coloro che firmano un patto, non lo mantengono, lo ignorano per anni, e per altro lo fanno consapevolmente tanto prima o poi sarà l'altra parte a dover reagire, è considerato "iniziare una guerra". Quindi si, ha iniziato una guerra per procura su ordine di Biden. 
+
+https://robang74.github.io/roberto-a-foglietta/html/317-ww3-simply-explained-for-dummies.html
+
+---
+
+### Andando indietro fino all'URSS
+
+AM wrote: <<il conflitto inizia con l'occupazione della Crimea>> -- occupazione che non è mai esistita visto che la Crimea è sempre stata Russa ma durante l'Unione Sovietica quando le questioni fra confini non erano particolarmente sentite, anzi, negata fu territorialmente assegnata in gestione a quella che oggi è l'Ucraina. Alla dissoluzione dell'Unione Sovietica, quelle che oggi sono la Russia e l'Ucraina giunsero ad un accordo per il quale la Russia avrebbe protetto militarmente l'Ucraina e l'avrebbe sostenuta finanziariamente, in cambio di questo l'Ucraina avrebbe dato indietro le testate nucleari alla Russia che comunque non poteva lanciare senza i codici che avevano al Kremlino e avrebbe permesso alla Russia di continuare ad usare la Crimea per le sue basi navali anche militari, in particolare quella di Sebastopoli. Visto che ancora nel 2004 in Ucraina il 90% della popolazione parlava russo come seconda lingua e il russo era considerata seconda lingua ufficiale non si è mai posto il problema della Crimea anche perché la Russia non è mai venuta meno agli accordi di sostegno del debito pubblico Ucraino fino al 2014 e ancora oggi paga importanti fee sul trasporto del gas russo in Europa attraverso l'Ucraina. Ripeto, perché altrimenti è difficile capire dalla parte degli occidentali che firmano accordi per poi non rispettarli: nonostante l'Ucraina sia formalmente in guerra contro la Russia a causa del governo Zelensky che dall'aprile 2024 è in carica solo a causa della legge marziale (o stato di guerra, dir si voglia), la Russia non è mai venuta meno agli impegni che ancora avevano una ragione di essere e non stupirebbe che nel caso la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky & Co. fanno del loro meglio per lasciare un buco enorme ma purtroppo finendo in default tecnico. Quindi il boomerang della stupidità, o Karma, dir si voglia. Non solo, ma la Crimea essendo sempre stata a maggioranza di popolazione russa, ha chiesto l'annessione alla Russia con un referendum che ovviamente noi occidentali contestiamo ma se avessero votato in favore dell'Ucraina, oggi sbraiteremmo che tale referendum in quanto espressione democratica diretta della volontà popolare è sacro. Peccato che non sia andato così, quindi -- il sacro popolo ucraino -- verrà sacrificato fino all'ultimo uomo contro la Russia. Si noti, per altro, che coloro che pensano che se l'ucraina non avesse ceduto le bombe nucleari alla Russia, oggi sarebbe diverso, dimenticano che a) tanto gli Ucraini non potevano lanciarle senza il consenso di Mosca e 2) oggi grazie a quel patto l'Ucraina non è a differenza della Bielorussia un avamposto di lancio e a differenza della Bielorussia per diversi decenni hanno goduto di una libertà di viaggiare e quindi anche di commerciare che la Bielorussia non ha avuto oppure come l'Italia che è stata "liberata" dagli americani per diventarne un "protettorato de-facto" quale avamposto nucleare. Una sorte che pare la Polonia e la Romania ci contendono, a dimostrazione che la gente non impare mai nulla dalla storia, nemmeno da quella recente, e i politici sono così corrotti che sembrano pure scemi da tanto sono in contrasto con gli interessi di coloro che dovrebbero rappresentare.
+
+Quanto siano felici gli Ucraini che gli USA abbiano "esportato la democrazia" nel loro paese penso che a Baltimora ne abbiano avuto un primo esempio e, forse, è anche il motivo per il quale Trump ha deciso di sfilarsi da quel fronte, come per altro fece in Afganistan nella sua prima e più tradizionale presidenza, dimostrando che non ha difficoltà ne ad accettare ne a gestire la sconfitta sul campo, a differenza degli altri presidenti che lo hanno preceduto.
 
 +
 
