@@ -5,7 +5,7 @@
 
 ## The real reason why Putin is so hated
 
-- **5th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
+- **6th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
 
 ---
 
@@ -41,6 +41,8 @@ Up to here, everything is pretty clear. But why Putin? Sitting at the top isn't 
 
 ...
 
+#### Nella storia sono radicate le ragioni del rancore
+
 Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettato di tollerare gli Africani e i Musulmani ma hanno continuato ad odiare i Russi e in particolare la figura di Putin?
 
 In questa chat con Gemini 2 si dipana un discorso che parte dall'attualità e va indietro per sei secoli dai quali emerge l'invidia sfacciata per la Russia come Terza Roma che ha sempre trovato un qualche vantaggio sufficiente a non farsi MAI sottomettere dagli Europei.
@@ -49,7 +51,10 @@ Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un
 
 Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
 
-- per approfondimenti continua leggendo questa [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
+...
+
+Per approfondire questa parte, continua leggendo la [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
+
 
 +
 
@@ -77,23 +82,33 @@ Whatever, a war is lost or won, the real defeat is diplomacy.
 
 ### Zelensky, la stella cadente della UE
 
-Secondo me Zelensky sarà portato, dai posteri, come icona di questo primo quarto di secolo. Lasciatemi che vi spieghi, perché è una storia notevole.
+Secondo me Zelensky sarà portato ad esempio, dai posteri, come icona di questo primo quarto di secolo. Lasciate che spieghi perché **questa** è una storia notevole.
 
-Ha iniziato una guerra (cfr. [qui](#secondo-la-tradizione-diplomatica)) che non voleva fare e non gli conveniva fare, si è ostinato a continuarla fino a quando quelli che lo avevano costretto a scommeterci all-in, non hanno cambiato presidente e quindi lo hanno abbandonato dopo averlo costretto a firmare la restituzione dei prestiti di guerra, poi il giorno che pensava di aver vinto tutto, ha scoperto che aveva perso e si è rintanato in un bunker.
+Ha iniziato una guerra (cfr. [qui](#secondo-la-tradizione-diplomatica)) che non voleva fare e non gli conveniva fare, si è ostinato a continuarla fino a quando quelli che lo avevano costretto a scommeterci all-in del suo, non hanno cambiato presidente e quindi lo hanno abbandonato dopo averlo costretto a firmare la restituzione dei prestiti di guerra.
 
-Quando finalmente è uscito dal bunker è stato ricevuto da Carlo, il Re d'Inghilterra:  è entrato con la mimetica nel bunker e ne è uscito in abito nero, anche perché qualsiasi altro colore non si addice al riciclaggio di denaro che a questo punto doveva svoltare perché pure gli europei fanno fatica ad accettare un perdente come eroe.
+Già questo da solo sarebbe tanta roba ma tutto sommato solo la re-edizione di una sceneggiatura più volte osservata nell'arco degli ultimi 50 anni in cui la CIA ha portato al potere un qualche dittatore per poi eliminarlo una volta che tale dittatura aveva maturato le condizioni ideali per approfittarne senza intermediari. Invece no, Zelensky è riuscito a superare questo cliché però il giorno che pensava di aver vinto tutto, ha scoperto che aveva perso e si è dovuto rintanare in un bunker.
 
-Si noti che Re Carlo, è anche il primo sovrano inglese e quindi capo della Chiesa Anglicana -- da quando un suo predecessore chiamato Enrico VIII volendo divorziare dalla moglie ma trovando l'opposizione del papato ha deciso che fondare la chiesa Anglicana e tagliare la testa alla moglie era più consono che sopportare ambedue! -- che ha fatto gli auguri per la festa mussulmana del digiuno invece che per la Pasqua cristiana e ha elevato a titolo onorifico con tanto di spada sulla spalla un musulmano.
+Ormai lo si dava per spacciato e invece anche dal bunker ne è uscito, e quando finalmente ne è uscito, è stato ricevuto da Carlo, il Re d'Inghilterra. Nel bunker è entrato con la mimetica e ne è uscito in abito, giacca pantalone nero, ma senza cravatta, il classico dei tirapiedi dei mafiosi russi perché quelli degli italo-americani amano metterci una nota di colore.
 
-Per carità di dio, i tempi cambiano ed entro certi limiti questo richiede anche adattamento, ma considerando che la monarchia è un'istituzione che per sua natura è tanto conservativa e tradizionale almeno quanto la Chiesa, passare da Enrico VIII a Carlo è un po' uno shock. Il che non ci deve stupire se gli Australiani hanno minacciato l'indipendenza -- più un atto formale che sostanziale -- dalla Corona Inglese se avessero continuato ad insistere che dovevano cambiare l'effige della Regina Elisabetta con quella di Carlo. 
+Total black suite, anche perché qualsiasi altro colore non sarebbe adatto al riciclaggio di denaro [TODO: link 317 AML + default]. Un cambio d'abito che come a treatro presuppone anche un cambio di ruolo. D'altronde una svolta era inevitabile perché, non solo gli americani, pure gli europei fanno fatica ad accettare un perdente come eroe. 
 
-> Per il poco tempo che dio gli ha concesso di essere re. (cit.)
+Però un perdente può essere un "affidabile" uomo d'affari, affari di cui altri più pudici non si vorrebbero occupare, tipo disseminare l'Ucraina di mine anti-uomo nella speranza di fermare l'avanzata dell'armata Russa nella conquista. Immaginate l'Ucraina con l'accesso al Mar Nero bloccato e il territorio minato, un capolavoro!
 
-Quest'ultimo salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Mentre Zelensky, per tutto questo e altro ancora che sapremo, magari proprio in questa foto sorridente che stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
+Si noti che Re Carlo, è anche il primo sovrano inglese e quindi capo della Chiesa Anglicana -- da quando un suo predecessore chiamato Enrico VIII volendo divorziare dalla moglie ma trovando l'opposizione del papato ha deciso che fondare la chiesa Anglicana e tagliare la testa alla moglie era più consono che sopportare ambedue -- che ha fatto gli auguri per la festa mussulmana del digiuno invece che per la Pasqua cristiana e ha elevato a titolo onorifico con tanto di spada sulla spalla un musulmano.
 
-La cosa più ardua per gli storici del futuro sarà spiegare come in 60 anni, due generazioni, siamo passati da quelli a questi.
+Per carità di dio, i tempi cambiano ed entro certi limiti questo richiede anche adattamento, ma considerando che la monarchia è un'istituzione che per sua natura è tanto conservatrice e tradizionale almeno quanto la Chiesa, passare da Enrico VIII a Carlo III è un uno shock reale.
 
-- https://robang74.github.io/roberto-a-foglietta/html/309-la-misura-del-degrado-del-sistema.html
+Sicché non ci deve stupire se gli Australiani, già in tempi non sospetti ma che loro conoscevano meglio, hanno minacciato l'indipendenza -- più un atto formale che sostanziale -- dalla Corona Inglese se questa avesse continuato ad insistere che l'Australia avrebbe dovuto cambiare sulle sue banconote l'effige della Regina Elisabetta con quella di Re Carlo. 
+
+> Per il poco tempo che dio mi ha concesso di essere re. (cit.)
+
+Citazione dello stesso in Italiano fatta al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile.
+
+Mentre Zelensky che è ancora in carica come presidente dell'Ucraina nonostante il suo mandato elettivo sia scaduto nell'aprile 2024, per tutto quanto sopra -- e altro ancora che sapremo in futuro quando ormai non più capo di stato non si potrà più nascondere dietro il paravento dei servizi segreti (SBU) -- magari ritratto proprio in questa foto ghignante metnre stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
+
+La cosa più ardua per gli storici del futuro, però, sarà trovare una ragionevole spiegazione a come in 60 anni, ovver nell'arco di due generazioni, siamo passati da quelli a questi.
+
+- [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
 
 ---
 
