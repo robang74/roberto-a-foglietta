@@ -127,7 +127,7 @@ Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden
 
 ---
 
-### Andando indietro fino all'URSS
+### La cpaziosa questione della Crimea
 
 > Il conflitto inizia con l'occupazione della Crimea?
 
