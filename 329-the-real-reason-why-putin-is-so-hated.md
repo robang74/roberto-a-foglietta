@@ -5,13 +5,13 @@
 
 ## The real reason why Putin is so hated
 
-- **8th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
+- **9th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
 
 ---
 
 ### The real problem is that we lost
 
-The problem is not Putin, and the question is not even if the Putin is a dictator because in Europe we made trading, especially for oil, with **every** sort of dictators while CIA - for a public admission of one their ex-director - pushed several times and countries in dictatorship regime with the solely aim to advantage the US. Therefore, none of this is **the** problem. Which makes sense considering the [Wolfowitz doctrine](https://en.wikipedia.org/wiki/Wolfowitz_Doctrine) officially shapes the U.S. foreign policy since 1992.
+The problem is not Putin, and the question is not even if the Putin is a dictator because in Europe we made trading, especially for oil, with **every** sort of dictators while CIA - for a public admission of one their ex-director - pushed several times and countries in dictatorship regime with the solely aim to advantage the US. Therefore, none of this is **the** problem. Which makes sense considering the **Wolfowitz Doctrine** (#1) officially shapes the U.S. foreign policy since 1992.
 
 The issue might be that we, as Europeans, have a long historical tradition of move in others countries kill them, rape the, sack them, enslaved them, for whatever reason we like because **we** are the civilised ones. While, we, as Europeans, never leveraged our superior civilisation rather than using weapons combined with a rare mastership of organised violence. Despite this, it was **not** a problem for us, as Europeans, perpetrating violence.
 
@@ -89,7 +89,7 @@ Già questo da solo sarebbe tanta roba ma tutto sommato solo la re-edizione di u
 
 Ormai lo si dava per spacciato e invece anche dal bunker ne è uscito, e quando finalmente ne è uscito, è stato ricevuto da Carlo, il Re d'Inghilterra. Nel bunker è entrato con la mimetica e ne è uscito in abito, giacca pantalone nero, ma senza cravatta, il classico dei tirapiedi dei mafiosi russi perché quelli degli italo-americani amano metterci una nota di colore.
 
-Total black suite, anche perché qualsiasi altro colore non sarebbe adatto al riciclaggio di denaro (#1). Un cambio d'abito che come a treatro presuppone anche un cambio di ruolo. D'altronde una svolta era inevitabile perché, non solo gli americani, pure gli europei fanno fatica ad accettare un perdente come eroe. 
+Total black suite, anche perché qualsiasi altro colore non sarebbe adatto al riciclaggio di denaro (#2). Un cambio d'abito che come a treatro presuppone anche un cambio di ruolo. D'altronde una svolta era inevitabile perché, non solo gli americani, pure gli europei fanno fatica ad accettare un perdente come eroe. 
 
 Però un perdente può essere un "affidabile" uomo d'affari, affari di cui altri più pudici non si vorrebbero occupare, tipo disseminare l'Ucraina di mine anti-uomo nella speranza di fermare l'avanzata dell'armata Russa nella conquista. Immaginate l'Ucraina con l'accesso al Mar Nero bloccato e il territorio minato, un capolavoro!
 
@@ -101,7 +101,7 @@ Sicché non ci deve stupire se gli Australiani, già in tempi non sospetti ma ch
 
 > Per il poco tempo che dio mi ha concesso di essere re. (cit.)
 
-Citazione tratta dal discorso in Italiano fatto al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Ormai è chiaro che il suo regno sia incentrato al ripianamento della situazione finanziaria della Corona Reale e ragionevolmente la sua durata sarà funzionale a questo pragmatico ma indispensabile scopo (#2).
+Citazione tratta dal discorso in Italiano fatto al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Ormai è chiaro che il suo regno sia incentrato al ripianamento della situazione finanziaria della Corona Reale e ragionevolmente la sua durata sarà funzionale a questo pragmatico ma indispensabile scopo (#3).
 
 Mentre Zelensky che è ancora in carica come presidente dell'Ucraina nonostante il suo mandato elettivo sia scaduto nell'aprile 2024, per tutto quanto sopra -- e altro ancora che sapremo in futuro quando ormai non più capo di stato non si potrà più nascondere dietro il paravento dei servizi segreti (SBU) -- magari ritratto proprio in questa foto ghignante metnre stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
 
@@ -139,7 +139,7 @@ Visto che ancora nel 2004 in Ucraina il 90% della popolazione parlava russo come
 
 Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte degli occidentali che firmano accordi per poi non rispettarli -- nonostante l'Ucraina sia formalmente in guerra contro la Russia a causa del governo Zelensky che dall'aprile 2024 è in carica solo a causa della legge marziale o stato di guerra, dir si voglia -- la Russia non è mai venuta meno agli impegni che avevano, o hanno ancora, in ragione di essere.
 
-É ragionevole pensare che qualora la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky e il suo governo fanno del loro meglio per lasciare un buco enorme nelle finanze del paese al punto da finire in default tecnico nonostante tutti i finanziamenti ricevuti, in particolare dagli stati europei (#1).
+É ragionevole pensare che qualora la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky e il suo governo fanno del loro meglio per lasciare un buco enorme nelle finanze del paese al punto da finire in default tecnico nonostante tutti i finanziamenti ricevuti, in particolare dagli stati europei (#2).
 
 Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
 
@@ -192,11 +192,42 @@ Tramite Giubbe Rosse
 
 ### Nota #1
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
+The Wolfowitz Doctrine is a US foreign policy guideline theorised by then Undersecretary of Defence Paul Wolfowitz (third-in-command at the Pentagon), contained in the Defense Planning Guidance for the 1994-99 (dated 18 February 1992), an internal US administration document distributed to the military and civilian leaders of the Department of Defence to instruct them on how to commit their forces and resources to the common goals set out in the 10-year foreign policy plan. Wikipedia in [Italian](https://it.wikipedia.org/wiki/Dottrina_Wolfowitz) and in [English](https://en.wikipedia.org/wiki/Wolfowitz_Doctrine)
 
-----
+- [The spectre of Wolfowitz](https://www.ussc.edu.au/the-spectre-of-wolfowitz) - published on 2014/06/24 for the United States Studies Centre of the Sidney Univerity by Professor Anatol Lieven of Georgetown University School of Foreign Service, Qatar - subtitle: A controversial 1992 defence strategy has helped shape the US foreign policy mindset of containing Russia in its own backyard - In essence, the author sees the Wolfowitz Doctrine's underlying principles of maintaining US global dominance and preventing regional challengers as a key driver behind the aggressive US foreign policy in Ukraine, even when it contradicted Obama's stated intentions and led to predictable negative consequences with Russia.
+
+- [The foundation of the modern Ukrainian crisis](https://en.topwar.ru/242238-doktrina-vulfovica-fundament-sovremennogo-ukrainskogo-krizisa.html) - published on 2024/05/14, on a Russian domain - In essence, the author sees the Wolfowitz Doctrine as the original blueprint for a consistently adversarial US foreign policy toward Russia, characterized by a relentless pursuit of unipolar dominance, active containment, military expansion, and a willingness to bypass international law, which ultimately set the stage for the ongoing conflict in Ukraine.
+
+- [US action in middle-east](https://tiis.org/index.php/2025/04/29/want-to-understand-us-action-in-the-middle-east-look-at-the-wolfowitz-doctrine) - published on 2025/04/29, German company as domain registrar - The author labels the "War on Terror" as "fake" and directly links it to the Wolfowitz Doctrine. This connection is further solidified by the mention of the PNAC report, co-authored by Wolfowitz, which famously stated that a "catastrophic and catalyzing event, like a new Pearl Harbor" might be needed to initiate a "process of transformation" [N.d.R.: checked and confirmed] which implies foreknowledge of 9/11, and that the "War on Terror" that followed was a pretext, enabled by the doctrine's aggressive pursuit of global dominance, to intervene militarily and solidify US power in the Middle East.
+
+- [How the Wolfowitz Doctrine Shaped Putin’s Outlook](https://nationalinterest.org/feature/how-wolfowitz-doctrine-shaped-putins-outlook-206225) - published on 2023/02/18, for the The National Interest by Sameed Basha from Deakin University, Australia - In essence, the author posits that the Wolfowitz Doctrine's vision of unipolar US dominance and its aggressive implementation through NATO expansion and interference in Russia's neighborhood directly fostered Putin's confrontational outlook, leading him to believe that Russia needed to forcefully resist what he saw as a consistent US strategy to undermine its power and influence. From Putin's perspective, the invasion of Ukraine in 2022 was a direct response to signal that Russia would no longer tolerate the continued advancement of the Wolfowitz Doctrine, which he saw as an American plan to impose its will and eliminate rivals. - The TNI, with HQ in Washington, DC has served as an important forum for debates about American foreign policy and political realism since it was launched as a quarterly journal in 1985.
+
+Despite these four articles are bringing in different perspectives which can be reasonably biased the critics elevated to Wolfowitz Doctrine are acceptable in every rational-driven open-minded academic conces in which participants can freely express their opinions. This because of the intrinsic nature and explicit claims of the Wolfowitz Doctrine, even in its edulcorate version that became the official version. A document that did not fall from the sky but the Pentagon wrote for themselves and the US foreign diplomacy accepted in full, de facto.
+
+<!--
+#### Sources
+
+* http://www.informationclearinghouse.info/pdf/naarpr_Defense.pdf
+* http://www.informationclearinghouse.info/pdf/RebuildingAmericasDefenses.pdf
+* https://thefreedomarticles.com/brzezinski-easier-to-kill-than-control/
+* http://www.takeoverworld.info/Grand_Chessboard.pdf
+* https://thefreedomarticles.com/who-is-jeb-bush-really-part-2/
+* https://www.youtube.com/watch?v=A9RCFZnWGE0
+* https://www.lewrockwell.com/lrc-blog/u-s-implements-the-wolfowitz-doctrine/
+* https://www.youtube.com/watch?v=dexrP27MMdU
+* https://www.youtube.com/watch?v=KIvRljAaNgg
+* https://www.rt.com/news/international-observers-crimea-referendum-190/
+* http://newsvoice.se/2015/09/07/swedish-analyst-the-smear-campaign-against-putin-and-the-us-agenda-part-1/
+//-->
+---
 
 ### Nota #2
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
+
+---
+
+### Nota #3
 
 2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
 
@@ -207,5 +238,4 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
 
