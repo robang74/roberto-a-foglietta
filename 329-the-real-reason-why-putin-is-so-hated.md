@@ -101,7 +101,7 @@ Sicché non ci deve stupire se gli Australiani, già in tempi non sospetti ma ch
 
 > Per il poco tempo che dio mi ha concesso di essere re. (cit.)
 
-Citazione dello stesso in Italiano fatta al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile.
+Citazione tratta dal discorso in Italiano fatto al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Ormai è chiaro che il suo regno sia incentrato al ripianamento della situazione finanziaria della Corona Reale e ragionevolmente la sua durata sarà funzionale a questo pragmatico ma indispensabile scopo (#1).
 
 Mentre Zelensky che è ancora in carica come presidente dell'Ucraina nonostante il suo mandato elettivo sia scaduto nell'aprile 2024, per tutto quanto sopra -- e altro ancora che sapremo in futuro quando ormai non più capo di stato non si potrà più nascondere dietro il paravento dei servizi segreti (SBU) -- magari ritratto proprio in questa foto ghignante metnre stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
 
@@ -175,6 +175,12 @@ L’Iran ha ripetutamente accusato l’IAEA di essere influenzata da potenze occ
 Tramite Giubbe Rosse
 
 //-->
+
++
+
+### Nota #1
+
+2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
 
 +
 
