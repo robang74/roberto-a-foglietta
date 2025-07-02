@@ -1,4 +1,4 @@
-<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-001.jpg" width="800"><br></div>
@@ -89,7 +89,7 @@ Già questo da solo sarebbe tanta roba ma tutto sommato solo la re-edizione di u
 
 Ormai lo si dava per spacciato e invece anche dal bunker ne è uscito, e quando finalmente ne è uscito, è stato ricevuto da Carlo, il Re d'Inghilterra. Nel bunker è entrato con la mimetica e ne è uscito in abito, giacca pantalone nero, ma senza cravatta, il classico dei tirapiedi dei mafiosi russi perché quelli degli italo-americani amano metterci una nota di colore.
 
-Total black suite, anche perché qualsiasi altro colore non sarebbe adatto al riciclaggio di denaro [TODO: link 317 AML + default]. Un cambio d'abito che come a treatro presuppone anche un cambio di ruolo. D'altronde una svolta era inevitabile perché, non solo gli americani, pure gli europei fanno fatica ad accettare un perdente come eroe. 
+Total black suite, anche perché qualsiasi altro colore non sarebbe adatto al riciclaggio di denaro (#1). Un cambio d'abito che come a treatro presuppone anche un cambio di ruolo. D'altronde una svolta era inevitabile perché, non solo gli americani, pure gli europei fanno fatica ad accettare un perdente come eroe. 
 
 Però un perdente può essere un "affidabile" uomo d'affari, affari di cui altri più pudici non si vorrebbero occupare, tipo disseminare l'Ucraina di mine anti-uomo nella speranza di fermare l'avanzata dell'armata Russa nella conquista. Immaginate l'Ucraina con l'accesso al Mar Nero bloccato e il territorio minato, un capolavoro!
 
@@ -101,7 +101,7 @@ Sicché non ci deve stupire se gli Australiani, già in tempi non sospetti ma ch
 
 > Per il poco tempo che dio mi ha concesso di essere re. (cit.)
 
-Citazione tratta dal discorso in Italiano fatto al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Ormai è chiaro che il suo regno sia incentrato al ripianamento della situazione finanziaria della Corona Reale e ragionevolmente la sua durata sarà funzionale a questo pragmatico ma indispensabile scopo (#1).
+Citazione tratta dal discorso in Italiano fatto al Parlamento Italiano e affato fuori luogo perché Carlo III è salito al trono relativamente in tarda età e secondo i tabloit inglesi affetto da una forma di cancro incurabile. Ormai è chiaro che il suo regno sia incentrato al ripianamento della situazione finanziaria della Corona Reale e ragionevolmente la sua durata sarà funzionale a questo pragmatico ma indispensabile scopo (#2).
 
 Mentre Zelensky che è ancora in carica come presidente dell'Ucraina nonostante il suo mandato elettivo sia scaduto nell'aprile 2024, per tutto quanto sopra -- e altro ancora che sapremo in futuro quando ormai non più capo di stato non si potrà più nascondere dietro il paravento dei servizi segreti (SBU) -- magari ritratto proprio in questa foto ghignante metnre stringe la mano a Re Carlo, sarà ricordato come icona del primo quarto del nostro secolo.
 
@@ -139,7 +139,7 @@ Visto che ancora nel 2004 in Ucraina il 90% della popolazione parlava russo come
 
 Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte degli occidentali che firmano accordi per poi non rispettarli -- nonostante l'Ucraina sia formalmente in guerra contro la Russia a causa del governo Zelensky che dall'aprile 2024 è in carica solo a causa della legge marziale o stato di guerra, dir si voglia -- la Russia non è mai venuta meno agli impegni che avevano, o hanno ancora, in ragione di essere.
 
-É ragionevole pensare che qualora la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky e il suo governo fanno del loro meglio per lasciare un buco enorme nelle finanze del paese al punto da finire in default tecnico nonostante tutti i finanziamenti ricevuti, in particolare dagli stati europei (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank)).
+É ragionevole pensare che qualora la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky e il suo governo fanno del loro meglio per lasciare un buco enorme nelle finanze del paese al punto da finire in default tecnico nonostante tutti i finanziamenti ricevuti, in particolare dagli stati europei (#1).
 
 Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
 
@@ -191,6 +191,12 @@ Tramite Giubbe Rosse
 +
 
 ### Nota #1
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
+
+----
+
+### Nota #2
 
 2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
 
