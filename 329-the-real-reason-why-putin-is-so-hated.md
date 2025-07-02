@@ -5,7 +5,7 @@
 
 ## The real reason why Putin is so hated
 
-- **7th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
+- **8th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
 
 ---
 
@@ -137,7 +137,19 @@ Alla dissoluzione dell'Unione Sovietica, quelle che oggi sono la Russia e l'Ucra
 
 Visto che ancora nel 2004 in Ucraina il 90% della popolazione parlava russo come seconda lingua e il russo era considerata seconda lingua ufficiale non si è mai posto il problema della Crimea anche perché la Russia non è mai venuta meno agli accordi di sostegno del debito pubblico Ucraino fino al 2014 e ancora oggi paga importanti fee sul trasporto del gas russo in Europa attraverso l'Ucraina.
 
-Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte degli occidentali che firmano accordi per poi non rispettarli: nonostante l'Ucraina sia formalmente in guerra contro la Russia a causa del governo Zelensky che dall'aprile 2024 è in carica solo a causa della legge marziale (o stato di guerra, dir si voglia), la Russia non è mai venuta meno agli impegni che avevano o hanno ancora una ragione di essere e non stupirebbe che nel caso la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky & Co. fanno del loro meglio per lasciare un buco enorme ma purtroppo finendo in default tecnico. [TODO link: 317 AML + default]
+Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte degli occidentali che firmano accordi per poi non rispettarli -- nonostante l'Ucraina sia formalmente in guerra contro la Russia a causa del governo Zelensky che dall'aprile 2024 è in carica solo a causa della legge marziale o stato di guerra, dir si voglia -- la Russia non è mai venuta meno agli impegni che avevano, o hanno ancora, in ragione di essere.
+
+É ragionevole pensare che qualora la Russia prendesse il controllo dell'Ucraina, ritornerebbe a finanziarne il debito pubblico, motivo per il quale Zelensky e il suo governo fanno del loro meglio per lasciare un buco enorme nelle finanze del paese al punto da finire in default tecnico nonostante tutti i finanziamenti ricevuti, in particolare dagli stati europei (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank)).
+
+Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
+
+----
+
+### L'anessione della Crimea nel 2014
+
+[!INFO]
+Insieme alla vicina Donetsk, Lugansk è stata il crogiolo del conflitto iniziato nel 2014, dopo che un presidente filorusso fu rovesciato durante la Rivoluzione ucraina di Maidan e la Russia ha annesso la Crimea a seguito del risultato del referendum popolare del 16 marzo 2014, [wikipedia](https://it.wikipedia.org/wiki/Referendum_sull%27autodeterminazione_della_Crimea_del_2014).
+[/INFO]
 
 Vale la pena notare che, senza sorpresa, la Crimea essendo sempre stata a maggioranza di popolazione russa, ha chiesto l'annessione alla Russia con un referendum che ovviamente noi occidentali contestiamo ma se avessero votato in favore dell'Ucraina, oggi sbraiteremmo che tale referendum, in quanto espressione democratica diretta della volontà popolare, è sacro.
 
