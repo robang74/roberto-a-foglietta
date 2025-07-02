@@ -1,14 +1,15 @@
 <div id="firstdiv" created="2024-12-14:IT" alt="Google Translate markdown" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="wbsketch" src="img/295-il-cambiamento-climatico-questo-sconosciuto-img-001.jpg"><br/></div>
 
 ## Il cambiamento climatico questo sconosciuto
 
-* Published Dec 14, 2024 - origin [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_il-cambiamento-climatico-questo-sconosciuto-activity-7273048984619794433-gWHW) post
+- Published Dec 14, 2024 - origin [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_il-cambiamento-climatico-questo-sconosciuto-activity-7273048984619794433-gWHW) post
 
-Questo [articolo](https://it.linkedin.com/pulse/il-cambiamento-climatico-questo-sconosciuto-roberto-a-foglietta-06ccf) pubblicato in origine su LinkedIn è il prodotto di un poste dei suoi commenti scritti il giorno prima e qui raccolti con l'obiettivo di renderli pubblicamente disponibili.
+- Questo [articolo](https://it.linkedin.com/pulse/il-cambiamento-climatico-questo-sconosciuto-roberto-a-foglietta-06ccf) pubblicato in origine su LinkedIn è il prodotto di un poste dei suoi commenti scritti il giorno prima e qui raccolti con l'obiettivo di renderli pubblicamente disponibili.
 
-Questa **seconda edizione** (rev.23) non è andata a modificare il contenuto dell'articolo quanto a dividerlo in sezione e a dare un titolo caratteristico a quelle sezioni. Così, creando una sorta di struttura logica all'interno del documento stesso che seguisse il ragionamento sottostante ad esso.
+- **2nd** edition (rev.23) non ha modificato il contenuto dell'articolo, invece lo ha diviso in varie sezioni a cui è stato dato un titolo adatto ad ognuna di essa. Così, si è creata una struttura logica che sostenesse il ragionamento esplicitato dalla narrazione.
 
 ---
 
@@ -24,7 +25,7 @@ La parte piuttosto discutibile di questa narrativa invece riguarda il riscaldame
 
 La media può rimanere stabile anche se metà del pianeta riportasse variazioni di -20&deg;C e l'altra metà del pianeta +20&deg;C. Ci sarebbe uno sconvolgimento del clima ma senza alterare la temperatura media. Il metano ha un effetto serra di 82 volte rispetto alla CO2 che nell'arco di un secolo si riduce a 28 volte. Quindi la CO2 potrebbe rimanere stabile e il pianeta bollire per via del metano.
 
----
+----
 
 ### Non linearità dei cambiamenti climatici
 
@@ -52,9 +53,9 @@ Se in questo scenario aggiungiamo che i cambiamenti locali alterano l'equilibrio
 
 ### Ampiezza e fase del contributo antropico
 
-Aggiungiamo che il green-business è tarato su parametri arbitrari (finestrini) e non sui driver del cambiamento (volante), oplà.Scrive un utente di LinkedIn, [Fabio Fois](https://it.linkedin.com/in/fabio-fois-069bb566) a riguardo ha commentato:
+Aggiungiamo che il green-business è tarato su parametri arbitrari (finestrini) e non sui driver del cambiamento (volante), oplà.
 
-> Zichichi, se non erro, aveva quantificato il contributo antropico al cambiamento climatico in misura non superiore al 5%.
+> Zichichi, aveva quantificato il contributo antropico al cambiamento climatico in misura non superiore al 10%.
 
 Non ho motivo di contestare la stima di Zichichi e non ho dati o un modello di riferimento pubblicamente disponibile per supportare quella stima. La prendo per buona.
 
@@ -68,7 +69,7 @@ Non ho motivo di contestare la stima di Zichichi e non ho dati o un modello di r
 
 Ricordiamoci però che un 5% può sembrare poco e sicuramente è trascurabile se va in controfase con il trend naturale (raffreddamento naturale + riscaldamento antropico) già meno bene se invece va in fase con quello naturale (riscaldamento naturale + riscaldamento antropico) perché potrebbe portarci fuori dalla zona stabile.
 
----
+----
 
 ### La Siberia come esempio di fragilità
 
