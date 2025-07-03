@@ -62,7 +62,7 @@ Perché non mi pare che il mainstream abbia mai nascosto molto bene che le guerr
 
 ### La guerra contro l'euro
 
-Sotto questo punto di vista, anche la [dottrina Wolfowitz](https://it.wikipedia.org/wiki/Dottrina_Wolfowitz) (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica superpotenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
+Sotto questo punto di vista, anche la [dottrina Wolfowitz](329-the-real-reason-why-putin-is-so-hated.md#nota-1?target=_blank) (1992) che afferma la supremazia indiscutibile - whatever it takes - degli USA come unica superpotenza mondiale, se calata nel contesto reale non significa altro che la supremazia del dollaro americano su tutte le altre monete a corso legale.
 
 Il che spiega benissimo il continuo logoramento delle fondamenta d'Europa, in particolare dopo l'introduzione dell'Euro (2000) e infatti anche se con una certa sorpresa all'epoca abbiamo visto lo scoppio della bolla delle dotcom, l'ingresso della Cina nel WTO, le violenze del G8 di Genova e la tragedia del 9/11, tutto quanto l'anno dopo.
 
