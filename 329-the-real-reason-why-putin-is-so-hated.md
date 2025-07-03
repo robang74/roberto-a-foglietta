@@ -241,11 +241,15 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - [Il ruolo dell'Armata Rossa nella WW2](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf) &nbsp; (2024-08-27)
 
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
+
 - [2022.02.22, Доброе утро всем](https://robang74.github.io/roberto-a-foglietta/html/linkedin/22022022-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) &nbsp; (2022-02-22)
 
 - [The Russia's advantage](https://robang74.github.io/roberto-a-foglietta/html/linkedin/russias-advantage-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) &nbsp; (2017-11-05)
 
 - [L'opinione dello Zar](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lopinione-dello-zar-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) &nbsp; (2017-01-02)
+
+- [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
 
 +
 
