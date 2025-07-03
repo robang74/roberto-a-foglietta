@@ -223,13 +223,29 @@ Despite these four articles are bringing in different perspectives which can be 
 
 ### Nota #2
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default#?target=_blank))
 
 ---
 
 ### Nota #3
 
 2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
+
++
+
+## Related articles
+
+- [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
+
+- [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
+
+- [Il ruolo dell'Armata Rossa nella WW2](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf) &nbsp; (2024-08-27)
+
+- [2022.02.22, Доброе утро всем](https://robang74.github.io/roberto-a-foglietta/html/linkedin/22022022-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) &nbsp; (2022-02-22)
+
+- [The Russia's advantage](https://robang74.github.io/roberto-a-foglietta/html/linkedin/russias-advantage-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) &nbsp; (2017-11-05)
+
+- [L'opinione dello Zar](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lopinione-dello-zar-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) &nbsp; (2017-01-02)
 
 +
 
