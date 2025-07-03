@@ -169,7 +169,7 @@ Something about health management that we never saw in Europe before and which w
 
 ### Squeezing the most from the fear of Russia
 
-We can easily agree that the U.S. foreign policy was **always** been towards their own specific interests without any pity nor consideration for their allies. As clearly stated by the [Wolfowitz doctrine](https://en.wikipedia.org/wiki/Wolfowitz_Doctrine) (1992) which would be naive to ignore.
+We can easily agree that the U.S. foreign policy was **always** been towards their own specific interests without any pity nor consideration for their allies. As clearly stated by the [Wolfowitz doctrine](329-the-real-reason-why-putin-is-so-hated.md#nota-1?target=_blank) (1992) which would be naive to ignore.
 
 We can also agree that the U.S. has a historical attitude to playing poker on many tables at the same time and quickly leaving those tables in which they are losing too much or in which the counterparty did not buy their bluff (aka their arbitrary narrative or deal-as-a-trap tactic).
 
@@ -651,6 +651,8 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 +
 
 ## Related articles
+
+- [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md?target=_blank) &nbsp; (2025-06-30)
 
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
