@@ -94,7 +94,7 @@ Un altro caso iconico è Boeing, Leonardo e le due aziende fornitrici di Brindis
 
 Una domanda sorge spontanea: chi doveva fare il quality check della componentistica in ingresso e/o al montaggio?
 
-### ChatGPT
+### Informazioni raccolte web-access ChatGPT
 
 Leonardo acquistava quei componenti dalle aziende brindisine per integrarli nei propri moduli o sistemi destinati a Boeing, nel quadro della sua collaborazione industriale con Boeing. Leonardo è fornitore strategico per la struttura della fusoliera del 787. Il caso evidenzia la vulnerabilità della supply chain aerospaziale, dove subfornitori minori possono compromettere interi programmi industriali globali.
 
@@ -140,7 +140,7 @@ Deve piovere un meteorite dal cielo? Deve cadere la Luna? Deve esplodere un supe
 
 ### Nota #1
 
-- Alzare l'asticella crea una [pressione evolutiva](322-il-ruolo-della-selezione-naturale-nella-societa.md#alzare-lasticella-crea-una-pressione-evolutiva?target=_blank), che in tutto e per tutto è equivalente ad uno stress per il sistema -- ricordiamoci infatti che la selezione naturale opera sulle specie, quindi sui gruppi, e **non** sugli individui -- poiché lo stress non piace allora si evita. 
+Alzare l'asticella crea una [pressione evolutiva](322-il-ruolo-della-selezione-naturale-nella-societa.md#alzare-lasticella-crea-una-pressione-evolutiva?target=_blank), che in tutto e per tutto è equivalente ad uno stress per il sistema -- ricordiamoci infatti che la selezione naturale opera sulle specie, quindi sui gruppi, e **non** sugli individui -- poiché lo stress non piace allora si evita. 
 
 Ma non è detto che se noi, per noi stessi, abbassiamo l'asticella gli altri non l'alzino magari in principio solo per loro stessi e poi per confronto diretto ovvero concorrenza sul mercato, l'alzino anche per noi. La produzione Cinese è sempre stata sottovalutata in Italia perché "*tanto la loro qualità è bassa, e poi anche loro saranno costretti ad alzare i prezzi quando gli operai chiederanno più soldi*". 
 
