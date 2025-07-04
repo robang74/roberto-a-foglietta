@@ -125,7 +125,7 @@ Un contenuto di THC dello 0,5% (che rientra ampiamente nel limite svizzero dell'
 
 Il proibizionismo ideologico è una zappa sui piedi come per altro tutte le politiche basate su una qualche ideologia piuttosto che su una valutazione razionale ed oggettiva della questione che ambiscono a normare.
 
-Continua approfondendo l'argomento in questa [conversazione](https://g.co/gemini/share/ebddee8b3541) con Gemini o la sua [trascrizione](data/279-plastica-vegetale-scarti-vs-canapa-gemini.txt#?target=_blank).
+Continua approfondendo l'argomento in questa [conversazione](https://g.co/gemini/share/9164c2bd8e61) con Gemini o la sua [trascrizione](data/279-plastica-vegetale-scarti-vs-canapa-gemini.txt#?target=_blank).
 
 +
 

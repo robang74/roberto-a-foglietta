@@ -1,8 +1,10 @@
-Gemini 2.5 Flash 4 luglio 2025
+Gemini 2.5 Flash - 4 luglio 2025
 
 ****** Conversation with Gemini ******
 
 canapa e cannabis, che differenza c'è fra queste due piante?
+
+--AI--
 
 Le parole "canapa" e "cannabis" sono spesso usate in modo intercambiabile, ma
 in realtà si riferiscono alla stessa pianta, la Cannabis Sativa L. La
