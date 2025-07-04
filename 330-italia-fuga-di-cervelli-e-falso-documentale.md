@@ -5,7 +5,7 @@
 
 ## Italia: fuga di cervelli e falso documentale
 
-- **2nd draf**, articolo scritto a partire da alcuni post pubblicati su LinkedIn nei giorni precedenti.
+- **1st edition**, articolo scritto a partire da alcuni post pubblicati su LinkedIn nei giorni precedenti.
    - [post #4](https://www.linkedin.com/posts/robertofoglietta_produciamo-troppi-laureati-oppure-cosa-activity-7346744357888188416-Pm_K) (2025-07-04) - [post #3](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7346256090105270275-w-Pj) (2025-07-03) - [post #2](https://www.linkedin.com/posts/robertofoglietta_2-luglio-2025-seimila-componenti-difettosi-activity-7346147415990665217-wlk4) (2025-07-03) - [post #1](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7345379742054764547-PqXj) (2025-07-01)
 
 ---
@@ -154,6 +154,8 @@ Perché alla fine della giornata, cari signori, la realtà è che un informatico
 ## Related articles
 
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
++++++
+- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
 +++++
 - [I sette livelli del biscottificio](205-i-sette-livelli-del-biscottificio.md#?target=_blank) &nbsp; (2019-01-29)
 +++++
