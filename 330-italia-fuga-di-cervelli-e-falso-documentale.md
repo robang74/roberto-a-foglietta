@@ -98,25 +98,24 @@ Una domanda sorge spontanea: chi doveva fare il quality check della componentist
 
 Leonardo acquistava quei componenti dalle aziende brindisine per integrarli nei propri moduli o sistemi destinati a Boeing, nel quadro della sua collaborazione industriale con Boeing. Leonardo è fornitore strategico per la struttura della fusoliera del 787. Il caso evidenzia la vulnerabilità della supply chain aerospaziale, dove subfornitori minori possono compromettere interi programmi industriali globali.
 
-Sintesi della filiera:
-
-- Aziende Brindisine (componenti difettosi)
-
-   - Leonardo S.p.A. (assemblaggi strutturali e integrazione) 
-
-      - Boeing (uso finale su 787)
+>>>|
+**Sintesi della filiera**
+   - Aziende Brindisine (componenti difettosi)
+      - Leonardo S.p.A. (assemblaggi strutturali e integrazione) 
+         - Boeing (uso finale su 787)
+|<<<
 
 Leonardo S.p.A. effettua controlli di qualità sui componenti ricevuti, ma il sistema ha mostrato delle lacune in questo caso specifico: 
 
 - Prima di aggiungere un’azienda come MPS (Manufacturing Process Specification) nella propria lista, Leonardo valuta la capacità produttiva e la conformità ai requisiti aerospaziali tramite analisi documentali e revisioni dei processi
 
-Dove il sistema ha fallito:
+#### Dove il sistema ha fallito
 
 - Mancanza di controlli fisici a campione. Gli audit condotti (sia interni che esterni) non includevano test casuali o ispezioni fisiche sui pezzi al momento del ricevimento. Leonardo si basava soprattutto su approvazioni di terze parti senza controllo tangibile del materiale
 
 - Scoperta tardiva del problema. Il difetto, consistente nell'uso di titanio puro anziché della lega adeguata, venne identificato solo tra fine 2020 e inizio 2021 dopo segnalazioni di Boeing e approfondimenti interni. Questo ha fatto emergere la debolezza dei controlli originali.
 
-Fonte delle informazioni: lnkd.in/dfCEdz8U e i primi due prompt riguardano il meme "Fuckaldo" su Generali.
+Fonte delle informazioni: [lnkd.in/dfCEdz8U](https://lnkd.in/dfCEdz8U) e i primi due prompt riguardano il meme "Fuckaldo" su Generali.
 
 +
 
@@ -149,6 +148,14 @@ Però non è andata così, non solo perché i Cinesi sono diventati 1.3 miliardi
 Uno scenario del tutto ovvio a posteriori ma in realtà era ovvio anche a priori -- come in effetti la Germania sapeva e coerentemente si comportava già all'epoca dello SME cosa che noi gli rinfacciamo come vantaggio d'ingresso nell'Euro, loro 1:1 marco:euro e noi 2K:1 lira:euro, però eravamo anche quelli che si credevano furbi a svalutare la lira per agevolare l'esportazione della produzione industriale nazionale -- o lo sarebbe stato ovvio a priori agli occhi di una classe dirigente con un'estrazione STEM piuttosto che **solo** umanistica.
 
 Perché alla fine della giornata, cari signori, la realtà è che un informatico può leggere e capire Omero ma un filoso non sa scrivere e debuggare codice. Oplà, il disastro è tutto qua!
+
++
+
+## Related articles
+
+- [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
++++++
+- [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
 
 +
 
