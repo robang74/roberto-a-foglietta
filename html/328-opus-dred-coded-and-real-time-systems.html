@@ -18,7 +18,7 @@
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 <p class='topbar'></p>
 <div class='topbar' width='800px' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;</b> &thinsp;&mdash;&thinsp; &#8543;&#8239;release: <b class='topbar'>2025-06-23&nbsp;<sup class='date-type topbar' id='datenote'>(&hairsp;<a href='#date-legenda' class='date-type topbar'>2</a>&hairsp;)</sup></b>  &thinsp;&mdash;&thinsp; rev.: <b class='topbar
-'>5</b rev_num='
+'>6</b rev_num='
 '> &thinsp;&mdash;&thinsp; transl.:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/328-opus-dred-coded-and-real-time-systems?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>IT</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/328-opus-dred-coded-and-real-time-systems?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/328-opus-dred-coded-and-real-time-systems?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/328-opus-dred-coded-and-real-time-systems?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &thinsp;&mdash;&thinsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a> <span id='printlink'>&thinsp;&mdash;&thinsp; <b>⎙</b>&hairsp;: <a aria-label='print this page' class='topbar' href='javascript:window.print()'>PDF</a></span>&nbsp;</div>
 <div id="firstdiv">
 <p class='topbar'></p>
@@ -32,14 +32,14 @@
 <p></p>
 <H3 id="introduction">Introduction</H3>
 <p></p>
-<blockquote class="cite">
+<div class="post-it"><b class="post-it">&#9432;</b>
 Deep Audio Redundancy (DRED)<br>
 Extension for the Opus Codec<br>
 <p></p>
 Opus already includes a low-bitrate redundancy (LBRR) mechanism to transmit redundancy in-band to improve robustness to packet loss. LBRR is however limited to a single frame of redundancy, and typically uses about 2/3 of the bitrate of the "regular" Opus packet.
 <p></p>
 The DRED extension allows up to one second or more redundancy to be included in each packet, using a bitrate about 1/50 of the regular Opus bitrate. Although the amount of redundancy that can be encoded in a packet is unbounded, there appears to be little use to including more than a few seconds.
-</blockquote>
+</div>
 <p></p>
 <li>Source: <a href="https://www.ietf.org/archive/id/draft-valin-opus-dred-05.txt" target='_blank' rel='noopener noreferrer'>draft-ietf-mlcodec-opus-dred-05</a></li>
 <p></p>
@@ -53,11 +53,11 @@ AFAIK, for what I have saw/read, the MAIN aim of the Opus encoding is to provide
 <p></p>
 In this conversation with Gemini after leveraging a comment exchange for explaining how this encoding impact two opposite scenarios (real-time and pre-recorded audio), I have added in the final part few real-world use-cases in which this encoding can brings values and two in which can be detrimental if improperly tuned. In fact, the delay can be more or less than one second, and the audio-recovery capability can be more resilient or less depending the value chosen.
 <p></p>
-<li>Gemini chat: <a href="https://g.co/gemini/share/d7b477e2e294" target='_blank' rel='noopener noreferrer'>lnkd.in/eEF-rWf8</a> &nbsp; (2025-06-23)</li>
+<li>Gemini chat: <a href="https://g.co/gemini/share/d7b477e2e294" target='_blank' rel='noopener noreferrer'>first part</a> &nbsp; (2025-06-23)</li>
 <p></p>
 The chat has been update with the "minimum latency" as a reference concept for indicating a soft real-time specification in contrast with the hard real-time concept of having a top-limit about response time range. Moreover, the "minimum latency" concept helps us to understand the difference with "delay" as a fixed timing and "jitter" as concept for studying in a quantitative way the latencies propagation and their accumulations.
 <p></p>
-<li>Gemini chat: <a href="https://g.co/gemini/share/17e95a01e70c" target='_blank' rel='noopener noreferrer'>lnkd.in/dJJmwmcJ</a> and its <a href="../data/328-opus-dred-coded-and-real-time-systems.txt#" target='_blank' rel='noopener noreferrer'>transcription</a></li>
+<li>Gemini chat: <a href="https://g.co/gemini/share/17e95a01e70c" target='_blank' rel='noopener noreferrer'>full chat</a> and its <a href="../data/328-opus-dred-coded-and-real-time-systems.txt#" target='_blank' rel='noopener noreferrer'>transcription</a></li>
 <p></p>
 Then, the chat is updated again about how providing a statistically granted hard real-time system starting from tuning a soft real-time system but fast-to-respond. Which is after all the ONLY way humans can achieve a real-world hard real-time system. Including a marketing strategy and a business model embedded into the development method of delivering the product from R&D to sales. Because a well-designed product sells by itself. 
 <p></p>
