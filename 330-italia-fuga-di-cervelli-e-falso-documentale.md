@@ -5,7 +5,7 @@
 
 ## Italia: fuga di cervelli e falso documentale
 
-- **1st draf**, articolo scritto a partire da alcuni post pubblicati su LinkedIn nei giorni precedenti.
+- **2nd draf**, articolo scritto a partire da alcuni post pubblicati su LinkedIn nei giorni precedenti.
    - [post #4](https://www.linkedin.com/posts/robertofoglietta_produciamo-troppi-laureati-oppure-cosa-activity-7346744357888188416-Pm_K) (2025-07-04) - [post #3](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7346256090105270275-w-Pj) (2025-07-03) - [post #2](https://www.linkedin.com/posts/robertofoglietta_2-luglio-2025-seimila-componenti-difettosi-activity-7346147415990665217-wlk4) (2025-07-03) - [post #1](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7345379742054764547-PqXj) (2025-07-01)
 
 ---
@@ -36,7 +36,7 @@ Coloro che NON sanno fare, al più possono vendere quindi servizi invece di indu
 
 ### Approfondimento con Gemini
 
-In questa [conversazione](https://lnkd.in/dR6GBqXs) o la sua [trascrizione](not-yet.txt#?target=_blank).
+In questa [conversazione](https://lnkd.in/dR6GBqXs) o la sua [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-laureati.txt#?target=_blank).
 
 +
 
@@ -115,7 +115,7 @@ Leonardo S.p.A. effettua controlli di qualità sui componenti ricevuti, ma il 
 
 - Scoperta tardiva del problema. Il difetto, consistente nell'uso di titanio puro anziché della lega adeguata, venne identificato solo tra fine 2020 e inizio 2021 dopo segnalazioni di Boeing e approfondimenti interni. Questo ha fatto emergere la debolezza dei controlli originali.
 
-Fonte delle informazioni: [lnkd.in/dfCEdz8U](https://lnkd.in/dfCEdz8U) e i primi due prompt riguardano il meme "Fuckaldo" su Generali.
+Fonte delle informazioni: [ChatGPT](https://chatgpt.com/share/686520a5-ad80-8012-a2f7-c7b3b520df7f) e realtiva [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-fuckaldo.txt#?target=_blank) nella quale i primi due prompt riguardano il meme "Fuckaldo" su Generali.
 
 +
 
@@ -155,9 +155,11 @@ Perché alla fine della giornata, cari signori, la realtà è che un informatico
 
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
 +++++
+- [I sette livelli del biscottificio](205-i-sette-livelli-del-biscottificio.md#?target=_blank) &nbsp; (2019-01-29)
++++++
 - [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
 
-+
++++++
 
 ## Share alike
 
