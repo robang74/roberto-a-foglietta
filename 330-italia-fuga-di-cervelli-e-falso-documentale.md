@@ -38,7 +38,7 @@ Coloro che NON sanno fare, al più possono vendere quindi servizi invece di indu
 
 ### Approfondimento con Gemini
 
-In questa [conversazione](https://lnkd.in/dR6GBqXs) o la sua [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-laureati.txt#?target=_blank).
+In questa [conversazione](https://g.co/gemini/share/7d4bba6a97ac) o la sua [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-laureati.txt#?target=_blank).
 
 +
 
@@ -86,12 +86,12 @@ Il controllo dei costi è sulla carta, il controllo della qualità del servizio 
 
 Un altro caso iconico è Boeing, Leonardo e le due aziende fornitrici di Brindisi.
 
----
+----
 
 ### Il caso Leonardo per i Boeing 787 e 477
 
 [!INFO]
-2 luglio 2025 - Seimila componenti difettosi usati su 477 aerei Boeing 787: a processo due aziende di Brindisi e sette imputati saranno processati per aver fornito componenti difettosi per 477 Boeing 787. Le accuse: frode, attentato alla sicurezza e inquinamento. Tra le parti civili, Leonardo e Boeing. Processo al via nel 2026. -- lnkd.in/dk-WtGz6
+2 luglio 2025 - Seimila componenti difettosi usati su 477 aerei Boeing 787: a processo due aziende di Brindisi e sette imputati saranno processati per aver fornito componenti difettosi per 477 Boeing 787. Le accuse: frode, attentato alla sicurezza e inquinamento. Tra le parti civili, Leonardo e Boeing. Processo al via nel 2026. -- [Fanpage italia](https://www.fanpage.it/attualita/seimila-componenti-difettosi-usati-su-477-aerei-boeing-787-a-processo-due-aziende-di-brindisi/)
 [/INFO]
 
 Una domanda sorge spontanea: chi doveva fare il quality check della componentistica in ingresso e/o al montaggio?
@@ -173,7 +173,7 @@ In effetti, il concetto "too big to fail" che non ha salvato la banca d'investim
 
 - [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-04-17)
 +++++
-- [Mr. Spock about financial capitalism](308-mr-spock-about-finantial-capitalism.mdd#?target=_blank) &nbsp; (2025-05-01)
+- [Mr. Spock about financial capitalism](308-mr-spock-about-finantial-capitalism.md#?target=_blank) &nbsp; (2025-05-01)
 +++++
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
 +++++
