@@ -61,7 +61,7 @@ Ma se vogliamo essere onesti ed equilibrati nel ponderare questo rischio, occorr
 
 Quindi il problema esisteva ben prima dell'avvento dell'intelligenza artificiale che, anzi, potrebbe mitigare il fenomeno pregresso cercando di indirizzare le persone a rivolgersi ai medici professionisti per quanto quello della sanità sia un "mercato sputtanato" in termini di reputazione.
 
-Inutile dire che la [gestione della pandemia](file:///home/roberto/robang74/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) del Covid-19 ha profondamente e largamente minato la fiducia della gente, non solo riguardo alla medicina ma, anche delle istituzioni e delle forze dell'ordine che hanno sostenuto o addirittura obbligato le persone a seguire le direttive dall'alto.
+Inutile dire che la [gestione della pandemia](https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html) del Covid-19 ha profondamente e largamente minato la fiducia della gente, non solo riguardo alla medicina ma, anche delle istituzioni e delle forze dell'ordine che hanno sostenuto o addirittura obbligato le persone a seguire le direttive dall'alto.
 
 In questo panorama, già molto compromesso, sarebbe alquanto ipocrita pensare che l'intelligenza artificiale possa, nel complesso di tutti i casi, fare peggio di quanto abbiamo fatto noi umani. Se non altro perché al netto di pregiudizi indotti, le AI non hanno un movente per danneggiare gli altri.
 
