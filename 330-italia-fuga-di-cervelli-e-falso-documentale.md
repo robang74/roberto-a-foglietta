@@ -8,6 +8,8 @@
 - **1st edition**, articolo scritto a partire da alcuni post pubblicati su LinkedIn nei giorni precedenti.
    - [post #4](https://www.linkedin.com/posts/robertofoglietta_produciamo-troppi-laureati-oppure-cosa-activity-7346744357888188416-Pm_K) (2025-07-04) - [post #3](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7346256090105270275-w-Pj) (2025-07-03) - [post #2](https://www.linkedin.com/posts/robertofoglietta_2-luglio-2025-seimila-componenti-difettosi-activity-7346147415990665217-wlk4) (2025-07-03) - [post #1](https://www.linkedin.com/posts/robertofoglietta_segni-che-arrivano-dallalto-del-cielo-activity-7345379742054764547-PqXj) (2025-07-01)
 
+- **2nd edition**, aggiunge la [conclusione](#conclusione) che va a proiettare il ragionamento sviluppato su scala sistemica.
+
 ---
 
 ### Tasso di educazione in Italia
@@ -56,7 +58,7 @@ D'altra parte quando il management ha **zero** cognizioni tecniche la loro perce
 
 In sintesi, la radice del problema è la stessa, le manifestazioni del problema invece prevedono molte diramazioni e varietà rendendo apparentemente difficile riconoscere l'origine del problema anche perché essendo un problema sistemico è un banale "così fan tutti". La banalità del Male, appunto.
 
----
+----
 
 ### La gestione del rischio al collasso sistemico
 
@@ -149,11 +151,33 @@ Perché alla fine della giornata, cari signori, la realtà è che un informatico
 
 +
 
+## Conclusione
+
+> La procura che indaga per "crollo colposo", quindi il titolo resta penalizzato (+0.03%, nella seduta del 2 luglio 2025).
+
+L'indagine è irrilevante, gli investitori di Generali è risaputo essere dei keepers: alcuni addirittura lo sono da tre generazioni. A questo tipo di investitori che siano azionari o obbligazionari, interessano i dividendi più che il valore del titolo che qualora incassato genererebbe un plus-valore tassabile mentre come asset, specialmente in un paniere, il profilo di tassazione è assai più "debatable" in termini fiscali.
+
+Cosa che generalmente porta gli investitori di lunga data a usare quegli asset come garanzia per eventuali finanziamenti piuttosto che cederli. Ecco quindi dove il concetto di responsabilità incalcolabili entra in gioco: se per qualche ragione, gli avvocati che oggi per legge sono gli unici che possono incassare una polizza per i clienti, e che magari sono anche investitori Generali, però non lo comunicano ai beneficiari ai quali fanno credere che penda una procedura di accertamento lunga, tediosa e magari anche dispendiosa, la questione diventa patologica e sistemica.
+
+Mentre questo esempio può apparire come un'eccezione all'interno di un sistema sano, all'interno di un sistema in cui la coerenza documentale è tutto ma astratta dalla realtà è ragionevole pensare che possano esserci tante diverse eccezioni, che quindi smettono di essere tali, e diventano molti modi di relazionarsi rispetto ad una situazione come quella descritta in questo articolo.
+
+Se poi includiamo in questo scenario anche la domiciliazione, la consegna della posta che oggi viene effettuata mediante personale sottopagato e precario, spesso soggetto ad alta turnazione, ad una condizione di incertezza sociale in cui molti sono ridotti alla sopravvivenza perché in condizioni di povertà relativa o assoluta, del calo demografico per il quale sempre meno persone guardano al futuro in una prospettiva di lungo termine, che anche le attività imprenditoriali e consulenziali sono costrette a costanti cambiamenti incluso un alto turnover di chiusure-ristrutturazioni-riaperture anche in funzione di normative che stravolgono ogni continuità e capitano senza un piano d'intenti razionale e strutturato, infine aggiungiamo che la digitalizzazione amplifica tutte queste problematiche e i rischi ad essi connessi, appare naturale che il sistema sia destinato al collasso.
+
+Perché un sistema progressivamente avulso dalla realtà diventa autoreferenziale in modo patologico, quindi crea bolle finanziarie e mediatiche, che diventano sempre più frequenti e sempre più grandi. Come quando la temperatura dell'acqua sale e comincia a bollire fino poi ad arrivare al punto di evaporazione.
+
+In effetti, il concetto "too big to fail" che non ha salvato la banca d'investimento Leman Brother è anche il motivo per il quale si ignora il pericolo sistemico e nell'ignorarlo si evita di mitigare il rischio che un cigno nero (collasso sistemico) possa presentarsi, quindi diventa possibile e poi inevitabile.
+
++
+
 ## Related articles
 
+- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-04-17)
++++++
+- [Mr. Spock about financial capitalism](308-mr-spock-about-finantial-capitalism.mdd#?target=_blank) &nbsp; (2025-05-01)
++++++
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
 +++++
-- [Primo maggio, festa dei lavoratori](311-primo-maggio-festa-dei-lavoratori.md#?target=_blank) &nbsp; (2025-05-01)
+- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
 +++++
 - [I sette livelli del biscottificio](205-i-sette-livelli-del-biscottificio.md#?target=_blank) &nbsp; (2019-01-29)
 +++++
