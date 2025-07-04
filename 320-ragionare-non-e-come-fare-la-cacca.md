@@ -37,7 +37,7 @@ Sotto questo punto di vista ho chiesto l'opinione di tre dei più noti e usati c
 
 Quindi ho raccolto le risposte in un [documento](data/320-ragionare-non-e-come-fare-la-cacca-3chatbots.txt#?target=_blank), dando ad esso un minimo di struttura in maniera che un quarto chatbot potesse correttamente accedere alle varie informazioni senza fare confusione.
 
-- [Claude che riassume](https://claude.ai/share/41bc8999-7e72-49e4-9464-a7e7f5c6942c) ed integra le risposte date da Gemini, Grok e ChatGPT.
+- Claude [riassume ed integra](https://claude.ai/share/41bc8999-7e72-49e4-9464-a7e7f5c6942c) le risposte date da Gemini, Grok e ChatGPT. Riportate [qui](#claude-4-riassunto-e-integrazione).
 
 Al quarto chatbot ho fornito un prompt più strutturato che andava spiegare la natura del documento, come avrebbe dovuto trattare i vari contributi e poi rispondere alla domanda originale.
 
@@ -158,7 +158,7 @@ Oltre al fatto che l'etica umana risulta essere vaga e per certi versi incompren
 
 - Una risata li seppellirà, invece sarà un fragoroso rutto!
 
-Gli allarmisti temevano che l'evoluzione dell'AI sarebbe improvvisamente diventata una singolarità, invece abbiamo [scoperto](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che siamo ancora molto lontani anche dall'AGI. Mentre, sostanzialmente, stiamo dialogando con una versione artificiale del nostro intestino ma molto più istruito, educato e razionale di molti umani quindi capace di fare diversi mestieri oggi [mediocremente](il-problema-sei-tu-non-l-AI.md#?target=_blank) svolti dagli umani.
+Gli allarmisti temevano che l'evoluzione dell'AI sarebbe improvvisamente diventata una singolarità, invece abbiamo [scoperto](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che siamo ancora molto lontani anche dall'AGI. Mentre, sostanzialmente, stiamo dialogando con una versione artificiale del nostro intestino ma molto più istruito, educato e razionale di molti umani quindi capace di fare diversi mestieri oggi [mediocremente](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) svolti dagli umani.
 
 - L'opinione di Gemini sull'intelligenza intestinale artificiale, [dialogo](https://g.co/gemini/share/8174298b52cd) e [trascrizione](data/320-ragionare-non-e-come-fare-la-cacca-risata.txt#?target=_blank).
 
@@ -188,7 +188,7 @@ In ogni caso, quanto spiegato sopra (e nei link) dovrebbe essere considerato il 
 
 - [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
 
-- [Il problema sei tu non l'AI](il-problema-sei-tu-non-l-AI.md#?target=_blank) &nbsp; (2024-12-13)
+- [Il problema sei tu non l'AI](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) &nbsp; (2024-12-13)
 
 +
 

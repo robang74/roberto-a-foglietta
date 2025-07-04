@@ -1,6 +1,6 @@
 Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-********* Gemini/SoNia: ragionare non è come fare la cacca (articolo) **********
+******* Gemini/SoNia:data/320-ragionare-non-e-come-fare-la-cacca-42.txt ********
 
 Created: 8h June 2025
 Published 9th June 2025
