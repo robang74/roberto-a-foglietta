@@ -4,9 +4,9 @@
 
 ## Plastica vegetale: scarti vs canapa
 
-- Published Jul 31, 2024 - origin [Linkedin](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf)
+- Published Jul 31, 2024 - origin [Linkedin](https://www.linkedin.com/pulse/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf) copia in [html](https://robang74.github.io/roberto-a-foglietta/html/linkedin/plastica-vegetale-scarti-vs-canapa-roberto-a-foglietta-lbdxf.html)
 
-- **2nd edition**, include l'[aggiornamento](aggiornamento-2025-04-04) riguardo alla lungimirante legislazione svizzera.
+- **2nd edition**, include l'[aggiornamento](#aggiornamento-2025-04-04) riguardo alla lungimirante legislazione svizzera.
 
 Un articolo incentrato sull'importanza della coltivazione della canapa per avviare il mercato dei prodotti ecologici, per davvero, non greenwashing.
 
