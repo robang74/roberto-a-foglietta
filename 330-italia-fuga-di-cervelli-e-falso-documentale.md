@@ -18,7 +18,7 @@ In Italia i laureati STEM mancano e quindi questo non è vero. Invece è vero ch
 
 Il problema invece è che il sistema universitario ha prodotto TROPPI laureati in alcune materie che non hanno uno sbocco professionale e questo è chiaramente un limite: ci sono più avvocati a Roma che in tutta la Francia nonostante la Francia conti 80 milioni di abitanti. Un esempio classico fra tutti.
 
-Comunque ho qualche dubbio sulla presentazione di questi numeri e la ragione è abbastanza semplice: fino al 1980, al più il 12% della popolazione è laureata mentre attualmente la media è di circa il 20% che comunque è la metà di quella europea (41%). Significa che fra il 1980 e il 2000 abbiamo prodotto tanti laureati da portare il 12% nella popolazione al 20%. Ma il numero di nascite è in progressiva diminuzione, rispetto al 1960. Ciò porterebbe a pensare che oggi il 40% degli 2000-2005 avrà una laurea.
+Comunque ho qualche dubbio sulla presentazione di questi numeri e la ragione è abbastanza semplice: fino al 1980, al più il 12% della popolazione è laureata mentre attualmente la media è di circa il 20% che comunque è la metà di quella europea (41%). Significa che fra il 1980 e il 2000 abbiamo prodotto tanti laureati da portare il 12% della popolazione al 20%. Ma il numero di nascite è in progressiva diminuzione, rispetto al 1960. Ciò porterebbe a pensare che oggi il 40% degli 2000-2005 avrà una laurea.
 
 ---
 
@@ -28,7 +28,7 @@ Ritornando alla questione di cui sopra, il problema non è che il sistema non ri
 
 Da qui la fuga di cervelli. Ma se la Germania che ha il 32% di laureati quindi meno della media -- anche perché che il tasso più alto di laureati si trova nei paesi ex-comunisti dell'est Europa -- attira i cervelli, allora sicuramente non è una questione che l'Italia produca "troppi" laureati. Si potrebbe dire che l'Italia produca "relativamente troppi laureati" rispetto a quelli che riesce ad impiegare (tesi sopra esposta) ma anche questo è sbagliato, perché gli STEM mancano. Quindi ne produce troppi del tipo sbagliato.
 
-Se ne produce e ne ha prodotto troppi del tipo sbagliato questo sarà vero anche per i diplomati e nel complesso, laureati e diplomati del tipo sbagliato hanno portato il sistema Italia ad essere "sbagliato" rispetto al trend Europeo e globale ovvero poco competitivo. É anche così che siamo passati da essere 4° potenza industriale a terzo mondo (solo servizi) perché con l'automazione delle industrie, non sono i laureati che devono fare gli operai ma sono i laureati che devono fare gli automatismi.
+Se ne produce e ne ha prodotti troppi del tipo sbagliato questo sarà vero anche per i diplomati e nel complesso, laureati e diplomati del tipo sbagliato hanno portato il sistema Italia ad essere "sbagliato" rispetto al trend Europeo e globale ovvero poco competitivo. É anche così che siamo passati da essere 4° potenza industriale a terzo mondo (solo servizi) perché con l'automazione delle industrie, non sono i laureati che devono fare gli operai ma sono i laureati che devono fare gli automatismi.
 
 Coloro che NON sanno fare, al più possono vendere quindi servizi invece di industria, il paese non ha nucleare quindi importa energia, non produce quindi non esporta prodotti ma non esporta nemmeno tecnologia. Amen.
 
@@ -52,7 +52,7 @@ La migliore assicurazione è la scelta di un servizio di manutenzione eccellente
 
 Quando il management ha **zero** cognizioni tecniche diventa anche l'unica opzione e quando c'è un'unica opzione su molti, troppi, tavoli è ovvio che il premio cresce così come la competizione sui costi fino al punto in cui i sinistri diventano la norma e non più l'eccezione.
 
-D'altra parte quando il management ha **zero** cognizioni tecniche la loro percezione si limita alla superficie, quindi il controllo qualità si fa sui documenti, e quando questo diventa la via maestra dove persino i controlli a compione sono un'eccezione, è chiaro che il falso documentale diventa il modus operandi come destinazione finale di una deriva patologica.
+D'altra parte quando il management ha **zero** cognizioni tecniche la loro percezione si limita alla superficie, quindi il controllo qualità si fa sui documenti, e quando questo diventa la via maestra dove persino i controlli a campione sono un'eccezione, è chiaro che il falso documentale diventa il modus operandi come destinazione finale di una deriva patologica.
 
 In sintesi, la radice del problema è la stessa, le manifestazioni del problema invece prevedono molte diramazioni e varietà rendendo apparentemente difficile riconoscere l'origine del problema anche perché essendo un problema sistemico è un banale "così fan tutti". La banalità del Male, appunto.
 
@@ -80,7 +80,7 @@ Si noti che in quei mercati dove i contratti sono tipizzati come nel settore RC 
 
 Ci sarebbe molto da dire a riguardo ma torniamo al concetto di collasso sistemico della gestione del rischio. L'amministrazione della torre cerca, come ogni gestione amministrativa, di ridurre i costi che alla fine si traducono in una più carente manutenzione o di un'eccessiva diluizione della sostituzione della struttura. 
 
-Il controllo dei costi è sulla carta, il controllo della qualità del servizio è sulla carta e quindi il controllo del rischio è sulla carta. Perché l'azienda di manutenzione che fa meno a meno prende il contratto fintanto che il meno è anche meno di abbastanza, poi interviene l'assicurazione. Quindi è un circolo vizioso che in questo caso dove assicurazione, torre e amministrazione fanno riferimento ad un unica proprietà si manifesta nella sua massima espressione emblematica.
+Il controllo dei costi è sulla carta, il controllo della qualità del servizio è sulla carta e quindi il controllo del rischio è sulla carta. Perché l'azienda di manutenzione che fa meno a meno prende il contratto fintanto che il meno è anche meno di abbastanza, poi interviene l'assicurazione. Quindi è un circolo vizioso che in questo caso dove assicurazione, torre e amministrazione fanno riferimento ad un'unica proprietà si manifesta nella sua massima espressione emblematica.
 
 Un altro caso iconico è Boeing, Leonardo e le due aziende fornitrici di Brindisi.
 
@@ -129,9 +129,9 @@ Le dichiarazioni che riportano "cambiamento climatico" o "clima torrido" non si 
 
 Perché è importante aver dato una lettura profondamente alternativa, quasi sarcastica riguardo al treno di articoli su varie testate giornalistiche che sostenevano essere il cambiamento climatico la causa del collasso dell'insegna di Generali?
 
-Perché, tanto è più corretta l'analisi di un collasso sistemico dovuto ad un handicap del management italiano che negli ultimi 40 anni ha causato una deriva patologica che come esito ultimo ha il falso documentale come modus operandi standard (ovvero assenza di controlli reali, ma solo documentali: *così fan tutti*) e l'assicurazione come jolly per lo scaricabarile delle responsabiltià (assicurazione must-have is the new negazione dell'handicap manageriale: *tanto siamo assicurati*).
+Perché, tanto è più corretta l'analisi di un collasso sistemico dovuto ad un handicap del management italiano che negli ultimi 40 anni ha causato una deriva patologica che come esito ultimo ha il falso documentale come modus operandi standard (ovvero assenza di controlli reali, ma solo documentali: *così fan tutti*) e l'assicurazione come jolly per lo scaricabarile delle responsabilità (assicurazione must-have is the new negazione dell'handicap manageriale: *tanto siamo assicurati*).
 
-Curioso che alcuni su LinkedIn abbiano portato come temine di paragone il caso della Costa Concordia, che però c'entra come i cavoli a merenda, però in qualche misura è affascinante (#1) per non usare termini dispregiativi sebbene più consoni, abbinare una tragedia con morti all'idea che se Costa Crociere è sopravissuta a quel disastro allora non è un problema nemmeno per Generali.
+Curioso che alcuni su LinkedIn abbiano portato come termine di paragone il caso della Costa Concordia, che però c'entra come i cavoli a merenda, però in qualche misura è affascinante (#1) per non usare termini dispregiativi sebbene più consoni, abbinare una tragedia con morti all'idea che se Costa Crociere è sopravvissuta a quel disastro allora non è un problema nemmeno per Generali.
 
 Deve piovere un meteorite dal cielo? Deve cadere la Luna? Deve esplodere un super-vulcano? Deus-vult quindi nemmeno tutto ciò basterebbe. Stupidity kills.
 
@@ -147,7 +147,7 @@ Però non è andata così, non solo perché i Cinesi sono diventati 1.3 miliardi
 
 Uno scenario del tutto ovvio a posteriori ma in realtà era ovvio anche a priori -- come in effetti la Germania sapeva e coerentemente si comportava già all'epoca dello SME cosa che noi gli rinfacciamo come vantaggio d'ingresso nell'Euro, loro 1:1 marco:euro e noi 2K:1 lira:euro, però eravamo anche quelli che si credevano furbi a svalutare la lira per agevolare l'esportazione della produzione industriale nazionale -- o lo sarebbe stato ovvio a priori agli occhi di una classe dirigente con un'estrazione STEM piuttosto che **solo** umanistica.
 
-Perché alla fine della giornata, cari signori, la realtà è che un informatico può leggere e capire Omero ma un filoso non sa scrivere e debuggare codice. Oplà, il disastro è tutto qua!
+Perché alla fine della giornata, cari signori, la realtà è che un informatico può leggere e capire Omero ma un filosofo non sa scrivere e debuggare codice. Oplà, il disastro è tutto qua!
 
 +
 
