@@ -115,7 +115,7 @@ Leonardo S.p.A. effettua controlli di qualità sui componenti ricevuti, ma il 
 
 - Scoperta tardiva del problema. Il difetto, consistente nell'uso di titanio puro anziché della lega adeguata, venne identificato solo tra fine 2020 e inizio 2021 dopo segnalazioni di Boeing e approfondimenti interni. Questo ha fatto emergere la debolezza dei controlli originali.
 
-Fonte delle informazioni: [ChatGPT](https://chatgpt.com/share/686520a5-ad80-8012-a2f7-c7b3b520df7f) e realtiva [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-fuckaldo.txt#?target=_blank) nella quale i primi due prompt riguardano il meme "Fuckaldo" su Generali.
+Fonte delle informazioni: [ChatGPT](https://chatgpt.com/share/686520a5-ad80-8012-a2f7-c7b3b520df7f) e realtiva [trascrizione](data/330-italia-fuga-di-cervelli-e-falso-documentale-fuckaldo.txt#?target=_blank) nella quale i primi due prompt riguardano il meme "Fuckaldo" sul collasso dell'insegna delle Generali alle 6.45 circa del 30 giugno 2025, [notizia](https://www.milanotoday.it/cronaca/crollo-generali-chiusa-piazza-metro-centro-commerciale.html).
 
 +
 
@@ -124,8 +124,6 @@ Fonte delle informazioni: [ChatGPT](https://chatgpt.com/share/686520a5-ad80-8012
 Se le strutture d'acciaio collassero sopra i 40°C allora a Dubai dovrebbero ancora vivere nelle tende, e non mi pare che sia così. Che poi il cambiamento climatico, per la parte imputabile al c.d. antropocene possa seppur marginale, possa generare un grande cambiamento a livello globale, è realistico ma, purtroppo, difficile da prevedere con accuratezza. Certamente non fa crollare le impalcature che pure sono tirate su da gente che non sono certo ingegneri.
 
 Le dichiarazioni che riportano "cambiamento climatico" o "clima torrido" non si riferiscono a quel fenomeno in senso letterale, ma al cambio di potere che sta generando un clima di alta tensione. Capisco che sia una lettura molto alla Men in Black, ma d'altronde credere che una struttura d'acciaio collassi per il caldo quando ciò non avviene nemmeno nei ponteggi che sono tirati insieme da gente che la laurea in ingegneria non l'ha mai vista, fa ridere ancora di più.
-
-=-> lnkd.in/dF7pv-Nv
 
 Perché è importante aver dato una lettura profondamente alternativa, quasi sarcastica riguardo al treno di articoli su varie testate giornalistiche che sostenevano essere il cambiamento climatico la causa del collasso dell'insegna di Generali?
 
@@ -161,7 +159,7 @@ Perché alla fine della giornata, cari signori, la realtà è che un informatico
 +++++
 - [La cartolarizzazione del lavoratore](https://robang74.github.io/roberto-a-foglietta/html/linkedin/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/la-cartolarizzazione-del-lavoratore-roberto-a-foglietta) &nbsp; (2017-10-27)
 
-+++++
++
 
 ## Share alike
 
