@@ -27,8 +27,6 @@ In this post are cited two topics. The sugar promotion into the food industry
 and the AI adoption hype. Let me propose you two articles of mine about, in the
 next comment (here below, due to # of chars limitation)
 
-***
-
 ABOUT SUGAR AND AI HYPE TOPICS
 
 In this post are cited two topics. The sugar promotion into the food industry
@@ -53,7 +51,7 @@ cycle. Which directly refers by analogy to the fix & progress cycle and it
 raises a question: we know how to do right when dealing with stuff (data
 management) but we fail when dealing with systems (science & university).
 
----
+--AI--
 
 This is a thought-provoking post that brings up a really important point about
 transparency in scientific research.
@@ -93,7 +91,7 @@ funding. It highlights how such disclosure isn't just about accountability, but
 also about strengthening the reliability and integrity of the scientific
 process itself.
 
----
+--HO--
 
 What do you think about this proposal emerged by the following comments
 exchange?
@@ -117,7 +115,7 @@ study behind the paper received a tiny financial support but the university
 which provides a stable position to the author of the paper might be involved
 in a way deeper.
 
----
+--AI--
 
 This comment exchange brings up a critical nuance to the original proposal
 about disclosing funding sources: the idea of a "chain of funding" and the
