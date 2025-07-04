@@ -410,7 +410,7 @@ Ci sono due motivi per cui questo accade:
 
 - a Trump hanno fatto un attentato durante un comizio che non è stato dissimile da quello con ben altro esito contro JFK quindi, Trump contro il deep-state americano ha il dente avvelenato. Perché nessun maschio etero, lascia correre rispetto ad un attacco fisico.
 
-Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascrittao](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
+Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascritta](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
 ...
 
@@ -652,10 +652,10 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 
 ## Related articles
 
-- [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md?target=_blank) &nbsp; (2025-06-30)
-
+- [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
++++++
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
-
++++++
 - [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
 
 +
