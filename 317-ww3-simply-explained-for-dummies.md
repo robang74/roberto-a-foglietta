@@ -534,7 +534,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 It is always embarrassing when we need to remind a lawyer of the difference between law and justice. Especially because they are keen to interpret it as a procedural difference between legislation and its application.
 
-<div align="center"><img class="bwsketch paleinv" src="data/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch paleinv" src="img/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
 
 Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference, and let me briefly summarise a faw relevant aspects:
 
@@ -556,7 +556,7 @@ In this case, the best is to remind them that life-sentenced criminals exiled in
 
 Looking at this image, it is clear that even those who are not experts of military avionics can detect unrealistic details. It is silly to believe that Iran is trying to confuse Israel and Mossad with these images, doesn't it? Can pro-Iran or pro-Israel cheering people on social-media make any difference in a real world war? Why do those who spread these AI-generated images don't care that their images cannot last against a proper evaluation?
 
-<div align="center"><img class="bwsketch" src="data/317-ai-generated-images-as-a-misinformation-to-obey.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/317-ai-generated-images-as-a-misinformation-to-obey.jpg" width="800"><br></div>
 
 Because the main goal is **not** convincing the enemy and not even the common people that something happened. They do this -- and there is a good chance that WE as NATO do this, as explained [before](#people-minds-is-the-ultimate-battlefield) in this article -- to confuse people's minds. It does not matter if this misinformation goes with or against NATO's narrative, the ultimate aim is to let the people surrender to the idea that they **cannot** know the truth, they should not ask for it but obey, only.
 
@@ -569,7 +569,7 @@ In times of war, information is precious but also at risk of being manufactured.
 
 For example, in the case of the Fordow bombing, the absence of radioactivity leak and more than 3 meters of terrain depression on a large area it into a null-hypothesis: no damage. A delusional conclusion, despite the bombs doing their work perfectly and the hits were precise as they should have been.
 
-<div align="center"><img class="bwsketch" src="data/317-fordow-photos-before-after-bombing.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/317-fordow-photos-before-after-bombing.jpg" width="800"><br></div>
 
 Reasonably, even a nuclear detonation over the Fordow site might not manage to seriously damage its underground structure. Not even if a tactical nuclear explosion delivers the most of its shockwave to the surface. While including a nuclear warhead into a GBU-57 is not an easy task to achieve.
 
