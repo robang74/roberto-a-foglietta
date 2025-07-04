@@ -109,15 +109,17 @@ Quindi l'idea di togliere gli zuccheri raffinati potrebbe essere un salvagente i
 Il proibizionismo della cannabis contribuisce fortemente alla depressione dell'industria della canapa che invece, specialmente in Italia, avrebbe ottime prospettive di crescita. 
 
 Infatti, la canapa, anche quella che non contiene THC, tende in modo naturale a ibridarsi con le varianti con THC perché tale molecola funziona come anti-parassitario. Quindi la canapa che produce un po' di THC ha un vantaggio pratico rispetto a quella che non ne ha proprio niente.
-
-In questo contesto converrebbe adottare una legislazione come quella svizzera e nel nostro caso, Italia, estenderla in maniera da garantire per almeno 10-30 anni l'industria della canapa. Perché senza garanzie di legge, il rischio degli investimenti sarebbe troppo elevato per generare un'economia industriale di scala, l'unica che può davvero portare ad un mercato del lavoro floridi e ROI interessanti.
+++++++
 <span id="nota-1"></span>
-
 [!INFO]
 Le parole "canapa" e "cannabis" sono spesso usate in modo intercambiabile, ma in realtà si riferiscono alla **stessa** pianta, la [Cannabis Sativa L.](https://it.wikipedia.org/wiki/Cannabis_sativa) (canapa utile). La differenza principale tra le due sta nella loro composizione chimica, in particolare nel contenuto di [tetraidrocannabinolo](https://it.wikipedia.org/wiki/Delta-9-tetraidrocannabinolo) (THC), il composto psicoattivo responsabile degli effetti "sballanti". 
 
 La legislazione svizzera, che ammette un limite legale di THC dell'1%, è considerata un ottimo equilibrio per favorire l'agricoltura e l'industria della canapa, pur mantenendo un controllo ragionevole per evitare gli abusi legati al consumo ricreativo di varietà ad alto THC.
+[/INFO]
 
+In questo contesto converrebbe adottare una legislazione come quella svizzera e nel nostro caso, Italia, estenderla in maniera da garantire per almeno 10-30 anni l'industria della canapa. Perché senza garanzie di legge, il rischio degli investimenti sarebbe troppo elevato per generare un'economia industriale di scala, l'unica che può davvero portare ad un mercato del lavoro floridi e ROI interessanti.
+
+[!INFO]
 Un limite dell'1% di THC è significativo. Anche se superiore allo 0.2-0.3% di molti altri paesi, non è sufficiente a produrre un effetto psicoattivo significativo per la maggior parte delle persone. Varietà di cannabis destinate all'uso ricreativo contengono tipicamente tra il 10% e il 30% o più di THC.
 
 Un contenuto di THC dello 0,5% (che rientra ampiamente nel limite svizzero dell'1%) combinato con altri cannabinoidi (come il CBD, che è abbondante in queste varietà) e un buon profilo terpenico, è generalmente sufficiente per conferire alla pianta un'ottima resistenza naturale contro molti parassiti e patogeni.
@@ -125,9 +127,15 @@ Un contenuto di THC dello 0,5% (che rientra ampiamente nel limite svizzero dell'
 
 Il proibizionismo ideologico è una zappa sui piedi come per altro tutte le politiche basate su una qualche ideologia piuttosto che su una valutazione razionale ed oggettiva della questione che ambiscono a normare.
 
+[!INFO]
+Un approccio OGM alla canapa con l'eliminazione dei suoi meccanismi di difesa naturali (e.g. solo maschi sterili) si scontrerebbe con i principi di sostenibilità e autonomia che spesso sono associati alla canapa stessa, favorendo un modello agricolo più industrializzato e dipendente da prodotti chimici, con le conseguenti problematiche ambientali ed economiche.
+
+Inoltre, se la maggior parte degli agricoltori si affidasse a tali varietà OGM, le multinazionali che detengono i brevetti acquisirebbero un monopolio quasi totale sulla produzione agricola di quella specifica coltura, dettando prezzi e condizioni.
+[/INFO]
+
 Continua approfondendo l'argomento in questa [conversazione](https://g.co/gemini/share/33f7768a9275) con Gemini o la sua [trascrizione](data/279-plastica-vegetale-scarti-vs-canapa-gemini.txt#?target=_blank) che nei suoi due aggiornamenti include anche la questione maschi-femmine nella coltivazione industriale, le peculiarità delle coltivazioni OGM in campi aperti e la specializzazione delle coltivazioni in serra a produzione ridotta ma ad alto valore aggiunto (farmaceutica).
 
-+
++++++
 
 ## Share alike
 
