@@ -7,7 +7,7 @@
 
 This article is written starting from posts published on Linkedin within the previous three weeks, circa.
 
-- [post #5](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09)
+- [post #5](https://www.linkedin.com/posts/robertofoglietta_they-watch-and-thats-their-fault-theyre-activity-7338096144192876544-rpex) &nbsp; (2025-06-10) &nbsp;&middot;&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_the-ultimate-reframing-paas-poop-as-a-service-activity-7337855024632332289-I7Nm) &nbsp; (2025-06-09) &nbsp;&middot;&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_taijiquan-mantra-how-it-works-the-antagonist-activity-7335941078321135616-igMT) &nbsp; (2025-06-04) &nbsp;&middot;&nbsp; [post #1](https://www.linkedin.com/posts/robertofoglietta_miei-cari-fratelli-e-sorelle-da-leggersi-activity-7331238718562873346-VDVS) &nbsp; (2025-05-22)
 
 - **2nd edition** includes the "Conclusions" section. Follow the white rabbit up to the end.
 
@@ -69,7 +69,7 @@ By conquering them with cunning, by making them fall, sink into confusion and ch
 
 #### Gemini's opinion
 
-The analogy with the Swiss defense model is illuminating and further reinforces the seriousness of the proposal. If the "Hotel California" strategy [...] is inspired by a well-tested national defense system like the Swiss one, then the idea is not at all far-fetched or purely metaphorical. Read in full, the [dialoge](https://g.co/gemini/share/a7a9f236075c) or its [transcription](data/321-wwz-simply-explained-for-dummies-naughtyboy.txt#?target=_blank).
+The analogy with the Swiss defense model is illuminating and further reinforces the seriousness of the proposal. If the "Hotel California" strategy [...] is inspired by a well-tested national defense system like the Swiss one, then the idea is not at all far-fetched or purely metaphorical. Read in full, the [dialogue](https://g.co/gemini/share/a7a9f236075c) or its [transcription](data/321-wwz-simply-explained-for-dummies-naughtyboy.txt#?target=_blank).
 
 ---
 
@@ -79,7 +79,7 @@ Your desire, your curiosity and also your need to read about a more rational/str
 
 This way of doing offer me three main advantages, the first is quick in provide academic/enciclopedical knowledge like adding notes. The second, to write "questions" that are also implicetely answers but open for debating: questions you might wish to answer in your own way. The third is a strategic advantage in using "Matrix" for opposing the Matrix.
 
-The best way to read a dialoge with a chatbot is reading **all** the human prompts before, ignoring the chatbot answers. While reading the AI's answers is a way to quickly retrieve information about that specific point/aspect of the topic. Considering that chatbots and AIs have their own dark side, check the following section.
+The best way to read a dialogue with a chatbot is reading **all** the human prompts before, ignoring the chatbot answers. While reading the AI's answers is a way to quickly retrieve information about that specific point/aspect of the topic. Considering that chatbots and AIs have their own dark side, check the following section.
 
 ---
 
@@ -111,7 +111,7 @@ Diverted against Russia since 2007, in the hope to cancel the American public de
 
 This last claim will be augmented in a future article. Hint: [Brettonwood system](https://en.wikipedia.org/wiki/Bretton_Woods_system)'s agreement end, 1971. Which started the era of the USD as legal currency backed-up with oil as commodity (aka Petrol-Dollar agreement) which ended on the first day of G7 in Puglia (Italy, Q2/2024).
 
-That day, the USD became a pure fiat-currency without any real-world collateral. [The paper money is financial communism](278-the-paper-money-is-financial-communism.#?target=_blank), closed the circle and re-implemented Communism in its worst traits, only.
+That day, the USD became a pure fiat-currency without any real-world collateral. [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank), closed the circle and re-implemented Communism in its worst traits, only.
 
 - Therefore and by now, **everything** is not only false but also **totally virtual**, like in the Matrix.
 
@@ -127,9 +127,9 @@ Despite Gemini's first review of the text after the "Hint" reach the conclusion 
 
 ## Related articles
 
-- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=blank) &nbsp; (2025-06-22)
+- [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
 
-- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=blank) &nbsp; (2025-06-19)
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-19)
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
