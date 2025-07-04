@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-07-01:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/330-italia-fuga-di-cervelli-e-falso-documentale.png" width="800"><br></div>
+<div align="center"><img class="bwsketch darkinv" src="img/330-italia-fuga-di-cervelli-e-falso-documentale.png" width="800"><br></div>
 
 ## Italia: fuga di cervelli e falso documentale
 
