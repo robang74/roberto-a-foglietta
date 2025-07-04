@@ -2,6 +2,7 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
 *************** Gemini about Transparency in Scientific Funding ****************
 
+Chatbot: Gemini 2.5 flash
 Created: 7th June 2025
 Published 7th June 2025
 Attachment: none

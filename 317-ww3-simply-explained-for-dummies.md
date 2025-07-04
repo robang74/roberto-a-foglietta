@@ -396,7 +396,7 @@ NOTES AND FURTHER INFORMATION COLLECTION
 
 Here below a summary of the press coverage made by Perplexity AI which is a web search engine based on GPT and Azure Cloud, aka Microsoft technology:
 
-- 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](../data/317-kellogg-declarations-press-coverage-by-perplexity.md#?target=_blank)
+- 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](data/317-kellogg-declarations-press-coverage-by-perplexity.txt#?target=_blank)
 
 ...
 
