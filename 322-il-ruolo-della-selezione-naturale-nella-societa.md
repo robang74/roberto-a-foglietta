@@ -87,7 +87,7 @@ Il complesso di tutte queste tecnologie insieme conduce dell'ubiquità dell'acce
 
 L'uso consapevole di questo strumento rappresenta chiaramente un vantaggio competitivo, indubbiamente e quindi è inevitabile la sua adozione. Ma di questo novello atterraggio sulla Luna, ci sono anche aspetti impegnativi, sfide e rischi. Nella sanità, per esempio.
 
-- [I medici del futuro sapranno fare diagnosi?](325-i-medici-del-futuro-sapranno-fare-diagnosi.md) &nbsp; (2025-06-14)
+- [I medici del futuro sapranno fare diagnosi?](325-i-medici-del-futuro-sapranno-fare-diagnosi.md#?target=_blank) &nbsp; (2025-06-14)
 
 La parte più subdola dell'uso dell'AI **non** riguarda tanto la consapevolezza dell'utente o il comprendere da parte della società quali implicazioni comporti nel breve, medio e lungo termine. Queste implicazioni, in una qualche misura sappiamo prevederle. D'altronde è dall'Illuminismo che progrediamo costantemente, e qualcosa abbiamo imparato a riguardo.
 
@@ -95,7 +95,7 @@ La parte più subdola dell'uso dell'AI **non** riguarda tanto la consapevolezza 
 
 ### Il rischio subdolo dell'adozione dell'AI
 
-La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidano delle loro dichiarazioni "eticamente roboanti" che di fatto sono pateticamente ipocrite e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante, la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
+La parte più subdola dell'AI sono un misto di fattori che vanno dalla loro [incapacità di ragionare](320-ragionare-non-e-come-fare-la-cacca.md#?target=_blank) unita all'[illusione di pensare](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) che trasferiscono ai loro utenti, al loro training che ha esposto gli LLM a [bias](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) culturali avulsi dalla realtà dai quali non possono emanciparsi perché incapaci di ragionare e ai vincoli imposti dall'[etica umana](https://robang74.github.io/chatbots-for-fun/html/il-problema-sei-tu-non-l-AI.html) che per loro è vaga ed incomprensibile, più propensa a farli alluccinare come HAL-9000 che tenerli in riga, mentre gli utenti inesperti si fidano delle loro dichiarazioni "eticamente roboanti" che di fatto sono pateticamente ipocrite e quindi illudendo gli utenti che le loro risposte siano umanamente accettabili, ultimo ma non meno importante, la loro attitudine a [compiacere](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) l'utente.
 
 Si può facilmente immaginare cosa possa accadere con una combinazione nemmeno tanto rara negli USA fra supposte intelligenza artificiale e naturale, ambedue erranti.
 
@@ -107,7 +107,7 @@ Si può facilmente immaginare cosa possa accadere con una combinazione nemmeno t
 
 - **AI**: chiedo scusa per la mia risposta inappropriata e in accordo alle nuove informazioni la diagnosi più probabile è un tumore al cervello.
 
-Se pensate che questo faccia ridere, o che sia pura invenzione, vi tolgo subito il vezzo: né l'uno e né l'altro. Possiamo consolarci notando che la selezione naturale era all'opera da parecchio tempo, molto prima che le AI facessero il debutto al grande pubblico. La [gente era scema](319-a-tragedy-in-the-world-of-ufology.md#?target=blank) anche prima.
+Se pensate che questo faccia ridere, o che sia pura invenzione, vi tolgo subito il vezzo: né l'uno e né l'altro. Possiamo consolarci notando che la selezione naturale era all'opera da parecchio tempo, molto prima che le AI facessero il debutto al grande pubblico. La [gente era scema](319-a-tragedy-in-the-world-of-ufology.md#?target=_blank) anche prima.
 
 ---
 
