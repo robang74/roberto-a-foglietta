@@ -5,13 +5,13 @@
 
 ## The real reason why Putin is so hated
 
-- **9th draft**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 28th of May 2025.
+- **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
 
 ---
 
 ### The real problem is that we lost
 
-The problem is not Putin, and the question is not even if the Putin is a dictator because in Europe we made trading, especially for oil, with **every** sort of dictators while CIA - for a public admission of one their ex-director - pushed several times and countries in dictatorship regime with the solely aim to advantage the US. Therefore, none of this is **the** problem. Which makes sense considering the **Wolfowitz Doctrine** (#1) officially shapes the U.S. foreign policy since 1992.
+The problem is not Putin, and the question is not even if the Putin is a dictator because in Europe we made trading, especially for oil, with **every** sort of dictators while CIA -- for a public admission of one their ex-director -- pushed several times and countries in dictatorship regime with the solely aim to advantage the US. Therefore, none of this is **the** problem. Which makes sense considering the **Wolfowitz Doctrine** (#1) officially shapes the U.S. foreign policy since 1992.
 
 The issue might be that we, as Europeans, have a long historical tradition of move in others countries kill them, rape the, sack them, enslaved them, for whatever reason we like because **we** are the civilised ones. While, we, as Europeans, never leveraged our superior civilisation rather than using weapons combined with a rare mastership of organised violence. Despite this, it was **not** a problem for us, as Europeans, perpetrating violence.
 
@@ -19,11 +19,17 @@ The **real** issue is that nowadays we, as Europeans, are **not** in the positio
 
 Ukraine proxy-war against Russia is not different, but hurts. Why does it hurt so much?
 
+---
+
+### A war like no other before, so far
+
 Well, it doesn't because Vietnam was a Hell in comparison. Not just because of the battlefield but also because of veterans. By the way, looking at some photos and reading some personal stories, Ukrainian veterans are even in worse shape than those who were back from Vietnam. Whatever joining the army to fight for freedom in Vietnam was a personal choice, many Ukrianins had been taken with force and sent to the front war.
 
 It is hard to cope with such a kind of responsibility. In fact, currently in Ukraine, people who return and might wish to ask for compensation or even a vet pension, are seriously risking being accused of dissertation. While the body of the deaths are left behind or hidden, while the families instead of receiving a compensation for their lost, a notice of missing person, possibly a disertor including the warning tha hosting a deserting military is a felony.
 
-It is a tragedy into a tragedy, a madness into a madness. In this scenario, it is difficult to say who is worse: those who support war for personal gain, those who sell weapons, or those who cheer on social media at the death of this or that target, as if war were a football match or a video game. Under this PoV, accusing Putin to be the bad guy -- the evil enemy -- is a way to distract everyone from thinking about what is going on. But why Putin in particular?
+It is a tragedy into a tragedy, a madness into a madness. In this scenario, it is difficult to say who is worse: those who support war for personal gain, those who sell weapons, or those who cheer on social media at the death of this or that target, as if war were a football match or a video game. Under this PoV, accusing Putin to be the bad guy -- the evil enemy -- is a way to distract everyone from thinking about what is going on.
+
+But why Putin in particular?
 
 ---
 
@@ -223,7 +229,7 @@ Despite these four articles are bringing in different perspectives which can be 
 
 ### Nota #2
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default#?target=_blank))
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
 
 ---
 
