@@ -216,7 +216,7 @@ It is difficult to say how many hundreds of billions the Ukraine war really suck
 
 Draghi's 10 years of quantitative easing -- which kicked off the season of expansionary monetary policy, which also sustained an inflationary pricing policy -- provided the necessary huge financial mass to push into the Ukraine destruction while end-consumer prices and energy costs skyrocketed, oppressing people and shutting down industry, especially in Germany.
 
-- News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](../data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.md#?target=_blank)
+- News & data by Perplexity AI, [collection](https://www.perplexity.ai/search/nearly-100-accountants-in-suit-3oEeCGgFRZigzGuUKoPmVg) an its [transcription](data/317-ukraine-war-money-laundering-and-its-default-by-perplexity.txt#?target=_blank)
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S. which has provided more military aid, instead. (cfr. [numbers & dates](#money-laundering-and-ukraine-default))
 
