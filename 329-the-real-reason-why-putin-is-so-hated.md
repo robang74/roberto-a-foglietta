@@ -6,6 +6,8 @@
 ## The real reason why Putin is so hated
 
 - **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
++++++
+- **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisys.
 
 ---
 
@@ -57,23 +59,43 @@ Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un
 
 Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
 
-...
-
 Per approfondire questa parte, continua leggendo la [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
 
-++++
++++++
 
 ## Conclusion
 
 We, as Western people, lost the proxy-war against Russia thus we did not managed to torture the witch nor to burn her. Suddenly, our enemy is not anymore Russia but Iran. In such a case it is not because of the love for the State of Israel, but because Iran is planning to threaten us with developing a nuclear bomb.
 
-Curiously, Kohomeni is **not** the enemy because at his age, he is more like an orthodox icon rather than man of astuce. In fact, those who had been targeted were top-level commanders in charge or scientists. Unfortunately, the U.S. did not have enough SM-3 to continue the war and protect Israel, but at the same time they did not have powerful-enough conventional bombs to effectively hit Iran underground nuclear plants.
+Curiously, Kohomeni is **not** the enemy because at his age, he is more like an orthodox icon rather than man of astuce. In fact, those who had been targeted were top-level commanders in charge or scientists.
+
+Unfortunately, the U.S. did not have enough SM-3 to continue the war and protect Israel, but at the same time they did not have powerful-enough conventional bombs to effectively hit Iran underground nuclear plants.
 
 Because of these two limitations, a cease-fire agreement was necessary otherwise another war was bitterly lost on the battlefield. So, the maneuver to shift the public opinion toward Iran, the new #1 enemy, was also failed and soon we were forced to see on East and accept also the oher bitterly war lost on the battlefield.
 
 Anyway, in this story, the real defeat is diplomacy.
 
 +
+
+## Update 2025-07-05
+
+[!INFO]
+3 luglio 2025 - Alta tensione tra Russia e Azerbaijan. Quello che avrebbe dovuto essere un caso di criminalità, è diventato un caso politico. La contrapposizione tra i due Paesi si era acuita dopo l'abbattimento, nel dicembre del 2024, di un aereo dell'Azerbaijan Airlines che causò la morte di 38 persone. Le indagini, e le relative intercettazioni diffuse in seguito, hanno accertato che il velivolo era stato colpito dalla difesa aerea russa, ma Mosca non ha mai riconosciuto la propria responsabilità. Una crisi diplomatica importante, poiché teoricamente Baku è alleata di Mosca però non ha ricevuto da Mosca il sostegno che si sarebbe aspettata. -- [Radio Radicale](https://www.radioradicale.it/scheda/763712/postsovietika-intervista-ad-anna-zafesova)
+[/INFO]
+
+In questo articolo viene presentato in modo conciso ma evidente, un **grosso** problema diplomatico, anzi di credibilità, che riguarda le aspettative di un paese satellite e alleato della Russia. Una questione che merita di essere considerata in generale e nel momento da cui è iniziata, a prescindere da come sia formulata oggi.
+
+Non ha importanza che la Russia non sia direttamente responsabile o addirittura estranea all'abbattimento del volo azero, quello che conta è il principio per il quale il capo, il leader, il boss, lo zar, il re o dir si voglia, intervenga e rassicuri che i responsabili saranno trovati anche qualora fossero dentro al Cremlino.
+
+Al peggio, il rimborso alle famiglie delle vittime sarà più oneroso, magari in parte già anticipato in virtù di dove è caduto l'aereo, tipo un 50% di rimborso in anticipo, di questo 50% una metà alla Russia e una metà dall'Azerbaijan, giusto per mostrare che la collaborazione fra i due paesi è una garanzia, de-facto.
+
+Poi a seconda di come si sviluppino le indagini, o per estremo opposto si voglia insabbiare tutto, nell'ambito della collaborazione si deciderà quale rimborso offrire se non è possibile o non è opportuno somministrare anche le condanne. In uno scenario di guerra ancora attivo, non è tutto banalmente lineare.
+
+Piaccia o meno, questo è il prezzo che si paga per essere al comando: saper gestire le situazioni, specialmente quelle spiacevoli. In maniera che si pensi -- *ecco, c'è una ragione per la quale il capo è il capo* -- e chi è contro potrebbe al più criticare l'importo dell'indennità o la trasparenza delle indagini.
+
+Questo è un caso in cui la Russia, il Cremlino o Putin, non si stanno presentando -- *apparentemente, perché tante cose non sappiamo, in particolare, rispetto ad un episodio specifico, ma la politica è fatta di apparenze, la diplomazia è fatta di mediazioni* -- come il capo che "dovrebbe essere" e questo, oggi, è il **grosso** problema per loro. Per quelli contro è un'opportunità, ovviamente.
+
++++++
 
 ## Update 2025-07-01
 
@@ -131,7 +153,7 @@ Perché per quanto possa la propaganda NATO aver stravolto la mente delle person
 
 Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
 
----
+----
 
 ### La cpaziosa questione della Crimea
 
@@ -149,7 +171,7 @@ Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte d
 
 Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
 
-----
+---
 
 ### L'anessione della Crimea nel 2014
 
@@ -161,10 +183,11 @@ Vale la pena notare che, senza sorpresa, la Crimea essendo sempre stata a maggio
 
 Curiosamente, i fautori della democrazia e della volontà popolare, sono favorevoli a sacrificare il popolo ucraino fino all'ultimo uomo contro la Russia. Si fa persino fatica a considerare il mainstream come "pensiero unico" perché se fosse frutto di una sola mente, di una sola regia, la schizofrenia sarebbe la diagnosi meno negativa.
 
+++++
 Se l'ucraina non avesse ceduto le bombe nucleari alla Russia, oggi sarebbe diverso? 
 
 - è inutile tenersi degli ordigni che non si possono usare senza il consenso di Mosca;
-
++++++
 - oggi grazie a quel patto l'Ucraina non è un avamposto di basi nucleari della Russia.
 
 L'Ucraina per diversi decenni hanno goduto di un'apertura e gli Ucraini di una libertà di viaggiare, quindi anche di commerciare che, per esempio, la Bielorussia non ha avuto. 
@@ -229,7 +252,7 @@ Despite these four articles are bringing in different perspectives which can be 
 
 ### Nota #2
 
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B: $26B more than the U.S., which has provided more military aid, instead. The AML events chain to the default started in Q1/2023 with the arrival of nearly 100 accountants in Kiev to audit the use of American aid. The default happens in June 2025, when the news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments. (cfr. [AML & default](317-ww3-simply-explained-for-dummies.md#money-laundering-and-ukraine-default?target=_blank))
 
 ---
 
@@ -242,22 +265,22 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 ## Related articles
 
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
-
++++++
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
-
++++++
 - [Il ruolo dell'Armata Rossa nella WW2](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf) &nbsp; (2024-08-27)
-
++++++
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
-
++++++
 - [2022.02.22, Доброе утро всем](https://robang74.github.io/roberto-a-foglietta/html/linkedin/22022022-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/22022022-roberto-a-foglietta) &nbsp; (2022-02-22)
-
++++++
 - [The Russia's advantage](https://robang74.github.io/roberto-a-foglietta/html/linkedin/russias-advantage-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/russias-advantage-roberto-a-foglietta) &nbsp; (2017-11-05)
-
++++++
 - [L'opinione dello Zar](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lopinione-dello-zar-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/lopinione-dello-zar-roberto-a-foglietta) &nbsp; (2017-01-02)
-
++++++
 - [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
 
-+
++++++
 
 ## Share alike
 
