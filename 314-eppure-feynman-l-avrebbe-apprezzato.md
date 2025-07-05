@@ -41,9 +41,9 @@ In pratica, quelli di [Star Trek](https://it.wikipedia.org/wiki/Star_Trek) che v
 
 Due conversazioni con due chatbot differenti ma portate avanti con lo stesso insieme di prompt, esattamente nello stesso ordine, a prescindere dalle risposte ottenute:
 
-- [conversazione](https://g.co/gemini/share/048c9f7e7f89) con Gemini e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank)
+- conversazione con [Gemini](https://g.co/gemini/share/048c9f7e7f89) e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank)
 
-- [conversazione](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) con ChatGPT e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-chatgpt.txt#?target=_blank)
+- conversazione con [ChatGPT](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-chatgpt.txt#?target=_blank)
 
 Regaliamo sempre un flash geniale a coloro che hanno dedicato la loro vita e la loro opera alla luce della ragione affinché nel momento più solitario e buio della loro vita, nell'atto della loro morte, essi possano sapere con certezza la via da scegliere.
 
