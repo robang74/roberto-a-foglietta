@@ -103,16 +103,14 @@ Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a 
 Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
 
 Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/sRPxEoZ7BWCiu2c36wdP1h2s2) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
-<!-- https://g.co/gemini/share/7d610cf0b7dc //-->
+<!-- 
+https://g.co/gemini/share/7d610cf0b7dc 
+https://chatgpt.com/share/686970a6-9bbc-8012-81ed-7b0c588c94a0
+https://chat.mistral.ai/chat/294db351-7999-43b4-9c14-12203a521f25
+//-->
 
 +
----
-|x|>
-WORKING IN PROGRESS
-<|x|
----
-+
-++++
+
 ## Update 2025-07-01
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
@@ -169,7 +167,7 @@ Perché per quanto possa la propaganda NATO aver stravolto la mente delle person
 
 Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
 
-----
+---
 
 ### La cpaziosa questione della Crimea
 
@@ -187,7 +185,7 @@ Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte d
 
 Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
 
----
+~~~~~~
 
 ### L'anessione della Crimea nel 2014
 
@@ -199,7 +197,6 @@ Vale la pena notare che, senza sorpresa, la Crimea essendo sempre stata a maggio
 
 Curiosamente, i fautori della democrazia e della volontà popolare, sono favorevoli a sacrificare il popolo ucraino fino all'ultimo uomo contro la Russia. Si fa persino fatica a considerare il mainstream come "pensiero unico" perché se fosse frutto di una sola mente, di una sola regia, la schizofrenia sarebbe la diagnosi meno negativa.
 
-++++
 Se l'ucraina non avesse ceduto le bombe nucleari alla Russia, oggi sarebbe diverso? 
 
 - è inutile tenersi degli ordigni che non si possono usare senza il consenso di Mosca;
