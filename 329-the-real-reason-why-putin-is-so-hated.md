@@ -98,11 +98,11 @@ Questo è un caso in cui la Russia, il Cremlino o Putin, non si stanno presentan
 
 Dopo aver valutato più nei dettagli l'abbattimento del volo J2-8243 e le relazioni diplomatiche fra vari paesi coinvolti e confinanti, sono giunto alla conclusione che la spiegazione più probabile, e anche più plausibile, sia dovuta ad una decisione dei militari di mantenere una linea di assoluta fermezza, con priorità unica la difesa operativa.
 
-Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a causa del conflitto Nagorno-Karabakh (2020), verso l'Azerbaidjan, che ha ottenuto una piena vittoria contro l'Armenia, un più fedele alleato russo, grazie all'aiuto della Turchia e alla neutralità della Russia, su cui probabilmente non erano d'accordo.
+Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a causa del conflitto Nagorno-Karabakh (2020), verso l'Azerbaijan, che ha ottenuto una piena vittoria contro l'Armenia, un più fedele alleato russo, grazie all'aiuto della Turchia e alla neutralità della Russia, su cui probabilmente non erano d'accordo.
 
 Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
 
-Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/sRPxEoZ7BWCiu2c36wdP1h2s2) con x/Grok, di cui la relativa [trascrizione](not-yet.txt#?target=_blank) che attraverso la sua ricerca web ha fornito informazioni specifiche sull'abbattamento e dell'assetto geopolitico locale.
+Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/sRPxEoZ7BWCiu2c36wdP1h2s2) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) che attraverso la sua ricerca web ha fornito informazioni specifiche sull'abbattamento e dell'assetto geopolitico locale.
 
 +
 ---
