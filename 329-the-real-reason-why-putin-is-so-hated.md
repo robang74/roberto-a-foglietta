@@ -94,6 +94,8 @@ Piaccia o meno, questo è il prezzo che si paga per essere al comando: saper ges
 
 Questo è un caso in cui la Russia, il Cremlino o Putin, non si stanno presentando -- *apparentemente, perché tante cose non sappiamo, in particolare, rispetto ad un episodio specifico, ma la politica è fatta di apparenze, la diplomazia è fatta di mediazioni* -- come il capo che "dovrebbe essere" e questo, oggi, è il **grosso** problema per loro. Per quelli contro è un'opportunità, ovviamente.
 
+~~~~~~
+
 ### Valutazione nel dettaglio
 
 Dopo aver valutato più nei dettagli l'abbattimento del volo J2-8243 e le relazioni diplomatiche fra vari paesi coinvolti e confinanti, sono giunto alla conclusione che la spiegazione più probabile, e anche più plausibile, sia dovuta ad una decisione dei militari di mantenere una linea di assoluta fermezza, con priorità unica la difesa operativa.
@@ -103,6 +105,8 @@ Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a 
 Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
 
 Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/g6JR1V6rhBXIK5ZpMFrGYbgNP) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) **da aggiornare**, che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
+
+---
 
 ### La struttura del potere in Russia
 
