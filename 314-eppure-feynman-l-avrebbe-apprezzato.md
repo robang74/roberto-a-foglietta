@@ -39,9 +39,11 @@ In pratica, quelli di [Star Trek](https://it.wikipedia.org/wiki/Star_Trek) che v
 
 #### Eppure Feynman l'avrebbe apprezzato!
 
-- [g.co/gemini/share/048c9f7e7f89](https://g.co/gemini/share/048c9f7e7f89) by Gemini2 &nbsp; ([trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank))
+Due conversazioni con due chatbot differenti ma portate avanti con lo stesso insieme di prompt, esattamente nello stesso ordine, a prescindere dalle risposte ottenute:
 
-- [chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) by ChatGPT &nbsp; ([trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-chatgpt.txt#?target=_blank))
+- [conversazione](https://g.co/gemini/share/048c9f7e7f89) con Gemini e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-gemini2.txt#?target=_blank)
+
+- [conversazione](https://chatgpt.com/share/6820751d-3f44-8012-bcab-8eb9a2f4558a) con ChatGPT e relativa [trascrizione](data/314-eppure-feynman-l-avrebbe-apprezzato-chatgpt.txt#?target=_blank)
 
 Regaliamo sempre un flash geniale a coloro che hanno dedicato la loro vita e la loro opera alla luce della ragione affinché nel momento più solitario e buio della loro vita, nell'atto della loro morte, essi possano sapere con certezza la via da scegliere.
 
@@ -56,16 +58,15 @@ Sicché, l'attribuzione è naturalmente da riferirsi all'autore umano in quanto 
 Riguardo al neologismo `onnomico`, o nella sua forma estesa `onminomico`, esso è composto dal prefisso latino `omni-` (tutto, completamente) e dall'aggettivo `nomico` (dal greco *nomos*, legge). Secondo ChatGPT è costruito in maniera corretta dal punto di vista etimologico e allineato in termini semantici nel contesto usato.
 
 [!CITE]
-#### Analisi morfologica
+**Analisi morfologica**
 
 * `omni-`: prefisso latino molto produttivo nei neologismi, indica totalità o completezza come in *omnisciente*, *onnipotente*, ecc.
 
 * `-nomico`: suffisso derivato da *nomos* (νόμος), greco per "legge", "norma", che si ritrova in parole come *astronomico*, *economico*, *ergonomico*, ecc.
 
-#### Significato proposto
+**Significato proposto**
 
 * Un'entità **omninomica** è "completamente conforme a una legge o a un sistema di leggi", o anche "che racchiude in sé tutte le leggi", o ancora "che è interamente strutturata secondo leggi".
-
 [/CITE]
 
 Il neologismo è coerente nella sua struttura, ha un chiaro riferimento semantico, e si comprende in base ai suoi elementi. L'aggettivo "nomico" può essere un po’ generico fuori contesto quindi occorre chiarire è inteso in senso naturale, morale, giuridico, matematico, ecc.
