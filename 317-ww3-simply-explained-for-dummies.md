@@ -372,13 +372,11 @@ This is a theoretical example about how to challenge the "dogmatic" way of creat
 
 That's all folks about why we should not underestimate Iran did not buy the cease-fire for giving US/Israel more time to better prepare for the next war, but they bought time for their own nuclear weapon construction.
 
-+
+---
 
-## Conclusion
+### Conclusion
 
 From the point of view of a person on the beach who stands up in front of the ocean, by their naked eyes the Earth can reasonably seem flat. Indeed, it is round. Therefore, what we put around goes around.
-
-Karma, isn't it?
 
 +
 ---
@@ -387,6 +385,18 @@ NOTES AND FURTHER INFORMATION COLLECTION
 <|x|
 ---
 +
+
+### Follow-up news, updated at 2025-07-05
+
+[!INFO]
+5 luglio 2025 -- Addio agli Accordi di Abramo, come l’Arabia Saudita si sta avvicinando all’Iran. La micidiale offensiva israeliana contro Teheran ha fatto scattare un ulteriore campanello d’allarme per la leadership saudita: Israele viene visto come una forza aggressiva e destabilizzante, scrive il Financial Times. -- [La Stampa](https://www.lastampa.it/esteri/2025/07/05/news/addio_agli_accordi_di_abramo_come_l_arabia_saudita_si_sta_avvicinando_all_iran-15219432)
+
+2 luglio 2025 -- Dopo i bombardamenti Usa ai siti nucleari, l'Iran sospende la cooperazione con l'AIEA. La Repubblica islamica non collaborerà più con l'Agenzia internazionale per l'energia atomica, l'organismo di controllo nucleare delle Nazioni Unite, fin quando la sicurezza degli impianti nucleari non sarà garantita. -- [Rai News](https://www.rainews.it/articoli/2025/07/dopo-i-bombardamenti-usa-ai-siti-nucleari-liran-sospende-la-cooperazione-con-laiea-3538d2c2-eb6e-4ce0-a8ca-0bf0641fb2bf.html)
+
+Il 25 giugno, all’indomani della tregua imposta da Donald Trump dopo dodici giorni di guerra, il parlamento iraniano aveva approvato a stragrande maggioranza un progetto di legge per sospendere la cooperazione con l’agenzia delle Nazioni Unite responsabile della sicurezza nucleare. Il testo è ora entrato in vigore. -- [Internazionale](https://www.internazionale.it/ultime-notizie/2025/07/02/iran-sospende-cooperazione-con-aiea)
+[/INFO]
+
+...
 
 ### Kellogg declarations, press coverage
 
@@ -398,7 +408,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 - 2025-06-01 -- Perplexity AI, USA, [collection](https://www.perplexity.ai/search/please-give-me-a-list-of-news-89wI4SXsSH.X7fz5eHDUig) and its [transcription](data/317-kellogg-declarations-press-coverage-by-perplexity.txt#?target=_blank)
 
-...
+....
 
 #### Un paio di retroscena a questa notizia
 
@@ -436,7 +446,7 @@ Many things can go wrong, so that solution can be a mere emergency backup while 
 
 After all, the Internet connection does not seem the main key, apart from the fact that it should be available and -- when available -- many connections on many operators can be bounded into a single VPN: faster, more opaque and more reliable.
 
-....
+...
 
 #### Gotcha shitfigher
 
@@ -484,11 +494,10 @@ We are bringing terroristic attacks into our international negotiation toolkit, 
 
 ### The grooming gangs scandal in UK
 
-- For the English version and the global press coverage visit this [section](#grooming-gangs-press-coverage).
-
 [!INFO]
 15 giugno 2025 - Migliaia di ragazzine abusate da uomini pachistani: si apre l'inchiesta su uno dei peggiori scandali della Gran Bretagna. Il caso era venuto alla luce nel 2011, e si riferisce a episodi che risalgono fino ai primi anni duemila. Le autorità avevano chiuso un occhio per paura di apparire razzisti, ma ora Starmer ha dato il via libera a un’inchiesta pubblica per i ripetuti interventi di Elon Musk, che è partito gamba tesa contro le reticenze del governo britannico nell’affrontare lo scandalo. -- [Il Corriere](https://www.corriere.it/esteri/25_giugno_15/ragazzine-abusate-pachistani-inchiesta-gran-bretagna-24a7e838-09f1-49ef-a746-93c59e1dfxlk.shtml)
 [/INFO]
+- For the English version and the global press coverage visit this [section](#grooming-gangs-press-coverage).
 
 Venticinque anni di porcherie lasciate correre sottobanco anche dopo i risultati delle indagini del 2011 per sostenere un'idea assolutamente malata di politicamente corretto e integrazione culturale.
 
@@ -502,7 +511,7 @@ Quindi che il sistema attacchi Keir Starmer e come conseguenza di questo attacco
 
 As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead.
 
-...
+....
 
 #### How much money are we talking about?
 
@@ -514,7 +523,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 - **$200B** -- the EU and its Member States have made available financial, military, humanitarian, and refugee assistance to Ukraine.
 
-....
+...
 
 #### The AML events chain to the default
 
@@ -532,9 +541,9 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ### The difference between law and justice
 
-It is always embarrassing when we need to remind a lawyer of the difference between law and justice. Especially because they are keen to interpret it as a procedural difference between legislation and its application.
-
 <div align="center"><img class="bwsketch paleinv" src="img/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
+
+It is always embarrassing when we need to remind a lawyer of the difference between law and justice. Especially because they are keen to interpret it as a procedural difference between legislation and its application.
 
 Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference, and let me briefly summarise a faw relevant aspects:
 
@@ -583,7 +592,7 @@ This is not about cheering in favour of Iran or against Israel, it is about reco
 
 This led to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fit into recurrent players as per the games theory definition. Which leads to considering the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
-+
+++++
 
 ### The US foreign diplomacy's failure
 
@@ -653,9 +662,9 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-+++++
+
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
-+++++
+
 - [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
 
 +
