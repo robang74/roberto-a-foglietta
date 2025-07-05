@@ -112,7 +112,7 @@ Considerando la [biografia di Putin](https://it.wikipedia.org/wiki/Vladimir_Puti
 
 La guerra in Ucraina ha posto i militari in una posizione di importanza relativamente molto elevata rispetto al passato, ma è difficile pensare che questo caso sia eccezionale piuttosto che sia emerso perché reso molto più evidente dal contesto polarizzato della guerra e dell'accentuata importanza dei militari. Quindi è plausibile che Putin fosse e sia soggetto a pressioni importanti anche prima del 2022.
 
-Se la percezione che gli americani hanno del potere in Russia è troppo semplicistica, e Trump è certamente un presidente che tende ad avere relazioni personali, allora convincere Putin non basta. Questo spiegherebbe perché dopo l'ultima lunga telefonata fra Trump e Putin, la Russia abbia scatenato nella notte fra il 3 e il 4 luglio 2025 immediatamente seguente un dei più importanti attacchi su Kyviv. 
+Se la percezione che gli americani hanno del potere in Russia è troppo semplicistica, e Trump è certamente un presidente che tende ad avere relazioni personali, allora convincere Putin non basta. Questo spiegherebbe perché dopo l'ultima lunga telefonata fra Trump e Putin, la Russia abbia scatenato nella notte fra il 3 e il 4 luglio 2025 immediatamente seguente un dei più importanti attacchi su Kyiv. 
 
 Un messaggio dalle gerarchie militari che Trump potrebbe non aver colto, perché convinto che Putin sia il decisore ultimo ma non orientato alla pace. Quando invece è la nostra percezione dell'altro ad essere diversa dalla realtà. Questa incomprensione della struttura di potere in Russia potrebbe avere risvolti molto pericolosi: consideriamo solo la punta dell'iceberg (Putin) ma come accadde al Titanic non è quella che fa il danno.
 
