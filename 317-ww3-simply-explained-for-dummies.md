@@ -272,15 +272,13 @@ Let me be clear about that: it is not a Trump fault but the historical American 
 
 The US is facing an intelligence deficit which, leveraged by technology, clearly provides every other country a potential asymmetric advantage never existed before in modern times.
 
----
+----
 
 ### Israel vs Iran seen from Europe
 
 - The Union Herald, [video](https://youtu.be/bBjs4hYyIxc?si=WuJLQq74iiQuUDjc) &nbsp; (2025-06-24)
 
 Trump took the Israel side and this is obvious, not just about offering a defensive shield but also attacking Iran directly. Everything else would have been a surprise. Indeed, considering the development of nuclear technology for military purposes, the two countries are undergoing two clearly different surveillance and restriction scenarios.
-
-...
 
 #### About Israel
 
@@ -299,8 +297,6 @@ Iran is a signatory to the Nuclear Non-Proliferation Treaty (NPT) and must allow
 
 After the U.S. withdrew in 2018, Iran gradually breached JCPOA limits (now enriching uranium up to 60%, near weapons-grade). Iran stopped implementing the Additional Protocol in 2021 but still allows basic NPT-required inspections.
 [/INFO]
-
-...
 
 Or, more in general, this is the most classic example of the dual-standards policy evergreen. Which is nothing else than the result of the Wolfowitz doctrine, as long as someone could explain in a rational way how Israel contributes to the USA domestic interests.
 
@@ -346,7 +342,7 @@ Trump is right in saying -- *they don't know what the f*ck they're doing* -- but
 
 Apart from winning for the sake of winning. Which is probably the best description of a Ponzi scheme, from a philosophical point of view. Hints: before asking others WTF they are doing, ask yourselves the same question. Hard to believe they-their-own know what, anyway!
 
-----
+~~~~~~
 
 ### Iran as nuclear threat for Israel
 
@@ -396,7 +392,7 @@ NOTES AND FURTHER INFORMATION COLLECTION
 Il 25 giugno, all’indomani della tregua imposta da Donald Trump dopo dodici giorni di guerra, il parlamento iraniano aveva approvato a stragrande maggioranza un progetto di legge per sospendere la cooperazione con l’agenzia delle Nazioni Unite responsabile della sicurezza nucleare. Il testo è ora entrato in vigore. -- [Internazionale](https://www.internazionale.it/ultime-notizie/2025/07/02/iran-sospende-cooperazione-con-aiea)
 [/INFO]
 
-...
++
 
 ### Kellogg declarations, press coverage
 
@@ -412,7 +408,7 @@ Here below a summary of the press coverage made by Perplexity AI which is a web 
 
 #### Un paio di retroscena a questa notizia
 
-> Certo che l’amministrazione Trump è bizzarra. Da una parte sembrano dei pazzi scellerati e dall’altra hanno guizzi "da bocca della verità".
+> L’amministrazione Trump è bizzarra: da una parte sembrano dei pazzi e dall’altra hanno guizzi "da bocca della verità".
 
 Ci sono due motivi per cui questo accade: 
 
@@ -422,7 +418,39 @@ Ci sono due motivi per cui questo accade:
 
 Che ormai le carte fossero scoperte, lo prova il [dialogo](https://gemini.google.com/share/454f6850b456) con Gemini (2025-05-28) qui [trascritta](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank). Perché se le cose sono note anche a Gemini 2.5 (il più fast & simple, dei chatbot moderni) pur definendole "controverse" ma nella loro interpretazione, c'è veramente poco su cui scommettere senza giocarsi reputazione e credibilità. Due pilastri sui quali l'intera presidenza Trump si basa.
 
++
+
+### Money laundering and Ukraine default
+
+As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead.
+
 ...
+
+#### How much money are we talking about?
+
+- **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
+
+- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B was for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
+
+- **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
+
+- **$200B** -- the EU and its Member States have made available financial, military, humanitarian, and refugee assistance to Ukraine.
+
+...
+
+#### The AML events chain to the default
+
+- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, and the month-long booking at a luxury hotel by the U.S.
+
+- Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
+
+- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defence company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
+
+- Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
+
+- Q2/2025 -- The news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
+
++
 
 ### The drones attack to Russia nuclear facilities
 
@@ -507,43 +535,11 @@ Quindi che il sistema attacchi Keir Starmer e come conseguenza di questo attacco
 
 +
 
-### Money laundering and Ukraine default
-
-As of April 2025, total assistance allocated by Europe to Ukraine stands at $157B, which is $26B more than the U.S., which has provided more military aid, instead.
-
-....
-
-#### How much money are we talking about?
-
-- **$183B** -- from the emergency U.S. fund allocated to support Ukraine. So far, the United States has disbursed $83.4B in funding and equipment, including $67B in military assistance.
-
-- **$174B** -- Congress initially appropriated this amount through five Ukraine supplemental appropriation acts enacted in fiscal years 2022 through 2024. Of this, $164B was for Operation Atlantic Resolve, and $11B for other, primarily humanitarian, purposes. Additional funds of $20B were allocated from annual agency appropriations and $1.1B from other supplemental appropriation acts.
-
-- **$120B** -- from the Kiel Institute, a German think tank, estimates that the United States has provided this amount in aid. 
-
-- **$200B** -- the EU and its Member States have made available financial, military, humanitarian, and refugee assistance to Ukraine.
-
-...
-
-#### The AML events chain to the default
-
-- Q1/2023 -- The arrival of nearly 100 accountants in Kiev to audit the use of American aid, and the month-long booking at a luxury hotel by the U.S.
-
-- Q2/2023 -- The Accounting Chamber of Ukraine, with U.S. support, also organized two audits of American financial aid, with 25 trained auditors.
-
-- Q2/2025 -- A notable case illustrating the consequences of AML enforcement involved the arrest of a Ukrainian entrepreneur suspected of laundering hundreds of millions of euros through real estate in France and Monaco. This investigation uncovered illicit profits from illegal weapons sales and the sale of shares in a defence company. French authorities froze assets worth €57 million, intending to return them to Ukraine.
-
-- Q2/2025 -- State Department and Treasury, Rubio's demand for justification of every cent spent, and the arrest of a member of the "kleptocrat class" at the Romanian border are likely interconnected events suggesting increased scrutiny of how U.S. aid is being utilized in Ukraine.
-
-- Q2/2025 -- The news about Ukraine's specific state-bond default on its GDP-linked sovereign debt payment of $665 million to holders of the warrants, marking the first default on these instruments.
-
-+
-
 ### The difference between law and justice
 
-<div align="center"><img class="bwsketch paleinv" src="img/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
-
 It is always embarrassing when we need to remind a lawyer of the difference between law and justice. Especially because they are keen to interpret it as a procedural difference between legislation and its application.
+
+<div align="center"><img class="bwsketch paleinv" src="img/317-the-difference-between-the-law-and-the-justice.jpg" width="800"><br></div>
 
 Thanks God, the Ukraine proxy-war gives us a splendid opportunity to finally check their understanding about the difference, and let me briefly summarise a faw relevant aspects:
 
@@ -592,7 +588,7 @@ This is not about cheering in favour of Iran or against Israel, it is about reco
 
 This led to the conclusion that with Iran we cannot enjoy the luxury of playing as they were random dudes but accept that they fit into recurrent players as per the games theory definition. Which leads to considering the difference between law and justice (cfr. [here](#the-difference-between-law-and-justice))
 
-++++
++
 
 ### The US foreign diplomacy's failure
 
@@ -657,7 +653,7 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 
 > El sueño de la razón produce monstruos, cit. Francisco Goya y Lucientes (1746 – 1828) 
 
-+
++++++
 
 ## Related articles
 
