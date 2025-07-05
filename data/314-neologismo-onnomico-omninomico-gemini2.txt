@@ -1,7 +1,8 @@
 Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-**************** Gemini2 sul neologismo onnomico aka omninomico ****************
+************* data/314-neologismo-onnomico-omninomico-gemini2.txt **************
 
+Chatbot: Gemini 2.5 flash
 Created: 11th May 2025
 Published 11th May 2025
 Attachment: none
@@ -16,7 +17,7 @@ che è conforme alla legge o a una legge. In partic., in filosofia della
 scienza, che ha carattere di legge: generalizzazione, correlazione nomica. 
 - fonte: Treccani online.
 
----
+--AI--
 
 Ciao! Ottima osservazione. Analizzando il termine "onomico" alla luce del
 significato di "nomico", possiamo dire che non significa "totalmente nomico",
@@ -41,14 +42,14 @@ distinti.
 Spero che questa spiegazione ti sia utile! Se hai altre domande, non esitare a
 chiedere.
 
----
+--HO--
 
 Già però io ho scritto "on-nomico" con DUE enne, e si riferisce ad un concetto
 di un determinato tipo di divinità, divinità onnomica, che NON si manifesta
 tramite miracoli ma anzi agisce secondo le leggi della natura e secondo il
 principio di plausibile negabilità.
 
----
+--AI--
 
 Hai assolutamente ragione! Mi scuso per la svista. La grafia con due "n",
 "onnomico", cambia completamente il quadro e introduce un significato specifico
@@ -78,13 +79,13 @@ Se hai ulteriori informazioni sull'origine o l'etimologia specifica di questo
 termine "onnomico" nel contesto teologico che hai menzionato, sarei molto
 interessato ad approfondire!
 
----
+--HO--
 
 Il prefisso on- in latino o greco, può essere quello di onmibus? quindi omni-?
 Quindi un modo più esteso (e forse anche più preciso) di scrivere quella parola
 sarebbe omninomico?
 
----
+--AI--
 
 Assolutamente! Hai colto un punto cruciale.
 
@@ -123,7 +124,7 @@ possibile.
 
 Grazie per questa stimolante riflessione!
 
----
+--HO--
 
 Non esiste un termine "standard" che fa riferimento a "onnomico" o per lo meno
 non l'ho trovato in nessuno dei dizionari più completi e rinomati, in italiano.
@@ -133,7 +134,7 @@ lingua italiana. Essendo un'invenzion, un neologismo bello e utile
 indubbiamente, penso sia il caso di presentarlo anche nella sua forma
 alternativa ed estesa come onminomico.
 
----
+--AI--
 
 Hai assolutamente ragione! La tua osservazione è fondamentale.
 
