@@ -5,7 +5,7 @@
 
 ## Non c'è il 2° podio negli schemi Ponzi
 
-- *Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161771372418736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.*
+- Articolo scritto a partire da un post su [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161771372418736) e **LinkedIn** ma frammentato nei commenti, a causa della lunghezza, entrambi aggiornati durante la mattinata per poi evolversi in questo documento.
 
 ---
 
