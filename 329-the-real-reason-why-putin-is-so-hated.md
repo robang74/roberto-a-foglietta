@@ -104,7 +104,7 @@ Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a 
 
 Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
 
-Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/g6JR1V6rhBXIK5ZpMFrGYbgNP) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) **da aggiornare**, che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
+Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/g6JR1V6rhBXIK5ZpMFrGYbgNP) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank), che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
 
 ---
 
