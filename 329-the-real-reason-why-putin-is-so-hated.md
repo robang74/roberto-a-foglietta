@@ -89,7 +89,7 @@ Non ha importanza che la Russia non sia direttamente responsabile o addirittura 
 
 Al peggio, il rimborso alle famiglie delle vittime sarà più oneroso, magari in parte già anticipato in virtù di dove è caduto l'aereo, tipo un 50% di rimborso in anticipo, di questo 50% una metà alla Russia e una metà dall'Azerbaijan, giusto per mostrare che la collaborazione fra i due paesi è una garanzia, de-facto.
 
-Poi a seconda di come si sviluppino le indagini, o per estremo opposto si voglia insabbiare tutto, nell'ambito della collaborazione si deciderà quale rimborso offrire se non è possibile o non è opportuno somministrare anche le condanne. In uno scenario di guerra ancora attivo, non è tutto banalmente lineare.
+Poi a seconda di come si sviluppino le indagini, o per estremo opposto si voglia insabbiare tutto, nell'ambito della collaborazione si deciderà quale rimborso offrire se non è possibile o non è opportuno somministrare anche le condanne. In uno scenario di guerra con l'Ucraina ancora attivo, non è tutto banalmente lineare.
 
 Piaccia o meno, questo è il prezzo che si paga per essere al comando: saper gestire le situazioni, specialmente quelle spiacevoli. In maniera che si pensi -- *ecco, c'è una ragione per la quale il capo è il capo* -- e chi è contro potrebbe al più criticare l'importo dell'indennità o la trasparenza delle indagini.
 
