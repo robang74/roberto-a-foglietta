@@ -6,7 +6,6 @@
 ## The real reason why Putin is so hated
 
 - **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
-+++++
 - **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisis.
 
 ---
@@ -95,8 +94,22 @@ Piaccia o meno, questo è il prezzo che si paga per essere al comando: saper ges
 
 Questo è un caso in cui la Russia, il Cremlino o Putin, non si stanno presentando -- *apparentemente, perché tante cose non sappiamo, in particolare, rispetto ad un episodio specifico, ma la politica è fatta di apparenze, la diplomazia è fatta di mediazioni* -- come il capo che "dovrebbe essere" e questo, oggi, è il **grosso** problema per loro. Per quelli contro è un'opportunità, ovviamente.
 
-+++++
+### Valutazione nel dettaglio
 
+- https://x.com/i/grok/share/sRPxEoZ7BWCiu2c36wdP1h2s2 
+
+Dopo aver valutato più nei dettagli l'abbattimento del volo J2-8243 e le relazioni diplomatiche fra vari paesi coinvolti e confinanti, sono giunto alla conclusione che la spiegazione più probabile, e anche più plausibile, sia dovuta ad una decisione dei militari di mantenere una linea di assoluta fermezza, con priorità unica la difesa operativa.
+
+Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a causa del conflitto Nagorno-Karabakh (2020), verso l'Azerbaidjan, che ha ottenuto una piena vittoria contro l'Armenia, un più fedele alleato russo, grazie all'aiuto della Turchia e alla neutralità della Russia, su cui probabilmente non erano d'accordo.
+
++
+---
+|x|>
+WORKING IN PROGRESS
+<|x|
+---
++
+++++
 ## Update 2025-07-01
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
