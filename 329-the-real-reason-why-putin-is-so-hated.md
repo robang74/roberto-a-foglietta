@@ -102,7 +102,21 @@ Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a 
 
 Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
 
-Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/sRPxEoZ7BWCiu2c36wdP1h2s2) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
+Queste considerazioni sono state formulate in conclusione di una [conversazione](https://x.com/i/grok/share/g6JR1V6rhBXIK5ZpMFrGYbgNP) con x/Grok, di cui la relativa [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-azerbaijan.txt#?target=_blank) **da aggiornare**, che attraverso la sua ricerca web ha fornito informazioni specifiche sull'sull'abbattimento e dell'assetto geopolitico locale.
+
+### La struttura del potere in Russia
+
+Nell'ambito delle analisi basate su fonti OSINT, lo scopo di fare congetture e stabilire quale grado di confidenza possano avere non è un esercizio di retorica del convincimento, che è tipico della propaganda, ma all'opposto mettere in discussione critica le nostre convinzioni. Tipo che Putin sia lo Zar della Russia.
+
+Considerando la [biografia di Putin](https://it.wikipedia.org/wiki/Vladimir_Putin) è ragionevole pensare che quanto emerso nel caso J2-8243 mostri come in realtà Putin sia molto meno "un dittatore assoluto" di come viene dipinto in Occidente e che in alcuni contesti la sua tendenza alla diplomazia (agente d'intelligence dell'ex-KGB) sia addirittura neutralizzata dalle gerarchie militari.
+
+La guerra in Ucraina ha posto i militari in una posizione di importanza relativamente molto elevata rispetto al passato, ma è difficile pensare che questo caso sia eccezionale piuttosto che sia emerso perché reso molto più evidente dal contesto polarizzato della guerra e dell'accentuata importanza dei militari. Quindi è plausibile che Putin fosse e sia soggetto a pressioni importanti anche prima del 2022.
+
+Se la percezione che gli americani hanno del potere in Russia è troppo semplicistica, e Trump è certamente un presidente che tende ad avere relazioni personali, allora convincere Putin non basta. Questo spiegherebbe perché dopo l'ultima lunga telefonata fra Trump e Putin, la Russia abbia scatenato nella notte fra il 3 e il 4 luglio 2025 immediatamente seguente un dei più importanti attacchi su Kyviv. 
+
+Un messaggio dalle gerarchie militari che Trump potrebbe non aver colto, perché convinto che Putin sia il decisore ultimo ma non orientato alla pace. Quando invece è la nostra percezione dell'altro ad essere diversa dalla realtà. Questa incomprensione della struttura di potere in Russia potrebbe avere risvolti molto pericolosi: consideriamo solo la punta dell'iceberg (Putin) ma come accadde al Titanic non è quella che fa il danno.
+
+La prossima volta, i militari potrebbero mettere Putin in condizione di non potersi rifiutare di girare la terza chiave, che in realtà dovrebbe essere la prima a girare, un piccolo dettaglio sulle tempistiche, seppur ristrette in termini di temporali, che potrebbe essere passato inosservato ed aver fatto fallire il lancio. Infatti, ai sottomarini nucleari (SSBN) l'abilitazione presidenziale viene inviata prima, generalmente giorni o settimane prima, quando possono riceverla perché sono risaliti in superficie o almeno a quota periscopio.
 <!-- 
 https://g.co/gemini/share/7d610cf0b7dc 
 https://chatgpt.com/share/686970a6-9bbc-8012-81ed-7b0c588c94a0
@@ -167,7 +181,7 @@ Perché per quanto possa la propaganda NATO aver stravolto la mente delle person
 
 Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
 
----
+----
 
 ### La cpaziosa questione della Crimea
 
@@ -185,7 +199,7 @@ Vale la pena sottolinearlo, perché altrimenti è difficile capire dalla parte d
 
 Questo, fra le tante altre cose, supporta il discorso di Putin fatto ai suoi generali e poi al Parlamento russo, motivo per il quale conosciamo quel discorso, che in estrema sintesi richiamava l'attenziona a non sottovalutare l'imprevedibilità delle decisioni degli occidentali, e quindi di Zelensky, perché così stupidi (secondo la definizione di Carlo M. Cipolla) da fare un grave danno a se stessi per danneggiare la Russia.
 
-~~~~~~
+---
 
 ### L'anessione della Crimea nel 2014
 
