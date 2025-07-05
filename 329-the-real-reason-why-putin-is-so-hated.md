@@ -102,6 +102,8 @@ Dopo aver valutato più nei dettagli l'abbattimento del volo J2-8243 e le relazi
 
 Inoltre è ragionevole pensare che i generali russi nutrino del risentimento, a causa del conflitto Nagorno-Karabakh (2020), verso l'Azerbaidjan, che ha ottenuto una piena vittoria contro l'Armenia, un più fedele alleato russo, grazie all'aiuto della Turchia e alla neutralità della Russia, su cui probabilmente non erano d'accordo.
 
+Sicché che le gerarchie militari russe abbiano come priorità unica la difesa operativa non stupisce, e in un contesto come la guerra Russo-Ucraina anche è difficile da criticare, però non dovrebbero aver problemi che la diplomazia mitighi gli "effetti collaterali" di questa loro priorità. Il che ci porta al punto di cui sopra, appunto.
+
 +
 ---
 |x|>
