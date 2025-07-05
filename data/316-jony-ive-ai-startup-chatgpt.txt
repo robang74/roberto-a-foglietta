@@ -1,7 +1,8 @@
 Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-*********** ChatGPT su Jony Ive AI-driven startup, information check ***********
+******************* data/316-jony-ive-ai-startup-chatgpt.txt *******************
 
+Chatbot: ChatGPT 4o
 Created: 21h May 2025
 Published 21th May 2025
 Attachment: none
@@ -11,14 +12,12 @@ Attachment: none
 Apple design guru Jony Ive joins OpenAI in $6.5 billion hardware deal -- which
 is the name of Jony Ive Ai' start-up and which kind of devices are involved in?
 
----
+--AI--
 
 Jony Ive's AI hardware startup is named io. Founded in 2024 by Ive alongside
 former Apple colleagues Tang Tan, Evans Hankey, and Scott Cannon, io was
 recently acquired by OpenAI in a $6.5 billion all-equity deal, marking OpenAI's
 significant expansion into consumer hardware.
-
-[WSJ+12Business_Insider+12AI News+12]
 
 While specific details about the devices are still under wraps, the project
 aims to develop a new category of AI-native hardware that offers an alternative
@@ -27,21 +26,18 @@ advanced AI functionalities—such as summarizing information, recognizing
 objects, and managing complex tasks—into a more ambient and less attention-
 demanding experience.
 
-[Quartz+5AI_News+5El_País+5Financial_Express+1AI_News+1]
-
 The first product from this collaboration is anticipated to launch in 2026 .
 Jony Ive's design firm, LoveFrom, will continue to lead the creative direction
 for both OpenAI and io, ensuring a focus on human-centric design in the
 development of these innovative AI devices.
 
-[El_PaísThe_Indian_Express+6AP News+6WSJ+6]
+--HO--
 
----
+> Jony Ive's AI Hardware Startup io
 
-Jony Ive's AI Hardware Startup io -- does this staup have a website? Which is
-the URL?
+does this staup have a website? Which is the URL?
 
----
+--AI--
 
 As of now, io, the AI hardware startup co-founded by Jony Ive, does not appear
 to have a public-facing website. The company has operated in stealth mode,
