@@ -7,7 +7,7 @@
 
 - **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
 +++++
-- **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisys.
+- **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisis.
 
 ---
 
@@ -80,7 +80,7 @@ Anyway, in this story, the real defeat is diplomacy.
 ## Update 2025-07-05
 
 [!INFO]
-3 luglio 2025 - Alta tensione tra Russia e Azerbaijan. Quello che avrebbe dovuto essere un caso di criminalità, è diventato un caso politico. La contrapposizione tra i due Paesi si era acuita dopo l'abbattimento, nel dicembre del 2024, di un aereo dell'Azerbaijan Airlines che causò la morte di 38 persone. Le indagini, e le relative intercettazioni diffuse in seguito, hanno accertato che il velivolo era stato colpito dalla difesa aerea russa, ma Mosca non ha mai riconosciuto la propria responsabilità. Una crisi diplomatica importante, poiché teoricamente Baku è alleata di Mosca però non ha ricevuto da Mosca il sostegno che si sarebbe aspettata. -- [Radio Radicale](https://www.radioradicale.it/scheda/763712/postsovietika-intervista-ad-anna-zafesova)
+3 luglio 2025 - Alta tensione tra Russia e Azerbaijan, dopo un'operazione di polizia che ha portato all'arresto di alcuni cittadini azeri: due di loro sono morti. La contrapposizione si era acuita dopo l'abbattimento, a fine 2024, di un aereo dell'Azerbaijan Airlines che causò la morte di 38 persone. Le indagini, e le relative intercettazioni diffuse in seguito, hanno accertato che il velivolo era stato colpito dalla difesa aerea russa, ma Mosca non ha mai riconosciuto la propria responsabilità. Una crisi diplomatica importante, poiché teoricamente Baku è alleata di Mosca però non ha ricevuto da Mosca il sostegno che si aspettava. -- [Radio Radicale](https://www.radioradicale.it/scheda/763712/postsovietika-intervista-ad-anna-zafesova)
 [/INFO]
 
 In questo articolo viene presentato in modo conciso ma evidente, un **grosso** problema diplomatico, anzi di credibilità, che riguarda le aspettative di un paese satellite e alleato della Russia. Una questione che merita di essere considerata in generale e nel momento da cui è iniziata, a prescindere da come sia formulata oggi.
