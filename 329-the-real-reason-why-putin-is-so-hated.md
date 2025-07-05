@@ -60,9 +60,9 @@ Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazion
 
 Per approfondire questa parte, continua leggendo la [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
 
-+++++
+~~~~~~
 
-## Conclusion
+### Conclusion
 
 We, as Western people, lost the proxy-war against Russia thus we did not managed to torture the witch nor to burn her. Suddenly, our enemy is not anymore Russia but Iran. In such a case it is not because of the love for the State of Israel, but because Iran is planning to threaten us with developing a nuclear bomb.
 
