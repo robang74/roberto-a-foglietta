@@ -41,10 +41,19 @@ html {
 }
 
 body {
-
     justify-content: space-between; /* Distribute space between items */
     align-items: center; /* Vertically align items */
     float: none;
+ /*\,-Remove this parenthesis to set the font size */
+/*)/font-size: 16px;                               /* <- HERE! font base size */
+
+/*  color: #f4f4f4; */
+/*  background-color: #202020; */
+    max-width: 800px;
+    margin: auto;
+}
+
+.body {
  /*\,-Remove this parenthesis to switch the font */
 /**)/
     font-family: "Tahoma mono", sans-serif;
@@ -54,13 +63,6 @@ body {
     font-size: 16px;
     text-align: justify;
     line-height: 1.75;
- /*\,-Remove this parenthesis to set the font size */
-/*)/font-size: 16px;                               /* <- HERE! font base size */
-
-/*  color: #f4f4f4; */
-/*  background-color: #202020; */
-    max-width: 800px;
-    margin: auto;
 }
 
 .emoji { display: inline; position: relative; top: 3px; height: 18px; width: 18px; }
