@@ -73,8 +73,8 @@
     a.topbar { color: #004; border: none; }
 
     * {
-        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari 6 – 15.3, Edge */
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari 6--15.3, Edge */
         print-color-adjust: exact !important;           /* Firefox 97+, Safari 15.4+ */
-        color-adjust: exact !important;                 /* Firefox 48 – 96 */
+        color-adjust: exact !important;                 /* Firefox 48--96 */
     }
 }
