@@ -113,7 +113,7 @@ Se tutti vogliono una fetta di torta più grande di quello che gli spetta, l'uni
 
 ### Quanto vale questo giacimento?
 
-- Valori calcolati da ChatGPT, cfr. [qui](https://chatgpt.com/s/t_686bbc08bfec8191aba98dfa2024b00f)
+- Valori calcolati da ChatGPT, cfr. [qui](https://chatgpt.com/s/t_686bbc08bfec8191aba98dfa2024b00f) o sua [trascrizione](data/331-tajani-il-blu-madonna-e-le-dodici-tribu-chatgpt.txt#?target=_blank)
 
 Non tutto il gas presente può essere recuperato. Si applica un fattore di recupero. Per il gas convenzionale, si assume spesso 70-90% del gas in situ. Usiamo una stima prudente: 80% di 112 miliardi m³ = 89,6 miliardi m³ estratti. 
 
