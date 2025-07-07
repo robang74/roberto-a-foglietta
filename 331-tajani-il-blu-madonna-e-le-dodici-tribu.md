@@ -51,7 +51,7 @@ Sardegna, dove anche le aziende chiave di fornitura di consulenti alla Magneti M
 
 [!INFO]
 
-La scoperta del giacimento "Aphrodite 2", annunciata a giugno 2023, al largo di Gaza in acque contese tra Israele e Autorità Palestinese (AP), e la firma dell'accordo operativo ENI-NewMed Energy (settembre 2023) hanno contribuito alle tensioni pre-attacco Hamas. L’AP, già partner ENI in precedenti accordi, è stata esclusa dal nuovo progetto.
+La scoperta del giacimento "**Aphrodite 2**", annunciata a giugno 2023, al largo di Gaza in acque contese tra Israele e Autorità Palestinese (AP), e la firma dell'accordo operativo ENI-NewMed Energy (settembre 2023) hanno contribuito alle tensioni pre-attacco Hamas. L’AP, già partner ENI in precedenti accordi, è stata esclusa dal nuovo progetto.
 
 Infatti, tra le motivazioni ufficiali dell'attacco del 7 ottobre, che ha di fatto congelato ogni operazione rivolta allo sfruttamento del giacimento (112 miliardi di m³), c’è anche la difesa delle risorse naturali di Gaza. Già nel 2018 Hamas aveva protestato contro lo sfruttamento israeliano del gas offshore e minacciato attacchi.
 
@@ -77,14 +77,44 @@ In realtà i veri motivi sono soprattutto geopolitici. Nel caso di EastMed si tr
 
    - Fonte: [Valori](https://valori.it/eastmed-israele-gasdotto-progetto-ue) giornale di finanza etica ed economia sostenibile, pubblicazione del 2025-05-30.
 
+...
+
+#### Il grande giacimento di Afrodite
+
+[!INFO]
+
+Il giacimento di gas di Afrodite è un giacimento di gas offshore al largo della costa meridionale di Cipro, situato nel blocco di perforazione esplorativa 12 nella Zona Economica Esclusiva marittima del paese e confinante con il giacimento di gas di Yishai, situato nelle acque territoriali israeliane.
+
+Nel marzo 2021, il Ministro dell'Energia israeliano Yuval Steinitz ha incontrato il Ministro dell'Energia cipriota Natasa Pilides a Nicosia. I ministri hanno concordato che le società che operano sul lato cipriota del giacimento di Afrodite avvieranno negoziati con le società che operano sul lato israeliano (Yishai) al fine di concordare le modalità di compensazione delle società israeliane per la loro quota nel giacimento.
+
+Hanno affermato che se le società non raggiungeranno un accordo entro 180 giorni (entro ottobre 2021), la controversia sarà deferita a un esperto internazionale che cercherà di risolvere la questione entro altri 180 giorni (entro marzo 2022). L'accordo tra le società sarà in ogni caso soggetto all'approvazione dei rispettivi governi.
+
+[/INFO]   
+
+   - Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Aphrodite_gas_field) in Inglese, testo tradotto in italiano.
+
+---
+
+### La madonna di Afrodite piange sangue
+   
+Apparentemente non esistono informazioni pubbliche riguardo ad un giacimento **Aphrodite 2** da 112 miliardi di metri cubi, come suggerito da DeepSeek (Cina). A meno che non s'intenda che geologicamente sia **un solo unico giacimento** che va da Cipro a Gaza.
+
+Sotto questa ipotesi, molto plausibile, le varie contese appaiono più una questione di quote di sfruttamento quanto piuttosto che di territorialità. Si noti anche che Cipro è considerata il quartier generale della gestione finanziaria di Zelensky.
+
+Il cui patrimonio personale potrebbe essersi sfumato nel tempo con quello gestito sotto copertura dai servizi segreti Ucraini (SBU) gli stessi a cui è stato imputato la conduzione dell'attacco con i droni alle infrastruttre militari nucleari strattegiche Russe.
+
+Si noti che l'accordo per lo sfruttamento del giacimento di Afrodite avrebbe dovuto concludersi entro ottobre 2021, però il mese dopo è iniziata l'esercitazione NATO in Ucraina che poi è degenerata nell'operazione speciale e poi in guerra propriamente detta, dopo l'attacco con i droni.
+
+Se tutti vogliono una fetta di torta più grande di quello che gli spetta, l'unica maniera per accontentarli è togliere di mezzo almeno un concorrente e fare un bel bagno di sangue per tirare sù il prezzo dell'energia.
+
 +
 
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-
++++++
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
-
++++++
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
 +
