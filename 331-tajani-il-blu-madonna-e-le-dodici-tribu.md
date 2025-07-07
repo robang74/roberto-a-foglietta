@@ -6,8 +6,8 @@
 ## Tajani, il blu madonna e le 12 tribù
 
 - **1st edition**, this article started from a post published on [Linkedin](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) and [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162009061208736), the same day.
-
 - **2nd edition**, le coincidenze non esistono piuttosto il [tempismo](#giacimento-afrodite) è essenziale ma anche rivelatore.
+- **2nd edition**, confronti di [valore](#quanto-vale-questo-giacimento) fra il giacimento Afrodite e l'hype dell'intelligenza artificiale.
 
 ---
 
@@ -109,14 +109,55 @@ Si noti che l'accordo per lo sfruttamento del giacimento di Afrodite avrebbe dov
 
 Se tutti vogliono una fetta di torta più grande di quello che gli spetta, l'unica maniera per accontentarli è togliere di mezzo almeno un concorrente e fare un bel bagno di sangue per tirare sù il prezzo dell'energia.
 
+---
+
+### Quanto vale questo giacimento?
+
+- Valori calcolati da ChatGPT, cfr. [qui](https://chatgpt.com/s/t_686bbc08bfec8191aba98dfa2024b00f)
+
+Non tutto il gas presente può essere recuperato. Si applica un fattore di recupero. Per il gas convenzionale, si assume spesso 70-90% del gas in situ. Usiamo una stima prudente: 80% di 112 miliardi m³ = 89,6 miliardi m³ estratti. 
+
+Il gas in giacimento è a condizioni di pressione più elevata, approssimiamo 1 m³ in giacimento a 1,05 Smc (standard metri cubi): 89,6 miliardi m³ × 1,05 = ~94 miliardi di Smc. 
+
+Riguardo al prezzo da applicare, ci sono tre opzioni principali:
+
+| Prezzo                          | Contesto                             | Range (€ / Smc) |
+| ------------------------------- | ------------------------------------ | --------------- |
+| A bocca di pozzo (wellhead)     | valore del gas prima del trattamento | 0,05 -- 0,15    |
+| Prezzo all’ingrosso (PSV medio) | mercato italiano medio 2023–2024     | 0,30 -- 0,50    |
+| Prezzo al consumo               | mercato tutelato/libero finale       | 0,40 -- 0,60+   |
+
+Opzione A: Valore minimo (pre-estrazione, a bocca di pozzo)
+   - → 94 miliardi Smc × 0,10 €/Smc ≈ €9,4 miliardi eq. $10,2 miliardi, circa.
+
+Opzione B: Valore all’ingrosso (mercato PSV)
+   - → 94 miliardi Smc × 0,40 €/Smc ≈ €37,6 miliardi eq. $41 miliardi, circa.
+
+Opzione C: Valore commerciale finale (teorico)
+   - → 94 miliardi Smc × 0,55 €/Smc ≈ €51,7 miliardi eq. $57 miliardi, circa.
+
+Quest'ultima (C) è più una proiezione potenziale di fatturato, non il valore reale del giacimento in sé (A).
+
+...
+
+#### Confronti di valore
+
+Per fare un confronto del valore del denaro in gioco, rispetto al valore di Afrodite in Gaza stimato fra $10-13 miliardi di dollari per un contro valore fatturato fra $55-65 miliardi:
+
+- Trump ha raccolto oltre $3 trilioni (tremila miliardi) di investimenti per cloud e AI da tre paesi arabi.
++++++
+- Meta ha pagato $15 miliardi per Scale AI che fa [questo](https://robang74.github.io/chatbots-for-fun/html/fix-your-data-a-postponing-excuse.html) e Sam Altman $6.5 miliardi per Jony Ive per [questo](316-sam-altman-come-fosse-la-luis-vuitton-di-qualcosa.md#?target=_blank)
+
+Quindi, o siammo alla follia indotta o naturale, oppure il dollaro è carta straccia quindi il gas naturale è oro, oppure entrambe le cose a venire. Certamente, stiamo osservando delle dinamiche che non hanno un corrispettivo ne in economia e neppure in finanza, pacifico!
+
 +
 
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-
++++++
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
-
++++++
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
 +
