@@ -109,7 +109,7 @@ Si noti che l'accordo per lo sfruttamento del giacimento di Afrodite avrebbe dov
 
 Se tutti vogliono una fetta di torta più grande di quello che gli spetta, l'unica maniera per accontentarli è togliere di mezzo almeno un concorrente e fare un bel bagno di sangue per tirare sù il prezzo dell'energia.
 
----
+----
 
 ### Quanto vale questo giacimento?
 
@@ -153,17 +153,23 @@ Quindi, o siammo alla follia indotta o naturale, perché altrimenti non si spieg
 
 Stiamo osservando delle dinamiche che non hanno un corrispettivo ne in economia e neppure in finanza!
 
+[!INFO]
+
+6 luglio 2025 - Il think tank di Tony Blair ha lavorato al piano "Trump Riviera" per Gaza. Lo staff del TBI ha lavorato su dossier che includevano idee simili a quelle mostrate nel controverso video pubblicato dal presidente degli Stati Uniti all'inizio di quest'anno. Il TBI non ha redatto né approvato la presentazione finale, presentata all'amministrazione Trump, che suggeriva di pagare mezzo milione di palestinesi per lasciare Gaza. -- [The Telegraph](https://www.telegraph.co.uk/politics/2025/07/06/tony-blair-think-tank-worked-trump-riviera-plan-for-gaza)
+
+[/INFO]
+
 +
 
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-+++++
+
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
-+++++
+
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
-+++++
++
 
 ## Share alike
 
