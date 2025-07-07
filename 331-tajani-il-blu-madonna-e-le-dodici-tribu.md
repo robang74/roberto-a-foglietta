@@ -7,7 +7,7 @@
 
 - **1st edition**, this article started from a post published on [Linkedin](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) and [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162009061208736), the same day.
 
-- **2nd edition**, le coincidenze non esistono piuttosto il [tempismo](#la-madonna-di-afrodite-piange-sangue) è essenziale ma anche rivelatore.
+- **2nd edition**, le coincidenze non esistono piuttosto il [tempismo](#giacimento-afrodite) è essenziale ma anche rivelatore.
 
 ---
 
@@ -80,7 +80,7 @@ In realtà i veri motivi sono soprattutto geopolitici. Nel caso di EastMed si tr
    - Fonte: [Valori](https://valori.it/eastmed-israele-gasdotto-progetto-ue) giornale di finanza etica ed economia sostenibile, pubblicazione del 2025-05-30.
 
 ...
-
+<span id="giacimento-afrodite"></span>
 #### Il grande giacimento di Afrodite
 
 [!INFO]
