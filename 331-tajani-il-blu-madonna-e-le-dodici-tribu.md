@@ -145,10 +145,13 @@ Quest'ultima (C) è più una proiezione potenziale di fatturato, non il valore r
 Per fare un confronto del valore del denaro in gioco, rispetto al valore di Afrodite in Gaza stimato $10-13 miliardi per un fatturato come materia prima in bolletta al consumatore finale fra $55-65 miliardi:
 
 - Trump ha raccolto oltre $3 trilioni (tremila miliardi) di investimenti per cloud e AI da tre paesi arabi.
-+++++
 - Meta ha pagato $15 miliardi per Scale AI che fa [questo](https://robang74.github.io/chatbots-for-fun/html/fix-your-data-a-postponing-excuse.html) e Sam Altman $6.5 miliardi per Jony Ive per [questo](316-sam-altman-come-fosse-la-luis-vuitton-di-qualcosa.md#?target=_blank)
 
-Quindi, o siammo alla follia indotta o naturale, oppure il dollaro è carta straccia quindi il gas naturale è oro, oppure entrambe le cose a venire. Certamente, stiamo osservando delle dinamiche che non hanno un corrispettivo ne in economia e neppure in finanza, pacifico!
+Quindi, o siammo alla follia indotta o naturale, perché altrimenti non si spiegano certe scelte e numeri:
+
+- US authorizes the sale of $1.4B of weapons to the United Arab Emirates [Le Monde](https://www.lemonde.fr/en/international/article/2025/05/13/us-state-department-has-authorized-the-sale-of-1-4-billion-worth-of-weapons-to-the-united-arab-emirates_6741209_4.html) &nbsp; (2025-05-13)
+
+Stiamo osservando delle dinamiche che non hanno un corrispettivo ne in economia e neppure in finanza!
 
 +
 
@@ -160,7 +163,7 @@ Quindi, o siammo alla follia indotta o naturale, oppure il dollaro è carta stra
 +++++
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
-+
++++++
 
 ## Share alike
 
