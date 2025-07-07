@@ -7,6 +7,8 @@
 
 - **1st edition**, this article started from a post published on [Linkedin](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) and [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162009061208736), the same day.
 
+- **2nd edition**, le coincidenze non esistono piuttosto il [tempismo](#la-madonna-di-afrodite-piange-sangue) è essenziale ma anche rivelatore.
+
 ---
 
 ### Il delirio mariano è solo la punta dell'iceberg
@@ -112,9 +114,9 @@ Se tutti vogliono una fetta di torta più grande di quello che gli spetta, l'uni
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-+++++
+
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
-+++++
+
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 
 +
