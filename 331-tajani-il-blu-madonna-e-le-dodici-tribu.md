@@ -7,7 +7,7 @@
 
 - **1st edition**, this article started from a post published on [Linkedin](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) and [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162009061208736), the same day.
 - **2nd edition**, le coincidenze non esistono piuttosto il [tempismo](#giacimento-afrodite) è essenziale ma anche rivelatore.
-- **2nd edition**, confronti di [valore](#quanto-vale-questo-giacimento) fra il giacimento Afrodite e l'hype dell'intelligenza artificiale.
+- **3rd edition**, confronti di [valore](#quanto-vale-questo-giacimento) fra il giacimento Afrodite e l'hype dell'intelligenza artificiale.
 
 ---
 
