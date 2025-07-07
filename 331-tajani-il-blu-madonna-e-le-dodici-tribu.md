@@ -41,7 +41,7 @@ Il 25 giugno, all’indomani della tregua imposta da Donald Trump dopo dodici gi
 
    - Fonte della rassegna stampa: [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#follow-up-news-updated-at-2025-07-05?target=_blank), aggiornamento del 2025-07-05.
 
-Vale la pena di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'attacco di Hamas del 7 ottobre 2023.
+Vale la pena di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'[attacco di Hamas](https://en.wikipedia.org/wiki/October_7_attacks) del 7 ottobre 2023.
 
 Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi dati delle prospezioni geologiche orientate alla scoperta e valutazione di redditività di nuovi (e attivi) giacimenti in Sardegna.
 
