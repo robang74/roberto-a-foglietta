@@ -26,7 +26,7 @@ Però, il loro ottimismo li porta a pensare che la sorte di Hunter Biden, sia do
 La sicurezza messianica di Netanyahu che "sa lui come risolvere la questione" con gli altri paesi arabi vicino, non è affatto suffragata dai fatti, anzi.
 
 ...
-
+<span id="crisi-israele-iran"></span>
 #### Sviluppi della crisi Israele-Iran
 
 [!INFO]
@@ -48,7 +48,7 @@ Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi
 Sardegna, dove anche le aziende chiave di fornitura di consulenti alla Magneti Marelli, dal 10 giungo in Chapter 11 con un'esposizione di quasi $5 miliardi di cui l'80% a rischio, avevano (hanno) sede legale.
 
 ...
-
+<span id="gaza-escalation"></span>
 #### L'escalation della crisi a Gaza
 
 [!INFO]
@@ -66,7 +66,7 @@ Con la guerra in stallo, il progressivo isolamento di Israele, e la crisi con l'
    - Rassegna stampa a redazione umana e cortesemente assistita da DeepSeek AI, chatboot cinese.
 
 ...
-
+<span id="eastmed-israele"></span>
 #### EastMed e i legami con Israele
 
 [!INFO]
