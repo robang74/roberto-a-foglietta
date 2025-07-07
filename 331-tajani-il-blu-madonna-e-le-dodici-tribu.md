@@ -142,7 +142,7 @@ Quest'ultima (C) è più una proiezione potenziale di fatturato, non il valore r
 
 #### Confronti di valore
 
-Per fare un confronto del valore del denaro in gioco, rispetto al valore di Afrodite in Gaza stimato fra $10-13 miliardi di dollari per un contro valore fatturato fra $55-65 miliardi:
+Per fare un confronto del valore del denaro in gioco, rispetto al valore di Afrodite in Gaza stimato $10-13 miliardi per un fatturato come materia prima in bolletta al consumatore finale fra $55-65 miliardi:
 
 - Trump ha raccolto oltre $3 trilioni (tremila miliardi) di investimenti per cloud e AI da tre paesi arabi.
 +++++
