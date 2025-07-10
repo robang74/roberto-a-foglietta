@@ -70,10 +70,36 @@ Ciò significa che gli Stati Uniti non hanno abbastanza centrifughe per arricchi
 ### Aggiornamento #2
 
 [!INFO]
-**7 luglio 2025** - Il potente gas serra di cui dovremmo parlare di più. Il metano ha un impatto sul clima molto maggiore dell'anidride carbonica nel breve termine, e ridurne le emissioni sarebbe più facile. Il metano è meno presente nell’atmosfera rispetto all’anidride carbonica, ma ha una capacità molto più alta di assorbire e trattenere il calore nell’atmosfera, contribuendo quindi fortemente al riscaldamento globale. -- [Il Post](https://www.ilpost.it/2025/07/07/metano-effetto-serra/)
+**7 luglio 2025** - Il metano, seppur in concentrazioni molto minori nell’atmosfera rispetto all’anidride carbonica, ha una capacità molto più alta di assorbire e trattenere il calore, contribuendo maggiormente all'effetto serra. Ridurne le emissioni, o la concentrazione in atmosfera, è pure più facile. <!-- Il Post https://www.ilpost.it/2025/07/07/metano-effetto-serra questo articolo è complessivamente un collage di vaccate ideologiche, per capirlo basta vedere come ho dovuto riscrivere la frase sopra: l'effetto serra è un questione, il riscaldamento globale un'altra questione sebbene correlata all'effetto serra ma non solo, infine il cambiamento climatico è ancora un'altra questione sebbene collegate alle prime due ma non nella maniera intituiva che si penserebbe piuttosto fenomeni metereologici (incluso freddo) più intensi e stagioni meno regolari. //-->
 [/INFO]
 
 <div align="center"><img class="wbsketch darkinv" src="img/270-il-futuro-non-e-green-ma-mixed-img-003.png" width="800"><br/></div>
+
+Il GWP (Global Warming Potential) è un'unità di misura comparativa che esprime la capacità di un gas serra di contribuire al riscaldamento globale rispetto all'anidride carbonica (CO2), alla quale viene assegnato convenzionalmente un valore unitario (normalizzazione). Questo significa che il GWP di altri gas è relativo a quello della CO2, ma può cambiare in un determinato arco temporale.
+
+Ad esempio, una tonnellata di metano (CH4) rilasciata in atmosfera ha un impatto molto più significativo che se fosse CO2. Neell'arco di 20 anni, una tonnellata di metano scalda quanto 84 tonnellate di anidride carbonica. Quindi il suo GWP a 20 anni è 84. Se si considera un orizzonte temporale più lungo, come 100 anni, l'effetto dell'emissione originale del metano diminuisce, pur rimanendo notevole, circa 28. 
+
+Questa differenza nel GWP tra i due periodi temporali sottolinea come l'impatto dei gas serra possa variare notevolmente a seconda della loro persistenza nell'atmosfera e della loro capacità di assorbire energia.
+
++
+
+## Related articles
+
+- [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md) &nbsp; (2025-06-13)
+
+- [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md) &nbsp; (2025-06-07)
+
+- [Mr. Spock about financial capitalis](308-mr-spock-about-finantial-capitalism.md) &nbsp; (2025-04-17)
+
+- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md) &nbsp; (2025-03-07)
+
+- [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md) &nbsp; (2024-12-14)
+
+- [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md) &nbsp; (2024-07-31)
+
+- [Riciclo di rifuti pregiati](239-riciclo-di-rifiuti-pregiati.md) &nbsp; (2024-01-23)
+
+- [Opinions, data and method](016-opinions-data-and-method.md) &nbsp; (2016-09-03)
 
 +
 
