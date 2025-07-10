@@ -1,12 +1,11 @@
 <div id="firstdiv" created="2024-07-02:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="wbsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-001.jpg"><br/></div>
 
 ## Il futuro non è green ma mixed
 
-* Published Jul 2, 2024 - origin [Linkedin](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) 
-
-Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_il-futuro-non-%C3%A8-green-ma-mixed-28-giugno-activity-7213681543913889792-OgH8) su LinkedIn pubblicato il 1° luglio 2024
+* Published Jul 2, 2024 -- origin [Linkedin](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) -- Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_il-futuro-non-%C3%A8-green-ma-mixed-28-giugno-activity-7213681543913889792-OgH8) pubblicato il 1° luglio 2024
 
 ---
 
@@ -48,13 +47,15 @@ Il gas per il riscaldamento e il petrolio per le auto e materie plastiche.Metter
 
 In generale, anche questo caso ci dimostra come sia deleterio per l'Occidente avere una direzione unica imposta da un singolo centro di potere che esso sia Washington piuttosto che l'OMS. Diversificazione!
 
----
++
 
-### Aggiornamento
+### Aggiornamento #1
 
-GLI USA IN GINOCCHIO SENZA ROSATOM
+Gli USA sarebbero in ginocchio senza le forniture di combustibile nucleare da parte di Rosatom (Russia).
 
-> **12th September 2024** - Putin calls for export limits on Russian nickel, uranium and titanium. Russia’s president believes that restrictions on key metals would serve as retaliation against Western sanctions.
+[!INFO]
+**12th September 2024** - Putin calls for export limits on Russian nickel, uranium and titanium. Russia’s president believes that restrictions on key metals would serve as retaliation against Western sanctions.
+[/INFO]
 
 Questa notizia è stata completamente trascurata nonostante sia di quasi 10 giorni fa. Invece, questo tipo di restrizioni può avere un grande impatto, soprattutto sull'economia degli Stati Uniti e sulla loro capacità di rifornirsi di energia dalle centrali nucleari. 
 
@@ -64,7 +65,17 @@ Ciò significa che gli Stati Uniti non hanno abbastanza centrifughe per arricchi
 
 * dall'incipit di un mio LinkedIn [post](https://[lnkd.in/dKQ6nYRC](lnkd.in/dKQ6nYRC) scritto in inglese e qui tradotto in italiano.
 
-<br/>
++
+
+### Aggiornamento #2
+
+[!INFO]
+**7 luglio 2025** - Il potente gas serra di cui dovremmo parlare di più. Il metano ha un impatto sul clima molto maggiore dell'anidride carbonica nel breve termine, e ridurne le emissioni sarebbe più facile. Il metano è meno presente nell’atmosfera rispetto all’anidride carbonica, ma ha una capacità molto più alta di assorbire e trattenere il calore nell’atmosfera, contribuendo quindi fortemente al riscaldamento globale. -- [Il Post](https://www.ilpost.it/2025/07/07/metano-effetto-serra/)
+[/INFO]
+
+<div align="center"><img class="wbsketch darkinv" src="img/270-il-futuro-non-e-green-ma-mixed-img-003.png" width="800"><br/></div>
+
++
 
 ## Share alike
 
