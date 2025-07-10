@@ -1,4 +1,5 @@
 <div id="firstdiv" created=":-2" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: A4; margin: 0.36in 13.88mm 0.36in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div class="pagehead" align="center"><img class="wbsketch paleinv" src="img/warp-speed-jump.png" width="800"><br/></div>
 
@@ -20,7 +21,7 @@
 
 [**`IT`**] La raccolta di PDF é divisa in due cartelle [pdf.todo](pdf.todo/index.html?target=_blank) e [pdf.done](pdf.done/index.html?target=_blank) a seconda che siano già stati convertiti in formato markdown o meno. Perché lo scopo di questo progetto è anche quello di revisionare e dare una connotazione coerente e coesa all'insieme degli scritti, non solo di raccoglierli in un unico repository.
 
-...
+....
 
 ### Update 2025-02-24
 
@@ -44,7 +45,7 @@
 
 [**`IT`**] Dopo il caso Paragon è emerso anche il caso Graphite -- un altro spyware che i servizi segreti utilizzavano per monitorare le attività online di alcune persone e che a quanto pare generava anche anomalie nel traffico dei social network, innervosendo i sistemi NIDS/SIEM -- Linkedin ha riattivato spontaneamente il mio account. Credo che a questo risultato abbiano contribuito anche le rivelazioni del New York Times (The Secret History of the War in Ukraine) sulle attività militari ucraine in Germania, iniziate pochi giorni dopo l'inizio delle ostilità belliche. Sembra un pesce d'aprile invece è così. Infatti ho atteso il giorno dopo per esserne certo, prima di fare il commit di questo aggiornameto.
 
-+
+++++
 
 ## Data management
 
@@ -60,11 +61,11 @@
 
 [**`IT`**] Questo è un sito web creato da una combinazione di tecnologie del '70 e del 2020-30. È una prova-di-concetto perché la sua specifica implementazione non è scalabile, ma lo sono invece le espressioni regolari. Perché è importante? Per via dell'approccio generale: un linguaggio markdown esteso che può essere elaborato da espressioni regolari, quasi completamente riga per riga, è il modo più efficiente per memorizzare i dati in un formato leggero che può essere facilmente e splendidamente convertito in HTML, decorato con i CSS e anche stampato in PDF da qualsiasi browser moderno e utilizzando la potenza di calcolo della macchina locale.
 
-[**`EN`**] Hence: less data storage, less power, xMD but simple and text editor editable, ASCII compliant, JS web-GUI for user-friendly editing. Moreover, anyone familiar with github or wiki/pedia markdown will also feel comfortable with an extended version. (cfr. Markdown [Myst](https://mystmd.org/spec) extented specs)
+[**`EN`**] Hence: less data storage, less power, xMD but simple and text editor editable, ASCII compliant, JS web-GUI for user-friendly editing. Moreover, anyone familiar with github or wiki/pedia markdown will also feel comfortable with an extended version. (cfr. [Myst](https://mystmd.org/spec) markdown extension specs)
 
-[**`IT`**] Quindi: minore spazio disco, meno energia, xMD ma semplice e modificabile con un editor di testo, conforme ad ASCII, web-GUI JS per un editing facile da usare. Inoltre, chiunque conosca il markdown di github o wiki/pedia si sentirà a suo agio anche con una versione estesa.  (cfr. Markdown [Myst](https://mystmd.org/spec) extented specs)
+[**`IT`**] Quindi: minore spazio disco, meno energia, xMD ma semplice e modificabile con un editor di testo, conforme ad ASCII, web-GUI JS per un editing facile da usare. Inoltre, chiunque conosca il markdown di github o wiki/pedia si sentirà a suo agio anche con una versione estesa.  (cfr. [Myst](https://mystmd.org/spec) markdown extension specs)
 
-+
+++++
 
 ## The memory of Internet
 
@@ -72,7 +73,7 @@
 
 [**`IT`**] La memoria di Internet è diventata un meme, un concetto emerso dal prendere atto che in pratica è impossibile rimuovere delle informazioni una volta che esse sono state condivise in Internet. Coloro che poco o niente hanno capito di questa nuova tecnologia si sono inventati il diritto all'oblio più che altro per supportare il mito della "rinascita" o più prosaicamente detta "*revergination*" di politici o supposti tali che sono stati trombati dalla storia ancora più che dalle urne. Per togliere ogni velleità di dubbio all'idea di opporsi alla modernità tecnologica, penso basti un'immagine.
 
-<div align="center"><img class="paleinv" src="img/cloud-document-collection-preview.png"><br/><i>Click</i> <a href="img/cloud-document-collection.png" target="_blank">here</a> <i>to view in full the screenshot</i></div><br/>
+<div align="center"><img class="paleinv" src="img/cloud-document-collection-preview.png" width="800"><br/><i>Click</i> <a href="img/cloud-document-collection.png" target="_blank">here</a> <i>to view in full the screenshot</i></div><br/>
 
 [**`EN`**]  Most of the two billion Internet users have a cloud drive like this. Many have more than one and each drive keeps a history of documents, their revisions and versions, sometimes even deleted ones as Apple has shown to us. Everyone of these accounts can upload data again in public or share it in public among groups or in private among close friends. Moreover, between any two people chosen from these 2 billion, there are no more than 7 personal connections to reach anyone else on this planet. This means that, in the worst case, a document can travel around the world in 7 days if it is urgent and necessary.
 
