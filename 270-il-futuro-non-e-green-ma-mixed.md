@@ -80,6 +80,24 @@ Il GWP (Global Warming Potential) è un'unità di misura comparativa che esprime
 Ad esempio, una tonnellata di metano (CH4) rilasciata in atmosfera ha un impatto molto più significativo che se fosse CO2. Neell'arco di 20 anni, una tonnellata di metano scalda quanto 84 tonnellate di anidride carbonica. Quindi il suo GWP a 20 anni è 84. Se si considera un orizzonte temporale più lungo, come 100 anni, l'effetto dell'emissione originale del metano diminuisce, pur rimanendo notevole, circa 28. 
 
 Questa differenza nel GWP tra i due periodi temporali sottolinea come l'impatto dei gas serra possa variare notevolmente a seconda della loro persistenza nell'atmosfera e della loro capacità di assorbire energia.
+++++
+#### Black-out in Italia
+
+[!INFO]
+**17 giugno 2025** - Anche oggi, dopo quattro giorni di problemi. si segnalano blackout (10h) nel centro di Torino. Sono senza corrente elettrica diverse zone del centro comprese nella zona di via Garibaldi, piazza Castello, via XX Settembre.
+[/INFO]
+
+[!INFO]
+**8 luglio 2025** - Black-out Italia, al caldo Roma e Milano ma anche Firenze e Bergamo. Tutta colpa dei condizionatori accesi giorno e notte. A essere investite dalla criticità sia abitazioni che negozi.
+[/INFO]
+
+Immaginate cosa possa succedere se dovessimo alimentare 40 milioni di veicoli elettrici, senza una rete di fornitura adeguata al carico e centrali nucleari per sostenerlo in ogni condizione h24 e 7gg/settimana.
+
+[!INFO]
+In Italia, ci sono circa 40 milioni di automobili in circolazione. Questo dato include tutti i tipi di veicoli, dalle autovetture ai veicoli commerciali, ma non le moto. L'Italia è anche il paese con il più alto tasso di motorizzazione nell'Unione Europea, con circa 694 auto ogni 1000 abitanti.
+[/INFO]
+
+Buona fortuna a chi pensa di poter gestire la transizione energetica in questo modo, con le ideologie piuttosto che con scienza, tecnica e senso della realtà!
 
 +
 
