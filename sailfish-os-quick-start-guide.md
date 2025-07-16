@@ -3,7 +3,7 @@
 
 ## Quick Start Guide v1.7.5.1
 
-- **html edition** -- created on 16th July 2025: format conversion, aesthetic changes and printable in PDF.
+- **Update 2025-07-16** -- html edition: format conversion, aesthetic changes and printable in PDF.
 
 This is the guide originally written for the SailFish OS community forum and reported here in Github .md format. If you are going to use this guide for commercial purposes, feel free to contact me to negotiate a license for your business-specific needs.
 
