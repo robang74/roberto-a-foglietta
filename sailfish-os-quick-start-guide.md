@@ -1,7 +1,9 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-<!-- style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style //-->
+<div id="firstdiv" created="2023-08-06:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 ## Quick Start Guide v1.7.5.1
+
+- **html edition** -- created on 16th July 2025: format conversion, aesthetic changes and printable in PDF.
 
 This is the guide originally written for the SailFish OS community forum and reported here in Github .md format. If you are going to use this guide for commercial purposes, feel free to contact me to negotiate a license for your business-specific needs.
 
@@ -32,7 +34,7 @@ The alternative to Sony Emma flashtool is [Xperifirm](https://xperifirmtool.com/
 
 This guide provides some practical knowledge for integrating Jolla's official procedure.
 
----
+----
 
 ### USB PROBLEMS
 
@@ -139,7 +141,7 @@ Install the *Android Support* from the Jolla market, then the `F-Droid` market a
 
 These choices can be made at the first boot of your newly flashed smartphone.
 
----
+----
 
 ### MICRO-G CONFIG
 
@@ -192,7 +194,7 @@ For future `SFOS` versions or other architectures, choose from here:
 
 Deactivate the *Allow untrusted software* option, not now but after having installed `StoreMan` and `UpToDown`, see below.
 
----
+----
 
 ### STOREMAN
 
@@ -230,7 +232,7 @@ Available in the `Chum` market as `Patch Manager` for `SailFishOS`, here:
 
 The `Patch Manager` is not an application without an icon but adds a voice in the `Settings` menu.
 
----
+~~~
 
 ### APPS INSTALLATION
 
@@ -622,7 +624,7 @@ After the changes, **disable** the developer mode and set the high precision mod
 
 At this point, you can switch on the network, the `GPS` and give it a try indoors.
 
----
+----
 
 ### MOBILE DATA
 
