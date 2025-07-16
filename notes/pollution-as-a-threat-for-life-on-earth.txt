@@ -33,3 +33,5 @@ So, as long as we do not create a completely synthetic form of life (like a left
 This concept of evolution by steps that avoid (statistically speaking) giant leaps is explained here, into my prompts to the AI, naturally.
 
 https://robang74.github.io/chatgpt-answered-prompts/html/la-semplicita-delle-direttive-in-caso-di-crisi.html#:~:text=salute%20della%20popolazione.-,Prompt%20%2325,-Partiamo%20dal%20presupposto
+
+Moral: “If the rate of change on the outside exceeds the rate of change on the inside, the end is near.” -- Jack Welch, CEO of General Electric.
