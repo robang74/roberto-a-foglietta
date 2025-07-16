@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sailfish-os-quick-start-guide</title>
+        <meta charset='UTF-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <link rel='shortcut icon' type='image/x-icon' href='favicon.ico?'>
+        <link rel='stylesheet' href='default.css'>
+        <link rel='stylesheet' href='../intl/intlflg.css'>
+        <!-- here begins the Javascript... why for the hell I got here? //-->
+        <meta http-equiv='Content-Script-Type' content='text/javascript'>
+        <link rel='stylesheet' href='ucustom.css' id='customStylesheet' media='screen'>
+        <script>const cssdir='';</script note='global variable'>
+        <script src='css-style-changer.js' defer></script>
+        <link rel='stylesheet' href='printer.css' media='print'>
+    </head>
+    <body class=body>
+<p class='topbar'></p>
+<div class='topbar' width='800px' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;</b> &thinsp;&mdash;&thinsp; &#8543;&#8239;release: <b class='topbar'>2025-07-16&nbsp;<sup class='date-type topbar' id='datenote'>(&hairsp;<a href='#date-legenda' class='date-type topbar'>3</a>&hairsp;)</sup></b>  &thinsp;&mdash;&thinsp; rev.: <b class='topbar
+'>1</b rev_num='
+'> &thinsp;&mdash;&thinsp; transl.:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/sailfish-os-quick-start-guide?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en-EN&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>EN</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/sailfish-os-quick-start-guide?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/sailfish-os-quick-start-guide?_x_tr_sl=it&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/sailfish-os-quick-start-guide?_x_tr_sl=it&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &thinsp;&mdash;&thinsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a> <span id='printlink'>&thinsp;&mdash;&thinsp; <b>⎙</b>&hairsp;: <a aria-label='print this page' class='topbar' href='javascript:window.print()'>PDF</a></span>&nbsp;</div>
+<div id="firstdiv">
+<!-- style>#printlink { display: inline; } &commat;page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } &commat;media print { html { zoom: 100%; } }</style //-->
+<p class='topbar'></p>
+<H2 id="quick-start-guide-v1751">Quick Start Guide v1.7.5.1</H2>
+<p></p>
+This is the guide originally written for the SailFish OS community forum and reported here in Github .md format. If you are going to use this guide for commercial purposes, feel free to contact me to negotiate a license for your business-specific needs.
+<p></p>
+<hr>
+<p></p>
+<H3 id="quick-access">QUICK ACCESS</H3>
+<p></p>
+If you want to use the URL links in this guide for configuring your <tt>SailFish OS</tt> smartphone, scan the <tt>QR</tt>-code below with the default native camera app:
+<p></p>
+<blockquote><img src="../img/quick-start-guide-qrcode.png" width="175px" height="175px"><br><br>short url: https://t.ly/rD8LD</blockquote>
+<p></p>
+Then open the encoded URL with the default native browser and save it in your bookmark for future and faster access to this guide.
+<p></p>
+<hr>
+<p></p>
+<H3 id="android-version">ANDROID VERSION</H3>
+<p></p>
+Currently, the Xperia 10 II is delivered with Android 12 (since 2022-06-13, last update: 2022-07-27) while the Xperia 10 III (since 2022-06-13, last update: 2022-07-27) is delivered with Android 13.
+<p></p>
+<li><a href="https://developer.sony.com/open-source/aosp-on-xperia-open-devices/latest-updates#secondary-menu-desktop" target='_blank' rel='noopener noreferrer'>Sony Xperia list of ASOP available</a></li>
+<p></p>
+Reading the <a href="https://jolla.com/sailfishxinstall/" target='_blank' rel='noopener noreferrer'>flashing procedure described by Jolla</a>, the suggested and almost required version is Android 11 instead. Therefore, you need to re-flash your smartphone in order to downgrade to the Android version. To accomplish this task, you need to download the <a href="https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/flash-tool" target='_blank' rel='noopener noreferrer'>Sony Emma flashing tool</a> which runs only on Microsoft Windows, and follow these instructions about <a href="https://docs.sailfishos.org/Support/Help_Articles/Managing_Sailfish_OS/Reinstalling_Sailfish_OS/#reverting-xperia-device-to-android-os-and-reinstalling-sailfish-os" target='_blank' rel='noopener noreferrer'>reverting a Xperia device to Android OS</a>.
+<p></p>
+The alternative to Sony Emma flashtool is <a href="https://xperifirmtool.com/category/tool" target='_blank' rel='noopener noreferrer'>Xperifirm</a> which requires <tt>mono</tt> to run on a GNU/Linux distribution and has limited access to the firmware. For example, the Xperia 10 III is not supported, and the Xperia 10 II offers geographic areas customized firmware based on Android 12 and just a couple of other alternatives, which are customization.
+<p></p>
+<li><a href="/forum/knowhow/flashing-tools-for-Xperia-phones.md">Sony Xperia flashing guide</a></li>
+<p></p>
+This guide provides some practical knowledge for integrating Jolla's official procedure.
+<p></p>
+<hr>
+<p></p>
+<H3 id="usb-problems">USB PROBLEMS</H3>
+<p></p>
+During the <a href="https://jolla.com/sailfishxinstall/" target='_blank' rel='noopener noreferrer'>flashing procedure described by Jolla</a>, you might encounter two different problems with <tt>fastboot</tt> util and <tt>flash.sh</tt>: the <tt>USB</tt> v3.x issue and <tt>USB</tt> sleeping after the first <tt>fastboot</tt> command, which will make your smartphone reboot, preventing the <tt>flash.sh</tt> script from completing its job.
+<p></p>
+To solve these two problems at once, use a <tt>USB</tt> v2.0-only hub and connect to it a <tt>USB</tt> stick, which your system should mount. This is because the <tt>BIOS</tt> of some laptops is configured to give energy even if the <tt>USB</tt>/<tt>PC</tt> is sleeping, but with a <tt>USB</tt> stick mounted, the <tt>OS</tt> will know that there is a data transfer in place, and it should keep the <tt>USB</tt> port awake.
+<p></p>
+The alternative is to give this script a try. It fixed both issues on my USB v3.x-only laptop:
+<p></p>
+<li>https://coderus.openrepos.net/pm2/project/fastboot_usb3fix_script</li>
+<p></p>
+It is a script delivered by <tt>Patch Manager</tt> but it is for your laptop/<tt>PC</tt> not for <tt>SFOS</tt>. It also has a double nature: a patch that can be applied to have the script and a shell script embedded into the patch header, both!
+<p></p>
+The script will unbind all the <tt>USB</tt> devices connected to the <tt>xhci_pci</tt> kernel driver, set the communication standard to <tt>USB</tt> v2.0 with an always-on powering policy, and then bind all the devices back.
+<p></p>
+<code>
+sudo ./fastboot-usb3fix.sh 2<br>
+sudo /bin/bash flash.sh #--force<br>
+sudo ./fastboot-usb3fix.sh 3
+</code>
+<p></p>
+The last command is <tt>3</tt> because you want to return to the <tt>USB</tt> v3.x communication standard due to its speed and performance improvements over <tt>USB</tt> v2.0.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>fasboot usage</b>
+<p></p>
+Here is a way to re-flash the vendor backup partition despite <tt>USB</tt> problems:
+<p></p>
+<code>
+fastboot flash oem_b SW_binaries_&ast;_seine.img<br>
+ #< waiting for any device ><br>
+ #<br>
+ # connect the powered off device keeping the volume-up<br>
+ # key pressed until the notifications led become blue<br>
+<p></p>
+fastboot reboot<br>
+ # This line above makes your smartphone reboot.<br>
+</code>
+<p></p>
+It leverages the fact that <tt>fastboot</tt> has been executed before the smartphone is connected, and thus it sets the <tt>USB</tt> parameters before the smartphone is engaged. This trick will work for a single run of <tt>fastboot</tt>. Hence, it will not work with <tt>flash.sh</tt> unless the <tt>USB</tt> v2.0-only mode is set.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>flash.sh tricks</b>
+<p></p>
+However, the <tt>flash.sh</tt> procedure can also be done manually, partition per partition, and the list of actions to follow is listed here below:
+<p></p>
+<code>
+$ head -11 flash-config.sh <br>
+VALID_PRODUCTS=("XQ-AU52")<br>
+<p></p>
+FLASH_OPS=(<br>
+  "getvar_fail_if secure yes"<br>
+  "flash boot_a hybris-boot.img"<br>
+  "flash boot_b hybris-boot.img"<br>
+  "flash dtbo_a dtbo.img"<br>
+  "flash dtbo_b dtbo.img"<br>
+  "flash userdata sailfish.img001"<br>
+  "flash_blob oem_a &ast;_v12b_seine.img"<br>
+)
+</code>
+<p></p>
+This is the header of <tt>flash_config.sh</tt> which shows you the list of actions. If you change this file, add an extra line like:
+<p></p>
+<tt>"flash_blob oem_b &ast;_v12b_seine.img"</tt>
+<p></p>
+Then you have to call <tt>flash.sh</tt> with the <tt>--force</tt> option. Otherwise, it fails complaining about the  <tt>md5sum</tt> mismatch.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>Android debug</b>
+<p></p>
+This is useful for the Android debugger <tt>ADB</tt> mode, and it does not conflict with the <tt>fastboot</tt> mode:
+<p></p>
+<code>
+eval $(lsusb | sed -ne "s/.&ast; \([a-f0-9]\{4\}\):\([a-f0-9]\{4\}\) "\<br>
+"Sony Ericsson Mobile .&ast;/idVendor=\\1 idProduct=\\2/p")<br>
+<p></p>
+udev_file=/etc/udev/rules.d/51-android.rules<br>
+<p></p>
+if [ -z "$idVendor" -o -z "idProduct" ]; then<br>
+  echo "connect the Sony Xperia smartphone to your USB port"<br>
+elif ! grep -q "grep-RAF-check" $udev_file; then<br>
+  echo 'SUBSYSTEM=="usb", ATTR{idVendor}=="$idVendor",'\<br>
+' ATTR{idProduct}=="$idProduct", MODE="0666", GROUP="plugdev",'\<br>
+' SYMLINK+="xperia%n" # grep-RAF-check' | sudo tee -a $udev_file<br>
+  sudo systemctl reload udev<br>
+  sudo systemctl restart udev<br>
+fi
+</code>
+<p></p>
+The above settings should be done one single time, and you have to replace the <tt>idVendor</tt> and <tt>idProduct</tt> with those you will find using <tt>lsusb</tt> with your smartphone connected to the <tt>USB</tt> port of your <tt>PC</tt>/laptop. The script above should do it for you.
+<p></p>
+<hr>
+<p></p>
+<H3 id="after-licensing">AFTER LICENSING</H3>
+<p></p>
+Install the <i>Android Support</i> from the Jolla market, then the <tt>F-Droid</tt> market app.
+<p></p>
+<blockquote>:memo: &commat;olf wrote:<br><br>Do not install <tt>APToide</tt> because  in the past it shown relevant security issues and moreover anyone can upload an app in such store thus is not secure.</blockquote>
+<p></p>
+These choices can be made at the first boot of your newly flashed smartphone.
+<p></p>
+<hr>
+<p></p>
+<H3 id="micro-g-config">MICRO-G CONFIG</H3>
+<p></p>
+The <tt>microG</tt> project components are not anymore available on <tt>F-Droid</tt>, in particular about <a href="https://f-droid.org/en/packages/com.google.android.gms/" target='_blank' rel='noopener noreferrer'>com.google.android.gms</a> the page reports the error <tt>404 Page Not Found</tt>.
+<p></p>
+While the <tt>UnifiedNlp</tt> component <a href="https://f-droid.org/packages/org.microg.nlp/" target='_blank' rel='noopener noreferrer'>org.microg.nlp</a> is still hosted. AFAIK, it does not work anymore, and its lack of support for the recent Android versions is not news.
+<p></p>
+Therefore, we need to go with the packages from its official website or import its repository in <tt>F-Droid</tt>. The advantage of importing the repository into the <tt>F-Droid</tt> app instead of installing it from the original website is that you will receive notifications about future updates:
+<p></p>
+<li>https://microg.org/download.html</li>
+<p></p>
+Install the entire suite (four apps) at the last available version, the preview release, if available. 
+<p></p>
+<li class='numli'><b>1.&emsp;</b><a href="https://f-droid.org/packages/com.google.android.gms/" target='_blank' rel='noopener noreferrer'>microG Services Core</a></li>
+<li class='numli'><b>2.&emsp;</b><a href="https://f-droid.org/packages/com.android.vending/" target='_blank' rel='noopener noreferrer'>FakeStore</a></li>
+<li class='numli'><b>3.&emsp;</b><a href="https://f-droid.org/packages/com.thermatk.android.xf.fakegapps/" target='_blank' rel='noopener noreferrer'>FakeGapps</a></li>
+<li class='numli'><b>4.&emsp;</b><a href="https://f-droid.org/packages/org.microg.gms.droidguard/" target='_blank' rel='noopener noreferrer'>microG DroidGuard Helper</a></li>
+<p></p>
+Open the <tt>SFOS</tt> app menu:
+<p></p>
+<li>Settings:Apps &rarr; MicroG Settings &rarr; Open Android settings &rarr; microG Service Core &rarr; Permissions</li>
+<p></p>
+then allow all permissions at the maximum privilege level:
+<p></p>
+<li><tt>Body Sensors</tt> : Allow</li>
+<li><tt>Contacts</tt> : Allow</li>
+<li><tt>Files and media</tt> : Allow access to media only</li>
+<li><tt>Location</tt> : Allow all the time</li>
+<li><tt>Phone</tt> : Allow</li>
+<li><tt>SMS</tt> : Allow</li>
+<li><tt>Spoof package signature</tt> : Allow</li>
+<p></p>
+Then open the <tt>microG Service Core</tt> and, in the <i>self-check</i> page, accept for all. If you wish, add a Google account, accept the device registration at Google, and set the Cloud Messaging (aka push notification) to ON. Now, you are back on Android and ready to run many apps developed for that OS.
+<p></p>
+<hr>
+<p></p>
+<H3 id="chum-market">CHUM MARKET</H3>
+<p></p>
+Activate the <i>Allow untrusted software</i> option:
+<p></p>
+<li>Settings:System &rarr; Security:Untrusted software &rarr; Allow untrusted software</li>
+<p></p>
+Download and install the last release <tt>RPM</tt> package from here for <tt>SFOS</tt> v4.5.0.19 and <tt>ARM64</tt> architecture:
+<p></p>
+<li><a href="https://repo.sailfishos.org/obs/sailfishos:/chum/4.5.0.19_aarch64/sailfishos:chum.repo" target='_blank' rel='noopener noreferrer'>SailFishOS 4.5.0.19 Chum installer for ARM64</a></li>
+<p></p>
+For future <tt>SFOS</tt> versions or other architectures, choose from here:
+<p></p>
+<li><a href="https://repo.sailfishos.org/obs/sailfishos:/chum" target='_blank' rel='noopener noreferrer'>SailFishOS Chum installer package repository</a></li>
+<p></p>
+Deactivate the <i>Allow untrusted software</i> option, not now but after having installed <tt>StoreMan</tt> and <tt>UpToDown</tt>, see below.
+<p></p>
+<hr>
+<p></p>
+<H3 id="storeman">STOREMAN</H3>
+<p></p>
+Activate the <i>Allow untrusted software</i> option:
+<p></p>
+<li>Settings:System &rarr; Security:Untrusted software &rarr; Allow untrusted software</li>
+<p></p>
+Download and install the last release <tt>RPM</tt> package from here:
+<p></p>
+<li>https://github.com/storeman-developers/harbour-storeman-installer/releases</li>
+<p></p>
+Deactivate the <i>Allow untrusted software</i> option, not now but after having installed <tt>UpToDown</tt>, see below.
+<p></p>
+<hr>
+<p></p>
+<H3 id="uptodown">UPTODOWN</H3>
+<p></p>
+Activate the <i>Allow untrusted software</i> option:
+<p></p>
+<li>Settings:System &rarr; Security:Untrusted software &rarr; Allow untrusted software</li>
+<p></p>
+Download and install the last release <tt>APK</tt> package from here:
+<p></p>
+<li>https://uptodown-android.en.uptodown.com/android/download</li>
+<p></p>
+Deactivate the <i>Allow untrusted software</i> option.
+<p></p>
+<hr>
+<p></p>
+<H3 id="patch-manager">PATCH MANAGER</H3>
+<p></p>
+Available in the <tt>Chum</tt> market as <tt>Patch Manager</tt> for <tt>SailFishOS</tt>, here:
+<p></p>
+<li>https://openrepos.net/content/patchmanager/patchmanager</li>
+<p></p>
+The <tt>Patch Manager</tt> is not an application without an icon but adds a voice in the <tt>Settings</tt> menu.
+<p></p>
+<hr>
+<p></p>
+<H3 id="apps-installation">APPS INSTALLATION</H3>
+<p></p>
+<tt>Jolla</tt>: 
+<p></p>
+<li>Jolla: <tt>Predictive Text</tt> and almost all others but not <tt>Documents</tt>¹ </li>
+<li>Top Apps: <tt>File Browser</tt>, <tt>Sailfish Utilities</tt>, <tt>Weather</tt>, <tt>Here WeGo</tt></li>
+<li>Apps: <tt>Audio Recorder</tt>, <tt>OSM Scout</tt>, <tt>SailOTP</tt>, <tt>QR Clip</tt>, <tt>Watchlist</tt></li>
+<p></p>
+<tt>F-Droid</tt>:
+<p></p>
+<li><a href="https://f-droid.org/it/packages/it.vfsfitvnm.vimusic/" target='_blank' rel='noopener noreferrer'>ViMusic</a> (youtube music)</li>
+<li><a href="https://f-droid.org/packages/com.aurora.adroid/" target='_blank' rel='noopener noreferrer'>Aurora Droid</a> (apps market)</li>
+<li><a href="https://f-droid.org/it/packages/us.spotco.malwarescanner/" target='_blank' rel='noopener noreferrer'>Hypatia</a> (antivirus)</li>
+<p></p>
+<tt>UpToDown</tt>:
+<p></p>
+<li><a href="https://aurora-store.en.uptodown.com/android" target='_blank' rel='noopener noreferrer'>Aurora Store</a> (apps market², Google account required)</li>
+<li><a href="https://amazon-appstore.en.uptodown.com/android" target='_blank' rel='noopener noreferrer'>Amazon Appstore</a> (apps market², Amazon accout required)</li>
+<p></p>
+<tt>Chum</tt>:
+<p></p>
+<li><a href="https://openrepos.net/content/piggz/advanced-camera" target='_blank' rel='noopener noreferrer'>Advanced Camera</a> </li>
+<li><a href="https://openrepos.net/content/peterleinchen/defender-ii-updated-encrypted-devices-originated-nodevel" target='_blank' rel='noopener noreferrer'>Defender II</a> (ad blocker and privacy guard)</li>
+<li><a href="https://build.sailfishos.org/package/show/sailfishos:chum/peekfilter-button" target='_blank' rel='noopener noreferrer'>Edge Swipe Control</a> (system menu mod)</li>
+<li><a href="https://openrepos.net/content/fifr/fotokopierer" target='_blank' rel='noopener noreferrer'>Fotokopierer</a> (documents camera scanner)</li>
+<li><a href="https://openrepos.net/content/blacksheepdev/mls-manager" target='_blank' rel='noopener noreferrer'>MLS Manager</a> (MLS data download)</li>
+<li><a href="https://openrepos.net/content/rinigus/pure-maps" target='_blank' rel='noopener noreferrer'>Pure Maps</a> (native navigation app)</li>
+<li><a href="https://openrepos.net/content/direc85/gpsinfo" target='_blank' rel='noopener noreferrer'>GPSinfo</a> (compass calibration, GPS test)</li>
+<p></p>
+<tt>StoreMan</tt>:
+<p></p>
+<li><a href="https://openrepos.net/node/10618" target='_blank' rel='noopener noreferrer'>qCommand</a> (shell script launcher, sys-tool)</li>
+<li><a href="https://openrepos.net/content/ade/emoji-keyboard" target='_blank' rel='noopener noreferrer'>Emoji+ keyboard</a> (follow the installation instructions)</li>
+<li><a href="https://openrepos.net/content/ichthyosaurus/patch-xt9-improved-punctuation-handling" target='_blank' rel='noopener noreferrer'>XT9 improved punctuation handling</a> (patch³)</li>
+<li><a href="https://openrepos.net/content/pichlo/patch-alternative-ui-pure-maps" target='_blank' rel='noopener noreferrer'>Alternative UI for Pure Maps</a> (patch³)</li>
+<li><a href="https://openrepos.net/content/ade/system-monitor-fork" target='_blank' rel='noopener noreferrer'>System Monitor</a>  (sys-tool)</li>
+<li><a href="https://openrepos.net/content/ade/space-inspector" target='_blank' rel='noopener noreferrer'>Space Inspector</a>  (sys-tool)</li>
+<li><a href="https://openrepos.net/content/osanwe/wifi-analyser" target='_blank' rel='noopener noreferrer'>Wifi Analyser</a>  (net-tool)</li>
+<p></p>
+<tt>Patch Manager</tt> in <tt>Web Catalog</tt>:
+<p></p>
+<li><a href="https://coderus.openrepos.net/pm2/project/utilities-quick-fp-restart" target='_blank' rel='noopener noreferrer'>quick fingerprint service restart</a> (patch³)</li>
+<li><a href="https://coderus.openrepos.net/pm2/project/x10ii-iii-agps-config-emea" target='_blank' rel='noopener noreferrer'>x10ii-iii-agps-config-emea</a> (patch³, cfr. the <tt>A-GPS</tt> indoor section)</li>
+<li><a href="https://coderus.openrepos.net/pm2/project/sailfishos-notification-preview-high-cpu-usage-patch" target='_blank' rel='noopener noreferrer'>notification-preview-high-cpu-usage</a> (patch³)</li>
+<p></p>
+<hr>
+<p></p>
+<H3 id="web-browser">WEB BROWSER</H3>
+<p></p>
+This can be quite an amusing Android web-browser with <i>Turbo Mode</i> to speed you up:
+<p></p>
+<li><a href="https://apkpure.com/rocket%E2%80%94lightweight-web-browser/dev.rocketscientists.rocket" target='_blank' rel='noopener noreferrer'>Rocket Lightweight Web Browser</a> on <tt>apkpure</tt>.</li>
+<p></p>
+created by the previous Firefox Lite team, it weighs only 6MB in APK size and grants:
+<p></p>
+<li>No data is shared with third parties</li>
+<li>Data is encrypted in transit</li>
+<li>No data was collected.</li>
+<p></p>
+Moreover, it is an <a href="https://github.com/RocketScientists/Rocket" target='_blank' rel='noopener noreferrer'>open-source project</a> hosted on Github.
+<p></p>
+<hr>
+<p></p>
+<H3 id="google-camera-port">GOOGLE CAMERA PORT</H3>
+<p></p>
+<li><a href="https://www.celsoazevedo.com/files/android/google-camera/dev-hasli/f/dl14/" target='_blank' rel='noopener noreferrer'>Gcam Hub</a></li>
+<li><a href="https://f-droid.org/en/packages/de.lukaspieper.gcam.services/" target='_blank' rel='noopener noreferrer'>Gcam Service</a></li>
+<p></p>
+<hr>
+<p></p>
+<H3 id="passwordless-ssh">PASSWORDLESS SSH</H3>
+<p></p>
+To gain a secure and fast password-less access to your device via a SSH session, read the instructions from this <i>Patch Manager</i> patch:
+<p></p>
+<li>https://coderus.openrepos.net/pm2/project/sshd-publickey-login-only</li>
+<p></p>
+The SSHd service can be configured from
+<p></p>
+<li>Settings:System &rarr; System:Developer mode &rarr; enable &rarr; Remote Connection</li>
+<p></p>
+Add these two lines at the end of your <tt>.bashrc</tt> or <tt>.profile</tt> for your laptop/<tt>PC</tt> user:
+<p></p>
+<code>
+ufish() { ssh root&commat;192.168.2.15 "$&commat;"; }<br>
+wfish() { ssh root&commat;172.28.172.1 "$&commat;"; }
+</code>
+<p></p>
+The next time you start a console, you will be able to use <tt>ufish</tt> or <tt>wfish</tt> to connect to or execute commands via <tt>SSH</tt> on your <tt>SFOS</tt> device.
+<p></p>
+<blockquote>:heavy_exclamation_mark: <b>TODO</b><br><br>Make a script that does this job for the user</blockquote>
+<p></p>
+<hr>
+<p></p>
+<H3 id="system-update">SYSTEM UPDATE</H3>
+<p></p>
+After having activated the <tt>SSH</tt> service, especially if <tt>SFOS</tt> has been recently installed on your smartphone, execute these commands by root user:
+<p></p>
+<tt>pkcon refresh && pkcon update</tt>
+<p></p>
+Suggested package to install, by root user:
+<p></p>
+<code>
+pkcon -y remove busybox-symlinks-vi<br>
+pkcon -y install --allow-reinstall \<br>
+    rpm pigz xz patch htop vim-minimal harbour-gpsinfo zypper \<br>
+    zypper-aptitude mce-tools harbour-file-browser harbour-todolist \<br>
+    sailfish-filemanager sailfish-filemanager-l10n-all-translations<br>
+</code>
+<p></p>
+<hr>
+<p></p>
+<H3 id="user-backup">USER BACKUP</H3>
+<p></p>
+The following script allows you to make the backup of every user's home folder by <tt>USB</tt> (<tt>192.168.2.15</tt>) or <tt>WiFi</tt> tethering (<tt>172.28.172.1</tt>):
+<p></p>
+<code>
+#!/bin/bash<br>
+user=defaultuser<br>
+dst_ip=192.168.2.15<br>
+tar_opts="--numeric-owner -p"<br>
+date_time=$(date +%F-%H-%M-%S)<br>
+excl_list=".cache cache cache2 vungle_cache diskcache-v4 .mozilla/storage"\<br>
+" $user/Pictures/Default $user/Videos/Default $user/.ssh $user/.tmp"<br>
+for i in $excl_list; do tar_opts="$tar_opts --exclude '$i/&ast;'"; done<br>
+echo "Creating backup-${user}-${date_time}.tar.gz by SSH/cat..."<br>
+ssh $user&commat;$dst_ip "time tar vc $tar_opts ~$user/"\<br>
+" | pigz -4Ric" > backup-${user}-${date_time}.tar.gz<br>
+echo "Syncing backup-${user}-${date_time}.tar.gz to storage..."<br>
+sync backup-${user}-${date_time}.tar.gz<br>
+echo "Checking backup-${user}-${date_time}.tar.gz for errors..."<br>
+tar tzf backup-${user}-${date_time}.tar.gz >/dev/null && echo "OK" || echo "KO"
+</code>
+<p></p>
+The script above requires <tt>pigz</tt>, the much faster parallel version of <tt>gzip</tt>. Unless the <b>SYSTEM UPDATE</b> procedure has been completed, the <tt>pigz</tt> should be installed by the root user with this command:
+<p></p>
+<tt>pkcon install -y pigz</tt>
+<p></p>
+or the script  edited for working with the much slower <tt>gzip</tt>.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>backup restore</b>
+<p></p>
+Once a backup is created in this way, it can be restored with this other script:
+<p></p>
+<code>
+#!/bin/bash<br>
+user=defaultuser<br>
+dst_ip=192.168.2.15<br>
+last_backup=$(ls -r1 backup-${user}-&ast;.tar.gz | head -n1 )
+</code>
+<p></p>
+or these lines instead when <tt>pigz</tt> is not yet available:
+<p></p>
+<tt>cat $last_backup | ssh $user&commat;$dst_ip "gzip -dRrc | tar xv -C /; sync"</tt>
+<p></p>
+The script takes the last backup available in the current folder.
+<p></p>
+<hr>
+<p></p>
+<H3 id="dns-caching">DNS CACHING</H3>
+<p></p>
+For <tt>DNS</tt> caching and proxying, you can install the <a href="https://openrepos.net/content/kan/dns-alternative" target='_blank' rel='noopener noreferrer'>DNS Alternative</a> which is a package available on <tt>Chum</tt> market.
+<p></p>
+However, if this solution does not fit your needs, there is a second choice: using <tt>dnsmasq</tt> directly and configuring it specifically for your needs.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>dnsmasq</b>
+<p></p>
+For every beginner in SFOS, who is used to using a GNU/Linux distribution, the first step is to install <tt>dnsmasq</tt>. Unfortunately, the <tt>RPM</tt> package available is not working <tt>AS-IS</tt> and a patch should be applied to avoid it conflicts with <tt>connman</tt>.
+<p></p>
+About <tt>dnsmasq</tt> integration with <tt>connman</tt>, read this <tt>Patch Manager</tt> patch description (<a href="https://coderus.openrepos.net/pm2/project/dnsmasq-connman-integration" target='_blank' rel='noopener noreferrer'>here</a>)
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>Despite the fact that <tt>Patch Manager</tt> is not the right tool for this kind of patch, the <tt>dnsmasq</tt> and <tt>connman</tt> <tt>RPM</tt>s should be fixed instead. This patch seems to be working reliably as long as the systemd services start-up order is not changed far from the factory default. Rarely, because this patch is not applied unless <tt>Patch Manager</tt> completes his job, sometimes the <tt>connman</tt> and <tt>dnsmasq</tt> services will start before their <tt>.service</tt> files have been patched, and therefore the system will not be able to resolve the domain names. Moreover, the network restart from <tt>SailFish Utilities</tt> cannot solve the issue (unless patched), and rebooting might not solve it but usually does unless <tt>systemd</tt> is far away from the factory configuration.</blockquote>
+<p></p>
+<hr>
+<p></p>
+<H3 id="safe--privacy-dns">SAFE & PRIVACY DNS</H3>
+<p></p>
+About <tt>DNS</tt>, using those from your network provider (default) is not always the best choice. There are some more interesting alternatives:
+<p></p>
+<li><a href="https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/" target='_blank' rel='noopener noreferrer'>Cloudflare</a> uses <tt>1.1.1.1</tt> and <tt>1.0.0.1</tt> for its DNS service over IPv4, and their name resolution services have some extra features for safety. It claims to be the fastest DNS in the world.</li>
+<p></p>
+<li><a href="https://adguard-dns.io/en/public-dns.html" target='_blank' rel='noopener noreferrer'>AdGuard</a> uses <tt>94.140.14.14</tt> and <tt>94.140.15.15</tt> and offers an {advertising, malicious, malware} host resolution name blocking feature plus family protections on <tt>94.140.14.15</tt> and <tt>94.140.15.16</tt> but they also offer an unfiltered service (check the link).</li>
+<p></p>
+<li><a href="https://www.quad9.net/" target='_blank' rel='noopener noreferrer'>Quad9</a> uses <tt>9.9.9.9</tt> and <tt>149.112.112.112</tt> to offer a service that is a combination of the two above in their claims (fast and safe).</li>
+<p></p>
+The best choice is alternating two coherent DNS services together - for reliability - and using a caching system configured for leveraging a large DNS cache to gain speed, privacy, and safety, depending on the services you choose.
+<p></p>
+<code>
+#IPv4 nameservers<br>
+nameserver  9.9.9.9<br>
+nameserver  94.140.14.14<br>
+nameserver  149.112.112.112<br>
+nameserver  94.140.15.15<br>
+<p></p>
+#IPv6 nameservers<br>
+nameserver  2620:fe::fe<br>
+nameserver  2a10:50c0::ad1:ff<br>
+nameserver  2620:fe::9<br>
+nameserver  2a10:50c0::ad2:ff<br>
+</code>
+<p></p>
+This is an example of <tt>/etc/resolv.conf</tt> for every host connected with an <tt>IPv4</tt> + <tt>IPv6</tt> network that alternates <i>AdGuard</i> and <i>Quad9</i> ad-blocking and safe-filtered <tt>DNS</tt>.
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>Usually the <tt>/etc/resolv.conf</tt> is not the right place to insert these values.</blockquote>
+<p></p>
+<hr>
+<p></p>
+<H3 id="vpn-use">VPN USE</H3>
+<p></p>
+The <tt>SailFish OS</tt> supports many clients to establish a <tt>VPN</tt> tunnel for your traffic. The most known and used is related to the <tt>OpenVPN</tt> standard. When a client is involved, a server is needed on the other side, in this case a VPN service provider.
+<p></p>
+About <tt>VPN</tt> services, there is a very <a href="https://web.archive.org/web/20230628153815/https://f-droid.org/en/2023/03/08/vpn-trust-requires-free-software.html" target='_blank' rel='noopener noreferrer'>interesting post on <tt>F-Droid</tt> blog</a> which refers to also others articles and independent studies. The article deserve to be read but for those are in hurry, this topic can be briefly summarized with these three statements:
+<p></p>
+<li><a href="https://proton.me/" target='_blank' rel='noopener noreferrer'>proton.me</a> - a suite of SaaS services tailored for privacy with headquarters and data centers in Switzerland. Allows free accounts but is limited and includes a <tt>VPN</tt> compatible with <tt>OpenVPN</tt> but <tt>IPv4</tt> only.</li>
+<p></p>
+<li><a href="https://restoreprivacy.com/vpn/best/ipv6/" target='_blank' rel='noopener noreferrer'>VPNs with full <tt>IPv6</tt> support in 2023</a> - an article that presents three <tt>VPN</tt> providers that support the <tt>IPv6</tt> but do not have a free trial plan, which means you have to pay with your credit card (privacy but not anonymity).</li>
+<p></p>
+Therefore, the only viable way to go with ProtonVPN relying on an <tt>IPv6</tt>-only network operator is using <a href="https://forum.sailfishos.org/t/testing-clat-for-ipv6-only-mobile-networks/14520/1" target='_blank' rel='noopener noreferrer'>CLAT</a> which is still under testing.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>Why using a VPN?</b>
+<p></p>
+The original <a href="https://f-droid.org/en/packages/ch.protonvpn.android/" target='_blank' rel='noopener noreferrer'>article</a> about <tt>VPN</tt>s posted into <tt>F-Droid</tt> blog has been removed (404) but the Wayback Machine of <a href="Archive.org">Archive.org</a> did a copy, and the last version is on 28th June 2023. Later, the page came back, but it has been changed. Among other parts, this one has been removed:
+<p></p>
+<blockquote>:information_source: <b>Note</b><br><br>ProtonVPN is created by the CERN scientists behind ProtonMail, the world's largest encrypted email service with 20 million users, including many <b>activists</b> and <b>journalists</b> such as <b>Reporters Without Borders</b>.</blockquote>
+<p></p>
+You might think that privacy and security are only concerns of criminals, but reading these kinds of claims, you might drop that bias. It is about everyone of us, especially those of us that are more exposed, for the sake of many.
+<p></p>
+Now, we can easily imagine why <a href="Archive.org">Archive.org</a> is facing a nasty and expensive trial in the USA about copyright violations: <i>it is easier to control those who have a short-only memory</i>.
+<p></p>
+<hr>
+<p></p>
+<H3 id="compass-calibration">COMPASS CALIBRATION</H3>
+<p></p>
+The compass calibration feature can be seen in <tt>GPSinfo</tt>’s change log since the v0.9.0-1 release in 2019. Using the last version from the <tt>Chum</tt> market, the compass will be calibrated automatically, doing some oo-loops. Therefore <a href="https://openrepos.net/node/10468" target='_blank' rel='noopener noreferrer'>OrienteeringCompass</a> is redundant for this aim, but it can be installed for its main purpose.
+<p></p>
+<hr>
+<p></p>
+<H3 id="gps--maps">GPS & MAPS</H3>
+<p></p>
+The MLS data packaged and delivered from Jolla market can be outdated. Therefore, use <tt>MLS Manager</tt> to download the country or geographic area of your interest (cfr. update #2).
+<p></p>
+From <tt>F-Droid</tt> market install:
+<p></p>
+<li><a href="https://f-droid.org/packages/org.microg.nlp/" target='_blank' rel='noopener noreferrer'>UnifiedNlp (GAPPS), a location provider middleware</a></li>
+<li><a href="https://f-droid.org/packages/org.microg.nlp.backend.ichnaea/" target='_blank' rel='noopener noreferrer'>MozillaNlpBackend, an UnifiedNlp location provider by Mozilla</a></li>
+<li><a href="https://f-droid.org/packages/org.fitchfamily.android.gsmlocation/" target='_blank' rel='noopener noreferrer'>LocalGsmNlpBackend, a UnifiedNlp location provider for local GSM database</a></li>
+<li><a href="https://f-droid.org/packages/org.fitchfamily.android.dejavu/" target='_blank' rel='noopener noreferrer'>Déjà Vu, a local RF based backend for the µg with Mobile/cell and WLAN/WiFi</a></li>
+<li><a href="https://f-droid.org/packages/org.microg.nlp.backend.nominatim/" target='_blank' rel='noopener noreferrer'>NominatimNlpBackend, a UnifiedNlp geocoding provider MapQuest Nominatim</a></li>
+<p></p>
+Then open the <tt>UnifiedNlp</tt> app, do the self-check, configure, and activate all the services.
+<p></p>
+Then open the <tt>microG Settings</tt> app, and in the Location menu, switch on all the options.
+<p></p>
+Install the <tt>GPSinfo</tt> app from the <tt>Chum</tt> market because the one in the Jolla market can be outdated (cfr. update #1), switch on the <tt>GPS</tt> and test it outdoors.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>freezing issue</b>
+<p></p>
+For those the <a href="https://forum.sailfishos.org/t/xperia-x-10-ii-gpu-heavily-affected-by-gps-fix-pure-maps-and-other-gps-related-apps/15797" target='_blank' rel='noopener noreferrer'>GPS satellite fix freezes and crashes</a> with <tt>Pure Maps</tt> the native navigation app, they can try this Android app, instead:
+<p></p>
+<li><a href="https://play.google.com/store/apps/details?id=cz.seznam.mapy&hl=en&gl=US" target='_blank' rel='noopener noreferrer'>Mapy.cz navigation & off maps</a> (4.2&starf;, 5M+)</li>
+<p></p>
+or they can try <a href="https://wego.here.com" target='_blank' rel='noopener noreferrer'>Here WeGo</a> which is a web service coupled with its <a href="https://play.google.com/store/apps/details?id=com.here.app.maps" target='_blank' rel='noopener noreferrer'>Android app</a> (3.6&starf;, 10M+) available from the Jolla store. It can be updated or downloaded from the <tt>UpToDown</tt> store, too.
+<p></p>
+Or they can make the <tt>A-GPS</tt> working (cfr. update #3) like described below, which greatly mitigates the issue, at least on <a href="https://developer.sony.com/posts/xperia-10-ii-added-to-sonys-open-devices-program/" target='_blank' rel='noopener noreferrer'>Sony Xperia X10 II</a> but reasonably also on other Sony smartphones.
+<p></p>
+<hr>
+<p></p>
+<H3 id="a-gps-indoor">A-GPS INDOOR</H3>
+<p></p>
+You may experience problems with <tt>GPS</tt> fixing indoors. The current solution is to adopt the <tt>A-GPS</tt> approach, which needs a mobile data connection, thus exchanging data that can undermine your privacy about your position.
+<p></p>
+<li><a href="https://coderus.openrepos.net/pm2/project/x10ii-iii-agps-config-emea" target='_blank' rel='noopener noreferrer'>x10ii-iii-agps-config-emea</a> (check the instruction)</li>
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>Install the patch to be notified about updates, but do not use the Patch Manager to apply the patch because it is not the right tool for this kind of patch. Instead, explode this tarball in the root filesystem:</blockquote>
+<p></p>
+<li> <a href="https://t.ly/ZJMA" target='_blank' rel='noopener noreferrer'>t.ly/ZJMA</a> (or scan the QR-code in the screenshots)</li>
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>The filesystem LVM overlay tricks too old versions of filesystem utils like cp and tar but possibly also prevent modem/GPS from being correctly configured. Check this bug report <a href="https://t.ly/omO0" target='_blank' rel='noopener noreferrer'>here</a> for more information.</blockquote>
+<p></p>
+This approach can also be attempted for other Xperia devices, like <tt>XA2</tt>.
+<p></p>
+The <tt>A-GPS</tt> configuration here proposed is Google-free, it uses Qualcomm <tt>SUPL</tt> hosts, and it offers some other advantages (<a href="https://forum.sailfishos.org/t/gps-stopped-working/1181/699" target='_blank' rel='noopener noreferrer'>here</a>) respect the <a href="https://gitlab.com/nekrondev/suplpatcher" target='_blank' rel='noopener noreferrer'>suplpatcher</a> approach. Moreover, it uses the <tt>HTTPS</tt> encrypted protocol for data transfer by default.
+<p></p>
+<blockquote><span class="infoicon spanicon">&nbsp;<svg class="infoicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;&middot;NOTICE&middot;&nbsp;&nbsp;</nobr></span><br><br><b>Suggestion</b> &mdash; Uploading the certificate keys with suplpatcher and keeping the size of the new <tt>gps.conf</tt> identical with the old, removing comments, and adding spaces or hashes at the end will allow you to bypass the overlay filesystem problem with modem/GPS (if it exists) and probably also shrink the time for the cold start.</blockquote>
+<p></p>
+<hr>
+<p></p>
+<b>THE FOLLOWING PART OF THIS SECTION IS OBSOLETE</b>
+<p></p>
+Even if obsolete, it will remain for a while in order to be reworked as - advanced users section - to introduce the <tt>SSH</tt> / terminal / <tt>qCommand</tt> as universal tools to customize in depth on a SFOS smartphone. In the meantime, jump to the next section, which is <b>mobile data</b>.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>manual editing or copy</b>
+<p></p>
+<blockquote><b>&commat;miau</b> wrote: This solution works with the Xperia 10 smartphone series and might work with other smartphones, but not with the XA2 which requires it, and for the XA2 the parameters are slightly different as. Therefore, XA2 users should ignore the following and follow the suplpatcher instructions.</blockquote>
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+The solution consists of changing some values into <tt>/etc/gps.conf</tt> or in <tt>/vendor/etc/gps.conf</tt>. You can check the real path using the <tt>File Manager</tt> included by default in <tt>SFOS</tt>. If both exist, one should be a link to the other.
+<p></p>
+<tt>NTP_SERVER</tt>, list of options:
+<p></p>
+<li><tt>time.izatcloud.net</tt> (default)</li>
+<li><tt>time.google.com</tt> (current)</li>
+<li><tt>asia.pool.ntp.org</tt></li>
+<li><tt>europe.pool.ntp.org</tt></li>
+<li><tt>oceania.pool.ntp.org</tt></li>
+<li><tt>north-america.pool.ntp.org</tt></li>
+<li><tt>south-america.pool.ntp.org</tt></li>
+<p></p>
+The <tt>SUPL_HOST:PORT</tt>, list of options:
+<p></p>
+<li><tt>supl.google.com:7276</tt> (default)</li>
+<li><tt>supl.grapheneos.org:7275</tt></li>
+<p></p>
+To make these changes can be used the <a href="https://openrepos.net/content/lourens/fingerterm-terminal-app" target='_blank' rel='noopener noreferrer'>terminal app</a> that appears in the app menu when <b>developer mode</b> is enabled. Or a <tt>SSH</tt> session created using the developer tools. In both cases, it necessary to activate the <b>developer mode</b> and provide to the <tt>defaultuser</tt> a password:
+<p></p>
+<blockquote>Settings:System &rarr; System:Developer tools &rarr; Developer Mode &rarr; Remote connection &rarr; Password:Create</blockquote>
+<p></p>
+Another way to access the terminal is by using <tt>qCommand</tt> and asking him to run <tt>devel-su /bin/ash</tt> in interactive mode. In interactive mode, it will always ask for the password, even if you choose to run <tt>/bin/ash</tt> as <tt>root</tt> and you save the password.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>ssh session</b>
+<p></p>
+Activate the <tt>SSH</tt> session. This allows you to connect to your <tt>SailFish OS</tt> device with an <tt>SSH</tt> connection using the <tt>USB</tt> cable, the <tt>WiFi</tt> tethering, or the <tt>WiFi</tt> home network. The most secure way is to use the <tt>USB</tt> cable while the smartphone is off-line.
+<p></p>
+<code>
+ssh defaultuser&commat;192.168.2.15<br>
+remote]$ devel-su /bin/sh<br>
+Download]# update-ca-trust<br>
+remote]# vi /etc/gps.conf<br>
+remote]# exit<br>
+remote]$ exit<br>
+</code>
+<p></p>
+Before changing those values, prepare yourself to use <a href="https://web.mit.edu/merolish/Public/vi-ref.pdf" target='_blank' rel='noopener noreferrer'>vi the editor</a> and make a backup copy of the original file. Or you can install <tt>nano</tt> and use it instead of <tt>vi</tt>, as kindly suggested by &commat;miau following these instructions:
+<p></p>
+<tt>remote]$ devel-su pkcon install nano</tt>
+<p></p>
+Alternatively, you can download and copy the <tt>gps.conf</tt> as described in the next session and decide to modify it with your own hands. Instead of downloading the file, apply the <tt>Patch Manager</tt> patch cited above and then perform the changes you like.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>terminal app</b>
+<p></p>
+Visit this link for the <a href="https://drive.google.com/file/d/1ZCheJadDhO38atpIFmRKMjBA42XYnUJT/view" target='_blank' rel='noopener noreferrer'>modified gps.conf</a> and save it in <tt>Downloads</tt>. Then open the terminal and execute the following commands:
+<p></p>
+<code>
+home]$ cd android_storage/Download<br>
+Download]$ devel-su /bin/sh<br>
+Download]# update-ca-trust<br>
+Download]# cp /vendor/etc/gps.conf gps.conf.bak<br>
+Download]# cat gps.conf >/vendor/etc/gps.conf<br>
+Download]# exit<br>
+Download]$ exit<br>
+</code>
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>after the changes</b>
+<p></p>
+After the changes, <b>disable</b> the developer mode and set the high precision mode for the <tt>GPS</tt>:
+<p></p>
+<li>Settings:System &rarr; Connectivity:Location &rarr; High-accuracy positioning</li>
+<p></p>
+At this point, you can switch on the network, the <tt>GPS</tt> and give it a try indoors.
+<p></p>
+<hr>
+<p></p>
+<H3 id="mobile-data">MOBILE DATA</H3>
+<p></p>
+The first step you should take after having inserted the <tt>SIM</tt> into your new <tt>SFOS</tt> smartphone is to ask your network operator to send their mobile data configuration back to your device. Usually, you can do that by sending a <tt>SMS</tt> to a specific number.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>registration lag</b>
+<p></p>
+You might experience a sensible registration lag or sometimes even a complete failure. Deactivate the mobile network auto selection mode in this way:
+<p></p>
+<li>Settings:System → Connectivity:Mobile network:SIM# → Select network automatically:off</li>
+<p></p>
+This will bring you to a new page on which - after a while - all the mobile networks found will be visible, and just some will be available. For example - if you are an <tt>iliad italia</tt> customer with 4G enabled - you will find <tt>IT 88</tt> and <tt>IT 50</tt>. You will also find that with 4G, you might not be able to register with <tt>IT 88</tt> but <tt>IT 50</tt> only. Select this one, and then the next registration will take a reasonable amount of time, even if not immediate.
+<p></p>
+Another solution that might work in your case is the following. Imagine that you have the <tt>SIM1</tt> that is slow in registering with the mobile network. You can try putting the slower <tt>SIM</tt> into slot #2 which means <tt>SIM</tt> exchange (1:faster, 2: slower), or you can skip the unlock <tt>PIN</tt> for the faster <tt>SIM</tt> and activate it after the slower one has completed the registration with the mobile network. Keep the faster SIM for 2nd to register and possibly use the auto-search for the mobile network because in this way <tt>ofono</tt> will preferably keep the current operator schema as long as possible, even better if the faster SIM is roaming.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>data on IPv4 only</b>
+<p></p>
+You might decide to limit your mobile data to using the <tt>IPv4</tt>.
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br><b>Every IPv4-only VPN leaks data over IPv6</b><br><br>This can be a good idea, especially if you are using a free <tt>VPN</tt> service that tunnels the data over <tt>IPv4</tt> but leaks those over <tt>IPv6</tt> .</blockquote>
+<p></p>
+To limit your mobile data over IPv4, proceed in this way:
+<p></p>
+<li>Settings:System → Connectivity:Mobile network:SIM# &rarr; Data / MMS</li>
+<p></p>
+The <tt>Data</tt> and <tt>MMS</tt> access points changed the protocol field from <tt>dual</tt> to <tt>IP</tt>.
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br><b>TODO</b> &mdash; Include the Linux kernel settings to disable <tt>IPv6</tt> for the whole system, leveraging the <tt>/usr/lib/sysctl.d</tt> configuration folder. Working in progress: testing.</blockquote>
+<p></p>
+<hr>
+<p></p>
+<H3 id="power-saving">POWER SAVING</H3>
+<p></p>
+Section yet to be done; in the meantime, check out these posts below:
+<p></p>
+<li><a href="todo/energy-saving-for-xperia-10-ii-and-iii.md">Energy saving for Xperia 10 II and III</a></li>
+<p></p>
+<li><a href="todo/energy-saving-for-xperia-10-ii-and-iii.md#power-saving-templates">Power saving templates and policies</a></li>
+<p></p>
+<li><a href="todo/bluetooth-crazy-CPU-usage.md">Bluetooth power drain issue</a></li>
+<p></p>
+Here are a few hints to keep your <tt>SFOS</tt> smartphone lasting longer.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>display settings</b>
+<p></p>
+First of all, set the brightness of the screen to the minimum in auto-brightness mode, then install and activate the <a href="https://coderus.openrepos.net/pm2/project/patch-i-see-a-red-door" target='_blank' rel='noopener noreferrer'>Pure Black Backgrounds </a> patch with <tt>Patch Manager</tt>. This setting is expected to save energy with an <tt>OLED</tt> display, which is the case for the Xperia 10 II and III. The display should be set to sleep after 30 seconds.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>energy saving mode</b>
+<p></p>
+Set the energy saving mode at 100% of battery threshold to let it stay active. The energy consumption will drop from 12%/h to a 8%/h which is 33% less on average and therefore a 50% of battery will last. At the moment, is is necessary to use <tt>mcetool</tt> from the command line:
+<p></p>
+<li><tt>mcetool --set-psm-threshold=100 --set-power-saving-mode=enabled</tt></li>
+<p></p>
+Moreover, that tool should be installed before using it. This requires access to the smartphone with root privileges. Please refer to the <b>A-GPS INDOOR : manual editing or copy</b> to learn how.
+<p></p>
+<li><tt>devel-su pkcon install mce-tools</tt></li>
+<p></p>
+Because <tt>mcetool</tt>does not need <tt>root</tt> privileges to change the battery threshold for enabling the energy-saving mode, it is possible to use <tt>qCommand</tt> to execute it in a non-interactive, non-root, ignore-output task. The <tt>qCommand</tt> allows you to create an icon for this specific task⁴ and it is useful because the energy-saving mode can be changed or disabled by Settings:System &rarr; System:Battery menu but not set to 100% back by it.
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>wireless settings</b>
+<p></p>
+Disable the 4G connection, Bluetooth, and wireless as much as possible. In dual-sim phones, the 2nd SIM could be registered in 2G if that service is still available and largely deployed, unless you plan to use it also for mobile data.
+<p></p>
+<hr>
+<p></p>
+<H3 id="zram-swap-size-change">ZRAM SWAP SIZE CHANGE</H3>
+<p></p>
+This <tt>Patch Manager</tt> patch will help you resize the <tt>zRAM</tt> swap while the system is running:
+<p></p>
+<li>https://coderus.openrepos.net/pm2/project/zram-swap-resize-script</li>
+<p></p>
+After the <tt>PM2</tt> patch application executes the script with
+<p></p>
+<li><tt>devel-su /bin/bash zram_swap_resize.sh 1536</tt></li>
+<p></p>
+The default value is 1024, other reasonable values are 512 or 1536. For example, by passing 1536 the size of the <tt>zRAM</tt> swap will be increased to 1.5GB, as you can see:
+<p></p>
+<tt>
+[root&commat;sfos ~]# zramctl | tail -n1 | tr -s ' '; free<br>
+/dev/zram0 lz4 1.5G 222.9M 53.2M 66.7M 8 [SWAP]<br>
+              total        used        free      shared  buff/cache   available<br>
+Mem:        3643472     1571548     1243824       19744      828100     2078652<br>
+Swap:       1572860      230624     1342236<br>
+</tt>
+<p></p>
+but considering that the compressed ratio is about 3x or 4x times, this means that for the <tt>1536</tt> value, we can have:
+<p></p>
+<li> <tt>3558 + (1536 × 2.5) = 7398</tt></li>
+<p></p>
+The available <tt>RAM</tt>+swap will grow up to 7GB with an <b>important drawback</b>: running apps and system services will be able to use just 2GB and the rest will be useful only to keep sleeping apps alive. Instead, reducing the size to 512MB (previous <tt>SFOS</tt> configuration), the available <tt>RAM</tt> will be 3GB and the total <tt>RAM</tt>+swap will be near 5GB.
+<p></p>
+In my personal case, which includes the use of <tt>Android Support</tt>, the <a href="https://coderus.openrepos.net/media/screenshots/zram-swap-resize-script-ram-and-swap-usage.png" target='_blank' rel='noopener noreferrer'>statistics collected</a> by <a href="https://openrepos.net/content/ade/system-monitor-fork" target='_blank' rel='noopener noreferrer'>System Monitor</a> indicate that 1GB of <tt>zRAM</tt> swap is large value because its use rarely will go over 60% of its full capacity. Probably the best value for my use style is 768MB or even 512MB with a swappiness of 5% instead of 25% (default).
+<p></p>
+<sup><u></u><u></u></sup>
+<p></p>
+<b>swap offloading</b>
+<p></p>
+Since <tt>v0.0.8</tt>, the offload parameter has been introduced that enforces, as far as possible, the dump of the <tt>zRAM</tt> swap in order to free it:
+<p></p>
+<li class='numli'><b>1.&emsp;</b>close all your applications</li>
+<li class='numli'><b>2.&emsp;</b>stop the <tt>Android Support</tt></li>
+<li class='numli'><b>3.&emsp;</b>call the script with <tt>offload</tt></li>
+<p></p>
+It might fail, but usually in less than one minute, it will move all your Android apps sleeping in the background to the <tt>RAM</tt> with a high chance of being terminated by <tt>OOM</tt>. After this action, your smartphone will perform with native apps, like after a reboot.
+<p></p>
+<hr>
+<p></p>
+<H3 id="bookmarks">BOOKMARKS</H3>
+<p></p>
+These are a few websites that are worth having in your native browser bookmarks:
+<p></p>
+<li><a href="https://startpage.com" target='_blank' rel='noopener noreferrer'>startpage.com</a> - an European based web search engine focused on privacy. It can be set as the default web search, and it allows several themes, including the dark one, plus it offers a translation service just by searching for <i>translate</i>.</li>
+<p></p>
+<li><a href="https://time.is" target='_blank' rel='noopener noreferrer'>time.is</a> - to get in sync with a real-time clock. The default time zone depends on your <tt>IP</tt> geo-localisation or on your current outgoing <tt>VPN</tt> server, but you can choose any city in the world.</li>
+<p></p>
+<li><a href="https://ipleak.net" target='_blank' rel='noopener noreferrer'>ipleak.net</a> - a website that shows you what data your browser or connection leaks out. It is impressive and useful for testing your VPN tunneling.</li>
+<p></p>
+<li><a href="https://italia.fm" target='_blank' rel='noopener noreferrer'>italia.fm</a> - webradio website, but you can easily switch to the German, Spanish, and Belgian versions with the related radio stations online.</li>
+<p></p>
+<li><a href="https://proton.me" target='_blank' rel='noopener noreferrer'>proton.me</a> -  a suite of <tt>SaaS</tt> services tailored for privacy with the headquarters and data-center in Switzerland. It allows accounts with a free plan, which includes a  <tt>VPN</tt> compatible with <tt>OpenVPN</tt> but <tt>IPv4</tt>-only (cfr. the <tt>VPN</tt> section).</li>
+<p></p>
+<li><a href="https://paste.systemli.org" target='_blank' rel='noopener noreferrer'>paste.systemli.org</a> - is a minimalist, open source online <i>pastebin</i> where the server has <i>zero knowledge</i> of pasted data. Data is en/decrypted in the browser using the 256 bits <tt>AES</tt> key.</li>
+<p></p>
+<li><a href="https://privatebin.deblan.org/" target='_blank' rel='noopener noreferrer'>privatebin.deblan.org</a> - the same as the one above but hosted by the Debian project.</li>
+<p></p>
+<li><a href="https://webssh.de/" target='_blank' rel='noopener noreferrer'>webssh.de</a> - is a minimal SSH web client by Robert Krause</li>
+<p></p>
+<li><a href="https://qr.io" target='_blank' rel='noopener noreferrer'>qr.io</a> - creates <tt>QR</tt> codes from text for many applications, in particular is useful to quickly transfer a link/clip text from your laptop to your smartphone using the <tt>QR</tt> code reader integrated into the default camera <tt>SFOS</tt> native app.</li>
+<p></p>
+Feel free to propose your best choices or alternatives. As far as possible, I will update this list, which is a mere suggestion based on an evaluation done at the time of writing (2023.06.16) and could become outdated.
+<p></p>
+<hr>
+<p></p>
+<H3 id="usb-modes">USB MODES</H3>
+<p></p>
+This section is working in progress. Be patient. :blush:
+<p></p>
+<code>
+pkcon install -y usb-moded-host-mode-jolla usb-moded-systemd-rescue-mode \<br>
+    usb-moded-connection-sharing-android-config
+</code>
+<p></p>
+or
+<p></p>
+<tt>                  usb-moded-connection-sharing-android-connman-config</tt>
+<p></p>
+<hr>
+<p></p>
+<H3 id="developer-mode--usb-tethering">DEVELOPER MODE + USB TETHERING</H3>
+<p></p>
+Just in case you are annoyed to have too many <tt>USB</tt> modes to choose from and you wish not to install one of these with <tt>pkcon</tt>:
+<p></p>
+<li><tt>usb-moded-connection-sharing-android-connman-config</tt></li>
+<li><tt>usb-moded-connection-sharing-android-config</tt></li>
+<p></p>
+then you can use the <i>developer mode</i> as <tt>USB</tt> tethering following sending this command to your smartphone, and here below the link is a <tt>Patch Manager</tt> patch that installs a shell script:
+<p></p>
+<li>https://coderus.openrepos.net/pm2/project/set-network-postroute</li>
+<p></p>
+Follow the instructions on the description of the link above. Before that, take this notice into consideration:
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>Therefore, this patch is for expert users and developers. Until this feature is added to <tt>SFOS</tt> and managed by <tt>connman</tt>, it will be easier to install one of the packages listed above. Unless, you live in <i>developer mode</i> and you are acknowledged for how easy it is to crack <tt>WiFi</tt> passwords.</blockquote>
+<p></p>
+<blockquote><span class="warnicon spanicon">&nbsp;<svg class="warnicon svgicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><nobr class="alerts" translate="no">&nbsp;&nbsp;WARNING!&nbsp;&nbsp;</nobr></span><br><br>Check with <tt>iptables -t nat -S</tt> or <tt>iptables -nvL -t nat</tt> if the added iptables rules persist after a reboot and in the case, if they keep their position in the <tt>NAT</tt>ting.</blockquote>
+<p></p>
+<hr>
+<p></p>
+<H3 id="tips--hints">TIPS & HINTS</H3>
+<p></p>
+<li>the phone calls with wired headphones have an audio volume that is too high, even when it is at its minimum. Using a good Bluetooth earbud pair will solve the problem and free you from the wire.</li>
+<p></p>
+<li>Sometimes when the data interface changes (e.g. switching from <tt>4G</tt> to <tt>WiFi</tt> or vice versa) or changes its state (airplane mode off), the network stack needs to be reset with the specific button in Settings:System &rarr; Info:Utilities. However, after the smartphone reboot or after switching off the airplane mode, the SIM takes a very long time to register with the <tt>4G</tt> network, so it is time to follow the instructions in the <b>fixing the 4G registration</b> section.</li>
+<p></p>
+<li>Unlocking the smartphone with your fingerprint is a great choice, especially for X10 II because the fingerprint reader is installed on the on/off button and is immediate to use but not totally reliable. In fact, sometimes the lockscreen suggests to <i>clean the fingerprint reader</i>. Instead, you will probably need to reset the fingerprint software stack with the specific button in Settings:System &rarr; Info:Utilities</li>
+<p></p>
+<li>Downloading and installing <tt>APK</tt>s from untrusted sources can seriously harm your privacy and security. In the best case, you will miss important future updates. Moreover, by default, this practice is not allowed unless you enable the option of <i>Allow to install from untrusted sources</i> but do not do that after this device post-installation customization.</li>
+<p></p>
+<li>it is suggested to restore the <tt>/bin/bash</tt> symlink to the real <tt>bash</tt> shell by executing <tt>devel-su pkcon remove busybox-symlinks-bash</tt>. This may influence the whole system, but you can revert back to the system by reinstalling that package using <tt>install</tt> instead of <tt>remove</tt>: easy to do and easy to undo.</li>
+<p></p>
+In conclusion, add to the top menu these two voices:
+<p></p>
+<li>Settings:System &rarr; Info:Utilities</li>
+<li>Settings:System &rarr; Info:Android support</li>
+<p></p>
+because these shortcuts will be very useful, and you will use them often.
+<p></p>
+<hr>
+<p></p>
+<H3 id="list-of-tasks-to-do">LIST OF TASKS TO DO</H3>
+<p></p>
+This list of suggested changes is for those Sailors hackers or Jolla that wish to improve <tt>SFOS</tt> and has been moved here:
+<p></p>
+<li><a href="tasks-and-changes-todo.md">A collection of tasks to do and a request of changes</a></li>
+<p></p>
+Please take a look at that list and feel free to indicate the three that are the <b>most</b> important for you, or <tt>SFOS</tt> and the three that are the <b>least</b> important. To the 3+3 indications, add for each one a <b>brief</b> explanation about why, just to support your preference.
+<p></p>
+<hr>
+<p></p>
+<b>NOTES</b>
+<p></p>
+<li>1. it looks like the <tt>Documents</tt> app requires too many privileges: avoid it.</li>
+<li>2. it requires a <a href="https://www.google.com/account/about/" target='_blank' rel='noopener noreferrer'>Google account</a> because the anonymous access is unreliable.</li>
+<li>3. the patch should be applied later, using the <tt>Patch Manager</tt>.</li>
+<li>4. such iconed task will not return immediately, but this is a harmless bug in <tt>qCommand</tt>.</li>
+<p></p>
+<br>
+<p></p>
+<H2 id="share-alike">Share alike</H2>
+<p></p>
+&copy; 2023, <b>Roberto A. Foglietta</b> &lt;roberto.foglietta<span>&commat;</span>gmail.com&gt;, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0 license</a>.
+<p></p>
+</div>
+<div id='date-legenda' align='center' translate='no'><sub><hr></sub><sub><b>date legenda</b>: &#x2776; first draft publishing date or &#x2777; creation date in git, otherwise &#x2778; html creation page date. <u>&mapstoup;<a href='#' class='toplink' translate='no'>top</a>&mapstoup;</u></sub></div>
+<br class='pagebreak'>
+    </body>
+</html>
