@@ -30,7 +30,7 @@ Reading the [flashing procedure described by Jolla](https://jolla.com/sailfishxi
 
 The alternative to Sony Emma flashtool is [Xperifirm](https://xperifirmtool.com/category/tool) which requires `mono` to run on a GNU/Linux distribution and has limited access to the firmware. For example, the Xperia 10 III is not supported, and the Xperia 10 II offers geographic areas customized firmware based on Android 12 and just a couple of other alternatives, which are customization.
 
-* [Sony Xperia flashing guide](/forum/knowhow/flashing-tools-for-Xperia-phones.md)
+* [Sony Xperia flashing guide](https://github.com/robang74/redfishos/blob/main/forum/knowhow/flashing-tools-for-Xperia-phones.md)
 
 This guide provides some practical knowledge for integrating Jolla's official procedure.
 
@@ -466,7 +466,7 @@ Therefore, the only viable way to go with ProtonVPN relying on an `IPv6`-only ne
 
 **Why using a VPN?**
 
-The original [article](https://f-droid.org/en/packages/ch.protonvpn.android/) about `VPN`s posted into `F-Droid` blog has been removed (404) but the Wayback Machine of [Archive.org](Archive.org) did a copy, and the last version is on 28th June 2023. Later, the page came back, but it has been changed. Among other parts, this one has been removed:
+The original [article](https://f-droid.org/en/packages/ch.protonvpn.android/) about `VPN`s posted into `F-Droid` blog has been removed (404) but the Wayback Machine of [Archive.org](https://archive.org) did a copy, and the last version is on 28th June 2023. Later, the page came back, but it has been changed. Among other parts, this one has been removed:
 
 > :information_source: **Note**
 > 
@@ -474,7 +474,7 @@ The original [article](https://f-droid.org/en/packages/ch.protonvpn.android/) ab
 
 You might think that privacy and security are only concerns of criminals, but reading these kinds of claims, you might drop that bias. It is about everyone of us, especially those of us that are more exposed, for the sake of many.
 
-Now, we can easily imagine why [Archive.org](Archive.org) is facing a nasty and expensive trial in the USA about copyright violations: *it is easier to control those who have a short-only memory*.
+Now, we can easily imagine why [Archive.org](https://archive.org) is facing a nasty and expensive trial in the USA about copyright violations: *it is easier to control those who have a short-only memory*.
 
 ---
 
@@ -670,11 +670,11 @@ The `Data` and `MMS` access points changed the protocol field from `dual` to `IP
 
 Section yet to be done; in the meantime, check out these posts below:
 
-* [Energy saving for Xperia 10 II and III](todo/energy-saving-for-xperia-10-ii-and-iii.md)
+* [Energy saving for Xperia 10 II and III](https://github.com/robang74/redfishos/tree/main/forum/todo/energy-saving-for-xperia-10-ii-and-iii.md)
 
-* [Power saving templates and policies](todo/energy-saving-for-xperia-10-ii-and-iii.md#power-saving-templates)
+* [Power saving templates and policies](https://github.com/robang74/redfishos/tree/main/forum/todo/energy-saving-for-xperia-10-ii-and-iii.md#power-saving-templates)
 
-* [Bluetooth power drain issue](todo/bluetooth-crazy-CPU-usage.md)
+* [Bluetooth power drain issue](https://github.com/robang74/redfishos/tree/main/forum/todo/bluetooth-crazy-CPU-usage.md)
 
 Here are a few hints to keep your `SFOS` smartphone lasting longer.
 
@@ -837,7 +837,7 @@ because these shortcuts will be very useful, and you will use them often.
 
 This list of suggested changes is for those Sailors hackers or Jolla that wish to improve `SFOS` and has been moved here:
 
-* [A collection of tasks to do and a request of changes](tasks-and-changes-todo.md)
+* [A collection of tasks to do and a request of changes](https://github.com/robang74/redfishos/tree/main/forum/tasks-and-changes-todo.md)
 
 Please take a look at that list and feel free to indicate the three that are the **most** important for you, or `SFOS` and the three that are the **least** important. To the 3+3 indications, add for each one a **brief** explanation about why, just to support your preference.
 
