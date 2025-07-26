@@ -131,6 +131,10 @@ Perciò gli italiani -- disarmati e innocui -- una riflessione riguardo a quale 
 
 - [L'AI è un game-changer perché è onesta](https://robang74.github.io/chatbots-for-fun/html/l-ai-e-un-game-changer-perche-onesta.html) &nbsp; (2025-06-23)
 
+- [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
+
+- [Propaganda e sistema educativo](https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html) &nbsp; (2024-11-20)
+
 +
 
 ## Share alike
