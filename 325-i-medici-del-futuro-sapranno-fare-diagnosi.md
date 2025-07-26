@@ -6,14 +6,38 @@
 ## I medici del futuro sapranno fare diagnosi?
 
 - Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_clinical-case-challenge-osserva-attentamente-activity-7339749292011655169-Xyco) pubblicato su LinkedIn lo stesso giorno.
-
 - L'immagine originale (94.5Kb) usata con ChatGPT e sopra adattata all'intestazione, è disponibile [qui](https://media.licdn.com/dms/image/v2/D4D22AQHf405KPrW5Rw/feedshare-shrink_1280/B4DZducDhcHMAo-/0/1749904538769?e=1752710400&v=beta&t=Ln0eizLF-9Tbkfz78Zw5TzWz4ONtGS0lv2elTZfsgTs).
+- **2nd edition**: il rischio dell'[autodiagnosi](#il-rischio-dellautodiagnosi-per-gli-utenti) e il ruolo di ChatGPT nel settore sanitario USA.
 
-- **2nd edition**: il rischio dell'auto-diagnosi e il ruolo di ChatGPT nel settore sanitario USA.
+...
 
----
+### Introduzione di Katia
 
-### L'utilità e il rischio dell'AI nella diagnostica
+*L'articolo evidenzia un rischio che potrebbe essere sottovalutato: più l'AI diagnostica eccelle, più i medici umani rischiano di dimenticare le relative competenze. La vera sfida, non è tanto l'adozione della tecnologia, quanto ristrutturare la didattica medica per preservare spirito critico e competenza indipendente, in questo caso specifico, e in generale la riforma dell’apprendimento scolastico. Se questo non avverrà, il medico del futuro potrebbe non sapere diagnosticare, ma limitarsi ad approvare passivamente la diagnosi automatica.*
+
+<tt>
+**Competenza medica**<br>
+├── Oggi: AI = supporto alla diagnostica (medico mantiene controllo)<br>
+├── Domani: AI = diagnosi automatica (medico rischia di abdicare)<br>
+│   └── → I medici perdono progressivamente la capacità diagnostica<br>
+└── Contromisura: formazione dei medici e riforma dell'insegnamento
+
+**Sistema sanitario**<br>
+├── USA: costi alti → autodiagnosi AI<br>
+├── Fiducia pubblica: bassa post-Covid<br>
+└── AI: può mitigare il gap economico ma non quello della fiducia nella medicina
+
+**Competenza esercitata**<br>
+├── La competenza se non esercitata (es. piegare vimini) può estinguersi<br>
+├── La capacità AI cresce, ma diventa disponibile invece di padroneggiata<br>
+└── Soluzione: didattica ibrida (HM + AI), esercitazioni in doppio cieco<br>
+</tt>
+...
+`Katia; v0.9.26.8; lang: it; mode: EGA, SBI; date: 2025-07-26; time: 18:31:25 (CEST)`
+
++
+
+## L'utilità e il rischio dell'AI nella diagnostica
 
 L'uso dell'intelligenza nelle diagnosi mediche rappresenta una sfida importante ma non priva di rischi. I medici di oggi usino l'AI come uno strumento per avere una seconda opinione (self peer-review, riflessione, check-list di tutte le opzioni). Fin qui tutto bene, è l'uso corretto prima di consultarsi con altri colleghi (fare i compiti a casa).
 
@@ -53,7 +77,7 @@ Conclusione (diagnosi più probabile): Insufficienza cardiaca destra (o aumento 
 
 ---
 
-### Il rischio dell'auto-diagnosi per gli utenti
+### Il rischio dell'autodiagnosi per gli utenti
 
 L'altro rischio importante riguardo alla capacità delle AI di fare diagnosi anche in modo molto sofisticato è quello che gli utenti finali possano seguire dei consigli che oggettivamente non sono supportati da un'esperienza medica nel mondo reale e fare scelte che possono compromettere seriamente la loro salute.
 
@@ -75,7 +99,7 @@ Questo post su reddit ha ottenuto un improvvisa visibilità e apprezzamento in p
 
 Per capire questo caso, però occorre notare che negli USA l'accesso ai servizi medici è molto variegato e particolare, ma soprattutto costoso e comunque non immediato anche quando si dispone di un'assicurazione medica che purtroppo sono parte del problema come il mito di "Luigi" ha fatto emergere.
 
-Ovviamente, la prima cosa che ho fatto è quella di confrontarmi su questo caso con ChatGPT, incluso il problema dell'uso inappropriato del servizio riguardo all'auto-diagnosi e in contrasto con il parere del medico.
+Ovviamente, la prima cosa che ho fatto è quella di confrontarmi su questo caso con ChatGPT, incluso il problema dell'uso inappropriato del servizio riguardo all'autodiagnosi e in contrasto con il parere del medico.
 
 Anche se, in questo caso, il *Derm*atologo potrebbe **non** essere un medico laureato e specializzato come lo intendiamo in Europa ma una figura professionale più simile ad un infermiere e forse anche meno, giusto un po' più specializzato di un'estetista professionista, questo negli USA.
 
@@ -89,7 +113,7 @@ che l'ha riformulata in una maniera più corretta politicamente senza dare dei t
 
 Qui è accessibile la [conversazione](https://chatgpt.com/share/684c8c36-5b2c-8012-91bb-b572e6750d95) con ChatGPT e la sua [trascrizione](data/325-i-medici-del-futuro-sapranno-fare-diagnosi-reddit.txt#?target=_blank), entrambe in inglese.
 
-----
+---
 
 ### Prima di ridere degli americani, pensiamo a noi
 
@@ -100,6 +124,12 @@ Ma la realtà è dura a morire e pare che dopo il mito di "Luigi" il giustiziere
 Sembra umorismo e però non fa ridere. Non lo scrivo per sfottere gli americani, ma per giustamente sottolineare che nonostante gli americani siano un popolo armato fino a denti, comunque si sono trovati in questa situazione come anche la viralità del post su reddit dimostra.
 
 Perciò gli italiani -- disarmati e innocui -- una riflessione riguardo a quale direzione stia prendendo il diritto all'accesso universale alle strutture sanitarie, dovrebbero farla prima che poi, invece di protestare contro le nozze da favola di Jeff Bezos a Venezia.
+
++
+
+## Related articles
+
+- [L'AI è un game-changer perché è onesta](https://robang74.github.io/chatbots-for-fun/html/l-ai-e-un-game-changer-perche-onesta.html) &nbsp; (2025-06-23)
 
 +
 
