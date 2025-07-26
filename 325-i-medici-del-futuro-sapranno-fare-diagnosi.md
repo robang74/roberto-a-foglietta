@@ -75,7 +75,7 @@ Una giovane paziente si presenta con evidente turgore della vena giugulare ester
 
 Conclusione (diagnosi più probabile): Insufficienza cardiaca destra (o aumento della pressione venosa centrale) appare la causa più probabile, considerando l’aspetto isolato del turgore giugulare, l’assenza di trauma e il fatto che la giugulare appare costantemente tesa, non solo pulsatile.
 
----
+~~~~~
 
 ### Il rischio dell'autodiagnosi per gli utenti
 
