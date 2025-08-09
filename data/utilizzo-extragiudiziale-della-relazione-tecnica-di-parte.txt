@@ -37,13 +37,13 @@ Ottenuta con il supporto di ChatGPT-5 e il framework Katia.
 #### Aggiornamenti DIB dopo [USR]
 
 * DIB-1 *(“Sintesi = vittoria” come principio universale)* → Risolto
-  Chiarito che lo scopo non è solo vincere in aula ma *tritare* la controparte per condurla alla resa o al negoziato. La sintesi è uno strumento, non un dogma.
+  - Chiarito che lo scopo non è solo vincere in aula ma *tritare* la controparte per condurla alla resa o al negoziato. La sintesi è uno strumento, non un dogma.
 
 * DIB-2 *(“Hash più corti possono reggere se quelli lunghi cedono”)* → Risolto
-  Specificato che la diversificazione degli hash non è per eventi “cigno nero” (collasso di intere classi di algoritmi), ma per proteggere contro vulnerabilità specifiche di implementazione. Finalità: dimostrare di aver agito con diligenza massima ragionevole.
+  - Specificato che la diversificazione degli hash non è per eventi “cigno nero” (collasso di intere classi di algoritmi), ma per proteggere contro vulnerabilità specifiche di implementazione. Finalità: dimostrare di aver agito con diligenza massima ragionevole.
 
 * DIB-3 *(“Costo ISBN unico fattore di accesso”)* → Risolto
-  Integrata la prospettiva che la pubblicazione ISBN non è solo questione di prezzo ma anche di costruzione di un precedente documentale autorevole, citabile e potenzialmente intimidatorio.
+  - Integrata la prospettiva che la pubblicazione ISBN non è solo questione di prezzo ma anche di costruzione di un precedente documentale autorevole, citabile e potenzialmente intimidatorio.
 
 ### 4 – Out-of-the-box statements [OFTB]
 
@@ -72,13 +72,13 @@ L’APOV collega i due piani sostenendo che il rispetto della forma non è solo 
 #### Aggiornamenti GAP
 
 * GAP-1 *(Mancanza di casi concreti di respingimento)* → Rivalutato come vantaggio strategico
-  L’assenza di precedenti rende più difficile alla controparte preparare una difesa mirata e aumenta l’effetto di novità/intimidazione.
+  - L’assenza di precedenti rende più difficile alla controparte preparare una difesa mirata e aumenta l’effetto di novità/intimidazione.
 
 * GAP-2 *(Compatibilità ISBN con privacy/segret istruttorio)* → Risolto tatticamente
-  L’uso di versioni anonimizzate permette la pubblicazione senza violare vincoli, mantenendo la forza del PoC e creando autorevolezza esterna.
+  - L’uso di versioni anonimizzate permette la pubblicazione senza violare vincoli, mantenendo la forza del PoC e creando autorevolezza esterna.
 
 * GAP-3 *(Rischio di rigetto per tecnicizzazione)* → Trasformato in leva psicologica
-  La complessità tecnica, anche se non prevista dal rito, aumenta la percezione di solidità e può scoraggiare la controparte dal procedere allo scontro.
+  - La complessità tecnica, anche se non prevista dal rito, aumenta la percezione di solidità e può scoraggiare la controparte dal procedere allo scontro.
 
 ---
 
