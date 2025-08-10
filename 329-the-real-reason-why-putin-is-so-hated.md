@@ -139,7 +139,7 @@ Two important news reached the media in the last two days:
 2025-08-08 -- Azerbaijan and Armenia sign peace pledge at White House summit with Trump. The leaders of Azerbaijan and Armenia signed an agreement aimed at ending decades of conflict as they were hosted by President Donald Trump at the White House on Friday. -- [BBC](https://www.bbc.com/news/articles/c39dzl1lzrgo)
 [/INFO]
 
-As stated in a previously reported [conversation](#valutazione-nel-dettaglio) and in the [update](#update-2025-07-05) above: the Armenia vs Azerbaijan conflict was a pain for Russia and it was jeopardising the Putin leadership, in particular among the military high-grades hierarchy.
+As stated in a previously reported [section](#valutazione-nel-dettaglio) and in the [update](#update-2025-07-05) above: the Armenia vs Azerbaijan conflict was a pain for Russia and it was jeopardising the Putin leadership, in particular among the top military hierarchy.
 
 [!INFO]
 2025-08-08 -- President Donald Trump said Friday he will meet with Russian President Vladimir Putin on Aug.15 in Alaska to talk about an end to Russia's war in Ukraine. -- [Alaska Public Media](https://alaskapublic.org/news/politics/2025-08-08/trump-sets-meeting-date-with-putin-in-alaska)
@@ -148,7 +148,8 @@ As stated in a previously reported [conversation](#valutazione-nel-dettaglio) an
 The second is another historical issue in which Putin was seen as "weak" by the Russian ultranationalists. The opportunity to close a deal for which the USA recognised some Ukraine territorial claims in favour of Russia in exchange the Alaska do-not-return contract clause addition, would put the Zelensky government and his European campaign against Russia in a very unfavourable position.
 
 [!INFO]
-2025-08-10 -- Russians cheer Putin’s Alaska invitation, envision no concessions on Ukraine. Analysts noted Alaska was once part of the Russian Empire, and some nationalists believe it should be returned. Sam Greene, professor in Russian politics at King’s College London, said the venue favored Russia. -- [The Washington Post](https://www.washingtonpost.com/world/2025/08/10/putin-trump-russia-ukraine-summit/)
+2025-08-10 -- Russians cheer Putin’s Alaska invitation, envision no concessions on Ukraine. Analysts noted Alaska was once part of the Russian Empire, and some nationalists believe it should be returned. Sam Greene, professor in Russian politics at King’s College London, said the venue favored Russia.<br>
+ -- [The Washington Post](https://www.washingtonpost.com/world/2025/08/10/putin-trump-russia-ukraine-summit/)
 [/INFO]
 
 With these two moves, which are resembling more a chess player rather than a poker player pattern, Trump is going to consolidate his foreign politics and Putin's leadership in Russia, as well. 
