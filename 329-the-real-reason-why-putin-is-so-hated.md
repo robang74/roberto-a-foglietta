@@ -7,6 +7,7 @@
 
 - **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
 - **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisis.
+- **3dd edition**, includes an [update](#update-2025-08-10) about the Russia-USA diplomatic distension.
 
 ---
 
@@ -127,15 +128,56 @@ https://chatgpt.com/share/686970a6-9bbc-8012-81ed-7b0c588c94a0
 https://chat.mistral.ai/chat/294db351-7999-43b4-9c14-12203a521f25
 //-->
 
+
 +
+
+## UPDATE 2025-08-10
+
+Two important news reached the media in the last two days:
+
+[!INFO]
+2025-08-08 -- Azerbaijan and Armenia sign peace pledge at White House summit with Trump. The leaders of Azerbaijan and Armenia signed an agreement aimed at ending decades of conflict as they were hosted by President Donald Trump at the White House on Friday. -- [BBC](https://www.bbc.com/news/articles/c39dzl1lzrgo)
+[/INFO]
+
+As stated in a previously reported [conversation](#valutazione-nel-dettaglio) and in the [update](#update-2025-07-05) above: the Armenia vs Azerbaijan conflict was a pain for Russia and it was jeopardising the Putin leadership, in particular among the military high-grades hierarchy.
+
+[!INFO]
+2025-08-08 -- President Donald Trump said Friday he will meet with Russian President Vladimir Putin on Aug.15 in Alaska to talk about an end to Russia's war in Ukraine. -- [Alaska Public Media](https://alaskapublic.org/news/politics/2025-08-08/trump-sets-meeting-date-with-putin-in-alaska)
+[/INFO]
+
+The second is another historical issue in which Putin was seen as "weak" by the Russian ultranationalists. The opportunity to close a deal for which the USA recognised some Ukraine territorial claims in favour of Russia in exchange the Alaska do-not-return contract clause addition, would put the Zelensky government and his European campaign against Russia in a very unfavourable position.
+
+[!INFO]
+2025-08-10 -- Russians cheer Putin’s Alaska invitation, envision no concessions on Ukraine. Analysts noted Alaska was once part of the Russian Empire, and some nationalists believe it should be returned. Sam Greene, professor in Russian politics at King’s College London, said the venue favored Russia. -- [The Washington Post](https://www.washingtonpost.com/world/2025/08/10/putin-trump-russia-ukraine-summit/)
+[/INFO]
+
+With these two moves, which are resembling more a chess player rather than a poker player pattern, Trump is going to consolidate his foreign politics and Putin's leadership in Russia, as well. 
+
+A do-ut-des, which is extremely important for the USA as their public debt is skyrocketing and Rosatom is still their only viable option to buy nuclear fuel for their nuclear power plants without which blackouts are shown to happen and AI data centers require, like the humans, the air to breathe.
+
+A do-ut-des, which is extremely important for Russia, and Putin leadership in particular. Because the stake on the table is high, and the Armenia vs Azerbaijan war settles down, Putin regains the main decision-maker role which the Ukraine weakened but which is essential for the Trump presidency.
+
++
+
+---
+|x|>
+THIS ARTICLE CONTINUES FROM THE UK-UA PERSPECTIVE, WHICH INFLUENCED EU-NATO POSTURE<br>
+*which remains as a news coverage, probably historically irrelevant, soon after the Trump-Putin meeting.*
+<|x|
+---
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
++
+++++
 
 ## Update 2025-07-01
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-002.jpg" width="800"><br></div>
-
-> [!WARNING]
-> 
-> Contenuto aggiunto ma ancora in profonda fase di revisione, tradurre in inglese e associare con fonti/link.
 
 ---
 
