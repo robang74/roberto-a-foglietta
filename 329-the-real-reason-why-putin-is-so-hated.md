@@ -228,7 +228,7 @@ Perché per quanto possa la propaganda NATO aver stravolto la mente delle person
 
 Quindi Zelensky ha, di fatto, iniziato una guerra per procura su ordine di Biden. 
 
-----
+---
 
 ### La cpaziosa questione della Crimea
 
