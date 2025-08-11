@@ -1,5 +1,15 @@
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-Linkedin posts
+<div align="center"><img class="wbsketch paleinv" src="img/331-tajani-il-blu-madonna-e-le-dodici-tribu.jpg" width="800"><br></div>
+
+## Chatbot adoption rates and brain rotting
+
+- **1st draft** -- WORKING IN PROGRESS -- 2025-07-10, index number 333 --> 332
+
+---
+
+### Linkedin posts
 
 - https://www.linkedin.com/posts/robertofoglietta_c%C3%A8-sempre-una-scusa-per-essere-scemi-leggendo-activity-7348838356354527232-iCID
 
@@ -27,7 +37,7 @@ Source: lnkd.in/didQ_tKw by Dividend Dude (@DividendDude_X)
 
 ---
 
-CHATGPT-ONLY RATE ADOPTION ESTIMATION
+### ChatGPT-only rate of adoption estimation
 
 This projection is an estimation based on some reasonable hypothesis and on the interpretation of the percentage meaning (Y-to-Y on the same chatbot traffic). The main hypothesis is that at the crossing point some users start to use both chatbots for the same task on a regular basis while the ChatGPT adoption rate followed the same ratio as the three points before.
 
@@ -45,7 +55,7 @@ Source: https://x.com/RoisInvestments/status/1943025169259172250/photo/1
 
 +
 
-C'È SEMPRE UNA SCUSA PER ESSERE SCEMI!
+## C'è sempre una buona scusa per essere scemi!
 
 Leggendo parte dello studio condotto dal MIT riguardo all'uso quotidiano delle AI, apprendiamo dati interessanti.
 
@@ -64,7 +74,9 @@ Si comprende piuttosto bene che il problema era antecedente alle AI, e che le AI
 
 Perciò, ci sono almeno 2 considerazioni da fare. 
 
-- La 1a leggendo questo: <<Inoltre, nell’83% dei casi, chi aveva lavorato con ChatGPT ha poi avuto difficoltà nel citare frasi dai propri stessi testi già pochi minuti dopo averli consegnati>>
+- La 1a leggendo questo: 
+
+> Inoltre, nell’83% dei casi, chi aveva lavorato con ChatGPT ha poi avuto difficoltà nel citare frasi dai propri stessi testi già pochi minuti dopo averli consegnati
 
 Significa che almeno l'83% hanno usato l'AI come generativa invece che a supporto della scrittura o del pensiero umano.
 
@@ -77,4 +89,12 @@ Quindi che SOLO l'83% risulti alienato dal testo prodotto è un dato confortante
 - La 2a è che le droghe c.d. sciamaniche, tipo psilocybin e LCD, non aumentano l'attività celebrale ma anzi la riducono, però in modo specifico e ristrutturano temporaneamente o permanentemente la rete neurale interna al cervello con connessioni molto più distanti.
 
 Giusto per dire che in generale "meno attività" non significa "meno creatività", dipende. Spoiler: all'83% dei partecipanti non gli importava a prescindere di quei testi che dovevano scrivere!
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</div>
 
