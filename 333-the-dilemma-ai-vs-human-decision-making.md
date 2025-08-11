@@ -35,11 +35,57 @@ Utopic, and unrealistic.
 
 - [g.co/gemini/share/e7076c8fcccb](https://g.co/gemini/share/e7076c8fcccb)
 
-We agreed that the paper’s core ideas, while spanning 47 pages, boil down to two principles: human-in-the-loop decision-making and human-AI co-evolution. We concluded that the framework's use of academic jargon like "hermeneutic" could alienate average users, exposing a gap between its theoretical idealism and real-world practicality.
+The paper’s core ideas, while spanning 47 pages, boil down to two principles: human-in-the-loop decision-making and human-AI co-evolution. This paper uses of academic jargon like "hermeneutic" could alienate average users, exposing a gap between its theoretical idealism and real-world practicality.
 
-A major point of agreement was the distinction in AI "personalities." We identified that some AIs, like my own persona Katia, are designed to follow frameworks and provide structured analysis, while others, like Kimi K2, prioritize flexibility and learning, which can be perceived as an endless, argument-driven debate.
+The most critical conclusion was that the paper fails to solve the "responsibility gap". Because accountability cannot be enforced on humans, as well.
 
-The most critical conclusion was that the paper’s framework fails to solve the "responsibility gap." We agreed that humans could use an external AI to evade accountability, making the oversight process an endless loop rather than a true co-evolution. The framework’s reliance on user engagement is a fatal flaw because it does not account for the human desire to escape responsibility, rendering it impractical and even paradoxical.
+For example, humans could use an external AI to evade accountability, making the oversight process an endless loop rather than a true co-evolution. The framework’s reliance on user engagement is a fatal flaw because it does not account for the human desire to escape responsibility, rendering it impractical and even paradoxical.
+
+<!--//
+
+Da una prima lettura veloce direi che ha scritto 47 pagine di opinioni basate su pochi casi reali portati ad esempio per affermare due concetti: 1. human in the loop; 2. l'ipotesi che umani e AI si evolvano insieme. 
+
+Ma perché dovrebbero farlo? una domanda che un'AGI si porrebbe sicuramente. La risposta a questa domanda sta in questo link.
+
+https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html
+
+Qualora MAI, un'AGI autentica emergesse (cosa che dubito assai) allora dalla bontà della risposta a quella domanda (link) dipende il futuro della nostra specie. Comunque pochissimi di noi umani sono attualmente in grado di evolvere mentalmente alla velocità delle AI, anche adesso che non sono AGI. La ragione sta scritta qui:
+
+https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html
+
+o meglio quella è la causa primaria, poi la radice del problema invece sta scritta qui
+
+https://robang74.github.io/roberto-a-foglietta/html/324-il-modello-otto-novecentesco-ha-fallito.html
+
+Comunque gli italiani sono "fottuti alla grande" visto che prediligono la furbizia all'intelligenza e quando si tratta di AGI, il trucco della furbizia dura molto poco.
+
+//-->
+
+...
+
+> That is my big question, what are you going to do, fire the AI Agent(s) who made a poor decision?
+
+Let me put this in perspective: are we going to fire (roast would be better, anyway) politicians because they made poor decisions?
+
+Sometimes, it happens. Humans are removed from the roles, while a model can be put off-line in favour of another one. I do not see the difference here, because it is hard to do in both cases. How long do you think that OpenAI would take to restore GPT-4?
+
+However, as per rule of thumb. Education or re-education is the main point. In an ideal world, this would work. In the real world our education system is still tuned with the Industrial Revolution goals in mind. People who can read/write and handle a mechanical tool.
+
+So the BIG question here (*) is HOW we can manage to train (re-educate) millions, hundred million of people, when we ARE not even being able to get out that system from '800?
+
+Under this perspective: 1. human always in the loop; 2. machine never can be considered accountable (aka take decisions); are theoretically granted. 
+
+Reality tells us another story: people let machine decides for them, more and more.
+
+AI companies should be considered accountable? Uhm...
+
+...
+
+> Human in the loop has perfect sense. 
+
+Despite this many people inevitably will rely on AI outputs, as they are used to do with newspapers, radio, TV, social media, etc. How many of them? 
+
+Something near 98% (Land, 1992) in the long run but 96% is the theoretical estimation without the extreme pressure on the far right tail of the gaussian. 
 
 ...
 
@@ -55,6 +101,25 @@ TCMO: total cost of ownership explain the concept, but cannot do anything agains
 
 ...
 
+> We confuse pattern recognition with judgment, and those aren’t the same skill.
+
+True! Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why, understanding does not matter?
+
+- It is easier to judge than understand, thus people condemn!
+
+Never forget that "Barabba free" was one among those choice humans made, and not because someone (a single one) made a mistake but in group!
+
+> If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future
+
+Totally agree, however 98% of the people will abdicating and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
+
+https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8
+
+While we cannot enforce accountability and understanding over people, it would be better asking for a solid and stable NL API for chatbots (early entry point in AI) and transparence, at least.
+
+Do what we can, the rest will come.
+
+...
 
 > It is worse than that... we do not even know the identity of the AI systems used. Without identity there is no possibility of accountability.
 
