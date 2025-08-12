@@ -239,6 +239,7 @@ All the previous "observations" collected on LinkedIn, reported above because ar
 | `h` | abdicating decisional duties | ancient Greek, `idiot` ethimology |
 | `i` | trolley dilemma | false dilemma: adrenaline + instinct |
 | `j` | vendor can be held accountable | obvious in consumer rights protection |
+| `k` | without indentity, no accountability | quality of traceability in logistics |
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but bacause this lack of traceability is finally emerging as something relevant, practical and essentially important, behyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
 
@@ -248,7 +249,8 @@ Just one is really "new" -- not as per its generalisation otherwise it gets into
 
 Stephen Holmes wrote: 
 
-> It is worse than that... we do not even know the identity of the AI systems used. Without identity there is no possibility of accountability.
+<span id="dilemma-k"></span>
+> Without indentity (aka AI's id-specs) there is no possibility of accountability.
 
 In short: transparency.
 
@@ -350,7 +352,7 @@ The AI revolution is going to change the rules of the game, for sure. However, w
 
 The color of the package changes and we aren't able to deliver it anymore. Quite bufflying, indeed!
 
-Are we sure that the emerging "problem" is about the aritficial intelligence or ethics? Really?
+Are we sure that the "emerging problem" is about the aritficial intelligence vs human ethics? Really?
 
 +
 
