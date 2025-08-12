@@ -302,9 +302,9 @@ Rumors, gossip, ideological contrast and accademic debate is a great mass distra
 
 The main point is about who owns and control the steam and how many people can benefit of it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
 
----
++
 
-### Transparency is good for business
+## Transparency is good for business
 
 Accountability cannot be enforced on people thus companies, but vendors can be held accountable of damages they created after a long round of trials to reach a defintive decision which is a very inefficent way to proceed.
 
@@ -325,6 +325,10 @@ It is not a news, it always been in such a way, since the baratto was the primit
 - How to earn the market trust in AI field?
 
 Like in any others fields, being transparent and reliable. Then accountability follows, not because enforced by law or by punishements, because of quality brings in value, high quality greatly lower the damages by unfortunate events, being keen to compensate a reasonable amount of damages when the market is prosperous and the trust is high, is a win-win strategy becuase the opposite put a risk everything.
+
+Moreover, on the way of as least transparency as possible, the anti-trust action or a class-action is almost granted. Not because the system or the people are evil, but because they mind their own business -- when they are not distracted by dramas and propaganda -- and nobody wish to see thier own business distrupted because a layer, a nerd and a manager decided arbitrary that something was ON goes OFF or viceversa, without providing a back-compatible channel.
+
+For example, it is fine that GPT-5 has been made as the default option: please, give a try to it because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the paying abbonamento perimiter. That move can potentially disrupts many businesses, which is might not a huge problem nowadays but in the long time, for sure.
 
 +
 
