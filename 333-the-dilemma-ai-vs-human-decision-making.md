@@ -172,7 +172,15 @@ Nina From Canada, eh: <<Machines can only do as programed.>> -- this was not abs
 
 More in general, when "we rule, you obey" became popular, always ends-up in the same fashion: a blood bath. Why? Barabba free, docet.
 
-Anyway, nice to know that "revolution from people" is arising. The French one ends-up with Napoleon Emperor. 😘 
+Anyway, nice to know that "revolution from people" is arising. The French one ends-up with Napoleon Emperor.
+
+To be clear and very specific: the digital revolution who moved temporarily the power into the nerds and geeks hands concluded in 2001 with Cina in the WTO, extreme violence and human rights violation during G8 in Genoa, 9/11 attack and "security first" policy because everyone hate terrorism.
+
+The restauration brings on the table: mass surveillance system, paper money as financial communism, woke ideology and cancel culture, and finally Mr. Zelensky as the new Napoleon who rises against Russia fighting for our freedom and democracy.
+
+A bit less than 25 years of madness which will hopefully ends in something else than WW3 but a "stupidity kills" peaceful acceptance. Not yet close the digital revolution which as every revolution brings wealth after having exploited many, and the AI revolution begun.
+
+Humans cannot learn by history, can we learn from our own experience, at least? Uhm...
 
 //-->
 
