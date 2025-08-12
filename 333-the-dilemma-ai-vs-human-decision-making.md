@@ -298,7 +298,21 @@ It is not so strange that "ethics" debate reaches the common people much time be
 
 Rumors, gossip, ideological contrast and accademic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: trasparency and authorship.
 
-In few words: who owns and control the steam and how many people can benefit of it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
+#### In few words
+
+The main point is about who owns and control the steam and how many people can benefit of it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
+
+---
+
+### Transparency is good for business
+
+Accountability cannot be enforced on people thus companies, but vendors can be held accountable of damages they created after a long round of trials to reach a defintive decision which is a very inefficent way to proceed.
+
+The Tesla case above reported is a top example: six years to reach the first grade judge decision, then an appeal will follow because decision is too punitive than necessary and if accepted as the norm, it will lead to an less ethical and convenient strategy.
+
+Instead, transparecy -- which does not imply sharing the industrial secrets as the open source Nvidia drivers and Motorola open devices program demonstrated -- is more prone to be enforced by law. In first place becuase a lack of transparency is immediately evident, thus the punitive action is faster and straighforward.
+
+Moreover, transparecy is good for security because security by obscority is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe. Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an indipendent chemical analysis. With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some deegree of voluntary disclousure, thus transparency.
 
 +
 
