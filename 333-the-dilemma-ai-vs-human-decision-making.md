@@ -211,7 +211,7 @@ Anyway, nice to know that "revolution from people" is arising. The French one en
 
 To be clear and very specific: the digital revolution who moved temporarily the power into the nerds and geeks hands concluded in 2001 with Cina in the WTO, extreme violence and human rights violation during G8 in Genoa, 9/11 attack and "security first" policy because everyone hate terrorism.
 
-The restauration brings on the table: mass surveillance system, paper money as financial communism, woke ideology and cancel culture, and finally Mr. Zelensky as the new Napoleon who rises against Russia fighting for our freedom and democracy.
+The restauration brings on the table: mass surveillance system, paper money as financial communism, woke ideology and cancel culture, and finally Mr. Zelensky as the new Napoleon who rises against Russia fighting for our freedom and democracy. History never repeats itself, does rhymes: the first as a tragedy, the second as a commedy. Napoleon comparison is the "commedy" part, indeed.
 
 A bit less than 25 years of madness which will hopefully ends in something else than WW3 but a "stupidity kills" peaceful acceptance. Not yet close the digital revolution which as every revolution brings wealth after having exploited many, and the AI revolution begun.
 
@@ -346,7 +346,7 @@ Which brings us to the conclusion, again, that AI-humans co-evolution is not for
 
 Finally, we got at the third **BIG** dilemma, how to grant to the society: 1. transparency, 2. authorship, 3. earning opportunities. From this perspective, the ethics for the AIs, has nothing to do with their algorithms or parametric knonledge rather than a posture in reliably sharing few valuable and trustworthy information. In fact, from "transparency" also an "authorship" fair policy is easier to implement, thus "opportunities" democratisation.
 
-In finance and economics, the wealth distribution has its own index: the Gini index evaluate the wealth concentration. Too low and there is not enough big player to take risks over long-term business, like pharmaceutics or defence. Too high and too much talents are trapped in poverty plus we cannot sell high-valuable added-value products or services to people that is struggling to pay the bills. They might be forced to work for nuts, but delivering nuts (Soviet Communism, indeed!).
+In finance and economics, the wealth distribution has its own index: the Gini index evaluate the wealth concentration. Too low and there is not enough big player to take risks over long-term business, like pharmaceutics or defence. Too high and too much talents are trapped in poverty plus we cannot sell high-valuable or added-value products or services to people that is struggling to pay their bills. They might be forced to work for nuts, but delivering nuts like in the Soviet Communism era, indeed!
 
 The AI revolution is going to change the rules of the game, for sure. However, we assisted to three revolutions by now: 1. Industrial, 2. Automation, 3. Telecommunication, 4. Digital, and now 5. Intelligence. Despite almost all the adults witness between two and four of them, it seems that we are struggling in reframing the same old gold principles on the new scenario.
 
