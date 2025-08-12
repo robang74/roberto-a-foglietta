@@ -314,6 +314,18 @@ Instead, transparecy -- which does not imply sharing the industrial secrets as t
 
 Moreover, transparecy is good for security because security by obscority is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe. Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an indipendent chemical analysis. With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some deegree of voluntary disclousure, thus transparency.
 
+Transparency is good for business, because it greatly reduce volatily increasing reliability. It drop down the entry-level barrier to this market. Who wish to start a business does not need to negotiate with trillions-capitalised companies a quality of service agreement. Transparency always grant them to rely on some specific features that are public for everyone, thus less prone to be jeopardised rather than updated in back-compatibility. 
+
+For example, Ubuntu offers the long term support (LTS) for a decade or more, and a new LTS release every four years. Who those wish to do a business on Ubuntu knows that and as much Canonical strictly adhere to this policy as much the users trust on Ubuntu increases. In finantial terms, it meas that volatility is low: distruption on that policy are exceptions, might happens but probably fixed as fast as they can.
+
+- `Transparency --> Trust --> Business --> Value`
+
+It is not a news, it always been in such a way, since the baratto was the primitive form of the exchange: trust {makes, rules, wins} the market. So, the main question is:
+
+- How to earn the market trust in AI field?
+
+Like in any others fields, being transparent and reliable. Then accountability follows, not because enforced by law or by punishements, because of quality brings in value, high quality greatly lower the damages by unfortunate events, being keen to compensate a reasonable amount of damages when the market is prosperous and the trust is high, is a win-win strategy becuase the opposite put a risk everything.
+
 +
 
 ## Share alike
