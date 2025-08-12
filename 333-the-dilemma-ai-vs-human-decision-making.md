@@ -154,7 +154,7 @@ Does every life worth the same? Nope, it is harsh to admit and hard to negate. M
 
 +
 
-## Opaque chatbots harm freedom and allow IP-exfiltration
+## Transparency is a must to have
 
 All the previous "observations" collected on LinkedIn, reported above because are wroth a mention becuase not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital tecnology advent:
 
@@ -200,7 +200,9 @@ It is also about specific rules like:
 
 Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
 
-I would add also mind control or worse (psy-ops), but I wish to avoid to be so "extremely drastic" despite US military has an agreement with Google signed by them as alternative to undergo to an US anti-trust trial/confrontation.
+I would add also a section about mind control or worse (psy-ops), but I wish to avoid to be so "extremely drastic" despite US military has an agreement with Google signed by them as alternative to undergo to an US anti-trust trial/confrontation.
+
+Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intelectual property" exfiltration.
 
 ---
 
@@ -226,7 +228,7 @@ It is not so strange that "ethics" debate reaches the common people much time be
 
 Rumors, gossip, ideological contrast and accademic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: trasparency and authorship.
 
-In few words: who owns and control the steam and how many people can benefit of it.
+In few words: who owns and control the steam and how many people can benefit of it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
 
 +
 
