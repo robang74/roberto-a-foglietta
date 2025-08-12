@@ -5,7 +5,11 @@
 
 ## The dilemma AI vs Human decision making
 
-- **1st draft** -- WORKING IN PROGRESS -- some part of this article has been written as comments 2 days before.
+- **1st draft** -- some part of this article has been written as comments 2 days before.
+
+> [!WARN]
+> 
+> **WORKING IN PROGRESS**
 
 ---
 
