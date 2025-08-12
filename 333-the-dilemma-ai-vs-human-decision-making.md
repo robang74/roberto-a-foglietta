@@ -48,6 +48,16 @@ The most critical conclusion was that the paper fails to solve the "responsibili
 
 For example, humans could use an external AI to evade accountability, making the oversight process an endless loop rather than a true co-evolution. The framework’s reliance on user engagement is a fatal flaw because it does not account for the human desire to escape responsibility, rendering it impractical and even paradoxical.
 
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-002.png" width="800"><br></div>
+
+In practice, the "heuristic" co-evolution or reciprocal validation, is nothing else than a bi-directional reciprocal learning as presented in SoNia "seemless chat experiece" in which the AI and the human operator (HO) are exchanging information and learning each others on a specific topic (image on the left is taken from SoNia presentation webpage header, 2025-06-16)
+
+By the way, unless a specific topic aka perimeter of debate is defined, everything can be said in pure general form, nothing practical. Both this concepts are not obvious, because we are used to an education system that is top-down and general in goals: teacher teach, students learn + students goals or talents are not part of a personal eduction plan or interesting topics.
+
+In a paper, "researchers" were claiming that AI usage develops stupidity in humans. Because they noticed that 83% of the people were not adding any value and not even checking the AI output before delivering it as-is. Those people would have done the same, using the same detached approach when an interesting topic for them would have put into the scene? Hard to believe, they would paid attention.
+
+Therefore, as much we like to have people in the loop with AIs, as much we need to offer them an interest to be active part of that bi-directional learning process. Otherwise, it falls back into well-known SISO principle: nuts in --> nuts out, and a monkey in the middle.
+
 <!--//
 
 Da una prima lettura veloce direi che ha scritto 47 pagine di opinioni basate su pochi casi reali portati ad esempio per affermare due concetti: 1. human in the loop; 2. l'ipotesi che umani e AI si evolvano insieme. 
