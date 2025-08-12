@@ -156,6 +156,26 @@ There are several ways to take a decision in such a scenario, all of them are ab
 
 Does every life worth the same? Nope, it is harsh to admit and hard to negate. Moreover, it is highly hypocrite thinking that a company could sell cars keen to kill the occupants.
 
+<!--//
+
+Joshua Skains: <<Humans can make rules. it's really that simple.>> -- humans can agree on rules but they cannot enforce them, usually.
+
+When they can, is because they did not MAKE the rules but choose those rules were just in the wild, found,  accepted and institutionalised them.
+
+For example, humans cannot rule against gravity.  We build airplanes but not "gravity zero as per my will or as per a democratic voted law". It does not work in that way, absolutely.
+
+So, usually when humans say: "we can make rules", they are going to mess-up everything in a fucking stupid way (and in the ancient times, also die in many or large groups).
+
+Fuck-up everything has nothing to do with MAKE rules. However, it is a very "ancient" topic, and history shown that people never learn that lesson but rather they die.
+
+Nina From Canada, eh: <<Machines can only do as programed.>> -- this was not absolutely true even when classic logic was involved. Please check the etymology of IT bug and you get a grasp.
+
+More in general, when "we rule, you obey" became popular, always ends-up in the same fashion: a blood bath. Why? Barabba free, docet.
+
+Anyway, nice to know that "revolution from people" is arising. The French one ends-up with Napoleon Emperor. 😘 
+
+//-->
+
 +
 
 ## Transparency is a must to have
