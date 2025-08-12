@@ -370,6 +370,18 @@ Are we sure that the "emerging problem" is about the aritficial intelligence vs 
 
 +
 
+## AI is a game changer
+
+AI is a game changer in terms of productivity, it is a technology that can trasform some professional activities in commodity. Not because AI is particular smart, because those professional activities rely on a substantial amount of {routinely, schematic, bureocratic} tasks.
+
+Despite common perception, this will not lead towoards a great number of people who will lose their job or professional activities simple because AI will be used by the masses. They will ended up into a "cul-de-sac" **only** because their resistance to the changement rather than leverage their human-side to escalate torwards a more profitable business or activity.
+
+For example psicologists and teachers can move towards coaching and prompt engineerings with a reasonable re-trainig and professional formation. Those will wait that someone else will take care of their self-growth are going to miss an opportunity or loosing their jobs.
+
+It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whatever we partecipate at it or not. Those who cannot manage change will suffer it.
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
