@@ -165,7 +165,7 @@ All the previous "observations" collected on LinkedIn, reported above because ar
 | `d` | poor decisions and punishments | 1:10 ancient Roman consuetudine |
 | `e` p.1 | human in the loop | always, until AIs do infrastructure |
 | `e` p.2 | it makes perfect sense | plausibility is a perception, only |
-| `f` | who is responsable | everybody involved, Numberg trial |
+| `f` | who is responsable | everybody actively involved, Numberg trial |
 | `g` | pattern recognition vs judgment | felony = patterns + willingness |
 | `h` | abdicating decisional duties | ancient Greek, `idiot` ethimology |
 | `i` | trolley dilemma | false dilemma: adrenaline + instinct |
