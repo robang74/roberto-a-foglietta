@@ -156,6 +156,41 @@ There are several ways to take a decision in such a scenario, all of them are ab
 
 Does every life worth the same? Nope, it is harsh to admit and hard to negate. Moreover, it is highly hypocrite thinking that a company could sell cars keen to kill the occupants.
 
+...
+
+<span id="dilemma-j"></span>
+> Actually, who made the "AI product" can be held accountable.
+
+Bringing as example a 2019 deadly crash case in which a Tesla car with auto-pilot enabled was involved
+
+[!INFO]
+Tesla must pay portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
+[/INFO]
+
+Please, notice that "can be held accountable" does not mean "must be". So, let dig in this news:
+
+- *The jury determined Tesla should be held 33% responsible for the fatal crash.*
+
+Despite this, Tesla has been asked to pay in whole the damage + a 3x for punitive charge. Why?
+
+Tesla is the ultimate insurance of their own AI-driven vehicles. Under this perspective, knowing that Tesla-AI lead to **1000x less** crashes than humans, and Tesla would be involved in a trial **everytime** a Tesla crashes whatever it happens.
+
+Becuase the AI-driven thus Tesla fault bias, proving best practices applied is on their shoulders, thus being an insurance of their cars is **better** than facing 1000 trials and won 999 of them.
+
+- *While driving, McGee dropped his mobile phone that he was using and scrambled to pick it up.*
+
+What? Yes, but..
+
+- *He said during the trial that he believed Enhanced Autopilot would brake if an obstacle was in the way.*
+
+Can his assumption lead Tesla to pay? Yes, because
+
+- *Tesla designed Autopilot only for controlled access highways yet deliberately chose not to restrict drivers from using it elsewhere.*
+
+because "elsewhere" means much less crashes (ethics), and a more convenient self-insurance strategy, both.
+
+So, why also apply Tesla 3x punitive damages?
+
 <!--//
 
 Joshua Skains: <<Humans can make rules. it's really that simple.>> -- humans can agree on rules but they cannot enforce them, usually.
@@ -182,6 +217,8 @@ A bit less than 25 years of madness which will hopefully ends in something else 
 
 Humans cannot learn by history, can we learn from our own experience, at least? Uhm...
 
+***
+
 //-->
 
 +
@@ -201,6 +238,7 @@ All the previous "observations" collected on LinkedIn, reported above because ar
 | `g` | pattern recognition vs judgment | felony = patterns + willingness |
 | `h` | abdicating decisional duties | ancient Greek, `idiot` ethimology |
 | `i` | trolley dilemma | false dilemma: adrenaline + instinct |
+| `j` | vendor can be held accountable | obvious in consumer rights protection |
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but bacause this lack of traceability is finally emerging as something relevant, practical and essentially important, behyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
 
