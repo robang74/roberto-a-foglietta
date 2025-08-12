@@ -340,6 +340,14 @@ However, in "management" decision these constrains can be much weaker and the sc
 
 More in general and in the best case, the AI validation by humans, will happen by PhD on the benhalf of their trivial knowledge and under the pressure of a six figures debt to repay. Which does not cast as for the best-in-class warrant for an indipendent and strict checking. Easily reaching the conclusion that a mildly supervised AI by a real-world expert can beat by a high degree those are each output validated by "expert with a title".
 
+Which brings us to the conclusion, again, that AI-humans co-evolution is not for the masses but for a small percentage of people. By education and training, this percentage can be greatly expanded, saying from a 2% up to 20% of the people. Still, 80% is out of the scene anyway which reframe that 87% about finantial from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
+
+Finally, we got at the third **BIG** dilemma, how to grant to the society: 1. transparency, 2. authorship, 3. earning opportunities. From this perspective, the ethics for the AIs, has nothing to do with their algorithms or parametric knonledge rather than a posture in reliably sharing few valuable and trustworthy information. In fact, from "transparency" also an "authorship" fair policy is easier to implement, thus "opportunities" democratisation.
+
+In finance and economics, the wealth distribution has its own index: the Gini index evaluate the wealth concentration. Too low and there is not enough big player to take risks over long-term business, like pharmaceutics or defence. Too high and too much talents are trapped in poverty plus we cannot sell high-valuable added-value products or services to people that is struggling to pay the bills. They might be forced to work for nuts, but delivering nuts (Soviet Communism, indeed!).
+
+The AI revolution is going to change the rules of the game, for sure. However, we assisted to three revolutions by now: 1. Industrial, 2. Automation, 3. Telecommunication, 4. Digital, and now 5. Intelligence. Despite almost all the adults witness between two and four of them, it seems that we are struggling in reframing the same old gold principles on the new scenario. Quite bufflying, indeed!
+
 +
 
 ## Share alike
