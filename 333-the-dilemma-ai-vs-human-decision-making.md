@@ -48,9 +48,11 @@ The most critical conclusion was that the paper fails to solve the "responsibili
 
 For example, humans could use an external AI to evade accountability, making the oversight process an endless loop rather than a true co-evolution. The framework’s reliance on user engagement is a fatal flaw because it does not account for the human desire to escape responsibility, rendering it impractical and even paradoxical.
 
+The paper -- trying to reach its main goal, enforcing accountability on humans -- it ends up, in practice, into an endless loop of supervising, because the endless logs created in tracking every step of every human-AI decision can be checked by AI only, which generates more logs that should be checked, again.
+
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-002.png" width="800"><br></div>
 
-In practice, the "heuristic" co-evolution or reciprocal validation, is nothing else than a bi-directional reciprocal learning as presented in SoNia "seamless chat experience" in which the AI and the human operator (HO) are exchanging information and learning each others about a specific topic (image on the left is taken from SoNia presentation webpage header, 2025-06-16)
+On the other hand, the "heuristic" co-evolution or reciprocal validation (2025-07-20, image on the right), is nothing else than a bi-directional reciprocal learning as presented in SoNia "seamless chat experience" in which the AI and the human operator (HO) are exchanging information and learning each others about a specific topic (image on the left is taken from SoNia presentation webpage header, 2025-06-16)
 
 By the way, unless a specific topic aka perimeter of debate is defined, everything can be said in pure general form, nothing practical. Both these concepts are not obvious, because we are used to an education system that is top-down and general in goals: teacher teaches, students learn + students goals or talents are not part of a personal education plan or interesting topics.
 
