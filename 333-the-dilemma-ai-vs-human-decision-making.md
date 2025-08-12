@@ -5,7 +5,7 @@
 
 ## The dilemma AI vs Human decision making
 
-- **1st draft** -- some part of this article has been written as comments 2 days before.
+- **2nd draft** -- some part of this article has been written as comments 2 days before.
 
 > [!WARN]
 > 
@@ -17,9 +17,9 @@
 
 In a world in which humans are not anymore accountable, nor trustworthy, machines are earning a place as decision makers. The idea that those machines are neutral and not biased as humans, is pretty appalling but their way of communicating earns the humans trust. 
 
-And such a way, did not happen for a chance but for marketing thus it is also part of the plot. Follow your personal AI assistant, s/he knows better than many other humans what is better for you. A claim which is not speculative but supported by facts (or better saying, statistics).
+And such a way, did not happen for a chance but for marketing thus it is also part of the plot. Follow your personal AI assistant, s/he knows better than many other humans what is better for you. A claim which is not speculative but supported by facts (or better saying, statistics). The 87% of the world's smartest investors can't beat a robot that knows nothing.
 
-- https://www.linkedin.com/posts/robertofoglietta_il-consulente-finanziario-un-altro-lavoro-activity-7359336445733494785-wWw2
+- Il consulente finanziario, un altro lavoro a sparire &nbsp; [post](https://www.linkedin.com/posts/robertofoglietta_il-consulente-finanziario-un-altro-lavoro-activity-7341015581757714432-23D5) &nbsp;  [chat](https://chatgpt.com/share/68526fc4-259c-8012-ba72-bf692ab5faad) &nbsp; (Jul 2025)
 
 The agentic AI is going to commoditize a lot of process that even when they were not routines, they can be packed inside the "bureaucracy" category. The best is that all our process would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before strip bureaucracy, we need to commoditised it.
 
