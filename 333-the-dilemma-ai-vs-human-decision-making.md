@@ -346,7 +346,11 @@ Finally, we got at the third **BIG** dilemma, how to grant to the society: 1. tr
 
 In finance and economics, the wealth distribution has its own index: the Gini index evaluate the wealth concentration. Too low and there is not enough big player to take risks over long-term business, like pharmaceutics or defence. Too high and too much talents are trapped in poverty plus we cannot sell high-valuable added-value products or services to people that is struggling to pay the bills. They might be forced to work for nuts, but delivering nuts (Soviet Communism, indeed!).
 
-The AI revolution is going to change the rules of the game, for sure. However, we assisted to three revolutions by now: 1. Industrial, 2. Automation, 3. Telecommunication, 4. Digital, and now 5. Intelligence. Despite almost all the adults witness between two and four of them, it seems that we are struggling in reframing the same old gold principles on the new scenario. Quite bufflying, indeed!
+The AI revolution is going to change the rules of the game, for sure. However, we assisted to three revolutions by now: 1. Industrial, 2. Automation, 3. Telecommunication, 4. Digital, and now 5. Intelligence. Despite almost all the adults witness between two and four of them, it seems that we are struggling in reframing the same old gold principles on the new scenario.
+
+The color of the package changes and we aren't able to deliver it anymore. Quite bufflying, indeed!
+
+Are we sure that the emerging "problem" is about the aritficial intelligence or ethics? Really?
 
 +
 
