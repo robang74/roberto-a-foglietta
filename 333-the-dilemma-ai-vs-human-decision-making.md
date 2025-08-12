@@ -56,7 +56,11 @@ By the way, unless a specific topic aka perimeter of debate is defined, everythi
 
 In a paper, "researchers" were claiming that AI usage develops stupidity in humans. Because they noticed that 83% of the people were not adding any value and not even checking the AI output before delivering it as-is. Those people would have done the same, using the same detached approach when an interesting topic for them would have put into the scene? Hard to believe, they would paid attention.
 
-Therefore, as much we like to have people in the loop with AIs, as much we need to offer them an interest to be active part of that bi-directional learning process. Otherwise, it falls back into well-known SISO principle: nuts in --> nuts out, and a monkey in the middle.
+Therefore, as much we like to have people in the loop with AIs, as much we need to offer them an interest to be active part of that bi-directional learning process. Otherwise, it falls back into well-known SISO principle:
+
+- `nuts in --> nuts out, and a monkey in the middle.`
+
+Moreover, we are used to consider the top-down approach in learning as the only way to teach because our eductional system came from times in which rules, knowledge and society were static, for decades or generations or centuries. Unless, someone conquers someone else and thus the shift was evident, but not necessarly because the Roman Empire prospered on the pragmatic domination rule to interfere with local customs as less as possible.
 
 <!--//
 
