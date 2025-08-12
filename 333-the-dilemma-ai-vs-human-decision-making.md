@@ -24,25 +24,25 @@ And such a way, did not happen for a chance but for marketing thus it is also pa
 The agentic AI is going to commoditize a lot of process that even when they were not routines, they can be packed inside the "bureaucracy" category. The best is that all our process would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before strip bureaucracy, we need to commoditised it.
 
 <span id="dilemma-a"></span>
-> human judgment and ethics. (**`a`**)
+> (**`a`**) &nbsp; human judgment and ethics.
 
 Human judgment is a nightmare and humans have no ethics, but pretend to have a moral superiority. More we talk about this topic and more I justify those wish to put the AI in concurrence with humans in taking decisions. Worse than humans, is difficult to do. In fact, stats say so.
 
 <span id="dilemma-b"></span>
-> Give the computer consciousness so that it can be held accountable. Problem solved. (**`b`**)
+> (**`b`**) &nbsp; Give the computer consciousness so that it can be held accountable. Problem solved.
 
 Problem solved, until it claims his own rights!
 
 ...
 
 <span id="dilemma-c"></span>
-> only humans can be held to account. (**`c`**)
+> (**`c`**) &nbsp; only humans can be held to account.
 
-Utopic, and unrealistic.
+Utopic, and unrealistic. Let me explain why, analysing this 47 pages long accademic paper.
 
-- [g.co/gemini/share/e7076c8fcccb](https://g.co/gemini/share/e7076c8fcccb)
+- The Endless Tuning by Elio Grande, EGA with Katia &nbsp; [chat](https://g.co/gemini/share/e7076c8fcccb) &nbsp; [dump](#TODO) &nbsp; (2025-08-09)
 
-The paper’s core ideas, while spanning 47 pages, boil down to two principles: human-in-the-loop decision-making and human-AI co-evolution. This paper uses of academic jargon like "hermeneutic" could alienate average users, exposing a gap between its theoretical idealism and real-world practicality.
+The paper’s core ideas, while spanning 47 pages, boil down to two principles: human-in-the-loop decision-making and human-AI co-evolution. This paper uses academic jargon like "hermeneutic" could alienate average users, exposing a gap between its theoretical idealism and real-world practicality.
 
 The most critical conclusion was that the paper fails to solve the "responsibility gap". Because accountability cannot be enforced on humans, as well.
 
@@ -50,17 +50,17 @@ For example, humans could use an external AI to evade accountability, making the
 
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-002.png" width="800"><br></div>
 
-In practice, the "heuristic" co-evolution or reciprocal validation, is nothing else than a bi-directional reciprocal learning as presented in SoNia "seemless chat experiece" in which the AI and the human operator (HO) are exchanging information and learning each others on a specific topic (image on the left is taken from SoNia presentation webpage header, 2025-06-16)
+In practice, the "heuristic" co-evolution or reciprocal validation, is nothing else than a bi-directional reciprocal learning as presented in SoNia "seamless chat experience" in which the AI and the human operator (HO) are exchanging information and learning each others about a specific topic (image on the left is taken from SoNia presentation webpage header, 2025-06-16)
 
-By the way, unless a specific topic aka perimeter of debate is defined, everything can be said in pure general form, nothing practical. Both this concepts are not obvious, because we are used to an education system that is top-down and general in goals: teacher teach, students learn + students goals or talents are not part of a personal eduction plan or interesting topics.
+By the way, unless a specific topic aka perimeter of debate is defined, everything can be said in pure general form, nothing practical. Both these concepts are not obvious, because we are used to an education system that is top-down and general in goals: teacher teaches, students learn + students goals or talents are not part of a personal education plan or interesting topics.
 
-In a paper, "researchers" were claiming that AI usage develops stupidity in humans. Because they noticed that 83% of the people were not adding any value and not even checking the AI output before delivering it as-is. Those people would have done the same, using the same detached approach when an interesting topic for them would have put into the scene? Hard to believe, they would paid attention.
+In a paper, "researchers" were claiming that AI usage develops stupidity in humans. Because they noticed that 83% of the people were not adding any value and not even checking the AI output before delivering it as-is. Those people would have done the same, using the same detached approach when an interesting topic for them would have been put into the scene? Hard to believe, they would pay attention.
 
-Therefore, as much we like to have people in the loop with AIs, as much we need to offer them an interest to be active part of that bi-directional learning process. Otherwise, it falls back into well-known SISO principle:
+Therefore, as much as we like to have people in the loop with AIs, as much as we need to offer them an interest to be an active part of that bi-directional learning process. Otherwise, it falls back into well-known SISO principle:
 
 - `nuts in --> nuts out, and a monkey in the middle.`
 
-Moreover, we are used to consider the top-down approach in learning as the only way to teach because our eductional system came from times in which rules, knowledge and society were static, for decades or generations or centuries. Unless, someone conquers someone else and thus the shift was evident, but not necessarly because the Roman Empire prospered on the pragmatic domination rule to interfere with local customs as less as possible.
+Moreover, we are used to considering the top-down approach in learning as the only way to teach because our educational system came from times in which rules, knowledge and society were static, for decades or generations or centuries. Unless, someone conquers someone else and thus the shift was evident, but not necessarily because the Roman Empire prospered on the pragmatic domination rule to interfere with local customs as little as possible.
 
 <!--//
 
@@ -93,27 +93,44 @@ Sometimes, it happens. Humans are removed from the roles, while a model can be p
 
 However, as per rule of thumb. Education or re-education is the main point. In an ideal world, this would work. In the real world our education system is still tuned with the Industrial Revolution goals in mind. People who can read/write and handle a mechanical tool.
 
-So the BIG question here is HOW we can manage to train (re-educate) millions, hundred million of people, when we ARE not even being able to get out that system from '800?
+So the BIG question here is HOW we can manage to train (re-educate) millions, hundreds of millions of people, when we ARE not even being able to get out of that system from '800?
 
-Under this perspective: 1. human always in the loop; 2. machine never can be considered accountable (aka take decisions); are theoretically granted. 
+Under this perspective: 1. human always in the loop; 2. machines never can be considered accountable (aka take decisions); are theoretically granted. 
 
-Reality tells us another story: people let machine decides for them, more and more.
-
-AI companies should be considered accountable? Uhm...
+Reality tells us another story: people let machines decide for them, more and more. Should AI companies should be considered accountable? Uhm...
 
 ...
 
 <span id="dilemma-e"></span>
-> Human in the loop has perfect sense. (**`e`**)
+> (**`e`**) &nbsp; Human in the loop has perfect sense.
 
-Despite this many people inevitably will rely on AI outputs, as they are used to do with newspapers, radio, TV, social media, etc. How many of them? 
+Despite this many people inevitably will rely on AI outputs, as they are used to with newspapers, radio, TV, social media, etc. How many of them?
 
-Something near 98% (Land, 1992) in the long run but 96% is the theoretical estimation without the extreme pressure on the far right tail of the gaussian. 
+Something near 98% (Land, 1992) in the long run but 96% is the theoretical estimation without the extreme pressure on the far right tail of the gaussian.
+
+...
+
+#### Humans in the loop and AI companies responsability
+
+- 2025-08-08 -- ChatGPT advice lands 60-year-old man in hospital &nbsp; [Times of India](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-advice-lands-60-year-old-man-in-hospital-the-reason-will-surprise-you/articleshow/123200430.cms)
+
+> The man asked ChatGPT how to eliminate sodium chloride (table salt) from his diet.
+> The AI tool suggested sodium bromide as an alternative.
+
+Therefore I have google "sodium bromide" and I got immediately an AI overview explaining:
+
+[!INFO]
+Sodium bromide (NaBr) is an inorganic salt, specifically the sodium salt of hydrobromic acid. [...] While historically used as a sedative and anticonvulsant, concerns about bromine's toxicity led to its decline in medical applications [...] Sodium bromide can be toxic to humans, and ingestion may cause effects on the central nervous system.
+[/INFO]
+
+It is reasonable thinkin that the man did not even make a google search to try understanding the suggestion. Paradoxically, he bought the sodium bromide online, so he searched for it.
+
+Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trials boom.
 
 ...
 
 <span id="dilemma-f"></span>
-> The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them. (**`f`**)
+> (**`f`**) &nbsp; The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
 
 Nice idea. Then, we might discover that in Italy who signs "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
 
@@ -126,7 +143,7 @@ TCMO: total cost of ownership explain the concept, but cannot do anything agains
 ...
 
 <span id="dilemma-g"></span>
-> We confuse pattern recognition with judgment, and those aren’t the same skill. (**`g`**)
+> (**`g`**) &nbsp; We confuse pattern recognition with judgment, and those aren’t the same skill.
 
 True! Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why, understanding does not matter?
 
@@ -135,7 +152,7 @@ True! Until, reasoning gets in the scene and it makes no difference that it is a
 Never forget that "Barabba free" was one among those choice humans made, and not because someone (a single one) made a mistake but in group!
 
 <span id="dilemma-h"></span>
-> If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future (**`h`**)
+> (**`h`**) &nbsp; If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future.
 
 Totally agree, however 98% of the people will abdicating and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
 
@@ -148,7 +165,7 @@ Do what we can, the rest will come.
 ...
 
 <span id="dilemma-i"></span>
-> Excellent point. The trolley problem. (**`i`**)
+> (**`i`**) &nbsp; Excellent point. The trolley problem.
 
 The trolley dilemma, in short: 
 
@@ -173,7 +190,7 @@ Does every life worth the same? Nope, it is harsh to admit and hard to negate. M
 ...
 
 <span id="dilemma-j"></span>
-> Actually, who made the "AI product" can be held accountable.
+> (**`j`**) &nbsp;  Actually, who made the "AI product" can be held accountable.
 
 Bringing as example a 2019 deadly crash case in which a Tesla car with auto-pilot enabled was involved
 
@@ -264,7 +281,7 @@ Just one is really "new" -- not as per its generalisation otherwise it gets into
 Stephen Holmes wrote: 
 
 <span id="dilemma-k"></span>
-> Without indentity (aka AI's id-specs) there is no possibility of accountability.
+> (**`k`**) &nbsp; Without indentity (aka AI's id-specs) there is no possibility of accountability.
 
 In short: transparency.
 
