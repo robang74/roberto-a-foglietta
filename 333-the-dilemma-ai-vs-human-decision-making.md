@@ -352,7 +352,7 @@ We can agree that such a case is an exception, not the norm. Then we need to kee
 
 However, in "management" decision these constrains can be much weaker and the scenario changes. Then we need to keep in consideration than a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolio deal with.
 
-- (image mame of PhD old times vs nowadays)
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-003.jpg" width="800"><br></div>
 
 More in general and in the best case, the AI validation by humans, will happen by PhD on the benhalf of their trivial knowledge and under the pressure of a six figures debt to repay. Which does not cast as for the best-in-class warrant for an indipendent and strict checking. Easily reaching the conclusion that a mildly supervised AI by a real-world expert can beat by a high degree those are each output validated by "expert with a title".
 
