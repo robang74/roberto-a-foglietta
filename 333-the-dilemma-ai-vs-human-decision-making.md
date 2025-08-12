@@ -112,7 +112,7 @@ TCMO: total cost of ownership explain the concept, but cannot do anything agains
 
 True! Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why, understanding does not matter?
 
-- It is easier to judge than understand, thus people condemn!
+- It is easier to judge than understand, thus people condemn! (semcit.)
 
 Never forget that "Barabba free" was one among those choice humans made, and not because someone (a single one) made a mistake but in group!
 
@@ -121,7 +121,7 @@ Never forget that "Barabba free" was one among those choice humans made, and not
 
 Totally agree, however 98% of the people will abdicating and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
 
-https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8
+- [lnkd.in/dWv5-sKm](https://lnkd.in/dWv5-sKm) (persistent cache)
 
 While we cannot enforce accountability and understanding over people, it would be better asking for a solid and stable NL API for chatbots (early entry point in AI) and transparence, at least.
 
@@ -154,7 +154,7 @@ Does every life worth the same? Nope, it is harsh to admit and hard to negate. M
 
 +
 
-# Opaque chatbots harm freedom and allow IP-exfiltration
+## Opaque chatbots harm freedom and allow IP-exfiltration
 
 All the previous "observations" collected on LinkedIn, reported above because are wroth a mention becuase not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital tecnology advent:
 
@@ -171,6 +171,10 @@ All the previous "observations" collected on LinkedIn, reported above because ar
 | `i` | trolley dilemma | false dilemma: adrenaline + instinct |
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but bacause this lack of traceability is finally emerging as something relevant, practical and essentially important, behyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
+
+---
+
+### Problem identification
 
 Stephen Holmes wrote: 
 
@@ -197,6 +201,32 @@ It is also about specific rules like:
 Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
 
 I would add also mind control or worse (psy-ops), but I wish to avoid to be so "extremely drastic" despite US military has an agreement with Google signed by them as alternative to undergo to an US anti-trust trial/confrontation.
+
+---
+
+### Solution follows
+
+Under the perspective that anything is really "new" but it is just a matter of properly reframing a well-known into a new scenario with a high-grade of novelty, identificating the problem usually straighforward leads to identificate the solution.
+
+While a dilemma can admit a theoretical answer that can be elected as "solution" by varying criterias among them "popularity" or "common sense", usually that answer does not allow any practical and/or effective implementation in the real world.
+
+A pragmatic approach is based on solving most relevant real-world problems in a practical way under the "do what we can, the rest will come" principle. Sustaining the idea that once a topic started to faced in practice, then dilemmas reframe.
+
+In this specific case we need a solid, stable and transparent natural language accessible API for chatbots. Which is not only about web interface but also which internal resources and information are exposed and then accessible to the end users.
+
+---
+
+### The elephant in the room
+
+The other **BIG** practical issue is **HOW** to compensate the creative authorship in the AI era. In this field, reframing is not straighforward because **HUGE** interests are involved and fundamentally because in reframing this topic (whatever is the reframing attempt), the most appalling evicence is that copyright was an outrougesly abused up to nowadays.
+
+Which is the reason because software-libre movement arises, Open Source definition has been institutionalised, and Creative Commons licencing scheme achieves such great acknoledgement among the wide authors "small business" platea.
+
+It is not so strange that "ethics" debate reaches the common people much time before anyone could provide a concrete answer to practical problems which until a pattern of behaving in a novel field is difficult to recognise.
+
+Rumors, gossip, ideological contrast and accademic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: trasparency and authorship.
+
+In few words: who owns and control the steam and how many people can benefit of it.
 
 +
 
