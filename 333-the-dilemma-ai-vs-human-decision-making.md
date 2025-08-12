@@ -330,6 +330,16 @@ Moreover, on the way of as least transparency as possible, the anti-trust action
 
 For example, it is fine that GPT-5 has been made as the default option: please, give a try to it because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the paying abbonamento perimiter. That move can potentially disrupts many businesses, which is might not a huge problem nowadays but in the long time, for sure.
 
+Obscurity enforces humans to validate every each AI output, instead. Which might seem a great advatage trading human accountability for transparency by a mere theoretical or logical thinking. Unfortunately, reality is brutal in dismiss this statment as the trial against Tesla above reported clearly shows: people are more keen to risk a fatal car crash for playing with their smartphones rather than validate AI outputs.
+
+We can agree that such a case is an exception, not the norm. Then we need to keep in consideration that Tesla AI output is 99.99% safer than people counterpart and it happens at rate that common people cannot handle, probably not even a jet fighter pilot would be able to. 
+
+However, in "management" decision these constrains can be much weaker and the scenario changes. Then we need to keep in consideration than a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolio deal with.
+
+- (image mame of PhD old times vs nowadays)
+
+More in general and in the best case, the AI validation by humans, will happen by PhD on the benhalf of their trivial knowledge and under the pressure of a six figures debt to repay. Which does not cast as for the best-in-class warrant for an indipendent and strict checking. Easily reaching the conclusion that a mildly supervised AI by a real-world expert can beat by a high degree those are each output validated by "expert with a title".
+
 +
 
 ## Share alike
