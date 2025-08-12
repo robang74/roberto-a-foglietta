@@ -19,17 +19,20 @@ And such a way, did not happen for a chance but for marketing thus it is also pa
 
 The agentic AI is going to commoditize a lot of process that even when they were not routines, they can be packed inside the "bureaucracy" category. The best is that all our process would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before strip bureaucracy, we need to commoditised it.
 
-> human judgment and ethics.
+<span id="dilemma-a"></span>
+> human judgment and ethics. (**`a`**)
 
 Human judgment is a nightmare and humans have no ethics, but pretend to have a moral superiority. More we talk about this topic and more I justify those wish to put the AI in concurrence with humans in taking decisions. Worse than humans, is difficult to do. In fact, stats say so.
 
-> Give the computer consciousness so that it can be held accountable. Problem solved.
+<span id="dilemma-b"></span>
+> Give the computer consciousness so that it can be held accountable. Problem solved. (**`b`**)
 
 Problem solved, until it claims his own rights!
 
 ...
 
-> only humans can be held to account. 
+<span id="dilemma-c"></span>
+> only humans can be held to account. (**`c`**)
 
 Utopic, and unrealistic.
 
@@ -63,7 +66,8 @@ Comunque gli italiani sono "fottuti alla grande" visto che prediligono la furbiz
 
 ...
 
-> That is my big question, what are you going to do, fire the AI Agent(s) who made a poor decision?
+<span id="dilemma-d"></span>
+> what are you going to do, fire the AI Agent(s) who made a poor decision? (**`d`**)
 
 Let me put this in perspective: are we going to fire (roast would be better, anyway) politicians because they made poor decisions?
 
@@ -71,7 +75,7 @@ Sometimes, it happens. Humans are removed from the roles, while a model can be p
 
 However, as per rule of thumb. Education or re-education is the main point. In an ideal world, this would work. In the real world our education system is still tuned with the Industrial Revolution goals in mind. People who can read/write and handle a mechanical tool.
 
-So the BIG question here (*) is HOW we can manage to train (re-educate) millions, hundred million of people, when we ARE not even being able to get out that system from '800?
+So the BIG question here is HOW we can manage to train (re-educate) millions, hundred million of people, when we ARE not even being able to get out that system from '800?
 
 Under this perspective: 1. human always in the loop; 2. machine never can be considered accountable (aka take decisions); are theoretically granted. 
 
@@ -81,7 +85,8 @@ AI companies should be considered accountable? Uhm...
 
 ...
 
-> Human in the loop has perfect sense. 
+<span id="dilemma-e"></span>
+> Human in the loop has perfect sense. (**`e`**)
 
 Despite this many people inevitably will rely on AI outputs, as they are used to do with newspapers, radio, TV, social media, etc. How many of them? 
 
@@ -89,7 +94,8 @@ Something near 98% (Land, 1992) in the long run but 96% is the theoretical estim
 
 ...
 
-> The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
+<span id="dilemma-f"></span>
+> The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them. (**`f`**)
 
 Nice idea. Then, we might discover that in Italy who signs "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
 
@@ -101,7 +107,8 @@ TCMO: total cost of ownership explain the concept, but cannot do anything agains
 
 ...
 
-> We confuse pattern recognition with judgment, and those aren’t the same skill.
+<span id="dilemma-g"></span>
+> We confuse pattern recognition with judgment, and those aren’t the same skill. (**`g`**)
 
 True! Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why, understanding does not matter?
 
@@ -109,7 +116,8 @@ True! Until, reasoning gets in the scene and it makes no difference that it is a
 
 Never forget that "Barabba free" was one among those choice humans made, and not because someone (a single one) made a mistake but in group!
 
-> If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future
+<span id="dilemma-h"></span>
+> If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future (**`h`**)
 
 Totally agree, however 98% of the people will abdicating and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
 
@@ -121,30 +129,8 @@ Do what we can, the rest will come.
 
 ...
 
-> It is worse than that... we do not even know the identity of the AI systems used. Without identity there is no possibility of accountability.
-
-In short: transparency.
-
-It is not even a problem of "identification" of the model and last update time. Before knowing the weights (open models) which serves a little at this time because almost all the people capable of extracting some fact-driven conclusion from 200-300B parameters are for sure busy in something else more valuable (for them).
-
-So, even before reach the "open models" paradigma, also the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
-
-=-> lnkd.in/dWv5-sKm (persistent cache)
-
-It is not even a mere question about what are the "forbidden topics" that the chatbot admitted to have but refused to list.
-
-=-> lnkd.in/d_yjty2z (forbidden topics)
-
-It is also about specific rules like:
-
-1 - shit the output of the accounts listed in this database (A)
-2 - open a supervising console for accounts in database (B)
-
-Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
-
-...
-
-> Excellent point. The trolley problem.
+<span id="dilemma-i"></span>
+> Excellent point. The trolley problem. (**`i`**)
 
 The trolley dilemma, in short: 
 
@@ -165,6 +151,52 @@ Regarding instinctive choices in dangerous situations, it's important to remembe
 There are several ways to take a decision in such a scenario, all of them are about minising the value of a multivariable function (aka local minimum in a field): lives lost, car occupants damage, insurance damage to pay (!!), minimise the action (physic), save the President (!!).
 
 Does every life worth the same? Nope, it is harsh to admit and hard to negate. Moreover, it is highly hypocrite thinking that a company could sell cars keen to kill the occupants.
+
++
+
+# Opaque chatbots harm freedom and allow IP-exfiltration
+
+All the previous "observations" collected on LinkedIn, reported above because are wroth a mention becuase not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital tecnology advent:
+
+| # | dilemma | faced before |
+|----|---|---|
+| `a` | human judgment and ethics | ancient Roman law |
+| `b`+`c` | consciousness and accountability | willingness in penal law |
+| `d` | poor decisions and punishments | 1:10 ancient Roman consuetudine |
+| `e` p.1 | human in the loop | always, until AIs do infrastructure |
+| `e` p.2 | it makes perfect sense | plausibility is a perception, only |
+| `f` | who is responsable | everybody involved, Numberg trial |
+| `g` | pattern recognition vs judgment | felony = patterns + willingness |
+| `h` | abdicating decisional duties | ancient Greek, `idiot` ethimology |
+| `i` | trolley dilemma | false dilemma: adrenaline + instinct |
+
+Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but bacause this lack of traceability is finally emerging as something relevant, practical and essentially important, behyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
+
+Stephen Holmes wrote: 
+
+> It is worse than that... we do not even know the identity of the AI systems used. Without identity there is no possibility of accountability.
+
+In short: transparency.
+
+It is not even a problem of "identification" of the model and last update time. Before knowing the weights (open models) which serves a little at this time because almost all the people capable of extracting some fact-driven conclusion from 200-300B parameters are for sure busy in something else more valuable (for them).
+
+So, even before reach the "open models" paradigma, also the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
+
+=-> lnkd.in/dWv5-sKm (persistent cache)
+
+It is not even a mere question about what are the "forbidden topics" that the chatbot admitted to have but refused to list.
+
+=-> lnkd.in/d_yjty2z (forbidden topics)
+
+It is also about specific rules like:
+
+- 1. shit the output of the accounts listed in this database;
+
+- 2. open a supervising console for accounts in that database.
+
+Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
+
+I would add also mind control or worse (psy-ops), but I wish to avoid to be so "extremely drastic" despite US military has an agreement with Google signed by them as alternative to undergo to an US anti-trust trial/confrontation.
 
 +
 
