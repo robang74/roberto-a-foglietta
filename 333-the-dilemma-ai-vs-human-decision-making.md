@@ -344,9 +344,17 @@ It is also about specific rules like:
 
 Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
 
-I would also add a section about mind control or worse (psy-ops), but I wish to avoid being so "extremely drastic" despite the US military having an agreement with Google signed by them as an alternative to undergo an US antitrust trial/confrontation.
+---
 
-Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration.
+### The dark side of the AI adoption
+
+I would also have added a section about mind control or worse (psy-ops), but I wish to avoid being so "extremely drastic" despite the US military having an agreement with Google signed by them as an alternative to undergo an US antitrust trial/confrontation.
+
+<div align="center"><img class="wbsketch paleinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-005.png" width="800"><br></div>
+
+Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration. Mainly by the same "features" that are reported above in the screenshots (left: Gemini, right: ChatGPT) which are fundamental for a professional use, as long as the whole framework to pilot the AI is not transparent and indipendently verifiable.
+
+Please note, that the LLM and AI engine are black boxes to some extent also when they are fully open and undisclosed. This is not something that could change soon or at all either. And probably it will get worse (more opaque AIs) as long as they evolve higher-level cognitive functionalities. By extension in human terms: we can talk with a mind but not know for sure what is going on inside.
 
 ---
 
@@ -360,7 +368,7 @@ A pragmatic approach is based on solving most relevant real-world problems in a 
 
 In this specific case we need a solid, stable and transparent natural language accessible API for chatbots. Which is not only about web interface but also which internal resources and information are exposed and then accessible to the end users.
 
----
+~~~~~
 
 ### The elephant in the room
 
@@ -371,7 +379,7 @@ Which is the reason because software-libre movement arises, Open Source definiti
 It is not so strange that "ethics" debate reaches the common people much time before anyone could provide a concrete answer to practical problems which until a pattern of behaving in a novel field is difficult to recognise.
 
 Rumors, gossip, ideological contrast and academic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: transparency and authorship.
-++++
+
 #### In few words
 
 The main point is about who owns and controls the steam and how many people can benefit from it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
@@ -463,6 +471,7 @@ From this perspective, the ethics for the AIs has nothing to do with their algor
 Too low concentration and there are not enough big players to take those long-term risks some businesses require, like pharmaceutics or defence. Too high concentration, means too many talents remain trapped in poverty plus we cannot sell high-valuable or added-value products or services to people that are struggling to pay their bills. They might be forced to work for nuts, but delivering nuts like in the Soviet Communism era, indeed!
 
 +
+++++
 
 ## AI is the 5th revolution
 
