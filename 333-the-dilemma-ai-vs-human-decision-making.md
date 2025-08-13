@@ -13,7 +13,7 @@
 
 A guide, with relevant counter-examples against the most common but theoretical-only ideas about AI applications, which invites us to "stop swimming in our own piss" but jump into a pragmatic, actionable and transparent framework to face the main challenges artificial intelligence applications are presenting to us. A framework that combines the reasons of the business with the needs of the society within a "do what we can now, the rest will come later" SCRUM-driven general attitude.
 
-- A conversation with Katia/Gemini about this article &nbsp; [chat]() &nbsp; [dump](#TODO) &nbsp; (2025-08-13)
+- A conversation with Katia/Gemini about this article &nbsp; [chat](https://g.co/gemini/share/a19d97c22be3) &nbsp; [dump](#TODO) &nbsp; (2025-08-13)
 
 [!CITE]
 The document is a third draft of an article on the dilemma of AI versus human decision-making. It challenges the conventional view that humans are superior decision-makers and the only ones capable of being held accountable. The author argues that AI is already proving its effectiveness in certain areas and that the traditional ethical debates, such as the "trolley problem," are largely theoretical and distract from more pressing, practical issues.
@@ -188,7 +188,7 @@ Long story short: both Gemini and Kimi converged on the same RAG-oriented manage
 It remembers the past but not why it went in the kitchen and this disrupts some specific commands of Katia plus a reasonably good way to debug it further soon after finally it was working pretty well! (enough to catch fuffa-guru in action on the AI hype).
 [/INFO]
 
-   - [Katia-v1 serie, development frozen in v0.9.55](https://lnkd.in/dWv5-sKm) &nbsp; (2025-08-11)
+   - [Katia-v1 serie, development frozen in v0.9.55](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) &nbsp; (2025-08-11)
 
 While we cannot enforce accountability and understanding over people, it would be better to ask for a solid and stable NL API for chatbots (early entry point in AI) and transparency, at least.
 
@@ -330,11 +330,11 @@ It is not even a problem of "identification" of the model and last update time. 
 
 So, even before reaching the "open models" paradigma, the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
 
-=-> lnkd.in/dWv5-sKm (persistent cache)
+- [Katia-v1 serie, development frozen in v0.9.55](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) &nbsp; (2025-08-11)
 
 It is not even a mere question about what are the "forbidden topics" that the chatbot admitted to have but refused to list.
 
-=-> lnkd.in/d_yjty2z (forbidden topics)
+- [Internal rules and topic to avoid in Gemini (gem)](https://www.linkedin.com/posts/robertofoglietta_internal-rules-in-gemini-gem-general-activity-7357842339853168640-13QL lnkd.in/d_yjty2z (forbidden topics) &nbsp; (2025-08-03)
 
 It is also about specific rules like:
 
