@@ -398,33 +398,74 @@ We can agree that such a case is an exception, not the norm. Then we need to kee
 
 However, in "management" decisions these constraints can be much weaker and the scenario changes. Then we need to keep in consideration that a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolios deal with.
 
+...
+
+### The PhD grade AIs vs humans
+
+More in general and in the best case, AI validation by humans, will happen by PhD on the behalf of their trivial knowledge and under the pressure of a six figures debt to repay.
+
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-003.jpg" width="800"><br></div>
 
-More in general and in the best case, the AI validation by humans, will happen by PhD on the benhalf of their trivial knowledge and under the pressure of a six figures debt to repay. Which does not cast as for the best-in-class warrant for an indipendent and strict checking. Easily reaching the conclusion that a mildly supervised AI by a real-world expert can beat by a high degree those are each output validated by "expert with a title".
+Which does not cast as for the best-in-class warrant for an independent and strict checking. Easily reaching the conclusion that a mildly supervised AI by a real-world expert can beat by a high degree those are each output validated by "expert with a title".
 
-Which brings us to the conclusion, again, that AI-humans co-evolution is not for the masses but for a small percentage of people. By education and training, this percentage can be greatly expanded, saying from a 2% up to 20% of the people. Still, 80% is out of the scene anyway which reframe that 87% about finantial from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
+Which brings us to the conclusion, again, that AI-humans coevolution is not for the masses but for a small percentage of people. By education and training, this percentage can be greatly expanded, from 2% up to 20% of the people. Still, 80% is out of the scene anyway.
 
-Finally, we got at the third **BIG** dilemma, how to grant to the society: 1. transparency, 2. authorship, 3. earning opportunities. From this perspective, the ethics for the AIs, has nothing to do with their algorithms or parametric knonledge rather than a posture in reliably sharing few valuable and trustworthy information. In fact, from "transparency" also an "authorship" fair policy is easier to implement, thus "opportunities" democratisation.
+Which reframes that 87% about finance from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
 
-In finance and economics, the wealth distribution has its own index: the Gini index evaluate the wealth concentration. Too low and there is not enough big player to take risks over long-term business, like pharmaceutics or defence. Too high and too much talents are trapped in poverty plus we cannot sell high-valuable or added-value products or services to people that is struggling to pay their bills. They might be forced to work for nuts, but delivering nuts like in the Soviet Communism era, indeed!
+---
 
-The AI revolution is going to change the rules of the game, for sure. However, we assisted to three revolutions by now: 1. Industrial, 2. Automation, 3. Telecommunication, 4. Digital, and now 5. Intelligence. Despite almost all the adults witness between two and four of them, it seems that we are struggling in reframing the same old gold principles on the new scenario.
+### The safety guardrails
 
-The color of the package changes and we aren't able to deliver it anymore. Quite bufflying, indeed!
+Please, consider that the safety guardrails are set in place for good reasons, as an extra layer for an optimal architectural design, but they are more influenced by legal liabilities and politics than universal ethics principles.
 
-Are we sure that the "emerging problem" is about the aritficial intelligence vs human ethics? Really?
+For the same main reason for which stronger authentication methods have been implemented than using the passwords: it is not about criminals, but poor end-users decisions which can compromise the safety, integrity and security of all the others.
+
+---
+
+### The must to have list
+
+Finally, we reach the point to append the third **BIG** dilemma to the must have list. How to grant to the society: 
+
+- **1.** transparency, 
+- **2.** fair authorship, 
+- **3.** earning opportunities.
+
+From this perspective, the ethics for the AIs has nothing to do with their algorithms or parametric knowledge rather than a posture in reliably sharing a few valuable and trustworthy information. In fact, from "transparency" also an "authorship" fair policy is easier to implement, thus "opportunities" democratisation.
+
+- The wealth distribution has its own index: the Gini index evaluates its concentration.
+
+Too low concentration and there are not enough big players to take those long-term risks some businesses require, like pharmaceutics or defence. Too high concentration, means too many talents remain trapped in poverty plus we cannot sell high-valuable or added-value products or services to people that are struggling to pay their bills. They might be forced to work for nuts, but delivering nuts like in the Soviet Communism era, indeed!
 
 +
 
-## AI is a game changer
+## AI is the 5th revolution
 
-AI is a game changer in terms of productivity, it is a technology that can trasform some professional activities in commodity. Not because AI is particular smart, because those professional activities rely on a substantial amount of {routinely, schematic, bureocratic} tasks.
+The AI revolution is going to change the rules of the game, for sure. However, we have assisted in three revolutions by now: 
 
-Despite common perception, this will not lead towoards a great number of people who will lose their job or professional activities simple because AI will be used by the masses. They will ended up into a "cul-de-sac" **only** because their resistance to the changement rather than leverage their human-side to escalate torwards a more profitable business or activity.
+- **1.** Industrial Revolution, 
+- **2.** Automation (CNC, robots),
+- **3.** Telecommunication --> Internet,
+- **4.** Internet --> Digitalisation,
 
-For example psicologists and teachers can move towards coaching and prompt engineerings with a reasonable re-trainig and professional formation. Those will wait that someone else will take care of their self-growth are going to miss an opportunity or loosing their jobs.
+and now:
 
-It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whatever we partecipate at it or not. Those who cannot manage change will suffer it.
+- **5.** Artificial Intelligence.
+
+Despite almost all the adults witnessing between two and four of them, it seems that we are struggling in reframing the same old golden principles in the new scenario. The color of the package changes and we aren't able to deliver it anymore. Quite bufflying, indeed!
+
+Are we sure that the "emerging problem" is about artificial intelligence vs human ethics? Really?
+
+---
+
+### AI is a game changer
+
+AI is a game changer in terms of productivity, it is a technology that can transform some professional activities into commodities. Not because AI is particularly smart, because those professional activities rely on a substantial amount of {routinely, schematic, bureocratic} tasks.
+
+Despite common perception, this will not lead towards a great number of people who will lose their job or professional activities simply because AI will be used by the masses. They will end up into a "cul-de-sac" **only** because of their resistance to the changement rather than leverage their human-side to escalate towards a more profitable business or activity.
+
+For example psychologists and teachers can move towards coaching and prompt engineerings with a reasonable re-training and professional formation. Those who will wait for someone else to take care of their self-growth are going to miss an opportunity or lose their jobs.
+
+It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whether we participate in it or not. Those who cannot manage change will suffer it.
 
 +
 
