@@ -185,17 +185,23 @@ The trolley dilemma, in its essence, is a theoretical dilemma, only. In practice
 
 ### 1. How Humans Act
 
-=-> lnkd.in/dAgWzv-t
+- L'etica della vita nella guida autonoma &nbsp; [html](https://robang74.github.io/roberto-a-foglietta/html/linkedin/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta/) &nbsp; (2018-11-05)
 
 Regarding instinctive choices in dangerous situations, it's important to remember that adrenaline surges sideline the cortex in decision-making, giving almost exclusive priority to the hypothalamus. This process is almost instantaneous, on a human time scale, and excludes all higher and secondary cognitive functions.
 
 ### 2. What AI can ponderate
 
-=-> lnkd.in/dWqjVZj6
+- The AI automotive crash dilemma &nbsp; [git](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; (2018-04-06)
 
-There are several ways to take a decision in such a scenario, all of them are about minising the value of a multivariable function (aka local minimum in a field): lives lost, car occupants damage, insurance damage to pay (!!), minimise the action (physic), save the President (!!).
+There are several ways to take a decision in such a scenario, all of them are about minising the value of a multivariable function (aka local minimum in a field): 
 
-Does every life worth the same? Nope, it is harsh to admit and hard to negate. Moreover, it is highly hypocrite thinking that a company could sell cars keen to kill the occupants.
+- number of lives lost, 
+- car occupants damage, 
+- insurance damage to pay (!!), 
+- minimise the action (physic), 
+- save the President (!!).
+
+Is every life worth the same? Nope, it is harsh to admit and hard to negate. Moreover, it is highly hypocritical to think that a company could sell cars keen to kill the occupants.
 
 ...
 
@@ -205,28 +211,28 @@ Does every life worth the same? Nope, it is harsh to admit and hard to negate. M
 Bringing as example a 2019 deadly crash case in which a Tesla car with auto-pilot enabled was involved
 
 [!INFO]
-Tesla must pay portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
+Tesla must pay a portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 [/INFO]
 
 Please, notice that "can be held accountable" does not mean "must be". So, let dig in this news:
 
-- *The jury determined Tesla should be held 33% responsible for the fatal crash.*
+> *The jury determined Tesla should be held 33% responsible for the fatal crash.*
 
 Despite this, Tesla has been asked to pay in whole the damage + a 3x for punitive charge. Why?
 
-Tesla is the ultimate insurance of their own AI-driven vehicles. Under this perspective, knowing that Tesla-AI lead to **1000x less** crashes than humans, and Tesla would be involved in a trial **everytime** a Tesla crashes whatever it happens.
+Tesla is the ultimate insurance of their own AI-driven vehicles. Under this perspective, knowing that Tesla-AI leads to **1000x less** crashes than humans, and Tesla would be involved in a trial **everytime** a Tesla crashes whatever it happens.
 
-Becuase the AI-driven thus Tesla fault bias, proving best practices applied is on their shoulders, thus being an insurance of their cars is **better** than facing 1000 trials and won 999 of them.
+Because of the AI-driven thus Tesla fault bias, proving best practices applied is on their shoulders, thus being an insurance of their cars is **better** than facing 1000 trials and winning 999 of them.
 
-- *While driving, McGee dropped his mobile phone that he was using and scrambled to pick it up.*
+> *While driving, McGee dropped his mobile phone that he was using and scrambled to pick it up.*
 
 What? Yes, but..
 
-- *He said during the trial that he believed Enhanced Autopilot would brake if an obstacle was in the way.*
+> *He said during the trial that he believed Enhanced Autopilot would brake if an obstacle was in the way.*
 
 Can his assumption lead Tesla to pay? Yes, because
 
-- *Tesla designed Autopilot only for controlled access highways yet deliberately chose not to restrict drivers from using it elsewhere.*
+> *Tesla designed Autopilot only for controlled access highways yet deliberately chose not to restrict drivers from using it elsewhere.*
 
 because "elsewhere" means much less crashes (ethics), and a more convenient self-insurance strategy, both.
 
