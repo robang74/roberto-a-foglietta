@@ -5,7 +5,7 @@
 
 ## The dilemma AI vs Human decision making
 
-- **3rd draft** -- some part of this article has been written as comments 2 days before.
+- **1st edition** -- 2025-08-13 -- this article is composed starting from many contributions of mine, some of them are years old and they hit their point of aggregation two days after GPT-5 has been released.
 
 ---
 
@@ -481,9 +481,6 @@ The AI revolution is going to change the rules of the game, for sure. However, w
 - **2.** Automation (CNC, robots),
 - **3.** Telecommunication --> Internet,
 - **4.** Internet --> Digitalisation,
-
-and now:
-
 - **5.** Artificial Intelligence.
 
 Despite almost all the adults witnessing between two and four of them, it seems that we are struggling in reframing the same old golden principles in the new scenario. The color of the package changes and we aren't able to deliver it anymore. Quite bufflying, indeed!
@@ -503,6 +500,47 @@ For example psychologists and teachers can move towards coaching and prompt engi
 It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whether we participate in it or not. Those who cannot manage change will suffer it.
 
 +
+
+## Related aritcles
+<!--//
+- [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
++++++
+- [The session context and summary challenge](https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html) &nbsp; (2025-07-28)
++++++
+- [Human knowledge and opinions challenge](https://robang74.github.io/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html) &nbsp; (2025-07-28)
++++++
+- [Attenzione e contesto nei chatbot](https://robang74.github.io/chatbots-for-fun/html/attenzione-e-contesto-nei-chatbot.html) &nbsp; (2025-07-20)
++++++
+- [L'AI è un game-changer perché è onesta](https://robang74.github.io/chatbots-for-fun/html/l-ai-e-un-game-changer-perche-onesta.html) &nbsp; (2025-06-23)
++++++
+- [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
++++++
+- [Fix your data is a postponing excuse](https://robang74.github.io/chatbots-for-fun/html/fix-your-data-a-postponing-excuse.html) &nbsp; (2025-05-08)
++++++
+- [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
++++++
+- [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) &nbsp; (2025-01-04)
+
+- [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
++++++
+- [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
+//-->
+- [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
++++++
+- [Ragionare non è come fare la cacca!](320-ragionare-non-e-come-fare-la-cacca.md#?target=_blank) &nbsp; (2025-06-08)
++++++
+- [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md#?target=_blank) &nbsp; (2025-06-07)
++++++
+- [Pensiero e opera nell'era dell'AI](310-pensiero-e-opera-nell-era-dell-ai.md#?target=_blank) &nbsp; (2025-04-29)
++++++
+<!--//
+- [Il delirio dei regolatori delle AI](297-il-delirio-dei-regolatori-delle-ai.md#?target=_blank) &nbsp; (2024-12-21)
++++++//-->
+- [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
++++++
+- [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
+
++++++
 
 ## Share alike
 
