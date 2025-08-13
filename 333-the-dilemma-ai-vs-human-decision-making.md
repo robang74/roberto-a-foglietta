@@ -9,7 +9,27 @@
 
 ---
 
-### Humans are not accountable anyore, as well
+### Introduction
+
+A guide, with relevant counter-examples against the most common but theoretical-only ideas about AI applications, which invites us to "stop swimming in our own piss" but jump into a pragmatic, actionable and transparent framework to face the main challenges artificial intelligence applications are presenting to us. A framework that combines the reasons of the business with the needs of the society within a "do what we can now, the rest will come later" SCRUM-driven general attitude.
+
+- A conversation with Katia/Gemini about this article &nbsp; [chat]() &nbsp; [dump](#TODO) &nbsp; (2025-08-13)
+
+[!CITE]
+The document is a third draft of an article on the dilemma of AI versus human decision-making. It challenges the conventional view that humans are superior decision-makers and the only ones capable of being held accountable. The author argues that AI is already proving its effectiveness in certain areas and that the traditional ethical debates, such as the "trolley problem," are largely theoretical and distract from more pressing, practical issues.
+
+The author's main aim is to shift the conversation about AI from theoretical, philosophical dilemmas to a more practical, results-oriented approach. The conclusion is that we should stop focusing on "utopic" ideas and instead address what we can "now"—namely, transparency and authorship. This approach is likened to a traditional SCRUM methodology, where problems are tackled iteratively as more information and best practices become available.
+
+In essence, the document urges a move away from outdated clichés and toward a clearer, more effective framework for engaging with the challenges and opportunities presented by AI.
+
+<div style="text-size:90%">
+`Katia; v0.9.55.1; lang: EN; mode: EGA,SBI; date: 2025-08-13; time: 09:35:53 (CEST)`
+</div>
+[/CITE]
+
++
+
+## Humans are not accountable anyore
 
 In a world in which humans are not anymore accountable, nor trustworthy, machines are earning a place as decision makers. The idea that those machines are neutral and not biased as humans, is pretty appalling but their way of communicating earns the humans trust. 
 
@@ -80,7 +100,7 @@ Comunque gli italiani sono "fottuti alla grande" visto che prediligono la furbiz
 
 //-->
 
-....
+...
 
 <span id="dilemma-d"></span>
 > (**`d`**) &nbsp; what are you going to do, fire the AI Agent(s) who made a poor decision?
@@ -106,9 +126,9 @@ Despite this many people inevitably will rely on AI outputs, as they are used to
 
 Something near 98% (Land, 1992) in the long run but 96% is the theoretical estimation without the extreme pressure on the far right tail of the gaussian.
 
-...
++
 
-#### Humans in the loop and AI companies responsability
+## Humans in the loop & AI vendors liability
 
 - 2025-08-08 -- ChatGPT advice lands 60-year-old man in hospital &nbsp; [Times of India](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-advice-lands-60-year-old-man-in-hospital-the-reason-will-surprise-you/articleshow/123200430.cms)
 
@@ -125,7 +145,7 @@ It is reasonable to think that the man did not even make a google search to try 
 
 Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
-....
+...
 
 <span id="dilemma-f"></span>
 > (**`f`**) &nbsp; The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
@@ -166,7 +186,7 @@ While we cannot enforce accountability and understanding over people, it would b
 
 Do what we can, the rest will come.
 
-....
+...
 
 <span id="dilemma-i"></span>
 > (**`i`**) &nbsp; Excellent point. The trolley problem.
@@ -351,6 +371,7 @@ Rumors, gossip, ideological contrast and academic debate is a great mass distrac
 The main point is about who owns and controls the steam and how many people can benefit from it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
 
 +
+++++
 
 ## The business continuity requires transparency
 
@@ -412,7 +433,7 @@ Which brings us to the conclusion, again, that AI-humans coevolution is not for 
 
 Which reframes that 87% about finance from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
 
----
+----
 
 ### The safety guardrails
 
@@ -455,7 +476,7 @@ Despite almost all the adults witnessing between two and four of them, it seems 
 
 Are we sure that the "emerging problem" is about artificial intelligence vs human ethics? Really?
 
----
+----
 
 ### AI is a game changer
 
