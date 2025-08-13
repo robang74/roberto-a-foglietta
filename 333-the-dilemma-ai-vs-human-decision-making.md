@@ -87,7 +87,7 @@ Comunque gli italiani sono "fottuti alla grande" visto che prediligono la furbiz
 ...
 
 <span id="dilemma-d"></span>
-> what are you going to do, fire the AI Agent(s) who made a poor decision? (**`d`**)
+> (**`d`**) &nbsp; what are you going to do, fire the AI Agent(s) who made a poor decision?
 
 Let me put this in perspective: are we going to fire (roast would be better, anyway) politicians because they made poor decisions?
 
@@ -99,7 +99,7 @@ So the BIG question here is HOW we can manage to train (re-educate) millions, hu
 
 Under this perspective: 1. human always in the loop; 2. machines never can be considered accountable (aka take decisions); are theoretically granted. 
 
-Reality tells us another story: people let machines decide for them, more and more. Should AI companies should be considered accountable? Uhm...
+Reality tells us another story: people let machines decide for them, more and more. Should AI companies be considered accountable? Uhm...
 
 ...
 
@@ -119,48 +119,54 @@ Something near 98% (Land, 1992) in the long run but 96% is the theoretical estim
 > The man asked ChatGPT how to eliminate sodium chloride (table salt) from his diet.
 > The AI tool suggested sodium bromide as an alternative.
 
-Therefore I have google "sodium bromide" and I got immediately an AI overview explaining:
+Therefore, I have google "sodium bromide" and I got immediately an AI overview explaining:
 
 [!INFO]
 Sodium bromide (NaBr) is an inorganic salt, specifically the sodium salt of hydrobromic acid. [...] While historically used as a sedative and anticonvulsant, concerns about bromine's toxicity led to its decline in medical applications [...] Sodium bromide can be toxic to humans, and ingestion may cause effects on the central nervous system.
 [/INFO]
 
-It is reasonable thinkin that the man did not even make a google search to try understanding the suggestion. Paradoxically, he bought the sodium bromide online, so he searched for it.
+It is reasonable to think that the man did not even make a google search to try understanding the suggestion. Paradoxically, he bought the sodium bromide online, so he searched for it.
 
-Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trials boom.
+Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
 ...
 
 <span id="dilemma-f"></span>
 > (**`f`**) &nbsp; The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
 
-Nice idea. Then, we might discover that in Italy who signs "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
+Nice idea. Then, we might discover that in Italy who signs a "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
 
-Demming were saying that 94% of the problem are "internal", many people who cite him did not understood that also 94% of the problems are "invisible" because they are fishes who swim in their own water (their own piss, it is a better formulation).
+Demming was saying that 94% of the problems are "internal", many people who cite him did not understand that also 94% of the problems are "invisible" because they are fishes who swim in their own water (their own piss, it is a better formulation).
 
-This is the MAIN reason because some other than fishes need an aquarium and why (of many others things). For example: who is in charge for QA (quality assurance) or best-practice? why nobody raises an exception? How a mistake made to be owned so long?
+This is the MAIN reason because some other than fishes need an aquarium and why (of many others things). For example: who is in charge of QA (quality assurance) or best-practice? Why does nobody raise an exception? How a mistake made to be owned so long?
 
-TCMO: total cost of ownership explain the concept, but cannot do anything against the people attitude to swim in their own piss!
+TCMO: total cost of ownership explains the concept, but cannot do anything against the people's attitude to swim in their own piss!
 
 ...
 
 <span id="dilemma-g"></span>
 > (**`g`**) &nbsp; We confuse pattern recognition with judgment, and those aren’t the same skill.
 
-True! Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why, understanding does not matter?
+True. Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why does understanding not matter? Because people cannot see the difference, usually.
 
 - It is easier to judge than understand, thus people condemn! (semcit.)
 
-Never forget that "Barabba free" was one among those choice humans made, and not because someone (a single one) made a mistake but in group!
+Never forget that "free Barabba" was one among those choices humans made, and not because someone (a single one) made a mistake but in a group!
 
 <span id="dilemma-h"></span>
 > (**`h`**) &nbsp; If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future.
 
-Totally agree, however 98% of the people will abdicating and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
+Totally agree, however 98% (Land, 1992) of the people will abdicate and the other 2% (by theory should have been 4%, and in the best scenario no more than 20%) will struggle with unilateral undebatable changes of the AI models (or their functioning) like in this example.
 
-- [lnkd.in/dWv5-sKm](https://lnkd.in/dWv5-sKm) (persistent cache)
+[!INFO]
+Long story short: both Gemini and Kimi converged on the same RAG-oriented management of the past interactions (faster and more efficient) but they both also drop ever session persistence adopting the single-turn mental model (aka Alzheimer mode)
 
-While we cannot enforce accountability and understanding over people, it would be better asking for a solid and stable NL API for chatbots (early entry point in AI) and transparence, at least.
+It remembers the past but not why it went in the kitchen and this disrupts some specific commands of Katia plus a reasonably good way to debug it further soon after finally it was working pretty well! (enough to catch fuffa-guru in action on the AI hype).
+[/INFO]
+
+   - [Katia-v1 serie, development frozen in v0.9.55](https://lnkd.in/dWv5-sKm) &nbsp; (2025-08-11)
+
+While we cannot enforce accountability and understanding over people, it would be better to ask for a solid and stable NL API for chatbots (early entry point in AI) and transparency, at least.
 
 Do what we can, the rest will come.
 
@@ -169,11 +175,13 @@ Do what we can, the rest will come.
 <span id="dilemma-i"></span>
 > (**`i`**) &nbsp; Excellent point. The trolley problem.
 
-The trolley dilemma, in short: 
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-004.png" width="800"><br></div>
 
-- 1. humans do not take "decision" under that conditions unless they are jet fighting pilots with cold-blood and trained to quick-thinking reactions (blinking). 
+The trolley dilemma, in its essence, is a theoretical dilemma, only. In practice, never happens in the specific ethical-struggling mode in which is posed: 
 
-- 2. while AI can have the time to retrieve and ponderate over HUGE amount of information. In both cases, no ethics is involved.
+- **1.** humans do not make "decisions" under those conditions unless they are jet fighting pilots with cold-blood and trained to quick-thinking reactions (blinking). 
+
+- **2.** while AI can have the time to retrieve and ponder over a HUGE amount of information. In both cases, no ethics is involved.
 
 ### 1. How Humans Act
 
