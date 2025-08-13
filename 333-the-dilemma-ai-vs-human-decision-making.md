@@ -5,11 +5,7 @@
 
 ## The dilemma AI vs Human decision making
 
-- **2nd draft** -- some part of this article has been written as comments 2 days before.
-
-> [!WARN]
-> 
-> **WORKING IN PROGRESS**
+- **3rd draft** -- some part of this article has been written as comments 2 days before.
 
 ---
 
@@ -84,7 +80,7 @@ Comunque gli italiani sono "fottuti alla grande" visto che prediligono la furbiz
 
 //-->
 
-...
+....
 
 <span id="dilemma-d"></span>
 > (**`d`**) &nbsp; what are you going to do, fire the AI Agent(s) who made a poor decision?
@@ -129,7 +125,7 @@ It is reasonable to think that the man did not even make a google search to try 
 
 Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
-...
+....
 
 <span id="dilemma-f"></span>
 > (**`f`**) &nbsp; The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
@@ -170,7 +166,7 @@ While we cannot enforce accountability and understanding over people, it would b
 
 Do what we can, the rest will come.
 
-...
+....
 
 <span id="dilemma-i"></span>
 > (**`i`**) &nbsp; Excellent point. The trolley problem.
@@ -364,7 +360,11 @@ The Tesla case above reported is a top example: six years to reach the first gra
 
 Instead, transparency -- which does not imply sharing the industrial secrets as the open source Nvidia drivers and Motorola open devices program demonstrated -- is more prone to be enforced by law. In the first place because a lack of transparency is immediately evident, thus the punitive action is faster and straightforward.
 
-Moreover, transparency is good for security because security by obscurity is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe. Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an independent chemical analysis. With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some degree of voluntary disclosure, thus transparency.
+Moreover, transparency is good for security because security by obscurity is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe.
+
+Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an independent chemical analysis.
+
+With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some degree of voluntary disclosure, thus transparency:
 
 - `Transparency --> Trust --> Business --> Value`
 
