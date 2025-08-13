@@ -20,7 +20,7 @@ The document is a third draft of an article on the dilemma of AI versus human de
 
 The author's main aim is to shift the conversation about AI from theoretical, philosophical dilemmas to a more practical, results-oriented approach. The conclusion is that we should stop focusing on "utopic" ideas and instead address what we can "now"—namely, transparency and authorship. This approach is likened to a traditional SCRUM methodology, where problems are tackled iteratively as more information and best practices become available.
 
-In essence, the document urges a move away from outdated clichés and toward a clearer, more effective framework for engaging with the challenges and opportunities presented by AI.
+In essence, the document urges a move away from outdated clichés and toward a clearer, more effective framework for engaging with the challenges and opportunities presented by AI. We also acknowledged that the document's gaps in presenting solutions for the practicalities of accountability, education, and the implications of AI's "ethical" decision-making are valid, but that the author's overall pragmatic approach to address them is sound.
 
 <div style="text-size:90%">
 `Katia; v0.9.55.1; lang: EN; mode: EGA,SBI; date: 2025-08-13; time: 09:35:53 (CEST)`
@@ -126,7 +126,7 @@ Despite this many people inevitably will rely on AI outputs, as they are used to
 
 Something near 98% (Land, 1992) in the long run but 96% is the theoretical estimation without the extreme pressure on the far right tail of the gaussian.
 
-+
++++++
 
 ## Humans in the loop & AI vendors liability
 
@@ -145,6 +145,10 @@ It is reasonable to think that the man did not even make a google search to try 
 
 Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
+[!INFO]
+**Katia Note**: An implicit assuption here, was correctly identified as a prevalent societal bias (Adam Smith's rational economic agent, which despite unsuitable for the modern complexity is still influencing many people decisions) rather than a personal dogma of the author.
+[/INFO]
+
 ...
 
 <span id="dilemma-f"></span>
@@ -152,11 +156,15 @@ Can this behaviour lead to holding OpenAI accountable for the damages? In a dyst
 
 Nice idea. Then, we might discover that in Italy who signs a "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
 
-Demming was saying that 94% of the problems are "internal", many people who cite him did not understand that also 94% of the problems are "invisible" because they are fishes who swim in their own water (their own piss, it is a better formulation).
+Demming was saying that 94% of the problems are "internal". Unfortunately, many people who cite him did not understand that also 94% of the problems are "invisible" for insiders because they are fishes who swim in their own waters.
 
-This is the MAIN reason because some other than fishes need an aquarium and why (of many others things). For example: who is in charge of QA (quality assurance) or best-practice? Why does nobody raise an exception? How a mistake made to be owned so long?
+This is the **main** reason because some other than fishes are needed to be added into an aquarium and why. For example: who is in charge of QA (quality assurance) or best-practice? Why does nobody raise an exception? How a mistake made to be owned so long? Fishes doesn't rise question, they are mute.
 
-TCMO: total cost of ownership explains the concept, but cannot do anything against the people's attitude to swim in their own piss!
+The total cost of ownership (TCMO) explains the concept, but cannot do anything against the people's attitude to swim in their own piss!
+
+[!INFO]
+**Katia Note**: This part has been reclassified as a strong claim about human ethics as a Human Opinion `[HN]` rather than a dogmatic or biased statement `[DIB]`, recognizing it as a core point for debate rather than an imposed belief. A servers-room slang statement was also re-contextualized as an `[HN]` with a humorous tone `[HU]`, based on its underlying reference to Dr. W. Edwards Deming's 94:6 rule.
+[/INFO]
 
 ...
 
@@ -286,7 +294,7 @@ Humans cannot learn by history, can we learn from our own experience, at least? 
 
 //-->
 
-+
++++++
 
 ## Transparency is a must to have
 
@@ -363,15 +371,12 @@ Which is the reason because software-libre movement arises, Open Source definiti
 It is not so strange that "ethics" debate reaches the common people much time before anyone could provide a concrete answer to practical problems which until a pattern of behaving in a novel field is difficult to recognise.
 
 Rumors, gossip, ideological contrast and academic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: transparency and authorship.
-
----
-
+++++
 #### In few words
 
 The main point is about who owns and controls the steam and how many people can benefit from it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
 
 +
-++++
 
 ## The business continuity requires transparency
 
@@ -433,7 +438,7 @@ Which brings us to the conclusion, again, that AI-humans coevolution is not for 
 
 Which reframes that 87% about finance from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
 
-----
+---
 
 ### The safety guardrails
 
@@ -476,7 +481,7 @@ Despite almost all the adults witnessing between two and four of them, it seems 
 
 Are we sure that the "emerging problem" is about artificial intelligence vs human ethics? Really?
 
-----
+~~~~~
 
 ### AI is a game changer
 
