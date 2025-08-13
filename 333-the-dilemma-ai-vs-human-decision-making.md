@@ -183,13 +183,15 @@ The trolley dilemma, in its essence, is a theoretical dilemma, only. In practice
 
 - **2.** while AI can have the time to retrieve and ponder over a HUGE amount of information. In both cases, no ethics is involved.
 
-### 1. How Humans Act
+Let me express these two points in a more detailed way, with their own references.
+
+#### 1. How Humans Act
 
 - L'etica della vita nella guida autonoma &nbsp; [html](https://robang74.github.io/roberto-a-foglietta/html/linkedin/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/letica-della-vita-nella-guida-autonoma-roberto-a-foglietta/) &nbsp; (2018-11-05)
 
 Regarding instinctive choices in dangerous situations, it's important to remember that adrenaline surges sideline the cortex in decision-making, giving almost exclusive priority to the hypothalamus. This process is almost instantaneous, on a human time scale, and excludes all higher and secondary cognitive functions.
 
-### 2. What AI can ponderate
+#### 2. What AI can ponderate
 
 - The AI automotive crash dilemma &nbsp; [git](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; (2018-04-06)
 
@@ -236,7 +238,7 @@ Can his assumption lead Tesla to pay? Yes, because
 
 because "elsewhere" means much less crashes (ethics), and a more convenient self-insurance strategy, both.
 
-So, why also apply Tesla 3x punitive damages?
+So, why also apply Tesla 3x punitive damages? Punishing good choices isn't a great idea.
 
 <!--//
 
@@ -272,7 +274,7 @@ Humans cannot learn by history, can we learn from our own experience, at least? 
 
 ## Transparency is a must to have
 
-All the previous "observations" collected on LinkedIn, reported above because are wroth a mention becuase not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital tecnology advent:
+All the previous "observations" collected on LinkedIn, reported above because are worth a mention because not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital technology advent:
 
 | # | dilemma | faced before |
 |----|---|---|
@@ -281,15 +283,14 @@ All the previous "observations" collected on LinkedIn, reported above because ar
 | `d` | poor decisions and punishments | 1:10 ancient Roman consuetudine |
 | `e` p.1 | human in the loop | always, until AIs do infrastructure |
 | `e` p.2 | it makes perfect sense | plausibility is a perception, only |
-| `f` | who is responsable | everybody actively involved, Numberg trial |
+| `f` | who is responsible | everybody actively involved, Numberg trial |
 | `g` | pattern recognition vs judgment | felony = patterns + willingness |
-| `h` | abdicating decisional duties | ancient Greek, `idiot` ethimology |
+| `h` | abdicating decisional duties | ancient Greek, `idiot` etymology |
 | `i` | trolley dilemma | false dilemma: adrenaline + instinct |
 | `j` | vendor can be held accountable | obvious in consumer rights protection |
-| `k` | without indentity, no accountability | quality of traceability in logistics |
+| `k` | without identity, no accountability | quality of traceability in logistics |
 
-Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but bacause this lack of traceability is finally emerging as something relevant, practical and essentially important, behyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
-
+Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but because this lack of traceability is finally emerging as something relevant, practical and essentially important, beyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
 ---
 
 ### Problem identification
@@ -299,11 +300,11 @@ Stephen Holmes wrote:
 <span id="dilemma-k"></span>
 > (**`k`**) &nbsp; Without indentity (aka AI's id-specs) there is no possibility of accountability.
 
-In short: transparency.
+In short: transparency is a must to have.
 
 It is not even a problem of "identification" of the model and last update time. Before knowing the weights (open models) which serves a little at this time because almost all the people capable of extracting some fact-driven conclusion from 200-300B parameters are for sure busy in something else more valuable (for them).
 
-So, even before reach the "open models" paradigma, also the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
+So, even before reaching the "open models" paradigma, the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
 
 =-> lnkd.in/dWv5-sKm (persistent cache)
 
@@ -313,25 +314,25 @@ It is not even a mere question about what are the "forbidden topics" that the ch
 
 It is also about specific rules like:
 
-- 1. shit the output of the accounts listed in this database;
+- **1.** shit the output of the accounts listed in this database;
 
-- 2. open a supervising console for accounts in that database.
+- **2.** open a supervising console for accounts in that database.
 
 Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
 
-I would add also a section about mind control or worse (psy-ops), but I wish to avoid to be so "extremely drastic" despite US military has an agreement with Google signed by them as alternative to undergo to an US anti-trust trial/confrontation.
+I would also add a section about mind control or worse (psy-ops), but I wish to avoid being so "extremely drastic" despite the US military having an agreement with Google signed by them as an alternative to undergo an US antitrust trial/confrontation.
 
-Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intelectual property" exfiltration.
+Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration.
 
 ---
 
 ### Solution follows
 
-Under the perspective that anything is really "new" but it is just a matter of properly reframing a well-known into a new scenario with a high-grade of novelty, identificating the problem usually straighforward leads to identificate the solution.
+Under the perspective that anything is really "new" but it is just a matter of properly reframing a well-known into a new scenario with a high-grade of novelty, identifying the problem usually straightforward leads to identificate the solution.
 
 While a dilemma can admit a theoretical answer that can be elected as "solution" by varying criterias among them "popularity" or "common sense", usually that answer does not allow any practical and/or effective implementation in the real world.
 
-A pragmatic approach is based on solving most relevant real-world problems in a practical way under the "do what we can, the rest will come" principle. Sustaining the idea that once a topic started to faced in practice, then dilemmas reframe.
+A pragmatic approach is based on solving most relevant real-world problems in a practical way under the "do what we can, the rest will come" principle. Sustaining the idea that once a topic starts to be faced in practice, then dilemmas reframe.
 
 In this specific case we need a solid, stable and transparent natural language accessible API for chatbots. Which is not only about web interface but also which internal resources and information are exposed and then accessible to the end users.
 
@@ -339,51 +340,63 @@ In this specific case we need a solid, stable and transparent natural language a
 
 ### The elephant in the room
 
-The other **BIG** practical issue is **HOW** to compensate the creative authorship in the AI era. In this field, reframing is not straighforward because **HUGE** interests are involved and fundamentally because in reframing this topic (whatever is the reframing attempt), the most appalling evicence is that copyright was an outrougesly abused up to nowadays.
+The other **BIG** practical issue is **HOW** to compensate for the creative authorship in the AI era. In this field, reframing is not straightforward because **HUGE** interests are involved and fundamentally because in reframing this topic (whatever is the reframing attempt), the most appalling evidence is that copyright has outrageously abused up to nowadays.
 
-Which is the reason because software-libre movement arises, Open Source definition has been institutionalised, and Creative Commons licencing scheme achieves such great acknoledgement among the wide authors "small business" platea.
+Which is the reason because software-libre movement arises, Open Source definition has been institutionalised, and Creative Commons licensing scheme achieves such great acknowledgement among the wide authors "small business" platea.
 
 It is not so strange that "ethics" debate reaches the common people much time before anyone could provide a concrete answer to practical problems which until a pattern of behaving in a novel field is difficult to recognise.
 
-Rumors, gossip, ideological contrast and accademic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: trasparency and authorship.
+Rumors, gossip, ideological contrast and academic debate is a great mass distraction from the two **BIG** practical problems emerging from the AI hype: transparency and authorship.
+
+---
 
 #### In few words
 
-The main point is about who owns and control the steam and how many people can benefit of it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
+The main point is about who owns and controls the steam and how many people can benefit from it. Whatever the answer could be, whatever we might like it or not, also in this case transparency is a must to have.
 
 +
 
-## Transparency is good for business
+## The business continuity requires transparency
 
-Accountability cannot be enforced on people thus companies, but vendors can be held accountable of damages they created after a long round of trials to reach a defintive decision which is a very inefficent way to proceed.
+Accountability cannot be enforced on people, thus companies, but vendors can be held accountable of damages they created after a long round of trials to reach a definitive decision which is a very inefficient way to proceed.
 
-The Tesla case above reported is a top example: six years to reach the first grade judge decision, then an appeal will follow because decision is too punitive than necessary and if accepted as the norm, it will lead to an less ethical and convenient strategy.
+The Tesla case above reported is a top example: six years to reach the first grade judge decision, then an appeal will follow because the decision is too punitive than necessary and if accepted as the norm, it will lead to a less ethical and convenient strategy.
 
-Instead, transparecy -- which does not imply sharing the industrial secrets as the open source Nvidia drivers and Motorola open devices program demonstrated -- is more prone to be enforced by law. In first place becuase a lack of transparency is immediately evident, thus the punitive action is faster and straighforward.
+Instead, transparency -- which does not imply sharing the industrial secrets as the open source Nvidia drivers and Motorola open devices program demonstrated -- is more prone to be enforced by law. In the first place because a lack of transparency is immediately evident, thus the punitive action is faster and straightforward.
 
-Moreover, transparecy is good for security because security by obscority is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe. Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an indipendent chemical analysis. With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some deegree of voluntary disclousure, thus transparency.
-
-Transparency is good for business, because it greatly reduce volatily increasing reliability. It drop down the entry-level barrier to this market. Who wish to start a business does not need to negotiate with trillions-capitalised companies a quality of service agreement. Transparency always grant them to rely on some specific features that are public for everyone, thus less prone to be jeopardised rather than updated in back-compatibility. 
-
-For example, Ubuntu offers the long term support (LTS) for a decade or more, and a new LTS release every four years. Who those wish to do a business on Ubuntu knows that and as much Canonical strictly adhere to this policy as much the users trust on Ubuntu increases. In finantial terms, it meas that volatility is low: distruption on that policy are exceptions, might happens but probably fixed as fast as they can.
+Moreover, transparency is good for security because security by obscurity is a poor strategy. Few cases constitute an exception to this general rule, the most relevant is the Coca-Cola secret recipe. Which can be seen as a security issue in terms of "food safety" but in the real-world is more about marketing and industrial secrets than security because everyone can buy a Coca-Cola can and pay for an independent chemical analysis. With AI-driven products or services, this is not straightforward but near-impossible complicated, unless vendors adhere to some degree of voluntary disclosure, thus transparency.
 
 - `Transparency --> Trust --> Business --> Value`
 
-It is not a news, it always been in such a way, since the baratto was the primitive form of the exchange: trust {makes, rules, wins} the market. So, the main question is:
+Transparency is good for business, because it greatly reduces volatility and increases reliability. It drops down the entry-level barrier to this market. Who wish to start a business does not need to negotiate with trillions-capitalised companies a quality of service agreement. Transparency always grants them to rely on some specific features that are public for everyone, thus less prone to be jeopardised rather than updated in back-compatibility.
 
-- How to earn the market trust in AI field?
+#### Transparency is required in Open Source, also
 
-Like in any others fields, being transparent and reliable. Then accountability follows, not because enforced by law or by punishements, because of quality brings in value, high quality greatly lower the damages by unfortunate events, being keen to compensate a reasonable amount of damages when the market is prosperous and the trust is high, is a win-win strategy becuase the opposite put a risk everything.
+For example, Ubuntu offers long term support (LTS) for a decade or more, and a new LTS release every four years. Those who wish to do a business on Ubuntu know that and as Canonical strictly adheres to this policy as much the users trust on Ubuntu increases. In financial terms, it means that volatility is low: disruption on that policy are exceptions, might happen but probably fixed as fast as they can.
 
-Moreover, on the way of as least transparency as possible, the anti-trust action or a class-action is almost granted. Not because the system or the people are evil, but because they mind their own business -- when they are not distracted by dramas and propaganda -- and nobody wish to see thier own business distrupted because a layer, a nerd and a manager decided arbitrary that something was ON goes OFF or viceversa, without providing a back-compatible channel.
+---
 
-For example, it is fine that GPT-5 has been made as the default option: please, give a try to it because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the paying abbonamento perimiter. That move can potentially disrupts many businesses, which is might not a huge problem nowadays but in the long time, for sure.
+### Transparency: business as usual
 
-Obscurity enforces humans to validate every each AI output, instead. Which might seem a great advatage trading human accountability for transparency by a mere theoretical or logical thinking. Unfortunately, reality is brutal in dismiss this statment as the trial against Tesla above reported clearly shows: people are more keen to risk a fatal car crash for playing with their smartphones rather than validate AI outputs.
+It is not news, it has always been in such a way, since the baratto was the primitive form of the exchange: trust {makes, rules, wins} the market. So, the main question is:
 
-We can agree that such a case is an exception, not the norm. Then we need to keep in consideration that Tesla AI output is 99.99% safer than people counterpart and it happens at rate that common people cannot handle, probably not even a jet fighter pilot would be able to. 
+- How to earn the market trust in the AI field?
 
-However, in "management" decision these constrains can be much weaker and the scenario changes. Then we need to keep in consideration than a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolio deal with.
+Like in any other field, being transparent and reliable. Then accountability follows, not because enforced by law or by punishments, because the quality brings in value, high quality greatly lowers the damages by unfortunate events. Even being keen to compensate for a reasonable amount of damages when the market is prosperous and the trust is high, is a win-win strategy because the opposite put everything at risk.
+
+Moreover, on the way of as least transparency as possible, the anti-trust action or a class-action is almost granted. Not because the system or the people are evil, but because they mind their own business -- when they are not distracted by dramas and propaganda -- and nobody wish to see their own business disrupted because a layer, a nerd and a manager decided arbitrary that something was ON goes OFF or vice versa, without providing a back-compatible channel.
+
+For example, it is fine that GPT-5 has been made as the default option: please, give it a try because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the paying abbonamento perimeter. That move can potentially disrupt many businesses, which might not be a huge problem nowadays but in the long term, for sure.
+
+---
+
+### Obscurity, the opposite of transparency
+
+Obscurity enforces humans to validate every AI output, instead. Which might seem a great advantage trading human accountability for transparency by a mere theoretical or logical thinking. Unfortunately, reality is brutal in dismissing this statement as the trial against Tesla above reported clearly shows: people are more keen to risk a fatal car crash for playing with their smartphones rather than validate AI outputs.
+
+We can agree that such a case is an exception, not the norm. Then we need to keep in consideration that Tesla AI output is 99.99% safer than its human counterpart and it happens at a rate that common people cannot handle, probably not even a jet fighter pilot would be able to.
+
+However, in "management" decisions these constraints can be much weaker and the scenario changes. Then we need to keep in consideration that a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolios deal with.
 
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-003.jpg" width="800"><br></div>
 
