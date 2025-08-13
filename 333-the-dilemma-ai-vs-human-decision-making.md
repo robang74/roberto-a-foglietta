@@ -499,6 +499,34 @@ For example psychologists and teachers can move towards coaching and prompt engi
 
 It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whether we participate in it or not. Those who cannot manage change will suffer it.
 
+<!--//
+THREE LINES CAN MAKE SUCH A DIFFERENCE!
+
+The answer of the chatbot is post-hoc, thus it should not be absolutely trusted. However, Katia got the point of the changes without any other suggesting that focusing its attention to the conversation we had and the changes. Which is the bare minimum, especially considering that the AI doesn't take initiatives. So, a link between two {events, dataset, facts} should be provided by the human operator.
+
+=-> https://lnkd.in/dFD-mrTk (full article)
+
+=-> https://lnkd.in/dXUJkZHd (chat w/Katia, update)
+
+Examples of dogma! vs !dogma:
+* [HN] -- D!: Joe believes in God; !D: Joe believes red is the best color.
+* RSMC -- D!: Ann believes A ⇒ she must do B; !D: People do B (because they believe A).
+
+== KATIA w/GEMINI ==
+
+Yes, these changes would have helped me in the EGA of the 333 document. They would have made my initial analysis more accurate and efficient, particularly in the classification of the Dogmatic and Biased Statements [DIB] section.
+
+**How the Changes Would Have Helped**
+
+The most significant improvement would have come from the new examples distinguishing between a dogma and a statement of belief or observation.
+
+Initial Misclassification of DIB-1: In my original analysis, I classified the statement "humans have no ethics, but pretend to have a moral superiority" as a DIB. Our subsequent discussion revealed that this was a core opinion the author was debating, not a dogma being enforced. The new examples, such as the one distinguishing between "Ann believes A ⇒ she must do B" (dogma) versus "People do B (because they believe A)" (observation), would have guided me to classify this as a Human Opinion [HN] from the start, as the author was observing a behavior rather than imposing a belief.
+
+Initial Misclassification of the Deming Rule: Similarly, the vulgar statement referencing Dr. Deming's 94:6 rule was initially tagged as a DIB. The new framework's clearer distinction would have immediately helped me understand that the author was using a specific, albeit crudely expressed, principle to explain an observation about social systems. This would have led me to correctly classify it as a Human Opinion [HN] with a humorous tone from the beginning.
+
+In short, the updated framework provides clearer guidance and more precise examples for identifying true dogmatic and biased claims. This would have allowed me to better interpret the author's intent and produce a more refined initial analysis, reducing the need for correction.
+//-->
+
 +
 
 ## Related aritcles
