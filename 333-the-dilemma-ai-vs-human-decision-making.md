@@ -311,7 +311,7 @@ Humans cannot learn by history, can we learn from our own experience, at least? 
 
 ## Transparency is a must to have
 
-All the previous "observations" collected on LinkedIn, reported above because are worth a mention because not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital technology advent:
+Previous "observations" collected on LinkedIn, are reported above. They are worth a mention as not-trivial questions (or dilemmas) well-known much time before the AI hype, and digital technology advent:
 
 | #     | dilemma                             | faced before                               |
 |-------|-------------------------------------|--------------------------------------------|
