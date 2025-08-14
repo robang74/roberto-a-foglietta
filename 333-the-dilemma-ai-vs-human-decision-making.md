@@ -130,10 +130,9 @@ Something near 98% (Land, 1992) in the long run but 96% is the theoretical estim
 
 ## Humans in the loop & AI vendors liability
 
-- 2025-08-08 -- ChatGPT advice lands 60-year-old man in hospital &nbsp; [Times of India](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-advice-lands-60-year-old-man-in-hospital-the-reason-will-surprise-you/articleshow/123200430.cms)
-
-> The man asked ChatGPT how to eliminate sodium chloride (table salt) from his diet.
-> The AI tool suggested sodium bromide as an alternative.
+[!INFO]
+**2025-08-08** -- ChatGPT advice lands 60-year-old man in hospital. The man asked ChatGPT how to eliminate sodium chloride (table salt) from his diet. The AI tool suggested sodium bromide as an alternative. -- [Times of India](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-advice-lands-60-year-old-man-in-hospital-the-reason-will-surprise-you/articleshow/123200430.cms)
+[/INFO]
 
 Therefore, I have google "sodium bromide" and I got immediately an AI overview explaining:
 
@@ -177,6 +176,8 @@ True. Until, reasoning gets in the scene and it makes no difference that it is a
 
 Never forget that "free Barabba" was one among those choices humans made, and not because someone (a single one) made a mistake but in a group!
 
+...
+
 <span id="dilemma-h"></span>
 > (**`h`**) &nbsp; If we hand over decisions without retaining accountability, we’re not using AI as a partner; we’re abdicating our role in shaping the future.
 
@@ -207,7 +208,7 @@ Do what we can, the rest will come.
 <span id="dilemma-i"></span>
 > (**`i`**) &nbsp; Excellent point. The trolley problem.
 
-<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-004.png" width="800"><br></div>
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-004.png" width="720"><br></div>
 
 The trolley dilemma, in its essence, is a theoretical dilemma, only. In practice, never happens in the specific ethical-struggling mode in which is posed: 
 
@@ -244,7 +245,9 @@ Is every life worth the same? Nope, it is harsh to admit and hard to negate. Mor
 
 Bringing as example a 2019 deadly crash case in which a Tesla car with auto-pilot enabled was involved
 
-> Tesla must pay a portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
+[!INFO]
+**2025-08-01** -- Tesla must pay a part of $329M in damages after fatal Autopilot crash, jury says. &ndash; [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
+[/INFO]
 
 Please, notice that "can be held accountable" does not mean "must be". So, let dig in this news:
 
@@ -304,27 +307,28 @@ Humans cannot learn by history, can we learn from our own experience, at least? 
 
 //-->
 
-+++++
++
 
 ## Transparency is a must to have
 
 All the previous "observations" collected on LinkedIn, reported above because are worth a mention because not trivial, are well known as question (or dilemmas) much time before the AI hype, and digital technology advent:
 
-| # | dilemma | faced before |
-|----|---|---|
-| `a` | human judgment and ethics | ancient Roman law |
-| `b`+`c` | consciousness and accountability | willingness in penal law |
-| `d` | poor decisions and punishments | 1:10 ancient Roman consuetudine |
-| `e` p.1 | human in the loop | always, until AIs do infrastructure |
-| `e` p.2 | it makes perfect sense | plausibility is a perception, only |
-| `f` | who is responsible | everybody actively involved, Numberg trial |
-| `g` | pattern recognition vs judgment | felony = patterns + willingness |
-| `h` | abdicating decisional duties | ancient Greek, `idiot` etymology |
-| `i` | trolley dilemma | false dilemma: adrenaline + instinct |
-| `j` | vendor can be held accountable | obvious in consumer rights protection |
-| `k` | without identity, no accountability | quality of traceability in logistics |
+| #     | dilemma                             | faced before                               |
+|-------|-------------------------------------|--------------------------------------------|
+| a____ | human judgment and ethics__________ | ancient Roman law_________________________ |
+| b + c | consciousness and accountability___ | willingness in penal law__________________ |
+| d____ | poor decisions and punishments_____ | 1:10 ancient Roman consuetudine___________ |
+| e:p.1 | human in the loop__________________ | always, until AIs do infrastructure_______ |
+| e:p.2 | e:p.1, it makes perfect sense______ | plausibility is a perception, only________ |
+| f____ | who is responsible_________________ | everybody actively involved, Numberg trial |
+| g____ | pattern recognition vs judgment____ | felony = patterns + willingness___________ |
+| h____ | abdicating decisional duties_______ | ancient Greek, `[idiot](302-politics-and-democracy-for-dummies.md#?target=_blank)` etymology___________ |
+| i____ | trolley dilemma____________________ | false dilemma: adrenaline + instinct______ |
+| j____ | vendor can be held accountable_____ | obvious in consumer rights protection_____ |
+| k____ | without identity, no accountability | quality of traceability in logistics______ |
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but because this lack of traceability is finally emerging as something relevant, practical and essentially important, beyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
+
 ---
 
 ### Problem identification
