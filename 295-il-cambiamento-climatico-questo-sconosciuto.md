@@ -9,7 +9,7 @@
 
 - **2nd** edition (rev.23) non ha modificato il contenuto dell'articolo, invece lo ha diviso in varie sezioni a cui è stato dato un titolo adatto ad ognuna di essa. Così, si è creata una struttura logica che sostenesse il ragionamento esplicitato dalla narrazione.
 
-- **3rd** edition (rev.31) include l'[aggiornamento](#update-2025-08-14) sullo scioglimento del permafrost nell'Artico.
+- **3rd** edition (rev.31) include l'[aggiornamento](#update-2025-08-14) sullo scioglimento del permafrost dell'Artico.
 
 ---
 
@@ -76,7 +76,7 @@ Teniamo anche presente però che se è vero che a priori NON lo sappiamo. Per ce
 
 ---
 
-### Differeza fra guidare e controllore
+### Differenza tra guidare e controllore
 
 Qual'è la differenza fra un indice e un driver? L'indice è la lancetta del tachimetro, il driver è il pedale dell'acceleratore o del freno. Oltre al fatto che quegli indici non sono necessariamente significativi da soli quindi non sono nemmeno completi.
 
@@ -86,7 +86,7 @@ Quando guidiamo l'auto osserviamo il tachimetro ma anche la strada. Agiamo sui p
 
 ### Agiamo sapendo di non sapere, sempre
 
-Quindi, dato ciò che non sappiamo e dato ciò che invece sappiamo, sarebbe il caso di agire sui processi di produzione e consumo in maniera che abbiano impatto minimo. Anche perché siamo tanti e forse pure troppi. Questo sarebbe la linea corretta da tenere.
+Quindi, dato ciò che non sappiamo e dato ciò che invece sappiamo, sarebbe il caso di agire sui processi di produzione e consumo in maniera che abbiano impatto minimo. Anche perché siamo tanti e forse anche troppi. Questa sarebbe la linea corretta da tenere.
 
 Però visto che la moneta è cartolare allora il sistema si comporta come se avesse risorse infinite.
 
@@ -155,3 +155,4 @@ La Siberia, però, è finora l’unica area in cui queste esplosioni hanno prodo
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
