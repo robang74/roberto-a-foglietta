@@ -146,7 +146,7 @@ It is reasonable to think that the man did not even make a google search to try 
 Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
 [!INFO]
-**Katia Note**: An implicit assuption here, was correctly identified as a prevalent societal bias (Adam Smith's rational economic agent, which despite unsuitable for the modern complexity is still influencing many people decisions) rather than a personal dogma of the author.
+**Katia Note** -- An implicit assuption here, was correctly identified as a prevalent societal bias (Adam Smith's rational economic agent, which despite unsuitable for the modern complexity is still influencing many people decisions) rather than a personal dogma of the author.
 [/INFO]
 
 ...
@@ -163,7 +163,7 @@ This is the **main** reason because some other than fishes are needed to be adde
 The total cost of ownership (TCMO) explains the concept, but cannot do anything against the people's attitude to swim in their own piss!
 
 [!INFO]
-**Katia Note**: This part has been reclassified as a strong claim about human ethics as a Human Opinion `[HN]` rather than a dogmatic or biased statement `[DIB]`, recognizing it as a core point for debate rather than an imposed belief. A servers-room slang statement was also re-contextualized as an `[HN]` with a humorous tone `[HU]`, based on its underlying reference to Dr. W. Edwards Deming's 94:6 rule.
+**Katia Note** -- This part has been reclassified as a strong claim about human ethics as a Human Opinion `[HN]` rather than a dogmatic or biased statement `[DIB]`, recognizing it as a core point for debate rather than an imposed belief. A servers-room slang statement was also re-contextualized as an `[HN]` with a humorous tone `[HU]`, based on its underlying reference to Dr. W. Edwards Deming's 94:6 rule.
 [/INFO]
 
 ...
@@ -193,6 +193,14 @@ It remembers the past but not why it went in the kitchen and this disrupts some 
 While we cannot enforce accountability and understanding over people, it would be better to ask for a solid and stable NL API for chatbots (early entry point in AI) and transparency, at least.
 
 Do what we can, the rest will come.
+
+[!INFO]
+**Katia Note** -- Lacks concrete implementation for transparency. Author suggests standardization via a supervisory entity like W3C (which example highlights need for independent standardization body), noting OpenAI's potential role was undermined by Microsoft's influence.
+[/INFO]
+
+[!INFO]
+**Katia Note** -- The author views rule-making in innovative fields as wasteful, citing Tesla trial; norms follow later. SCRUM analogy for societal issues lacks adaptation for non-business contexts (e.g., policy-making delays). The vendor liability precedes norms; while the lack of an interim policy frameworks for innovation (OpenAI as W3C) highlights a missed opportunity for industry-wide coordination.
+[/INFO]
 
 ...
 
@@ -368,7 +376,7 @@ A pragmatic approach is based on solving most relevant real-world problems in a 
 
 In this specific case we need a solid, stable and transparent natural language accessible API for chatbots. Which is not only about web interface but also which internal resources and information are exposed and then accessible to the end users.
 
-~~~~~
+---
 
 ### The elephant in the room
 
@@ -432,7 +440,7 @@ We can agree that such a case is an exception, not the norm. Then we need to kee
 
 However, in "management" decisions these constraints can be much weaker and the scenario changes. Then we need to keep in consideration that a general AI can beat 87% of the top professional investors, especially in middle-long terms investments which are almost all those 401k portfolios deal with.
 
-...
+---
 
 ### The PhD grade AIs vs humans
 
@@ -471,7 +479,6 @@ From this perspective, the ethics for the AIs has nothing to do with their algor
 Too low concentration and there are not enough big players to take those long-term risks some businesses require, like pharmaceutics or defence. Too high concentration, means too many talents remain trapped in poverty plus we cannot sell high-valuable or added-value products or services to people that are struggling to pay their bills. They might be forced to work for nuts, but delivering nuts like in the Soviet Communism era, indeed!
 
 +
-++++
 
 ## AI is the 5th revolution
 
@@ -487,7 +494,7 @@ Despite almost all the adults witnessing between two and four of them, it seems 
 
 Are we sure that the "emerging problem" is about artificial intelligence vs human ethics? Really?
 
-~~~~~
+---
 
 ### AI is a game changer
 
@@ -530,45 +537,33 @@ In short, the updated framework provides clearer guidance and more precise examp
 +
 
 ## Related aritcles
-<!--//
-- [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
-+++++
-- [The session context and summary challenge](https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html) &nbsp; (2025-07-28)
-+++++
-- [Human knowledge and opinions challenge](https://robang74.github.io/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html) &nbsp; (2025-07-28)
-+++++
-- [Attenzione e contesto nei chatbot](https://robang74.github.io/chatbots-for-fun/html/attenzione-e-contesto-nei-chatbot.html) &nbsp; (2025-07-20)
-+++++
-- [L'AI è un game-changer perché è onesta](https://robang74.github.io/chatbots-for-fun/html/l-ai-e-un-game-changer-perche-onesta.html) &nbsp; (2025-06-23)
-+++++
-- [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
-+++++
-- [Fix your data is a postponing excuse](https://robang74.github.io/chatbots-for-fun/html/fix-your-data-a-postponing-excuse.html) &nbsp; (2025-05-08)
-+++++
-- [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
-+++++
-- [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) &nbsp; (2025-01-04)
 
-- [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
-+++++
-- [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
-//-->
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
-+++++
 - [Ragionare non è come fare la cacca!](320-ragionare-non-e-come-fare-la-cacca.md#?target=_blank) &nbsp; (2025-06-08)
-+++++
 - [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md#?target=_blank) &nbsp; (2025-06-07)
-+++++
 - [Pensiero e opera nell'era dell'AI](310-pensiero-e-opera-nell-era-dell-ai.md#?target=_blank) &nbsp; (2025-04-29)
-+++++
-<!--//
 - [Il delirio dei regolatori delle AI](297-il-delirio-dei-regolatori-delle-ai.md#?target=_blank) &nbsp; (2024-12-21)
-+++++//-->
 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
-+++++
 - [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
 
-+++++
+...
+
+- [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
+- [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
+
+...
+
+- [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
+- [The session context and summary challenge](https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html) &nbsp; (2025-07-28)
+- [Human knowledge and opinions challenge](https://robang74.github.io/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html) &nbsp; (2025-07-28)
+- [Attenzione e contesto nei chatbot](https://robang74.github.io/chatbots-for-fun/html/attenzione-e-contesto-nei-chatbot.html) &nbsp; (2025-07-20)
+- [L'AI è un game-changer perché è onesta](https://robang74.github.io/chatbots-for-fun/html/l-ai-e-un-game-changer-perche-onesta.html) &nbsp; (2025-06-23)
+- [The illusion of thinking](https://robang74.github.io/chatbots-for-fun/html/the-illusion-of-thinking.html) &nbsp; (2025-06-08)
+- [Fix your data is a postponing excuse](https://robang74.github.io/chatbots-for-fun/html/fix-your-data-a-postponing-excuse.html) &nbsp; (2025-05-08)
+- [Il problema della sycophancy nell'intelligenza artificiale](https://robang74.github.io/chatbots-for-fun/html/la-sycophancy-nell-intelligenza-artificiale.html) &nbsp; (2025-05-02)
+- [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) &nbsp; (2025-01-04)
+
++
 
 ## Share alike
 
