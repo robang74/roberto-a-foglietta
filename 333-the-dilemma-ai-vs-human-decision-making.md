@@ -454,6 +454,10 @@ Which brings us to the conclusion, again, that AI-humans coevolution is not for 
 
 Which reframes that 87% about finance from "experts" to "common people". A great jump towards AI democratisation, and related wealth distribution, indeed.
 
+[!INFO]
+**Katia Note** -- Mass re-skilling mechanism gap: the education system is obsolete. AI bidirectional learning is the way. Thus AI is the problem that helps to solve the problem, in this specific case.
+[/INFO]
+
 ---
 
 ### The safety guardrails
