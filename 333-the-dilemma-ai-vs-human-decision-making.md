@@ -516,6 +516,8 @@ It would be unfair to pretend that "nothing changes". Moreover, at this time, it
 
 ### Conceptual connections graph
 
+Innovation breaks rules by its own essence. Resisting is futile, unless shift from blocking to shaping.
+
 [!INFO]
 **Revisited Katia's ideas-map**
 <code>
@@ -577,12 +579,8 @@ In short, the updated framework provides clearer guidance and more precise examp
 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
 - [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
 
-...
-
 - [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
 - [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
-
-...
 
 - [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
 - [The session context and summary challenge](https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html) &nbsp; (2025-07-28)
