@@ -199,7 +199,7 @@ Do what we can, the rest will come.
 [/INFO]
 
 [!INFO]
-**Katia Note** -- The author views rule-making in innovative fields as wasteful, citing Tesla trial; norms follow later. SCRUM analogy for societal issues lacks adaptation for non-business contexts (e.g., policy-making delays). The vendor liability precedes norms; while the lack of an interim policy frameworks for innovation (OpenAI as W3C) highlights a missed opportunity for industry-wide coordination.
+**Katia Note** -- SCRUM analogy for societal issues lacks adaptation for non-business contexts (e.g., policy-making delays). The vendor liability precedes norms; while the lack of an interim policy frameworks for innovation (OpenAI as W3C) highlights a missed opportunity for industry-wide coordination.
 [/INFO]
 
 ...
@@ -244,9 +244,7 @@ Is every life worth the same? Nope, it is harsh to admit and hard to negate. Mor
 
 Bringing as example a 2019 deadly crash case in which a Tesla car with auto-pilot enabled was involved
 
-[!INFO]
-Tesla must pay a portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
-[/INFO]
+> Tesla must pay a portion of $329 million in damages after fatal Autopilot crash, jury says. -- [CNBC](https://www.cnbc.com/2025/08/01/tesla-must-pay-329-million-in-damages-in-fatal-autopilot-case.html)
 
 Please, notice that "can be held accountable" does not mean "must be". So, let dig in this news:
 
@@ -271,6 +269,10 @@ Can his assumption lead Tesla to pay? Yes, because
 because "elsewhere" means much less crashes (ethics), and a more convenient self-insurance strategy, both.
 
 So, why also apply Tesla 3x punitive damages? Punishing good choices isn't a great idea.
+
+[!INFO]
+**Katia Note** -- The author views rule-making in innovative fields as wasteful: norms follow later. Interim liability vacuum: status-quo actively resists new risk models while Tesla self-insurance model already viable, quick to settle without punishing emerging best practices.
+[/INFO]
 
 <!--//
 
@@ -509,6 +511,31 @@ Despite common perception, this will not lead towards a great number of people w
 For example psychologists and teachers can move towards coaching and prompt engineerings with a reasonable re-training and professional formation. Those who will wait for someone else to take care of their self-growth are going to miss an opportunity or lose their jobs.
 
 It would be unfair to pretend that "nothing changes". Moreover, at this time, it should be clear to everyone that changes are the norm and innovation happens whether we participate in it or not. Those who cannot manage change will suffer it.
+
+~~~~~
+
+### Conceptual connections graph
+
+[!INFO]
+**Revisited Katia's ideas-map**
+<code>
+
+Accountability<br>
+&nbsp; ├── Legal → Vendor liability already proven (e.g. Tesla case);<br>
+&nbsp; ├── Technical → Transparency ≠ open weights; API + logs suffice;<br>
+&nbsp; └── Educational → 2-20% can co-evolve; 80% need scaffolding.<br>
+
+Car Crash Case<br>
+&nbsp; ├── Human → Adrenaline-driven, biased, avoidant;<br>
+&nbsp; └── AI → Pattern recognition, balancing weights, needs rules.<br>
+
+Pragmatism<br>
+&nbsp; ├── SCRUM-like incremental knowledge and improvements;<br>
+&nbsp; ├── Transparency drives trust → market stability → value;<br>
+&nbsp; └── Vendor-insurer model internalises risk, quicker to settle.<br>
+
+</code>
+[/INFO]
 
 <!--//
 THREE LINES CAN MAKE SUCH A DIFFERENCE!
