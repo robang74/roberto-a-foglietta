@@ -334,6 +334,64 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
 
+<!--//
+
++
+
+## Update 2025-08-18
+
+Incontro in Alaska fra Trump e Putin
+
+### L'Europa e il club dei volenterosi
+
+<div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-003.jpg" width="800"><br></div>
+
+...
+
+DUE PRESIDENTI E UN GENTLEMEN AGREEMENT
+
+Quale accordo possono mai aver raggiunto questi due presidenti in poche ore? Si sono studiati, gli accordi erano già stati preparati prima del loro incontro.
+
+Putin ha detto, al termine dell'incontro, come debriefing per i Russi: "non ci sono limiti" mentre Trump ha laconicamente ammesso che non sono stati sottoscritti accordi.
+
+Normale, due volte gli USA hanno firmato gli accordi di Minsk e due volte li hanno unilateralmente violati. Hanno sottoscritto la non proliferazione di vettori nucleari a medio raggio e l'hanno unilateralmente disatteso.
+
+C'è quindi un gentlemen agreement che di fatto è una delega in carta bianca a Putin per prendersi l'Ucraina e dare seguito agli accordi di sfruttamento minerario dell'Ucraina a favore degli USA.
+
+D'altronde la Russia può garantire la copertura di quelle forniture a prezzi convenienti anche senza l'Ucraina e Rosatom è fornitore indispensabile per gli USA.
+
+Nel mentre che Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guidata dai dementi della woke ideology, ormai definitivamente consegnata alla storia.
+
+Perché tagliarsi gli ammenicoli per difendere il diritto di essere una vera donna e trovare un posto di lavoro per il quale non si è qualificati grazie al programma di inclusione DEI, ha bruciato anche Hollywood, letteralmente.
+
+...
+
+GLI USA SONO LA FRANCIA COLONIALE, MA SENZA LA GRANDEUR FRANCESE
+
+Zelensky dopo essere stato il cavallo di Troia degli USA di Biden in Ucraina, sta replicando in Europa. É incredibile come l'ovvio, si ripeta senza essere notato ma evidentemente c'è una forma di cecità selettiva alla realtà. Infatti, senza sorpresa, le news cominciano a portare le inevitabili conferme.
+
+=-> lnkd.in/d9UPKTfc (ANSA)
+
+D'altronde gli americani detestano perdere e come altrove dal Vietnam all'Afghanistan, dove perdono (ovunque) fanno scarica-barile su qualche altro paese. Come i contratti capestro per lo sfruttamento minerario dell'Ucraina dimostrano, che poi saranno i Russi a garantire agli USA, in cambio dell'Ucraina come novella Bielorussia. Senza grandi sorprese, una trama già era facile da prevedere sin dall'inizio.
+
+Infatti, bastava chiedersi: in quali paesi gli USA per intervento diretto o indiretto hanno favorito la pace e il benessere piuttosto che la distruzione e il saccheggio. Risposta facile, senza eccezioni: nessuno.
+
+In pratica, gli USA (o se preferito l'imperialismo americano) segue lo stesso schema del colonialismo francese ma senza la boutade de grandeureux tipica dei francesi (in Africa, in particolare) ma una più pragmatica ma scomposta razzia: chi piglia, piglia basti che porti in USA.
+
+Ma forse la cosa più sorprendente è la semplicità quasi banale della strategia USA che però pare funzionare sempre forse per la loro incapacità di essere coerenti e quindi di procedere a gruppi di interesse (anche il lite fra loro) senza una strategia o un piano articolato.
+
+Sicché appaiono politicamente incomprensibili quando invece basterebbe aver letto di Cesare e delle tribù gallico-germanico per sapere che barbari e predoni, così anche come i pirati dei caraibi, hanno sempre fatto leva su questa loro "imprevedibilità" strategica per dissimulare la banalità della razzia.
+
+Un tratto caratteristico molto utile per ingannare il nemico incapace di vederli come un unico agente operativo semplicemente perché privi di struttura di coordinamento piramidale quindi senza un unico vertice di comando.
+
+Da un punto di vista delle dinamiche di sistema (o anche dette di gruppo) è molto interessante perché dimostra che l'auto-organizzazione unita all'omogeneità dell'intento e a basse pretese (il saccheggio, piuttosto che la conquista) continua a manifestare la sua intrinseca capacità di confondere gli opponenti.
+
+A poco vale notare che poi i paesi alleati (ad esempio Afganistan contro la Russia) poi diventino nemici. Nel caso dell'Ucraina, forse questa lezione è stata appresa (grazie al fatto che Trump si avvale di consigli un po' "oltre" le banalità del Pentagono e della CIA), e quindi prima che l'Ucraina si ponga come nemico degli USA, viene abbandonata al nemico (Russia) che nel frattempo è diventato un partner commerciale strategico (come per altro è sempre stato, salvo analisi politiche idiote e per l'Europa pure masochiste).
+
+=-> lnkd.in/d6yJ6idZ (dal 3° prompt)
+
+//-->
+
 +
 
 ## Related articles
