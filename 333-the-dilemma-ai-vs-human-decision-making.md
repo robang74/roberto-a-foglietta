@@ -378,7 +378,7 @@ Under the perspective that anything is really "new" but it is just a matter of p
 
 While a dilemma can admit a theoretical answer that can be elected as "solution" by varying criterias among them "popularity" or "common sense", usually that answer does not allow any practical and/or effective implementation in the real world.
 
-A pragmatic approach is based on solving most relevant real-world problems in a practical way under the "do what we can, the rest will come" principle. Sustaining the idea that once a topic starts to be faced in practice, then dilemmas reframe.
+A pragmatic approach is based on solving most relevant real-world problems in a practical way under the "do what we can, the rest will come" principle. Sustaining the idea that once a topic or a functional task starts to be faced in practice, then the related dilemmas reframe.
 
 In this specific case we need a solid, stable and transparent natural language accessible API for chatbots. Which is not only about web interface but also which internal resources and information are exposed and then accessible to the end users.
 
@@ -603,3 +603,4 @@ In short, the updated framework provides clearer guidance and more precise examp
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
+
