@@ -394,6 +394,8 @@ In pratica, gli USA (o se preferito l'imperialismo americano) segue lo stesso sc
 
 Ma forse la cosa più sorprendente è la semplicità quasi banale della strategia USA che però pare funzionare sempre forse per la loro incapacità di essere coerenti e quindi di procedere a gruppi di interesse (anche il lite fra loro) senza una strategia o un piano articolato.
 
+<!--// lnkd.in/d6yJ6idZ (dal 3° prompt) //-->
+
 Sicché appaiono politicamente incomprensibili quando invece basterebbe aver letto di Cesare e delle tribù gallico-germanico per sapere che barbari e predoni, così anche come i pirati dei caraibi, hanno sempre fatto leva su questa loro "imprevedibilità" strategica per dissimulare la banalità della razzia.
 
 Un tratto caratteristico molto utile per ingannare il nemico incapace di vederli come un unico agente operativo semplicemente perché privi di struttura di coordinamento piramidale quindi senza un unico vertice di comando.
@@ -401,8 +403,6 @@ Un tratto caratteristico molto utile per ingannare il nemico incapace di vederli
 Da un punto di vista delle dinamiche di sistema (o anche dette di gruppo) è molto interessante perché dimostra che l'auto-organizzazione unita all'omogeneità dell'intento e a basse pretese (il saccheggio, piuttosto che la conquista) continua a manifestare la sua intrinseca capacità di confondere gli opponenti.
 
 A poco vale notare che poi i paesi alleati (ad esempio Afganistan contro la Russia) poi diventino nemici. Nel caso dell'Ucraina, forse questa lezione è stata appresa (grazie al fatto che Trump si avvale di consigli un po' "oltre" le banalità del Pentagono e della CIA), e quindi prima che l'Ucraina si ponga come nemico degli USA, viene abbandonata al nemico (Russia) che nel frattempo è diventato un partner commerciale strategico (come per altro è sempre stato, salvo analisi politiche idiote e per l'Europa pure masochiste).
-
-=-> lnkd.in/d6yJ6idZ (dal 3° prompt)
 
 ---
 
