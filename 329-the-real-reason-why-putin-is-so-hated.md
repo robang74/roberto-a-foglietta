@@ -452,6 +452,10 @@ Dobbiamo infatti ricordarci che le armi occidentali, per la maggiore **non** son
 
 Appare evidente che l'Europa sta proseguendo sulla strada impostata dalle presidenze americane da Obama a Biden, mentre Trump sta scaricando tutte le responsabilità anche quelle finanziarie sull'Europa di Ursula von der Leyen semplicemente perché l'Ucraina non è sufficientemente ricca per garantire una tale monumentale quota di debito, che ovviamente come contraltare ha appunto il gettito di spesa.
 
+[!INFO]
+2025-08-18 -- Ukraine will promise to buy $100bn of American weapons financed by Europe in a bid to obtain US guarantees for its security after a peace settlement with Russia, according to a document seen by the Financial Times. -- [Financial Times](https://www.ft.com/content/8dad9c67-59da-4f38-b43a-3d6ba5f1df57#:~:text=American%20weapons%20financed%20by%20Europe)
+[/INFO]
+
 Il tutto appoggiato sul nulla che non siano i contribuenti europei e inglesi perché l'illusione che i 300 miliardi congelati alla Russia di asset che erano produttivi o fruttiferi possano essere definitivamente incamerati è pressoché nulla. Giacché la Russia non è fallita e sul piano diplomatico ha già finto il confronto con l'Europa di Ursula, e l'UK di Steamer.
 
 Costoro più che il sogno di una vittoria inseguono la garanzia di una sicurezza, in pratica un perdono presidenziale come è stato per Hunter Biden et Co. Ma purtroppo, Trump non può garantire questo e nemmeno ha alcun interesse a garantire perché dal suo punto di vista i c.d. leader europei non sono null'altro che limoni da spremere: if life gives you lemons, make a lemonade.
