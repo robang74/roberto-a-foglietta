@@ -331,7 +331,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 +
 
-## Update 2025-08-18
+## Update 2025-08-19
 
 > [!WARN]
 > 
@@ -381,11 +381,17 @@ A seguito del meeting in Alaska si è tenuto un incontro a Washington con i c.d.
 
 Zelensky dopo essere stato il cavallo di Troia degli USA di Biden in Ucraina, sta replicando in Europa. É incredibile come l'ovvio, si ripeta senza essere notato ma evidentemente c'è una forma di cecità selettiva alla realtà. Infatti, senza sorpresa, le news cominciano a portare le inevitabili conferme.
 
-=-> lnkd.in/d9UPKTfc (ANSA)
+[!INFO]
+2025-08-18 -- Una delegazione europea di alto livello senza precedenti per evitare la debacle dell'incontro nello Studio Ovale dello scorso febbraio e per garantire un futuro di pace non solo all'Ucraina ma a tutta l'Europa. -- [ANSA](https://www.ansa.it/sito/notizie/mondo/2025/08/18/trump-zelensky-puo-mettere-subito-fine-alla-guerra-rinunci-a-crimea_4b3a1dc5-bc24-46d6-bc0e-b13403f9012f.html)
+[/INFO]
 
 D'altronde gli americani detestano perdere e come altrove dal Vietnam all'Afghanistan, dove perdono (ovunque) fanno scarica-barile su qualche altro paese. Come i contratti capestro per lo sfruttamento minerario dell'Ucraina dimostrano, che poi saranno i Russi a garantire agli USA, in cambio dell'Ucraina come novella Bielorussia. Senza grandi sorprese, una trama già era facile da prevedere sin dall'inizio.
 
-Infatti, bastava chiedersi: in quali paesi gli USA per intervento diretto o indiretto hanno favorito la pace e il benessere piuttosto che la distruzione e il saccheggio. Risposta facile, senza eccezioni: nessuno.
+---
+
+### La dottrina Wolfowitz è ancora in auge
+
+Infatti, basta chiedersi: in quali paesi gli USA per intervento diretto o indiretto hanno favorito la pace e il benessere piuttosto che la distruzione e il saccheggio. Risposta facile, senza eccezioni: nessuno.
 
 In pratica, gli USA (o se preferito l'imperialismo americano) segue lo stesso schema del colonialismo francese ma senza la boutade de grandeureux tipica dei francesi (in Africa, in particolare) ma una più pragmatica ma scomposta razzia: chi piglia, piglia basti che porti in USA.
 
@@ -403,9 +409,9 @@ A poco vale notare che poi i paesi alleati (ad esempio Afganistan contro la Russ
 
 ---
 
-### Un incontro imbarazzante
+### Un incontro piuttosto imbarazzante
 
-nei video trapelati dall'incontro fra zelensky, i volenterosi, e Trump appare ormai definitivamente chiara l'assenza di contenuti da parte degli "arrivati" e che Trump stesse facendo il ruolo del conduttore televisivo. 
+Nei video trapelati dall'incontro fra Zelensky, i volenterosi, e Trump appare ormai definitivamente chiara l'assenza di contenuti da parte degli "arrivati" e che Trump stesse facendo il ruolo del conduttore televisivo. 
 
 Da quello che vomita diversi minuti di "siamo importanti, incontro storico, bla bla" a quello che chiede un cessate il fuoco a quella che fa le faccine e Zelensky con il quale si baloccano, sia Trump che i giornalisti, riguardo all'abito, appare chiaro che manchi del tutto il concetto di do-ut-des, ancora prima del concetto di "rapporto di forza". Sono dei bambini che vanno in gita a Washington a chiedere al papà di realizzare il sogno del loro 18esimo compleanno.
 
@@ -418,6 +424,10 @@ Una condizione sine-qua-non che si basa, palesemente, sulle dichiarazioni della 
 Evidentemente dall'ultimo bilaterale Italia-USA in cui la Meloni è uscita con un "c'è un aggressore e un aggredito" che ha mandato in shock anche la traduttrice diplomatica, la lezione non è stata imparata evidentemente a causa dell'effetto band-wqagon. Anche la reazione di Trump però è stata la stessa, anzi è stata estesa, invece dei $10 miliardi di GNL all'Italia, ha piazzato l'Europa sotto un accordo di acquisto di 750 miliardi dagli USA e 600 miliardi di investimenti USA.
 
 Questo è ciò che emerge in superficie, non sappiamo quali sono gli accordi che la diplomazia dei vari paesi europei hanno portato a Washington, se ce ne sono stati.
+
+---
+
+### I volenterosi rimandati a settembre
 
 Nel discorso conclusivo Trump li rimanda a settembre, letteralmente, e sottolinea che un cessate il fuoco è un obiettivo sopravvalutato. Auspicabile ma sopravvalutato e non banalmente raggiungibile.
 
@@ -434,6 +444,20 @@ Tale disconnessione dalla realtà dei c.d. leader europei, è tipica della folli
 Questo ci spiega perché sia la VdL quanto gli altri siano disposti ad ogni "sottomissione e sacrificio" per aumentare il sunk-cost di questa "impresa" dei volenterosi che molto ricorda i "capitani corraggiosi" di Alitalia. Perché o perdono la poltrona oppure perdono il portafoglio, nel dubbio perdono anche la testa.
 
 In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Alemno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
+
+---
+
+### Il quantitative easing di Draghi
+
+In questo scenario l'accordo per la fornitura di $100 miliardi di materiale bellico da parte degli USA, pagato dall'Europa che dovrebbe aiutare l'Ucraina appare null'altro che l'estensione del "quantitative easing, whatever it takes" di Mario Draghi, portato avanti con altri mezzi (come si suole dire della guerra in funzione della diplomazia).
+
+Dobbiamo infatti ricordarci che le armi occidentali, per la maggiore **non** sono fruibili direttamente dall'esercito Ucrainao perché non è un esercito facente parte della NATO e quindi continua ad avere bisogno di operatori sul campo e dell'infrastruttura di informazione e controllo che fa capo alla NATO in Europa. Il che implica un concreto e fattivo intervento contro la Russia.
+
+Appare evidente che l'Europa sta proseguendo sulla strada impostata dalle presidenze americane da Obama a Biden, mentre Trump sta scaricando tutte le resposabilità anche quelle finanziarie sull'Europa di Ursula von der Leyen semplicemente perché l'Ucraina non è sufficientemente ricca per garantire una tale monumentale quota di debito, che ovviamente come controaltare ha appunto il gettito di spesa.
+
+Il tutto appoggiato sul nulla che non siano i contribuenti europei e inglesi perché l'illusione che i 300 miliardi congelati alla Russia di asset che erano produttivi o futtiferi possano essere definitivamente incamerati è pressoché nulla. Giacché la Russia non è fallita e sul piano diplomatico ha già finto il confronto con l'Europa di Ursula, e l'UK di Staemer.
+
+Costoro più che il sogno di una vittora inseguono la garanzia di una sicurezza, in pratica un pardon presidenziale come è stato per Hunter Biden et Co. Ma purtroppo, Trump non può garantire questo e nemmeno ha alcun interesse a garantirlo perché dal suo punto di vista i c.d. leader europei non sono null'altro che limoni da spremere: if life gives you lemons, make a lemonade.
 
 +
 
