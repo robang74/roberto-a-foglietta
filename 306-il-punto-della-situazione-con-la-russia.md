@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch" src="img/306-il-punto-della-situazione-con-la-russia.png" width="800"><br></div>
 
-## Il punto della situazione
+## Il punto della situazione con la Russia
 
 - **1st** edition: pubblicato lo stesso giorno in una serie di commenti su X poi raccolti in un post su Facebook.
 
