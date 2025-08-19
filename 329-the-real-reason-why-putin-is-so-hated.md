@@ -158,23 +158,17 @@ A do-ut-des, which is extremely important for the USA as their public debt is sk
 
 A do-ut-des, which is extremely important for Russia, and Putin leadership in particular. Because the stake on the table is high, and the Armenia vs Azerbaijan war settles down, Putin regains the main decision-maker role which the Ukraine weakened but which is essential for the Trump presidency.
 
-+
+#### Update 2025-08-15
 
----
-|x|>
-THIS ARTICLE CONTINUES FROM THE UK-UA PERSPECTIVE, WHICH INFLUENCED EU-NATO POSTURE<br>
-*which remains as a news coverage, probably historically irrelevant, soon after the Trump-Putin meeting.*
-<|x|
----
+In support of the analysis exposed above, recent news confirms that do-ut-des translation went good even before the Alaska meeting between Trump and Putin.
 
-+
+[!INFO]
+2025-08-15 -- Russia decree opens door for Exxon return to Sakhalin-1 project. The signing of the decree comes on the day Russian president Vladimir Putin meets Donald Trump in Alaska for a summit.<br>-- [Reuters](https://www.reuters.com/business/energy/russia-decree-opens-door-exxon-return-sakhalin-1-project-2025-08-15)
+[/INFO]
 
-## Share alike
-
-&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Also Reuters confirms, on that day before the meeting that "opportunities for investment and business collaboration will be on the agenda" alongside the Ukraine crisis. After the meeting we can reasonably think that a strategic business alliance between the USA and Russia has been the core of such a meeting.
 
 +
-++++
 
 ## Update 2025-07-01
 
@@ -334,13 +328,35 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 2025-07-01 -- La famiglia reale ha bisogno di un'ingente iniezione di liquidità, pari a 91 milioni di sterline (circa 106 milioni di euro) per far fronte al deficit del Sovereign Grant. Re Carlo darà un triste addio al treno della regina Elisabetta, che verrà dismesso nel 2027. Fonte: [ADN Kronos](https://www.adnkronos.com/internazionale/royalfamilynews/addio-al-treno-della-regina-elisabetta-sara-dismesso-nel-2027_4ulW84J2YvKsBIwSqZLpQV)
 
-<!--//
-
 +
 
 ## Update 2025-08-18
 
-Incontro in Alaska fra Trump e Putin
+> [!WARN]
+> 
+> **WORKING IN PROGRESS, WAIT!**
+
+L'incontro in Alaska fra Trump e Putin è stato certamente un punto di svolta nelle relazioni fra USA e Russia. D'altronde se inseriamo nel contesto di quell'incontro la notizia che gli USA rischiano di perdere la corsa tecnologica all'intelligenza artificiale a causa della loro rete elettrica:
+
+[!INFO]
+2025-08-14 -- AI experts return from China stunned: The U.S. grid is so weak, the race may already be over. -- [Fortune](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure)
+[/INFO]
+
+allora scopriamo che:
+
+- Rosatom è il fornitore primario di combustibile nucleare degli USA
+- nel breve periodo anche l'unico agibile per gli USA
+- e probabilmente anche sul lungo periodo,
+
+e che:
+ 
+- le centrali nucleari sono un asset indispensabile per i data center
+- come dimostrano gli investimenti di Microsoft e altra aziende cloud/AI
+- quindi la produzione di energia nucleare, è un fattore strateggico per l'AI
+
+Facile comprendere come mai Trump, da businessman con uno spiccato senso degli affari, abbia accolto Putin facendo gli onori di casa. Dal canto suo Putin, nel contraccambiare favore con favore, senza indugi o rinegoziazioni, si è posto subito come un interlocutore determinante e per quanto detto sopra in una contesto di estrema importanza strateggica per la quale anche la questione Ucraina è passata in secondo piano.
+
+---
 
 ### L'Europa e il club dei volenterosi
 
@@ -423,8 +439,6 @@ Tale disconnessione dalla realtà dei c.d. leader europei, è tipica della folli
 Questo ci spiega perché sia la VdL quanto gli altri siano disposti ad ogni "sottomissione e sacrificio" per aumentare il sunk-cost di questa "impresa" dei volenterosi che molto ricorda i "capitani corraggiosi" di Alitalia. Perché o perdono la poltrona oppure perdono il portafoglio, nel dubbio perdono anche la testa.
 
 In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Alemno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
-
-//-->
 
 +
 
