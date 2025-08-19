@@ -478,11 +478,25 @@ Il lato positivo di questa vicenda è che ora **anche** il presidente americano,
 
 ## Related articles
 
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-20)
++++++
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
++++++
+- [Non c'è il 2° podio negli schemi Ponzi](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) &nbsp; (2025-06-16)
++++++
 - [WWZ simply explained, for dummies](321-wwz-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-10)
 +++++
 - [WW3 simply explained, for dummies](317-ww3-simply-explained-for-dummies.md#?target=_blank) &nbsp; (2025-06-01)
 +++++
+- [Il punto della situazione](306-il-punto-della-situazione-con-la-russia.md#?target=_blank) &nbsp; (2025-03-19)
++++++
+- [La gestione delle informazioni in caso di guerra](303-gestione-delle-informazioni-in-caso-di-guerra.md#?target=_blank) &nbsp; (2025-03-04)
++++++
+- [La madre di tutte le guerre](296-la-madre-di-tutte-le-guerre.md#?target=_blank) &nbsp; (2024-12-15)
++++++
 - [Il ruolo dell'Armata Rossa nella WW2](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf.html) &nbsp; [lkdn](https://www.linkedin.com/pulse/il-ruolo-dellarmata-rossa-nella-ww2-roberto-a-foglietta-8rdmf) &nbsp; (2024-08-27)
++++++
+- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
 +++++
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 +++++
