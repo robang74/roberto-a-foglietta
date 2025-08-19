@@ -158,6 +158,7 @@ A do-ut-des, which is extremely important for the USA as their public debt is sk
 
 A do-ut-des, which is extremely important for Russia, and Putin leadership in particular. Because the stake on the table is high, and the Armenia vs Azerbaijan war settles down, Putin regains the main decision-maker role which the Ukraine weakened but which is essential for the Trump presidency.
 
+<span id="update-2025-08-15"></span>
 #### Update 2025-08-15
 
 In support of the analysis exposed above, recent news confirms that do-ut-des translation went good even before the Alaska meeting between Trump and Putin.
@@ -339,7 +340,7 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 L'incontro in Alaska fra Trump e Putin è stato certamente un punto di svolta nelle relazioni fra USA e Russia. D'altronde se inseriamo nel contesto di quell'incontro la notizia che gli USA rischiano di perdere la corsa tecnologica all'intelligenza artificiale a causa della loro rete elettrica:
 
 [!INFO]
-2025-08-14 -- AI experts return from China stunned: The U.S. grid is so weak, the race may already be over. -- [Fortune](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure)
+2025-08-14 -- AI experts return from China stunned: The U.S. grid is so weak, the race may already be over. "Everywhere we went, people treated energy availability as a given", Rui Ma wrote on X after returning from a recent tour of China’s AI hubs. For American AI researchers, that’s almost unimaginable. In the U.S., surging AI demand is colliding with a fragile power grid, the kind of extreme bottleneck that Goldman Sachs warns could severely choke the industry’s growth. In China, Ma continued, it’s considered a "solved problem". -- [Fortune](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure)
 [/INFO]
 
 allora scopriamo che:
@@ -354,35 +355,29 @@ e che:
 - come dimostrano gli investimenti di Microsoft e altra aziende cloud/AI
 - quindi la produzione di energia nucleare, è un fattore strateggico per l'AI
 
-Facile comprendere come mai Trump, da businessman con uno spiccato senso degli affari, abbia accolto Putin facendo gli onori di casa. Dal canto suo Putin, nel contraccambiare favore con favore, senza indugi o rinegoziazioni, si è posto subito come un interlocutore determinante e per quanto detto sopra in una contesto di estrema importanza strateggica per la quale anche la questione Ucraina è passata in secondo piano.
+Facile comprendere come mai Trump, da businessman con uno spiccato senso degli affari, abbia accolto Putin facendo gli onori di casa. Dal canto suo Putin, nel contraccambiare favore con favore (cfr. [qui](#update-2025-08-15)), senza indugi o rinegoziazioni, si è posto subito come un interlocutore determinante e per quanto detto sopra in una contesto di estrema importanza strateggica per la quale anche la questione Ucraina è passata in secondo piano.
 
 ---
 
-### L'Europa e il club dei volenterosi
+### Due presidenti e un gentlemen agreement
+
+Quale accordo possono mai aver raggiunto questi due presidenti in poche ore, meno di mezza giornata? 
+
+Si sono incontrati, si sono studiati, si sono conosciuti. Gli accordi erano già stati preparati prima del loro incontro. Putin ha detto, al termine dell'incontro, come debriefing per i Russi: "non ci sono limiti" mentre Trump ha laconicamente ammesso che non sono stati sottoscritti accordi. 
+
+D'altronde è normale, e anche molto positivo, che vada così perché per due volte gli USA hanno firmato gli accordi di Minsk e due volte li hanno unilateralmente violati. Hanno sottoscritto la non proliferazione di vettori nucleari a medio raggio e l'hanno unilateralmente disatteso.
+
+C'è quindi un gentlemen agreement che di fatto è una delega in carta bianca a Putin per prendersi l'Ucraina e dare seguito agli accordi di sfruttamento minerario dell'Ucraina a favore degli USA. D'altronde la Russia può garantire la copertura di quelle forniture a prezzi convenienti anche senza l'Ucraina e Rosatom è fornitore indispensabile per gli USA.
+
+Nel mentre che Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guidata dai dementi della woke ideology, ormai definitivamente consegnata alla storia. Perché tagliarsi gli ammenicoli per difendere il diritto di essere una vera donna e trovare un posto di lavoro per il quale non si è qualificati grazie al programma di inclusione DEI, ha bruciato anche Hollywood, letteralmente.
+
+---
+
+### Zelensky, l'Europa e il club dei volenterosi
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-003.jpg" width="800"><br></div>
 
-...
-
-DUE PRESIDENTI E UN GENTLEMEN AGREEMENT
-
-Quale accordo possono mai aver raggiunto questi due presidenti in poche ore? Si sono studiati, gli accordi erano già stati preparati prima del loro incontro.
-
-Putin ha detto, al termine dell'incontro, come debriefing per i Russi: "non ci sono limiti" mentre Trump ha laconicamente ammesso che non sono stati sottoscritti accordi.
-
-Normale, due volte gli USA hanno firmato gli accordi di Minsk e due volte li hanno unilateralmente violati. Hanno sottoscritto la non proliferazione di vettori nucleari a medio raggio e l'hanno unilateralmente disatteso.
-
-C'è quindi un gentlemen agreement che di fatto è una delega in carta bianca a Putin per prendersi l'Ucraina e dare seguito agli accordi di sfruttamento minerario dell'Ucraina a favore degli USA.
-
-D'altronde la Russia può garantire la copertura di quelle forniture a prezzi convenienti anche senza l'Ucraina e Rosatom è fornitore indispensabile per gli USA.
-
-Nel mentre che Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guidata dai dementi della woke ideology, ormai definitivamente consegnata alla storia.
-
-Perché tagliarsi gli ammenicoli per difendere il diritto di essere una vera donna e trovare un posto di lavoro per il quale non si è qualificati grazie al programma di inclusione DEI, ha bruciato anche Hollywood, letteralmente.
-
-...
-
-GLI USA SONO LA FRANCIA COLONIALE, MA SENZA LA GRANDEUR FRANCESE
+A seguito del meeting in Alaska si è tenuto un incontro a Washington con i c.d. leader europei fra cui Zelensky e Von der Leyen. In questa seconda occasione, il contesto è stato completamente diverso, totalemente orientato allo spettacolo, perché le questioni pratiche alla fine dei conti si riducono alla classica letterina a Babbo Natale più che ad rapporto d'affari o diplomatica.
 
 Zelensky dopo essere stato il cavallo di Troia degli USA di Biden in Ucraina, sta replicando in Europa. É incredibile come l'ovvio, si ripeta senza essere notato ma evidentemente c'è una forma di cecità selettiva alla realtà. Infatti, senza sorpresa, le news cominciano a portare le inevitabili conferme.
 
