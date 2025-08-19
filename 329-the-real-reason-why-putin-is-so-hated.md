@@ -390,6 +390,30 @@ A poco vale notare che poi i paesi alleati (ad esempio Afganistan contro la Russ
 
 =-> lnkd.in/d6yJ6idZ (dal 3° prompt)
 
+---
+
+### Un incontro imbarazzante
+
+nei video trapelati dall'incontro fra zelensky, i volenterosi, e Trump appare ormai definitivamente chiara l'assenza di contenuti da parte degli "arrivati" e che Trump stesse facendo il ruolo del conduttore televisivo. 
+
+Da quello che vomita diversi minuti di "siamo importanti, incontro storico, bla bla" a quello che chiede un cessate il fuoco a quella che fa le faccine e Zelensky con il quale si baloccano, sia Trump che i giornalisti, riguardo all'abito, appare chiaro che manchi del tutto il concetto di do-ut-des, ancora prima del concetto di "rapporto di forza". Sono dei bambini che vanno in gita a Washington a chiedere al papà di realizzare il sogno del loro 18esimo compleanno.
+
+In questo scenario, quelli che si "salvano" sono quelli che fanno scena muta o dicono cose così banali anche nella forma che nemmeno arrivano al moderno piccolo schermo come la VdL o Macron, sono i così detti ospiti che fanno riempitivo.
+
+Questo è ciò che emerge in superficie, non sappiamo quali sono gli accordi che la diplomazia dei vari paesi europei hanno portato a Washington, se ce ne sono stati.
+
+Nel discorso conclusivo Trump li rimanda a settembre, letteralmente, e sottolinea che un cessate il fuoco è un obiettivo sopravvalutato. Auspicabile ma sopravvalutato e non banalmente raggiungibile.
+
+Un giro di parole per dire che un cessate il fuoco -- sebbene possa essere propagandato come una vittoria politica dai "leader europei" del tipo: ecco, vedete? Putin è stato costretto a fermarsi. -- non ha alcun valore se fine a se stesso.
+
+Come per altro ormai è chiaro a Putin, è inutile dare all'avversario del tempo per riorganizzarsi e poter continuare la guerra con un vantaggio acquisito. Lo scopo della guerra, non è vincere ma costruire una pace duratura (Sun Tzu).
+
+Su questa citazione i leader europei giocano con le parole parlando di guerra "giusta" nel senso che se non va bene a loro allora non sarà duratura perché si riarmano e fanno la guerra, senza rendersi conto che non si minaccia la guerra, o si è pronti ORA, ADESSO a farla e a vincerla, oppure è già persa.
+
+Tale disconnessione dalla realtà, è tipica della follia. Così come folle è l'idea che occorra "unificare" il pensiero contro la Russia e questo "magicamente" vincerebbe la guerra, come se elezioni russe o le pallottole russe, tenessero conto della nostra opinione.
+
+In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Alemno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
+
 //-->
 
 +
