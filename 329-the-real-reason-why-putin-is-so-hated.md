@@ -7,7 +7,8 @@
 
 - **1st edition**, this article has been written starting from a [post](https://www.facebook.com/roberto.a.foglietta/posts/10161818323948736) published on Facebook, on 2025-05-28.
 - **2nd edition**, includes an [update](#update-2025-07-05) about the Russia-Azerbaijan diplomatic emerging crisis.
-- **3dd edition**, includes an [update](#update-2025-08-10) about the Russia-USA diplomatic distension.
+- **3rd edition**, includes an [update](#update-2025-08-10) about the Russia-USA diplomatic distension.
+- **4th edition**, includes an [update](#update-2025-08-19) about the European show in Washington.
 
 ---
 
@@ -333,10 +334,6 @@ As of April 2025, total assistance allocated by Europe to Ukraine stands at $157
 
 ## Update 2025-08-19
 
-> [!WARN]
-> 
-> **WORKING IN PROGRESS, WAIT!**
-
 L'incontro in Alaska fra Trump e Putin è stato certamente un punto di svolta nelle relazioni fra USA e Russia. D'altronde se inseriamo nel contesto di quell'incontro la notizia che gli USA rischiano di perdere la corsa tecnologica all'intelligenza artificiale a causa della loro rete elettrica:
 
 [!INFO]
@@ -350,12 +347,12 @@ allora scopriamo che:
 - e probabilmente anche sul lungo periodo,
 
 e che:
- 
+ 
 - le centrali nucleari sono un asset indispensabile per i data center
 - come dimostrano gli investimenti di Microsoft e altra aziende cloud/AI
-- quindi la produzione di energia nucleare, è un fattore strateggico per l'AI
+- quindi la produzione di energia nucleare, è un fattore strategico per l'AI
 
-Facile comprendere come mai Trump, da businessman con uno spiccato senso degli affari, abbia accolto Putin facendo gli onori di casa. Dal canto suo Putin, nel contraccambiare favore con favore (cfr. [qui](#update-2025-08-15)), senza indugi o rinegoziazioni, si è posto subito come un interlocutore determinante e per quanto detto sopra in una contesto di estrema importanza strateggica per la quale anche la questione Ucraina è passata in secondo piano.
+Facile comprendere come mai Trump, da businessman con uno spiccato senso degli affari, abbia accolto Putin facendo gli onori di casa. Dal canto suo Putin, nel contraccambiare favore con favore (cfr. [qui](#update-2025-08-15)), senza indugi o rinegoziazioni, si è posto subito come un interlocutore determinante e per quanto detto sopra in una contesto di estrema importanza strategica per la quale anche la questione Ucraina è passata in secondo piano.
 
 ---
 
@@ -369,7 +366,7 @@ D'altronde è normale, e anche molto positivo, che vada così perché per due vo
 
 C'è quindi un gentlemen agreement che di fatto è una delega in carta bianca a Putin per prendersi l'Ucraina e dare seguito agli accordi di sfruttamento minerario dell'Ucraina a favore degli USA. D'altronde la Russia può garantire la copertura di quelle forniture a prezzi convenienti anche senza l'Ucraina e Rosatom è fornitore indispensabile per gli USA.
 
-Nel mentre che Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guidata dai dementi della woke ideology, ormai definitivamente consegnata alla storia. Perché tagliarsi gli ammenicoli per difendere il diritto di essere una vera donna e trovare un posto di lavoro per il quale non si è qualificati grazie al programma di inclusione DEI, ha bruciato anche Hollywood, letteralmente.
+Mentre Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guidata dai dementi della woke ideology, ormai definitivamente consegnata alla storia. Perché tagliarsi gli ammenicoli per difendere il diritto di essere una vera donna e trovare un posto di lavoro per il quale non si è qualificati grazie al programma di inclusione DEI, ha bruciato anche Hollywood, letteralmente.
 
 ---
 
@@ -377,7 +374,7 @@ Nel mentre che Putin si prende l'Ucraina, Trump saccheggia l'Europa ancora guida
 
 <div align="center"><img class="bwsketch" src="img/329-the-real-reason-why-putin-is-so-hated-img-003.jpg" width="800"><br></div>
 
-A seguito del meeting in Alaska si è tenuto un incontro a Washington con i c.d. leader europei fra cui Zelensky e Von der Leyen. In questa seconda occasione, il contesto è stato completamente diverso, totalemente orientato allo spettacolo, perché le questioni pratiche alla fine dei conti si riducono alla classica letterina a Babbo Natale più che ad rapporto d'affari o diplomatica.
+A seguito del meeting in Alaska si è tenuto un incontro a Washington con i c.d. leader europei fra cui Zelensky e Von der Leyen. In questa seconda occasione, il contesto è stato completamente diverso, totalmente orientato allo spettacolo, perché le questioni pratiche alla fine dei conti si riducono alla classica letterina a Babbo Natale più che ad rapporto d'affari o diplomatica.
 
 Zelensky dopo essere stato il cavallo di Troia degli USA di Biden in Ucraina, sta replicando in Europa. É incredibile come l'ovvio, si ripeta senza essere notato ma evidentemente c'è una forma di cecità selettiva alla realtà. Infatti, senza sorpresa, le news cominciano a portare le inevitabili conferme.
 
@@ -411,17 +408,17 @@ A poco vale notare che poi i paesi alleati (ad esempio Afganistan contro la Russ
 
 ### Un incontro piuttosto imbarazzante
 
-Nei video trapelati dall'incontro fra Zelensky, i volenterosi, e Trump appare ormai definitivamente chiara l'assenza di contenuti da parte degli "arrivati" e che Trump stesse facendo il ruolo del conduttore televisivo. 
+Nei video trapelati dall'incontro fra Zelensky, i volenterosi, e Trump appare ormai definitivamente chiara l'assenza di contenuti da parte degli "arrivati" e che Trump stesse facendo il ruolo del conduttore televisivo.
 
 Da quello che vomita diversi minuti di "siamo importanti, incontro storico, bla bla" a quello che chiede un cessate il fuoco a quella che fa le faccine e Zelensky con il quale si baloccano, sia Trump che i giornalisti, riguardo all'abito, appare chiaro che manchi del tutto il concetto di do-ut-des, ancora prima del concetto di "rapporto di forza". Sono dei bambini che vanno in gita a Washington a chiedere al papà di realizzare il sogno del loro 18esimo compleanno.
 
-In questo scenario, non si "salvano" nemmeno quelli che hanno fatto scena muta o dicono cose così banali anche nella forma che nemmeno arrivano al moderno piccolo schermo come la VdL o Macron, sono i così detti ospiti che fanno riempitivo.
+In questo scenario, non si "salvano" nemmeno quelli che hanno fatto scena muta o dicono cose così banali anche nella forma che nemmeno arrivano al moderno piccolo schermo come la VdL o Macron, sono i cosiddetti ospiti che fanno riempitivo.
 
-Contributi tipo "Putin è un orco che rapisce i bambini", una logica che se applicata in altri contesti come Gaza dovrebbe portare a tutt'altre considerazioni su Israele e Netanyau oppure l'intervento di Macron che insiste sul fatto che Putin non voglia la guerra ma la caduta di Kiev, quando è evidente che la Russia vuole la destituzione di Zelensky.
+Contributi tipo "Putin è un orco che rapisce i bambini", una logica che se applicata in altri contesti come Gaza dovrebbe portare a tutt'altre considerazioni su Israele e Netanyahu oppure l'intervento di Macron che insiste sul fatto che Putin non voglia la guerra ma la caduta di Kiev, quando è evidente che la Russia vuole la destituzione di Zelensky.
 
 Una condizione sine-qua-non che si basa, palesemente, sulle dichiarazioni della Meloni, al tavolo e ai giornalisti, che di fatto dipinge Zelensky come l'ex pupazzo di Biden che ancora viene sostenuto dall'unità dei leader europei. Quindi giustamente Trump, fa notare loro la foto del giorno in cui gli hanno sparato e sottolinea che non è stata una gran bella giornata.
 
-Evidentemente dall'ultimo bilaterale Italia-USA in cui la Meloni è uscita con un "c'è un aggressore e un aggredito" che ha mandato in shock anche la traduttrice diplomatica, la lezione non è stata imparata evidentemente a causa dell'effetto band-wqagon. Anche la reazione di Trump però è stata la stessa, anzi è stata estesa, invece dei $10 miliardi di GNL all'Italia, ha piazzato l'Europa sotto un accordo di acquisto di 750 miliardi dagli USA e 600 miliardi di investimenti USA.
+Evidentemente dall'ultimo bilaterale Italia-USA in cui la Meloni è uscita con un "c'è un aggressore e un aggredito" che ha mandato in shock anche la traduttrice diplomatica, la lezione non è stata imparata evidentemente a causa dell'effetto band-wagon. Anche la reazione di Trump però è stata la stessa, anzi è stata estesa, invece dei $10 miliardi di GNL all'Italia, ha piazzato l'Europa sotto un accordo di acquisto di 750 miliardi dagli USA e 600 miliardi di investimenti USA.
 
 Questo è ciò che emerge in superficie, non sappiamo quali sono gli accordi che la diplomazia dei vari paesi europei hanno portato a Washington, se ce ne sono stati.
 
@@ -433,17 +430,17 @@ Nel discorso conclusivo Trump li rimanda a settembre, letteralmente, e sottoline
 
 Un giro di parole per dire che un cessate il fuoco -- sebbene possa essere propagandato come una vittoria politica dai "leader europei" del tipo: ecco, vedete? Putin è stato costretto a fermarsi. -- non ha alcun valore se fine a se stesso.
 
-Come per altro ormai è chiaro a Putin, è inutile dare all'avversario del tempo per riorganizzarsi e poter continuare la guerra con un vantaggio acquisito. Lo scopo della guerra, non è vincere ma costruire una pace duratura (Sun Tzu).
+Come per altro ormai è chiaro a Putin, è inutile dare all'avversario del tempo per riorganizzarsi e poter continuare la guerra con un vantaggio acquisito. Lo scopo della guerra non è vincere ma costruire una pace duratura (Sun Tzu).
 
-Su questa citazione i leader europei giocano con le parole parlando di guerra "giusta" nel senso che se non va bene a loro allora non sarà duratura perché si riarmano e fanno la guerra, senza rendersi conto che non si minaccia la guerra, o si è pronti **ora, adesso** a farla e a vincerla, oppure è già persa.
+Su questa citazione i leader europei giocano con le parole parlando di guerra "giusta" nel senso che se non va bene a loro allora non sarà duratura perché si riarmamano e faranno la guerra, senza rendersi conto che non si minaccia la guerra, o si è pronti **ora, adesso** a farla e a vincerla, oppure è già persa.
 
 Però questo concetto non pare essere percepito e ancora una volta è la Meloni a rivelarcelo affermando che la Russia è impantanata sul campo di battaglia grazie al coraggio degli Ucraini e al sostegno dell'Europa a Zelensky. Ma anche questa è una narrazione **molto** di parte. La realtà è che la Russia ha poco interesse ad invadere l'Ucraina a costo di molte vite umane quando da un punto di vista diplomatico la guerra l'ha già vinta.
 
-Tale disconnessione dalla realtà dei c.d. leader europei, è tipica della follia. Così come folle è l'idea che occorra "unificare" il pensiero contro la Russia e questo "magicamente" vincerebbe la guerra, come se elezioni russe o le pallottole russe, tenessero conto della nostra opinione. Ma d'altronde, se questa narrativa venisse meno, Zelensky dovrebbe affrontare le elezioni che perderebbe e così anche i c.d. leader europei per aver combattuto una guerra che hanno perduto.
+Tale disconnessione dalla realtà dei c.d. leader europei, è tipica della follia. Così come folle è l'idea che occorra "unificare" il pensiero contro la Russia e questo "magicamente" vincerebbe la guerra, come se le elezioni russe o le pallottole russe tenessero conto della nostra opinione. Ma d'altronde, se questa narrativa venisse meno, Zelensky dovrebbe affrontare le elezioni che perderebbe e così anche i c.d. leader europei per aver combattuto una guerra che hanno perduto.
 
-Questo ci spiega perché sia la VdL quanto gli altri siano disposti ad ogni "sottomissione e sacrificio" per aumentare il sunk-cost di questa "impresa" dei volenterosi che molto ricorda i "capitani corraggiosi" di Alitalia. Perché o perdono la poltrona oppure perdono il portafoglio, nel dubbio perdono anche la testa.
+Questo ci spiega perché sia la VdL quanto gli altri siano disposti ad ogni "sottomissione e sacrificio" per aumentare il sunk-cost di questa "impresa" dei volenterosi che molto ricorda i "capitani coraggiosi" di Alitalia. Perché o perdono la poltrona oppure perdono il portafoglio, nel dubbio perdono anche la testa.
 
-In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Alemno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
+In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Almeno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
 
 ---
 
@@ -453,11 +450,11 @@ In questo scenario l'accordo per la fornitura di $100 miliardi di materiale bell
 
 Dobbiamo infatti ricordarci che le armi occidentali, per la maggiore **non** sono fruibili direttamente dall'esercito Ucrainao perché non è un esercito facente parte della NATO e quindi continua ad avere bisogno di operatori sul campo e dell'infrastruttura di informazione e controllo che fa capo alla NATO in Europa. Il che implica un concreto e fattivo intervento contro la Russia.
 
-Appare evidente che l'Europa sta proseguendo sulla strada impostata dalle presidenze americane da Obama a Biden, mentre Trump sta scaricando tutte le resposabilità anche quelle finanziarie sull'Europa di Ursula von der Leyen semplicemente perché l'Ucraina non è sufficientemente ricca per garantire una tale monumentale quota di debito, che ovviamente come controaltare ha appunto il gettito di spesa.
+Appare evidente che l'Europa sta proseguendo sulla strada impostata dalle presidenze americane da Obama a Biden, mentre Trump sta scaricando tutte le responsabilità anche quelle finanziarie sull'Europa di Ursula von der Leyen semplicemente perché l'Ucraina non è sufficientemente ricca per garantire una tale monumentale quota di debito, che ovviamente come contraltare ha appunto il gettito di spesa.
 
-Il tutto appoggiato sul nulla che non siano i contribuenti europei e inglesi perché l'illusione che i 300 miliardi congelati alla Russia di asset che erano produttivi o futtiferi possano essere definitivamente incamerati è pressoché nulla. Giacché la Russia non è fallita e sul piano diplomatico ha già finto il confronto con l'Europa di Ursula, e l'UK di Staemer.
+Il tutto appoggiato sul nulla che non siano i contribuenti europei e inglesi perché l'illusione che i 300 miliardi congelati alla Russia di asset che erano produttivi o fruttiferi possano essere definitivamente incamerati è pressoché nulla. Giacché la Russia non è fallita e sul piano diplomatico ha già finto il confronto con l'Europa di Ursula, e l'UK di Steamer.
 
-Costoro più che il sogno di una vittora inseguono la garanzia di una sicurezza, in pratica un pardon presidenziale come è stato per Hunter Biden et Co. Ma purtroppo, Trump non può garantire questo e nemmeno ha alcun interesse a garantirlo perché dal suo punto di vista i c.d. leader europei non sono null'altro che limoni da spremere: if life gives you lemons, make a lemonade.
+Costoro più che il sogno di una vittoria inseguono la garanzia di una sicurezza, in pratica un perdono presidenziale come è stato per Hunter Biden et Co. Ma purtroppo, Trump non può garantire questo e nemmeno ha alcun interesse a garantire perché dal suo punto di vista i c.d. leader europei non sono null'altro che limoni da spremere: if life gives you lemons, make a lemonade.
 
 ---
 
@@ -465,7 +462,7 @@ Costoro più che il sogno di una vittora inseguono la garanzia di una sicurezza,
 
 Più il tempo passa più si concretizza la visione che tutto questo non è null'altro che un castello di carte, un enorme schema Ponzi, che inevitabilmente predilige gli idioti al potere perché diversamente non potrebbe esistere e la scommessa di Trump è quella di scaricare tutte le responsabilità sull'Europa prima che esse diventino evidenti.
 
-Un'impresa non facile anche per una carattere temerario e resiliente come quello di Trump, giacché questo andazzo parte da lontano e per essere precisi con la fine degli accordi di Breton Wood (1971), quindi in sostanza, con l'assassinio di John Fidgerald Kennedy (1963) come premessa. Così che ancora una volta la storia ci pone di fronte all'anedottica questione, in puro stile shacksperiano:
+Un'impresa non facile anche per una carattere temerario e resiliente come quello di Trump, giacché questo andazzo parte da lontano e per essere precisi con la fine degli accordi di Breton Wood (1971), quindi in sostanza, con l'assassinio di John Fidgerald Kennedy (1963) come premessa. Così che ancora una volta la storia ci pone di fronte all'aneddotica questione, in puro stile shakespeariano:
 
 - abbiamo ammazzato Cesare per salvare la Repubblica
 - cosa è costato ammazzare Cesare?
