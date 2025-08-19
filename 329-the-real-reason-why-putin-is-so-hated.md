@@ -459,6 +459,24 @@ Il tutto appoggiato sul nulla che non siano i contribuenti europei e inglesi per
 
 Costoro più che il sogno di una vittora inseguono la garanzia di una sicurezza, in pratica un pardon presidenziale come è stato per Hunter Biden et Co. Ma purtroppo, Trump non può garantire questo e nemmeno ha alcun interesse a garantirlo perché dal suo punto di vista i c.d. leader europei non sono null'altro che limoni da spremere: if life gives you lemons, make a lemonade.
 
+---
+
+### Il castello di carte e il suo collasso
+
+Più il tempo passa più si concretizza la visione che tutto questo non è null'altro che un castello di carte, un enorme schema Ponzi, che inevitabilmente predilige gli idioti al potere perché diversamente non potrebbe esistere e la scommessa di Trump è quella di scaricare tutte le responsabilità sull'Europa prima che esse diventino evidenti.
+
+Un'impresa non facile anche per una carattere temerario e resiliente come quello di Trump, giacché questo andazzo parte da lontano e per essere precisi con la fine degli accordi di Breton Wood (1971), quindi in sostanza, con l'assassinio di John Fidgerald Kennedy (1963) come premessa. Così che ancora una volta la storia ci pone di fronte all'anedottica questione, in puro stile shacksperiano:
+
+- abbiamo ammazzato Cesare per salvare la Repubblica
+- cosa è costato ammazzare Cesare?
+- la Repubblica
+
+Quella Occidentale è una storia che non si ripete mai, ma insiste con una metrica quasi perfetta, a fare rime e baciate. D'altronde il nostro caposaldo è sempre quello di avere un piano quando anche lo stesso Napoleone ammise che anche il migliore dei piani dura due minuti dopo l'inizio della battaglia, sebbene sia indispensabile.
+
+Che poi in realtà, parafrasando Napoleone, sarebbe "la preparazione è indispensabile", il piano è solo uno dei tanti strumenti che ci aiutano a prepararci. Una sottile interpretazione apocrifa ma che fa una **grande** differenza fra chi **non** distingue il mezzo dal fine, ma li confonde, con tragici risultati.
+
+Il lato positivo di questa vicenda è che ora **anche** il presidente americano, nelle vesti di Trump, ha smesso di confondere il mezzo con il fine. Già solo questo è un enorme motivo di ottimismo se paragonato alla presidenza Biden o alla sua prosecuzione su quella via.
+
 +
 
 ## Related articles
