@@ -398,7 +398,13 @@ nei video trapelati dall'incontro fra zelensky, i volenterosi, e Trump appare or
 
 Da quello che vomita diversi minuti di "siamo importanti, incontro storico, bla bla" a quello che chiede un cessate il fuoco a quella che fa le faccine e Zelensky con il quale si baloccano, sia Trump che i giornalisti, riguardo all'abito, appare chiaro che manchi del tutto il concetto di do-ut-des, ancora prima del concetto di "rapporto di forza". Sono dei bambini che vanno in gita a Washington a chiedere al papà di realizzare il sogno del loro 18esimo compleanno.
 
-In questo scenario, quelli che si "salvano" sono quelli che fanno scena muta o dicono cose così banali anche nella forma che nemmeno arrivano al moderno piccolo schermo come la VdL o Macron, sono i così detti ospiti che fanno riempitivo.
+In questo scenario, non si "salvano" nemmeno quelli che hanno fatto scena muta o dicono cose così banali anche nella forma che nemmeno arrivano al moderno piccolo schermo come la VdL o Macron, sono i così detti ospiti che fanno riempitivo.
+
+Contributi tipo "Putin è un orco che rapisce i bambini", una logica che se applicata in altri contesti come Gaza dovrebbe portare a tutt'altre considerazioni su Israele e Netanyau oppure l'intervento di Macron che insiste sul fatto che Putin non voglia la guerra ma la caduta di Kiev, quando è evidente che la Russia vuole la destituzione di Zelensky.
+
+Una condizione sine-qua-non che si basa, palesemente, sulle dichiarazioni della Meloni, al tavolo e ai giornalisti, che di fatto dipinge Zelensky come l'ex pupazzo di Biden che ancora viene sostenuto dall'unità dei leader europei. Quindi giustamente Trump, fa notare loro la foto del giorno in cui gli hanno sparato e sottolinea che non è stata una gran bella giornata.
+
+Evidentemente dall'ultimo bilaterale Italia-USA in cui la Meloni è uscita con un "c'è un aggressore e un aggredito" che ha mandato in shock anche la traduttrice diplomatica, la lezione non è stata imparata evidentemente a causa dell'effetto band-wqagon. Anche la reazione di Trump però è stata la stessa, anzi è stata estesa, invece dei $10 miliardi di GNL all'Italia, ha piazzato l'Europa sotto un accordo di acquisto di 750 miliardi dagli USA e 600 miliardi di investimenti USA.
 
 Questo è ciò che emerge in superficie, non sappiamo quali sono gli accordi che la diplomazia dei vari paesi europei hanno portato a Washington, se ce ne sono stati.
 
@@ -408,9 +414,13 @@ Un giro di parole per dire che un cessate il fuoco -- sebbene possa essere propa
 
 Come per altro ormai è chiaro a Putin, è inutile dare all'avversario del tempo per riorganizzarsi e poter continuare la guerra con un vantaggio acquisito. Lo scopo della guerra, non è vincere ma costruire una pace duratura (Sun Tzu).
 
-Su questa citazione i leader europei giocano con le parole parlando di guerra "giusta" nel senso che se non va bene a loro allora non sarà duratura perché si riarmano e fanno la guerra, senza rendersi conto che non si minaccia la guerra, o si è pronti ORA, ADESSO a farla e a vincerla, oppure è già persa.
+Su questa citazione i leader europei giocano con le parole parlando di guerra "giusta" nel senso che se non va bene a loro allora non sarà duratura perché si riarmano e fanno la guerra, senza rendersi conto che non si minaccia la guerra, o si è pronti **ora, adesso** a farla e a vincerla, oppure è già persa.
 
-Tale disconnessione dalla realtà, è tipica della follia. Così come folle è l'idea che occorra "unificare" il pensiero contro la Russia e questo "magicamente" vincerebbe la guerra, come se elezioni russe o le pallottole russe, tenessero conto della nostra opinione.
+Però questo concetto non pare essere percepito e ancora una volta è la Meloni a rivelarcelo affermando che la Russia è impantanata sul campo di battaglia grazie al coraggio degli Ucraini e al sostegno dell'Europa a Zelensky. Ma anche questa è una narrazione **molto** di parte. La realtà è che la Russia ha poco interesse ad invadere l'Ucraina a costo di molte vite umane quando da un punto di vista diplomatico la guerra l'ha già vinta.
+
+Tale disconnessione dalla realtà dei c.d. leader europei, è tipica della follia. Così come folle è l'idea che occorra "unificare" il pensiero contro la Russia e questo "magicamente" vincerebbe la guerra, come se elezioni russe o le pallottole russe, tenessero conto della nostra opinione. Ma d'altronde, se questa narrativa venisse meno, Zelensky dovrebbe affrontare le elezioni che perderebbe e così anche i c.d. leader europei per aver combattuto una guerra che hanno perduto.
+
+Questo ci spiega perché sia la VdL quanto gli altri siano disposti ad ogni "sottomissione e sacrificio" per aumentare il sunk-cost di questa "impresa" dei volenterosi che molto ricorda i "capitani corraggiosi" di Alitalia. Perché o perdono la poltrona oppure perdono il portafoglio, nel dubbio perdono anche la testa.
 
 In conclusione, quello a Washington è stato un incontro fra il ridicolo e l'imbarazzante. Alemno, per quanto emerso dai media. Considerando il tenore dei discorsi che queste persone presentano al pubblico (o agli elettori) è assai probabile che ciò che è emerso è anche il tutto.
 
