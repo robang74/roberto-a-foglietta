@@ -258,7 +258,6 @@ Curiosamente, i fautori della democrazia e della volontà popolare, sono favorev
 Se l'ucraina non avesse ceduto le bombe nucleari alla Russia, oggi sarebbe diverso? 
 
 - è inutile tenersi degli ordigni che non si possono usare senza il consenso di Mosca;
-+++++
 - oggi grazie a quel patto l'Ucraina non è un avamposto di basi nucleari della Russia.
 
 L'Ucraina per diversi decenni hanno goduto di un'apertura e gli Ucraini di una libertà di viaggiare, quindi anche di commerciare che, per esempio, la Bielorussia non ha avuto. 
