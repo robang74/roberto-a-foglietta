@@ -81,7 +81,7 @@ Anyway, in this story, the real defeat is diplomacy.
 ## Update 2025-07-05
 
 [!INFO]
-3 luglio 2025 - Alta tensione tra Russia e Azerbaijan, dopo un'operazione di polizia che ha portato all'arresto di alcuni cittadini azeri: due di loro sono morti. La contrapposizione si era acuita dopo l'abbattimento, a fine 2024, di un aereo dell'Azerbaijan Airlines che causò la morte di 38 persone. Le indagini, e le relative intercettazioni diffuse in seguito, hanno accertato che il velivolo era stato colpito dalla difesa aerea russa, ma Mosca non ha mai riconosciuto la propria responsabilità. Una crisi diplomatica importante, poiché teoricamente Baku è alleata di Mosca però non ha ricevuto da Mosca il sostegno che si aspettava. -- [Radio Radicale](https://www.radioradicale.it/scheda/763712/postsovietika-intervista-ad-anna-zafesova)
+2025-07-03 -- Alta tensione tra Russia e Azerbaijan, dopo un'operazione di polizia che ha portato all'arresto di alcuni cittadini azeri: due di loro sono morti. La contrapposizione si era acuita dopo l'abbattimento, a fine 2024, di un aereo dell'Azerbaijan Airlines che causò la morte di 38 persone. Le indagini, e le relative intercettazioni diffuse in seguito, hanno accertato che il velivolo era stato colpito dalla difesa aerea russa, ma Mosca non ha mai riconosciuto la propria responsabilità. Una crisi diplomatica importante, poiché teoricamente Baku è alleata di Mosca però non ha ricevuto da Mosca il sostegno che si aspettava. -- [Radio Radicale](https://www.radioradicale.it/scheda/763712/postsovietika-intervista-ad-anna-zafesova)
 [/INFO]
 
 In questo articolo viene presentato in modo conciso ma evidente, un **grosso** problema diplomatico, anzi di credibilità, che riguarda le aspettative di un paese satellite e alleato della Russia. Una questione che merita di essere considerata in generale e nel momento da cui è iniziata, a prescindere da come sia formulata oggi.
@@ -159,18 +159,19 @@ A do-ut-des, which is extremely important for the USA as their public debt is sk
 
 A do-ut-des, which is extremely important for Russia, and Putin leadership in particular. Because the stake on the table is high, and the Armenia vs Azerbaijan war settles down, Putin regains the main decision-maker role which the Ukraine weakened but which is essential for the Trump presidency.
 
-<span id="update-2025-08-15"></span>
-#### Update 2025-08-15
+---
+
+### Update 2025-08-15
 
 In support of the analysis exposed above, recent news confirms that do-ut-des translation went good even before the Alaska meeting between Trump and Putin.
 
 [!INFO]
-2025-08-15 -- Russia decree opens door for Exxon return to Sakhalin-1 project. The signing of the decree comes on the day Russian president Vladimir Putin meets Donald Trump in Alaska for a summit.<br>-- [Reuters](https://www.reuters.com/business/energy/russia-decree-opens-door-exxon-return-sakhalin-1-project-2025-08-15)
+2025-08-15 -- Russia decree opens door for Exxon return to Sakhalin-1 project. The signing of the decree comes on the day Russian president Vladimir Putin meets Donald Trump in Alaska for a summit.<br> -- [Reuters](https://www.reuters.com/business/energy/russia-decree-opens-door-exxon-return-sakhalin-1-project-2025-08-15)
 [/INFO]
 
 Also Reuters confirms, on that day before the meeting that "opportunities for investment and business collaboration will be on the agenda" alongside the Ukraine crisis. After the meeting we can reasonably think that a strategic business alliance between the USA and Russia has been the core of such a meeting.
 
-+
++++++
 
 ## Update 2025-07-01
 
