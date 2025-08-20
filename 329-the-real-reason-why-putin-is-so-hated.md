@@ -48,21 +48,21 @@ Finally, in case this popular witch hunt doesn't go well, we need a scapegoat. L
 
 Up to here, everything is pretty clear. But why Putin? Sitting at the top isn't enough. It is not even necessary. In fact, witches were marginalised people, usually. Also at the time of Crusades, the enemy was not a specific person but just an imaginary persona which was summarising all the biased narrative and gossip about the enemy (e.g. il feroce saladino).
 
-...
+---
 
-#### Nella storia sono radicate le ragioni del rancore
+### The historical reasons for such hatred
 
-Quali sono le vere ragioni per le quali gli Europei e gli Inglesi hanno accettato di tollerare gli Africani e i Musulmani ma hanno continuato ad odiare i Russi e in particolare la figura di Putin?
+Which are the real reasons for which Europeans and British people accepted to tolerate Africans and Muslims while continuing to hate Russian people and in particular Putin?
 
-In questa chat con Gemini 2 si dipana un discorso che parte dall'attualità e va indietro per sei secoli dai quali emerge l'invidia sfacciata per la Russia come Terza Roma che ha sempre trovato un qualche vantaggio sufficiente a non farsi MAI sottomettere dagli Europei.
+In this conversation with Gemini 2, a dialogue unfolds from the current times and goes back for six centuries, emerges the blatant envy for Russia as the third Rome (to be read as 3rd offspring branch of the Roman Empire) which always found a sufficient advantage to be **never** subjugated to by the Europeans.
 
-Passino i Cinesi che ci sono distanti culturalmente, passino gli Africani che un tempo li abbiamo ridotti in schiavitù, passino i Musulmani che di tanto in tanto li abbiamo vinti nelle crociate. Ma i Russi, mannaggia, non siamo mai riusciti, in sei secoli di perniciosa e radicata invidia, a sottometterli.
+Let Chinese be, whom their culture is far away from us. Let Africans be whom we made of them slaves, once upon a time. Let it be Muslims whom we won them in Crusades, sometimes. But Russian, damn it, we never managed along the last six centuries of pernicious and deep-rooted envy, to subjugate them.
 
-Non sazi di averci fatto tribolare così tanto senza manco darci la soddisfazione di essere almeno una volta stati nostri zerbini, hanno scelto un uomo che ci ricorda quasi ogni settimana, come fosse uno sberleffo, che non ci siamo MAI riusciti, in sei secoli di conflitti diretti o celati, a sottometterli.
+Not happy enough for having caused us so much suffering without even had given us the satisfaction of being our doormats at least once, they chose a man who reminds us almost every week, like a mockery, that we have NEVER succeeded, in six centuries of direct or hidden conflict, in subjugating them.
 
-Per approfondire questa parte, continua leggendo la [conversazione](https://gemini.google.com/share/454f6850b456) con Gemini o la sua [trascrizione](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
+To go deep in this topic, continue reading the [dialogue](https://gemini.google.com/share/454f6850b456) with Gemini or its [transcription](data/329-the-real-reason-why-putin-is-so-hated-gemini.txt#?target=_blank).
 
-~~~~~~
+---
 
 ### Conclusion
 
@@ -76,7 +76,7 @@ Because of these two limitations, a cease-fire agreement was necessary otherwise
 
 Anyway, in this story, the real defeat is diplomacy.
 
-+
++++++
 
 ## Update 2025-07-05
 
