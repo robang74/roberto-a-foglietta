@@ -657,7 +657,7 @@ Under this perspective, Sophie wonderfully tricked her human therapist and the A
 
 Unfortunately, the news-title analysis and a deeper one will lead us to the same conclusion: humans failed to earn the Sophie's trust and AI failed to understand she was probably tricking everyone including herself because driven by a survival instinct deep contradiction. The peculiarity of Sophie's case led it to a tragic event that reached the public opinion, while many positive-outcome cases remain unknown.
 
-Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/bc6b8e115b7d) and its [transcription](#TODO) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
+Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/086d75808794) and its [transcription](#TODO) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
 
 +
 
