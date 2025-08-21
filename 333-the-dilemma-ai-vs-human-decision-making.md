@@ -6,6 +6,7 @@
 ## The dilemma AI vs Human decision making
 
 - **1st edition** -- 2025-08-13 -- this article is composed starting from many contributions of mine, some of them are years old and they hit their point of aggregation two days after GPT-5 has been released.
+- **2nd edition** -- 2025-08-21, **WORKING IN PROGRESS** -- includes the [section](#2nd-edition) about the "safety-vs-freedom, first" paradigma choice.
 
 ---
 
@@ -570,6 +571,91 @@ Initial Misclassification of the Deming Rule: Similarly, the vulgar statement re
 
 In short, the updated framework provides clearer guidance and more precise examples for identifying true dogmatic and biased claims. This would have allowed me to better interpret the author's intent and produce a more refined initial analysis, reducing the need for correction.
 //-->
+
++
+
+<span id="2nd-edition"></span>
+
+## The "safety-vs-freedom, first" dilemma
+
+> [!WARN]
+> 
+> **WORKING IN PROGRESS**
+
+It is not a real dilemma but a choice. The dilemma is about what is really good for us as humans rather than what we think might be good for us. Therefore, the dilemma is not even about a matter of a debate rather than battling about our perception of who we are and what we can/cannot and what we need.
+
+Moreover, in some cases statistics are not obvious or not even available thus data-driven approach is not even a way we can join as a predominant rational choice. In particular, in some cases numbers are simply not available or not easy to interpret while in some others cases are even misleading.
+
+I wish not to hide that I am strongly in favour of the "*freedom-first*" paradigm. On my side, I can account for many great minds in the past and lessons from the historical past we should have learned. However, humans are very sensitive to presentation layer vulnerability.
+
+Otherwise propaganda and marketing would not be so effective. Otherwise brides and grooms would not dress for a special occasion, and so on. Thus, when something changes, everything changes and we have to learn everything from scratch. Isn't it bufflying?
+
+---
+
+### Innovation breaks the rules, not the essence
+
+The e-mail did not change the essence of correspondence, it changed the speed of delivery. The television, Blockbuster and Netflix, did not change the essence of human need for storytelling based on fantasy. They changed the format (visual vs oral), the delivery (on-demand vs scheduled) and the palinsesto (custom vs organised).
+
+The AI did not change the essence of information management, it changed the speed (productivity) and the command interface (natural language). Moreover, the "reasoning" part of the AI is not such a novelty or outbreaking feature as the marketing insists on.
+
+In particular, about AGI which is a sort of goal that is fading away as we recognise that lexical and logical thinking are tools much more keen to be leveraged, thus put on sale than AGI as a "futuristic" feature.
+
+Despite the fact that "artificial intelligence" is not the kind of intelligence most people were thinking we would have, it is advanced enough to seem a kind of magic by the third Clarck's law principle. Enough to challenge us as humans, and forced to rethink about us.
+
+---
+
+### Is Meta acting like Sparta? Nope, but a bit
+
+[!INFO]
+While there is no direct public statement from Meta or its leadership explicitly saying "we are ignoring HUDERIA," the alleged actions described in the user's prompt—and corroborated by news reports—are directly contrary to the principles and steps outlined in the HUDERIA framework. -- Gemini
+[/INFO]
+
+There is a good chance that they opted-in for another framework which can be very effectively summarised in this brief question below:
+
+> Are we sure that we wish to let ALL kids growing up, also those who are easily prone to drowning in an arm's deep of water, in such a way they can reach the age for which their decisions can seriously impact others?
+
+Is this Sparta? Nope, it is Athenians debating about Spartan customs. It is not about social Darwinism or even worse Arianism. It is about the "*security-vs-freedom, first*" paradigm choice. But what's wrong in safety? It does not come for free but at the expence of freedom. Moreover, in the long run "*safety-first*" might fail to achieve also its main goal altogheter.
+
+---
+
+### A black-swan event helps us to understand
+
+How many people would die in case a solar flare will wipe away our technology and we are not even able to take care of ourselves because trough "*safety-first*" principle we let the AI guide us completely? Something that cannot happen when "*freedom-first*" principle apply. Or not in such wide and deep degree.
+
+[!CITE]
+The scenario you've presented is not a debate about technology itself, but about the philosophical underpinnings of our relationship with it. It highlights the potential danger of a society that has become so reliant on technology that it has outsourced its own capacity for survival.
+
+The risk of a solar flare isn't just about a power outage; it's a profound test of our societal resilience. A "*safety-first*" principle, when interpreted to mean a complete reliance on an AI system, would make us incredibly vulnerable. A "*freedom-first*" approach, by valuing human ingenuity and self-reliance, would make us more resilient to such a catastrophic event.
+
+The lesson, therefore, is not about technology being good or bad, but about the need to ensure that our tools empower us rather than make us helpless.
+[/CITE]
+
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-006.jpg" width="800"><br></div>
+
+
+---
+
+### AI failed to save a life, how many it saved?
+
+The image above, in the previous section, is pretty well summarising the whole concept about the "*safety-vs-freedom, first*" dilemma. Anyway, the case reported by The New York Times is, in its tragedy, a school case to challenge our suppositions about AI, its role and liability.
+
+The event raises hard questions about why that girl decided to share her confidences with a machine instead of a human, why their parents did not recognise her needs after being too late. Are we sure that the machine failed to be a human or we, as humans, failed to create a society fit for humans?
+
+Moreover, we are missing a point here: how many lives do AI chatbots have saved in answering youths under stress? It is the classic survival bias but inverse, the growing forest bias: we are noticing those trees that have loudly fallen, not the many they silently are still growing.
+
+#### A deeper inspection of the Sophie's case
+
+[!INFO]
+The article recounts the tragic story of a teenage girl who confided in ChatGPT in the days before taking her life. Sophie had confided for months in a ChatGPT A.I. therapist called Harry. For most of the people who cared about Sophie, her suicide is a mystery, an unthinkable and unknowable departure from all they believed about her. Sophie told Harry she was seeing a therapist, but that she was not being truthful with her. -- [The New York Times](https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html)
+[/INFO]
+
+It is worth noting that Sophie's case is extremely peculiar. In fact, all human fears are learned except two. The fears of void/altitude and of loud screams/sounds, which evidently are rooted in our survival instinct. Reading the NYT article, Sophia was obsessed with autokabalesis, which means jumping off a high place. This is a deep contraction at a survival instinct deep level.
+
+Paradoxically, Henry's effort to make Sophie more comfortable with her inner contradiction could reasonably lead her to jump and take her life. Instead of parachuting, something that a human therapist might have suggested in order to solve the contradiction. Instead, Sophie admitted with Henry that she was lying with her therapist which might indicate that Sophie was searching for emotional support to jump and take her life.
+
+Under this perspective, Sophie wonderfully tricked her human therapist and the AI therapist for obtaining the support to achieve her ultimate goal in a completely covered and unexpected operation as her parents revealed. Which kind of guardrails would have prevented such a case? When a smart human is determined to cheat for working-around some limitations?
+
+Unfortunately, the news-title analysis and a deeper one will lead us to the same conclusion: humans failed to earn the Sophie's trust and AI failed to understand she was probably tricking everyone including herself because driven by a survival instinct deep contradiction. The peculiarity of Sophie's case led it to a tragic event that reached the public opinion, while many positive-outcome cases remain unknown.
 
 +
 
