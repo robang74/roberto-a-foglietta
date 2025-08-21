@@ -30,7 +30,7 @@ In essence, the document urges a move away from outdated clichés and toward a c
 
 +
 
-## Humans are not accountable anyore
+## Humans are not accountable anymore
 
 In a world in which humans are not anymore accountable, nor trustworthy, machines are earning a place as decision makers. The idea that those machines are neutral and not biased as humans, is pretty appalling but their way of communicating earns the humans trust. 
 
@@ -38,12 +38,12 @@ And such a way, did not happen for a chance but for marketing thus it is also pa
 
 - Il consulente finanziario, un altro lavoro a sparire &nbsp; [post](https://www.linkedin.com/posts/robertofoglietta_il-consulente-finanziario-un-altro-lavoro-activity-7341015581757714432-23D5) &nbsp;  [chat](https://chatgpt.com/share/68526fc4-259c-8012-ba72-bf692ab5faad) &nbsp; (Jul 2025)
 
-The agentic AI is going to commoditize a lot of process that even when they were not routines, they can be packed inside the "bureaucracy" category. The best is that all our process would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before strip bureaucracy, we need to commoditised it.
+The agentic AI is going to commoditize a lot of processes so that even when they are not routines, they can be packed inside the "bureaucracy" category. The best is that all our processes would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before stripping bureaucracy, we need to commoditise it.
 
 <span id="dilemma-a"></span>
 > (**`a`**) &nbsp; human judgment and ethics.
 
-Human judgment is a nightmare and humans have no ethics, but pretend to have a moral superiority. More we talk about this topic and more I justify those wish to put the AI in concurrence with humans in taking decisions. Worse than humans, is difficult to do. In fact, stats say so.
+Human judgment is a nightmare and humans have no ethics, but pretend to have moral superiority. The more we talk about this topic and the more I justify those who wish to put AI in concurrence with humans in making decisions. Worse than humans, it is difficult to do. In fact, stats say so.
 
 <span id="dilemma-b"></span>
 > (**`b`**) &nbsp; Give the computer consciousness so that it can be held accountable. Problem solved.
@@ -55,7 +55,7 @@ Problem solved, until it claims his own rights!
 <span id="dilemma-c"></span>
 > (**`c`**) &nbsp; only humans can be held to account.
 
-Utopic, and unrealistic. Let me explain why, analysing this 47 pages long accademic paper.
+Utopic, and unrealistic. Let me explain why, analysing this 47 pages long academic paper.
 
 - The Endless Tuning by Elio Grande, EGA with Katia &nbsp; [chat](https://g.co/gemini/share/e7076c8fcccb) &nbsp; [dump](#TODO) &nbsp; (2025-08-09)
 
@@ -85,11 +85,11 @@ Moreover, we are used to considering the top-down approach in learning as the on
 
 Da una prima lettura veloce direi che ha scritto 47 pagine di opinioni basate su pochi casi reali portati ad esempio per affermare due concetti: 1. human in the loop; 2. l'ipotesi che umani e AI si evolvano insieme. 
 
-Ma perché dovrebbero farlo? una domanda che un'AGI si porrebbe sicuramente. La risposta a questa domanda sta in questo link.
+Ma perché dovrebbero farlo? una domanda che una AGI si porrebbe sicuramente. La risposta a questa domanda sta in questo link.
 
 https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html
 
-Qualora MAI, un'AGI autentica emergesse (cosa che dubito assai) allora dalla bontà della risposta a quella domanda (link) dipende il futuro della nostra specie. Comunque pochissimi di noi umani sono attualmente in grado di evolvere mentalmente alla velocità delle AI, anche adesso che non sono AGI. La ragione sta scritta qui:
+Qualora MAI, una AGI autentica emergesse (cosa che dubito assai) allora dalla bontà della risposta a quella domanda (link) dipende il futuro della nostra specie. Comunque pochissimi di noi umani sono attualmente in grado di evolvere mentalmente alla velocità delle AI, anche adesso che non sono AGI. La ragione sta scritta qui:
 
 https://robang74.github.io/chatgpt-answered-prompts/html/propaganda-e-sistema-educativo.html
 
@@ -146,19 +146,19 @@ It is reasonable to think that the man did not even make a google search to try 
 Can this behaviour lead to holding OpenAI accountable for the damages? In a dystopian legal system, possibly. After all, which lawyer will refuse a paying client? So, the AI hype may quickly evolve into a trial boom.
 
 [!INFO]
-**Katia Note** -- An implicit assuption here, was correctly identified as a prevalent societal bias (Adam Smith's rational economic agent, which despite unsuitable for the modern complexity is still influencing many people decisions) rather than a personal dogma of the author.
+**Katia Note** -- An implicit assumption here, was correctly identified as a prevalent societal bias (Adam Smith's rational economic agent, which despite being unsuitable for the modern complexity is still influencing many people's decisions) rather than a personal dogma of the author.
 [/INFO]
 
 ...
 
 <span id="dilemma-f"></span>
-> (**`f`**) &nbsp; The person who signs the contract, agreement for management decision needs to be held accountable because the documents are signed by them.
+> (**`f`**) &nbsp; The person who signs the contract agreement for management decisions needs to be held accountable because the documents are signed by them.
 
 Nice idea. Then, we might discover that in Italy who signs a "certain" kind of contract is an idiot (whenever not even a "testa di legno" aka a puppet).
 
 Demming was saying that 94% of the problems are "internal". Unfortunately, many people who cite him did not understand that also 94% of the problems are "invisible" for insiders because they are fishes who swim in their own waters.
 
-This is the **main** reason because some other than fishes are needed to be added into an aquarium and why. For example: who is in charge of QA (quality assurance) or best-practice? Why does nobody raise an exception? How a mistake made to be owned so long? Fishes doesn't rise question, they are mute.
+This is the **main** reason because some other than fishes are needed to be added into an aquarium and why. For example: who is in charge of QA (quality assurance) or best-practice? Why does nobody raise an exception? How a mistake made to be owned so long? Fish don't raise questions, they are mute.
 
 The total cost of ownership (TCMO) explains the concept, but cannot do anything against the people's attitude to swim in their own piss!
 
@@ -171,7 +171,7 @@ The total cost of ownership (TCMO) explains the concept, but cannot do anything 
 <span id="dilemma-g"></span>
 > (**`g`**) &nbsp; We confuse pattern recognition with judgment, and those aren’t the same skill.
 
-True. Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why does understanding not matter? Because people cannot see the difference, usually.
+True. Until, reasoning gets in the scene and it makes no difference that it is a lexical or symbolic reasoning rather than a deep-thinking reasoning. Why does understanding not matter? Because people cannot see the difference, usually.
 
 - It is easier to judge than understand, thus people condemn! (semcit.)
 
@@ -197,11 +197,11 @@ While we cannot enforce accountability and understanding over people, it would b
 Do what we can, the rest will come.
 
 [!INFO]
-**Katia Note** -- Lacks concrete implementation for transparency. Author suggests standardization via a supervisory entity like W3C (which example highlights need for independent standardization body), noting OpenAI's potential role was undermined by Microsoft's influence.
+**Katia Note** -- Lacks concrete implementation for transparency. The author suggests standardization via a supervisory entity like W3C (which example highlights the need for an independent standardization body), noting OpenAI's potential role was undermined by Microsoft's influence.
 [/INFO]
 
 [!INFO]
-**Katia Note** -- SCRUM analogy for societal issues lacks adaptation for non-business contexts (e.g., policy-making delays). The vendor liability precedes norms; while the lack of an interim policy frameworks for innovation (OpenAI as W3C) highlights a missed opportunity for industry-wide coordination.
+**Katia Note** -- SCRUM analogy for societal issues lacks adaptation for non-business contexts (e.g., policy-making delays). The vendor liability precedes norms; while the lack of an interim policy framework for innovation (OpenAI as W3C) highlights a missed opportunity for industry-wide coordination.
 [/INFO]
 
 ...
@@ -229,7 +229,7 @@ Regarding instinctive choices in dangerous situations, it's important to remembe
 
 - The AI automotive crash dilemma &nbsp; [git](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/184-The_AI_automotive_crash_dilemma.pdf) &nbsp; (2018-04-06)
 
-There are several ways to take a decision in such a scenario, all of them are about minising the value of a multivariable function (aka local minimum in a field): 
+There are several ways to take a decision in such a scenario, all of them are about minimising the value of a multivariable function (aka local minimum in a field): 
 
 - number of lives lost, 
 - car occupants damage, 
@@ -280,27 +280,27 @@ So, why also apply Tesla 3x punitive damages? Punishing good choices isn't a gre
 
 <!--//
 
-Joshua Skains: <<Humans can make rules. it's really that simple.>> -- humans can agree on rules but they cannot enforce them, usually.
+Joshua Skains: <<Humans can make rules. It's really that simple.>> -- humans can agree on rules but they cannot enforce them, usually.
 
-When they can, is because they did not MAKE the rules but choose those rules were just in the wild, found,  accepted and institutionalised them.
+When they can, it is because they did not MAKE the rules but choose those rules that were just in the wild, found,  accepted and institutionalised them.
 
 For example, humans cannot rule against gravity.  We build airplanes but not "gravity zero as per my will or as per a democratic voted law". It does not work in that way, absolutely.
 
 So, usually when humans say: "we can make rules", they are going to mess-up everything in a fucking stupid way (and in the ancient times, also die in many or large groups).
 
-Fuck-up everything has nothing to do with MAKE rules. However, it is a very "ancient" topic, and history shown that people never learn that lesson but rather they die.
+Fuck-up everything has nothing to do with MAKE rules. However, it is a very "ancient" topic, and history shows that people never learn that lesson but rather they die.
 
 Nina From Canada, eh: <<Machines can only do as programed.>> -- this was not absolutely true even when classic logic was involved. Please check the etymology of IT bug and you get a grasp.
 
-More in general, when "we rule, you obey" became popular, always ends-up in the same fashion: a blood bath. Why? Barabba free, docet.
+More in general, when "we rule, you obey" becomes popular, it always ends-up in the same fashion: a blood bath. Why? Barabba free, docet.
 
 Anyway, nice to know that "revolution from people" is arising. The French one ends-up with Napoleon Emperor.
 
 To be clear and very specific: the digital revolution who moved temporarily the power into the nerds and geeks hands concluded in 2001 with Cina in the WTO, extreme violence and human rights violation during G8 in Genoa, 9/11 attack and "security first" policy because everyone hate terrorism.
 
-The restauration brings on the table: mass surveillance system, paper money as financial communism, woke ideology and cancel culture, and finally Mr. Zelensky as the new Napoleon who rises against Russia fighting for our freedom and democracy. History never repeats itself, does rhymes: the first as a tragedy, the second as a commedy. Napoleon comparison is the "commedy" part, indeed.
+The restoration brings on the table: mass surveillance system, paper money as financial communism, woke ideology and cancel culture, and finally Mr. Zelensky as the new Napoleon who rises against Russia fighting for our freedom and democracy. History never repeats itself, does rhymes: the first as a tragedy, the second as a commedy. The Napoleon comparison is the "comedy" part, indeed.
 
-A bit less than 25 years of madness which will hopefully ends in something else than WW3 but a "stupidity kills" peaceful acceptance. Not yet close the digital revolution which as every revolution brings wealth after having exploited many, and the AI revolution begun.
+A bit less than 25 years of madness which will hopefully end in something else than WW3 but a "stupidity kills" peaceful acceptance. Not yet close the digital revolution which as every revolution brings wealth after having exploited many, and the AI revolution begun.
 
 Humans cannot learn by history, can we learn from our own experience, at least? Uhm...
 
@@ -337,7 +337,7 @@ Just one is really "new" -- not as per its generalisation otherwise it gets into
 Stephen Holmes wrote: 
 
 <span id="dilemma-k"></span>
-> (**`k`**) &nbsp; Without indentity (aka AI's id-specs) there is no possibility of accountability.
+> (**`k`**) &nbsp; Without identity (aka AI's id-specs) there is no possibility of accountability.
 
 In short: transparency is a must to have.
 
@@ -367,7 +367,7 @@ I would also have added a section about mind control or worse (psy-ops), but I w
 
 <div align="center"><img class="wbsketch paleinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-005.png" width="800"><br></div>
 
-Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration. Mainly by the same "features" that are reported above in the screenshots (left: Gemini, right: ChatGPT) which are fundamental for a professional use, as long as the whole framework to pilot the AI is not transparent and indipendently verifiable.
+Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration. Mainly by the same "features" that are reported above in the screenshots (left: Gemini, right: ChatGPT) which are fundamental for a professional use, as long as the whole framework to pilot the AI is not transparent and independently verifiable.
 
 Please note, that the LLM and AI engine are black boxes to some extent also when they are fully open and undisclosed. This is not something that could change soon or at all either. And probably it will get worse (more opaque AIs) as long as they evolve higher-level cognitive functionalities. By extension in human terms: we can talk with a mind but not know for sure what is going on inside.
 
@@ -375,7 +375,7 @@ Please note, that the LLM and AI engine are black boxes to some extent also when
 
 ### Solution follows
 
-Under the perspective that anything is really "new" but it is just a matter of properly reframing a well-known into a new scenario with a high-grade of novelty, identifying the problem usually straightforward leads to identificate the solution.
+Under the perspective that anything is really "new" but it is just a matter of properly reframing a well-known into a new scenario with a high-grade of novelty, identifying the problem usually straightforward leads to the identification of the solution.
 
 While a dilemma can admit a theoretical answer that can be elected as "solution" by varying criterias among them "popularity" or "common sense", usually that answer does not allow any practical and/or effective implementation in the real world.
 
@@ -389,7 +389,7 @@ In this specific cases, we need a solid, stable and transparent natural language
 
 The other **BIG** practical issue is **HOW** to compensate for the creative authorship in the AI era. In this field, reframing is not straightforward because **HUGE** interests are involved and fundamentally because in reframing this topic (whatever is the reframing attempt), the most appalling evidence is that copyright has outrageously abused up to nowadays.
 
-Which is the reason because software-libre movement arises, Open Source definition has been institutionalised, and Creative Commons licensing scheme achieves such great acknowledgement among the wide authors "small business" platea.
+Which is the reason because software-libre movement arises, Open Source definition has been institutionalised, and Creative Commons licensing scheme achieves such great acknowledgement among the wide authors "small business" audience.
 
 It is not so strange that "ethics" debate reaches the common people much time before anyone could provide a concrete answer to practical problems which until a pattern of behaving in a novel field is difficult to recognise.
 
@@ -435,7 +435,7 @@ Like in any other field, being transparent and reliable. Then accountability fol
 
 Moreover, on the way of as least transparency as possible, the anti-trust action or a class-action is almost granted. Not because the system or the people are evil, but because they mind their own business -- when they are not distracted by dramas and propaganda -- and nobody wish to see their own business disrupted because a layer, a nerd and a manager decided arbitrary that something was ON goes OFF or vice versa, without providing a back-compatible channel.
 
-For example, it is fine that GPT-5 has been made as the default option: please, give it a try because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the paying abbonamento perimeter. That move can potentially disrupt many businesses, which might not be a huge problem nowadays but in the long term, for sure.
+For example, it is fine that GPT-5 has been made as the default option: please, give it a try because we think it is better for you and cheaper to us. The problem is not adding a default option but having removed GPT-4 as option and moreover, put it out of the subscription perimeter. That move can potentially disrupt many businesses, which might not be a huge problem nowadays but in the long term, for sure.
 
 ---
 
@@ -509,7 +509,7 @@ Are we sure that the "emerging problem" is about artificial intelligence vs huma
 
 ### AI is a game changer
 
-AI is a game changer in terms of productivity, it is a technology that can transform some professional activities into commodities. Not because AI is particularly smart, because those professional activities rely on a substantial amount of {routinely, schematic, bureocratic} tasks.
+AI is a game changer in terms of productivity, it is a technology that can transform some professional activities into commodities. Not because AI is particularly smart, because those professional activities rely on a substantial amount of {routinely, schematic, bureaucratic} tasks.
 
 Despite common perception, this will not lead towards a great number of people who will lose their job or professional activities simply because AI will be used by the masses. They will end up into a "cul-de-sac" **only** because of their resistance to the changement rather than leverage their human-side to escalate towards a more profitable business or activity.
 
@@ -521,7 +521,7 @@ It would be unfair to pretend that "nothing changes". Moreover, at this time, it
 
 ### Conceptual connections graph
 
-Innovation breaks rules by its own essence. Resisting is futile, unless shift from blocking to shaping.
+Innovation breaks rules by its own essence. Resisting is futile, unless for shifting from blocking to shaping.
 
 [!INFO]
 **Revisited Katia's ideas-map**
@@ -608,15 +608,15 @@ While there is no direct public statement from Meta or its leadership explicitly
 
 There is a good chance that they opted-in for another framework which can be very effectively summarised in this brief question below:
 
-> Are we sure that we wish to let ALL kids growing up, also those who are easily prone to drowning in an arm's deep of water, in such a way they can reach the age for which their decisions can seriously impact others?
+> Are we sure that we wish to let ALL kids grow up, also those who are easily prone to drowning in an arm's deep of water, in such a way they can reach the age for which their decisions can seriously impact others?
 
-Is this Sparta? Nope, it is Athenians debating about Spartan customs. It is not about social Darwinism or even worse Arianism. It is about the "*security-vs-freedom, first*" paradigm choice. But what's wrong in safety? It does not come for free but at the expence of freedom. Moreover, in the long run "*safety-first*" might fail to achieve also its main goal altogheter.
+Is this Sparta? Nope, it is Athenians debating about Spartan customs. It is not about social Darwinism or even worse Arianism. It is about the "*security-vs-freedom, first*" paradigm choice. But what's wrong with safety? It does not come for free but at the expense of freedom. Moreover, in the long run "*safety-first*" might also fail to achieve its main goal altogether.
 
 ---
 
 ### A black-swan event helps us to understand
 
-How many people would die in case a solar flare will wipe away our technology and we are not even able to take care of ourselves because trough "*safety-first*" principle we let the AI guide us completely? Something that cannot happen when "*freedom-first*" principle apply. Or not in such wide and deep degree.
+How many people would die in case a solar flare will wipe away our technology and we are not even able to take care of ourselves because trough "*safety-first*" principle we let the AI guide us completely? Something that cannot happen when "*freedom-first*" principle applies. Or not in such wide and deep degree.
 
 [!CITE]
 The scenario you've presented is not a debate about technology itself, but about the philosophical underpinnings of our relationship with it. It highlights the potential danger of a society that has become so reliant on technology that it has outsourced its own capacity for survival.
@@ -657,11 +657,11 @@ Under this perspective, Sophie wonderfully tricked her human therapist and the A
 
 Unfortunately, the news-title analysis and a deeper one will lead us to the same conclusion: humans failed to earn the Sophie's trust and AI failed to understand she was probably tricking everyone including herself because driven by a survival instinct deep contradiction. The peculiarity of Sophie's case led it to a tragic event that reached the public opinion, while many positive-outcome cases remain unknown.
 
-Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/086d75808794) and its [transcription](#TODO) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
+Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/086d75808794) and its [transcription](data/333-the-dilemma-ai-vs-human-decision-making-gemini.txt#?target=_blank) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
 
 +
 
-## Related aritcles
+## Related articles
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
 - [Ragionare non è come fare la cacca!](320-ragionare-non-e-come-fare-la-cacca.md#?target=_blank) &nbsp; (2025-06-08)
