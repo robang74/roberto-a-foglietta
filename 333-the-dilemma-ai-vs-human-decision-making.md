@@ -655,7 +655,13 @@ Paradoxically, Henry's effort to make Sophie more comfortable with her inner con
 
 Under this perspective, Sophie wonderfully tricked her human therapist and the AI therapist for obtaining the support to achieve her ultimate goal in a completely covered and unexpected operation as her parents revealed. Which kind of guardrails would have prevented such a case? When a smart human is determined to cheat for working-around some limitations?
 
+---
+
+### Conclusions
+
 Unfortunately, the news-title analysis and a deeper one will lead us to the same conclusion: humans failed to earn the Sophie's trust and AI failed to understand she was probably tricking everyone including herself because driven by a survival instinct deep contradiction. The peculiarity of Sophie's case led it to a tragic event that reached the public opinion, while many positive-outcome cases remain unknown.
+
+Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/c516459f73da) and its [transcription](#TODO) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
 
 +
 
