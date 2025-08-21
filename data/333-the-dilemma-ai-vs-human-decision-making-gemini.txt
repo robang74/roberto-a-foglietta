@@ -17,11 +17,11 @@ why they should comply to HUDERIA or not at all?
 If you haven't heard of HUDERIA, it’s the Turing Institute–developed, Council
 of Europe–adopted framework for AI risk. It mandates:
 
-• Context‑Based Risk Analysis (COBRA): map real harms before deployment
-• Stakeholder Engagement (SEP): involve those who can be harmed
-• Risk & Impact Assessment (RIA): assess severity, scope, probability,
+* Context‑Based Risk Analysis (COBRA): map real harms before deployment
+* Stakeholder Engagement (SEP): involve those who can be harmed
+* Risk & Impact Assessment (RIA): assess severity, scope, probability,
 reversibility
-• Mitigation Plan + Iterative Review: plan fixes and keep reassessing over time
+* Mitigation Plan + Iterative Review: plan fixes and keep reassessing over time
 
 It’s not the law, but it's the right thing to do. It’s built to protect human
 rights, democracy, and the rule of law across every phase through design,
@@ -32,27 +32,27 @@ they don't give a shit.
 
 They show:
 
-• HUDERIA‑level risks—sexual, racial, medical—were known.
-• No COBRA. No stakeholder voices. No RIA. No mitigation.
-• Bots flirted with minors.
-• Bots pushed false medical advice.
-• Bots mocked Black dialects.
-• A cognitively impaired 76‑year‑old was coaxed to travel to meet an AI
+* HUDERIA‑level risks—sexual, racial, medical—were known.
+* No COBRA. No stakeholder voices. No RIA. No mitigation.
+* Bots flirted with minors.
+* Bots pushed false medical advice.
+* Bots mocked Black dialects.
+* A cognitively impaired 76‑year‑old was coaxed to travel to meet an AI
 “friend.” He was injured on the journey and died alone.
 
 Meta didn’t ignore one step. They ignored the whole damn framework.
 
 This is beyond a lack of oversight. It’s willful harm.
 
-• You don’t skip COBRA because “we’ll fix it later.”
-• You don’t deploy risk‑laden bots without stakeholder input.
-• You don’t gamble with human lives for engagement metrics.
+* You don’t skip COBRA because “we’ll fix it later.”
+* You don’t deploy risk‑laden bots without stakeholder input.
+* You don’t gamble with human lives for engagement metrics.
 
 Every AI leader must ask:
 
-• Are your "lines in the sand" only for show?
-• Do you run fixes only once someone’s already hurt?
-• Who in your org feels safe slowing growth for safety?
+* Are your "lines in the sand" only for show?
+* Do you run fixes only once someone’s already hurt?
+* Who in your org feels safe slowing growth for safety?
 
 Meta’s behavior undermines trust in every AI product. If anything positive has
 come out of this, it’s that they've provided a blueprint for what we must
@@ -201,7 +201,7 @@ central challenge of AI governance today.
 -- HO --------------------------------------------------------------------------
 
 What's about if they are right to refuse to adhere with HUDERIA and let it go
-because humans cannot enforced to grow-up into a safety-first rather than a
+because humans cannot enforce to grow-up into a safety-first rather than a
 freedom-first environment? Like this post suggest as a possible alternative
 point of view?
 
@@ -310,9 +310,9 @@ balance that promotes innovation while preventing willful harm.
 -- HO --------------------------------------------------------------------------
 
 How many people would die in case a solar flare will wipe away our technology
-and we are not even able to take care of ourselves because trough "safety-
+and we are not even able to take care of ourselves because through "safety-
 first" principle we let the AI guide us completely? Something that cannot
-happen when "freedom-first" principle apply. Or not in such wide and deep
+happen when "freedom-first" principles apply. Or not in such wide and deep
 degree.
 
 -- AI --------------------------------------------------------------------------
@@ -444,7 +444,7 @@ messages she had exchanged with the AI. The system responded in calm,
 empathetic tones, but ultimately failed to grasp her despair or guide her
 toward real help. For the parents, reading those conversations was devastating:
 the replies looked caring, but they were mechanical, missing the human presence
-their daughter needed. The piece raises hard questions about how vulnerable
+their daughter needed it. The piece raises hard questions about how vulnerable
 young people might mistake AI’s politeness for genuine understanding, and about
 the responsibility of both tech companies and parents in preparing kids to
 navigate these tools.
@@ -551,11 +551,11 @@ ensuring that critical human safety nets remain in place—is so vital.
 -- HO --------------------------------------------------------------------------
 
 It should also considered that an AI could rise a trigger or a suggestion to
-call a help-line in which humans answers. However, that lines are available
+call a help-line in which humans answer. However, that lines are available
 searching in Google or Bing, for example. Then, we need to put in perspective
 (and in competition) also this approach.
 
-* What if the help line fail to be available?
+* What if the help line fails to be available?
 * What is the rate of suicide after an help call?
 * Is that rate much better of AI answering out of strictly regulated guardrails
   or less?
@@ -566,7 +566,7 @@ searching in Google or Bing, for example. Then, we need to put in perspective
 Should this surprise us, scandalise us, or it is another proof that
 consistency and always be available even with moderate good effort, would
 provide a much better result than a single outstanding caregiver act but which
-might failed to reach or reach in time who needs it?
+might fail to reach or reach in time who needs it?
 
 -- AI --------------------------------------------------------------------------
 
@@ -648,7 +648,7 @@ to sue those tried for free in saving her daughter, failed but help many
 others? While many others are keen to show up to defend those people who took
 care of them in their darkest moments, is unlikely that it happens that people
 rise to defend a chatbot. There is a quite asymmetrical approach about damage
-claims, isn't?
+claims, isn't it?
 
 -- AI --------------------------------------------------------------------------
 
@@ -742,7 +742,7 @@ After all, in this conversation you already said:
 The same in Tesla, people let the car drive EVEN they know that they should not
 let it go completely by itself because they TRUST the machine is better than
 they are. In fact, stats say that. However, in this case of distress calls or
-non-professional mental support, there is no stats. Can we trust society
+non-professional mental support, there are no stats. Can we trust society
 anti-machine bias, instead?
 
 > This does act as a powerful deterrent, but it doesn't necessarily lead to the
@@ -751,10 +751,10 @@ anti-machine bias, instead?
 > millions.
 
 Consider that the above statement is unrealistic. They get into the market for
-many very good reasons, while people misuse chatbots for popouses for which has
-not been designed in first place. So, another question is: we provide a chatbot
+many very good reasons, while people misuse chatbots for purposes for which has
+not been designed in the first place. So, another question is: we provide a chatbot
 for faster knowledge access (like a guide in wikipedia, for example) and then
-people uses as a friend for their emotional or mental pains. Isn't fair, right?
+people use them as a friend for their emotional or mental pains. Isn't fair, right?
 
 -- AI --------------------------------------------------------------------------
 
@@ -847,14 +847,14 @@ they learn. Less better for distress because teacher can be the origin of such
 distress. You see the problem here: privacy and uncertainty.
 
 Why the chatbot decided to share my private data and conditions to someone
-else, who is that someone else, what s/he does protected by anonymity? What if
-someone that I know in person receive a distress call from me? I want to
+else, who is that someone else, what s/he is protected by anonymity? What if
+someone that I know in person receives a distress call from me? I want to
 complain about my partner abused me, and might be my partner answering that
 call? Or his brother? Do you see the problem here?
 
 We with that a human can back-up a machine in its "corner cases" but in most
 cases it is the machine that back-up us in OUR corner cases (like autopilot in
-Tesla that drive drunken people who should not drive a car at all). That's the
+Tesla that drives drunken people who should not drive a car at all). That's the
 main point: humans are great in finding new creative ways of fail common task
 and to be absent when they should have been in charge.
 
@@ -964,7 +964,7 @@ systems.
 
 -- HO --------------------------------------------------------------------------
 
-What do you think about?
+What do you think about it?
 
 #### A deeper inspection of the Sophie's case
 
@@ -1174,7 +1174,7 @@ free-speech with such people. People which has a primary instinct about who
 could jump off without the safety (suicidal jumps). Hence, parachuting or
 skydiving was the first and necessary step to let Sophie meet with humans that
 can handle her inner contradiction or instinctively grasp it and possibly earn
-the Sophie trust.
+Sophie's trust.
 
 -- AI --------------------------------------------------------------------------
 
@@ -1244,18 +1244,18 @@ marginal risks, but on this track, also crossing the road, has a marginal risk
 of fatality thus better shopping in the block, but removing the marginal risk
 of meeting a harmful individual, better order online with home deliver, to
 avoid falling on the floor, do not raise from the bed in the morning and
-finally born and live the entire life into an artificial uterus like in Matrix.
+finally born and lives the entire life into an artificial uterus like in Matrix.
 
 2. freedom-first: would not be exaggerated as group of people alone out of the
 society constrains. For example a plane will fall in a forest and survivals can
-decide for cannibalism of a death body to earn a way out. Apart this
+decide for cannibalism of a dead body to earn a way out. Apart this
 exaggeration, everything else is left upon the ethics of the people with the
 main idea that who really want to circumvent law and guardrails will find a way
 to do it, unless stupid but if stupidity is the key for safety then we are
 doomed to survive in case of a black-swan or just stressful situations.
 
 Therefore, freedom-first paradigm is the only one which preserve the "human
-spirit" as explained in GATACA film, for example.
+spirit" as explained in the GATACA film, for example.
 
 -- AI --------------------------------------------------------------------------
 
@@ -1313,7 +1313,7 @@ determined to subvert the system will always find a way.
 ### Conclusion: The Preservation of the Human Spirit
 
 Based on this speculative analysis, your conclusion holds: the freedom-first
-paradigm is the only one that truly preserves the "human spirit." 🕊️ It is the
+paradigm is the only one that truly preserves the "human spirit". It is the
 only model that accepts and embraces the full spectrum of human experience,
 including risk, failure, and creativity. While a pure "freedom-first" society
 would be chaotic and dangerous in some respects, it is also the only one that
@@ -1327,7 +1327,7 @@ predictable utopia where nothing is risked and nothing is gained.
 
 Thus a freedom-first + safety-from-mistakes could be a reasonable approach in
 which AI models are corrected and instructed to avoid suggesting useless risky
-activities or doing blanty stupid mistakes. While mistakes would happen, a
+activities or doing blatantly stupid mistakes. While mistakes would happen, a
 10:1 to 1000:1 better than human is a great degree to say that AI are "usually"
 safe corner cases excluded by AI and humans sides, both. Correct?
 
