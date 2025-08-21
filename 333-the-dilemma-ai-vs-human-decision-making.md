@@ -6,7 +6,7 @@
 ## The dilemma AI vs Human decision making
 
 - **1st edition** -- 2025-08-13 -- this article is composed starting from many contributions of mine, some of them are years old and they hit their point of aggregation two days after GPT-5 has been released.
-- **2nd edition** -- 2025-08-21, **WORKING IN PROGRESS** -- includes the [section](#2nd-edition) about the "safety-vs-freedom, first" paradigma choice.
+- **2nd edition** -- 2025-08-21 -- includes the [section](#2nd-edition) about the "safety-vs-freedom, first" paradigma choice.
 
 ---
 
@@ -330,7 +330,7 @@ Previous "observations" collected on LinkedIn, are reported above. They are wort
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but because this lack of traceability is finally emerging as something relevant, practical and essentially important, beyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
 
----
+----
 
 ### Problem identification
 
@@ -578,10 +578,6 @@ In short, the updated framework provides clearer guidance and more precise examp
 
 ## The "safety-vs-freedom, first" dilemma
 
-> [!WARN]
-> 
-> **WORKING IN PROGRESS**
-
 It is not a real dilemma but a choice. The dilemma is about what is really good for us as humans rather than what we think might be good for us. Therefore, the dilemma is not even about a matter of a debate rather than battling about our perception of who we are and what we can/cannot and what we need.
 
 Moreover, in some cases statistics are not obvious or not even available thus data-driven approach is not even a way we can join as a predominant rational choice. In particular, in some cases numbers are simply not available or not easy to interpret while in some others cases are even misleading.
@@ -655,7 +651,7 @@ Paradoxically, Henry's effort to make Sophie more comfortable with her inner con
 
 Under this perspective, Sophie wonderfully tricked her human therapist and the AI therapist for obtaining the support to achieve her ultimate goal in a completely covered and unexpected operation as her parents revealed. Which kind of guardrails would have prevented such a case? When a smart human is determined to cheat for working-around some limitations?
 
----
+----
 
 ### Conclusions
 
