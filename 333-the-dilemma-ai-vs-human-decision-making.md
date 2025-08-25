@@ -11,6 +11,8 @@
 
 - **3rd edition** -- 2025-08-25 -- includes the [section](#3rd-edition) about the "bad data --> bad decisions" AI-humans loop.
 
+- **4th edition**, includes the [section](#4th-edition) about standardised tests as metric of nothing but knowledge.
+
 ---
 
 ### Introduction
@@ -696,6 +698,35 @@ How can be "safe" an AI engine that is not trained to compute correctly the risk
 This is just an example about how AI aren't able in a general way to provide answers by their own independent evaluations rather than echoing what they learned or following binding safety rules which obviously can fail for being too strict or either too relaxed, anyway.
 
 Despite the fact that they are still so dumb, it is impressive how they can outperform so many people in standardised tests. Which brings us to the conclusion that those standardised tests, especially those designed for humans, aren't a reliable metric of something intrinsic rather than a specific knowledge learning.
+
++
+
+<span id="4th-edition"></span>
+## Another popular superstition debunked
+
+[!INFO]
+21th August 2025 -- Studying philosophy does make people better thinkers, according to new research on more than 600,000 college grads -- [lnkd.in/d4X6re4M](https://lnkd.in/d4X6re4M)
+
+After freshman year, philosophy majors consistently scored higher on verbal and logical reasoning tests and reported better cognitive habits than students in other majors. This suggests that the study of philosophy may contribute to the development of these intellectual skills rather than simply attracting people who already possess them.
+[/INFO]
+
+### What is it missing here?
+
+Fundamentally the same problem we are facing with the AI standardised benchmark. Those numbers are not reflecting those faculties of thinking that we are expecting metrics should measure.
+
+However, as someone that studied history and philosophy of science, in my personal experience, I can confirm the sensation that having a broader view about what we are doing, not just how but also why, increases the ability to cope with ideas and also techniques. In particular, it strongly supports the explorative attitude.
+
+Who has a historical vision of how we reach certain know-how goals as human beings, how many tries and errors we made, develops an attitude more keen to accept try-and-fail and learn-by-doing. Where does pure philosophy fail to achieve results? Overgeneralization and abstraction.
+
+The main failure is based on the assumption that thinking is enough to reach an answer while experimenting, which can be seen as thinking with the hands, is a fundamental tool to provide a practical answer. Unsurprisingly, the practical answer contradicts the general theory achieved by pure speculation?
+
+Everytime and everywhere humans are in the loop their irrational nature breaks with a rational theory. Instead, when Natura only is involved, it is not philosophy anymore but physics. Both require practical answers and experimentation to be functional.
+
+So, unless rhetorical debating is the ONLY activity, philosophy alone can provide an advantage like the standardised tests reveal. Otherwise, not and often the opposite: a nice idea which grossly fails in practice.
+
+Surprised? Not convinced? Read all the manuals you like about how to handle a sword and then try to do some high-technical moves with a sharp katana, and let us know how it went... 😁
+
+Continue the reading here: [lnkd.in/dEWnAKri](https://lnkd.in/dEWnAKri)
 
 +
 
