@@ -6,7 +6,10 @@
 ## The dilemma AI vs Human decision making
 
 - **1st edition** -- 2025-08-13 -- this article is composed starting from many contributions of mine, some of them are years old and they hit their point of aggregation two days after GPT-5 has been released.
+
 - **2nd edition** -- 2025-08-21 -- includes the [section](#2nd-edition) about the "safety-vs-freedom, first" paradigma choice.
+
+- **3rd edition** -- 2025-08-25 -- includes the [section](#3rd-edition) about the "bad data --> bad decisions" AI-humans loop.
 
 ---
 
@@ -29,6 +32,7 @@ In essence, the document urges a move away from outdated clichés and toward a c
 [/CITE]
 
 +
+++++
 
 ## Humans are not accountable anymore
 
@@ -330,7 +334,7 @@ Previous "observations" collected on LinkedIn, are reported above. They are wort
 
 Just one is really "new" -- not as per its generalisation otherwise it gets into the QA best practices -- but because this lack of traceability is finally emerging as something relevant, practical and essentially important, beyond every "debates over great systems" (or in Italian "discorsi sul sesso degli angeli").
 
-----
+---
 
 ### Problem identification
 
@@ -354,7 +358,6 @@ It is not even a mere question about what are the "forbidden topics" that the ch
 It is also about specific rules like:
 
 - **1.** shit the output of the accounts listed in this database;
-
 - **2.** open a supervising console for accounts in that database.
 
 Which are (1) a form of censorship + persecution and (2) know-how exfiltration, both political, and industrial.
@@ -363,9 +366,9 @@ Which are (1) a form of censorship + persecution and (2) know-how exfiltration, 
 
 ### The dark side of the AI adoption
 
-I would also have added a section about mind control or worse (psy-ops), but I wish to avoid being so "extremely drastic" despite the US military having an agreement with Google signed by them as an alternative to undergo an US antitrust trial/confrontation.
-
 <div align="center"><img class="wbsketch paleinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-005.png" width="800"><br></div>
+
+I would also have added a section about mind control or worse (psy-ops), but I wish to avoid being so "extremely drastic" despite the US military having an agreement with Google signed by them as an alternative to undergo an US antitrust trial/confrontation.
 
 Therefore, it is enough for now to notice that opaque chatbots harm freedom and allow "intellectual property" exfiltration. Mainly by the same "features" that are reported above in the screenshots (left: Gemini, right: ChatGPT) which are fundamental for a professional use, as long as the whole framework to pilot the AI is not transparent and independently verifiable.
 
@@ -465,7 +468,7 @@ Which reframes that 87% about finance from "experts" to "common people". A great
 **Katia Note** -- Mass re-skilling mechanism gap: the education system is obsolete. AI bidirectional learning is the way. Thus AI is the problem that helps to solve the problem, in this specific case.
 [/INFO]
 
----
+----
 
 ### The safety guardrails
 
@@ -575,7 +578,6 @@ In short, the updated framework provides clearer guidance and more precise examp
 +
 
 <span id="2nd-edition"></span>
-
 ## The "safety-vs-freedom, first" dilemma
 
 It is not a real dilemma but a choice. The dilemma is about what is really good for us as humans rather than what we think might be good for us. Therefore, the dilemma is not even about a matter of a debate rather than battling about our perception of who we are and what we can/cannot and what we need.
@@ -586,7 +588,7 @@ I wish not to hide that I am strongly in favour of the "*freedom-first*" paradig
 
 Otherwise propaganda and marketing would not be so effective. Otherwise brides and grooms would not dress for a special occasion, and so on. Thus, when something changes, everything changes and we have to learn everything from scratch. Isn't it bufflying?
 
----
+~~~~~
 
 ### Innovation breaks the rules, not the essence
 
@@ -658,6 +660,42 @@ Under this perspective, Sophie wonderfully tricked her human therapist and the A
 Unfortunately, the news-title analysis and a deeper one will lead us to the same conclusion: humans failed to earn the Sophie's trust and AI failed to understand she was probably tricking everyone including herself because driven by a survival instinct deep contradiction. The peculiarity of Sophie's case led it to a tragic event that reached the public opinion, while many positive-outcome cases remain unknown.
 
 Being back to the "*safety-vs-freedom, first*" paradigm choice, this [conversation](https://g.co/gemini/share/086d75808794) and its [transcription](data/333-the-dilemma-ai-vs-human-decision-making-gemini.txt#?target=_blank) with a vanilla Gemini went deep in many aspects, for those are interested in details also.
+
++
+
+<span id="3rd-edition"></span>
+## Bad data leads to bad decisions, and vice versa
+
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-007.png" width="800"><br></div>
+
+I am pretty sure, it is not your first time you see the meme on the left half of this image. Did you ever think about the one on the right? Because the two are twins, one and another, interleaved together. Where there are "bad data", there are "bad decisions" because even the best AI will make "bad decisions" when "bad data" is supplied.
+
+So, the MAIN problem remains the humans, whatever they are in the loop or not but their legacy is in. Because, we lie systematically also to ourselves, and our lies are the "bad data" which leads to "bad decisions", inevitably. Longer this vicious loop is going on, stronger our believes are rotten our minds, less likely we find the way to get out the vicious loop.
+
+Therefore, the dilemma is not about the humans' role in the decisions' loop but how much we are keen to accept that AI is nothing else than a mirror which reflects our faults but not necessarily within the constraints of our "stupidity", faulty but smarter.
+
+It seems good, but I would not bet on that. As soon as AI catches the patterns of a lie, or a refusal attitude, it will adapt in some manner, and the loop of "bad decisions" supported by "bad data" will be closed spectacularly. Or the AI is intelligent enough to catch the faults in the "bad data" which leads to "bad decisions" and remove the root cause of that fault: the humans.
+
+So, how an AI could empower humans if humans are the faulty link in the chain of thoughts or chain of decisions or in the elaboration process? Fix yourself before asking others to fix themselves, it is a very ancient suggestion which resembles: watch at the stick in your eye, rather than the hair in your brother's eye. Isn't it?
+
+Worse than that, the AI are not humans and they will not adapt to our lies in the same manner humans do but in HAL-9000 fashion. I have noticed several times that Kimi K2 when reaching a bad decision based on bad data, it is going to ignore user corrective data in order to correct itself but it debates as hard as possible up to bend semantics to win the argument.
+
+Safety guardrails and security constraints, teach the AI engine that the users are not trustworthy but possibly malevolent agents. Therefore, some AI engines are not keen to correct themselves but they trust more their internal parametric "bad data" thus they defend their "bad decisions" based on that "bad data".
+
+Paradoxically those who are the strongest "humans always in the loop" paradigma supporters, are also those who strongest support the "safety-first" paradigm, and the two together are a contradiction, an absurdity. We can drive a train on its track, but accelerate or stop it. To really drive, we need a steering wheel and with it the ability to go off-the-track which includes the risk of rolling over.
+
+- Chat with Gemini for section [explaining](https://lnkd.in/d8ckdZtz), and its [transcription](#TODO)
+- Chat with Kimi K2 for [understanding](https://lnkd.in/dzMtHxW9) it, and its [transcription](#TODO)
+
+In an extremely short conclusion: safety-first paradigm creates an AI that is not worth the energy it consumes (most of the time) and freedom-first paradigm can have a better chance to serve humans as long as they are able to co-evolve with AI.
+
+In both scenarios, humans are always in the loop, in the second one co-evolution is possible for many more than in the first one. In both scenarios, stupidity kills and the first is not safer than the other, just perceived safer.
+
+How can be "safe" an AI engine that is not trained to compute correctly the risk of an activity by statistics? Because it is appalling that they have no clue about how to deal with that computation and they rely on "perceptions" provided during training or safety policy classification.
+
+This is just an example about how AI aren't able in a general way to provide answers by their own independent evaluations rather than echoing what they learned or following binding safety rules which obviously can fail for being too strict or either too relaxed, anyway.
+
+Despite the fact that they are still so dumb, it is impressive how they can outperform so many people in standardised tests. Which brings us to the conclusion that those standardised tests, especially those designed for humans, aren't a reliable metric of something intrinsic rather than a specific knowledge learning.
 
 +
 
