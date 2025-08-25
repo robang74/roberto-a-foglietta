@@ -705,7 +705,7 @@ Despite the fact that they are still so dumb, it is impressive how they can outp
 ## Another popular superstition debunked
 
 [!INFO]
-21th August 2025 -- Studying philosophy does make people better thinkers, according to new research on more than 600,000 college grads -- [lnkd.in/d4X6re4M](https://lnkd.in/d4X6re4M)
+21th August 2025 -- Studying philosophy does make people better thinkers, according to new research on more than 600,000 college grads -- [The Conversarsation](https://theconversation.com/studying-philosophy-does-make-people-better-thinkers-according-to-new-research-on-more-than-600-000-college-grads-262681)
 
 After freshman year, philosophy majors consistently scored higher on verbal and logical reasoning tests and reported better cognitive habits than students in other majors. This suggests that the study of philosophy may contribute to the development of these intellectual skills rather than simply attracting people who already possess them.
 [/INFO]
@@ -726,7 +726,7 @@ So, unless rhetorical debating is the ONLY activity, philosophy alone can provid
 
 Surprised? Not convinced? Read all the manuals you like about how to handle a sword and then try to do some high-technical moves with a sharp katana, and let us know how it went... 😁
 
-Continue the reading here: [lnkd.in/dEWnAKri](https://lnkd.in/dEWnAKri)
+Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3e6f) with Gemini, or its [transcription](#TODO).
 
 +
 
