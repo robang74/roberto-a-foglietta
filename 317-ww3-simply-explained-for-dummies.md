@@ -9,7 +9,7 @@
 
 - **2nd** edition includes deeper [insight](#the-worst-democracy-is-better-than-the-best-dictatorship) about psychological warfare and memes.
 
-- **3rd** edition includes a quick [recap](#quick-recap-from-1991-and-2022) from Soviet Union collapse (1991) and the Ukraine's war (2022).
+- **3rd** edition includes a brief [recap](#quick-recap-from-1991-and-2022) from Soviet Union collapse (1991) to the Ukraine's war (2022).
 
 ---
 
@@ -658,13 +658,15 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 +++++
 ++++
 
-### Quick recap from 1991 and 2022
+### A brief recap from 1991 to 2022
 
-This is a quick recap from the dissolution of the Soviet Union (1991) to the start of the war in Ukraine (2022). The chance of this recap has been a conversation with Grok on X social, [here](https://x.com/robang74v2/status/1960035977562636291).
+This is a quick recap from the dissolution of the Soviet Union (1991) to the start of the war in Ukraine (2022). It started as a [conversation](https://x.com/robang74v2/status/1960035977562636291) with Grok on X social, initially about the Budapest Memorandum (1994) which, by reference, is also a series of diplomatic and political memos (1993-1996) before and after it.
 
-The end of the conversation is quite brutal and shows when a party is strongly convinced of their moral superiority forcing the other party to reciprocity, just to show them what would be inverting the roles.
+The end of the conversation is quite brutal. Grok refused to answer at the "no-winner game" question, which is the ultimate question everyone should pose to oversee the consequences of the relativism as ideology.
 
-Roles inversion (aka reciprocity) is a well-known last-resort way to educate reckless youngsters who did not develop the listening skills enough for a mature conversation on which a sane education path is based -- as well as diplomacy.
+Or better, it shows the final outcome of an argument in which a party is strongly convinced of their moral superiority (or being right, whatever) forcing the other party to reciprocity, just to show them what would be inverting the roles.
+
+The role inversion (aka reciprocity) is a well-known last-resort way to educate reckless youngsters who did not develop the listening skills enough for a mature conversation on which a sane education path is based -- as well as diplomacy.
 
 ...
 
@@ -705,12 +707,12 @@ At this "*no-winner game*" question, Grok did not answered and remained in silen
 ## Related articles
 
 - [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
-
++++++
 - [La creatività è l'intelligenza che si diverte](327-la-creativita-e-l-intelligenza-che-si-diverte.md#?target=_blank) &nbsp; (2025-06-22)
-
++++++
 - [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
 
-+
++++++
 
 ## Share alike
 
