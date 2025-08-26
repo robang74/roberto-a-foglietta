@@ -660,7 +660,7 @@ Under our noses the *last conspiracy theory* is going to reveal a truth, but we 
 
 ### A brief recap from 1991 to 2022
 
-This is a quick recap from the dissolution of the Soviet Union (1991) to the start of the war in Ukraine (2022). It started as a [conversation](https://x.com/robang74v2/status/1960035977562636291) with Grok on X social, initially about the Budapest Memorandum (1994) which, by reference, is also a series of diplomatic and political memos (1993-1996) before and after it.
+This is a brief recap from the dissolution of the Soviet Union (1991) to the start of the war in Ukraine (2022). It started as a [conversation](https://x.com/robang74v2/status/1960035977562636291) with Grok on X social, initially about the Budapest Memorandum (1994) which, by reference, is also a series of diplomatic and political memos (1993-1996) before and after it.
 
 The end of the conversation is quite brutal. Grok refused to answer at the "no-winner game" question, which is the ultimate question everyone should pose to oversee the consequences of the relativism as ideology.
 
