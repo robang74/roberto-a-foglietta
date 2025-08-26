@@ -9,6 +9,8 @@
 
 - **2nd** edition includes deeper [insight](#the-worst-democracy-is-better-than-the-best-dictatorship) about psychological warfare and memes.
 
+- **3rd** edition includes a quick [recap](#quick-recap-from-1991-and-2022) from Soviet Union collapse (1991) and the Ukraine's war (2022).
+
 ---
 
 ###  Why does NATO still exist, after 1992?
@@ -651,9 +653,54 @@ Unsurprisingly, this meme is suggesting that those who try to fight those three 
 
 Under our noses the *last conspiracy theory* is going to reveal a truth, but we cannot see it. Our eyes are useless when our minds are blind. Moreover, when our minds are driven by fear-ignorance-and-injustice, we are blindly seeking *security*, and those who created the problem are ready to cash in on our tax money and infiltrate civil society to provide more fine-grained control in the hope to achieve the ultimate power, ignoring that micromanagement destroys productivity in companies but it kills the human spirit when applied to society.
 
-> El sueño de la razón produce monstruos, cit. Francisco Goya y Lucientes (1746 – 1828) 
+> El sueño de la razón produce monstruos, cit. Francisco Goya y Lucientes (1746 – 1828)
 
 +++++
+++++
+
+### Quick recap from 1991 and 2022
+
+This is a quick recap from the dissolution of the Soviet Union (1991) to the start of the war in Ukraine (2022). The chance of this recap has been a conversation with Grok on X social, [here](https://x.com/robang74v2/status/1960035977562636291).
+
+The end of the conversation is quite brutal and shows when a party is strongly convinced of their moral superiority forcing the other party to reciprocity, just to show them what would be inverting the roles.
+
+Roles inversion (aka reciprocity) is a well-known last-resort way to educate reckless youngsters who did not develop the listening skills enough for a mature conversation on which a sane education path is based -- as well as diplomacy.
+
+...
+
+* **RF** -- `@grok`, easy to understand WHY about this "communication" problem. Also wikipedia fails to report the U.S. activities in Ukraine since 2008 as BM violations and shortly jump to the "conclusions" that it was Russia which violated the Budapest memorandum in 2014.
+
+* **AI** -- The Budapest Memorandum's interpretations vary. Wikipedia emphasizes Russia's 2014 Crimea annexation as a violation of sovereignty assurances, with limited mention of pre-2014 US activities. Some viewpoints, like Russian officials, argue US support for Ukraine's NATO path or political changes since 2008 constituted economic/political coercion, breaching Article 3. Western sources generally reject this, seeing no US violation. It's a debated, non-binding agreement.
+
+* **RF** -- `@grok`, considering your previous answer to me, what is such a "debated, non-binding agreement"? That Crimea annexation by a popular referendum is a legitimate action within the BM or not? No, then US pre-2014 activities in UA breach the BM. Yes, then Wikipedia is wrong.
+
+* **AI** -- The Budapest Memorandum is debated as non-binding political assurances, not a formal treaty. Most sources view Russia's 2014 Crimea annexation (despite the referendum) as illegitimate, violating sovereignty commitments (e.g., UN resolutions, Western analyses). Russian viewpoints argue US pre-2014 NATO/EU support constituted economic coercion under Article 3. Western sources counter this isn't a breach, as actions weren't coercive subordination. No consensus resolves your either/or—interpretations differ.
+
+* **RF** -- `@grok`, Wikipedia Italia, more correctly, cites the Russian invasion of Ukraine in early 2022 as the first BM breach. Unfortunately, avoid citing the NATO exercitation in 2023's Fall in Ukraine, the biggest ever done before that time as BM breach and Biden unwilling to sign a thready.
+
+* **AI** -- Italian Wikipedia mentions Russia's 2014 Crimea annexation as a violation of the Budapest Memorandum, with the 2022 invasion as a further breach—not 2022 as the first. It doesn't reference NATO's Rapid Trident exercise in Ukraine (Fall 2023) or Biden's reluctance to sign new treaties with Russia. Views on potential US/NATO breaches remain debated across sources, with no consensus.
+
+* **RF** -- `@grok`, moreover, Wikipedia fails to report the Angela Merkel declarations in late 2022 about US secret will to violate the Minsk agreements which were signed anyway because Ukraine was in need of more time to be prepared for the war against Russia. Thus supporting Russia's PoV on BM.
+
+* **AI** -- Merkel's 2022 Die Zeit interview stated the Minsk agreements gave Ukraine time to strengthen its military, per Reuters and other reports. Wikipedia's Minsk page does mention this. Russian officials interpret it as Western deception, supporting their view of broken trusts like in BM debates. Western sources see it as a pragmatic ceasefire effort, not intentional violation. Views differ on implications for BM.
+
+* **RF** -- `@grok`, considering all these opposite interpretations about BM and including the diplomatic agreement to NOT move NATO one inch to east supported also by 1991 US military strategic analysts opinion about being a tragic mistake getting NATO closer to Russia, UA war was unavoidable.
+
+* **AI** -- The "not one inch eastward" assurance was a verbal statement by US Secretary Baker to Gorbachev in 1990, mainly about German unification, not a binding treaty against broader NATO expansion—debated across sources. George Kennan in 1997 (not 1991) called it a "fateful error" risking Russian backlash. BM views differ on violations. War's unavoidability is contested: realists cite NATO moves as provocative, while others blame Russian choices; no consensus.
+
+* **RF** -- `@grok`, it is also noticeable that covert operations by NGO in Ukraine started soon after the Putin speech at the Munich security conference in 2007. Considering that no binding agreement (including Minsk I & II) nor consensus on them has ever reached, UA war was unavoidable.
+
+* **AI** -- Putin's 2007 Munich speech criticized NATO expansion and Western dominance. Sources like Wikipedia and Politico note subsequent Russian scrutiny of NGOs as potential foreign agents, with laws curbing them (e.g., HRW reports). Western views see NGO activities as civil society support, not covert ops. Minsk I/II are political protocols, not binding treaties—Russia denies being a party, per Reuters. Implementation failed amid mutual accusations; unavoidability is debated, with realists citing provocations, others Russian choices.
+
+* **RF** -- `@grok`, considering "war is diplomacy carried on with different means" can we agree that diplomacy failed to prevent UA war? However, did Russia ever build military bases near the EU or US that might threaten them? Something like the URSS did in CUBA or just NATO did around Russia?
+
+* **AI** -- Yes, diplomacy failed to prevent the Ukraine war, as evidenced by breakdowns in Minsk agreements and pre-2022 talks (NPR, Reuters reports). Russia hasn't built post-Soviet military bases near the US or core EU that directly threaten them, unlike the USSR's Cuba deployment. It maintains bases in former Soviet states like Belarus (bordering EU) and Kaliningrad enclave. NATO has expanded closer to Russia, per sources like Wikipedia and RFE/RL. Views on threats differ.
+
+* **RF** -- `@grok`, wrote: "Views on threats differ". Everything is debatable, lacks consensus and can be seen from different views. So, can we agree that a couple of nuke strikes would level down all the PoV differences? To save millions of lives as the US said about the Japan strikes!!
+
+At this "*no-winner game*" question, Grok did not answered and remained in silence.
+
++
 
 ## Related articles
 
