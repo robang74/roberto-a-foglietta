@@ -167,7 +167,7 @@ Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. 
 <span id="aggiornamento-4"></span>
 ## Aggiornamento 2025-07-29
 
-Questa sezione sulla follia del greenwashing spiegata è stata inclusa qui, incorporando un mio post pubblicato su [LinkedIn]((https://www.linkedin.com/posts/robertofoglietta_la-follia-del-greenwashing-spiegata-facile-activity-7356061927753629698-YY2l) e [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162127120048736) del 29 luglio 2025.
+Questa sezione sulla follia del greenwashing spiegata è stata inclusa qui, incorporando un mio post pubblicato su [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_la-follia-del-greenwashing-spiegata-facile-activity-7356061927753629698-YY2l) e [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162127120048736) del 29 luglio 2025.
 
 ---
 
