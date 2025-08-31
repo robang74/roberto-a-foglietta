@@ -148,7 +148,7 @@ Perché dividendo il rischio e gli utili non si va di certo ad installare dove s
 
 Una parte ci mette l'asset immobiliare (comodato d'uso) e l'altra parte ci mette l'impianto, la manutenzione, la gestione della filiera e lo smaltimento. Sul grande numero di installazioni ci si auto-assicura, cioè in proprio senza necessariamente rivolgersi a terzi. Ciò non significa che si debba fare tutto internamente. Come ogni ditta seria hanno sicuramente affrontato il dilemma do-or-buy rispetto a diversi aspetti operativi. 
 
-Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. Perché l'azienda di riferimento per il marketing & sales, si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica. Mentre le installazioni sono affidate a degli impiantisti indipendenti, prevalentemente assistiti dalla rete dei loro CAT, così come fanno molte aziende fra le quali Elvox e Vimar.
+Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. Perché l'azienda di riferimento che fa il marketing & sales, si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica. Mentre le installazioni sono affidate a degli impiantisti indipendenti, prevalentemente assistiti dalla rete dei loro CAT, così come fanno molte aziende fra le quali Elvox e Vimar.
 
 **Conclusione**: ogni offerta a privati senza ROI sharing è caccia aperta agli sprovveduti.
 
