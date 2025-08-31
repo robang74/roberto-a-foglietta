@@ -150,9 +150,9 @@ Una parte ci mette l'asset immobiliare (comodato d'uso) e l'altra parte ci mette
 
 Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. Perché l'azienda di riferimento che fa il marketing & sales, si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica. Mentre le installazioni sono affidate a degli impiantisti indipendenti, prevalentemente assistiti dalla rete dei loro CAT, così come fanno molte aziende fra le quali Elvox e Vimar.
 
-**Conclusione**: ogni offerta a privati senza ROI sharing è caccia aperta agli sprovveduti.
+**Conclusione**: ogni offerta a privati priva di ROI sharing è caccia aperta agli sprovveduti.
 
-+
++++++
 
 ## Related articles
 
