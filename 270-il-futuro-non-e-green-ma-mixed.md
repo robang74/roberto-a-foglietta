@@ -49,7 +49,8 @@ In generale, anche questo caso ci dimostra come sia deleterio per l'Occidente av
 
 +
 
-### Aggiornamento #1
+<span id="aggiornamento-1"></span>
+## Aggiornamento 2024-09-12
 
 Gli USA sarebbero in ginocchio senza le forniture di combustibile nucleare da parte di Rosatom (Russia).
 
@@ -67,7 +68,8 @@ Ciò significa che gli Stati Uniti non hanno abbastanza centrifughe per arricchi
 
 +
 
-### Aggiornamento #2
+<span id="aggiornamento-2"></span>
+## Aggiornamento 2025-07-10
 
 [!INFO]
 **7 luglio 2025** -- Il metano, seppur in concentrazioni molto minori nell’atmosfera rispetto all’anidride carbonica, ha una capacità molto più alta di assorbire e trattenere il calore, contribuendo maggiormente all'effetto serra. Ridurne le emissioni, o la concentrazione in atmosfera, è pure più facile. <!-- Il Post https://www.ilpost.it/2025/07/07/metano-effetto-serra questo articolo è complessivamente un collage di vaccate ideologiche, per capirlo basta vedere come ho dovuto riscrivere la frase sopra: l'effetto serra è un questione, il riscaldamento globale un'altra questione sebbene correlata all'effetto serra ma non solo, infine il cambiamento climatico è ancora un'altra questione sebbene collegate alle prime due ma non nella maniera intituiva che si penserebbe piuttosto fenomeni metereologici (incluso freddo) più intensi e stagioni meno regolari. //-->
@@ -102,6 +104,33 @@ In Italia, ci sono circa 40 milioni di automobili in circolazione. Questo dato i
 [/INFO]
 
 Buona fortuna a chi pensa di poter gestire la transizione energetica in questo modo, con le ideologie piuttosto che con scienza, tecnica e senso della realtà!
+
++
+
+<span id="aggiornamento-3"></span>
+## Aggiornamento 2025-08-31
+
+<div align="center"><img class="wbsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-004.jpg"><br/></div>
+
+Il fotovoltaico é buono? la tecnologia di per se stessa non è malvagia, e il modello "Tetto d'Oro" della Beghelli era ottimo però NON si prestava ad un mercato selvaggio e in italia "liberalizzare" un mercato come quello degli installatori garantisce tanti voti, rendimenti bancari (già) e smaltimento rifiuti alla mafia & co.
+
+Vediamo di fare un po' di chiarezza:
+
+1. - le fonti sono rinnovabili ma l'estrazione di energia da quelle fonti NON è rinnovabile infatti le pale eoliche e pannelli solari NON durano in eterno e non sono riciclabili se non in misura minima, oltre alle attività di manutenzione anch'esse NON rinnovabili nel senso che si vorrebbe intendere;
+
+2. - le fonti rinnovabili quali vento e sole, non provvedono al baseload in quanto variabili. Le c.d. "smart grid" non compensano ma introducono rischi di instabilità sistemica e di sicurezza nazionale perché più è sofistica un sistema e più è vulnerabile. Energy storage? Reactivity nightmare!
+
+Quindi già in partenza questo fenomeno era affetto da "fuffa marketing" che faceva leva sull'ignoranza e sul dilagare dell'analfabetismo funzionale e antiscientismo. Così siamo arrivati all'assurdo, come in Germania, di spegnere le centrali nucleari. O come in Francia di fermare gli impianti di autofertilizzazione.
+
+Risultato? La potenza installata delle "rinnovabili" ha portato il sistema fuori equilibrio. Una rete critica, diventa un obiettivo strategico. Centinaia di miliardi per avere i blackout e un costo dell'energia insostenibile. CO2 ai massimi.
+
+Però la transizione ecologica è il futuro, non ci sono altre strade per la sopravvivenza dell'umanità. Concordo, e in ultima analisi significa ritornare al nucleare. Ma giacché ritornare al nucleare, in modo più consapevole a anche tecnologicamente più avanzato quindi più sostenibile, non è un obiettivo possibile nell'immediato, il futuro a breve termine non è green ma mixed. -- lnkd.in/ddq2Phme
+
+D'altronde il green è morto, ed è morto proprio quando la sua massiccia adozione, costata centinaia di miliardi, ha messo il sistema energetico in uno stato di instabilità. Per una ragione tanto banale quanto inevitabile: le fonti di energia variabili non possono supplire al baseload che quindi deve essere sostenuto con altre fonti e quelle variabili devono essere compensate con quelle modulabili (per esempio il gas naturale).
+
+Così si è creato un sistema energetico che si appoggia, come fosse uno sgabello, su tre gambe (quindi tre costi) ma produce un massimo di due di energia. Quindi costa almeno 50% in più (in realtà un botto di più perché il rapporto fra potenza nominale e produzione media è relativamente molto basso) ed è comunque sbilanciato sulla potenza reattiva.
+
+**Soluzione**: niente incentivi, filiera certificata e ROI verificabile.
 
 +
 
