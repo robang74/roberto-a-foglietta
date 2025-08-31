@@ -134,15 +134,23 @@ Così si è creato un sistema energetico che si appoggia, come fosse uno sgabell
 
 ---
 
-### Tetto d'Oro di Beghelli
+### Perché il solare è greenwashing?
 
-Già 15 anni fa alla Beghelli. avevano capito tutto. O per lo meno quello che serviva sapere. Incluso che i clienti **non** erano qualificati per quel mercato.
+Perché anche l'offerta di pannelli solari ai piccoli clienti privati si tratta di greenwashing, che pure sarebbe il mercato di nicchia in cui davvero tali installazioni dovrebbero rimanere ristrette salvo casi particolari?
+
+Fondamentalmente perché varie ragioni che però rientrano in un unico indirizzo: sovrastimare i benefici e ignorare l'impatto ecologico. Per esempio, si conteggia con ottimismo la riduzione delle emissioni di CO2 (ammesso che la CO2 sia un driver del cambiamento climatico piuttosto che un indicatore) per quanto riguarda la produzione di energia ma si trascura completamente le emissioni di CO2 (e altri fattori inquinanti rilevanti) relative all'estrazione delle materie prime, al loro trasporto, alla produzione, al trasporto del prodotto, all'installazione, alla manutenzione e infine alla dismissione che sono tutti processi ecologicamente impattanti dove i materiali di scarto, risulta e da dismettere **non** sono riciclabili se non in misura minima e questo vale anche per le pale eoliche.
+
+In buona sostanza di veramente green non c'è nemmeno il flyer promozionale stampato. Certamente non la filiera nella sua totalità. Anche per questa ragione le c.d. energie rinnovabili non meritano incentivi e sussidi ma di essere lasciate alla mera convenienza del libero mercato dove il pubblico, eventualmente, impone dei criteri (filiera certificata e ROI verificabile) a tutela degli acquirenti, ammesso che siano capaci di leggere quei dati anche qualora fossero pubblici, verificabili in maniera indipendente e quindi corretti.
+
+---
+
+### Tetto d'Oro di Beghelli
 
 [!INFO]
 La campagna pubblicitaria per "Il Tetto d'Oro" ("acqualuce") è iniziata a dicembre 2010. Si trattava di un progetto del Gruppo Beghelli che integrava in un unico impianto moduli fotovoltaici e termici, come indicato da ADC Group.
 [/INFO]
 
-I privati potevano candidare il proprio tetto o qualunque superficie che pensava potesse ospitare tale impianto. Mentre Beghelli faceva tutto il resto e si spartivano rischi e rendimento. Il portava Beghelli a rifiutare più proposte di quanto non ne accettassero.
+Già 15 anni fa alla Beghelli. avevano capito tutto. O per lo meno quello che serviva sapere. Incluso che i clienti **non** erano qualificati per quel mercato. I privati potevano candidare il proprio tetto o qualunque superficie che pensava potesse ospitare tale impianto. Mentre Beghelli faceva tutto il resto e si spartivano rischi e rendimento. Il portava Beghelli a rifiutare più proposte di quanto non ne accettassero.
 
 Perché dividendo il rischio e gli utili non si va di certo ad installare dove si stima di non ottenere un ritorno sufficiente: ROI diminuito di fattore di rischio, oltre ad altri fattori che riducono oppure alzano il valore base di riferimento, ovviamente.
 
@@ -152,7 +160,7 @@ Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. 
 
 **Conclusione**: ogni offerta a privati priva di ROI sharing è caccia aperta agli sprovveduti.
 
-+++++
++
 
 ## Related articles
 
