@@ -132,24 +132,40 @@ Così si è creato un sistema energetico che si appoggia, come fosse uno sgabell
 
 **Soluzione**: niente incentivi, filiera certificata e ROI verificabile.
 
+---
+
+### Tetto d'Oro di Beghelli
+
+Già 15 anni fa alla Beghelli. avevano capito tutto. O per lo meno quello che serviva sapere. Incluso che i clienti **non** erano qualificati per quel mercato.
+
+[!INFO]
+La campagna pubblicitaria per "Il Tetto d'Oro" ("acqualuce") è iniziata a dicembre 2010. Si trattava di un progetto del Gruppo Beghelli che integrava in un unico impianto moduli fotovoltaici e termici, come indicato da ADC Group.
+[/INFO]
+
+I privati potevano candidare il proprio tetto o qualunque superficie che pensava potesse ospitare tale impianto. Loro facevano tutto il resto e spartivano rischi e rendimento. Il che li portava a rifiutare più proposte di quanto non ne accettassero perché dividendo il rischio e gli utili non andavano ad installare dove sapevano che non avrebbero ottenuto un ritorno sufficiente (ROI diminuito di fattore di rischio, ovviamente altri fattori che ne potevano ridurre o alzare il valore base di riferimento).
+
+Una parte ci metteva l'asset immobiliare (comodato d'uso) e l'altra parte ci metteva l'impianto, la manutenzione, la gestione della filiera e lo smaltimento, e ovviamente si auto-assicurava perché sul grande numero poteva gestiva il rischio in proprio senza necessariamente rivolgersi a terzi.
+
+**Conclusione**: ogni offerta a privati senza ROI sharing è caccia aperta agli sprovveduti.
+
 +
 
 ## Related articles
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md) &nbsp; (2025-06-13)
-
++++++
 - [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md) &nbsp; (2025-06-07)
-
++++++
 - [Mr. Spock about financial capitalis](308-mr-spock-about-finantial-capitalism.md) &nbsp; (2025-04-17)
-
++++++
 - [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md) &nbsp; (2025-03-07)
-
++++++
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md) &nbsp; (2024-12-14)
-
++++++
 - [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md) &nbsp; (2024-07-31)
-
++++++
 - [Riciclo di rifuti pregiati](239-riciclo-di-rifiuti-pregiati.md) &nbsp; (2024-01-23)
-
++++++
 - [Opinions, data and method](016-opinions-data-and-method.md) &nbsp; (2016-09-03)
 
 +
