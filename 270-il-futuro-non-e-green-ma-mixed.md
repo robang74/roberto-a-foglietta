@@ -7,6 +7,8 @@
 
 * Published Jul 2, 2024 -- origin [Linkedin](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) -- Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_il-futuro-non-%C3%A8-green-ma-mixed-28-giugno-activity-7213681543913889792-OgH8) pubblicato il 1° luglio 2024
 
+* **2nd edtion**, include una [sezione](#aggiornamento-3) rigaurdante gli impianti solari, e valutandone pros-vs-cons, ROI-vs-green.
+
 ---
 
 ### Introduzione
