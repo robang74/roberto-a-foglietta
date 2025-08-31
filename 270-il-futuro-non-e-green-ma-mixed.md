@@ -146,6 +146,8 @@ I privati potevano candidare il proprio tetto o qualunque superficie che pensava
 
 Una parte ci metteva l'asset immobiliare (comodato d'uso) e l'altra parte ci metteva l'impianto, la manutenzione, la gestione della filiera e lo smaltimento, e ovviamente si auto-assicurava perché sul grande numero poteva gestiva il rischio in proprio senza necessariamente rivolgersi a terzi.
 
+Ciò non significa che si debba fare tutto internamente. Come ogni ditta seria avranno sicuramente affrontato il dilemma do-or-buy rispetto a diversi aspetti operativi. Quindi anche in questo modello di business ci si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica e naturalmente le installazioni sono demandate a degli impiantisti indipendenti prevalentemente assistiti dalla rete dei loro CAT, così come hanno sempre fatto anche aziende tipo Elvox e Vimar.
+
 **Conclusione**: ogni offerta a privati senza ROI sharing è caccia aperta agli sprovveduti.
 
 +
