@@ -142,11 +142,13 @@ Già 15 anni fa alla Beghelli. avevano capito tutto. O per lo meno quello che se
 La campagna pubblicitaria per "Il Tetto d'Oro" ("acqualuce") è iniziata a dicembre 2010. Si trattava di un progetto del Gruppo Beghelli che integrava in un unico impianto moduli fotovoltaici e termici, come indicato da ADC Group.
 [/INFO]
 
-I privati potevano candidare il proprio tetto o qualunque superficie che pensava potesse ospitare tale impianto. Loro facevano tutto il resto e spartivano rischi e rendimento. Il che li portava a rifiutare più proposte di quanto non ne accettassero perché dividendo il rischio e gli utili non andavano ad installare dove sapevano che non avrebbero ottenuto un ritorno sufficiente (ROI diminuito di fattore di rischio, ovviamente altri fattori che ne potevano ridurre o alzare il valore base di riferimento).
+I privati potevano candidare il proprio tetto o qualunque superficie che pensava potesse ospitare tale impianto. Mentre Beghelli faceva tutto il resto e si spartivano rischi e rendimento. Il portava Beghelli a rifiutare più proposte di quanto non ne accettassero.
 
-Una parte ci metteva l'asset immobiliare (comodato d'uso) e l'altra parte ci metteva l'impianto, la manutenzione, la gestione della filiera e lo smaltimento, e ovviamente si auto-assicurava perché sul grande numero poteva gestiva il rischio in proprio senza necessariamente rivolgersi a terzi.
+Perché dividendo il rischio e gli utili non si va di certo ad installare dove si stima di non ottenere un ritorno sufficiente: ROI diminuito di fattore di rischio, oltre ad altri fattori che riducono oppure alzano il valore base di riferimento, ovviamente.
 
-Ciò non significa che si debba fare tutto internamente. Come ogni ditta seria avranno sicuramente affrontato il dilemma do-or-buy rispetto a diversi aspetti operativi. Quindi anche in questo modello di business ci si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica e naturalmente le installazioni sono demandate a degli impiantisti indipendenti prevalentemente assistiti dalla rete dei loro CAT, così come hanno sempre fatto anche aziende tipo Elvox e Vimar.
+Una parte ci mette l'asset immobiliare (comodato d'uso) e l'altra parte ci mette l'impianto, la manutenzione, la gestione della filiera e lo smaltimento. Sul grande numero di installazioni ci si auto-assicura, cioè in proprio senza necessariamente rivolgersi a terzi. Ciò non significa che si debba fare tutto internamente. Come ogni ditta seria hanno sicuramente affrontato il dilemma do-or-buy rispetto a diversi aspetti operativi. 
+
+Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. Perché l'azienda di riferimento per il marketing & sales, si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica. Mentre le installazioni sono affidate a degli impiantisti indipendenti, prevalentemente assistiti dalla rete dei loro CAT, così come fanno molte aziende fra le quali Elvox e Vimar.
 
 **Conclusione**: ogni offerta a privati senza ROI sharing è caccia aperta agli sprovveduti.
 
