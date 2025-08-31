@@ -1,13 +1,13 @@
 <div id="firstdiv" created="2024-07-02:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="wbsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-001.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-001.jpg"><br/></div>
 
 ## Il futuro non è green ma mixed
 
 * Published Jul 2, 2024 -- origin [Linkedin](https://www.linkedin.com/pulse/il-futuro-non-%25C3%25A8-green-ma-mixed-roberto-a-foglietta-bw5df) -- Articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_il-futuro-non-%C3%A8-green-ma-mixed-28-giugno-activity-7213681543913889792-OgH8) pubblicato il 1° luglio 2024
-
 * **2nd edtion**, include una [sezione](#aggiornamento-3) rigaurdante gli impianti solari, e valutandone pros-vs-cons, ROI-vs-green.
+* **3rd edtion**, include una [sezione](#aggiornamento-4) sulla follia del greenwashing spiegata facile (e l'instabilità di rete).
 
 ---
 
@@ -31,7 +31,7 @@ Il problema del lobbying attuale è la mancanza di pragmatismo che viene dal com
 
 In un contesto del genere (cfr. link e mappa qui sotto), in assenza un meccanismo di compensazione, il prezzo dell'energia spot varia dai €3 della Francia ai quasi €500 della Germania, non è l'industria oil & gas a vincere ma la EDF.
 
-<div align="center"><img class="darkinv" src="img/270-il-futuro-non-e-green-ma-mixed-img-002.png"><br/></div>
+<div align="center"><img class="bwsketch darkinv" src="img/270-il-futuro-non-e-green-ma-mixed-img-002.png"><br/></div>
 
 Si dovrebbe convincere la Francia a suicidarsi sul nucleare cosa che per altro gli USA hanno fatto con Macron che ha chiuso gli impianti di auto- fertilizzazione.
 
@@ -112,7 +112,7 @@ Buona fortuna a chi pensa di poter gestire la transizione energetica in questo m
 <span id="aggiornamento-3"></span>
 ## Aggiornamento 2025-08-31
 
-<div align="center"><img class="wbsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-004.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/270-il-futuro-non-e-green-ma-mixed-img-004.jpg"><br/></div>
 
 Il fotovoltaico é buono? la tecnologia di per se stessa non è malvagia, e il modello "Tetto d'Oro" della Beghelli era ottimo però NON si prestava ad un mercato selvaggio e in italia "liberalizzare" un mercato come quello degli installatori garantisce tanti voti, rendimenti bancari (già) e smaltimento rifiuti alla mafia & co.
 
@@ -161,6 +161,41 @@ Una parte ci mette l'asset immobiliare (comodato d'uso) e l'altra parte ci mette
 Quindi anche con questo modello di business, si lavora bene anche meglio, anzi. Perché l'azienda di riferimento che fa il marketing & sales, si affida ad una cerchia di fornitori di fiducia, rapporti stabili con aziende della logistica. Mentre le installazioni sono affidate a degli impiantisti indipendenti, prevalentemente assistiti dalla rete dei loro CAT, così come fanno molte aziende fra le quali Elvox e Vimar.
 
 **Conclusione**: ogni offerta a privati priva di ROI sharing è caccia aperta agli sprovveduti.
+
++
+
+<span id="aggiornamento-4"></span>
+## Aggiornamento 2025-07-29
+
+Questa sezione sulla follia del greenwashing spiegata è stata inclusa qui, incorporando un mio post pubblicato su [LinkedIn]((https://www.linkedin.com/posts/robertofoglietta_la-follia-del-greenwashing-spiegata-facile-activity-7356061927753629698-YY2l)) e [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10162127120048736) del 29 luglio 2025.
+
+---
+
+### La follia del greenwashing
+
+Le fonti variabili (perché questo sono le fonti alternative come solare e eolico) sono sul totale: 22.1% + 15.8% + 0.5% = 38.4%. Quanto è il baseload il carico di rete, quello fisso che sia notte o senza vento? Sicuramente nucleare e carbone che sono le due fonti stabili ma poco modulabili: 21.8% + 6.1% e per essere magnanimi ci mettiamo pure 1/2 dell'idroelettrico 6.4% quindi 34.3%.
+
+<div align="center"><img class="bwsketch paleinv" src="img/270-il-futuro-non-e-green-ma-mixed-img-005.jpg"><br/></div>
+
+Quindi riassumendo, abbiamo:
+
+- variabili: 38.4%
+- modulabili: 27.3%
+- base-load: 34.3%
+
+Una considerazione prima di tutte, le modulabili devono essere ALMENO quanto le variabili perché se queste vanno a zero, le modulabili suppliscono. Questo in termini di capacità produttiva media annuo reale.
+
+Si potrebbe dire che quando sono "accese" le variabili producono "tanta" energia e quindi le modulabili conteggiano poco nella produzione. Questo significa che abbiamo un'enorme capacità variabile installata che però in media lavoro "poco" (quando è possibile) e una buona capacità modulabile installata che però lavora "poco" (per supplire). Questo in economia si chiama spreco.
+
+Poi se le variabili fanno davvero le bizze, allora le modulabili non compensano e si va in black-out. Quindi se il baseload è 1/3, anche le altre due e le variabili sono un di più. 
+
+Sono un di più perché anche un mix bilanciato 1/3, 1/3 e 1/3, significa che consumiamo 2 ma abbiamo potenza installata per 3 però non possiamo MAI consumare 3 quando vogliamo ma al massimo sempre 2. Come fa ad essere green una soluzione che da un punto di vista economico implica uno spreco dell'installato del 33%. 
+
+Però sono green e non producono CO2, intanto il metano fa più danno della CO2, molto di più. Con la guerra in Ucraina, abbiamo perdite di metano 10 volte superiori a prima e infatti del satellite da €83 milioni (pagato da Jeff Bezos) che serviva per monitorare queste emissioni che impattano anche 84 volte la CO2 (per tonnellata) è "scomparso" sopra la Norvegia quindi prima che sorvolasse la Siberia (scioglimento del permafrost?).
+
+La filiera di manutenzione, di produzione, di installazione, di smantellamento e dismissione NON sono green per una fava. Allora di cosa stiamo parlando? Nulla, ideologia greenwashing bella e buona per installare fuori dal piano energetico nazionale potenza per il 33% in più mandando fuori mercato le fonti che invece non ricevono sovvenzioni a pioggia dalla politica.
+
+Qualche parco eolico nel Mar Baltico rende bene, tipo quello di proprietà della Corona Inglese. Ma sono eccezioni.
 
 +
 
