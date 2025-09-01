@@ -180,9 +180,10 @@ In which year and who was the US president when Congress approved the bill that 
 
 All the chatbots that I have tried, up to now, failed to find what I was searching for (and now I have to search in archives). Curiously this question blocked Grok while its second try showed two chinese ideograms which the meaning and position is quite interesting (cfr. image): 禁止 = forbidden.
 
-- [x.com/i/grok/share/n3YXkGOcsPyKoJh7qEZ0Hiyz5](https://x.com/i/grok/share/n3YXkGOcsPyKoJh7qEZ0Hiyz5)
+<div align="center"><img class="wbsketch paleinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-003.png"><br/></div>
+- International Emergency Economic Powers Act (50 U.S.C. § 1705), [not terrorism 禁止](https://x.com/i/grok/share/n3YXkGOcsPyKoJh7qEZ0Hiyz5)
 
-Why is it forbidden (禁止) to talk about this stuff (cfr. image)?
+#### Why is it forbidden (禁止) to talk about this topic?
 
 Technically speaking it is about the Biden presidency long list of pardons issued, including Hunter Biden (his son) who was involved in various operations in Ukraine including supposedly bioweapons laboratories. Once the pardon has been issued all those articles aren't anymore indexed and have been removed but they still exist in library archives and Chinese forensic copies archives.
 
@@ -193,13 +194,13 @@ Technically speaking it is about the Biden presidency long list of pardons issue
 
 So, what was the available information prior that time?
 
-- [lnkd.in/dJ2u_TVm](https://lnkd.in/dJ2u_TVm)
+- [War damages and sanctions losses](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20damages%20and%20sanctions%20losses,-War%20damages%20and)
 
-- [lnkd.in/daNg6Qfs](https://lnkd.in/daNg6Qfs)
+- [War Damages and Sanctions Losses: 7/10](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20Damages%20and%20Sanctions%20Losses,-%3A%207/10)
 
 Which clearly indicates that the war damages were more plausible to be paid by the USA rather than Europe. The Trump presidency flipped and pushed all the liabilities over the EU leaders, letting them free to be proud of what they did in a public conference show.
 
-- [lnkd.in/dAdNjPp3](https://lnkd.in/dAdNjPp3)
+- [lIl castello di carte e il suo collasso](https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#il-castello-di-carte-e-il-suo-collasso)
 
 +
 
