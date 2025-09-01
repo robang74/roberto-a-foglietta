@@ -74,16 +74,14 @@ Dal verbale societario (CdA) di ottobre 2023 depositato dal notaio risultava un 
 #### Qual'è la storia di Bonifiche Ferraresi?
 
 [!INFO]
-Bonifiche Ferraresi è una società per azioni che è stata quotata all'MTA della Borsa Valori di Milano dal 1947 al 2017, quando è stata revocata in seguito al successo dell'OPAS lanciata da B.F. S.p.A. (già B.F. Holding S.p.A.) che dal 23 giugno 2017 è quotata alla Borsa Italiana. Bonifiche Ferraresi venne costituita in Inghilterra nel 1871 col nome di Ferrarese Land Reclamation Company Limited e aveva come oggetto sociale la "bonifica di laghi, nell'acquisto di paludi e terreni nelle vicinanze di Ferrara e in altre località del Regno d'Italia e nella costruzione o la compera di canali, corsi d'acqua, lavori d'irrigazione, moli, scali, ferrovie, strade, fabbricati e macchine locomotive". -- Wikipedia
+Bonifiche Ferraresi, sede principale Jolanda di Savoia (FE), è una società per azioni che è stata quotata all'MTA della Borsa Valori di Milano dal 1947 al 2017, quando è stata revocata in seguito al successo dell'OPAS lanciata da B.F. S.p.A. (già B.F. Holding S.p.A.) che dal 23 giugno 2017 è quotata alla Borsa Italiana. Bonifiche Ferraresi venne costituita in Inghilterra nel 1871 col nome di Ferrarese Land Reclamation Company Limited e aveva come oggetto sociale la "bonifica di laghi, nell'acquisto di paludi e terreni nelle vicinanze di Ferrara e in altre località del Regno d'Italia e nella costruzione o la compera di canali, corsi d'acqua, lavori d'irrigazione, moli, scali, ferrovie, strade, fabbricati e macchine locomotive". -- [Wikipedia](https://it.wikipedia.org/wiki/Bonifiche_Ferraresi)
 [/INFO]
 
 
 #### Chi sono i proprietari delle Bonifiche Ferraresi?
 
 [!INFO]
-Carlo De Benedetti ha il 14,7%, con quote inferiori sono presenti Fondazione Cassa di Risparmio di Lucca con il 7,1%, il gruppo autostradale Gavio, la famiglia piemontese Mondino, il gruppo Cremonini, l'imprenditrice Ornella Randi Federspiel. -- Google AI Overview
-
-
+Carlo [De Benedetti](https://it.wikipedia.org/wiki/Carlo_De_Benedetti) ha il 14,7%, con quote inferiori sono presenti Fondazione [Cassa di Risparmio di Lucca](https://en.wikipedia.org/wiki/Cassa_di_Risparmio_di_Lucca_Pisa_Livorno) con il 7,1%, il gruppo autostradale [Gavio](https://it.wikipedia.org/wiki/Marcello_Gavio), la famiglia piemontese Mondino, il [gruppo Cremonini](https://it.wikipedia.org/wiki/Gruppo_Cremonini), l'imprenditrice Ornella Randi Federspiel. -- Google AI Overview e Wikipedia per i link.
 [/INFO]
 
 #### Cosa fa Bonifiche Ferraresi?
