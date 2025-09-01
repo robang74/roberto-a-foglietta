@@ -123,7 +123,7 @@ La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di 
 
 ### La situazione nella striscia di Gaza
 
-<div align="center"><img class="wbsketch paleinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
+<div align="center"><img class="bwsketch darkinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
 
 Quante sono, in totale, le vittime, morti e feriti, fra i palestinesi a Gaza dalla crisi del 7 ottobre 2023?
 
