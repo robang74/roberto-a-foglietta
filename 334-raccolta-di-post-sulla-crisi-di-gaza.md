@@ -5,7 +5,7 @@
 
 ## Raccolta di post sulla crisi di Gaza
 
-- [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ) -- [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-) -- [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB) -- [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) -- [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)
+- [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ) -- [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-) -- [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB) &nbsp; (2023-11-14) -- [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) -- [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)
 
 > [!WARN]
 > 
@@ -63,7 +63,7 @@ Si noti che sullo sfondo c'è anche Antonio Tajani (ministro degli esteri), part
 
 Si noti, inoltre, che 36 mila ettari corrispondono a 360 km² esattamente quanto è esteso il territorio della striscia di Gaza. Solo una coincidenza, probabilmente, ma che ho notato perché in un altro post avevo calcolato quanto terreno era necessario rimuovere e/o processare a causa dell'inquinamento e/o contaminazione, portato inevitabilmente dall'aver sganciato in quella, relativamente piccola, regione ben 70 mila tonnellate di bombe.
 
-Bonifiche Ferraresi è anche la società di cui questo [post](https://lnkd.in/dcNC8QZy) su LinkedIn del 14 novembre 2023 quando il titolo si era impennato improvvisamente con un +410% ma visibile solo su Google Finance e oggi non più disponibile su quella piattaforma. Il post e il commento di aggiornamento contiene gli screenshot dell'epoca. Infatti, il valore del titolo è poi tornato al suo valore precedente (€0.0054) due giorni dopo il picco massimo (€0.03).
+Bonifiche Ferraresi è anche la società di cui al [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB) del 14 novembre 2023 quando il titolo si era impennato improvvisamente con un +410% ma visibile solo su Google Finance e oggi non più disponibile su quella piattaforma. Il post e il commento di aggiornamento contiene gli screenshot dell'epoca. Infatti, il valore del titolo è poi tornato al suo valore precedente (€0.0054) due giorni dopo il picco massimo (€0.03).
 
 ---
 
@@ -106,7 +106,7 @@ Si tratta di un gioco molto pericoloso e che ora sta venendo a galla perché app
 
 La sicurezza messianica di Netanyahu che sa lui come risolvere la questione con gli altri paesi arabi vicino, non è affatto suffragata dai fatti, anzi.
 
-- [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#crisi-israele-iran?target=_blank)
+- Tajani, il blu madonna e le 12 tribù: [post #4](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#crisi-israele-iran.md#?target=_blank)
 
 Il problema nel caso non ve fosti resi conto è che Tajani è la nostra politica estera, de-facto. Quindi il "problema" non è solo lui, è noi Italia. Chiaro?
 
@@ -134,7 +134,7 @@ Il numero è stimato tra circa 46k e 62k morti, con variazioni dovute alle diver
 
 La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti accettate da Israele non sono poi molto distanti. Considerando che 110K sono i feriti accertati, non è irragionevole che un 15% sia poi morto. A quel punto, contano come feriti, morti per cattiva sanità o uccisi nel conflitto?
 
-Infatti: (dal campo) 45k + 155k = 170k --> 62k + 110k = 172k (dopo la degenza)
+- Infatti: (dal campo) `45K + 155K = 170K` --> `62K + 110K = 172K` (dopo la degenza)
 
 ....
 
