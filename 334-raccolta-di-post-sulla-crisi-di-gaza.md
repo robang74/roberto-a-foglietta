@@ -1,4 +1,4 @@
-<div id="firstdiv" created="2024-07-02:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="wbsketch paleinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-001.png"><br/></div>
@@ -106,7 +106,7 @@ Si tratta di un gioco molto pericoloso e che ora sta venendo a galla perché app
 
 La sicurezza messianica di Netanyahu che sa lui come risolvere la questione con gli altri paesi arabi vicino, non è affatto suffragata dai fatti, anzi.
 
-- Tajani, il blu madonna e le 12 tribù: [post #4](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#crisi-israele-iran.md#?target=_blank)
+- Tajani, il blu madonna e le 12 tribù: [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) and the full [article](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#crisi-israele-iran.md#?target=_blank)
 
 Il problema nel caso non ve fosti resi conto è che Tajani è la nostra politica estera, de-facto. Quindi il "problema" non è solo lui, è noi Italia. Chiaro?
 
@@ -126,9 +126,7 @@ La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di 
 
 Quante sono, in totale, le vittime, morti e feriti, fra i palestinesi a Gaza dalla crisi del 7 ottobre 2023?
 
-- ChatGPT: [lnkd.in/dUqpiFm5](https://lnkd.in/dUqpiFm5)
-
-- Perplexity: [lnkd.in/djQHrTbN](https://lnkd.in/djQHrTbN)
+- Risposte da [ChatGPT](https://chatgpt.com/share/68aee1b8-3c90-8012-a2e8-2b718af127fd), da [Perplexity](https://www.perplexity.ai/search/quante-sono-in-totale-le-vitti-Qn_aa3ghQDq5XB_lW2Y9nw) e [Gemini](https://g.co/gemini/share/db9322a1f5fe)
 
 Il numero è stimato tra circa 46k e 62k morti, con variazioni dovute alle diverse fonti e aggiornamenti temporali. A metà agosto 2025 si parla di almeno 62k morti e un minimo di 110K fino a 155k feriti.
 
@@ -136,17 +134,15 @@ La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti 
 
 - Infatti: (dal campo) `45K + 155K = 170K` --> `62K + 110K = 172K` (dopo la degenza)
 
-...
-
 Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
-
-- Gemini: [lnkd.in/dpwJuV6S](https://g.co/gemini/share/db9322a1f5fe)
 
 La tabella demografica delle vittime indica che donne, bambini e anziani sono almeno il 60%, quindi da considerarsi civili. Evidentemente Netanyahu considera "combattenti" anche gli anziani (maschi). Se invece si stima che solo metà dei maschi abili alle armi fossero combattenti, allora 80-85%. Quindi il dato di The Guardian (83%) è probabilmente il più preciso.
 
+...
+
 Kimi K2, fornisce sostanzialmente gli stessi numeri ma chiarisce che 313 persone sono morte per fame a Gaza.
 
-- Kimi K2: [lnkd.in/dVWnS3cc](https://www.kimi.com/share/d2nf9oqnae72cfcarjl0)
+- Death and Injury Count Among Palestinians in Gaza Since October 7th Crisis, [Kimi K2](https://www.kimi.com/share/d2nf9oqnae72cfcarjl0)
 
 La fame incide "*solo*" per lo 0.5% delle morti. Un numero relativamente insignificante? Un 2.5M rapportato a 2.3B è un 0.11% anno.
 
@@ -190,7 +186,6 @@ Technically speaking it is about the Biden presidency long list of pardons issue
 [!INFO]
 2024-12-02 -- Joe Biden pardoned his son Hunter Biden on Sunday night (Dec. 1st), a reversal for the president who repeatedly said he would not use his executive authority to pardon his son or commute his sentence. Hunter Biden was scheduled to be sentenced Dec. 12 for his conviction on federal gun charges. He also was set to be sentenced Dec. 16 in a separate criminal case in which he pleaded guilty to federal tax evasion charges in September. -- [NBC news](https://www.nbcnews.com/politics/joe-biden/joe-biden-issue-pardon-son-hunter-biden-rcna182369)
 [/INFO]
-
 
 So, what was the available information prior that time?
 
