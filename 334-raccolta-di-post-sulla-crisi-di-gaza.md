@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2024-07-02:IT:+1" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-001.png"><br/></div>
+<div align="center"><img class="wbsketch paleinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-001.png"><br/></div>
 
 ## Raccolta di post sulla crisi di Gaza
 
@@ -123,7 +123,7 @@ La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di 
 
 ### La situazione nella striscia di Gaza
 
-<div align="center"><img class="bwsketch" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
+<div align="center"><img class="wbsketch paleinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
 
 Quante sono, in totale, le vittime, morti e feriti, fra i palestinesi a Gaza dalla crisi del 7 ottobre 2023?
 
@@ -171,9 +171,40 @@ Rispetto alla popolazione del 2023, circa il 95% (1.9M) è sfollata (ma solo una
 
 Si noti che la definizione di "prsona sfollata" è declinabile in diverse maniere e questo influenza il conteggio, che quindi varia a seconda delle fonti da 1.0M (50%) a 1.4M (70%) che probabilmente è il valore più rappresentativo (ma non aggiornatissimo) considerando le aree distrutte verificabili da satellite, quindi 75% è una stima corretta e attuale (al momento della pubblicazione di questo articolo).
 
+
+
 Non mi arrogo la superiorità morale di trarre giudizi da questi dati, ma è plausibile pensare che -- paradossalmente -- gli unici che nella striscia di Gaza siano in condizione di fare business e mangiare regolarmente siano associati ad Hamas, perché hanno le armi per difendere le loro attività e procurarsi cibo.
 
 Tutti gli altri, anche coloro che avessero un'arma, molto difficilmente potrebbero farne un uso che non sia di impellente necessità a difesa personale. Salvo poi, eventualmente, essere vittime di rappresaglie.
+
+---
+
+### Some documents are missing
+
+In which year and who was the US president when Congress approved the bill that removed the penal consequences in supporting, financing, training extremist groups where previously banned even overseas? Scanning these documents did not let me find such references. However, the scanner tool could have been biased about that topic. - Public Law 113-272 (Ukraine Freedom Support Act of 2014) - Ukraine Freedom Support Act of 2014. In particular about 18 U.S.C. §§ 2339A and 2339B.
+
+All the chatbots that I have tried, up to now, failed to find what I was searching for (and now I have to search in archives). Curiously this question blocked Grok while its second try showed two chinese ideograms which the meaning and position is quite interesting (cfr. image): 禁止 = forbidden.
+
+- [x.com/i/grok/share/n3YXkGOcsPyKoJh7qEZ0Hiyz5](https://x.com/i/grok/share/n3YXkGOcsPyKoJh7qEZ0Hiyz5)
+
+Why is it forbidden (禁止) to talk about this stuff (cfr. image)?
+
+Technically speaking it is about the Biden presidency long list of pardons issued, including Hunter Biden (his son) who was involved in various operations in Ukraine including supposedly bioweapons laboratories. Once the pardon has been issued all those articles aren't anymore indexed and have been removed but they still exist in library archives and Chinese forensic copies archives.
+
+[!INFO]
+2024-12-02 -- Joe Biden pardoned his son Hunter Biden on Sunday night (Dec. 1st), a reversal for the president who repeatedly said he would not use his executive authority to pardon his son or commute his sentence. Hunter Biden was scheduled to be sentenced Dec. 12 for his conviction on federal gun charges. He also was set to be sentenced Dec. 16 in a separate criminal case in which he pleaded guilty to federal tax evasion charges in September. -- [NBC news](https://www.nbcnews.com/politics/joe-biden/joe-biden-issue-pardon-son-hunter-biden-rcna182369)
+[/INFO]
+
+
+So, what was the available information prior that time?
+
+- [lnkd.in/dJ2u_TVm](https://lnkd.in/dJ2u_TVm)
+
+- [lnkd.in/daNg6Qfs](https://lnkd.in/daNg6Qfs)
+
+Which clearly indicates that the war damages were more plausible to be paid by the USA rather than Europe. The Trump presidency flipped and pushed all the liabilities over the EU leaders, letting them free to be proud of what they did in a public conference show.
+
+- [lnkd.in/dAdNjPp3](https://lnkd.in/dAdNjPp3)
 
 +
 
