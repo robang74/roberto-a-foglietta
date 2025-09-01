@@ -55,19 +55,15 @@ Immaginate in Ucraina, produttrice ed esportatrice di grano e cereali, invece. A
 
 ### Il costo della bonifica, sottostimato!
 
-6 luglio 2024 - Accordo Italia-Algeria che prevede una concessione strategica da parte del governo algerino di 36mila ettari e la società Bonifiche Ferraresi recupererà all’uso agricolo per coltivarla.
-
-Fonte della notizia, Il Sole 24 Ore: [piano Mattei accordo Italia Algeria sull agricoltura rigenerativa](https://www.ilsole24ore.com/art/piano-mattei-accordo-italia-algeria-sull-agricoltura-rigenerativa-AFVlDcZC)
+[!INFO]
+6 luglio 2024 -- Piano Mattei accordo Italia Algeria sull agricoltura rigenerativa. Accordo Italia-Algeria che prevede una concessione strategica da parte del governo algerino di 36mila ettari e la società Bonifiche Ferraresi recupererà all’uso agricolo per coltivarla. -- [Il Sole 24 Ore](https://www.ilsole24ore.com/art/piano-mattei-accordo-italia-algeria-sull-agricoltura-rigenerativa-AFVlDcZC)
+[/INFO]
 
 Si noti che sullo sfondo c'è anche Antonio Tajani (ministro degli esteri), parte destra della foto, mentre al centro c'è Francesco Lollobrigida (ministro dell'agricoltura).
 
-Si noti che 36 mila ettari corrispondono a 360 km² esattamente quanto è esteso il territorio della striscia di Gaza. Solo una coincidenza, probabilmente, ma che ho notato perché in un altro post avevo calcolato quanto terreno era necessario rimuovere e/o processare a causa dell'inquinamento e/o contaminazione, portato inevitabilmente dall'aver sganciato in quella, relativamente piccola, regione ben 70 mila tonnellate di bombe.
+Si noti, inoltre, che 36 mila ettari corrispondono a 360 km² esattamente quanto è esteso il territorio della striscia di Gaza. Solo una coincidenza, probabilmente, ma che ho notato perché in un altro post avevo calcolato quanto terreno era necessario rimuovere e/o processare a causa dell'inquinamento e/o contaminazione, portato inevitabilmente dall'aver sganciato in quella, relativamente piccola, regione ben 70 mila tonnellate di bombe.
 
-Bonifiche Ferraresi è anche la società di cui questo post del 14 novembre 2023 quando il titolo si era impennato improvvisamente con un +410% ma visibile solo su Google Finance e oggi non più disponibile su quella piattaforma.
-
-Screenshot dell'epoca: [lnkd.in/dcNC8QZy](https://lnkd.in/dcNC8QZy)
-
-A verbale societario (CdA) di ottobre 2023 depositato dal notaio per un aumento di capitale da 300 milioni di euro.
+Bonifiche Ferraresi è anche la società di cui questo [post](https://lnkd.in/dcNC8QZy) su LinkedIn del 14 novembre 2023 quando il titolo si era impennato improvvisamente con un +410% ma visibile solo su Google Finance e oggi non più disponibile su quella piattaforma. Il post e il commento di aggiornamento contiene gli screenshot dell'epoca. Infatti, il valore del titolo è poi tornato al suo valore precedente (€0.0054) due giorni dopo il picco massimo (€0.03).
 
 ---
 
@@ -75,23 +71,26 @@ A verbale societario (CdA) di ottobre 2023 depositato dal notaio per un aumento 
 
 Questo titolo oggi (2024-11-15) sta facendo sognare... 😍 
 
-Allora dai, verbale societario (CdA) di ottobre 2023 depositato dal notaio per un aumento di capitale da 300 milioni di euro. Purtropp il [documento](https://www.borsaitaliana.it/varie/documenti-comunicati-sdir.htm) non è più disponibile su Borsa Italiana (al momento della pubblicazione di questo articolo).
+Dal verbale societario (CdA) di ottobre 2023 depositato dal notaio risultava un aumento di capitale da 300 milioni di euro. Purtropp il [documento](https://www.borsaitaliana.it/varie/documenti-comunicati-sdir.htm) non è più disponibile su Borsa Italiana (al momento della pubblicazione di questo articolo).
+++++
+#### Qual'è la storia di Bonifiche Ferraresi?
 
-Qual'è la storia di Bonifiche Ferraresi?
+[!INFO]
+Bonifiche Ferraresi è una società per azioni che è stata quotata all'MTA della Borsa Valori di Milano dal 1947 al 2017, quando è stata revocata in seguito al successo dell'OPAS lanciata da B.F. S.p.A. (già B.F. Holding S.p.A.) che dal 23 giugno 2017 è quotata alla Borsa Italiana. Bonifiche Ferraresi venne costituita in Inghilterra nel 1871 col nome di Ferrarese Land Reclamation Company Limited e aveva come oggetto sociale la "bonifica di laghi, nell'acquisto di paludi e terreni nelle vicinanze di Ferrara e in altre località del Regno d'Italia e nella costruzione o la compera di canali, corsi d'acqua, lavori d'irrigazione, moli, scali, ferrovie, strade, fabbricati e macchine locomotive". -- Wikipedia
+[/INFO]
 
-Bonifiche Ferraresi è una società per azioni che è stata quotata all'MTA della Borsa Valori di Milano dal 1947 al 2017, quando è stata revocata in seguito al successo dell'OPAS lanciata da B.F. S.p.A. (già B.F. Holding S.p.A.) che dal 23 giugno 2017 è quotata alla Borsa Italiana.
 
-Bonifiche Ferraresi venne costituita in Inghilterra nel 1871 col nome di Ferrarese Land Reclamation Company Limited e aveva come oggetto sociale la "bonifica di laghi, nell'acquisto di paludi e terreni nelle vicinanze di Ferrara e in altre località del Regno d'Italia e nella costruzione o la compera di canali, corsi d'acqua, lavori d'irrigazione, moli, scali, ferrovie, strade, fabbricati e macchine locomotive". -- Wikipedia
+#### Chi sono i proprietari delle Bonifiche Ferraresi?
 
-Chi sono i proprietari delle Bonifiche Ferraresi?
+[!INFO]
+Carlo De Benedetti ha il 14,7%, con quote inferiori sono presenti Fondazione Cassa di Risparmio di Lucca con il 7,1%, il gruppo autostradale Gavio, la famiglia piemontese Mondino, il gruppo Cremonini, l'imprenditrice Ornella Randi Federspiel. -- Google AI Overview
+[/INFO]
 
-Carlo De Benedetti ha il 14,7%, con quote inferiori sono presenti Fondazione Cassa di Risparmio di Lucca con il 7,1%, il gruppo autostradale Gavio, la famiglia piemontese Mondino, il gruppo Cremonini, l'imprenditrice Ornella Randi Federspiel. -- Google
+#### Cosa fa Bonifiche Ferraresi?
 
-Cosa fa Bonifiche Ferraresi?
-
+[!INFO]
 Attiva nella coltivazione, lavorazione, trasformazione e commercializzazione di prodotti agroalimentari, la Società, con sede a Jolanda di Savoia (FE), è proprietaria ovvero titolare di altri diritti dei terreni presenti nelle tenute delle province di Ferrara, Arezzo, Oristano e Grosseto, per un complessivo di circa 7.750 ettari che ne fanno la più grande azienda agricola italiana per SAU. -- www.bfspa.it
-
-Il valore del titolo è poi tornato al suo valore precedente (€0.0054) due giorni dopo il picco massimo (€0.03).
+[/INFO]
 
 ---
 
@@ -135,9 +134,9 @@ Il numero è stimato tra circa 46k e 62k morti, con variazioni dovute alle diver
 
 La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti accettate da Israele non sono poi molto distanti. Considerando che 110K sono i feriti accertati, non è irragionevole che un 15% sia poi morto. A quel punto, contano come feriti, morti per cattiva sanità o uccisi nel conflitto?
 
-Infatti: (dal campo) 45k + 155k = 170k --> 62k + 110k = 172k (dopo ospedale)
+Infatti: (dal campo) 45k + 155k = 170k --> 62k + 110k = 172k (dopo la degenza)
 
-...
+....
 
 Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
 
