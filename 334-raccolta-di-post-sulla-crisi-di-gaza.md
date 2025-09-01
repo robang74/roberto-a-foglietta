@@ -17,19 +17,21 @@
 
 A proposito del [video](https://youtu.be/QjTwTi8X4x0?si=7YVdF68Yb2qXlXJs) di Giulietto Chiesa del 2014-06-13, pubblicato su YouTube.
 
-Una cosa analoga è accaduta con la ENI e Israele per lo sfruttamento di giacimenti di gas di fronte il mar di Gaza. Un mese dopo c'è stato l'attacco di Hamas al rave party internazionale a favore della Palestina libera. 
+Una cosa analoga è accaduta con la ENI e Israele per lo sfruttamento di giacimenti di gas di fronte il mar di Gaza. Un mese dopo c'è stato l'attacco di Hamas al rave party internazionale a favore della Palestina libera.
 
-Aspe' che lo ripeto: Hamas quelli che "combattono" per la Palestina libera hanno attaccato un rave party internazionale a favore della loro stessa causa.
+Lasciate che lo ripeta: Hamas, quelli che "combattono" per la Palestina libera, hanno attaccato un rave party internazionale a favore della loro stessa causa.
 
-Si noti che nel video viene detto che si tratta di "giacimenti presumibili" (7:35) ovvero si tratta di presunti giacimenti, nel senso che si presume che vi sia abbastanza materia da estrazione per coprire le attività per 50 anni. 
+Si noti che nel video viene detto che si tratta di "giacimenti presumibili" (7:35) ovvero si tratta di presunti giacimenti, nel senso che si presume che vi sia abbastanza materia da estrazione per coprire le attività per 50 anni. Ma trovare tracce di idrocarburi in quelle zone è molto facile.
 
-Ma trovare tracce di idrocarburi in quelle zone è molto facile, basti pensare al problema del cambiamento climatico per il quale "la Siberia brucia: si scioglie il permafrost e si libera CO2" pubblicato su La Repubblica [alturl.com/vrjz4](https://alturl.com/vrjz4) (2021).
+Basti pensare al problema del cambiamento climatico per il quale "la Siberia brucia: si scioglie il permafrost e si libera CO2" pubblicato su La Repubblica.
 
-Non ci sarebbe da sorprendersi se anche i giacimenti di fronte al mar di Gaza fossero solo "presunti" e la realtà fosse anche più tragica di così.
+[!INFO]
+2021-08-04 -- Siberia, una 'bomba di metano' sotto il permafrost: così il caldo favorisce le fuoriuscite dalle rocce. Secondo uno studio su Pnas, l'ondata di calore eccezionale del 2020 ha causato maggiori fuoriuscite del gas dalle formazioni rocciose. Mentre lo scongelamento delle zone umide libera metano microbico. -- [La Repubblica](https://www.repubblica.it/green-and-blue/2021/08/04/news/siberia_serbatorio_di_metano_il_caldo_aumenta_le_fuoriuscite_dal_permafrost-312843405/#:~:text=La%20Siberia%20brucia%3A%20si%20scioglie%20il%20permafrost%20e%20si%20libera%20CO2&amp;text=Normalmente%20il%20permafrost%20funge%20da,delle%20temperature%20e%20lo%20scongelamento)
+[/INFO]
 
-Il pretesto di presunti giacimenti per creare delle guerre ad hoc ma senza nemmeno una reale "motivazione" ovvero la guerra fine a se stessa.
+Non ci sarebbe da sorprendersi se anche i giacimenti di fronte al mar di Gaza fossero solo "presunti" e la realtà fosse anche più tragica di così. Il pretesto di presunti giacimenti per creare delle guerre ad hoc ma senza nemmeno una reale "motivazione" ovvero la guerra fine a se stessa.
 
-Perché "presunti"? 
+#### Perché presunti? 
 
 Perché dire che siano enormi e "degni" di tali operazioni significa dare per scontato che durante l'Unione Sovietica non erano capaci di fare prospezioni geologiche o non le abbiano fatte per ogni dove.
 
@@ -48,8 +50,6 @@ Peccato che per "liberare" Gaza abbiano usato, fin'ora, 70mila tonnellate di bom
 La striscia di Gaza è 360 km² = 360 milioni di m² quindi sarà qualcosa tipo 135 milioni di tonnellate di materiale da trattare, più le macerie, s'intende. 
 
 Immaginate in Ucraina, produttrice ed esportatrice di grano e cereali, invece. Auguri!
-
-Origine: [lnkd.in/djyv3fF6](https://lnkd.in/djyv3fF6)
 
 ---
 
@@ -110,7 +110,7 @@ La sicurezza messianica di Netanyahu che sa lui come risolvere la questione con 
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#crisi-israele-iran?target=_blank)
 
 Il problema nel caso non ve fosti resi conto è che Tajani è la nostra politica estera, de-facto. Quindi il "problema" non è solo lui, è noi Italia. Chiaro?
-++++
+
 #### Post Scriptum #1
 
 Dimenticavo di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'attacco di Hamas del 7 ottobre 2023. Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi dati delle prospezioni geologiche orientate alla scoperta e valutazione di redditività di nuovi (e attivi) giacimenti in Sardegna, così come le aziende avevano (hanno) sede legale le aziende chiave di fornitura di consulenti alla Magneti Marelli ora in Chapter 11.
@@ -141,37 +141,31 @@ Infatti: (dal campo) 45k + 155k = 170k --> 62k + 110k = 172k (dopo ospedale)
 
 Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
 
-- Gemini: [lnkd.in/dpwJuV6S](https://lnkd.in/dpwJuV6S)
+- Gemini: [lnkd.in/dpwJuV6S](https://g.co/gemini/share/db9322a1f5fe)
 
 La tabella demografica delle vittime indica che donne, bambini e anziani sono almeno il 60%, quindi da considerarsi civili. Evidentemente Netanyahu considera "combattenti" anche gli anziani (maschi). Se invece si stima che solo metà dei maschi abili alle armi fossero combattenti, allora 80-85%. Quindi il dato di The Guardian (83%) è probabilmente il più preciso.
 
-...
+Kimi K2, fornisce sostanzialmente gli stessi numeri ma chiarisce che 313 persone sono morte per fame a Gaza.
 
-Kimi K2, fornisce sostanzialmente gli stessi numeri ma chiarisce che "solo" 313 persone sono morte per fame a Gaza:
+- Kimi K2: [lnkd.in/dVWnS3cc](https://www.kimi.com/share/d2nf9oqnae72cfcarjl0)
 
-- Kimi K2: [lnkd.in/dVWnS3cc](https://lnkd.in/dVWnS3cc)
-
-La fame incide "solo" per lo 0.5% delle morti. Un numero relativamente insignificante? Un 2.5M rapportato a 2.3B è un 0.11% anno.
+La fame incide "*solo*" per lo 0.5% delle morti. Un numero relativamente insignificante? Un 2.5M rapportato a 2.3B è un 0.11% anno.
 
 [!INFO]
-Google AI Overview -- Si stima che circa 2.5M di bambini malnutriti muoiano ogni anno, e che la malnutrizione contribuisca a quasi metà delle morti infantili globali. Secondo un rapporto dell'ONU, sono 2.3B di persone che sperimentano insicurezza alimentare da moderata a grave.
+Si stima che circa 2.5M di bambini malnutriti muoiano ogni anno, e che la malnutrizione contribuisca a quasi metà delle morti infantili globali. Secondo un rapporto dell'ONU, sono 2.3B di persone che sperimentano insicurezza alimentare da moderata a grave. -- Google AI Overview
 [/INFO]
 
 A Gaza tale rischio è almeno cinque volte superiore. Però su due anni? Peggio.
 
-...
-
 La malnutrizione tra i bambini di Gaza sta aumentando a un ritmo catastrofico. Solo nel luglio (2025), oltre 12K bambini (0.6% popolazione) sono gravemente malnutriti: il dato mensile più alto mai registrato e un aumento di sei volte rispetto all'inizio dell'anno.
 
-- UNICEF: [lnkd.in/dzDwpa7x](https://lnkd.in/dzDwpa7x)
+- Unicef: [lnkd.in/dzDwpa7x](https://www.unicef.it/media/fao-unicef-wfp-e-oms-per-la-prima-volta-confermata-la-carestia-a-gaza/#:~:text=La%20malnutrizione%20tra%20i%20bambini,all%27inizio%20dell%27anno)
 
 Rispetto alla popolazione del 2023, circa il 95% (1.9M) è sfollata (ma solo una parte di essi è fuggita da Gaza), mentre il 9% è morta, ferita o malnutrita.
 
 ...
 
 Si noti che la definizione di "prsona sfollata" è declinabile in diverse maniere e questo influenza il conteggio, che quindi varia a seconda delle fonti da 1.0M (50%) a 1.4M (70%) che probabilmente è il valore più rappresentativo (ma non aggiornatissimo) considerando le aree distrutte verificabili da satellite, quindi 75% è una stima corretta e attuale (al momento della pubblicazione di questo articolo).
-
-
 
 Non mi arrogo la superiorità morale di trarre giudizi da questi dati, ma è plausibile pensare che -- paradossalmente -- gli unici che nella striscia di Gaza siano in condizione di fare business e mangiare regolarmente siano associati ad Hamas, perché hanno le armi per difendere le loro attività e procurarsi cibo.
 
