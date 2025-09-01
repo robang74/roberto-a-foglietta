@@ -82,12 +82,24 @@ Bonifiche Ferraresi è una società per azioni che è stata quotata all'MTA dell
 
 [!INFO]
 Carlo De Benedetti ha il 14,7%, con quote inferiori sono presenti Fondazione Cassa di Risparmio di Lucca con il 7,1%, il gruppo autostradale Gavio, la famiglia piemontese Mondino, il gruppo Cremonini, l'imprenditrice Ornella Randi Federspiel. -- Google AI Overview
+
+
 [/INFO]
 
 #### Cosa fa Bonifiche Ferraresi?
 
 [!INFO]
 Attiva nella coltivazione, lavorazione, trasformazione e commercializzazione di prodotti agroalimentari, la Società, con sede a Jolanda di Savoia (FE), è proprietaria ovvero titolare di altri diritti dei terreni presenti nelle tenute delle province di Ferrara, Arezzo, Oristano e Grosseto, per un complessivo di circa 7.750 ettari che ne fanno la più grande azienda agricola italiana per SAU. -- www.bfspa.it
+[/INFO]
+
+[!INFO]
+FOS S.p.A. con sede legale a Milano, controllata dalla BP Holding S.r.l. (64%) con sede a Firenze -- opera mediante le unità locali secondarie di Genova, Caserta, Benevento e Bolzano -- è coinvolta per:
+
+- sviluppare nuova sensoristica IoT nel campo della difesa e del monitoraggio delle colture ed integrare le nuove tecnologie per semplificare la transizione dell’agricoltura di precisione verso l’Agricoltura 4.0 in stretto raccordo con l’Industria 4.0. Il progetto E-crops è un progetto pubblico-privato interdisciplinare mirato all’agricoltura digitale di cui capofila è il CNR, composto da 4 soggetti pubblici e 10 privati, tra cui Apofruit, Gruppo Italiano Vini e Bonifiche Ferraresi. 
+
+- sviluppare il progetto “Cymon”, un Gemello Digitale del Ponte San Giorgio di Genova in collaborazione con Cetena S.p.A. (Gruppo Fincantieri) prevede di realizzare un modello digitale (digital twin, una tecnologia di Siemens basata sull'impiego di intelligenza artificiale) che replica in tempo reale le condizioni strutturali e ambientali di un’infrastruttura stradale.
+
+Informazioni estratte dal bilancio separato al 31.12.2020 - 2022 su [Borsa Italiana](https://www.borsaitaliana.it/media/borsa/db/pdf/new/1028705.pdf)
 [/INFO]
 
 ---
@@ -108,11 +120,7 @@ La sicurezza messianica di Netanyahu che sa lui come risolvere la questione con 
 
 Il problema nel caso non ve fosti resi conto è che Tajani è la nostra politica estera, de-facto. Quindi il "problema" non è solo lui, è noi Italia. Chiaro?
 
-#### Post Scriptum #1
-
-Dimenticavo di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'attacco di Hamas del 7 ottobre 2023. Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi dati delle prospezioni geologiche orientate alla scoperta e valutazione di redditività di nuovi (e attivi) giacimenti in Sardegna, così come le aziende avevano (hanno) sede legale le aziende chiave di fornitura di consulenti alla Magneti Marelli ora in Chapter 11.
-
-#### Post Scriptum #2
+Vale la pena di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'attacco di Hamas del 7 ottobre 2023. Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi dati delle prospezioni geologiche orientate alla scoperta e valutazione di redditività di nuovi (e attivi) giacimenti in Sardegna, così come le aziende avevano (hanno) sede legale le aziende chiave di fornitura di consulenti alla Magneti Marelli ora in Chapter 11.
 
 La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di Gaza, ma in acque contese tra Israele e Autorità Palestinese) e la firma dell'accordo operativo (settembre 2023) sono due momenti distinti ma strettamente collegati. Questo dettaglio rafforza l’ipotesi che interessi energetici abbiano giocato un ruolo nell’acuirsi delle tensioni pre-attacco Hamas. Con la crisi Arabia Saudita-Iran, il progetto ENI è fermo.
 
@@ -187,15 +195,11 @@ Technically speaking it is about the Biden presidency long list of pardons issue
 
 So, what was the available information prior that time?
 
-- [War damages and sanctions losses](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20damages%20and%20sanctions%20losses,-War%20damages%20and)
-
-- [War Damages and Sanctions Losses: 7/10](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20Damages%20and%20Sanctions%20Losses,-%3A%207/10)
+- [War damages and sanctions losses](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20damages%20and%20sanctions%20losses,-War%20damages%20and), &nbsp;[Plausibility rating: 7/10](https://robang74.github.io/chatgpt-answered-prompts/html/Draghi-faboulous-800bln-funding-02.html#:~:text=2.-,War%20Damages%20and%20Sanctions%20Losses,-%3A%207/10) &nbsp;and [Il castello di carte e il suo collasso](https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#il-castello-di-carte-e-il-suo-collasso) 
 
 Which clearly indicates that the war damages were more plausible to be paid by the USA rather than Europe. The Trump presidency flipped and pushed all the liabilities over the EU leaders, letting them free to be proud of what they did in a public conference show.
 
-- [lIl castello di carte e il suo collasso](https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#il-castello-di-carte-e-il-suo-collasso)
-
-+
++++++
 
 ## Share alike
 
