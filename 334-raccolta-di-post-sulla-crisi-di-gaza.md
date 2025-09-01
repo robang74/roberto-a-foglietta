@@ -5,11 +5,9 @@
 
 ## Raccolta di post sulla crisi di Gaza
 
-- [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ) -- [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-) -- [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB) &nbsp; (2023-11-14) -- [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE) -- [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)
+Questo articolo è la composizione di una raccolta di post sulla crisi di Gaza cominciata il 7 ottobre 2023, che esplora il confronto con la crisi in Ucraina iniziata il 24 febbraio 2022. Perché nonostante le molte differenze, alcuni schemi si ripetono e gli indizi portano sempre allo stesso gruppo di personalità.
 
-> [!WARN]
-> 
-> **WORKING IN PROGRESS**
+- [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ)&nbsp;(2024) - [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-)&nbsp;(2024-07-06) - [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB)&nbsp;(2025-11-14) - [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE)&nbsp;(2025-07-07) - [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)&nbsp;(2025-08-27)
 
 ---
 
@@ -49,7 +47,7 @@ Peccato che per "liberare" Gaza abbiano usato, fin'ora, 70mila tonnellate di bom
 
 La striscia di Gaza è 360 km² = 360 milioni di m² quindi sarà qualcosa tipo 135 milioni di tonnellate di materiale da trattare, più le macerie, s'intende. 
 
-Immaginate in Ucraina, produttrice ed esportatrice di grano e cereali, invece. Auguri!
+Immaginate l'impatto dell'inquinamento da guerra, in Ucraina, produttrice ed esportatrice di grano e cereali. Auguri!
 
 ---
 
