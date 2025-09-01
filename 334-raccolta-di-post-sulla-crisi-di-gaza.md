@@ -136,7 +136,7 @@ La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti 
 
 - Infatti: (dal campo) `45K + 155K = 170K` --> `62K + 110K = 172K` (dopo la degenza)
 
-....
+...
 
 Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
 
@@ -158,7 +158,9 @@ A Gaza tale rischio è almeno cinque volte superiore. Però su due anni? Peggio.
 
 La malnutrizione tra i bambini di Gaza sta aumentando a un ritmo catastrofico. Solo nel luglio (2025), oltre 12K bambini (0.6% popolazione) sono gravemente malnutriti: il dato mensile più alto mai registrato e un aumento di sei volte rispetto all'inizio dell'anno.
 
-- Unicef: [lnkd.in/dzDwpa7x](https://www.unicef.it/media/fao-unicef-wfp-e-oms-per-la-prima-volta-confermata-la-carestia-a-gaza/#:~:text=La%20malnutrizione%20tra%20i%20bambini,all%27inizio%20dell%27anno)
+[!INFO]
+2025-08-22 -- FAO, UNICEF, WFP e OMS: per la prima volta confermata la carestia a Gaza. La malnutrizione tra i bambini di Gaza sta aumentando a un ritmo catastrofico. Solo nel mese di luglio, oltre 12.000 bambini sono stati identificati come gravemente malnutriti: il dato mensile più alto mai registrato e un aumento di sei volte rispetto all'inizio dell'anno. Di questi, quasi un bambino su quattro soffriva di malnutrizione acuta grave (SAM), la forma più letale con conseguenze sia a breve che a lungo termine. -- [UNICEF](https://www.unicef.it/media/fao-unicef-wfp-e-oms-per-la-prima-volta-confermata-la-carestia-a-gaza/#:~:text=La%20malnutrizione%20tra%20i%20bambini,all%27inizio%20dell%27anno)
+[/INFO]
 
 Rispetto alla popolazione del 2023, circa il 95% (1.9M) è sfollata (ma solo una parte di essi è fuggita da Gaza), mentre il 9% è morta, ferita o malnutrita.
 
