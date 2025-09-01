@@ -197,7 +197,27 @@ So, what was the available information prior that time?
 
 Which clearly indicates that the war damages were more plausible to be paid by the USA rather than Europe. The Trump presidency flipped and pushed all the liabilities over the EU leaders, letting them free to be proud of what they did in a public conference show.
 
-+++++
+---
+
+### Why have Biden’s preemptive pardons caused such a stir?
+
+[!INFO]
+2025-01-23 -- A president’s pardoning power has few limits. Biden has now expanded and extended the scope of the pardon power by issuing preemptive pardons. Some have worried about the precedent it sets. It’s open to interpretation by any president.
+
+On his last day in office, outgoing United States President Joe Biden issued a number of preemptive pardons essentially to protect some leading public figures and members of his own family from possible retaliation by Donald Trump. It was a novel and innovative use of the presidential pardon power.
+
+The pardons for Fauci, Milley and Biden’s family members specifically cover any “offences against the United States” that may have been committed from January 1 2014 through to the date of the pardon.
+
+ -- [The Conversation](https://theconversation.com/why-have-joe-bidens-preemptive-pardons-caused-such-a-stir-a-presidents-pardoning-power-has-few-limits-248108)
+[/INFO]
+
+While Joe Biden's preemptive pardons probably would resist in place, the idea that pardoning someone could lead to information disappearing (aka limited access) is quite a thing because all the Biden presidency can been seen as a post-hoc covert operation.
+
+Even more dangerous than deeply jeopardising the responsibility principle, it leads to the idea that history can be rewritten by an unilateral player. On a geopolitical scale this can lead to unacceptable outcomings like arbitrary debt cancellation. It is hard to believe that in a multi-polar geopolitical scenario, it will last.
+
+Wondering why? At this point of human history there is a very tiny difference between money and data.
+
++
 
 ## Share alike
 
