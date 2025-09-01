@@ -127,6 +127,52 @@ Dimenticavo di citare un evento chiave per l'Italia: chiusura del contratto tra 
 
 La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di Gaza, ma in acque contese tra Israele e Autorità Palestinese) e la firma dell'accordo operativo (settembre 2023) sono due momenti distinti ma strettamente collegati. Questo dettaglio rafforza l’ipotesi che interessi energetici abbiano giocato un ruolo nell’acuirsi delle tensioni pre-attacco Hamas. Con la crisi Arabia Saudita-Iran, il progetto ENI è fermo.
 
+---
+
+#### LA SITUAZIONE NELLA STRISCIA DI GAZA
+
+<div align="center"><img class="bwsketch" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
+
+Quante sono, in totale, le vittime, morti e feriti, fra i palestinesi a Gaza dalla crisi del 7 ottobre 2023?
+
+- ChatGPT: [lnkd.in/dUqpiFm5](https://lnkd.in/dUqpiFm5)
+
+- Perplexity: [lnkd.in/djQHrTbN](https://lnkd.in/djQHrTbN)
+
+Il numero è stimato tra circa 46k e 62k morti, con variazioni dovute alle diverse fonti e aggiornamenti temporali. A metà agosto 2025 si parla di almeno 62k morti e un minimo di 110K fino a 155k feriti.
+
+La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti accettate da Israele non sono poi molto distanti. Considerando che 110K sono i feriti accertati, non è irragionevole che un 15% sia poi morto. A quel punto, contano come feriti, morti per cattiva sanità o uccisi nel conflitto?
+
+Infatti: (dal campo) 45k + 155k = 170k --> 62k + 110k = 172k (dopo ospedale)
+
+Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
+
+- Gemini: [lnkd.in/dpwJuV6S](https://lnkd.in/dpwJuV6S)
+
+La tabella demografica delle vittime indica che donne, bambini e anziani sono almeno il 60%, quindi da considerarsi civili. Evidentemente Netanyahu considera "combattenti" anche gli anziani (maschi). Se invece si stima che solo metà dei maschi abili alle armi fossero combattenti, allora 80-85%. Quindi il dato di The Guardian (83%) è probabilmente il più preciso.
+
+Kimi K2, fornisce sostanzialmente gli stessi numeri ma chiarisce che "solo" 313 persone sono morte per fame a Gaza: la fame incide "solo" per lo 0.5% delle morti. Insignificante?
+
+- Kimi K2: [lnkd.in/dVWnS3cc](https://lnkd.in/dVWnS3cc)
+
+[!INFO]
+Google AI Overview -- Si stima che circa 2.5M di bambini malnutriti muoiano ogni anno, e che la malnutrizione contribuisca a quasi metà delle morti infantili globali. Secondo un rapporto dell'ONU, sono 2.3B di persone che sperimentano insicurezza alimentare da moderata a grave.
+[/INFO]
+
+Un 2.5M rapportato a 2.3B è un 0.11% anno. A Gaza tale rischio è almeno 5 volte superiore. Però su due anni? Peggio.
+
+La malnutrizione tra i bambini di Gaza sta aumentando a un ritmo catastrofico. Solo nel luglio (2025), oltre 12K bambini (0.6% popolazione) sono gravemente malnutriti: il dato mensile più alto mai registrato e un aumento di sei volte rispetto all'inizio dell'anno.
+
+- UNICEF: [lnkd.in/dzDwpa7x](https://lnkd.in/dzDwpa7x)
+
+Rispetto alla popolazione del 2023, circa il 95% (1.9M) è sfollata (ma solo una parte di essi è fuggita da Gaza), mentre il 9% è morta, ferita o malnutrita.
+
+Si noti che la definizione di "prsona sfollata" è declinabile in diverse maniere e questo influenza il conteggio, che quindi varia a seconda delle fonti da 1.0M (50%) a 1.4M (70%) che probabilmente è il valore più rappresentativo (ma non aggiornatissimo) considerando le aree distrutte verificabili da satellite, quindi 75% è una stima corretta e attuale (al momento della pubblicazione di questo articolo).
+
+Non mi arrogo la superiorità morale di trarre giudizi da questi dati, ma è plausibile pensare che -- paradossalmente -- gli unici che nella striscia di Gaza siano in condizione di fare business e mangiare regolarmente siano associati ad Hamas, perché hanno le armi per difendere le loro attività e procurarsi cibo.
+
+Tutti gli altri, anche coloro che avessero un'arma, molto difficilmente potrebbero farne un uso che non sia di impellente necessità a difesa personale. Salvo poi, eventualmente, essere vittime di rappresaglie.
+
 +
 
 ## Share alike
