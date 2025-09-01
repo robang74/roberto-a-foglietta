@@ -13,7 +13,7 @@
 
 ---
 
-#### LO SCHEMA È SEMPRE QUELLO, CHE SI RIPETE
+### Lo schema È sempre quello, che si ripete
 
 A proposito del [video](https://youtu.be/QjTwTi8X4x0?si=7YVdF68Yb2qXlXJs) di Giulietto Chiesa del 2014-06-13, pubblicato su YouTube.
 
@@ -53,7 +53,7 @@ Origine: [lnkd.in/djyv3fF6](https://lnkd.in/djyv3fF6)
 
 ---
 
-#### IL COSTO DELLA BONIFICA, SOTTOSTIMATO!
+### Il costo della bonifica, sottostimato!
 
 6 luglio 2024 - Accordo Italia-Algeria che prevede una concessione strategica da parte del governo algerino di 36mila ettari e la società Bonifiche Ferraresi recupererà all’uso agricolo per coltivarla.
 
@@ -71,7 +71,7 @@ A verbale societario (CdA) di ottobre 2023 depositato dal notaio per un aumento 
 
 ---
 
-#### BONIFICHE FERRARESI S.p.A. +410%
+### Bonifiche Ferraresi S.p.A. +410%
 
 Questo titolo oggi (2024-11-15) sta facendo sognare... 😍 
 
@@ -95,7 +95,7 @@ Il valore del titolo è poi tornato al suo valore precedente (€0.0054) due gio
 
 ---
 
-#### TAJANI, IL BLU MADONNA E LE 12 TRIBÙ
+#### Tajani, il blu madonna e le 12 tribù
 
 Questo meme satirico qui sotto, fa riferimento ad una dichiarazione di Tajani -- che vale la pena ricordare è il nostro ministro degli esteri -- molto particolare sull'origine della bandiera europea: il blu della madonna e dodici stelle come le 12 tribù di Israele.
 
@@ -111,17 +111,17 @@ La sicurezza messianica di Netanyahu che sa lui come risolvere la questione con 
 
 Il problema nel caso non ve fosti resi conto è che Tajani è la nostra politica estera, de-facto. Quindi il "problema" non è solo lui, è noi Italia. Chiaro?
 ++++
-#### POST SCRIPTUM #1
+#### Post Scriptum #1
 
 Dimenticavo di citare un evento chiave per l'Italia: chiusura del contratto tra ENI e Israele per lo sfruttamento di un giacimento di gas metano sottomarino di fronte alla promenade di Gaza, avvenuta solo un mese prima dell'attacco di Hamas del 7 ottobre 2023. Ricordo che l'ENI ha il suo centro di calcolo HPC per le simulazioni e l'analisi dati delle prospezioni geologiche orientate alla scoperta e valutazione di redditività di nuovi (e attivi) giacimenti in Sardegna, così come le aziende avevano (hanno) sede legale le aziende chiave di fornitura di consulenti alla Magneti Marelli ora in Chapter 11.
 
-#### POST SCRIPTUM #2
+#### Post Scriptum #2
 
 La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di Gaza, ma in acque contese tra Israele e Autorità Palestinese) e la firma dell'accordo operativo (settembre 2023) sono due momenti distinti ma strettamente collegati. Questo dettaglio rafforza l’ipotesi che interessi energetici abbiano giocato un ruolo nell’acuirsi delle tensioni pre-attacco Hamas. Con la crisi Arabia Saudita-Iran, il progetto ENI è fermo.
 
 ---
 
-#### LA SITUAZIONE NELLA STRISCIA DI GAZA
+### La situazione nella striscia di Gaza
 
 <div align="center"><img class="bwsketch" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
 
