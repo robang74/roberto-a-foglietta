@@ -233,6 +233,8 @@ The obvious solution to this fundamental problem of global digitalisation is Bit
 
 - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
 
+- [The paper money is financial communism](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) &nbsp; (2024-07-31)
+
 +
 
 ## Share alike
