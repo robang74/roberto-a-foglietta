@@ -223,6 +223,8 @@ At this point of human history there is a very tiny difference between money and
 
 This closes the loop: the Biden's preemptive pardons supported by a Constitution (the supreme source of law) written centuries before Internet and digital data existed, destroy the law in principle not just in justice. In fact, injustice happens but principles remain. Not anymore!
 
+> The "loss of writing" as the rupture of the fundamental link between language and reality. -- Kimi K2
+
 Guess what? Once **manent** cease to exist, law principles cease to exist and the use of arbitrary and butal force only remains: what we cannot write by law, because we know that scripta manent not anymore, then we are writing with the blood of our enemies. Or them with our blood. Thus war, on an extreme scale WW3.
 
 The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, it implies to give a value to each piece of data that is worth to be written in stone, again.
@@ -232,14 +234,14 @@ The obvious solution to this fundamental problem of global digitalisation is Bit
 ## Related articles
 
 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
-
++++++
 - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
-
++++++
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
-
++++++
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
 
-+
++++++
 
 ## Share alike
 
