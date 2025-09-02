@@ -18,7 +18,7 @@
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 <p class='topbar'></p>
 <div class='topbar' width='800px' translate='no'><b id='menu' onClick='nextStylesheet()'>&thinsp;&#9783;&thinsp;&Ropf;</b> &thinsp;&mdash;&thinsp; &#8543;&#8239;release: <b class='topbar'>2025-08-09&nbsp;<sup class='date-type topbar' id='datenote'>(&hairsp;<a href='#date-legenda' class='date-type topbar'>1</a>&hairsp;)</sup></b>  &thinsp;&mdash;&thinsp; rev.: <b class='topbar
-'>54</b rev_num='
+'>55</b rev_num='
 '> &thinsp;&mdash;&thinsp; transl.:&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/333-the-dilemma-ai-vs-human-decision-making?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=it-IT&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>IT</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/333-the-dilemma-ai-vs-human-decision-making?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de-DE&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>DE</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/333-the-dilemma-ai-vs-human-decision-making?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr-FR&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>FR</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='https://robang74-github-io.translate.goog/roberto-a-foglietta/html/333-the-dilemma-ai-vs-human-decision-making?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-ES&_x_tr_pto=wapp' target='_blank' rel='noopener noreferrer'>ES</a> &thinsp;&mdash;&thinsp; goto:&nbsp; <a class='topbar' href='../index.html#index'>.&#x27F0;.</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatbots-for-fun/index.html'target=_blank>C4F</a> &nbsp;<b>&middot;</b>&nbsp; <a class='topbar' href='../../chatgpt-answered-prompts/index.html'target=_blank>Q&A</a> <span id='printlink'>&thinsp;&mdash;&thinsp; <b>⎙</b>&hairsp;: <a aria-label='print this page' class='topbar' href='javascript:window.print()'>PDF</a></span>&nbsp;</div>
 <div id="firstdiv">
 <p class='topbar'></p>
@@ -33,6 +33,8 @@
 <li><b>3rd edition</b> &mdash; 2025-08-25 &mdash; includes the <a href="#3rd-edition">section</a> about the "bad data &rarr; bad decisions" AI-humans loop.</li>
 <p></p>
 <li><b>4th edition</b>, includes the <a href="#4th-edition">section</a> about standardised tests as metric of nothing but knowledge.</li>
+<p></p>
+<li><b>5th edition</b>, includes the <a href="#5th-edition">section</a> about the chatbots security concerns, and security-vs-safety.</li>
 <p></p>
 <hr>
 <p></p>
@@ -752,6 +754,36 @@ Continue the reading here, in <a href="https://g.co/gemini/share/481de2ca3e6f" t
 <p></p>
 <br>
 <p></p>
+<span id="4th-edition"></span>
+<H2 id="chatbots-security-concerns">Chatbots security concerns</H2>
+<p></p>
+<div class="post-it"><b class="post-it">&#9432;</b>
+28 agosto 2025 &mdash; Ricerche dimostrano come prompt ingannevoli e manipolazione di immagini riescano a eludere i sistemi di sicurezza AI per ottenere informazioni sensibili. &mdash; <a href="https://www.tomshw.it/business/llm-vulnerabili-basta-rimuovere-la-punteggiatura-2025-08-28" target='_blank' rel='noopener noreferrer'>Tom's HW Italia</a>
+<p></p>
+I Large Language Model possono essere facilmente ingannati con tecniche come i "prompt infiniti" senza punteggiatura, che raggiungono tassi di successo dell'80-100% su modelli importanti come Gemma, Llama e Qwen. Le immagini apparentemente innocue possono nascondere comandi pericolosi che diventano visibili solo quando ridimensionate dai sistemi AI, permettendo di estrarre informazioni sensibili da servizi come Google Gemini. L'architettura di sicurezza attuale è costruita come una soluzione temporanea sovrapposta a sistemi intrinsecamente insicuri, creando una situazione paragonabile a "bambini che giocano con pistole cariche"
+<p></p>
+</div>
+<p></p>
+<H4>Vulnerabilità degli LLM</H4>
+<p></p>
+Sto preparando la terza edizione del mio articolo: How to leverage chatbots for investigations, 3rd edition.
+<p></p>
+<li><a href="https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html#comparison-between-ai-engines" target='_blank' rel='noopener noreferrer'>Comparison between AI engines</a></li>
+<p></p>
+In questa terza parte si confrontano alcuni fra i più noti chatbots rispetto ad uno specifico task. Lo studio dei loro fallimenti non  è importante solo all'interno di quel contesto ma fa trasparire delle problematiche legate ANCHE alla sicurezza e alla privacy.
+<p></p>
+Che per altro erano già state affrontate in altri due articoli, sia riguardo alle immagini, sia riguardo al concetto che "bad data" forniti in input (injection) o in training alle agli LLM (unsanitized, unreliable, etc.) comportino "bad decisions" sia da parte dell'AI e sia da parte degli umani che si affidano ad esso, quindi con potenzialmente gravi conseguenze. <a href="#TODO">TODO</a>
+<p></p>
+Sia chiaro, l'intelligenza artificiale NON ha creato il problema, ma sta solo facendo emergere il problema, nei suoi vari aspetti, su come gli esseri umani gestiscono l'informazione e il processo decisionale. Infatti, in un altro articolo in cui si presentano casi particolari (e talvolta estremi) realmente avvenuti, il principio "human in the loop" è l'anello debole del processo decisionale.
+<p></p>
+Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta perdendo parecchio terreno rispetto ad altri chatbot indicano che 1/3 delle persone comuni lo usano come confidente o addirittura psicologo (in USA sopratutto e con buoni risultati generali) mentre per 2/3 lo usano gli studenti.
+<p></p>
+<H4>Security non è Safety</H4>
+<p></p>
+Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "<i>safety-vs-freedom, first</i>" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "<i>manipolare</i>" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
+<p></p>
+<br>
+<p></p>
 <H2 id="related-articles">Related articles</H2>
 <p></p>
 <li><a href="323-ai-driven-fact-check-can-systematically-fail.html#" target='_blank' rel='noopener noreferrer'>AI driven fact-check can systematically fail</a> &nbsp; (2025-06-13)</li>
@@ -765,6 +797,7 @@ Continue the reading here, in <a href="https://g.co/gemini/share/481de2ca3e6f" t
 <li><a href="https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html" target='_blank' rel='noopener noreferrer'>The journey from the humans ethics to the AI's faith</a> &nbsp; (2025-02-07)</li>
 <li><a href="https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html" target='_blank' rel='noopener noreferrer'>Artificial Intelligence for education</a> &nbsp; (2024-11-29)</li>
 <p></p>
+<li><a href="https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html" target='_blank' rel='noopener noreferrer'>How to leverage chatbots for investigations</a> &nbsp; (2025-08-28)</li>
 <li><a href="https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html" target='_blank' rel='noopener noreferrer'>Gemini context retraining for human rights</a> &nbsp; (2025-08-02)</li>
 <li><a href="https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html" target='_blank' rel='noopener noreferrer'>The session context and summary challenge</a> &nbsp; (2025-07-28)</li>
 <li><a href="https://robang74.github.io/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html" target='_blank' rel='noopener noreferrer'>Human knowledge and opinions challenge</a> &nbsp; (2025-07-28)</li>

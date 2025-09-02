@@ -13,6 +13,8 @@
 
 - **4th edition**, includes the [section](#4th-edition) about standardised tests as metric of nothing but knowledge.
 
+- **5th edition**, includes the [section](#5th-edition) about the chatbots security concerns, and security-vs-safety.
+
 ---
 
 ### Introduction
@@ -730,6 +732,36 @@ Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3
 
 +
 
+<span id="4th-edition"></span>
+## Chatbots security concerns
+
+[!INFO]
+28 agosto 2025 -- Ricerche dimostrano come prompt ingannevoli e manipolazione di immagini riescano a eludere i sistemi di sicurezza AI per ottenere informazioni sensibili. -- [Tom's HW Italia](https://www.tomshw.it/business/llm-vulnerabili-basta-rimuovere-la-punteggiatura-2025-08-28)
+
+I Large Language Model possono essere facilmente ingannati con tecniche come i "prompt infiniti" senza punteggiatura, che raggiungono tassi di successo dell'80-100% su modelli importanti come Gemma, Llama e Qwen. Le immagini apparentemente innocue possono nascondere comandi pericolosi che diventano visibili solo quando ridimensionate dai sistemi AI, permettendo di estrarre informazioni sensibili da servizi come Google Gemini. L'architettura di sicurezza attuale è costruita come una soluzione temporanea sovrapposta a sistemi intrinsecamente insicuri, creando una situazione paragonabile a "bambini che giocano con pistole cariche"
+
+[/INFO]
+
+#### Vulnerabilità degli LLM
+
+Sto preparando la terza edizione del mio articolo: How to leverage chatbots for investigations, 3rd edition.
+
+- [Comparison between AI engines](https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html#comparison-between-ai-engines)
+
+In questa terza parte si confrontano alcuni fra i più noti chatbots rispetto ad uno specifico task. Lo studio dei loro fallimenti non  è importante solo all'interno di quel contesto ma fa trasparire delle problematiche legate ANCHE alla sicurezza e alla privacy.
+
+Che per altro erano già state affrontate in altri due articoli, sia riguardo alle immagini, sia riguardo al concetto che "bad data" forniti in input (injection) o in training alle agli LLM (unsanitized, unreliable, etc.) comportino "bad decisions" sia da parte dell'AI e sia da parte degli umani che si affidano ad esso, quindi con potenzialmente gravi conseguenze. [TODO](#TODO)
+
+Sia chiaro, l'intelligenza artificiale NON ha creato il problema, ma sta solo facendo emergere il problema, nei suoi vari aspetti, su come gli esseri umani gestiscono l'informazione e il processo decisionale. Infatti, in un altro articolo in cui si presentano casi particolari (e talvolta estremi) realmente avvenuti, il principio "human in the loop" è l'anello debole del processo decisionale.
+
+Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta perdendo parecchio terreno rispetto ad altri chatbot indicano che 1/3 delle persone comuni lo usano come confidente o addirittura psicologo (in USA sopratutto e con buoni risultati generali) mentre per 2/3 lo usano gli studenti.
+
+#### Security non è Safety
+
+Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*safety-vs-freedom, first*" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "*manipolare*" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
+
++
+
 ## Related articles
 
 - [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
@@ -743,6 +775,7 @@ Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3
 - [The journey from the humans ethics to the AI's faith](https://robang74.github.io/chatgpt-answered-prompts/html/a-journey-from-humans-ethics-to-ai-faith.html) &nbsp; (2025-02-07)
 - [Artificial Intelligence for education](https://robang74.github.io/chatgpt-answered-prompts/html/artificial-intellige-for-education.html) &nbsp; (2024-11-29)
 
+- [How to leverage chatbots for investigations](https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html) &nbsp; (2025-08-28)
 - [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
 - [The session context and summary challenge](https://robang74.github.io/chatbots-for-fun/html/the-session-context-and-summary-challenge.html) &nbsp; (2025-07-28)
 - [Human knowledge and opinions challenge](https://robang74.github.io/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html) &nbsp; (2025-07-28)
