@@ -225,7 +225,7 @@ This closes the loop: the Biden's preemptive pardons supported by a Constitution
 
 Guess what? Once **manent** cease to exist, law principles cease to exist and the use of arbitrary and butal force only remains: what we cannot write by law, because we know that scripta manent not anymore, then we are writing with the blood of our enemies. Or them with our blood. Thus war, on an extreme scale WW3.
 
-The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, give a value to each piece of data that worth to be written in stone, again.
+The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, it implies to give a value to each piece of data that is worth to be written in stone, again.
 
 +
 
