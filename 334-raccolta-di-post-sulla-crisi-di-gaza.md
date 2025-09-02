@@ -213,9 +213,25 @@ The pardons for Fauci, Milley and Biden’s family members specifically cover an
 
 While Joe Biden's preemptive pardons probably would resist in place, the idea that pardoning someone could lead to information disappearing (aka limited access) is quite a thing because all the Biden presidency can been seen as a post-hoc covert operation.
 
-Even more dangerous than deeply jeopardising the responsibility principle, it leads to the idea that history can be rewritten by an unilateral player. On a geopolitical scale this can lead to unacceptable outcomings like arbitrary debt cancellation. It is hard to believe that in a multi-polar geopolitical scenario, it will last.
+Even more dangerous than deeply jeopardising the responsibility principle, it leads to the idea that history can be rewritten by an unilateral player. On a geopolitical scale this can lead to unacceptable outcomings like arbitrary debt cancellation. It is hard to believe that in a multi-polar geopolitical scenario, it will last. Wondering why?
 
-Wondering why? At this point of human history there is a very tiny difference between money and data.
+---
+
+### Scripta manent, not anymore thus war or Bitcoin
+
+At this point of human history there is a very tiny difference between money and data. Even worse than a trust issue, in a broader sense this way of doing makes the writing useless but only words exist. Verba volant, scripta manent (ancient Romans say) where **manent** is fundamental also for the law and justice.
+
+This closes the loop: the Biden's preemptive pardons supported by a Constitution (the supreme source of law) written centuries before Internet and digital data existed, destroy the law in principle not just in justice. In fact, injustice happens but principles remain. Not anymore!
+
+Guess what? Once **manent** cease to exist, law principles cease to exist and the use of arbitrary and butal force only remains: what we cannot write by law, because we know that scripta manent not anymore, then we are writing with the blood of our enemies. Or them with our blood. Thus war, on an extreme scale WW3.
+
+The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, give a value to each piece of data that worth to be written in stone, again.
+
++
+
+## Related articles
+
+- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
 
 +
 
