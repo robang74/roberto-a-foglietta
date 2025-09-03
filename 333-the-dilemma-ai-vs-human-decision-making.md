@@ -732,7 +732,7 @@ Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3
 
 +
 
-<span id="4th-edition"></span>
+<span id="5th-edition"></span>
 ## Chatbots security concerns
 
 [!INFO]
@@ -763,6 +763,12 @@ Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta per
 ### Security non è Safety
 
 Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*safety-vs-freedom, first*" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "*manipolare*" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
+
+Quanto questo concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini:
+
+- [AI guardrails: the safety-vs-freedom dilemma](https://g.co/gemini/share/34193fdb7463) e sua [trascrizione](#TODO)
+
+Nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della reatà.
 
 ---
 
