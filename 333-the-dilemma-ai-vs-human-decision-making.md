@@ -775,6 +775,7 @@ Nella quale parte molto convinto delle "sue" idee per poi finire ad accettare ch
 ### Exceptions always happen
 
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
+- Graph source: NIH, [Mental Health Information > Statistics > Suicide](https://www.nimh.nih.gov/health/statistics/suicide) also saved in [PDF](data/333-nimh-suicide-statistics.pdf#?target=_blank) (2025-09-03)
 
 Exceptions always happen but what about statistics? Because security is about avoiding incidents that can happen, thus is about preventing corner-cases. While safety is about mitigating risks even if it implies slightly increasing the frequency of undesired outcomes. Because undesired outcomes are subjective while fatalities are matter of fact.
 
@@ -787,13 +788,12 @@ By statistics, is the suicide rate increased or decreased after (2023-03-20) the
 
 Please, notice that "decrease" does not mean in absolute terms, necessarily. Because the suicidal rates is increasing almost linearly in the last 25 years. In this scenario, "decrease" means less than expected by the 10y trend. For example: expected in 2024 is 14.5, found 13.9. This is equivalent to having reverted back the trend by 4 years (decrease). Rate of increasing between 0.16 and 0.17 every 100K per year.
 
-- Graph source: NIH, lnkd.in/d_YY8t7E
-
 #### Rate is lower than historical high from 2022
 
-Based on early data from death certificates, the suicide rate for 2024 was 13.9 deaths per 100,000 people, similar to 2023. However, these 2024 numbers are preliminary and may change when finalized.13 May 2025
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-009.png" width="800"><br></div>
+- Data source: MN Dept. of Health, [20-year increase in suicide is slowing](https://www.health.state.mn.us/communities/suicide/documents/2024suicidedatabrief.pdf) also saved in [PDF](data/333-20-year-increase-in-suicide-is-slowing.pdf#?target=_blank) (2025-05-13)
 
-- Data source: MN Dept. of Health, lnkd.in/dhVDiRiM
+Based on early data from death certificates, the suicide rate for 2024 was 13.9 deaths per 100,000 people, similar to 2023. However, these 2024 numbers are preliminary and may change when finalized.
 
 +
 
