@@ -786,13 +786,13 @@ Brilliant example of a no metric is better than a flawed metric. Guess which is 
 
 Exceptions always happen but what about statistics? Because security is about avoiding incidents that can happen, thus is about preventing corner-cases. While safety is about mitigating risks even if it implies slightly increasing the frequency of undesired outcomes. Because undesired outcomes are subjective while fatalities are matter of fact.
 
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
+- Graph source: NIH, [Mental Health Information > Statistics > Suicide](https://www.nimh.nih.gov/health/statistics/suicide) also saved in [PDF](data/333-nimh-suicide-statistics.pdf#?target=_blank) (2025-09-03)
+
 Something gone tragically wrong between ChatGPT and Adam:
 
 - Adam mentioned suicide 213 times
 - ChatGPT, mentioned suicide 1275 times (6x times more)
-
-<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
-- Graph source: NIH, [Mental Health Information > Statistics > Suicide](https://www.nimh.nih.gov/health/statistics/suicide) also saved in [PDF](data/333-nimh-suicide-statistics.pdf#?target=_blank) (2025-09-03)
 
 By statistics, is the suicide rate increased or decreased after (2023-03-20) the introduction of the first chatbot? Decreased? AI helps, in general. Increased? Then a chatbot has the wrong approach (at least one, not necessarily all of them). Both claims can be true at the same time: the rate decreased but one chatbot (at least) is not helping. Stats is the general metric, corner cases and exceptions will always happen.
 
