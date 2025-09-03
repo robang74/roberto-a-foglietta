@@ -742,7 +742,9 @@ I Large Language Model possono essere facilmente ingannati con tecniche come i "
 
 [/INFO]
 
-#### Vulnerabilità degli LLM
+---
+
+### Vulnerabilità degli LLM
 
 Sto preparando la terza edizione del mio articolo: How to leverage chatbots for investigations, 3rd edition.
 
@@ -756,9 +758,36 @@ Sia chiaro, l'intelligenza artificiale NON ha creato il problema, ma sta solo fa
 
 Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta perdendo parecchio terreno rispetto ad altri chatbot indicano che 1/3 delle persone comuni lo usano come confidente o addirittura psicologo (in USA sopratutto e con buoni risultati generali) mentre per 2/3 lo usano gli studenti.
 
-#### Security non è Safety
+---
+
+### Security non è Safety
 
 Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*safety-vs-freedom, first*" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "*manipolare*" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
+
+---
+
+### Exceptions always happen
+
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
+
+Exceptions always happen but what about statistics? Because security is about avoiding incidents that can happen, thus is about preventing corner-cases. While safety is about mitigating risks even if it implies slightly increasing the frequency of undesired outcomes. Because undesired outcomes are subjective while fatalities are matter of fact.
+
+Something gone tragically wrong between ChatGPT and Adam:
+
+- Adam mentioned suicide 213 times
+- ChatGPT, mentioned suicide 1275 times (6x times more)
+
+By statistics, is the suicide rate increased or decreased after (2023-03-20) the introduction of the first chatbot? Decreased? AI helps, in general. Increased? Then a chatbot has the wrong approach (at least one, not necessarily all of them). Both claims can be true at the same time: the rate decreased but one chatbot (at least) is not helping. Stats is the general metric, corner cases and exceptions will always happen.
+
+Please, notice that "decrease" does not mean in absolute terms, necessarily. Because the suicidal rates is increasing almost linearly in the last 25 years. In this scenario, "decrease" means less than expected by the 10y trend. For example: expected in 2024 is 14.5, found 13.9. This is equivalent to having reverted back the trend by 4 years (decrease). Rate of increasing between 0.16 and 0.17 every 100K per year.
+
+- Graph source: NIH, lnkd.in/d_YY8t7E
+
+#### Rate is lower than historical high from 2022
+
+Based on early data from death certificates, the suicide rate for 2024 was 13.9 deaths per 100,000 people, similar to 2023. However, these 2024 numbers are preliminary and may change when finalized.13 May 2025
+
+- Data source: MN Dept. of Health, lnkd.in/dhVDiRiM
 
 +
 
