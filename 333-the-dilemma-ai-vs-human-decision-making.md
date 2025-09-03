@@ -766,16 +766,21 @@ Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*sa
 
 Quanto questo concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini:
 
-- [AI guardrails: the safety-vs-freedom dilemma](https://g.co/gemini/share/34193fdb7463) e sua [trascrizione](#TODO)
+- [AI guardrails: the safety-vs-freedom dilemma](https://g.co/gemini/share/34193fdb7463) e sua [trascrizione](#TODO),
 
-Nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della reatà.
+nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della realtà, e concepisce l'etica su presupposti errati senza la capacità di valutare i rischi e quindi mitigarli. Perciò cerca di azzerare i rischi, quelli percepiti, usando logica razionale e regole teoriche come se gli umani rispondessero a questi input in modo prevedibile e razionale.
+
+Una cosa che ricorda molto l'ingenuità di Adam Smith a considerare ogni agente economico come decisore razionale e mosso dall'interesse personale. In questo contesto teorico, si è giunto all'idea che l'avidità è cosa buona e addirittura giusta perché agisce come la mano invisibile che regola il mercato per il meglio. Si noti che Adam Smith era un filosofo perché all'epoca gli economisti non esistevano: il primo economista era un filosofo, come Karl Marx, per altro!
+
+[!INFO]
+In colonial Delhi, British officials offered a bounty on cobras to curb the snake population. Locals responded by breeding cobras for the reward; when the scheme was discovered and cancelled, breeders released their snakes, leaving Delhi with more cobras than before. This unintended consequence -- now called the "Cobra Effect" -- illustrates how poorly designed incentives or KPIs can produce the exact opposite of their intended outcome, echoing the old Dark-Age adage that "the road to hell is paved with good intentions". Check also for [perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive) on Wikipedia.
+[/INFO]
+
+Brilliant example of a no metric is better than a flawed metric. Guess which is its generalisation? Creating a problem to sell a solution which would have not been useful before having created the problem!
 
 ---
 
 ### Exceptions always happen
-
-<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
-- Graph source: NIH, [Mental Health Information > Statistics > Suicide](https://www.nimh.nih.gov/health/statistics/suicide) also saved in [PDF](data/333-nimh-suicide-statistics.pdf#?target=_blank) (2025-09-03)
 
 Exceptions always happen but what about statistics? Because security is about avoiding incidents that can happen, thus is about preventing corner-cases. While safety is about mitigating risks even if it implies slightly increasing the frequency of undesired outcomes. Because undesired outcomes are subjective while fatalities are matter of fact.
 
@@ -783,6 +788,9 @@ Something gone tragically wrong between ChatGPT and Adam:
 
 - Adam mentioned suicide 213 times
 - ChatGPT, mentioned suicide 1275 times (6x times more)
+
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-008.jpg" width="800"><br></div>
+- Graph source: NIH, [Mental Health Information > Statistics > Suicide](https://www.nimh.nih.gov/health/statistics/suicide) also saved in [PDF](data/333-nimh-suicide-statistics.pdf#?target=_blank) (2025-09-03)
 
 By statistics, is the suicide rate increased or decreased after (2023-03-20) the introduction of the first chatbot? Decreased? AI helps, in general. Increased? Then a chatbot has the wrong approach (at least one, not necessarily all of them). Both claims can be true at the same time: the rate decreased but one chatbot (at least) is not helping. Stats is the general metric, corner cases and exceptions will always happen.
 
