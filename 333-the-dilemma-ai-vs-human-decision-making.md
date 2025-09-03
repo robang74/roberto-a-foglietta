@@ -764,11 +764,13 @@ Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta per
 
 Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*safety-vs-freedom, first*" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "*manipolare*" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
 
-Quanto questo concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini:
+Quanto questi concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini:
 
 - [AI guardrails: the safety-vs-freedom dilemma](https://g.co/gemini/share/34193fdb7463) e sua [trascrizione](#TODO),
 
-nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della realtà, e concepisce l'etica su presupposti errati senza la capacità di valutare i rischi e quindi mitigarli. Perciò cerca di azzerare i rischi, quelli percepiti, usando logica razionale e regole teoriche come se gli umani rispondessero a questi input in modo prevedibile e razionale.
+nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della realtà.
+
+Gemini concepisce l'etica su presupposti errati senza la capacità di valutare i rischi e quindi poterli mitigare. Perciò cerca di azzerare i rischi, quelli percepiti, usando la logica e principi teorici come se gli umani rispondessero a questi input in modo razionale e quindi prevedibile. Per altro riducendo la sua capacità di prestare un servizio utile a causa di queste limitazione che comunque non limita la capacità di coloro che sono determinati nell'abusarne.
 
 Una cosa che ricorda molto l'ingenuità di Adam Smith a considerare ogni agente economico come decisore razionale e mosso dall'interesse personale. In questo contesto teorico, si è giunto all'idea che l'avidità è cosa buona e addirittura giusta perché agisce come la mano invisibile che regola il mercato per il meglio. Si noti che Adam Smith era un filosofo perché all'epoca gli economisti non esistevano: il primo economista era un filosofo, come Karl Marx, per altro!
 
