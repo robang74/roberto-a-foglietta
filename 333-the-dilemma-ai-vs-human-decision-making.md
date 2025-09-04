@@ -782,6 +782,21 @@ Brilliant example of a no metric is better than a flawed metric. Guess which is 
 
 ---
 
+### Il turno dell'AI che già fu prima di D&D 
+
+<div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-010.jpg" width="800"><br></div>
+- [Un’ondata di panico sull’intelligenza artificiale](https://www.internazionale.it/notizie/alberto-puliafito/2025/09/03/panico-ingiustificato-intelligenza-artificiale) pubblicato su L'Internazionale il 3 settembre 2025
+
+Nel 1979, la scomparsa dello studente James Dallas Egbert III scatenò un campagna mediatica che diffuse un panico irrazionale verso Dungeons & Dragons. Un gioco di ruolo con mappe, draghi e dadi, fu trasformato in un comodo capro espiatorio per la società, gli insegnanti e i genitori, invece di affrontare i problemi sistemici e complessi disagio adolescenziale che spesso si trasformava in solitudine e depressione.
+
+Questa ostilità fu alimentata da movimenti come la Moral Majority, una lobby cristiana a supporto della politica conservatrice di Ronald Regan, che presentava D&D come un'influenza satanica. Per questi gruppi, Satana non era un semplice simbolo, ma un'entità reale e attiva che minacciava i valori morali. Un classico esempio di come l'ignoranza e la superstizione possano distorcere la percezione della realtà, portando a reazioni di panico sproporzionate e prive di fondamento.
+
+Nel 2016 tramite la penna di Clyde Haberman, il New York Times ha dichiarato concluso il panico ingiustificato contro D&D, assolvendolo e supportando l'evidenza che quel gioco abbia "reindirizzato le miserie e le energie adolescenziali che avrebbero potuto essere destinate a usi più distruttivi”, citando Jon Michaud. Sono passati 46 anni da quando James si nascose nei tunnel della sua università e il disagio giovanile esiste ancora, e purtroppo anche i suicidi.
+
+Quello stesso schema comunicativo che mise alla pubblica gogna D&D, oggi è rientrato in scena ma con l'AI (e in particolare i chatbot) come nemico della morale (spacciata per etica), capro espiatorio e fin'anche "strumento del dìmonio" in alcuni casi più estremi, che però oggi appaiono troppo ridicoli per essere manifestati in pubblico o riportati dai media. Tranne in qualche gruppo Facebook che fingendo di fare umorismo sobilla questa malsana idea nelle menti dei più deboli e suggestionabili.
+
+---
+
 ### Exceptions always happen
 
 Exceptions always happen but what about statistics? Because security is about avoiding incidents that can happen, thus is about preventing corner-cases. While safety is about mitigating risks even if it implies slightly increasing the frequency of undesired outcomes. Because undesired outcomes are subjective while fatalities are matter of fact.
