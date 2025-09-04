@@ -5,11 +5,13 @@
 
 ## Il QE al tempo dell'analfabetismo funzionale
 
+https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR
+
 30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo. -- lnkd.in/dt9_Y6p9
 
 ---
 
-LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE!
+### LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE! (P.1)
 
 Il Giornale, peccato che non sia così come scrivete voi perché lo spread è un differenziale su un flottante e se il flottante cambia, anche il senso dello spread cambia. BTP a 10 anni nel 2022 a 3.04%, nel 2025 a 3.61% costa lo quasi uno 0.6% in più non un 1.4% in meno!
 
@@ -23,37 +25,9 @@ Come si chiama questo schema? Non so come viene chiamato negli ambienti chic ma 
 
 ---
 
-LA CREDIBILITÀ DI UN GOVERNO DI PRIMATI E LO SPREAD
+### LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE! (P.2)
 
-Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
-
-Un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron, stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
-
-Questione di percezione, loro non ci sono abituati, noi invece si.
-
-=-> lnkd.in/dfWDx6eW
-
-Poi perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico che avevano in deposito comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
-
-Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
-
----
-
-IL QE AL TEMPO DELL'ANALFABETISMO FUNZIONALE (P.2)
-
-=-> https://lnkd.in/dYV5FQ9r (parte prima)
-
-La parte incriminata dell'articolo de Il Giornale è qui sotto riportata.
-
-I BTP a 10 anni nel 2022 pagavano uno 3.04%, nel 2025 pagano lo 3.61%, questo differenziale costa allo Stato quasi uno 0.6% in più e NON un 1.4% in meno! 
-
-Perché? Nel 2024 i Bund tedeschi pagavano uno -0.5% e ora pagano lo 2,72% il 29 agosto 2025. Quindi 272+80 = 3.52%, che indica che nel frattempo rispetto alla pubblicazione dell'articolo il nostro spread è salito, a 89 punti quindi 3.61%
-
-Quindi non siamo noi che andiamo meglio, noi andiamo peggio. È la Germania che va molto peggio. Che poi spiega il motivo per il quale l'automotive in Italia è in default e sta chiudendo o fallendo. Perché i tedeschi erano i nostri migliori clienti, quelli che ci davano da mangiare.
-
----
-
-LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE!
+https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC
 
 Perché oggi lo spread btp-bund è 82.28 e poco tempo fa era 77, un numero così basso non si vedeva da praticamente MAI. Quindi va tutto a gonfie vele. Peccato, che non abbiano capito, come Giorgetti ridendo sotto i baffi, che lo spread è un differenziale.
 
@@ -85,8 +59,40 @@ Giusto per dire che lo spread è un po' insidioso ma è anche vero che in un qua
 
 ---
 
+LA CREDIBILITÀ DI UN GOVERNO DI PRIMATI E LO SPREAD
+
+Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
+
+Un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron, stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
+
+Questione di percezione, loro non ci sono abituati, noi invece si.
+
+=-> lnkd.in/dfWDx6eW
+
+Poi perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico che avevano in deposito comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
+
+Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
+
+---
+
+IL QE AL TEMPO DELL'ANALFABETISMO FUNZIONALE (P.2)
+
+https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV
+
+La parte incriminata dell'articolo de Il Giornale è qui sotto riportata.
+
+I BTP a 10 anni nel 2022 pagavano uno 3.04%, nel 2025 pagano lo 3.61%, questo differenziale costa allo Stato quasi uno 0.6% in più e NON un 1.4% in meno! 
+
+Perché? Nel 2024 i Bund tedeschi pagavano uno -0.5% e ora pagano lo 2,72% il 29 agosto 2025. Quindi 272+80 = 3.52%, che indica che nel frattempo rispetto alla pubblicazione dell'articolo il nostro spread è salito, a 89 punti quindi 3.61%
+
+Quindi non siamo noi che andiamo meglio, noi andiamo peggio. È la Germania che va molto peggio. Che poi spiega il motivo per il quale l'automotive in Italia è in default e sta chiudendo o fallendo. Perché i tedeschi erano i nostri migliori clienti, quelli che ci davano da mangiare.
+
+---
+
 L'EURO CI HA ROVINATO... AH NO!
 SIAMO STATI NOI STESSI! (Parte #1)
+
+https://www.linkedin.com/posts/robertofoglietta_leuro-ci-ha-rovinato-ah-no-siamo-stati-activity-7368335788238954496-ZbWZ
 
 Questo grafico qui sotto rappresenta l'andamento del rapporto tra il PIL pro capite italiano e quello mondiale 1960-2024 a prezzi costanti del 2015 e già questa è una "fregatura" visto che si sarebbe dovuto graficare a prezzi costanti del 2000 o 2001. 
 
@@ -110,6 +116,8 @@ In particolare, la burocrazia, l'incertezza legislativa e il gap tecnologico-sci
 
 L'EURO CI HA ROVINATO... AH NO!
 SIAMO STATI NOI STESSI! (Parte #2)
+
+https://www.linkedin.com/posts/robertofoglietta_leuro-ci-ha-rovinato-ah-no-siamo-stati-activity-7368347468847108096-s3jP
 
 Nel grafico qui sotto viene rappresentato l'evoluzione del rapporto PIL pro capite Italia ed Eurozona rispetto al PIL pro capite mondiale senza indicare a quale anno siano riferiti i prezzi costanti (al netto dell'inflazione, quindi solo prodotto in teoria ma c'è anche il waste nel PIL non solo il prodotto).
 
