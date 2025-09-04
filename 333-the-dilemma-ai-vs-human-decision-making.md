@@ -782,7 +782,7 @@ Brilliant example of a no metric is better than a flawed metric. Guess which is 
 
 ---
 
-### Il turno dell'AI che già fu prima di D&D 
+### Il turno dell'AI che già fu prima di D&D
 
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-010.jpg" width="800"><br></div>
 - [Un’ondata di panico sull’intelligenza artificiale](https://www.internazionale.it/notizie/alberto-puliafito/2025/09/03/panico-ingiustificato-intelligenza-artificiale) pubblicato su L'Internazionale il 3 settembre 2025
