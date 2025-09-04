@@ -45,9 +45,7 @@ debito/PIL +25% → pressione fiscale +23%
 
 Peccato che sia una cosa che possa andare avanti per un po', anche 30 anni, ma poi quando lo stipendio medio segna -3% su 25 anni, l'energia a costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crr.  tabella nei commenti), in un paese in cui l'80% dell'IRPEF è pagato dall'6% dei redditi, il trucco di gonfiare il PIL con i consumi interni, anche quelli base, termina e termina disastrosamente. 
 
----
-
-NOTA DI COLORE
+#### NOTA DI COLORE
 
 Il primo tentativo di calcolare un confronto l'ho fatto così
 
@@ -59,7 +57,7 @@ Giusto per dire che lo spread è un po' insidioso ma è anche vero che in un qua
 
 ---
 
-LA CREDIBILITÀ DI UN GOVERNO DI PRIMATI E LO SPREAD
+### LA CREDIBILITÀ DI UN GOVERNO DI PRIMATI E LO SPREAD
 
 Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
 
@@ -75,7 +73,7 @@ Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono 
 
 ---
 
-IL QE AL TEMPO DELL'ANALFABETISMO FUNZIONALE (P.2)
+### IL QE AL TEMPO DELL'ANALFABETISMO FUNZIONALE (P.2)
 
 https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV
 
@@ -177,7 +175,33 @@ D'altronde l'inverno demografico ha distrutto il patto sociale generazionale e i
 
 Però, certamente l'INPS è fallita quindi in principio questa transizione è corretta, in teoria. Anche in pratica se i fondi privati agiranno correttamente. Ma guardando agli "investimenti" effettuati negli ultimi 15 anni dalla cassa forense, il "sentimento" è che anche quei fondi saranno usati per scopi "politici" piuttosto che per gli scopi preposti.
 
-Siamo un paese fallito, perché siamo un paese di furbi (o meglio, che si credono tali).
+Siamo un paese fallito, perché siamo un paese di furbi (o meglio, di gente che si credono tali).
+
+---
+
+SIAMO ANDATI COSÌ AVANTI NEL FUTURO
+CHE SIAMO TORNATI ALLA PREISTORIA!
+
+https://www.linkedin.com/posts/robertofoglietta_siamo-andati-cos%C3%AC-avanti-nel-futuro-che-siamo-activity-7368561746967531521-Gd4s
+
+Quando tutto può essere riscritto in maniera arbitraria, ignorando la realtà (ma non si possono ignorare le conseguenze di ignorare la realtà, comunque) allora non solo il diritto cessa di esistere ma anche il senso stesso della scrittura (scriviamo su sabbia) e quindi è corretto dire che siamo tornati alla preistoria (prima della storia, prima della scrittura) avendo di fatto cancellato il vecchio detto latino: verba volant, scripta manent.
+
+Adesso con la scrittura digitale -- e grazie al falso documentale in atto pubblica, perpetrato mediante falso in atto privato e abuso d'ufficio depenalizzato, anche quella cartacea -- siamo andati così avanti nel futuro da essere tornati alla preistoria. Preferite un meteorite o un monolito in stile 2001 Odissea nello Spazio? LOL
+
+Scherzi a parte (ma in realtà è humor su una situazione molto grave), quando la scrittura cessa di avere la funzione che ad essa è sempre stata preposta diventa truffa sistemica così come la moneta stampata a debito senza alcun collaterale fisico. Quando ciò accade si torna alla barbarie ed è normale che emergano conflitti, ma non del tipo a cui eravamo abituati "war as business".
+
+Dopo 25 anni falso e relativismo universale (quindi 2001 non è una data presa a caso), la deriva del sistema inevitabilmente sfocia nella barbarie e poi i barbari (quelli con l'elmo con le corna in testa, ma non solo loro anche quelli pitturati di colori sgargianti o di nero) distruggono l'impero. Poi sorge un nuovo ordine. D'altronde il mondo pullula di rovine che erano un tempo monumenti di un impero che si credeva eterno.
+
+Ma prima del collasso, tutto ciò porta a conflitti molto seri e reali. Giacché cessato il diritto, abdicato alla diplomazia grazie al relativismo universale (tutto è discutibile), si sfocia nelle crociate. Ma soprattutto, viene meno qualsiasi alternativa al conflitto: scriveremo la storia con il sangue dei nostri nemici, oppure loro con il nostro di sangue (però questa seconda parte la dimentichiamo sempre, vero?). Inevitabilmente, perché tutto il resto "volant".
+
+Pensateci tutto il tempo che vi serve, ma non troppo.
+
+=-> https://lnkd.in/dPfntkEF (articolo completo)
+
+
+#### KIMI K2, SINTESI ESSENZIALE
+
+La cancellazione della scrittura come rottura del patto fondamentale tra linguaggio e realtà. (me: gulp!)
 
 +
 
