@@ -5,7 +5,7 @@
 
 ## Il QE al tempo dell'analfabetismo funzionale
 
-- **1st edition**, questo articolo trae origine da questi cinque [post #0](https://www.linkedin.com/posts/robertofoglietta_la-credibilit%C3%A0-di-un-governo-di-primati-e-activity-7250160205932417024-WwPK), [post #1](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7364752051672596487-r9Ac), [post #2](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR), [post #3](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV) e [post #4]([post #4](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC)) pubblicati su LinkedIn
+- **1st edition**, questo articolo trae origine da questi cinque [post #1](https://www.linkedin.com/posts/robertofoglietta_la-credibilit%C3%A0-di-un-governo-di-primati-e-activity-7250160205932417024-WwPK), [post #2](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7364752051672596487-r9Ac), [post #3](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR), [post #4](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV) e [post #5]([post #4](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC)) pubblicati su LinkedIn
 
 ---
 
@@ -16,6 +16,12 @@
 [/INFO]
 
 Peccato che non sia così come scrivrovo perché lo spread è un differenziale su un flottante e se il flottante cambia, anche il senso dello spread cambia. BTP a 10 anni nel 2022 a 3.04%, nel 2025 a 3.61% costa uno 0.6% in più non un 1.4% in meno!
+
+I BTP a 10 anni nel 2022 pagavano uno 3.04%, nel 2025 pagano lo 3.61%, questo differenziale costa allo Stato quasi uno 0.6% in più e NON un 1.4% in meno! 
+
+Perché? Nel 2024 i Bund tedeschi pagavano uno -0.5% e ora pagano lo 2,72% il 29 agosto 2025. Quindi 272 + 80 = 3.52%, che indica che nel frattempo rispetto alla pubblicazione dell'articolo il nostro spread è salito, a 89 punti quindi 3.61%
+
+Quindi non siamo noi che andiamo meglio, noi andiamo peggio. È la Germania che va molto peggio. Che poi spiega il motivo per il quale l'automotive in Italia è in default e sta chiudendo o fallendo. Perché i tedeschi erano i nostri migliori clienti, quelli che ci davano da mangiare.
 
 [!INFO]
 30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo. -- [La Repubblica](https://www.repubblica.it/economia/2025/08/30/news/spread_btp_bund_tesoretto_13_miliardi_governo-424816565/)
@@ -95,20 +101,6 @@ Questo governo non farebbe ridere nemmeno se si esibissero al circo!
 
 ---
 
-### IL QE AL TEMPO DELL'ANALFABETISMO FUNZIONALE (P.2)
-
-https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV
-
-La parte incriminata dell'articolo de Il Giornale è qui sotto riportata.
-
-I BTP a 10 anni nel 2022 pagavano uno 3.04%, nel 2025 pagano lo 3.61%, questo differenziale costa allo Stato quasi uno 0.6% in più e NON un 1.4% in meno! 
-
-Perché? Nel 2024 i Bund tedeschi pagavano uno -0.5% e ora pagano lo 2,72% il 29 agosto 2025. Quindi 272+80 = 3.52%, che indica che nel frattempo rispetto alla pubblicazione dell'articolo il nostro spread è salito, a 89 punti quindi 3.61%
-
-Quindi non siamo noi che andiamo meglio, noi andiamo peggio. È la Germania che va molto peggio. Che poi spiega il motivo per il quale l'automotive in Italia è in default e sta chiudendo o fallendo. Perché i tedeschi erano i nostri migliori clienti, quelli che ci davano da mangiare.
-
----
-
 L'EURO CI HA ROVINATO... AH NO!
 SIAMO STATI NOI STESSI! (Parte #1)
 
@@ -177,9 +169,9 @@ Il concetto di "equilibrio finanziario" si basa sul fatto che l'interesse applic
 
 Questo però è solo parte della storia perché il PIL non è solo inflazionato ma contiene anche una quota di spreco: cade un ponte che avrebbe dovuto essere soggetto a manutenzione e invece abbiamo falsificato le evidenze, quindi lo ricostruiamo e questo aumenta il PIL più che a mantenerlo (e ad evitare la tragedia come nel caso del ponte Morandi oggi ponte San Giorgio) ma non ha aumentato il prodotto, ha aumentato lo spreco.
 
-debito 2.28x → costo della vita oltre 2x
-debito/PIL +25% → pressione fiscale +23%
-=-> lnkd.in/ddqPt-W4
+- debito 2.28x → costo della vita oltre 2x
+- debito/PIL +25% → pressione fiscale +23%
+- [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
 
 Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuandolo a negare, si giunge all'estinzione con l'inverno demografico.
 
@@ -216,9 +208,9 @@ Dopo 25 anni falso e relativismo universale (quindi 2001 non è una data presa a
 
 Ma prima del collasso, tutto ciò porta a conflitti molto seri e reali. Giacché cessato il diritto, abdicato alla diplomazia grazie al relativismo universale (tutto è discutibile), si sfocia nelle crociate. Ma soprattutto, viene meno qualsiasi alternativa al conflitto: scriveremo la storia con il sangue dei nostri nemici, oppure loro con il nostro di sangue (però questa seconda parte la dimentichiamo sempre, vero?). Inevitabilmente, perché tutto il resto "volant".
 
-Pensateci tutto il tempo che vi serve, ma non troppo.
+- [Why have Biden’s preemptive pardons caused such a stir?](https://robang74.github.io/roberto-a-foglietta/html/334-raccolta-di-post-sulla-crisi-di-gaza.html#why-have-bidens-preemptive-pardons-caused-such-a-stir)
 
-=-> https://lnkd.in/dPfntkEF (articolo completo)
+Pensateci tutto il tempo che vi serve, ma non troppo.
 
 
 #### KIMI K2, SINTESI ESSENZIALE
