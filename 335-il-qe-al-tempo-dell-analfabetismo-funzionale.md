@@ -5,7 +5,7 @@
 
 ## Il QE al tempo dell'analfabetismo funzionale
 
-- **1st edition**, questo articolo trae origine da questi quattro [post #1](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7364752051672596487-r9Ac), [post #2](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR), [post #3](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV) e [post #4]([post #4](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC)) pubblicati su LinkedIn
+- **1st edition**, questo articolo trae origine da questi cinque [post #0](https://www.linkedin.com/posts/robertofoglietta_la-credibilit%C3%A0-di-un-governo-di-primati-e-activity-7250160205932417024-WwPK), [post #1](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7364752051672596487-r9Ac), [post #2](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR), [post #3](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV) e [post #4]([post #4](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC)) pubblicati su LinkedIn
 
 ---
 
@@ -31,31 +31,29 @@ Si noti che il buco da 13 miliardi è stimato come valore di riferimento dove il
 
 ---
 
-### Lo spread è un differenziale su un flottante! (p.2)
+### Dritti versi al default con il sole in fronte!
 
-https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC
+Uno spread btp-bund di 82 o 77, è un numero così basso non si vedeva da praticamente MAI. Quindi va tutto a gonfie vele. Peccato, che non abbiano capito, come Giorgetti ridendo sotto i baffi, che lo spread è un differenziale. Ma una cosa che, evidentemente non ha capito nemmeno Giorgetti, è un differenziale su un **flottante**, non su un indice fisso.
 
-Perché oggi lo spread btp-bund è 82.28 e poco tempo fa era 77, un numero così basso non si vedeva da praticamente MAI. Quindi va tutto a gonfie vele. Peccato, che non abbiano capito, come Giorgetti ridendo sotto i baffi, che lo spread è un differenziale.
+Quindi occorre andare a vedere come evolve il flottante. Attualmente, i bund tedeschi 10Y segnano +1.92% ma i bond decennali della Germania stavano sotto allo -0.50% pre-covid. Ancora al 19 giugno 2022 erano a -0.40%.
 
-Ma cosa che evidentemente non ha capito nemmeno Giorgetti, è un differenziale su un FLOTTANTE, non su un indice fisso. Quindi occorre andare a vedere come evolve il flottante. Attualmente, i bund tedeschi 10Y segnano +1.92% ma i bond decennali della Germania stavano sotto allo -0.50% pre-covid. Ancora il 19 giugno 2022 erano a -0.40%.
+In questo scenario i BTP italiani a 10Y hanno un rendimento fra 3.50% e 3.60%, quindi se riferiti ad un bund al -0.40% è come se all'epoca del governo Conte II si fosse stati a 390-400 di spread. Una tragedia che avrebbe scatenato l'infermo ma oggi, non succede, perchè?
 
-Oggi, i BTP italiani a 10Y hanno un rendimento fra 3.50% e 3.60%, quindi se riferiti ad un bund al -0.40% è come se all'epoca del governo Conte II si fosse stati a 390-400 di spread. Una tragedia che avrebbe scatenato l'infermo ma oggi, non succede, perchè?
+Ovviamente splende il sole perché il "pallino" dello spread la BCE non lo ha più, quindi nemmeno l'Europa. Perché? Beh, Pfizer & Covid-19, PNRR di cui l'80% di tutte le infrazioni in EU27 sono aperte a carico dell'Italia, Ukraine War, Re-Arm EU, etc.
 
-Ovviamente splende il sole perché il "pallino" dello spread la BCE non lo ha più, quindi nemmeno l'Europa. Perché? Beh, Pfizer & Covid-19, PNRR di cui l'80% di tutte le infrazioni in EU27 sono aperte a carico dell'Italia, Ukraine War, Re-Arm EU... dritti verso il default ma con il sole in fronte!
+Insomma puntiamo dritti verso il default ma, secondo la stampa mainstream, con il sole in fronte. Perché il debito, che è continuato a crescere inesorabilmente, in pratica è sostenuto in rapporto al PIL che è gonfiato con l'inflazione dei prezzi al consumo:
 
-Perché il debito, che è continuato a crescere inesorabilmente, in pratica è sostenuto in rapporto al PIL che è gonfiato con l'inflazione dei prezzi al consumo:
-
-debito 2.28x → costo della vita oltre 2x
-debito/PIL +25% → pressione fiscale +23%
-=-> https://lnkd.in/ddqPt-W4
+- debito 2.28x → costo della vita oltre 2x
+- debito/PIL +25% → pressione fiscale +23%
+- [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
 
 Peccato che sia una cosa che possa andare avanti per un po', anche 30 anni, ma poi quando lo stipendio medio segna -3% su 25 anni, l'energia a costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crr.  tabella nei commenti), in un paese in cui l'80% dell'IRPEF è pagato dall'6% dei redditi, il trucco di gonfiare il PIL con i consumi interni, anche quelli base, termina e termina disastrosamente. 
 
-#### NOTA DI COLORE
+#### Nota di colore
 
 Il primo tentativo di calcolare un confronto l'ho fatto così
 
---> 192+40+82 = 314 oppure 192+40+82 = 324
+- `192+40+82 = 314` oppure `192+40+82 = 324`
 
 ma appena fatto un controllo incrociato mi sono accorto che i conti non tornavano (3.50% non è 3.14%). Però invece, applicando la definizione propria di differenziale, con riferimento a -0.40% di base e 3.50% attuale, allora è immediatamente chiaro che 390 sia il differenziale a flottante del 19 giugno 2022 e 400 quello riferibile alla pandemia pre-covid.
 
@@ -63,7 +61,7 @@ Giusto per dire che lo spread è un po' insidioso ma è anche vero che in un qua
 
 ---
 
-### LA CREDIBILITÀ DI UN GOVERNO DI PRIMATI E LO SPREAD
+### La credibilità di un governo di primati e lo spread
 
 Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
 
@@ -71,11 +69,29 @@ Un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità
 
 Questione di percezione, loro non ci sono abituati, noi invece si.
 
-=-> lnkd.in/dfWDx6eW
-
 Poi perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico che avevano in deposito comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
 
 Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
+
+[!INFO]
+9 ottobre 2024 -- Psb, ok di Camera e Senato a risoluzione maggioranza. Giorgetti: spread giù di 100 punti grazie a credibilità governo. Il via libera di Montecitorio è arrivato con 183 voti a favore, 118 contrari e 2 astenuti. Quello di palazzo Madama con 95 sì, 66 no e 4 astenuti. Precluse, quindi, in entrambi i casi, le risoluzioni presentate delle opposizioni, su cui il governo aveva dato parere contrario [Il Sole 24 ore](https://www.ilsole24ore.com/art/psb-ok-camera-risoluzione-maggioranza-giorgetti-spread-giu-100-punti-grazie-credibilita-governo-AGUTjeS)
+[/INFO]
+
+Se fosse per la credibilità del governo avremmo lo spread sulla Luna, il merito è della de-dollarizzazione se per 8 miliardi di BTP a 30 anni ci sono 130 miliardi di offerte. 
+
+Al G7 di Puglia era atteso la corona dell'Arabia Saudita ma visto che su di lui pende l'accusa di essere il mandante del feroce omicidio del giornalista scrittore Khashoggi ha ritenuto opportuno declinare l'invito all'ultimo momento sapendo che in Italia la sovranità nazionale e i diritti umani sono alla mercè di chiunque offra un obolo o persino una vana promessa.
+
+Il giorno dopo ha deciso di non rinnovare il contratto c.d. dei petroldollari, in vigore da 50 anni, togliendo l'ultimo back-up residuo al dollaro e facendolo diventare "paper money", moneta cartolare, priva di qualsiasi relazione con qualsiasi controvalore concreto, in pratica una banconota il cui valore è alla spera in dio come, a questo punto correttamente, cita la facciata della banconota da $1: in god, we trust.
+
+Ora, si da' il caso che essendo divenuto il dollaro americano carta straccia e di dollari, in quanto valuta di riserva finanziaria globale nonché tradizionalmente l'unica utilizzata per gli scambi internazionali, ce ne sono in quantità enormi allora meglio comprare la qualunque cosa, pure i BTP italiani a 30 anni, che tenersi quella valuta in cassa liquida.
+
+Fantasie? Interpretazioni soggettive? Mica tanto, se lo chiede a qualcuno che ha messo la pulce nell'orecchio della questione Khashoggi a sua maestà il principe dell'Arabia Saudita e con largo anticipo affinché potesse verificare e decidere di sua propria sponte.
+
+Anche perché, diversamente, sarebbe stato poco igienico passargli informazioni false e poi pensare di passarla liscia come se si facesse parte della CIA, che poi nemmeno loro la passano liscia, infatti mandano avanti -- fra tutti, preferibilmente -- gli italiani che muoiono avvelenati da un liquore tipo nocino fatto con noccioli di pesche non adeguatamente trattati e quindi relativa dose mortale di cianuro. 
+
+Gente che poi la Farnesina, spesso lascia al loro destino o se li va a riprendere solo dopo che la notizia è trapelata attraverso la stampa nazionale. Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, territorio d'oltremare spagnolo, che perso l'ultimo aereo per ritornare in Italia, a Genova in particolare, sono stati lasciati per oltre una settimana a dormire in aeroporto, sul pavimento. Chissà se gli chiedevano l'euro quando dovevano andare in bagno per le naturali necessità?
+
+Questo governo non farebbe ridere nemmeno se si esibissero al circo!
 
 ---
 
