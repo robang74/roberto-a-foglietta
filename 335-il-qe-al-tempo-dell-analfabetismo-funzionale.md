@@ -5,27 +5,33 @@
 
 ## Il QE al tempo dell'analfabetismo funzionale
 
-https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR
-
-30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo. -- lnkd.in/dt9_Y6p9
+- **1st edition**, questo articolo trae origine da questi quattro [post #1](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7364752051672596487-r9Ac), [post #2](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7367809268672061440-JXgR), [post #3](https://www.linkedin.com/posts/robertofoglietta_il-qe-al-tempo-dellanalfabetismo-funzionale-activity-7368301697196027905-GpVV) e [post #4]([post #4](https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC)) pubblicati su LinkedIn
 
 ---
 
-### LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE! (P.1)
+### Lo spread è un differenziale su un flottante!
 
-Il Giornale, peccato che non sia così come scrivete voi perché lo spread è un differenziale su un flottante e se il flottante cambia, anche il senso dello spread cambia. BTP a 10 anni nel 2022 a 3.04%, nel 2025 a 3.61% costa lo quasi uno 0.6% in più non un 1.4% in meno!
+[!INFO]
+22 agosto 2025 -- Spread, Francia agganciata. I mercati premiano la stabilità. Ci ricordiamo tutti il terrore per una nuova crisi dello spread che una larga fetta di media, istituzioni e politica diffondeva, nell’estate-autunno del 2022, in vista del probabile successo del centro destra alle elezioni del 25 settembre di quell’anno. Lo spread, nelle settimane della vigilia, era intorno ai 220 punti (un Btp a 10 anni rendeva il 2,2% in più del corrispondente Bund tedesco). Oggi lo spread oscilla sugli 80 punti: significa -- in estrema sintesi -- che il debito pubblico costa allo Stato l’1,4% in meno di tre anni fa. Ancora più impressione è il confronto con la Francia: nel settembre 2022 lo spread con l’Italia era di 160 punti, mentre in questi giorni è sceso addirittura sotto a quota 10 (pari allo 0,1% di rendimento a 10 anni). -- [Il Giornale](https://www.ilgiornale.it/news/borsa-e-mercati/spread-francia-agganciata-i-mercati-premiano-stabilit-2525697.html)
+[/INFO]
 
-=-> lnkd.in/dVAN7cHV
+Peccato che non sia così come scrivrovo perché lo spread è un differenziale su un flottante e se il flottante cambia, anche il senso dello spread cambia. BTP a 10 anni nel 2022 a 3.04%, nel 2025 a 3.61% costa uno 0.6% in più non un 1.4% in meno!
 
-La Repubblica, quindi cosa succede? La gente è indotta in errore dalla stampa, il governo annuncia l'esistenza di un tesoretto derivante da una falsa percezione dello spread che fa sembrare che si paghino meno interessi (-1.4%) ma in realtà se ne pagano di più (+0.6%) e quindi c'è un buco da 13 miliardi che invece viene fatto passare per un tesoretto. 
+[!INFO]
+30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo. -- [La Repubblica](https://www.repubblica.it/economia/2025/08/30/news/spread_btp_bund_tesoretto_13_miliardi_governo-424816565/)
+[/INFO]
 
-Risultato finale: il buco sarà di 26 miliardi perché ovviamente il tesoretto lo spendono, quindi il buco raddoppia.
+Quindi cosa succede? La gente è indotta in errore dalla stampa, il governo annuncia l'esistenza di un tesoretto derivante da una falsa percezione dello spread che fa sembrare che si paghino meno interessi (-1.4%) ma in realtà se ne pagano di più (+0.6%) e quindi c'è un buco da 13 miliardi che invece viene fatto passare per un tesoretto.
+
+**Risultato finale**: il buco sarà di 26 miliardi perché ovviamente il tesoretto lo spendono, quindi il buco raddoppia.
 
 Come si chiama questo schema? Non so come viene chiamato negli ambienti chic ma io lo chiamo, con humor e anche con cognizione di causa, il trucco della groviera svizzera: il formaggio intorno ai buchi, più buchi che formaggio! Ci sarebbe da ridere se non ci fosse da piangere.
 
+Si noti che il buco da 13 miliardi è stimato come valore di riferimento dove il valore reale potrebbe essere 5.6, 13 o 18.6 a seconda di come hanno fatto il calcolo errato. Di conseguenza il buco finale sarà 13 + {5.6, 13, 18.6} sempre nell'ipotesi di sopra. Un modo quanto mai bamale ma esemplare per trasmettere il concetto che quando non si sa fare di conte, i numeri sono "volanti" e perdono di significato. Diventano opinioni, appunto.
+
 ---
 
-### LO SPREAD È UN DIFFERENZIALE SU UN FLOTTANTE! (P.2)
+### Lo spread è un differenziale su un flottante! (p.2)
 
 https://www.linkedin.com/posts/robertofoglietta_lo-spread-%C3%A8-un-differenziale-su-un-flottante-activity-7363211970113683462-_mAC
 
