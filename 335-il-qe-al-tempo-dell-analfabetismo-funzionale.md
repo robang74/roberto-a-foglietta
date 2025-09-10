@@ -53,17 +53,7 @@ Insomma puntiamo dritti verso il default ma, secondo la stampa mainstream, con i
 - debito/PIL +25% → pressione fiscale +23%
 - [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
 
-Peccato che sia una cosa che possa andare avanti per un po', anche 30 anni, ma poi quando lo stipendio medio segna -3% su 25 anni, l'energia a costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crr.  tabella nei commenti), in un paese in cui l'80% dell'IRPEF è pagato dall'6% dei redditi, il trucco di gonfiare il PIL con i consumi interni, anche quelli base, termina e termina disastrosamente. 
-
-#### Nota di colore
-
-Il primo tentativo di calcolare un confronto l'ho fatto così
-
-- `192+40+82 = 314` oppure `192+40+82 = 324`
-
-ma appena fatto un controllo incrociato mi sono accorto che i conti non tornavano (3.50% non è 3.14%). Però invece, applicando la definizione propria di differenziale, con riferimento a -0.40% di base e 3.50% attuale, allora è immediatamente chiaro che 390 sia il differenziale a flottante del 19 giugno 2022 e 400 quello riferibile alla pandemia pre-covid.
-
-Giusto per dire che lo spread è un po' insidioso ma è anche vero che in un quarto d'ora si riesce a dominare come concetto matematico, con l'applicazione di semplici regole algebriche, per altro.
+Peccato che sia una cosa che possa andare avanti per un po', anche 30 anni, ma poi quando lo stipendio medio segna -3% su 25 anni, l'energia a costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crf.  tabella nei commenti), in un paese in cui l'80% dell'IRPEF è pagato dall'6% dei redditi, il trucco di gonfiare il PIL con i consumi interni, anche quelli base, termina e termina disastrosamente.
 
 ---
 
@@ -114,9 +104,9 @@ Ovviamente il PIL mondiale ha cominciato a salire perché la Cina è diventata l
 
 Invece noi, per tenere il rapporto debito/PIL entro un range ragionevole (costante) abbiamo inflazionato i prezzi al consumo e aumentato la pressione fiscale, fra cui l'IRPEF che congelato gli stipendi (e in 25 anni quello medio è sceso del -3%, dove in paesi come l'Irlanda o quelli dell'est è salito di due cifre talvolta raddoppiato). Però noi siamo quelli furbi della cucciolata!
 
-debito 2.28x → costo della vita oltre 2x
-debito/PIL +25% → pressione fiscale +23%
-=-> lnkd.in/ddqPt-W4
+- debito 2.28x → costo della vita oltre 2x
+- debito/PIL +25% → pressione fiscale +23%
+- [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
 
 Nel secondo grafico possiamo osservare che la nostra (pop.: 59mln,) incapacità di gestire i fondi europei rispetto alla Francia (pop.: 69mln, x2.71) e alla Germania (pop.: 84mln, x4.90) ha costituito un grave limite non solo allo sviluppo delle infrastrutture pubbliche ma anche nel mantenere capitali privati e attrarre investimenti dall'estero.
 
