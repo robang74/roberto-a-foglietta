@@ -66,6 +66,12 @@ In questo scenario il trucco di gonfiare il PIL con i consumi interni, anche que
 
 ---
 
+> [!WARN]
+> 
+> **WORK IN PROGRESS, DOWN FROM HERE**
+
+---
+
 ### La credibilità di un governo di primati e lo spread
 
 Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
