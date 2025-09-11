@@ -12,7 +12,7 @@
 ### Lo spread è un differenziale su un flottante!
 
 [!INFO]
-22 agosto 2025 -- Spread, Francia agganciata. I mercati premiano la stabilità. Ci ricordiamo tutti il terrore per una nuova crisi dello spread che una larga fetta di media, istituzioni e politica diffondeva, nell’estate-autunno del 2022, in vista del probabile successo del centro destra alle elezioni del 25 settembre di quell’anno. Lo spread, nelle settimane della vigilia, era intorno ai 220 punti (un Btp a 10 anni rendeva il 2,2% in più del corrispondente Bund tedesco). Oggi lo spread oscilla sugli 80 punti: significa -- in estrema sintesi -- che **il debito pubblico costa allo Stato l’1,4% in meno di tre anni fa**. Ancora più impressione è il confronto con la Francia: nel settembre 2022 lo spread con l’Italia era di 160 punti, mentre in questi giorni è sceso addirittura sotto a quota 10 (pari allo 0,1% di rendimento a 10 anni). -- [Il Giornale](https://www.ilgiornale.it/news/borsa-e-mercati/spread-francia-agganciata-i-mercati-premiano-stabilit-2525697.html)
+22 agosto 2025 -- Spread, Francia agganciata. I mercati premiano la stabilità. Ci ricordiamo tutti il terrore per una nuova crisi dello spread (...), nell’estate-autunno del **2022**, in vista del probabile successo del centro destra alle elezioni del 25 settembre di quell’anno. Lo spread, nelle settimane della vigilia, era intorno ai **220 punti** (un Btp a 10 anni rendeva il **2,2%** in più del corrispondente Bund tedesco). Oggi lo spread oscilla sugli **80 punti**: significa -- in estrema sintesi -- che **il debito pubblico costa allo Stato l’1,4% in meno di tre anni fa**. Ancora più impressione è il confronto con la Francia: nel settembre 2022 lo spread con l’Italia era di 160 punti, mentre in questi giorni è sceso addirittura sotto a quota 10 (pari allo 0,1% di rendimento a 10 anni). -- [Il Giornale](https://www.ilgiornale.it/news/borsa-e-mercati/spread-francia-agganciata-i-mercati-premiano-stabilit-2525697.html)
 [/INFO]
 
 Peccato che non sia così come scrivono perché lo spread è un differenziale su un flottante e se il flottante cambia, anche il senso dello spread cambia. I BTP a 10 anni nel 2022 pagavano uno 3.04%, nel 2025 pagano lo 3.61%, questo differenziale costa allo Stato quasi uno 0.6% in più e NON un 1.4% in meno! 
@@ -22,7 +22,8 @@ Perché? Nel 2024 i Bund tedeschi pagavano uno -0.5% e ora (al 29 agosto 2025) p
 In buona sostanza non siamo noi che andiamo meglio, noi andiamo peggio. È la Germania che va molto peggio. Che poi spiega il motivo per il quale l'automotive in Italia è in default e sta chiudendo o fallendo. Perché i tedeschi erano i nostri migliori clienti, quelli che ci davano da mangiare.
 
 [!INFO]
-30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo. -- [La Repubblica](https://www.repubblica.it/economia/2025/08/30/news/spread_btp_bund_tesoretto_13_miliardi_governo-424816565/)
+30 Agosto 2025 -- Dal calo dello spread in arrivo un tesoretto fino a 13 miliardi di euro per le casse dello Stato. Con uno differenziale tra i titoli decennali inferiore a 100 punti base, il risparmio sugli interessi passivi raggiunge i 4-5 miliardi già nel 2025 e oltre 7-8 miliardi l’anno prossimo.<br>
+ -- [La Repubblica](https://www.repubblica.it/economia/2025/08/30/news/spread_btp_bund_tesoretto_13_miliardi_governo-424816565/)
 [/INFO]
 
 Ma se andiamo peggio, cosa stiamo leggendo in quesot articolo? La gente è indotta in errore dalla stampa: si annuncia l'esistenza di un tesoretto derivante da una falsa percezione dello spread che fa sembrare che si paghino meno interessi (-1.4%) ma in realtà se ne pagano di più (+0.6%) e quindi c'è un buco da 13 miliardi che invece viene fatto passare per un tesoretto.
@@ -57,7 +58,11 @@ In Russia, quando Boris Yeltsin venne sostituito da Vladymir Putin, questo fenom
 
 Infatti, lo stipendio medio in Italia segna -3% su 25 anni, quindi **non** l'Euro che ci ha fatto perdere potere d'acquisto ma la politica inflazionista dei prezzi al consumo per la sostenibilità del debito a sua volta a crescere. Perché se il debito pubblico non cresce, non esiste la necessità di inflazionare i prezzi per sostenerlo in termini di rapporto debito/PIL.
 
-Si aggiunga a questo scenario, il fatto che in Italia l'energia abbia costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crf.  tabella nei commenti), in un paese in cui il 42% dell'IRPEF del 2022 è pagato dal 5% dei redditi (ricchi), il 63% dal 15% (+benestanti) e il 76% dal 24% (+classe media), il trucco di gonfiare il PIL con i consumi interni, anche quelli di base, non può avere speranza e necessariamente finirà in modo disastroso. Perché in questo modo non aumentano i consumi interni, aumenta il loro volume fino poi, però, a collassare in un'economia di sussitenza.
+Si aggiunga, il fatto che in Italia l'energia abbia costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crf.  tabella nei commenti), in un paese in cui il 42% dell'IRPEF del 2022 è pagato dal 5% dei redditi (ricchi), il 63% dal 15% (+benestanti) e il 76% dal 24% (+classe media).
+
+<div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-002.png"><br/></div>
+
+In questo scenario il trucco di gonfiare il PIL con i consumi interni, anche quelli di base, non può avere speranza e necessariamente finirà in modo disastroso. Perché in questo modo non aumentano i consumi interni, aumenta il loro volume fino poi, però, a collassare in un'economia di sussitenza.
 
 ---
 
