@@ -98,11 +98,11 @@ Per questo è così importante mascherare la vera natura della tragedia al punto
 
 Sia chiaro, il lock-in totale dei capitali incluso quello umano, di fatto è una dichiarazione di default oppure "uscire dall'Europa per salvarsi" come nella narrativa di qualcuno. Il che ci porta a dire che ne l'una e nell'altra di queste cose capiterà.
 
-La prima perché non è possibile senza la seconda e la seconda perché la BCE non lo ammette, anche se l'Europa negoziasse favorevolmente un Italexit, sarebbe default ugualmente perché il debito pubblico rimmarebbe titolato in euro e non potrebbe essere convertito arbitrario in diversa valuta senza comunque un aggancio all'Euro. 
+La prima perché non è possibile senza la seconda e la seconda perché la BCE non lo ammette, anche se l'Europa negoziasse favorevolmente un Italexit, sarebbe default ugualmente perché il debito pubblico rimarrebbe titolato in euro e non potrebbe essere convertito arbitrario in diversa valuta senza comunque un aggancio all'Euro.  
 
 Quindi anche se fosse convertito in Lira Nuova e questa inflazionasse, il volume del debito crescerebbe della stessa misura dell'inflazione, non solo nel rendimento ma anche sulla base dovuta. In pratica, solo il default si può negoziare e null'altro.
 
-Ma considerando che l'ultima volta che il defautl dell'Italia è stato [negoziato](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) a condizioni e in condizioni estremamente favorevoli, e la risposta immeditatamente seguente è stata letteralmente una [merda](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank), pare ovvio e ragionevole che non vi sia nulla di ulteriormente negoziabile.
+Ma considerando che l'ultima volta che il default dell'Italia è stato [negoziato](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) a condizioni e in condizioni estremamente favorevoli, e la risposta immediatamente seguente è stata letteralmente una [merda](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank), pare ovvio e ragionevole che non vi sia nulla di ulteriormente negoziabile.
 
 ---
 
@@ -117,6 +117,12 @@ Questione di percezione, loro non ci sono abituati, noi invece si.
 Poi perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico che avevano in deposito comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
 
 Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
+
+Una affermazione "forte" richiede altrettanto "forti" argomentazioni, e allora dobbiamo fare un passo indietro quando l'Italia ospitò il G7 in Puglia. Ovvero, in parole povere, non è il governo che vivacchia sulle falsificazione dello spread ma sul contesto geopolitico molto particolare che accidentalmente risulta più favorevole ad un paese europeo come l'Italia, paradossalmente, proprio per la ragione sopra enunciata.
+
+---
+
+### Quando l'Italia ospitò il G7 in Puglia
 
 [!INFO]
 9 ottobre 2024 -- Psb, ok di Camera e Senato a risoluzione maggioranza. Giorgetti: spread giù di 100 punti grazie a credibilità governo. Il via libera di Montecitorio è arrivato con 183 voti a favore, 118 contrari e 2 astenuti. Quello di palazzo Madama con 95 sì, 66 no e 4 astenuti. Precluse, quindi, in entrambi i casi, le risoluzioni presentate delle opposizioni, su cui il governo aveva dato parere contrario
@@ -135,7 +141,7 @@ Fantasie? Interpretazioni soggettive? Mica tanto, se lo chiede a qualcuno che ha
 
 Anche perché, diversamente, sarebbe stato poco igienico passargli informazioni false e poi pensare di passarla liscia come se si facesse parte della CIA, che poi nemmeno loro la passano liscia, infatti mandano avanti -- fra tutti, preferibilmente -- gli italiani che muoiono avvelenati da un liquore tipo nocino fatto con noccioli di pesche non adeguatamente trattati e quindi relativa dose mortale di cianuro. 
 
-Gente che poi la Farnesina, spesso lascia al loro destino o se li va a riprendere solo dopo che la notizia è trapelata anche attraverso la stampa nazionale.
+Gente che poi la Farnesina spesso lascia al loro destino o se li va a riprendere solo dopo che la notizia è trapelata anche attraverso la stampa nazionale e abbia trovato qualche riscontro d'interesse.
 
 Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, territorio d'oltremare spagnolo, che perso l'ultimo aereo per ritornare in Italia, a Genova in particolare, sono stati lasciati per oltre una settimana a dormire in aeroporto, sul pavimento. Chissà se gli chiedevano la moneta da un euro quando dovevano andare in bagno per le naturali necessità?
 
