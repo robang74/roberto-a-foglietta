@@ -227,6 +227,8 @@ Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazio
 
 <div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-004.png"><br/></div>
 
+- La demografia nel carello della spesa &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) &nbsp; [html](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) &nbsp; [lnkd](https://www.linkedin.com/pulse/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta) &nbsp; (2019-05-01)
+
 Non è la Cina o la Russia il nostro nemico. Anzi, siamo noi che abbiamo bisogno di costruire un nemico per andare in guerra, far morire tante persone quanto ne serve per mascherare il default e quindi ricominciare con il medesimo schema. Però gli altri nel frattempo si sono evoluti mentre noi ripetiamo gli stessi schemi malati che seppure ci hanno permesso di nascondere a noi stessi la realtà, poi conducono al fine definitiva. WW1, WW2 e quindi WW3.
 
 Come diceva Einstein "non so con quali armi si combatterà la WW3, ma la WW4 sarà combattuta con pietre e bastoni". In realtà no, siamo già tornati alla preistoria. Perché le armi che abbiamo usato non sono quelle che Einstein supponeva (armi nucleari) ma la digitalizzazione e la finanza. Doveva essere uno schema di Ponzi su scala globale nel quale noi avremmo vinto tutto, ma questo schema di Ponzi è andato avanti così a lungo (almeno 35 anni oltre il necessario, cioè dopo il collasso dell'URSS) anche la generazione successiva ha finito per "crederci".
