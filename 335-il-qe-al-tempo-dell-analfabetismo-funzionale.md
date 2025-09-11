@@ -96,6 +96,12 @@ Quando il Bund risale l’Italia non potrà più nascondersi dietro il “calo d
 
 Per questo è così importante mascherare la vera natura della tragedia al punto da far pensare che i tassi stiano calando quando invece stanno aumentando perché a salire è il rendimento dei bund tedeschi e a scendere è solo il differenziale ma meno di quanto salga il nostro tasso.
 
+Sia chiaro, il lock-in totale dei capitali incluso quello umano, di fatto è una dichiarazione di default oppure "uscire dall'Europa per salvarsi" come nella narrativa di qualcuno. Il che ci porta a dire che ne l'una e nell'altra di queste cose capiterà.
+
+La prima perché non è possibile senza la seconda e la seconda perché la BCE non lo ammette, anche se l'Europa negoziasse favorevolmente un Italexit, sarebbe default ugualmente perché il debito pubblico rimmarebbe titolato in euro e non potrebbe essere convertito arbitrario in diversa valuta senza comunque un aggancio all'Euro. 
+
+Quindi anche se fosse convertito in Lira Nuova e questa inflazionasse, il volume del debito crescerebbe della stessa misura dell'inflazione, non solo nel rendimento ma anche sulla base dovuta. In pratica, solo il default si può negoziare e null'altro.
+
 ---
 
 > [!WARN]
