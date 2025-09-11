@@ -58,7 +58,7 @@ In Russia, quando Boris Yeltsin venne sostituito da Vladymir Putin, questo fenom
 
 Infatti, lo stipendio medio in Italia segna -3% su 25 anni, quindi **non** l'Euro che ci ha fatto perdere potere d'acquisto ma la politica inflazionista dei prezzi al consumo per la sostenibilità del debito a sua volta a crescere. Perché se il debito pubblico non cresce, non esiste la necessità di inflazionare i prezzi per sostenerlo in termini di rapporto debito/PIL.
 
-Si aggiunga, il fatto che in Italia l'energia abbia costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crf.  tabella nei commenti), in un paese in cui il 42% dell'IRPEF del 2022 è pagato dal 5% dei redditi (ricchi), il 63% dal 15% (+benestanti) e il 76% dal 24% (+classe media).
+Si aggiunga, il fatto che in Italia l'energia abbia costi fra i più alti in Europa e nel mondo (8x rispetto all'India e Cina, crf. tabella qui sotto), in un paese in cui il 42% dell'IRPEF del 2022 è pagato dal 5% dei redditi (ricchi), il 63% dal 15% (+benestanti) e il 76% dal 24% (+classe media).
 
 <div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-002.png"><br/></div>
 
