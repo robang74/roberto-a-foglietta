@@ -102,13 +102,7 @@ La prima perché non è possibile senza la seconda e la seconda perché la BCE n
 
 Quindi anche se fosse convertito in Lira Nuova e questa inflazionasse, il volume del debito crescerebbe della stessa misura dell'inflazione, non solo nel rendimento ma anche sulla base dovuta. In pratica, solo il default si può negoziare e null'altro.
 
-Ma considerando che l'ultima volta che il defautl dell'Italia è stato [negoziato](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) a condizioni e in condizioni estremamente favorevoli, la risposta immeditatamente sucessiva è stata letteralmente una [merda](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) pare ovvio e ragionevole che non vi sia nulla ulteriormente di negoziabile.
-
----
-
-> [!WARN]
-> 
-> **WORK IN PROGRESS, DOWN FROM HERE**
+Ma considerando che l'ultima volta che il defautl dell'Italia è stato [negoziato](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) a condizioni e in condizioni estremamente favorevoli, e la risposta immeditatamente seguente è stata letteralmente una [merda](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank), pare ovvio e ragionevole che non vi sia nulla di ulteriormente negoziabile.
 
 ---
 
@@ -141,11 +135,15 @@ Fantasie? Interpretazioni soggettive? Mica tanto, se lo chiede a qualcuno che ha
 
 Anche perché, diversamente, sarebbe stato poco igienico passargli informazioni false e poi pensare di passarla liscia come se si facesse parte della CIA, che poi nemmeno loro la passano liscia, infatti mandano avanti -- fra tutti, preferibilmente -- gli italiani che muoiono avvelenati da un liquore tipo nocino fatto con noccioli di pesche non adeguatamente trattati e quindi relativa dose mortale di cianuro. 
 
-Gente che poi la Farnesina, spesso lascia al loro destino o se li va a riprendere solo dopo che la notizia è trapelata attraverso la stampa nazionale. Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, territorio d'oltremare spagnolo, che perso l'ultimo aereo per ritornare in Italia, a Genova in particolare, sono stati lasciati per oltre una settimana a dormire in aeroporto, sul pavimento. Chissà se gli chiedevano l'euro quando dovevano andare in bagno per le naturali necessità?
+Gente che poi la Farnesina, spesso lascia al loro destino o se li va a riprendere solo dopo che la notizia è trapelata anche attraverso la stampa nazionale.
 
-Questo governo non farebbe ridere nemmeno se si esibissero al circo!
+Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, territorio d'oltremare spagnolo, che perso l'ultimo aereo per ritornare in Italia, a Genova in particolare, sono stati lasciati per oltre una settimana a dormire in aeroporto, sul pavimento. Chissà se gli chiedevano la moneta da un euro quando dovevano andare in bagno per le naturali necessità?
 
 ---
+
+> [!WARN]
+> 
+> **WORK IN PROGRESS, DOWN FROM HERE**
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.1)
 
