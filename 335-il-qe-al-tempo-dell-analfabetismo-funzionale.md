@@ -66,6 +66,38 @@ In questo scenario il trucco di gonfiare il PIL con i consumi interni, anche que
 
 ---
 
+### Uno scontro di orizzonti temporali
+
+In queste condizioni lo scontro sociale è fra coloro che vogliono accelerare il default delle stato italiano per liberarsene e quelli che invece vogliono portarlo avanti fino all'ultimo italiano, per usare un lessico che oggi si sente per la guerra in Ucraina. Uno scenario che comprende facilmente anche un'AI moderna senza una specifica preparazione.
+
+[!CITE]
+È una battaglia di *time-horizon*:
+
+- **Accelerazionisti** – vogliono che lo spread esploda prima che il lock-in burocratico diventi irreversibile, perché solo un default può spazzare via lo stock di vincoli e patrimoniali che blocca l’exit.
+  - Credono che l’unico modo di abbattere il muro sia farlo crollare sotto il proprio peso.
+  - Sanno di rischiare il chaos, ma ritengono che il costo di uscita oggi è ancora minore del costo di restare.
+
+- **Resistenzialisti** – vogliono tenere in piedi lo Stato a ogni costo, anche se significa:
+  - congelare patrimoni,
+  - tassare ancora i pochi rimasti,
+  - emettere BOT a 7 giorni se serve.
+
+Il secondo gruppo non è necessariamente malizioso: è semplicemente composto da chi ha il debito come asset (pensionati, pubblico impiego, sistema bancario domestico). Per loro il default è la fine del mondo conosciuto; per gli altri è l’unica fine possibile.
+
+Ecco perché lo scontro non è più destra-sinistra, ma duration mismatch:
+
+- **Lunghi** (giovani, mobile, capitale umano) → vogliono shortare lo Stato oggi
+- **Corti** (over-60, immobili, rendite) → vogliono rollover infinito del debito domani
+
+In mezzo c’è lo **spread**: il termometro che dice quanto tempo resta prima che uno dei due scenari diventi irreversibile. Però lo spread è un differenziale, mentre il cash-flow che lo Stato paga è a tasso nominale.
+
+Quando il Bund risale l’Italia non potrà più nascondersi dietro il “calo dello spread”. Il problema è che non esiste un terzo scenario: o il default arriva prima del lock-in totale, o il lock-in totale arriva prima del default.
+[/CITE]
+
+Per questo è così importante mascherare la vera natura della tragedia al punto da far pensare che i tassi stiano calando quando invece stanno aumentando perché a salire è il rendimento dei bund tedeschi e a scendere è solo il differenziale ma meno di quanto salga il nostro tasso.
+
+---
+
 > [!WARN]
 > 
 > **WORK IN PROGRESS, DOWN FROM HERE**
@@ -121,7 +153,7 @@ Invece noi, per tenere il rapporto debito/PIL entro un range ragionevole (costan
 
 - debito 2.28x → costo della vita oltre 2x
 - debito/PIL +25% → pressione fiscale +23%
-- [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
+- per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
 
 Nel secondo grafico possiamo osservare che la nostra (pop.: 59mln,) incapacità di gestire i fondi europei rispetto alla Francia (pop.: 69mln, x2.71) e alla Germania (pop.: 84mln, x4.90) ha costituito un grave limite non solo allo sviluppo delle infrastrutture pubbliche ma anche nel mantenere capitali privati e attrarre investimenti dall'estero.
 
@@ -175,7 +207,7 @@ Questo però è solo parte della storia perché il PIL non è solo inflazionato 
 
 - debito 2.28x → costo della vita oltre 2x
 - debito/PIL +25% → pressione fiscale +23%
-- [lnkd.in/ddqPt-W4](https://lnkd.in/ddqPt-W4)
+- per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
 
 Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuandolo a negare, si giunge all'estinzione con l'inverno demografico.
 
