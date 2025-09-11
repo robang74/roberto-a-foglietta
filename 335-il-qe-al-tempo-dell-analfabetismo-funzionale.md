@@ -102,6 +102,8 @@ La prima perché non è possibile senza la seconda e la seconda perché la BCE n
 
 Quindi anche se fosse convertito in Lira Nuova e questa inflazionasse, il volume del debito crescerebbe della stessa misura dell'inflazione, non solo nel rendimento ma anche sulla base dovuta. In pratica, solo il default si può negoziare e null'altro.
 
+Ma considerando che l'ultima volta che il defautl dell'Italia è stato [negoziato](315-non-c-e-secondo-podio-negli-schemi-ponzi.md#?target=_blank) a condizioni e in condizioni estremamente favorevoli, la risposta immeditatamente sucessiva è stata letteralmente una [merda](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) pare ovvio e ragionevole che non vi sia nulla ulteriormente di negoziabile.
+
 ---
 
 > [!WARN]
