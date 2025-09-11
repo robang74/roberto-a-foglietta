@@ -153,7 +153,9 @@ Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, ter
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.1)
 
-Questo grafico qui sotto rappresenta l'andamento del rapporto tra il PIL pro capite italiano e quello mondiale 1960-2024 a prezzi costanti del 2015 e già questa è una "fregatura" visto che si sarebbe dovuto graficare a prezzi costanti del 2000 o 2001. 
+Questo grafico qui sotto (sx) rappresenta l'andamento del rapporto tra il PIL pro capite italiano e quello mondiale 1960-2024 a prezzi costanti del 2015 e già questa è una "fregatura" visto che si sarebbe dovuto graficare a prezzi costanti del 2000 o 2001.
+
+<div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-003.png"><br/></div>
 
 Comunque,  indovinate cos 'è successo nel 2001? La Cina è entrata nel WTO (world trade organisation) quindi nel commercio internazionale.
 
@@ -175,27 +177,27 @@ In particolare, la burocrazia, l'incertezza legislativa e il gap tecnologico-sci
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.2)
 
-Nel grafico qui sotto viene rappresentato l'evoluzione del rapporto PIL pro capite Italia ed Eurozona rispetto al PIL pro capite mondiale senza indicare a quale anno siano riferiti i prezzi costanti (al netto dell'inflazione, quindi solo prodotto in teoria ma c'è anche il waste nel PIL non solo il prodotto).
+Nel grafico qui sopra (sx) viene rappresentato l'evoluzione del rapporto PIL pro capite Italia ed Eurozona rispetto al PIL pro capite mondiale senza indicare a quale anno siano riferiti i prezzi costanti (al netto dell'inflazione, quindi solo prodotto in teoria ma c'è anche il waste nel PIL non solo il prodotto).
 
 Qui entra in scena chiaramente la dot-com bubble (2001). Gli informatici erano strapagati, io nel 2000 valevo come primo impiego tra i 60 e i 120 milioni di lire di RAL a seconda del negoziato: secondo il direttore 60mln e secondo i miei colleghi 120mln perché ero bravo quanto loro e si faceva "sindacato". A 100 avrei firmato a metà strada 90 avrei probabilmente ceduto. Se la gente guadagna bene, spende molto quindi il PIL cresce. All'epoca erano valori di acquisto reale da €60K - €120K equivalenti.
 
 L'altro evento, quello che proprio ci ha stroncato, è il collasso del mercato immobiliare (2008). Perché non è solo crollato il prezzo degli immobili ma anche le transazioni relative. Dopo il crash del mercato i proprietari non volevano vendere perché non accettavano il crollo dei prezzi.
 
-Non solo, ma il patrimonio immobiliare (il sacro mattone) veniva largamente usato sia come investimento (perché i prezzo cresceva sempre) e come riserva di valore. Dopo solo una gestione oculata degli affitti poteva portare una rendita passiva. Ma la cosa più tragica è che la seconda mazzata (crisi sub-prime loan) ha mandato in tilt il modello Italia che sembrava forte e lanciato ma in realtà era fragile, per le scelte che avevamo fatto.
+Non solo, ma il patrimonio immobiliare (il sacro mattone) veniva largamente usato sia come investimento (perché il prezzo cresceva sempre) e come riserva di valore. Dopo solo una gestione oculata degli affitti poteva portare una rendita passiva. Ma la cosa più tragica è che la seconda mazzata (crisi subprime loan) ha mandato in tilt il modello Italia che sembrava forte e lanciato ma in realtà era fragile per le scelte che avevamo fatto.
 
-La Cina nel WTO (2001) ha avuto un profondo impattato anche sull'Europa, ovviamente. A conferma che a parità di moneta unica solo l'Italia ha perso terreno o lo ha perso in modo considerevolmente maggiore della media degli altri paesi ma Francia e Germania non sono i paesi in UE27 che sono cresciuti maggiormente in percentuale rispetto alla media.
+La Cina nel WTO (2001) ha avuto un profondo impatto anche sull'Europa, ovviamente. A conferma che a parità di moneta unica solo l'Italia ha perso terreno o lo ha perso in modo considerevolmente maggiore della media degli altri paesi ma Francia e Germania non sono i paesi UE27 che sono cresciuti maggiormente in percentuale rispetto alla media.
 
 Anche in questo caso sono state le nostre scelte a condizionare l'attuale situazione: abbiamo privilegiato gli anziani e in particolare i pensionati quelli con la formula retributiva a scapito dei giovani e dei lavoratori che già in proporzione erano meno della generazioni precedenti. Questo ha portato all'inverno demografico perché è vero che il consumismo privilegia i single ma senza soldi non c'è nemmeno la scelta fra le due opzioni.
 
-Allora gli immigrati? Stanno peggio degli italiani, sicuramente. Nonostante questo figliano molto di più. Per due motivi: 1. la loro cultura ancora pre-consumistica e 2. psicologia generalmente in Italia stanno molto meglio rispetto a dov'erano e tendono a stare sempre meglio se si integrano.
+Allora gli immigrati? Stanno peggio degli italiani, sicuramente. Nonostante questo, figliano molto di più. Per due motivi: 1. la loro cultura ancora pre-consumistica e 2. psicologia generalmente in Italia stanno molto meglio rispetto a dov'erano e tendono a stare sempre meglio se si integrano.
 
-Al consumismo si può rinunciare, ma se la  percezione del futuro è nera, figliare non è percepito come vantaggioso: meno figli, più sicurezza. Quindi il 3° elemento è la propensione al rischio maggiore negli immigrati della paura della povertà.
+Al consumismo si può rinunciare, ma se la  percezione del futuro è nera, figliare non è percepito come vantaggioso: meno figli, più sicurezza. Quindi il 3° elemento è la propensione al rischio maggiore negli immigrati della paura della povertà.
 
 ---
 
 ### Crescita del PIL mondiale vs Eurozona
 
-Quello che però questo grafico non dice è che il PIL mondiale è cresciuto di parecchio:
+Quello che però il grafico sopra (dx) non dice è che il PIL mondiale è cresciuto di parecchio, di oltre 2.5 volte:
 
 [!INFO]
 Il PIL mondiale è passato da circa 44,4 trilioni di dollari nel 1990 a circa 111,3 trilioni di dollari nel 2024, con stime che prevedono un'ulteriore crescita nel 2025. La Cina è diventata la seconda economia mondiale dopo gli Stati Uniti, mentre le proiezioni future indicano un consolidamento degli Stati Uniti come prima economia e una continua crescita della Cina. -- Google AI preview.
@@ -203,7 +205,7 @@ Il PIL mondiale è passato da circa 44,4 trilioni di dollari nel 1990 a circa 11
 
 Parliamo di un fattore 2.5x non bazzecole. Ma se facciamo un'analisi -- invece che a prezzi costanti che è puramente teorica -- a PIL costante -- spostamento della produzione -- cioè nel suo complesso il mondo continua a produrre tanto come prima allora si comprende perché noi abbiamo perso 2.5x di potere d'acquisto.
 
-La popolazione mondiale è passata da circa 5,3 miliardi nel 1990 a oltre 8 miliardi nel 2023 e, nel 2025, si stima che sarà di circa 8,2 miliardi di persone. -- Google AI preview.
+La popolazione mondiale è passata da circa 5.3 miliardi nel 1990 a oltre 8 miliardi nel 2023 e, nel 2025, si stima che sarà di circa 8.2 miliardi di persone. -- Google AI preview.
 
 Nel frattempo la popolazione è cresciuta di 1.55x volte curiosamente questo valore è prossimo a 2.5/1.55 = 1.62, e infatti che sqrt(2.5) = 1.58. Questo suggerisce che la nostra perdita di potere d'acquisto superiore a 1.55-1.62, è peggio di aver mantenuto la posizione in un mondo che cambia, ma di essere affondanti tanto quanto il mondo cambiava: per ogni passo in avanti che i BRICS hanno fatto, noi europei (e in particolare l'Italia) ne abbiamo fatto uno indietro.
 
@@ -222,6 +224,8 @@ Questo però è solo parte della storia perché il PIL non è solo inflazionato 
 - per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
 
 Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuandolo a negare, si giunge all'estinzione con l'inverno demografico.
+
+<div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-004.png"><br/></div>
 
 Non è la Cina o la Russia il nostro nemico. Anzi, siamo noi che abbiamo bisogno di costruire un nemico per andare in guerra, far morire tante persone quanto ne serve per mascherare il default e quindi ricominciare con il medesimo schema. Però gli altri nel frattempo si sono evoluti mentre noi ripetiamo gli stessi schemi malati che seppure ci hanno permesso di nascondere a noi stessi la realtà, poi conducono al fine definitiva. WW1, WW2 e quindi WW3.
 
