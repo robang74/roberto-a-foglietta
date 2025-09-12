@@ -177,7 +177,7 @@ Aumento del deficit/PIL inferiore al 3% anno, secondo l'accordo di Maastricht pe
    - `SFA`: Stock-Flow Adjustments sono le varie ed eventuali nel bilancio di un condominio
    - `interessi`: gestione finanziaria, generalmente in Italia compensata dall'avanzo primario
    - `%PIL`: variazione % del PIL, un valore molto piccolo moltiplicato per fattore < 1.35x
-   - `deficit`: `entrate − uscite` di cassa per gestione ordinaria, avanzo primario
+   - `deficit`: `entrate − uscite` di cassa per gestione ordinaria, [avanzo](https://robang74.github.io/roberto-a-foglietta/html/linkedin/lavanzo-primario-non-salver%C3%A0-litalia-roberto-a-foglietta.html) [primario](https://www.linkedin.com/pulse/lavanzo-primario-non-salver%25C3%25A0-litalia-roberto-a-foglietta)
 
 Quindi, in generale in Italia, l'aumento del debito pubblico, nonostante il progressivo aumento della pressione fiscale necessario a compensare un aumento progressivo nel tempo degli interessi, dipende da aumenti dei budget o nuove voci di spesa. Che in teoria, cioè in letteratura, dovrebbero essere un volano per rilanciare il PIL del paese (moltiplicatore economico) ma che in Italia funzionano solo come assistenzialismo alle medie o grandi imprese appaltatrici della Pubblica Amministrazione.
 
