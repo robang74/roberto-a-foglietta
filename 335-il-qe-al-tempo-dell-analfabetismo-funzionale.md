@@ -108,19 +108,19 @@ Ma considerando che l'ultima volta che il default dell'Italia è stato [negoziat
 
 ### La credibilità di un governo di primati e lo spread
 
-Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale?
+Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale mentre da noi si scrivono articoli mistificando il significato dello spread e nulla pare accadere?
 
-Un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron, stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
+Questione di percezione, loro **non** ci sono abituati, noi invece si.
 
-Questione di percezione, loro non ci sono abituati, noi invece si.
+Perciò si preannuncia un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron (infatti dal post&nbsp;#5 al 2025-09-10 sono passate meno di due settimane e [Parigi](https://stream24.ilsole24ore.com/video/mondo/proteste-francia-parigi-caos-scontri-e-oltre-200-arresti/AH9r4QYC) è tornata a bruciare), stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
 
-Poi perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico che avevano in deposito comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
+Ma non è solo questione di percezione ma anche perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico, che la Svizzera aveva a deposito, comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
 
-Così come più volte dichiarato nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
+Così come più volte dichiarato, indirettamente e velatamente nel dare consigli ai paesi europei sull'immigrazione, nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
 
-Una affermazione "forte" richiede altrettanto "forti" argomentazioni, e allora dobbiamo fare un passo indietro quando l'Italia ospitò il G7 in Puglia. Ovvero, in parole povere, non è il governo che vivacchia sulle falsificazione dello spread ma sul contesto geopolitico molto particolare che accidentalmente risulta più favorevole ad un paese europeo come l'Italia, paradossalmente, proprio per la ragione sopra enunciata.
+L'ultima può apparire un'affermazione "forte" e quindi richiede altrettanto "forti" argomentazioni, e allora dobbiamo fare un passo indietro quando l'Italia ospitò il G7 in Puglia. Ovvero, in parole povere, non è il governo che vivacchia sulle falsificazione dello spread ma sul contesto geopolitico molto particolare che accidentalmente risulta più favorevole ad un paese europeo come l'Italia, paradossalmente, proprio per la ragione sopra enunciata.
 
----
+~~~~
 
 ### Quando l'Italia ospitò il G7 in Puglia
 
