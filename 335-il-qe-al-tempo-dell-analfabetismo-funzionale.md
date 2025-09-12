@@ -178,20 +178,47 @@ Aumento del deficit/PIL inferiore al 3% anno, secondo l'accordo di Maastricht pe
 - `%(debito/PIL) = %(deficit + interessi − (%PIL × debito))/PIL + SFA`
    - `SFA`: Stock-Flow Adjustments sono le varie ed eventuali nel bilancio di un condominio
    - `interessi`: gestione finanziaria, generalmente in Italia compensata dall'avanzo primario
-   - `%PIL`: variazione del PIL, un valore molto basso moltiplicato per meno di 1.5x
-   - `deficit`: entrate − uscite di cassa per gestione ordinaria, avanzo primario
+   - `%PIL`: variazione % del PIL, un valore molto piccolo moltiplicato per fattore < 1.35x
+   - `deficit`: `entrate − uscite` di cassa per gestione ordinaria, avanzo primario
 
 Quindi, in generale in Italia, l'aumento del debito pubblico, nonostante il progressivo aumento della pressione fiscale necessario a compensare un aumento progressivo nel tempo degli interessi, dipende da aumenti dei budget o nuove voci di spesa. Che in teoria, cioè in letteratura, dovrebbero essere un volano per rilanciare il PIL del paese (moltiplicatore economico) ma che in Italia funzionano solo come assistenzialismo alle medie o grandi imprese appaltatrici della Pubblica Amministrazione.
 
-... 
+Altre due voci importanti della quota di incremento del debito pubblico che fa capo alla voce assistenzialismo e che hanno un impatto rilevante sono: 1. le pensioni, la voce più grande, perché evidentemente l'INPS non è in grado di "funzionare" a ciclo chiuso per sua stessa istituzione e calo demografico, 2. il reddito di cittadinanza (2019-2024) che ha sicuramente contribuito all'inflazione dei prezzi al consumo ma senza apportare un reale incremento della produzione di valore nemmeno in termini di capitale umano o invenzioni/brevetti.
 
-Nel secondo grafico possiamo osservare che la nostra (pop.: 59mln,) incapacità di gestire i fondi europei rispetto alla Francia (pop.: 69mln, x2.71) e alla Germania (pop.: 84mln, x4.90) ha costituito un grave limite non solo allo sviluppo delle infrastrutture pubbliche ma anche nel mantenere capitali privati e attrarre investimenti dall'estero.
+Il punto centrale è che, in queste condizioni di passività/inerzia sociale, sia pensioni sia RdC sono erogazioni che nel bilancio dello stato figurano ambedue come trasferimenti puri. Perciò, il loro contributo al PIL è temporaneo perché se tali erogazioni virtualmente cessassero il PIL avrebbe un calo relativo 1:1, mentre il debito che generano è "per sempre" come un diamante visto che ambedue non generano né prodotto e ne valore aggiuntivi.
 
-In particolare, la burocrazia, l'incertezza legislativa e il gap tecnologico-scientifico hanno giocato un ruolo rilevante in tutti questi aspetti, e in particolare nell'ultimo. Fino al punto per il quale oggi non siamo nemmeno più un paese concorrenziale sul piano del turismo.
+Pensionati e giovani disoccupati si prendono l'aperitivo al bar pagato dei contribuenti e nel migliore della ipotesi discutono del nulla, oppure di come estendere o aumentare le erogazioni a loro favore. Un sogno di comunista memoria privo di ideologia in cui molti sono allattati a spritz dai pochi che lavorano e disponendo di tempo libero assurgono virtualmente anche a classe dirigente visto che sono gli stakeholders più coinvolti in quel tipo di politica.
+
+Difficile resistere alla tentazione di aggregarsi a loro in termini di partecipazione alla vita sociale, secondo la logica del "transfer society" descritta da Olson e Buchanan. Manca solo la speranza nell'avvento del Salvatore della Patria che azzera il debito pubblico con un magia e il quadro generale del sogno italico è completo!
+
+**Attenzione, non serve essere esperti**
+
+Come autore, non ho un titolo universitario in Economia e Finanza della PA, e infatti mi sono fatto aiutare da [Gemini](https://g.co/gemini/share/7f41d982f711) e [Kimi&nbsp;K2](Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/d324ci98bjvmdf93nrkg) per cercare di essere un po' più preciso. Eppure l'analisi che sono riuscito a produrre è **molto** più sofisticata di quella che si può recepire parlando con la gente comune che è anche la massa votante. Questo significa due cose: 
+
+1. che l'educazione basilare su questi temi è assente in Italia,
+2. che i giornalisti non se ne curano affatto. 
+
+Inutile dire che entrambe queste due ipotesi sono ampiamente verificate, anzi ormai i giornali stessi diffondono disinformazione. Mentre per il primo punto abbiamo il posto fisso fra i tre paesi sviluppati con maggiore analfabetismo funzionale (USA, Messico e Italia) contendendoci con loro il primo posto.
+
+Tutto ciò non è **solo** frutto di un accidente e non è nemmeno **solo** frutto della sola politica o del susseguirsi dei governi, è una questione culturale che sistematicamente sminuisce l'importanza del sapere astratto ma utile, insomma predilige l'ignoranza che persino talvolta è presentata come motivo d'orgoglio.
+
+**Eccezioni ed approfondimenti**
+
+Dal 2013 al 2019, l’Italia ha ridotto il deficit strutturale, ma il debito è salito comunque per due ragioni: 1. crescita nulla o negativa (`%PIL ~ 0%`) e 2. interessi ancora significativi, anche se calati dal 2014 ma solo perché la BCE ha ridotto il tasso di sconto, che ora sta alzando, però. L'effetto a cascata si riversa sui bund tedeschi che riduce lo spread con i BTP italiani ma comunque offerti a tassi d'interesse superiori.
+
+Il taglio dell'IRPEF 2022-2023, non è una manovra di governance italiana ma l'effetto del PNRR (Recovery & Resilience Plan), quindi finanziato con i fondi Next-Generation-EU che vale 5mld 2022, 7mld 2023, poi 8mld strutturali dal 2024. In effetti è una misura una-tantum nel senso che, quando i fondi UE finiscono (2026), il taglio va coperto con gettito interno o tagli di spesa, altrimenti diventa deficit strutturale ma il governo l’ha inserita nel Recovery plan per farla passare come “riforma di struttura” e non come semplice bonus una-tantum. 
+
+Però l'80% delle eccezioni elevate per la gestione del PNRR nella UE27 fanno capo all'Italia e questo propende all'idea nel grafico il "Bazooka" di Berlino in cui l'Italia non primeggia (gestione di fondi della UE) finirà per essere un boomerang perché quelle violazioni che saranno accertate si trasformeranno in prestiti a condizioni di mercato e con un tasso di sconto (BCE) attuale del 4% si tratta di una mazzata molto potente non solo in termini di volume ma anche di futura gestione finanziaria. Il che comporta anche una potentissima leva per manipolare la politica italiana nel prossimo futuro (post-2026).
+
+Per subire una mazzata totale anche sui crediti già erogati e validati servirebbe che emergesse una frode sistemica documentata ma considerando l'attuale livello della governance e l'italico entusiasmo a fare l'assalto alla diligenza non è un blackswan da scartare a priori, anzi. In questo caso il piano "prossima generazione europa" in Italia sarebbe la sprangata finale o alla concezione attuale della pubblica amministrazione (aka default tecnico) oppure la totale glaciazione demografica (aka estinzione dell'italico ceppo). C'è ottimismo nell'aria, fin'ora.
 
 ---
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.2)
+
+Nel secondo grafico possiamo osservare che la nostra (pop.: 59mln) incapacità di gestire i fondi europei rispetto alla Francia (pop.: 69mln, x2.71) e alla Germania (pop.: 84mln, x4.90) ha costituito un grave limite non solo allo sviluppo delle infrastrutture pubbliche ma anche nel mantenere capitali privati e attrarre investimenti dall'estero.
+
+In particolare, la burocrazia, l'incertezza legislativa e il gap tecnologico-scientifico hanno giocato un ruolo rilevante in tutti questi aspetti, e in particolare nell'ultimo. Fino al punto per il quale oggi non siamo nemmeno più un paese concorrenziale sul piano del turismo.
 
 Nel grafico qui sopra (sx) viene rappresentato l'evoluzione del rapporto PIL pro capite Italia ed Eurozona rispetto al PIL pro capite mondiale senza indicare a quale anno siano riferiti i prezzi costanti (al netto dell'inflazione, quindi solo prodotto in teoria ma c'è anche il waste nel PIL non solo il prodotto).
 
