@@ -193,7 +193,7 @@ Difficile resistere alla tentazione di aggregarsi a loro in termini di partecipa
 
 **Attenzione, non serve essere esperti**
 
-Come autore, non ho un titolo universitario in Economia e Finanza della PA, e infatti mi sono fatto aiutare da [Gemini](https://g.co/gemini/share/7f41d982f711) e [Kimi&nbsp;K2](Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/d324ci98bjvmdf93nrkg) per cercare di essere un po' più preciso. Eppure l'analisi che sono riuscito a produrre è **molto** più sofisticata di quella che si può recepire parlando con la gente comune che è anche la massa votante. Questo significa due cose: 
+Come autore, non ho un titolo universitario in Economia e Finanza della PA, e infatti mi sono fatto aiutare da [Gemini](https://g.co/gemini/share/7f41d982f711) e [Kimi&nbsp;K2](https://www.kimi.com/share/d324ci98bjvmdf93nrkg) per cercare di essere un po' più preciso. Eppure l'analisi che sono riuscito a produrre è **molto** più sofisticata di quella che si può recepire parlando con la gente comune che è anche la massa votante. Questo significa due cose: 
 
 1. che l'educazione basilare su questi temi è assente in Italia,
 2. che i giornalisti non se ne curano affatto. 
