@@ -28,7 +28,7 @@ In buona sostanza non siamo noi che andiamo meglio, noi andiamo peggio. È la Ge
 
 Ma se andiamo peggio, cosa stiamo leggendo in quesot articolo? La gente è indotta in errore dalla stampa: si annuncia l'esistenza di un tesoretto derivante da una falsa percezione dello spread che fa sembrare che si paghino meno interessi (-1.4%) ma in realtà se ne pagano di più (+0.6%) e quindi c'è un buco da 13 miliardi che invece viene fatto passare per un tesoretto.
 
-**Risultato finale**: il buco sarà di 26 miliardi perché ovviamente il tesoretto lo spendono, quindi il buco raddoppia.
+- **Risultato finale**: giacché, ovviamente il "tesoretto immaginario" lo spendono, il buco sarà il doppio.
 
 Come si chiama questo schema? Non so come viene chiamato negli ambienti chic ma io lo chiamo, con humor e anche con cognizione di causa, il trucco della groviera svizzera: il formaggio intorno ai buchi, più buchi che formaggio! Ci sarebbe da ridere se non ci fosse da piangere.
 
@@ -110,17 +110,17 @@ Ma considerando che l'ultima volta che il default dell'Italia è stato [negoziat
 
 Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 135% rapporto debito/PIL) in Francia cadrà il governo e sono ad un passo da uno scontro sociale mentre da noi si scrivono articoli mistificando il significato dello spread e nulla pare accadere?
 
-Questione di percezione, loro **non** ci sono abituati, noi invece si.
+- Questione di percezione, loro **non** ci sono abituati, noi invece si.
 
 Perciò si preannuncia un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron (infatti dal post&nbsp;#5 al 2025-09-10 sono passate meno di due settimane e [Parigi](https://stream24.ilsole24ore.com/video/mondo/proteste-francia-parigi-caos-scontri-e-oltre-200-arresti/AH9r4QYC) è tornata a bruciare), stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
 
 Ma non è solo questione di percezione ma anche perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico, che la Svizzera aveva a deposito, comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
 
-Così come più volte dichiarato, indirettamente e velatamente nel dare consigli ai paesi europei sull'immigrazione, nei World Economic Forum, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
+Così come, durante gli World Economic Forum, più volte dichiarato indirettamente e velatamente nel dare consigli ai paesi europei sull'immigrazione, gli emiri arabi sono musulmani ma se potessero scegliere, e potendo scegliere, lo scansano come la peste. Primo perché gli piace la figa, secondo perché sanno che prima o poi finiscono come l'Iran con Khomeini. Primavera Araba, docet. Poi perché l'Italia è in saldo come ogni paese abitato e governato da cretini che si credono furbi.
 
 L'ultima può apparire un'affermazione "forte" e quindi richiede altrettanto "forti" argomentazioni, e allora dobbiamo fare un passo indietro quando l'Italia ospitò il G7 in Puglia. Ovvero, in parole povere, non è il governo che vivacchia sulle falsificazione dello spread ma sul contesto geopolitico molto particolare che accidentalmente risulta più favorevole ad un paese europeo come l'Italia, paradossalmente, proprio per la ragione sopra enunciata.
 
-~~~~
+----
 
 ### Quando l'Italia ospitò il G7 in Puglia
 
@@ -185,7 +185,9 @@ Quindi, in generale in Italia, l'aumento del debito pubblico, nonostante il prog
 
 Altre due voci importanti della quota di incremento del debito pubblico che fa capo alla voce assistenzialismo e che hanno un impatto rilevante sono: 1. le pensioni, la voce più grande, perché evidentemente l'INPS non è in grado di "funzionare" a ciclo chiuso per sua stessa istituzione e calo demografico, 2. il reddito di cittadinanza (2019-2024) che ha sicuramente contribuito all'inflazione dei prezzi al consumo ma senza apportare un reale incremento della produzione di valore nemmeno in termini di capitale umano o invenzioni/brevetti.
 
-Il punto centrale è che, in queste condizioni di passività/inerzia sociale, sia pensioni sia RdC sono erogazioni che nel bilancio dello stato figurano ambedue come trasferimenti puri. Perciò, il loro contributo al PIL è temporaneo perché se tali erogazioni virtualmente cessassero il PIL avrebbe un calo relativo 1:1, mentre il debito che generano è "per sempre" come un diamante visto che ambedue non generano né prodotto e ne valore aggiuntivi.
+Il punto centrale è che, in queste condizioni di passività/inerzia sociale, sia pensioni sia RdC sono erogazioni che nel bilancio dello stato figurano ambedue come trasferimenti puri. Perciò, il loro contributo al PIL è temporaneo perché se tali erogazioni virtualmente cessassero il PIL avrebbe un calo relativo 1:1, mentre il debito che generano è "per sempre" come un diamante visto che ambedue non generano né prodotto e né valore aggiuntivi.
+
+Considerando che nel periodo (2019-2024) avevamo il primato degli analfabeti funzionali e l'abbiamo mantenuto, considerando che eravamo in fondo fra i tre paesi meno qualificati in termini di erudizione in Inglese (Italia, Francia e Turchia) e lo siamo rimasti, possiamo certamente dire che "né prodotto e né valore aggiuntivi" sia una corretta ed equa definizione del computo totale.
 
 Pensionati e giovani disoccupati si prendono l'aperitivo al bar pagato dei contribuenti e nel migliore della ipotesi discutono del nulla, oppure di come estendere o aumentare le erogazioni a loro favore. Un sogno di comunista memoria privo di ideologia in cui molti sono allattati a spritz dai pochi che lavorano e disponendo di tempo libero assurgono virtualmente anche a classe dirigente visto che sono gli stakeholders più coinvolti in quel tipo di politica.
 
@@ -261,7 +263,7 @@ Infatti se inflazioniamo il sistema finanziario con moneta prodotta a debito sen
 Il concetto di "equilibrio finanziario" si basa sul fatto che l'interesse applicato sia più basso dell'inflazione o al massimo uguale. Perché l'inflazione a prodotto interno lordo reale aumenta il PIL dello stesso rapporto.
 
 Questo però è solo parte della storia perché il PIL non è solo inflazionato ma contiene anche una quota di spreco: cade un ponte che avrebbe dovuto essere soggetto a manutenzione e invece abbiamo falsificato le evidenze, quindi lo ricostruiamo e questo aumenta il PIL più che a mantenerlo (e ad evitare la tragedia come nel caso del ponte Morandi oggi ponte San Giorgio) ma non ha aumentato il prodotto, ha aumentato lo spreco.
-
+++++
 - debito 2.28x → costo della vita oltre 2x
 - debito/PIL +25% → pressione fiscale +23%
 - per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
