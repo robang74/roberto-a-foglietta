@@ -149,17 +149,13 @@ Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, ter
 
 ---
 
-> [!WARN]
-> 
-> **WORK IN PROGRESS, DOWN FROM HERE**
-
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.1)
 
 Questo grafico qui sotto (sx) rappresenta l'andamento del rapporto tra il PIL pro capite italiano e quello mondiale 1960-2024 a prezzi costanti del 2015 e già questa è una "fregatura" visto che si sarebbe dovuto graficare a prezzi costanti del 2000 o 2001.
 
-<div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-003.png"><br/></div>
-
 Comunque,  indovinate cos 'è successo nel 2001? La Cina è entrata nel WTO (world trade organisation) quindi nel commercio internazionale.
+
+<div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-003.png"><br/></div>
 
 Mentre noi siamo entrati nell'euro all'ultimo minuto dopo decenni di alleggerimento della lira (per agevolare le esportazioni sostenevano in Confindustria, per essere più competitivi abbassando i salari come ha detto Mario Draghi recentemente) che addirittura ci avevano portato fuori dallo SME (serpente monetario europeo) e ciò ha portato a forzare le tappe con una patrimoniale e una finanziaria lacrime e sangue.
 
@@ -218,6 +214,10 @@ Per subire una mazzata totale anche sui crediti già erogati e validati servireb
 
 ---
 
+> [!WARN]
+> 
+> **WORK IN PROGRESS, DOWN FROM HERE**
+
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.2)
 
 Nel secondo grafico possiamo osservare che la nostra (pop.: 59mln) incapacità di gestire i fondi europei rispetto alla Francia (pop.: 69mln, x2.71) e alla Germania (pop.: 84mln, x4.90) ha costituito un grave limite non solo allo sviluppo delle infrastrutture pubbliche ma anche nel mantenere capitali privati e attrarre investimenti dall'estero.
@@ -265,7 +265,7 @@ Infatti se inflazioniamo il sistema finanziario con moneta prodotta a debito sen
 Il concetto di "equilibrio finanziario" si basa sul fatto che l'interesse applicato sia più basso dell'inflazione o al massimo uguale. Perché l'inflazione a prodotto interno lordo reale aumenta il PIL dello stesso rapporto.
 
 Questo però è solo parte della storia perché il PIL non è solo inflazionato ma contiene anche una quota di spreco: cade un ponte che avrebbe dovuto essere soggetto a manutenzione e invece abbiamo falsificato le evidenze, quindi lo ricostruiamo e questo aumenta il PIL più che a mantenerlo (e ad evitare la tragedia come nel caso del ponte Morandi oggi ponte San Giorgio) ma non ha aumentato il prodotto, ha aumentato lo spreco.
-++++
+
 - debito 2.28x → costo della vita oltre 2x
 - debito/PIL +25% → pressione fiscale +23%
 - per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
