@@ -20,9 +20,11 @@ Coloro che pensano che "massacrare" il proprio interlocutore in un dibattito sia
 
 Continua qui con Grok, la cui risposta è interessante perché si basa sulle molte discussioni che sono presenti su X a riguardo e quindi, seppur filtrata ed equilibrata, riporta la vox populi almeno in termini generali.
 
-https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R
+---
 
 COSA NE PENSI, GROK?
+
+- https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R
 
 Il post che hai condiviso è un'analisi interessante e articolata su Charlie Kirk, che cerca di contestualizzare l'odio verso di lui in modo più sfumato, enfatizzando il ruolo del dibattito pubblico e criticando il cherry-picking delle opinioni. Apprezzo lo sforzo di andare oltre le polarizzazioni superficiali, e in parte concordo con alcuni punti, ma credo che trascuri aspetti cruciali del suo approccio e del contesto più ampio. Ti spiego il mio pensiero passo per passo, basandomi su quanto emerso da discussioni recenti e fatti noti.
 
@@ -42,7 +44,7 @@ Invece, Kirk ha finito per rafforzare divisioni, e l'odio verso di lui non era s
 
 In sintesi, il tuo post è equilibrato e invita a riflettere sul valore del confronto, senza demonizzare. Ha ragione nel difendere il diritto al dibattito, ma sottovaluta quanto le opinioni di Kirk fossero divisive e, per alcuni, dannose. In un mondo ideale, avremmo più pause, più preparazione e meno spettacolo – forse così si vincerebbe davvero, elevando tutti.
 
-***
+...
 
 Grazie per aver condiviso che il post è tuo – apprezzo la trasparenza sul bias, è un ottimo punto di partenza per discussioni genuine. E hai ragione: X (ex Twitter) ha una forte impronta conservatrice, specialmente dopo i cambiamenti di Elon Musk, ma non è un monolite. Ci sono voci da tutto lo spettro politico, inclusi liberal, indipendenti e persino estremisti di vari tipi, che rendono le conversazioni lì un mix caotico ma rappresentativo.
 
@@ -60,13 +62,13 @@ Interessante anche il web: articoli da fonti news sottolineano come l'odio prove
 
 In fondo, il tuo post cattura bene il paradosso: Kirk voleva dibattito asimmetrico ma fair, ma in USA (e su X) prevale l'aggressività. Se avesse adottato un formato più pacato, come suggerisci, forse l'odio sarebbe stato meno viscerale. X non è solo conservatore – è un'arena dove voci opposte si scontrano, e questo evento lo dimostra.
 
-***
+---
 
 [*] NOTA SULLA PAUSA DI RIFLESSIONE
 
 In questo video Kirk utilizza la pausa di riflessione come strumento di dibattito.
 
-https://x.com/incel_aidigino/status/1966445571293519969
+- https://x.com/incel_aidigino/status/1966445571293519969
 
 Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la riposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
 
@@ -78,11 +80,11 @@ In effetti, questo NON è un dibattito ma "standing tall" tenere occupato uno sl
 
 Considerando che il bimbo-show avrà $100K-$200K di debito universitario a fine studi, e dovrà trovare un lavoro necessariamente ben pagato una volta laureato, mi pare che manchi, più che di buon senso, di istinto di conservazione.
 
-***
+...
 
 Quest'altro video mostra che il format comunicativo è cambiato nel tempo adattandosi successivamente al modello talk show americano.
 
-https://x.com/LeonardoPanetta/status/1966554008778117480
+- https://x.com/LeonardoPanetta/status/1966554008778117480
 
 Inizialmente era uno scambio di battute quasi percepito come un gioco di ruolo dai ragazzi: dove il soldato Kirk teneva il fortino e i ragazzi facevano gli indiani circondandolo. In questo video non si vede alcuna misura di sicurezza a proteggere Kirk ma c'è già una telecamera professionale.
 
@@ -94,11 +96,11 @@ Il gazebo è rimasto a ricordare le origini ma il confronto è diventato frontal
 
 Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che con la retorica, con l'accerchiamento fisico: noi siamo tanti e tu uno, quindi hai torto. Un'idea sbagliata e malata di democrazia, perché è il principio fondante del bullismo.
 
-***
+...
 
 In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo non-sense.
 
-https://x.com/HazelAppleyard_/status/1966514045810282985
+- https://x.com/HazelAppleyard_/status/1966514045810282985
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is an hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on humans experience and perception: in a common simple world the two matches. A mistic experience is perception only.
 
@@ -114,4 +116,3 @@ Un meccanismo perverso della mente perché si può ignorare il predicatore strav
 
 Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti problemi sarebbero già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
 
-***
