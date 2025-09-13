@@ -132,6 +132,26 @@ Nowadays, we have this anymore but "mass media communication". Fine, then let me
 
 I used a couple of comments of mines and leveraged GPT-5, to create a HO-AI [talk-show](https://chatgpt.com/share/68c5a0a4-b8f4-8012-92e4-542f82e6ae16) in which these aspects are presented and explored.
 
+---
+
+### Kirk was a truth seeker
+
+Molti opinionisti politici come anche predicatori del ritorno del Salvatore, improvvisano, correggono, agiustano e poi ripetono lo schema che funzionicchia. Kirk non è mai stato uno di loro. Lui era un truth seeker. Lo posso dire per aver visto il video #3 in cui lui dice "non sono un teologo", cercando di spostare il dibattito al di fuori dell'ambito religioso in cui lo ha costretto l'interlocutore.
+
+Non basta che lo abbia detto, è determinate il suo contesto. Preferisce perdere in un contesto di non-sense a favore di un bamboccio impertinente che lo ha incastrato prendendolo in contropiede piuttosto che inventare. Chiunque altro avrebbe messo davanti il vincere e avrebbe usato trucchi o inventato o qualunque delle altre "finezze" da manuale. Lui no, ha accettato che "se non so, non dico".
+
+- Quindi non c'è dubbio alcuno che Kirk fosse un cercatore di verità.
+
+Non è questo la chiave del successo, questo è il **motore** del suo successo. Tutti gli altri vogliono solo "far cassa" e "chiudere in positivo" a fine giornato. Per lui questo **non** era lo scopo e **non** era nemmeno abbastanza. Voleva andare oltre, per gli altri l'orizzonte termina dove termina la punta del loro nasi. Ma se l'orizzonte di una persona si ferma alla punta del suo naso, non c'è **alcuna** possibilità che possa fare un qualche balzo in avanti che lo distingua, che lo porti ad emergere sopra ai prestigiatori dei trucchi da manuale. Perché il manuale ce lo andiamo a comprare su Amazon e ce lo consegnano domani, finito di leggere è learning by doing: buttati che ti crescono le ali!
+
+L'essere un cercatore di verità l'ha portato alla destra di Trump, ma lo ha anche infilato nei pasticci perché da predicatore è dicentato attivista. A quel livello è una processione di gente che tira per la giacchetta, che s'infila nei dibattiti o nelle interviste per {dire, suggerire, sottintendere} cose. Fra le tante cose, il tema della religione è uno di quelli che **ancora** una volta gli ha creato problemi. 
+
+Peché oggettivamente essendo una questione di fede, diamo tante, anzi troppe, cose per scontate, quindi tutti quanti conosciamo la punta dell'iceberg ma nulla della sua provenienza, tragitto e forma. Però c'è gente che sulle quesitoni di religione è disposta ad uccidere, a fare le guerre, ad indire crociate. Perché è assai difficile contestare il "Deus Vult", specialmente quando l'ignoranza è quasi assoluta.
+
+- Kirk era famoso, ma la sua vera storia la dobbiamo ancora leggere.
+
+Di quest'uomo abbiamo soltanto percepito la superficie, non l'opera.
+
 +
 
 <span id="risposte-di-grok"></id>
