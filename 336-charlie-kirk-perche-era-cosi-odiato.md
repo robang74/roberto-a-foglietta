@@ -69,7 +69,7 @@ Inizialmente era uno scambio di battute quasi percepito come un gioco di ruolo d
 
 L'odio ha cominciato ad emergere quando la persona si è trasformata in personaggio, quindi un simbolo piuttosto che un essere umano in carne e ossa.
 
-Ovviamente ciò è accaduto perché "il fortino non è MAI stato preso". La rabbia e poi l'odio contro Kirk l'invincibile. In questo senso è vero che spargesse odio: si fece odiare.
+Ovviamente ciò è accaduto perché "il fortino non è **mai** stato preso". La rabbia e poi l'odio contro Kirk l'invincibile. In questo senso è vero che spargesse odio: si fece odiare.
 
 Il gazebo è rimasto a ricordare le origini ma il confronto è diventato frontale e ovviamente in questa transizione il gioco svanisce: non è più circondato ma lui-vs-sfidante.
 
