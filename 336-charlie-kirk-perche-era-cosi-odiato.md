@@ -97,10 +97,33 @@ Un meccanismo perverso della mente perché si può ignorare il predicatore strav
 
 Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti problemi sarebbero già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
 
----
++
+
+## Charlie Kirk, perché era così amato?
+
+Molti dei detrattori di Kirk affermano che le sue opinioni erano "divisive" e questo fa in modo che alcuni lo odiassero e altri lo amassero? In effetti, no. Per comprenderlo basta notare un paio di fatti.
+
+1. Molti altri si presentano con opinioni "divisive" eppure questo non gli ha permesso di avere il successo di Kir. Quindi non basta allinearsi con una fazione per avere successo, non è automatico. La maggior parte della gente è allineata, quando non è confusa. La maggior parte degli "influencer" o "content creator" se non si occupano di un tema di nicchia, hanno deciso una loro linea guida che generalmente è allineata perché non essere allineati riduce drasticamente il numero di potenziali "follower" e si fa una fatica extra a spiegare ciò che non è stato ridotto a slogan.
+
+2. Per molto tempo Kirk è stato amato più che odiato. Anche coloro che giocavano contro di lui, non lo odiavano. Fra i tanti che predicano o urlano cose divisive da un qualche pulpito distante, Kirk era una persona fra le persone. Con lui le persone potevano avere un dialogo. Anche se le due parti coinvolte nel dibattito rimanevano fisse sulle loro posizioni, il dibattito apriva uno spiraglio di riflessione fra coloro che ascoltavano. Anche se in quel momento tifano per l'una o l'altra parte, poi in un sencondo momento anche solo per ricordare una giornata diversa dal solito, ci pensavano.
+
+In quel "ci pensavano" vinceva Kirk, magari non come "influencer" ma sicuramente come comunicatore. Quando un comunicatore vince, anche quelli che non sono d'accordo con lui lo seguono. Anzi, probabilmente sono proprio quelli che poi costituiscono la massa critica per accendere la reazione del successo. Perché fondamentalmente il nostro cervello è un tossico allo stadio terminale di emozioni **and** di informazioni.
+
+- Sul momento vince l'emozione, ma sul medio-lungo periodo vince l'informazione.
+
+Perché l'informazione resta come un imprinting oppure se ci ha fatto riflettere o ci ha permesso di percepire diverse sfumature/angolazioni resta come un riferimento oppure se ci ha fatto cambiare idea resta e resta più forte che l'imprinting iniziale. Quindi la chiave del successo di Kirk è stata essere un buon comunicatore che dispensava informazione.
+
+Questo per alcuni appare assurdo eppure è il motivo per il quale era amato. Per il quale ha avvuto successo e anche uno dei fattori che ha contribuito alla sua uccisione. Perché quando non si può più evitare una fonte di informazione, ormai giunta alla destra di Trump, allora diventa un problema. Perché da influencer, diventa comunicatore, poi attivista e a quel punto non sono solo le chiacchiere vaghe di un predicatore ma cominciano a succedere cose.
+
+- Perciò la domanda fondamentale è cosa faceva di Kirk un comunicatore informativo?
+
+Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo precedente, e tornare a ragionare secondi i termini della così detta "vecchia scuola".
+
++
+++++
 
 <span id="risposte-di-grok"></id>
-### Grok, cosa ne pensi?
+## Grok, cosa ne pensi di questo post?
 
 Questa due risposte da parte di x/Grok4 riguarda il post su LinkedIn. Sono interessante perché si basa sulle molte discussioni che sono presenti su X che riguardano Kirk e la sua attività di influencer. Quindi, seppur filtrata ed equilibrata, riporta la *vox populi*, almeno in termini generali.
 
@@ -124,7 +147,9 @@ Invece, Kirk ha finito per rafforzare divisioni, e l'odio verso di lui non era s
 
 In sintesi, il tuo post è equilibrato e invita a riflettere sul valore del confronto, senza demonizzare. Ha ragione nel difendere il diritto al dibattito, ma sottovaluta quanto le opinioni di Kirk fossero divisive e, per alcuni, dannose. In un mondo ideale, avremmo più pause, più preparazione e meno spettacolo – forse così si vincerebbe davvero, elevando tutti.
 
-...
+---
+
+### L'autore sono io, X è un social di destra
 
 Grazie per aver condiviso che il post è tuo – apprezzo la trasparenza sul bias, è un ottimo punto di partenza per discussioni genuine. E hai ragione: X (ex Twitter) ha una forte impronta conservatrice, specialmente dopo i cambiamenti di Elon Musk, ma non è un monolite. Ci sono voci da tutto lo spettro politico, inclusi liberal, indipendenti e persino estremisti di vari tipi, che rendono le conversazioni lì un mix caotico ma rappresentativo.
 
