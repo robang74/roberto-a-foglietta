@@ -73,7 +73,7 @@ Ovviamente ciò è accaduto perché "il fortino non è MAI stato preso". La rabb
 
 Il gazebo è rimasto a ricordare le origini ma il confronto è diventato frontale e ovviamente in questa transizione il gioco svanisce: non è più circondato ma lui-vs-sfidante.
 
-Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che con la retorica, con l'accerchiamento fisico: noi siamo tanti e tu uno, quindi hai torto. Un'idea sbagliata e malata di democrazia, perché è il principio fondante del bullismo.
+Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che con la retorica, con l'accerchiamento fisico: noi siamo tanti e tu uno, quindi hai torto. Un'idea sbagliata e malata di [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank), perché è il principio fondante del bullismo.
 
 ---
 
