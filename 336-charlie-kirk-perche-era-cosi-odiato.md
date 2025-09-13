@@ -22,7 +22,7 @@ Continua qui con Grok, la cui risposta è interessante perché si basa sulle mol
 
 https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R
 
-COSA NE PENSI GROK?
+COSA NE PENSI, GROK?
 
 Il post che hai condiviso è un'analisi interessante e articolata su Charlie Kirk, che cerca di contestualizzare l'odio verso di lui in modo più sfumato, enfatizzando il ruolo del dibattito pubblico e criticando il cherry-picking delle opinioni. Apprezzo lo sforzo di andare oltre le polarizzazioni superficiali, e in parte concordo con alcuni punti, ma credo che trascuri aspetti cruciali del suo approccio e del contesto più ampio. Ti spiego il mio pensiero passo per passo, basandomi su quanto emerso da discussioni recenti e fatti noti.
 
@@ -102,16 +102,16 @@ https://x.com/HazelAppleyard_/status/1966514045810282985
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is an hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on humans experience and perception: in a common simple world the two matches. A mistic experience is perception only.
 
-Il "problema" in questo video è che Kirk nel passarsi la mano sulla faccia, perché chiaramente si è fatto portare fuori strada, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
+Il "problema" in questo video è che Kirk nel passarsi la mano sulla faccia, perché chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
 
-Interessante il gioco di prendere la sedia. Per diversi motivi, interloquisce con un numero più limitato e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, ne gerarchie).
+Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, ne gerarchie).
 
-Un gioco interessante perché un individuo super-pares (sopra ai pari fra loro). Non aspetterebbe la domanda di Kirk, ma entrerebbe in scena, si siederebbe sulla sedia e chiederebbe: XX oppure XY, ma come ci relazioniamo con gli individui che non rientrano in questo schema duale? Un'azione che non è solo un ingresso fisico ma di ruolo: "proviamo a parti invertite".
+Un gioco interessante perché un individuo super-pares (sopra ai pari fra loro), non aspetterebbe la domanda di Kirk, ma entrerebbe in scena, si siederebbe sulla sedia e chiederebbe: XX oppure XY, ma come ci relazioniamo con gli individui che non rientrano in questo schema duale? Un'azione che non è solo un ingresso fisico ma di ruolo: "proviamo a parti invertite".
 
 Comunque l'illusione di essere vincibili, che si dissolve con l'esperienza dell'oratore, è un motivo scatenante della delusione di confrontarsi con l'invincibile magari perché ormai assurto a "potere" istituzionale quindi eterno (e qui s'infiltra l'idea della morte come via di uscita da un cul-de-sac cognitivo).
 
 Un meccanismo perverso della mente perché si può ignorare il predicatore stravagante con il cartello "prove me wrong" quindi il non-confronto come via di fuga ma quando egli assurge alla destra di Trump, ignorarlo diventa impossibile e il confronto inevitabile.
 
-Curioso perché se la stessa logica fosse applicata alla realtà, molti molti problemi già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
+Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti problemi sarebbero già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
 
 ***
