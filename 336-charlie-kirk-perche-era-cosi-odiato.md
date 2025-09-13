@@ -119,8 +119,20 @@ Questo per alcuni appare assurdo eppure è il motivo per il quale era amato. Per
 
 Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo precedente, e tornare a ragionare secondi i termini della così detta "vecchia scuola".
 
+----
+
+### Who, what, when, where, why<br>Just old school journalism
+
+Modern journalism forgot the first fundamental rule of reporting facts. The second was: facts first, opinion (or interpretation) the last. The journalist presents the scene/event, then provides a reasonable interpretation/explanation within a specific framework which can be more or less biased.
+
+Nowadays, we have this anymore but "mass media communication". Fine, then let me introduce to you some "old fashion habits" and "effective communication ways" which are the state of the art before emotions took advantage of the reason.
+
+1. Language & Thought
+2. Communication & Perception
+
+I used a couple of comments of mines and leveraged GPT-5, to create a HO-AI [talk-show](https://chatgpt.com/share/68c5a0a4-b8f4-8012-92e4-542f82e6ae16) in which these aspects are presented and explored.
+
 +
-++++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
