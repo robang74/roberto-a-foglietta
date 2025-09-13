@@ -47,7 +47,7 @@ Coloro che pensano che "massacrare" il proprio interlocutore in un dibattito sia
 
 In questo video Kirk utilizza la pausa di riflessione come strumento di dibattito.
 
-- [video #1](https://x.com/incel_aidigino/status/1966445571293519969) pubblicato da @incel_aidigino su X
+- [video #1](https://youtube.com/shorts/Z0sPCeH2KXw) &nbsp; pubblicato su X da &nbsp; [@incel_aidigino](https://x.com/incel_aidigino/status/1966445571293519969)
 
 Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la riposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
 
@@ -65,7 +65,7 @@ Considerando che il bimbo-show avrà $100K-$200K di debito universitario a fine 
 
 Quest'altro video, meno recente, mostra che il format comunicativo è cambiato nel tempo adattandosi successivamente al modello talk show americano.
 
-- [video #2](https://x.com/LeonardoPanetta/status/1966554008778117480) pubblicato da @LeonardoPanetta su X
+- [video #2](https://youtu.be/sxDFRhkxddI) &nbsp; pubblicato su X da &nbsp; [@LeonardoPanetta](https://x.com/LeonardoPanetta/status/1966554008778117480)
 
 Inizialmente era uno scambio di battute quasi percepito come un gioco di ruolo dai ragazzi: dove il soldato Kirk teneva il fortino e i ragazzi facevano gli indiani circondandolo. In questo video non si vede alcuna misura di sicurezza a proteggere Kirk ma c'è già una telecamera professionale.
 
@@ -82,8 +82,8 @@ Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che c
 ### Gioco e convizione nello slancio
 
 In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo non-sense.
-
-- [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) pubblicato da @HazelAppleyard_ su X
+<!--// https://youtube.com/shorts/i8dC_prJ0Vw //-->
+- [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) &nbsp; pubblicato su X da &nbsp; [@HazelAppleyard_](https://x.com/HazelAppleyard_/status/1966514045810282985)
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is an hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on humans experience and perception: in a common simple world the two matches. A mistic experience is perception only.
 
@@ -141,7 +141,7 @@ I used a couple of comments of mines and leveraged GPT-5, to create a HO-AI [tal
 
 Molti opinionisti politici come anche predicatori del ritorno del Salvatore, improvvisano, correggono, agiustano e poi ripetono lo schema che funzionicchia. Kirk non è mai stato uno di loro. Lui era un truth seeker. Lo posso dire per aver visto il video #3 in cui lui dice "non sono un teologo", cercando di spostare il dibattito al di fuori dell'ambito religioso in cui lo ha costretto l'interlocutore.
 
-Non basta che lo abbia detto, è determinate il suo contesto. Preferisce perdere in un contesto di non-sense a favore di un bamboccio impertinente che lo ha incastrato prendendolo in contropiede piuttosto che inventare. Chiunque altro avrebbe messo davanti il vincere e avrebbe usato trucchi o inventato o qualunque delle altre "finezze" da manuale. Lui no, ha accettato che "se non so, non dico".
+Non basta che lo abbia detto, è determinate il suo contesto. Preferisce perdere in un contesto di non-sense in cui il suo interlocutore lo ha incastrato prendendolo in contropiede piuttosto che inventare. Chiunque altro avrebbe messo davanti il vincere e avrebbe usato trucchi o inventato o qualunque delle altre "finezze" da manuale. Lui no, ha accettato che "se non so, non dico".
 
 - Quindi non c'è dubbio alcuno che Kirk fosse un cercatore di verità.
 
