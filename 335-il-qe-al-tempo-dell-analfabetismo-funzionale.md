@@ -276,7 +276,9 @@ Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazio
 
 - La demografia nel carello della spesa &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) &nbsp; [html](https://github.com/robang74/roberto-a-foglietta/blob/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) &nbsp; [lnkd](https://www.linkedin.com/pulse/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta) &nbsp; (2019-05-01)
 
-Non è la Cina o la Russia il nostro nemico. Anzi, siamo noi che abbiamo bisogno di costruire un nemico per andare in guerra, far morire tante persone quanto ne serve per mascherare il default e quindi ricominciare con il medesimo schema. Però gli altri nel frattempo si sono evoluti mentre noi ripetiamo gli stessi schemi malati che seppure ci hanno permesso di nascondere a noi stessi la realtà, poi conducono al fine definitiva. WW1, WW2 e quindi WW3.
+Non è la Cina o la Russia il nostro nemico. Anzi, siamo noi che abbiamo bisogno di costruire un nemico per andare in guerra, far morire tante persone quanto ne serve per mascherare il default e quindi ricominciare con il medesimo schema. Però gli altri nel frattempo si sono evoluti mentre noi ripetiamo gli stessi schemi malati che seppure ci hanno permesso di nascondere a noi stessi la realtà.
+
+Siamo così consapevoli di ripetere gli stessi schemi che ormai usiamo i numeri per indicare i relativi reset: WW1, WW2 e quindi poi WW3. La necessità del reset nasce sempre dall'incapacità di cambiare e di emanciparsi dalla necessità di ripetersi. L'alternativa all'evoluzione è l'estinzione (ma vale solo per i gruppi, [questa teoria](322-il-ruolo-della-selezione-naturale-nella-societa.md#la-selezione-naturale-una-teoria-nota-ma-sconosciuta?target=_blank), non per il singolo).
 
 Come diceva Einstein "non so con quali armi si combatterà la WW3, ma la WW4 sarà combattuta con pietre e bastoni". In realtà no, siamo già tornati alla preistoria. Perché le armi che abbiamo usato non sono quelle che Einstein supponeva (armi nucleari) ma la digitalizzazione e la finanza. Doveva essere uno schema di Ponzi su scala globale nel quale noi avremmo vinto tutto, ma questo schema di Ponzi è andato avanti così a lungo (almeno 35 anni oltre il necessario, cioè dopo il collasso dell'URSS) anche la generazione successiva ha finito per "crederci".
 
@@ -284,7 +286,7 @@ Il risultato è che l'incidente di Chernobyl e la necessità di trasparenza che 
 
 Non falsi nel senso che sono stati falsificati, sono il prodotto di una selezione inversa. Peggio che falsi, truffa sistemica, appunto.
 
-La questione si declina in molti modi. Per esempio, per i pensionati INPS che ci sono andati con il sistema retributivo, presto le cose cambieranno. Appena quelli contributivi saranno passati ai fondi pensione privati (sta già succedendo per il lavoratori impiegati, in automatico) l'INPS rimarrà una scatola vuota (anzi sfondata) di conseguenza quelli retributivi rimarranno senza pensione. 
+La questione si declina in molti modi. Per esempio, per i pensionati INPS che ci sono andati con il sistema retributivo, presto le cose cambieranno. Appena quelli contributivi saranno passati ai fondi pensione privati (sta già succedendo per i lavoratori impiegati, in automatico) l'INPS rimarrà una scatola vuota (anzi sfondata) di conseguenza quelli retributivi rimarranno senza pensione.
 
 D'altronde l'inverno demografico ha distrutto il patto sociale generazionale e i contributi pensionistici dei lavoratori di oggi andavano a pagare le pensioni dei pensionati retributivi piuttosto che a costituire un fondo per loro. Quale sarà la sorte dei fondi privati questo è un gran bell'interrogativo che probabilmente finirà male visto come "funziona" l'Italia oggi.
 
