@@ -114,7 +114,11 @@ Perché a parità (quasi) di condizioni (-9 punti base nello spread e 117% vs 13
 
 - Questione di percezione, loro **non** ci sono abituati, noi invece si.
 
-Perciò si preannuncia un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron (infatti dal post&nbsp;#5 al 2025-09-10 sono passate meno di due settimane e [Parigi](https://stream24.ilsole24ore.com/video/mondo/proteste-francia-parigi-caos-scontri-e-oltre-200-arresti/AH9r4QYC) è tornata a bruciare), stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
+Perciò si preannuncia un altro eventuale, scontro sociale, perché Parigi in fiamme non è una novità da quando governa Macron (infatti dal post&nbsp;#5 al 2025-09-10 sono passate meno di due settimane e Parigi è tornata a bruciare), stante che il primo ministro francese e quindi il governo sono assoggettati allo schema di una repubblica presidenziale quindi avranno anche tagliato la testa a re Luigi e Maria Antonietta ma in vizietto della restaurazione non se lo sono tolto.
+
+[!INFO]
+10 settembre 2025 -- Proteste in Francia, Parigi nel caos: scontri e oltre 200 arresti. I manifestanti hanno bloccato le strade, appiccato incendi e sono stati accolti da raffiche di gas lacrimogeni da parte della polizia in alcune zone di Parigi e altrove in Francia. Il movimento di protesta, nato online e cresciuto durante l'estate, ha causato diffuse zone calde di disordini, con un dispiegamento eccezionale di 80.000 tra poliziotti e gendarmi in tutto il Paese. -- [Il Sole 24 Ore](https://stream24.ilsole24ore.com/video/mondo/proteste-francia-parigi-caos-scontri-e-oltre-200-arresti/AH9r4QYC)
+[/INFO]
 
 Ma non è solo questione di percezione ma anche perché gli emiri arabi che hanno svaligiato la Svizzera dell'oro fisico, che la Svizzera aveva a deposito, comprandoselo con dollari carta-straccia (dopo il G8 del 2024 in Puglia) non lo vogliono mica conquistare un paese come la Francia i cui cittadini sono combattivi e c'è una storica e abbondante immigrazione da paesi dell'Islam.
 
@@ -122,7 +126,7 @@ Così come, durante gli World Economic Forum, più volte dichiarato indirettamen
 
 L'ultima può apparire un'affermazione "forte" e quindi richiede altrettanto "forti" argomentazioni, e allora dobbiamo fare un passo indietro quando l'Italia ospitò il G7 in Puglia. Ovvero, in parole povere, non è il governo che vivacchia sulle falsificazione dello spread ma sul contesto geopolitico molto particolare che accidentalmente risulta più favorevole ad un paese europeo come l'Italia, paradossalmente, proprio per la ragione sopra enunciata.
 
-----
+---
 
 ### Quando l'Italia ospitò il G7 in Puglia
 
@@ -147,7 +151,7 @@ Gente che poi la Farnesina spesso lascia al loro destino o se li va a riprendere
 
 Come per gli italiani bloccati in un isola nell'oceano di fronte al Marocco, territorio d'oltremare spagnolo, che perso l'ultimo aereo per ritornare in Italia, a Genova in particolare, sono stati lasciati per oltre una settimana a dormire in aeroporto, sul pavimento. Chissà se gli chiedevano la moneta da un euro quando dovevano andare in bagno per le naturali necessità?
 
----
+----
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.1)
 
@@ -161,11 +165,7 @@ Mentre noi siamo entrati nell'euro all'ultimo minuto dopo decenni di alleggerime
 
 Ovviamente il PIL mondiale ha cominciato a salire perché la Cina è diventata la locomotiva del mondo sia come esportazioni sia come immenso ed inesplorato mercato di consumo. Il che poi ha dato origine ai BRICS e relativi accordi commerciali che hanno velocizzato l'impennata del PIL globale.
 
-Invece noi, per tenere il rapporto debito/PIL entro un range ragionevole abbiamo inflazionato i prezzi al consumo e aumentato la pressione fiscale, fra cui l'IRPEF che congelato gli stipendi (e in 25 anni quello medio è sceso del -3%, dove in paesi come l'Irlanda o quelli dell'est è salito di due cifre talvolta raddoppiato). Però noi siamo quelli furbi della cucciolata!
-
-- debito 2.28x → costo della vita oltre 2x
-- debito/PIL +25% → pressione fiscale +23%
-- per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
+Invece noi, per tenere il rapporto debito/PIL entro un range ragionevole abbiamo inflazionato i prezzi al consumo e aumentato la pressione fiscale, fra cui l'IRPEF che congelato gli stipendi (e in 25 anni quello medio è sceso del -3%, dove in paesi come l'Irlanda o quelli dell'est è salito di due cifre talvolta raddoppiato).
 
 ...
 
@@ -260,11 +260,7 @@ Infatti se inflazioniamo il sistema finanziario con moneta prodotta a debito sen
 
 Il concetto di "equilibrio finanziario" si basa sul fatto che l'interesse applicato sia più basso dell'inflazione o al massimo uguale. Perché l'inflazione a prodotto interno lordo reale aumenta il PIL dello stesso rapporto.
 
-Questo però è solo parte della storia perché il PIL non è solo inflazionato ma contiene anche una quota di spreco: cade un ponte che avrebbe dovuto essere soggetto a manutenzione e invece abbiamo falsificato le evidenze, quindi lo ricostruiamo e questo aumenta il PIL più che a mantenerlo (e ad evitare la tragedia come nel caso del ponte Morandi oggi ponte San Giorgio) ma non ha aumentato il prodotto, ha aumentato lo spreco.
-
-- debito 2.28x → costo della vita oltre 2x
-- debito/PIL +25% → pressione fiscale +23%
-- per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
+Questo però è solo parte della storia perché il PIL non è solo inflazionato ma contiene anche una quota di spreco: cade un ponte che avrebbe dovuto essere soggetto a manutenzione e invece abbiamo falsificato le evidenze, quindi lo ricostruiamo e questo aumenta il PIL più che a mantenerlo (e ad evitare la tragedia come nel caso del ponte Morandi oggi ponte San Giorgio) ma non ha aumentato il prodotto, ha aumentato lo spreco (per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4))
 
 Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuando a negare, si giunge all'estinzione con l'inverno demografico.
 
