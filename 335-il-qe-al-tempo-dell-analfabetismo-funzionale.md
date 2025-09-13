@@ -208,15 +208,11 @@ Dal 2013 al 2019, l’Italia ha ridotto il deficit strutturale, ma il debito è 
 
 Il taglio dell'IRPEF 2022-2023, non è una manovra di governance italiana ma l'effetto del PNRR (Recovery & Resilience Plan), quindi finanziato con i fondi Next-Generation-EU che vale 5mld 2022, 7mld 2023, poi 8mld strutturali dal 2024. In effetti è una misura una-tantum nel senso che, quando i fondi UE finiscono (2026), il taglio va coperto con gettito interno o tagli di spesa, altrimenti diventa deficit strutturale ma il governo l’ha inserita nel Recovery plan per farla passare come “riforma di struttura” e non come semplice bonus una-tantum. 
 
-Però l'80% delle eccezioni elevate per la gestione del PNRR nella UE27 fanno capo all'Italia e questo propende all'idea nel grafico il "Bazooka" di Berlino in cui l'Italia non primeggia (gestione di fondi della UE) finirà per essere un boomerang perché quelle violazioni che saranno accertate si trasformeranno in prestiti a condizioni di mercato e con un tasso di sconto (BCE) attuale del 4% si tratta di una mazzata molto potente non solo in termini di volume ma anche di futura gestione finanziaria. Il che comporta anche una potentissima leva per manipolare la politica italiana nel prossimo futuro (post-2026).
+Però l'80% delle eccezioni elevate per la gestione del PNRR nella UE27 fanno capo all'Italia e questo suggerisce l'idea che il PNRR per l'Italoa finirà per essere un boomerang (cfr. il Bazooka di Berlino, prossima immagine, grafico a dx). Perché quelle violazioni che saranno accertate si trasformeranno in prestiti a condizioni di mercato e con un tasso di sconto (BCE) attuale del 4% si tratta di una mazzata molto potente non solo in termini di volume ma anche di futura gestione finanziaria. Il che comporta anche una potentissima leva per manipolare la politica italiana nel prossimo futuro (post-2026).
 
 Per subire una mazzata totale anche sui crediti già erogati e validati servirebbe che emergesse una frode sistemica documentata ma considerando l'attuale livello della governance e l'italico entusiasmo a fare l'assalto alla diligenza non è un blackswan da scartare a priori, anzi. In questo caso il piano "prossima generazione europa" in Italia sarebbe la sprangata finale o alla concezione attuale della pubblica amministrazione (aka default tecnico) oppure la totale glaciazione demografica (aka estinzione dell'italico ceppo). C'è ottimismo nell'aria, fin'ora.
 
 ---
-
-> [!WARN]
-> 
-> **WORK IN PROGRESS, DOWN FROM HERE**
 
 ### L'euro ci ha rovinato... ah no!<br>siamo stati noi stessi (p.2)
 
@@ -270,7 +266,7 @@ Questo però è solo parte della storia perché il PIL non è solo inflazionato 
 - debito/PIL +25% → pressione fiscale +23%
 - per approfondimento, leggere [qui](https://robang74.github.io/roberto-a-foglietta/html/311-primo-maggio-festa-dei-lavoratori.html#:~:text=aumentare%20l%27imposizione%20fiscale4)
 
-Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuandolo a negare, si giunge all'estinzione con l'inverno demografico.
+Vogliamo una soluzione ad un problema che abbiamo creato noi. In pratica negazione della realtà, e ricerca di un capro espiatorio. Uno scenario nel quale dalla truffa sistemica come illusione di uscirne, si passa alla ricerca del "Salvatore" ovvero quello che paga per tutti e quindi alla delusione del fallimento che in prima istanza viene negato. Le classiche cinque fasi del lutto. Noi non accettiamo la realtà perché la realtà dice che siamo falliti, ma posticipare il fallimento lo rende solo più devastante. Quindi da un fallimento gestibile, si passa ad un fallimento catastrofico e continuando a negare, si giunge all'estinzione con l'inverno demografico.
 
 <div align="center"><img class="bwsketch darkinv" src="img/335-il-qe-al-tempo-dell-analfabetismo-funzionale-img-004.png"><br/></div>
 
