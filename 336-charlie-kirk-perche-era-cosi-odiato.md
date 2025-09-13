@@ -81,8 +81,9 @@ Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che c
 
 ### Gioco e convizione nello slancio
 
-In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo non-sense.
-<!--// https://youtube.com/shorts/i8dC_prJ0Vw //-->
+In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo non-sense
+
+<!--// Saved version from X stored here https://youtube.com/shorts/i8dC_prJ0Vw //-->
 - [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) &nbsp; pubblicato su X da &nbsp; [@HazelAppleyard_](https://x.com/HazelAppleyard_/status/1966514045810282985)
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is an hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on humans experience and perception: in a common simple world the two matches. A mistic experience is perception only.
