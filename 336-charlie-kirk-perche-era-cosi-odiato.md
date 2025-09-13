@@ -6,6 +6,7 @@
 ## Charlie Kirk, perché era così odiato?
 
 - **1st edition**, articolo scritto a partire da un [post](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABzvHAB9TGQLgYBOT5X9f6zNl13D_CPAXw) su Linkedin, sottoposto all'opinione di x/Grok4 e poi sviluppato nell'arco delle sei ore successive in un [post](https://www.facebook.com/roberto.a.foglietta/posts/10162296346818736?ref=embed_post) su Facebook, quindi qui riportato.
+- **2nd-edition**, la seconda parte include diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
 
 ---
 
@@ -99,6 +100,7 @@ Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti 
 
 +
 
+<span id="2nd-edition"></span>
 ## Charlie Kirk, perché era così amato?
 
 Molti dei detrattori di Kirk affermano che le sue opinioni erano "divisive" e questo fa in modo che alcuni lo odiassero e altri lo amassero? In effetti, no. Per comprenderlo basta notare un paio di fatti.
@@ -123,7 +125,7 @@ Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo prece
 
 ### Who, what, when, where, why<br>Just old school journalism
 
-Modern journalism forgot the first fundamental rule of reporting facts. The second was: facts first, opinion (or interpretation) the last. The journalist presents the scene/event, then provides a reasonable interpretation/explanation within a specific framework which can be more or less biased.
+Modern journalism forgot the first fundamental rule of reporting facts. The second was: facts first, opinion (or interpretation) the last. The journalist presents the scene&hairsp;/&hairsp;event, then provides a reasonable interpretation&hairsp;/&hairsp;explanation within a specific framework which can be more or less biased.
 
 Nowadays, we have this anymore but "mass media communication". Fine, then let me introduce to you some "old fashion habits" and "effective communication ways" which are the state of the art before emotions took advantage of the reason.
 
@@ -151,6 +153,48 @@ Peché oggettivamente essendo una questione di fede, diamo tante, anzi troppe, c
 - Kirk era famoso, ma la sua vera storia la dobbiamo ancora leggere.
 
 Di quest'uomo abbiamo soltanto percepito la superficie, non l'opera.
+
+----
+
+### RIP Charlie Kirk, who did a great<br>job in debunking woke ideology
+
+Kirk made a very great work showing the madness of the woke ideology but in terms of religions he was as much confused as the woke about gender. Nothing particularly bad, it is very common in the USA (and not only).
+
+The main issue here is quite simple to explain: evangelical christians believe in Jesus and the Holy Trinity (as Kirk cited in another video) but still continue to recite the Bible which is the Old Testament.
+
+Here stays all the confusion and also a biased position toward Israel which is a laic state, without any doubt: just check how systematically Israeli police beaten rabbis who were upset about Gaza&hairsp;/&hairsp;Palestine invasion because in their Bible reading Israel has no any right to have a land after the demolition of the Temple and Hebrews are doomed to be spread around the world until the return of Jesus (or Apocalipse, depending the interpretations).
+
+Anyway, details apart, beating rabies made clear that Israel is a laic state and their right to exist is about their capacity to defend itself, only. Moreover, Israel and Jews are not even 1:1 related. Many Israeli citizens are Arab.
+
+Who believes in the New Testament (Gspel) of Jesus, should know that the Bible ceased to provide any moral value, at all. Just history.
+
+Many Israeli citizens are Arab and many Jews aren't Israeli citizens. Moreover some Jews are against Israel state because similarly to the Israeli rabies, they consider Israel state an artefact of the Zionists. Which is an even wider gap in perception than considering Jesus a prophet rather than the Saviour.
+
+Which is the clearest distinction in the Quran/Islam. On the other hand, Jews do NOT believe in Jesus as Saviour, likely Christians do NOT believe in Muhammad. This brings to a situation almost similar with gender confusion and in the same manner can be solved.
+
+Among Abrahamic religions there are three options and they are mutually exclusive, one or another: 
+
+1. Islam: Muhammad is the One while Jesus is a prophet and Quran is the book; 
+
+2. Christianity: Jesus is the Saviour, New Testament (Gospel) is the book and Bible is just the Old Testament which Jesus confined into history; 
+
+3. Jews because born as Jews, no conversion possible and Bible is the book while Quran/Muhammad and Jesus/Gospel are imposteurs.
+
+**Gulp!** Yeah, really.
+
+When a Jew recognises Jesus as the One, s/he converts to Christianity and being Jews is just a matter of family origins. When a Christian recites the Bible, is disavowing Jesus.
+
+**Gulp!** Yeah really, again.
+
+Finally, whatever of the above three options someone chooses, the God behind is the same. What it changes is about how God reveals thyself and decides to rule over humans.
+
+Under this perspective, all three are fine. Within one of these three choices, anyone can ask for support, protection and being saved after death to God and can reasonably trust that God will listen as long as their faith is strong. Instead, those mixup things cannot receive any benefits from their confusion.
+
+Confusion and faith cannot stay together. Moreover, for many confusion is the sign of the Devil in action which is considered the master of the deception. Faith is the compass that allows us to move firmly and secure in messy times.
+
+God was with Trump and not with Kirk. Unfortunately, Kirk was much more exposed to many people without any compass and this exposition brought in confusion and confusion is bad. RIP Kirk, he did a great job and his contribution will not be forgotten.
+
+After all, one day, soon or later, we all are doomed to die: memento mori in Latin. Kirk left this world sooner than expected but did not waste his time on Earth. Be determined like Kirk in your life pathway: believe or not believe, but avoid confusion.
 
 +
 
