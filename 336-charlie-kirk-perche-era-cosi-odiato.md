@@ -243,7 +243,7 @@ In fondo, il tuo post cattura bene il paradosso: Kirk voleva dibattito asimmetri
 
 +
 
-<span id="cherry-picking"></span>
+<span id="3rd-edition"></span>
 ## A cherry-picking attack example
 
 [!CITE]
