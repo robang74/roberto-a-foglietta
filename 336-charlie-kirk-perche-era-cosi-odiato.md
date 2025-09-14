@@ -17,7 +17,7 @@ Per giustificare l'odio viscerale verso questo influencer di destra si è fatto 
 
 Nella teoria della comunicazione c'è la regola d'oro del 3.5%. Se un'opinione o orientamento supera quella soglia, tipo ad arrivare al 4%, allora ha la possibilità di riuscire a farsi ascoltare dalla massa. Altrimenti no. Quindi se un'opinione controversa supera il 4% è giusto che se faccia dibattito ed è giusto che il dibattito sia pros-cons. Che poi era quello che faceva Kirk quando andava nei campus universitari a fare dibattiti.
 
-Se qualcuno facesse il cherry-picking delle nostre affermazioni, estratte dal contesto in cui sono state dette, penso che ognuno di noi potrebbe essere considerato malvagio o santo a seconda di chi fa questa selezione. Questo è un altro punto a vantaggio del modello comunicativo di Kirk che permetteva il dibattito.
+Se qualcuno facesse il [cherry-picking](#cherry-picking) delle nostre affermazioni, estratte dal contesto in cui sono state dette, penso che ognuno di noi potrebbe essere considerato malvagio o santo a seconda di chi fa questa selezione. Questo è un altro punto a vantaggio del modello comunicativo di Kirk che permetteva il dibattito.
 
 ---
 
@@ -244,6 +244,57 @@ Ad esempio, un utente ha twittato che l'odio per Kirk era giustificato perché l
 Interessante anche il web: articoli da fonti news sottolineano come l'odio provenisse da entrambi i lati – sinistra per le sue posizioni anti-woke, destra estrema per il suo supporto a Israele e Trump "mainstream". Un pezzo su The Bureau nota che Robinson lo vedeva come "pieno di odio" e non abbastanza conservatore, mentre Ground News parla di teorie cospirative che inondano internet, accusando la sinistra di incitare divisione. Questo rafforza la tua idea che se un'opinione supera una certa soglia (quel 3.5%), merita dibattito, ma evidenzia quanto sia difficile in un ecosistema come X, dove le pause per riflettere sono rare e l'emotività domina.
 
 In fondo, il tuo post cattura bene il paradosso: Kirk voleva dibattito asimmetrico ma fair, ma in USA (e su X) prevale l'aggressività. Se avesse adottato un formato più pacato, come suggerisci, forse l'odio sarebbe stato meno viscerale. X non è solo conservatore – è un'arena dove voci opposte si scontrano, e questo evento lo dimostra.
+
++
+
+<span id="cherry-picking"></span>
+## A cherry-picking attack example
+
+[!CITE]
+**Scott Alin B., asked**
+
+- **#1.** If I see a black pilot, I’m gonna be like boy I sure hope he’s qualified.
+
+- **#2.** Black women do not have the brain processing power to otherwise be taken seriously.
+
+Which one of these "truths" (by Charlie Kirk) resonated with you most?
+[/CITE]
+
+### Context please!
+
+Which I do not know so I collected by a GPT-5 [chat](https://chatgpt.com/share/68c60279-cff0-8012-aeae-9a4e46769743) search.
+
+[!INFO]
+**#1.** -- The remark came as he was criticizing a United Airlines policy/announcement (in 2021) that half of the graduates from its flight training academy would be women or people of color.
+[/INFO]
+
+Correctly, he realised that imposing such limits would necessarily implies that some people should be granted to pass with lower standards because they were underrepresented in those courses.
+
+- Black or African American alone or mixed: about 14.4%. Roughly 1:7 Americans identifies as Black.
+- Junior pilot (first officer) salary: $60&hairsp;--&hairsp;120K, while Senior flight attendant salary: $80&hairsp;--&hairsp;100K.
+
+Black people would be underrepresented **even** if they would have the **same** opportunity to access the course and graduate. As a woman, I would choose to earn $80K at the time that a male pilot starts to earn $60K with a little of his responsibility. Thus, the straightforward conclusion is what Kirk said.
+
+[!INFO]
+**#2.** -- This came in reference to prominent Black women — specifically Joy Reid, Michelle Obama, Sheila Jackson Lee, and Ketanji Brown Jackson. Kirk said they did not have the intelligence (“brain processing power”) to be taken seriously except via affirmative action. The quote is part of his long-standing criticisms of affirmative action and DEI, arguing that such policies are unfair or that they bring people into positions who couldn’t have achieved them otherwise.
+[/INFO]
+
+An *Ad Hominem* argument, not a gentleman but politics is a ring. About DEI in general Kirk was right and L.A. and Hollywood burned down because DEI created such a bubble of incompetence in the fire department at the point they forgot their mission and the fundamentals of the risk managing.
+
+People should to be placed in a role for what they are able to do, not because anything else. Fairness is not achieved by applying silly rules.
+
+- A. -- I want half of my staff green-skin for fair policy
+- B. -- Sir, we do not have green-skin people in our staff
+- A. -- So, fire half (trained) and hire new (untrained)
+
+You are B. and you can choose:
+
+1. tell your boss s/he retarded;
+2. obey and collapse the company;
+3. disobey and later get fired;
+4. start looking a new job.
+
+Unfortunately, s/he is not your compnay&hairsb;/&hairsb;boss but you country&hairsb;/&hairsb;president. Who those supported the DEI agenda was a bounch of retarded fellons whathever they are or imagine to be or whatever else they indetify themeselves with.
 
 +
 
