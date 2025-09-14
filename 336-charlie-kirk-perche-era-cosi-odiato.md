@@ -197,7 +197,6 @@ After all, one day, soon or later, we all are doomed to die: memento mori in Lat
 ...
 
 > **Ros Lucas**
-> 
 > The Holy Bible comprises old and new testaments - quoting from both is acceptable if it represents a point of view for those who believe the interpretation...
 
 Nope, that is an editorial choice. 
@@ -241,6 +240,8 @@ Unsurprisingly the All Israel News' staff is aware that "Jesus **and** the Bible
 
 - September 11, 2025 -- Lion-hearted friend of Israel Charlie Kirk's support for Israel was motivated by his love for Jesus **and** the Bible -- [All Israel News](https://allisraelnews.com/a-lion-hearted-friend-of-israel-charlie-kirks-support-for-israel-was-motivated-by-his-love-for-jesus-and-the-bible)
 
+<div align="center"><img class="bwsketch" src="img/336-charlie-kirk-perche-era-cosi-odiato-img-002.jpg"><br/></div>
+
 Once acquired these new information, I decided to add for consultation the current evaluation of an additional potential source of information which could be a turning key (possibly a Kremlin assist to solve the Kirk death, and also pushing Trump in an embarrassing position) but also a Troy horse aiming to prehmply re-orient the public opinion towards a wrong direction.
 
 **Interesting new to examine**:
@@ -266,12 +267,9 @@ Anyway, the westerns are still affected by troublemakers everytime some topics a
 Why? Considering what kind of pressure the Vatican put on the high-tech companies about AI and its ethics, I bet on "confusion". Every concept around Jews and liked with Jews is historically blurry and affected by confusion. Put in this scenario:
 
 1. a state born after the Shoah, conflicting with Palestine and its peak of winning it completely;
-
 2. a good level of maturity in leveraging Internet to drive the public opinion and even weaponizing it;
-
-3. few century of American Christianity **and** Bible confusion, that moved a **LOT** of money in favour of Israel and Jews;
-
-4. a young, popular truth seeker decided -- because continuously and hardly questioned about -- to see clearly on these topics.
+3. American Christianity **and** Bible confusion moved a **LOT** of money in favour of Israel and Jews;
+4. a young, popular truth seeker decided to see clearly on these topics, which was pressurised on.
 
 In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, like every solitary truth seeker. Paradoxically, his death triggered those phenomena for which people wish -- must have justice -- not revenge and burning random stuff around, but found out **WHY**. The America Turning Point which was dreaming of Charlie Kirk. Julius Caesar has been killed to save Rome's republic, paradoxically his death cost Rome's republic.
 
@@ -373,7 +371,7 @@ You are B. and you can choose:
 
 Unfortunately, **A.** was not a company&hairsp;/&hairsp;boss but a country&hairsp;/&hairsp;president. Those who pushed forward the DEI agenda were a bunch of retarded felons whatever they are or imagine to be or whatever else they identify themselves with.
 
-+
++++++
 
 ## Share alike
 
