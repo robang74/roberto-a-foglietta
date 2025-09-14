@@ -249,9 +249,9 @@ In fondo, il tuo post cattura bene il paradosso: Kirk voleva dibattito asimmetri
 [!CITE]
 **Scott Alin B., asked**
 
-- **#1.** If I see a black pilot, I’m gonna be like boy I sure hope he’s qualified.
+- **#1.** -- If I see a black pilot, I’m gonna be like boy I sure hope he’s qualified.
 
-- **#2.** Black women do not have the brain processing power to otherwise be taken seriously.
+- **#2.** -- Black women do not have the brain processing power to otherwise be taken seriously.
 
 Which one of these "truths" (by Charlie Kirk) resonated with you most?
 [/CITE]
