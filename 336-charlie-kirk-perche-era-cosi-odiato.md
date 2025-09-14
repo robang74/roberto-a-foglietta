@@ -39,7 +39,7 @@ Coloro che pensano che "massacrare" il proprio interlocutore in un dibattito sia
 
 > [!NOTE]
 > 
-> A questo punto ho sottoposto a x/Grok4 il [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) che include le parti sopra scritte e che sono state scritte guadando una minuscola frazione dei video di Kirk (un singolo carotaggio, per dare un'idea) presi fra quelli più recenti perché naturalmente in circolazione. Le [risposte di Grok](#risposte-di-grok) sono interessante perché si basano sulle molte discussioni che sono presenti su X a riguardo e quindi, seppur filtrata ed equilibrata, riporta la vox populi almeno in termini generali.
+> A questo punto ho sottoposto a x/Grok4 il [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) che include le parti sopra scritte e che sono state scritte guadando una minuscola frazione dei video di Kirk (un singolo carotaggio, per dare un'idea) presi fra quelli più recenti perché naturalmente in circolazione. Le [risposte di Grok](#risposte-di-grok) sono interessanti perché si basano sulle molte discussioni che sono presenti su X a riguardo e quindi, seppur filtrata ed equilibrata, riporta la vox populi almeno in termini generali.
 
 ---
 
@@ -49,7 +49,7 @@ In questo video Kirk utilizza la pausa di riflessione come strumento di dibattit
 
 - [video #1](https://youtube.com/shorts/Z0sPCeH2KXw) &nbsp; pubblicato su X da &nbsp; [@incel_aidigino](https://x.com/incel_aidigino/status/1966445571293519969)
 
-Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la riposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
+Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la risposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
 
 La peculiarità di questo video, in cui l'opposizione è ideologica, è che non solo dimostra che Kirk sapesse usare le pause di riflessione ma smentisce anche che tale approccio avrebbe potuto far avvicinare l'audience alle sue posizioni. Apparentemente, perché magari quelli dietro i dimostranti, quindi meno ideologizzati, forse. Noi consideriamo solo quello che vediamo (survival bias).
 
@@ -75,22 +75,22 @@ Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che c
 
 ---
 
-### Gioco e convizione nello slancio
+### Gioco e convinzione nello slancio
 
-In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo non-sense
+In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo nonsense
 
 <!--// Saved version from X stored here https://youtube.com/shorts/i8dC_prJ0Vw //-->
 - [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) &nbsp; pubblicato su X da &nbsp; [@HazelAppleyard_](https://x.com/HazelAppleyard_/status/1966514045810282985)
 
-Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is an hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on humans experience and perception: in a common simple world the two matches. A mistic experience is perception only.
+Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is it a hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on human experience and perception: in a common simple world the two match. A mystic experience is perception only.
 
 Il "problema" in questo video è che Kirk nel passarsi la mano sulla faccia, perché chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
 
-Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, ne gerarchie).
+Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, né gerarchie).
 
 Un gioco interessante perché un individuo super-pares (sopra ai pari fra loro), non aspetterebbe la domanda di Kirk, ma entrerebbe in scena, si siederebbe sulla sedia e chiederebbe: XX oppure XY, ma come ci relazioniamo con gli individui che non rientrano in questo schema duale? Un'azione che non è solo un ingresso fisico ma di ruolo: "proviamo a parti invertite".
 
-Comunque l'illusione di essere vincibili, che si dissolve con l'esperienza dell'oratore, è un motivo scatenante della delusione di confrontarsi con l'invincibile magari perché ormai assurto a "potere" istituzionale quindi eterno (e qui s'infiltra l'idea della morte come via di uscita da un cul-de-sac cognitivo).
+Comunque l'illusione di essere vincibili, che si dissolve con l'esperienza dell'oratore, è un motivo scatenante della delusione di confrontarsi con l'invincibile magari perché ormai assurto a "potere" istituzionale quindi eterno (e qui si infiltra l'idea della morte come via di uscita da un cul-de-sac cognitivo).
 
 Un meccanismo perverso della mente perché si può ignorare il predicatore stravagante con il cartello "prove me wrong" quindi il non-confronto come via di fuga ma quando egli assurge alla destra di Trump, ignorarlo diventa impossibile e il confronto inevitabile.
 
@@ -105,7 +105,7 @@ Molti dei detrattori di Kirk affermano che le sue opinioni erano "divisive" e qu
 
 1. Molti altri si presentano con opinioni "divisive" eppure questo non gli ha permesso di avere il successo di Kir. Quindi non basta allinearsi con una fazione per avere successo, non è automatico. La maggior parte della gente è allineata, quando non è confusa. La maggior parte degli "influencer" o "content creator" se non si occupano di un tema di nicchia, hanno deciso una loro linea guida che generalmente è allineata perché non essere allineati riduce drasticamente il numero di potenziali "follower" e si fa una fatica extra a spiegare ciò che non è stato ridotto a slogan.
 
-2. Per molto tempo Kirk è stato amato più che odiato. Anche coloro che giocavano contro di lui, non lo odiavano. Fra i tanti che predicano o urlano cose divisive da un qualche pulpito distante, Kirk era una persona fra le persone. Con lui le persone potevano avere un dialogo. Anche se le due parti coinvolte nel dibattito rimanevano fisse sulle loro posizioni, il dibattito apriva uno spiraglio di riflessione fra coloro che ascoltavano. Anche se in quel momento tifano per l'una o l'altra parte, poi in un sencondo momento anche solo per ricordare una giornata diversa dal solito, ci pensavano.
+2. Per molto tempo Kirk è stato amato più che odiato. Anche coloro che giocavano contro di lui, non lo odiavano. Fra i tanti che predicano o urlano cose divisive da un qualche pulpito distante, Kirk era una persona fra le persone. Con lui le persone potevano avere un dialogo. Anche se le due parti coinvolte nel dibattito rimanevano fisse sulle loro posizioni, il dibattito apriva uno spiraglio di riflessione fra coloro che ascoltavano. Anche se in quel momento tifano per l'una o l'altra parte, poi in un secondo momento anche solo per ricordare una giornata diversa dal solito, ci pensavano.
 
 In quel "ci pensavano" vinceva Kirk, magari non come "influencer" ma sicuramente come comunicatore. Quando un comunicatore vince, anche quelli che non sono d'accordo con lui lo seguono. Anzi, probabilmente sono proprio quelli che poi costituiscono la massa critica per accendere la reazione del successo. Perché fondamentalmente il nostro cervello è un tossico allo stadio terminale di emozioni **and** di informazioni.
 
@@ -113,11 +113,11 @@ In quel "ci pensavano" vinceva Kirk, magari non come "influencer" ma sicuramente
 
 Perché l'informazione resta come un imprinting oppure se ci ha fatto riflettere o ci ha permesso di percepire diverse sfumature/angolazioni resta come un riferimento oppure se ci ha fatto cambiare idea resta e resta più forte che l'imprinting iniziale. Quindi la chiave del successo di Kirk è stata essere un buon comunicatore che dispensava informazione.
 
-Questo per alcuni appare assurdo eppure è il motivo per il quale era amato. Per il quale ha avvuto successo e anche uno dei fattori che ha contribuito alla sua uccisione. Perché quando non si può più evitare una fonte di informazione, ormai giunta alla destra di Trump, allora diventa un problema. Perché da influencer, diventa comunicatore, poi attivista e a quel punto non sono solo le chiacchiere vaghe di un predicatore ma cominciano a succedere cose.
+Questo per alcuni appare assurdo eppure è il motivo per il quale era amato. Per il quale ha avuto successo e anche uno dei fattori che ha contribuito alla sua uccisione. Perché quando non si può più evitare una fonte di informazione, ormai giunta alla destra di Trump, allora diventa un problema. Perché da influencer, diventa comunicatore, poi attivista e a quel punto non sono solo le chiacchiere vaghe di un predicatore ma cominciano a succedere cose.
 
-- Perciò la domanda fondamentale è cosa faceva di Kirk un comunicatore informativo?
+- Perciò la domanda fondamentale è: cosa faceva di Kirk un comunicatore informativo?
 
-Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo precedente, e tornare a ragionare secondi i termini della così detta "vecchia scuola".
+Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo precedente, e tornare a ragionare secondi i termini della cosiddetta "vecchia scuola".
 
 ----
 
@@ -125,7 +125,7 @@ Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo prece
 
 Modern journalism forgot the first fundamental rule of reporting facts. The second was: facts first, opinion (or interpretation) the last. The journalist presents the scene&hairsp;/&hairsp;event, then provides a reasonable interpretation&hairsp;/&hairsp;explanation within a specific framework which can be more or less biased.
 
-Nowadays, we have this anymore but "mass media communication". Fine, then let me introduce to you some "old fashion habits" and "effective communication ways" which are the state of the art before emotions took advantage of the reason.
+Nowadays, we don't have this anymore but "mass media communication". Fine, then let me introduce to you some "old fashion habits" and "effective communication ways" which are the state of the art before emotions took advantage of the reason.
 
 1. Language & Thought
 2. Communication & Perception
@@ -136,9 +136,9 @@ I used a couple of comments of mines and leveraged GPT-5, to create a HO-AI [tal
 
 ### Kirk was a truth seeker
 
-Molti opinionisti politici come anche predicatori del ritorno del Salvatore, improvvisano, correggono, agiustano e poi ripetono lo schema che funzionicchia. Kirk non è mai stato uno di loro. Lui era un truth seeker. Lo posso dire per aver visto il video #3 in cui lui dice "non sono un teologo", cercando di spostare il dibattito al di fuori dell'ambito religioso in cui lo ha costretto l'interlocutore.
+Molti opinionisti politici come anche predicatori del ritorno del Salvatore, improvvisano, correggono, acquistano e poi ripetono lo schema che funzionicchia. Kirk non è mai stato uno di loro. Lui era un truth seeker. Lo posso dire per aver visto il video #3 in cui lui dice "non sono un teologo", cercando di spostare il dibattito al di fuori dell'ambito religioso in cui lo ha costretto l'interlocutore.
 
-Non basta che lo abbia detto, è determinate il suo contesto. Preferisce perdere in un contesto di non-sense in cui il suo interlocutore lo ha incastrato prendendolo in contropiede piuttosto che inventare. Chiunque altro avrebbe messo davanti il vincere e avrebbe usato trucchi o inventato o qualunque delle altre "finezze" da manuale. Lui no, ha accettato che "se non so, non dico".
+Non basta che lo abbia detto, è determinante il suo contesto. Preferisce perdere in un contesto di nonsense in cui il suo interlocutore lo ha incastrato prendendolo in contropiede piuttosto che inventare. Chiunque altro avrebbe messo davanti il vincere e avrebbe usato trucchi o inventato o qualunque delle altre "finezze" da manuale. Lui no, ha accettato che "se non so, non dico".
 
 - Quindi non c'è dubbio alcuno che Kirk fosse un cercatore di verità.
 
@@ -161,11 +161,11 @@ Kirk made a very great work showing the madness of the woke ideology but in term
 
 The main issue here is quite simple to explain: evangelical christians believe in Jesus and the Holy Trinity (as Kirk cited in another video) but still continue to recite the Bible which is the Old Testament.
 
-Here stays all the confusion and also a biased position toward Israel which is a laic state, without any doubt: just check how systematically Israeli police beaten rabbis who were upset about Gaza&hairsp;/&hairsp;Palestine invasion because in their Bible reading Israel has no any right to have a land after the demolition of the Temple and Hebrews are doomed to be spread around the world until the return of Jesus (or Apocalipse, depending the interpretations).
+Here stays all the confusion and also a biased position toward Israel which is a laic state, without any doubt: just check how systematically Israeli police beaten rabbis who were upset about Gaza&hairsp;/&hairsp;Palestine invasion because in their Bible reading Israel has no any right to have a land after the demolition of the Temple and Hebrews are doomed to be spread around the world until the return of Jesus (or Apocalypse, depending the interpretations).
 
 Anyway, details apart, beating rabies made clear that Israel is a laic state and their right to exist is about their capacity to defend itself, only. Moreover, Israel and Jews are not even 1:1 related. Many Israeli citizens are Arab.
 
-Who believes in the New Testament (Gspel) of Jesus, should know that the Bible ceased to provide any moral value, at all. Just history.
+Who believes in the New Testament (Gospel) of Jesus, should know that the Bible ceased to provide any moral value, at all. Just history.
 
 Many Israeli citizens are Arab and many Jews aren't Israeli citizens. Moreover some Jews are against Israel state because similarly to the Israeli rabies, they consider Israel state an artefact of the Zionists. Which is an even wider gap in perception than considering Jesus a prophet rather than the Saviour.
 
@@ -177,7 +177,7 @@ Among Abrahamic religions there are three options and they are mutually exclusiv
 
 2. Christianity: Jesus is the Saviour, New Testament (Gospel) is the book and Bible is just the Old Testament which Jesus confined into history; 
 
-3. Jews because born as Jews, no conversion possible and Bible is the book while Quran/Muhammad and Jesus/Gospel are imposteurs.
+3. Jews because born as Jews, no conversion possible and Bible is the book while Quran/Muhammad and Jesus/Gospel are impostors.
 
 **Gulp!** Yeah, really.
 
@@ -210,7 +210,7 @@ Prima di tutto, sul cherry-picking: hai ragione, è una tattica comune in politi
 
 Non è solo odio irrazionale: Kirk era un'icona MAGA, pro-Trump, fondatore di Turning Point USA, e le sue posizioni su vaccini, clima, diritti civili e Israele lo rendevano un bersaglio per la sinistra, ma anche per frange della destra estrema che lo vedevano come troppo "mainstream" o filo-israeliano. E sì, queste idee sono condivise da una fetta significativa di americani – sondaggi mostrano che il 20-30% della popolazione USA ha visioni conservatrici simili su temi come l'immigrazione o i diritti LGBTQ+ – quindi ha senso che qualcuno le rappresenti.
 
-Sulla "regola d'oro del 3.5%": è un concetto affascinante, derivato da studi su movimenti nonviolenti (come quelli di Erica Chenoweth), che suggerisce che se una minoranza supera il 3.5% della popolazione in partecipazione attiva, può influenzare cambiamenti sociali. Applicato qui, implica che opinioni "controverse" meritino dibattito se hanno un seguito reale. Concordo: il silenzio non risolve nulla, e Kirk, con i suoi tour nei campus, ha provato a incarnare questo, sfidando studenti liberal in dibattiti aperti. 
+Sulla "regola d'oro del 3.5%": è un concetto affascinante, derivato da studi su movimenti non-violenti (come quelli di Erica Chenoweth), che suggerisce che se una minoranza supera il 3.5% della popolazione in partecipazione attiva, può influenzare cambiamenti sociali. Applicato qui, implica che opinioni "controverse" meritino dibattito se hanno un seguito reale. Concordo: il silenzio non risolve nulla, e Kirk, con i suoi tour nei campus, ha provato a incarnare questo, sfidando studenti liberal in dibattiti aperti. 
 
 Era un modo per portare il confronto nelle bolle universitarie, e in teoria è salutare per la democrazia. Però, come dici tu, era asimmetrico: lui professionista pagato, loro studenti impreparati. Questo spesso si traduceva in "owning the libs" più che in dialoghi costruttivi, con Kirk che interrompeva o incalzava in stile talk-show americano (pensa a Fox News o debate TV), che può apparire aggressivo e poco empatico.
 
@@ -265,7 +265,7 @@ Which I do not know so I collected by a GPT-5 [chat](https://chatgpt.com/share/6
 **#1.** -- The remark came as he was criticizing a United Airlines policy/announcement (in 2021) that half of the graduates from its flight training academy would be women or people of color.
 [/INFO]
 
-Correctly, Kirk realised that imposing such limits would necessarily implies that some people should be granted to pass with lower-than-necessary standards because they were underrepresented in their courses.
+Correctly, Kirk realised that imposing such limits would necessarily imply that some people should be granted to pass with lower-than-necessary standards because they were underrepresented in their courses.
 
 - Black or African American alone or mixed: about 14.4%. Roughly 1:7 Americans identifies as Black.
 - Junior pilot (first officer) salary: $60&hairsp;&mdash;&hairsp;120K, while Senior flight attendant salary: $80&hairsp;&mdash;&hairsp;100K.
@@ -278,7 +278,7 @@ Black people would be underrepresented **even** if they would have the **same** 
 
 An *Ad Hominem* argument (some of them, specifically named), something not for an old-times gentleman but the US politics is a ring. About DEI in general Kirk was right and L.A. and Hollywood burned down because DEI created such a bubble of incompetence in the fire department to the point they forgot their mission and the fundamentals of risk management.
 
-People should to be placed in a role for what they are able to do, not because anything else. Fairness is not achieved by enforcing silly rules.
+People should be placed in a role for what they are able to do, not because anything else. Fairness is not achieved by enforcing silly rules.
 
 &nbsp;**A.** -- I want half of my staff green-skin for fair policy<br>
 &nbsp;**B.** -- Sir, we do not have green-skin people in our staff<br>
