@@ -145,22 +145,6 @@ Non basta che lo abbia detto, è determinante il suo contesto. Preferisce perder
 Non è questo la chiave del successo, questo è il **motore** del suo successo. Tutti gli altri vogliono solo "far cassa" e "chiudere in positivo" a fine giornato. Per lui questo **non** era lo scopo e **non** era nemmeno abbastanza. Voleva andare oltre, per gli altri l'orizzonte termina dove termina la punta del loro nasi. Ma se l'orizzonte di una persona si ferma alla punta del suo naso, non c'è **alcuna** possibilità che possa fare un qualche balzo in avanti che lo distingua, che lo porti ad emergere sopra ai prestigiatori dei trucchi da manuale. Perché il manuale ce lo andiamo a comprare su Amazon e ce lo consegnano domani, finito di leggere è learning by doing: buttati che ti crescono le ali!
 
 L'essere un cercatore di verità l'ha portato alla destra di Trump, ma lo ha anche infilato nei pasticci perché da predicatore è diventato attivista. A quel livello è una processione di gente che tira per la giacchetta, che s'infila nei dibattiti o nelle interviste per {dire, suggerire, sottintendere} cose. Fra le tante cose, il tema della religione è uno di quelli che **ancora** una volta gli ha creato problemi.
-<!--//
-Notizia interessante ancora da esaminare
-- https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination
-1st pass esamitation results:
-- thegrayzone.com: USA, far-left, pro-Kremlin, Conspiracy oriented
-- reliability: fringe source for Wikipedia, unreliable in general
-- article: a collection of unducomented claims (also for Kimi K2)
-Quick OSINT analysis summary:
-- The source of the article is a friend of Kirk revealing confidencial events
-  but there is no facts for which Kirk could be have had any relationship with
-  TheGrayZone thus a "friend" of a conservative/evangelic speakers who reveals
-  confidencial information to a far-left conspuracy oriented website did not fit
-  very well with "friend" (a spy) or with "reliable" source of information.
-Conclusion:
-- Unreliable source of information until/unless claims will be proven/documented
-//-->
 
 Perché oggettivamente essendo una questione di fede, diamo tante, anzi troppe, cose per scontate, quindi tutti quanti conosciamo la punta dell'iceberg ma nulla della sua provenienza, tragitto e forma. Però c'è gente che sulle questioni di religione è disposta ad uccidere, a fare le guerre, ad indire crociate. Perché è assai difficile contestare il "Deus Vult", specialmente quando l'ignoranza è quasi assoluta.
 
@@ -237,6 +221,61 @@ Confusion does not lead to crimes or offences to God -- which it would like we, 
 **Spoiler**: a [mess](334-raccolta-di-post-sulla-crisi-di-gaza.md#?target=_blank), clearly.
 
 +++++
+
+## Charlie Kirk and his relationship with Israel
+
+Also his relationship with Israel seems affected by a kind of confusion which he was trying to clear. In hindsight, given his death, we can say that it was a desperate undertaking, even considering the confusion surrounding the relationship between Christianity and the Old Testament.
+
+- Charlie Kirk: "&hairsp;*Can Christians support Israel and criticize its government?*&hairsp;" [video](https://youtube.com/shorts/SCYMlAfUzpI) about common mistake of confusing the State of Israel, the Israeli govern, the people living in Israel and Jews.
+
+Wikipedia underlines how Kirk's relationship with Israel and related actions started to deteriorate in terms of linearity after the 10/7, which is typical of someone that decided to leave the paved road for an off-the-track exploration.
+
+[!INFO]
+Although Kirk was a staunch defender of Israel, he also shared some critical views of the Israeli government. Shortly after the October 7 attacks on Israel in 2023, Kirk had promoted a conspiracy theory alleging the Israeli government knew that Hamas was going to launch the attack, and that Netanyahu allowed it to go ahead as part of a plan to remain in power. Shortly before Kirk's death, he suggested that Jeffrey Epstein had been an Israeli intelligence agent.
+
+Several Israeli government ministers, politicians and political activists mourned Kirk's death, with many describing him as a "friend of Israel" and a few linking his killing to anti-Zionists. Netanyahu said he had recently invited Kirk to Israel, while Morton Klein said Kirk had recently accepted an invitation to speak at the Zionist Organization of America's national gala.
+[/INFO]
+   - Wikipedia about Charlie Kirk on [Israel and Palestine](https://en.wikipedia.org/wiki/Charlie_Kirk?utm_source=chatgpt.com#Israel_and_Palestine)
+
+Unsurprisingly the All Israel News' staff is aware that "Jesus **and** the Bible" are two related but **way** different concepts:
+
+- September 11, 2025 -- Lion-hearted friend of Israel Charlie Kirk's support for Israel was motivated by his love for Jesus **and** the Bible -- [All Israel News](https://allisraelnews.com/a-lion-hearted-friend-of-israel-charlie-kirks-support-for-israel-was-motivated-by-his-love-for-jesus-and-the-bible)
+
+Once acquired these new information, I decided to add for consultation the current evaluation of an additional potential source of information which could be a turning key (possibly a Kremlin assist to solve the Kirk death, and also pushing Trump in an embarrassing position) but also a Troy horse aiming to prehmply re-orient the public opinion towards a wrong direction.
+
+**Interesting new to examine**:
+- URL: [thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination](https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination)
+- Title: Charlie Kirk refused Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend reveals
+- Publication date: September 12, 2025
+- Source: They Gray Zone article about
+**First pass examination results**:
+- thegrayzone.com: USA, far-left, pro-Kremlin, Conspiracy oriented
+- reliability: fringe source for Wikipedia, unreliable in general
+- article: a collection of undocumented claims (also for Kimi K2)
+**Quick OSINT analysis summary**:
+- The source of the article is a friend of Kirk revealing confidencial events but there is no facts for which Kirk could be have had any relationship with   TheGrayZone thus a "friend" of a conservative&hairsp;/&hairsp;evangelical speakers who reveals confidential information to a far-left conspiracy oriented website did not fit very well with "friend" (a spy) or with "reliable" source of information.
+**Conclusion**:
+- Unreliable source of information until/unless claims will be proven/documented
+**Conclusion update #1**:
+- Warning: previous conclusion remains intacs, due any proof/evidence emerged
+- Wikipedia: Shortly after the 10/7 Hamas attack Kirk had promoted a conspiracy theory (...)
+- This additional information retrieved from Wikipedia and the timings between relevant relevant events introduced a reasonable explanation for the doubts raised by the previous quick OSINT analysis leading me (the author) to publish this quick evaluation, also.
+
+Anyway, the westerns are still affected by troublemakers everytime some topics are involved. This problem is **not** an historical heritage, despite the Jews and Cristians relationship never being flatbed or calm. Clearly, troubles arise in exponential manner with Israel State and technology wide spreading combination.
+
+Why? Considering what kind of pressure the Vatican put on the high-tech companies about AI and its ethics, I bet on "confusion". Every concept around Jews and liked with Jews is historically blurry and affected by confusion. Put in this scenario:
+
+1. a state born after the Shoah, conflicting with Palestine and its peak of winning it completely;
+
+2. a good level of maturity in leveraging Internet to drive the public opinion and even weaponizing it;
+
+3. few century of American Christianity **and** Bible confusion, that moved a **LOT** of money in favour of Israel and Jews;
+
+4. a young, popular truth seeker decided -- because continuously and hardly questioned about -- to see clearly on these topics.
+
+In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, like every solitary truth seeker. Paradoxically, his death triggered those phenomena for which people wish -- must have justice -- not revenge and burning random stuff around, but found out **WHY**. The America Turning Point which was dreaming of Charlie Kirk. Julius Caesar has been killed to save Rome's republic, paradoxically his death cost Rome's republic.
+
++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
