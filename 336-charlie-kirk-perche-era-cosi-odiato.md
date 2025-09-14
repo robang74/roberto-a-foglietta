@@ -145,7 +145,22 @@ Non basta che lo abbia detto, è determinante il suo contesto. Preferisce perder
 Non è questo la chiave del successo, questo è il **motore** del suo successo. Tutti gli altri vogliono solo "far cassa" e "chiudere in positivo" a fine giornato. Per lui questo **non** era lo scopo e **non** era nemmeno abbastanza. Voleva andare oltre, per gli altri l'orizzonte termina dove termina la punta del loro nasi. Ma se l'orizzonte di una persona si ferma alla punta del suo naso, non c'è **alcuna** possibilità che possa fare un qualche balzo in avanti che lo distingua, che lo porti ad emergere sopra ai prestigiatori dei trucchi da manuale. Perché il manuale ce lo andiamo a comprare su Amazon e ce lo consegnano domani, finito di leggere è learning by doing: buttati che ti crescono le ali!
 
 L'essere un cercatore di verità l'ha portato alla destra di Trump, ma lo ha anche infilato nei pasticci perché da predicatore è diventato attivista. A quel livello è una processione di gente che tira per la giacchetta, che s'infila nei dibattiti o nelle interviste per {dire, suggerire, sottintendere} cose. Fra le tante cose, il tema della religione è uno di quelli che **ancora** una volta gli ha creato problemi.
-<!--// Notizia interessante ancora da esaminare https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination //-->
+<!--//
+Notizia interessante ancora da esaminare
+- https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination
+1st pass esamitation results:
+- thegrayzone.com: USA, far-left, pro-Kremlin, Conspiracy oriented
+- reliability: fringe source for Wikipedia, unreliable in general
+- article: a collection of unducomented claims (also for Kimi K2)
+Quick OSINT analysis summary:
+- The source of the article is a friend of Kirk revealing confidencial events
+  but there is no facts for which Kirk could be have had any relationship with
+  TheGrayZone thus a "friend" of a conservative/evangelic speakers who reveals
+  confidencial information to a far-left conspuracy oriented website did not fit
+  very well with "friend" (a spy) or with "reliable" source of information.
+Conclusion:
+- Unreliable source of information until/unless claims will be proven/documented
+//-->
 
 Perché oggettivamente essendo una questione di fede, diamo tante, anzi troppe, cose per scontate, quindi tutti quanti conosciamo la punta dell'iceberg ma nulla della sua provenienza, tragitto e forma. Però c'è gente che sulle questioni di religione è disposta ad uccidere, a fare le guerre, ad indire crociate. Perché è assai difficile contestare il "Deus Vult", specialmente quando l'ignoranza è quasi assoluta.
 
