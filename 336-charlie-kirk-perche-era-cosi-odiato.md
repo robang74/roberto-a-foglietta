@@ -6,8 +6,8 @@
 ## Charlie Kirk, perché era così odiato?
 
 - **1st edition**, articolo scritto a partire da un [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) su Linkedin, sottoposto all'opinione di x/Grok4 e poi sviluppato nell'arco delle sei ore successive in un [post #2](https://www.facebook.com/roberto.a.foglietta/posts/10162296346818736) su Facebook, quindi qui riportato.
-
-- **2nd-edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita. 
+- **2nd-edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
+- **3rd-edition**, la terza [parte](#2nd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette.
 
 ---
 
@@ -39,7 +39,7 @@ Coloro che pensano che "massacrare" il proprio interlocutore in un dibattito sia
 
 > [!NOTE]
 > 
-> A questo punto ho sottoposto a x/Grok4 il post pubblicato su LinkedIn che include le parti sopra scritte e che sono state scritte guadando una minuscola frazione dei video di Kirk (un singolo carotaggio, per dare un'idea) presi fra quelli più recenti perché naturalmente in circolazione. Le [risposte di Grok](#risposte-di-grok) sono interessante perché si basano sulle molte discussioni che sono presenti su X a riguardo e quindi, seppur filtrata ed equilibrata, riporta la vox populi almeno in termini generali.
+> A questo punto ho sottoposto a x/Grok4 il [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) che include le parti sopra scritte e che sono state scritte guadando una minuscola frazione dei video di Kirk (un singolo carotaggio, per dare un'idea) presi fra quelli più recenti perché naturalmente in circolazione. Le [risposte di Grok](#risposte-di-grok) sono interessante perché si basano sulle molte discussioni che sono presenti su X a riguardo e quindi, seppur filtrata ed equilibrata, riporta la vox populi almeno in termini generali.
 
 ---
 
@@ -51,13 +51,9 @@ In questo video Kirk utilizza la pausa di riflessione come strumento di dibattit
 
 Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la riposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
 
-La peculiarità di questo video, in cui l'opposizione è ideologica, è che non solo dimostra che Kirk sapesse usare le pause di riflessione ma smentisce anche che tale approccio avrebbe potuto far avvicinare l'audience alle sue posizioni. 
+La peculiarità di questo video, in cui l'opposizione è ideologica, è che non solo dimostra che Kirk sapesse usare le pause di riflessione ma smentisce anche che tale approccio avrebbe potuto far avvicinare l'audience alle sue posizioni. Apparentemente, perché magari quelli dietro i dimostranti, quindi meno ideologizzati, forse. Noi consideriamo solo quello che vediamo (survival bias).
 
-Apparentemente, perché magari quelli dietro i dimostranti, quindi meno ideologizzati, forse. Noi consideriamo solo quello che vediamo (survival bias).
-
-In effetti, questo NON è un dibattito ma "standing tall" tenere occupato uno slot senza apportare nessun contributo a parte farsi allontanare dalla security per gli applausi.
-
-Considerando che il bimbo-show avrà $100K-$200K di debito universitario a fine studi, e dovrà trovare un lavoro necessariamente ben pagato una volta laureato, mi pare che manchi, più che di buon senso, di istinto di conservazione.
+In effetti, questo NON è un dibattito ma "standing tall" tenere occupato uno slot senza apportare nessun contributo a parte farsi allontanare dalla security per gli applausi. Considerando che il bimbo-show avrà $100K-$200K di debito universitario a fine studi, e dovrà trovare un lavoro necessariamente ben pagato una volta laureato, mi pare che manchi, più che di buon senso, di istinto di conservazione.
 
 ----
 
