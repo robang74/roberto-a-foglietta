@@ -271,7 +271,7 @@ Which I do not know so I collected by a GPT-5 [chat](https://chatgpt.com/share/6
 Correctly, Kirk realised that imposing such limits would necessarily implies that some people should be granted to pass with lower-than-necessary standards because they were underrepresented in their courses.
 
 - Black or African American alone or mixed: about 14.4%. Roughly 1:7 Americans identifies as Black.
-- Junior pilot (first officer) salary: $60&hairsp;--&hairsp;120K, while Senior flight attendant salary: $80&hairsp;--&hairsp;100K.
+- Junior pilot (first officer) salary: $60&hairsp;&mdash;&hairsp;120K, while Senior flight attendant salary: $80&hairsp;&mdash;&hairsp;100K.
 
 Black people would be underrepresented **even** if they would have the **same** opportunity to access the course and graduate. As a woman, I would choose to earn $80K at the time that a male pilot starts to earn $60K with a fraction of his responsibilities and skills. Thus, the straightforward conclusion is what Kirk said.
 
@@ -279,13 +279,13 @@ Black people would be underrepresented **even** if they would have the **same** 
 **#2.** -- This came in reference to prominent Black women — specifically Joy Reid, Michelle Obama, Sheila Jackson Lee, and Ketanji Brown Jackson. Kirk said they did not have the intelligence (“brain processing power”) to be taken seriously except via affirmative action. The quote is part of his long-standing criticisms of affirmative action and DEI, arguing that such policies are unfair or that they bring people into positions who couldn’t have achieved them otherwise.
 [/INFO]
 
-An *Ad Hominem* argument, not a gentleman but politics is a ring. About DEI in general Kirk was right and L.A. and Hollywood burned down because DEI created such a bubble of incompetence in the fire department at the point they forgot their mission and the fundamentals of the risk managing.
+An *Ad Hominem* argument (some of them, specifically named), something not for an old-times gentleman but the US politics is a ring. About DEI in general Kirk was right and L.A. and Hollywood burned down because DEI created such a bubble of incompetence in the fire department to the point they forgot their mission and the fundamentals of risk management.
 
 People should to be placed in a role for what they are able to do, not because anything else. Fairness is not achieved by enforcing silly rules.
 
-- **A.** -- I want half of my staff green-skin for fair policy
-- **B.** -- Sir, we do not have green-skin people in our staff
-- **A.** -- So, fire half (trained) and hire new (untrained)
+&nbsp;**A.** -- I want half of my staff green-skin for fair policy<br>
+&nbsp;**B.** -- Sir, we do not have green-skin people in our staff<br>
+&nbsp;**A.** -- So, fire half (trained) and hire new (untrained)
 
 You are B. and you can choose:
 
@@ -294,7 +294,7 @@ You are B. and you can choose:
 3. disobey and later get fired;
 4. start looking for a new job.
 
-Unfortunately, s/he is not your compnay&hairsb;/&hairsb;boss but you country&hairsb;/&hairsb;president. Who those supported the DEI agenda was a bounch of retarded fellons whathever they are or imagine to be or whatever else they indetify themeselves with.
+Unfortunately, **A.** was not a company&hairsp;/&hairsp;boss but a country&hairsp;/&hairsp;president. Those who pushed forward the DEI agenda were a bunch of retarded felons whatever they are or imagine to be or whatever else they identify themselves with.
 
 +
 
