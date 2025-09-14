@@ -210,7 +210,33 @@ God was with Trump and not with Kirk. Unfortunately, Kirk was much more exposed 
 
 After all, one day, soon or later, we all are doomed to die: memento mori in Latin. Kirk left this world sooner than expected but did not waste his time on Earth. Be determined like Kirk in your life pathway: believe or not believe, but avoid confusion.
 
-+
+...
+
+> **Ros Lucas**
+> 
+> The Holy Bible comprises old and new testaments - quoting from both is acceptable if it represents a point of view for those who believe the interpretation...
+
+Nope, that is an editorial choice. 
+
+The Bible is a collection of many ancient scripts along many centuries. The Gospel usually is a collection of four versions of the same "Good Novel" (aka New Testament) written officially by four different testimonies with a slightly different cultural and educational background.
+
+Anyway, even if a book titled "Bible" (or the "Holy Bible", most frequently) includes the Gospels, the Jesus Christ first coming made the rest of the book a "history" toward the New Testament as a new agreement with the same God which was probably was feed-up enough about the violent and explicit material added up to Thy 10 commandments tables (btw, in that revelation God apperead as a bramble hedge that burns without being consumed).
+
+The "Good Novel" isn't a human definition but a Jesus' one. Indicating that He was sent to settle down confusion about the God will and rules for humans. So, He simplified further the commandments in "reciprocity without violence" because "eye per eye" formulation was heading towards a world of blind men (literally and metaphorically).
+
+Therefore, the Bible is the Book of Jews, exclusively. For everybody else within the Adamitic faiths is just the history B.C.
+
+Because of the "Good Novel", it is not acceptable to be on death row even in penal laws in every state in which the majority of people consider Jesus Christ as a manifestation of God, even when the nature of the State is laic. Still having the death row in the US is one of many consequences of confusing the New and Old Testament relationship.
+
+The US president swears on the Bible, testimonies on trials swear on the Bible (and 75% of them are found unreliable). Which does not happen for a chance because it is an ancient European tradition to swear on the Bible in such a way Christians could lie while Jews not. Guess who/where first introduced this dual standard? Italy (current name of the geographic area).
+
+**Gulp!** Yeah really, again twice.
+
+Confusion does not lead to crimes or offences to God -- which it would like we, as humans, try to shoot at the Moon with an air compressed gun -- but against humans themselves. Under this perspective "Father" should be to be understood as: WTF are you all doing down there?
+
+**Spoiler**: a [mess](334-raccolta-di-post-sulla-crisi-di-gaza.md#?target=_blank), clearly.
+
++++++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
