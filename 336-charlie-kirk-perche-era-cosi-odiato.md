@@ -7,7 +7,7 @@
 
 - **1st edition**, articolo scritto a partire da un [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) su Linkedin, sottoposto all'opinione di x/Grok4 e poi sviluppato nell'arco delle sei ore successive in un [post #2](https://www.facebook.com/roberto.a.foglietta/posts/10162296346818736) su Facebook, quindi qui riportato.
 - **2nd-edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
-- **3rd-edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette.
+- **3rd-edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette. Oltre ad un'estensione (rev.24) della questione della confusione religiosa in USA.
 
 ---
 
