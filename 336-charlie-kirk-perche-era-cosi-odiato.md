@@ -51,7 +51,7 @@ Coloro che pensano che "massacrare" il proprio interlocutore in un dibattito sia
 
 In questo video Kirk utilizza la pausa di riflessione come strumento di dibattito.
 
-- [video #1](https://youtube.com/shorts/Z0sPCeH2KXw) &nbsp; pubblicato su X da &nbsp; [@incel_aidigino](https://x.com/incel_aidigino/status/1966445571293519969)
+- [video #1](https://youtube.com/shorts/Z0sPCeH2KXw) (2:19) &nbsp; pubblicato su X da &nbsp; [@incel_aidigino](https://x.com/incel_aidigino/status/1966445571293519969)
 
 Però, in questo contesto è evidente che ha la partita vinta a priori perché parte con una domanda che pare banale nella sua concezione e quindi la risposta è altrettanto ovvia ma nel paradigma avversario tale domanda in realtà NON esiste, quindi non ha una risposta.
 
@@ -65,7 +65,7 @@ In effetti, questo NON è un dibattito ma "standing tall" tenere occupato uno sl
 
 Quest'altro video, meno recente, mostra che il format comunicativo è cambiato nel tempo adattandosi successivamente al modello talk show americano.
 
-- [video #2](https://youtu.be/sxDFRhkxddI) &nbsp; pubblicato su X da &nbsp; [@LeonardoPanetta](https://x.com/LeonardoPanetta/status/1966554008778117480)
+- [video #2](https://youtu.be/sxDFRhkxddI) (0:13) &nbsp; pubblicato su X da &nbsp; [@LeonardoPanetta](https://x.com/LeonardoPanetta/status/1966554008778117480)
 
 Inizialmente era uno scambio di battute quasi percepito come un gioco di ruolo dai ragazzi: dove il soldato Kirk teneva il fortino e i ragazzi facevano gli indiani circondandolo. In questo video non si vede alcuna misura di sicurezza a proteggere Kirk ma c'è già una telecamera professionale.
 
@@ -84,7 +84,7 @@ Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che c
 In questo altro video si crea l'illusione che il fortino -- le convinzioni di Kirk -- possano essere "prese" nel senso di abbattute ma il dialogo verte su un completo nonsense
 
 <!--// Saved version from X stored here https://youtube.com/shorts/i8dC_prJ0Vw //-->
-- [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) &nbsp; pubblicato su X da &nbsp; [@HazelAppleyard_](https://x.com/HazelAppleyard_/status/1966514045810282985)
+- [video #3](https://x.com/HazelAppleyard_/status/1966514045810282985) (2:51) &nbsp; pubblicato su X da &nbsp; [@HazelAppleyard_](https://x.com/HazelAppleyard_/status/1966514045810282985)
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is it a hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on human experience and perception: in a common simple world the two match. A mystic experience is perception only.
 
@@ -282,7 +282,7 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 <span id="charlie-kirk-in-13-tweet-e-4-video"></span>
 ## Charlie Kirk in few tweets and videos
 
-- talk con la ragazza riguardo aborto come Shoah: &nbsp;[video #6](https://youtube.com/shorts/Kz5oRIJFYes)
+- talk con la ragazza riguardo aborto come Shoah: &nbsp;[video #6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31)
 
 ...
 
@@ -306,7 +306,7 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 ...
 
-- talk con lo studente gay conservatore: &nbsp;[video#6](https://youtube.com/shorts/0E75N7D7GHQ)
+- talk con lo studente gay conservatore: &nbsp;[video #5](https://youtube.com/shorts/0E75N7D7GHQ) (0:49)
 
 ...
 
@@ -314,7 +314,7 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 ...
 
-- talkshow (teo vs demo)crazia + gay rights: &nbsp;[video #8](https://youtube.com/shorts/OUAwHmjdGQU)
+- talkshow (teo vs demo)crazia + gay rights: &nbsp;[video #8](https://youtube.com/shorts/OUAwHmjdGQU) (2:08)
 
 ...
 
@@ -324,8 +324,8 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 ...
 
-- Kirk su supportare Israele ma criticare il suo governo: &nbsp;[video #4](https://youtube.com/shorts/SCYMlAfUzpI)
-- Kirk su Epstein come agente terzo funzionale al Mossad: &nbsp;[video #7](https://youtu.be/g_uEqTH2xiA)
+- Kirk su supportare Israele ma criticare il suo governo: &nbsp;[video #4](https://youtube.com/shorts/SCYMlAfUzpI) (0:57)
+- Kirk su Epstein come agente terzo funzionale al Mossad: &nbsp;[video #7](https://youtu.be/g_uEqTH2xiA) (1:50)
 
 ...
 
@@ -438,9 +438,13 @@ The difference might seem thin, but it is essential. Selection means collecting 
 
 Moreover, a new video that contradicts (or it seems contradicting) something just assessed, is acquired as a precious piece of information to integrate among the others. It is like composing a puzzle by connections without the presentation of the final picture, to see it as-is in reality.
 
-Thus, in **selection** the context matters, the connections among ideas should match, and the aim is to provide a few nodes of a network that cover as much as possible all the informative space. It is hard and precious work because with 15 minutes of video everyone gets the essentials.
+Thus, in **selection** the context matters, the connections among ideas should match, and the aim is to provide a few nodes of a network that cover as much as possible all the informative space. It is hard and precious work because in less than 12 minutes of video everyone gets the essentials.
+
+- videos: [#1](https://youtube.com/shorts/Z0sPCeH2KXw) (2:19) -- [#2](https://youtu.be/sxDFRhkxddI) (0:13) -- [#3](https://x.com/HazelAppleyard_/status/1966514045810282985) (2:51) -- [#4](https://youtube.com/shorts/SCYMlAfUzpI) (0:57) -- [#5](https://youtube.com/shorts/0E75N7D7GHQ) (0:49) -- [#6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31) -- [#7](https://youtu.be/g_uEqTH2xiA) (1:50) -- [#8](https://youtube.com/shorts/OUAwHmjdGQU) (2:08)
 
 By contrast **cherry-picking** is extracting "I have a dog like Hitler had, so **I am a nazi!**". Ignoring everything apart from a few words and delivering those as a self-standing citation: he said that, 100% real. He said that, but in a sarcastic tone as part of broader provocative debating talk.
+
+
 
 +
 
