@@ -442,9 +442,13 @@ Thus, in **selection** the context matters, the connections among ideas should m
 
 - videos: [#1](https://youtube.com/shorts/Z0sPCeH2KXw) (2:19) -- [#2](https://youtu.be/sxDFRhkxddI) (0:13) -- [#3](https://x.com/HazelAppleyard_/status/1966514045810282985) (2:51) -- [#4](https://youtube.com/shorts/SCYMlAfUzpI) (0:57) -- [#5](https://youtube.com/shorts/0E75N7D7GHQ) (0:49) -- [#6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31) -- [#7](https://youtu.be/g_uEqTH2xiA) (1:50) -- [#8](https://youtube.com/shorts/OUAwHmjdGQU) (2:08)
 
-By contrast **cherry-picking** is extracting "I have a dog like Hitler had, so **I am a nazi!**". Ignoring everything apart from a few words and delivering those as a self-standing citation: he said that, 100% real. He said that, but in a sarcastic tone as part of broader provocative debating talk.
+By contrast **cherry-picking** is extracting from:
 
+- I have a dog like Hitler had, so
+- **I am a nazi!** <-- *out of context citation*
 
+Ignoring everything apart from a few words and delivering those as a self-standing citation: he said that!<br>
+He said that, **but** in a sarcastic tone as part of broader provocative debating talk. <-- *context restored*
 
 +
 
