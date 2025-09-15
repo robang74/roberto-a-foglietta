@@ -71,9 +71,7 @@ Inizialmente era uno scambio di battute quasi percepito come un gioco di ruolo d
 
 L'odio ha cominciato ad emergere quando la persona si è trasformata in personaggio, quindi un simbolo piuttosto che un essere umano in carne e ossa.
 
-Ovviamente ciò è accaduto perché "il fortino non è **mai** stato preso". La rabbia e poi l'odio contro Kirk l'invincibile. In questo senso è vero che spargesse odio: si fece odiare.
-
-Il gazebo è rimasto a ricordare le origini ma il confronto è diventato frontale e ovviamente in questa transizione il gioco svanisce: non è più circondato ma lui-vs-sfidante.
+Ovviamente ciò è accaduto perché "il fortino non è **mai** stato preso". La rabbia e poi l'odio contro Kirk l'invincibile. In questo senso è vero che spargesse odio: si fece odiare. Il gazebo è rimasto a ricordare le origini ma il confronto è diventato frontale e ovviamente in questa transizione il gioco svanisce: non è più circondato ma lui-vs-sfidante.
 
 Interessante notare che i ragazzi pensano di poterlo convincere, piuttosto che con la retorica, con l'accerchiamento fisico: noi siamo tanti e tu uno, quindi hai torto. Un'idea sbagliata e malata di [democrazia](302-politics-and-democracy-for-dummies.md#?target=_blank), perché è il principio fondante del bullismo.
 
@@ -107,9 +105,9 @@ Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti 
 
 Molti dei detrattori di Kirk affermano che le sue opinioni erano "divisive" e questo fa in modo che alcuni lo odiassero e altri lo amassero? In effetti, no. Per comprenderlo basta notare un paio di fatti.
 
-1. Molti altri si presentano con opinioni "divisive" eppure questo non gli ha permesso di avere il successo di Kir. Quindi non basta allinearsi con una fazione per avere successo, non è automatico. La maggior parte della gente è allineata, quando non è confusa. La maggior parte degli "influencer" o "content creator" se non si occupano di un tema di nicchia, hanno deciso una loro linea guida che generalmente è allineata perché non essere allineati riduce drasticamente il numero di potenziali "follower" e si fa una fatica extra a spiegare ciò che non è stato ridotto a slogan.
+**1.** Molti altri si presentano con opinioni "divisive" eppure questo non gli ha permesso di avere il successo di Kir. Quindi non basta allinearsi con una fazione per avere successo, non è automatico. La maggior parte della gente è allineata, quando non è confusa. La maggior parte degli "influencer" o "content creator" se non si occupano di un tema di nicchia, hanno deciso una loro linea guida che generalmente è allineata perché non essere allineati riduce drasticamente il numero di potenziali "follower" e si fa una fatica extra a spiegare ciò che non è stato ridotto a slogan.
 
-2. Per molto tempo Kirk è stato amato più che odiato. Anche coloro che giocavano contro di lui, non lo odiavano. Fra i tanti che predicano o urlano cose divisive da un qualche pulpito distante, Kirk era una persona fra le persone. Con lui le persone potevano avere un dialogo. Anche se le due parti coinvolte nel dibattito rimanevano fisse sulle loro posizioni, il dibattito apriva uno spiraglio di riflessione fra coloro che ascoltavano. Anche se in quel momento tifano per l'una o l'altra parte, poi in un secondo momento anche solo per ricordare una giornata diversa dal solito, ci pensavano.
+**2.** Per molto tempo Kirk è stato amato più che odiato. Anche coloro che giocavano contro di lui, non lo odiavano. Fra i tanti che predicano o urlano cose divisive da un qualche pulpito distante, Kirk era una persona fra le persone. Con lui le persone potevano avere un dialogo. Anche se le due parti coinvolte nel dibattito rimanevano fisse sulle loro posizioni, il dibattito apriva uno spiraglio di riflessione fra coloro che ascoltavano. Anche se in quel momento tifano per l'una o l'altra parte, poi in un secondo momento anche solo per ricordare una giornata diversa dal solito, ci pensavano.
 
 In quel "ci pensavano" vinceva Kirk, magari non come "influencer" ma sicuramente come comunicatore. Quando un comunicatore vince, anche quelli che non sono d'accordo con lui lo seguono. Anzi, probabilmente sono proprio quelli che poi costituiscono la massa critica per accendere la reazione del successo. Perché fondamentalmente il nostro cervello è un tossico allo stadio terminale di emozioni **and** di informazioni.
 
@@ -146,7 +144,9 @@ Non basta che lo abbia detto, è determinante il suo contesto. Preferisce perder
 
 - Quindi non c'è dubbio alcuno che Kirk fosse un cercatore di verità.
 
-Non è questo la chiave del successo, questo è il **motore** del suo successo. Tutti gli altri vogliono solo "far cassa" e "chiudere in positivo" a fine giornato. Per lui questo **non** era lo scopo e **non** era nemmeno abbastanza. Voleva andare oltre, per gli altri l'orizzonte termina dove termina la punta del loro nasi. Ma se l'orizzonte di una persona si ferma alla punta del suo naso, non c'è **alcuna** possibilità che possa fare un qualche balzo in avanti che lo distingua, che lo porti ad emergere sopra ai prestigiatori dei trucchi da manuale. Perché il manuale ce lo andiamo a comprare su Amazon e ce lo consegnano domani, finito di leggere è learning by doing: buttati che ti crescono le ali!
+Non è questo la chiave del successo, questo è il **motore** del suo successo. Tutti gli altri vogliono solo "far cassa" e "chiudere in positivo" a fine giornato. Per lui questo **non** era lo scopo e **non** era nemmeno abbastanza. Voleva andare oltre, per gli altri l'orizzonte termina dove termina la punta del loro nasi.
+
+Ma se l'orizzonte di una persona si ferma alla punta del suo naso, non c'è **alcuna** possibilità che possa fare un qualche balzo in avanti che lo distingua, che lo porti ad emergere sopra ai prestigiatori dei trucchi da manuale. Perché il manuale ce lo andiamo a comprare su Amazon e ce lo consegnano domani, finito di leggere è learning by doing: buttati che ti crescono le ali!
 
 L'essere un cercatore di verità l'ha portato alla destra di Trump, ma lo ha anche infilato nei pasticci perché da predicatore è diventato attivista. A quel livello è una processione di gente che tira per la giacchetta, che s'infila nei dibattiti o nelle interviste per {dire, suggerire, sottintendere} cose. Fra le tante cose, il tema della religione è uno di quelli che **ancora** una volta gli ha creato problemi.
 
@@ -201,6 +201,7 @@ After all, one day, soon or later, we all are doomed to die: memento mori in Lat
 ...
 
 > **Ros Lucas**
+> 
 > The Holy Bible comprises old and new testaments - quoting from both is acceptable if it represents a point of view for those who believe the interpretation...
 
 Nope, that is an editorial choice. 
@@ -275,7 +276,9 @@ Why? Considering what kind of pressure the Vatican put on the high-tech companie
 3. American Christianity **and** Bible confusion moved a **LOT** of money in favour of Israel and Jews;
 4. a young, popular truth seeker decided to see clearly on these topics, which was pressurised on.
 
-In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, like every solitary truth seeker. Paradoxically, his death triggered those phenomena for which people wish -- must have justice -- not revenge and burning random stuff around, but found out **WHY**. The America Turning Point which was dreaming of Charlie Kirk. Julius Caesar has been killed to save Rome's republic, paradoxically his death cost Rome's republic.
+In this scenario, the Charlie Kirk's life was hanging by a thin thread, like every solitary truth seeker. Paradoxically, his death triggered those phenomena for which people wish -- must have justice -- not revenge and burning random stuff around, but finding out **WHY**. The America Turning Point which was dreaming Kirk.
+
+Julius Caesar has been killed to save Rome's republic, paradoxically his death put the republic to its end.
 
 +
 
@@ -331,7 +334,7 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 - La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`, che qui sono presentati in un forma letteraria modifica il minimo necessaria per adattarla (da commenti ad un post specifico) al nuovo contesto di questo articolo. Il cherry-picking dei video è strumentale? No, [vedi qui](#selection-as-counter-example)
 
-+++++
++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
