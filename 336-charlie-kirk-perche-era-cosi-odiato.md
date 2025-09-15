@@ -11,7 +11,7 @@
 
 - **3rd-edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette. Oltre ad un'estensione (rev.24) della questione della confusione religiosa in USA.
 
-- **4th-edition**, la quarta [parte](#charlie-kirk-and-his-relationship-with-israel) affronta la relazione fra Charlie Kirk e Israele nell'ultimo periodo della sua attività di comunicatore. Aggiunge anche una nuova [sezione](#charlie-kirk-in-13-tweet-e-4-video) riguardo ai diritti civili.
+- **4th-edition**, la quarta [parte](#charlie-kirk-and-his-relationship-with-israel) affronta la relazione fra Charlie Kirk e Israele nell'ultimo periodo della sua attività di comunicatore. Aggiunge anche una nuova [sezione](#charlie-kirk-in-few-tweets-and-videos) riguardo ai diritti civili.
 
 ---
 
@@ -279,7 +279,8 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 +
 
-## Charlie Kirk in 13 Tweet e 4 video
+<span id="charlie-kirk-in-13-tweet-e-4-video"></span>
+## Charlie Kirk in few tweets and videos
 
 - talk con la ragazza riguardo aborto come Shoah: &nbsp;[video #6](https://youtube.com/shorts/Kz5oRIJFYes)
 
@@ -311,6 +312,12 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 10. Perché era una perla? Video del giovane gay conservatore: 1. sei felice? bene; 2. quello che fai a letto, non mi riguarda; 3. da cristiano dico che non va bene; 4. mi spiace che tu sia convinto che tutta la tua vita ruoti intorno alle tue preferenze sessuali. Cristiano razionale.
 
+...
+
+- talkshow (teo vs demo)crazia + gay rights: &nbsp;[video #8](https://youtube.com/shorts/OUAwHmjdGQU)
+
+...
+
 11. Cristiano razionale. Per giunta favorevole al dialogo, nel quale gli andava suggerito che aborto e eutanasia non riguardano l'essere umano ma il prima e il dopo del corpo di un essere umano. A parole, non era pro-vita ma pro diritti umani e infatti con Palestina post 10/7: corto circuito.
 
 13. Con la Palestina post 10/7 è andato in corto circuito, su molte questioni sulle quali non aveva fatto ancora ordine/chiarezza. Ha cominciato e ha trovato la morte prima di terminare questo suo personale e nuovo percorso di ricerca della verità: game-over da combo Israele&hairsp;+&hairsp;Epstein.
@@ -322,9 +329,9 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 ...
 
-- La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`
+- La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`, che qui sono presentati in un forma letteraria modifica il minimo necessaria per adattarla (da commenti ad un post specifico) al nuovo contesto di questo articolo. Il cherry-picking dei video è strumentale? No, [vedi qui](#selection-as-counter-example)
 
-+
++++++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
@@ -420,6 +427,20 @@ You are B. and you can choose:
 4. start looking for a new job.
 <br>
 Unfortunately, **A.** was not a company&hairsp;/&hairsp;boss but a country&hairsp;/&hairsp;president. Those who pushed forward the DEI agenda were a bunch of retarded felons whatever they are or imagine to be or whatever else they identify themselves with.
+
+---
+
+### Selection as counter-example
+
+In this article, I have included links to 8 videos. Some of them have been included to study and analyse the communication format and its evolution along the time. Some others have been included for what Kirk said. So the main question is: are these videos a **selection** or a **cherry-picking**?
+
+The difference might seem thin, but it is essential. Selection means collecting many and providing few that are conveying the most relevant information about all the most relevant topics. So, a **selection** for covering a large area with few meaningful carotages in order to have the overall picture.
+
+Moreover, a new video that contradicts (or it seems contradicting) something just assessed, is acquired as a precious piece of information to integrate among the others. It is like composing a puzzle by connections without the presentation of the final picture, to see it as-is in reality.
+
+Thus, in **selection** the context matters, the connections among ideas should match, and the aim is to provide a few nodes of a network that cover as much as possible all the informative space. It is hard and precious work because with 15 minutes of video everyone gets the essentials.
+
+By contrast **cherry-picking** is extracting "I have a dog like Hitler had, so **I am a nazi!**". Ignoring everything apart from a few words and delivering those as a self-standing citation: he said that, 100% real. He said that, but in a sarcastic tone as part of broader provocative debating talk.
 
 +
 
