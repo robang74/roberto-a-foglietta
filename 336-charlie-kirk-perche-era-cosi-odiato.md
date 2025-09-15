@@ -6,8 +6,12 @@
 ## Charlie Kirk, perché era così odiato?
 
 - **1st edition**, articolo scritto a partire da un [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) su Linkedin, sottoposto all'opinione di x/Grok4 e poi sviluppato nell'arco delle sei ore successive in un [post #2](https://www.facebook.com/roberto.a.foglietta/posts/10162296346818736) su Facebook, quindi qui riportato.
+
 - **2nd-edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
+
 - **3rd-edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette. Oltre ad un'estensione (rev.24) della questione della confusione religiosa in USA.
+
+- **4th-edition**, la quarta [parte](#charlie-kirk-and-his-relationship-with-israel) affronta la relazione fra Charlie Kirk e Israele nell'ultimo periodo della sua attività di comunicatore. Aggiunge anche una nuova [sezione](#charlie-kirk-in-13-tweet-e-4-video) riguardo ai diritti civili.
 
 ---
 
@@ -19,7 +23,7 @@ Nella teoria della comunicazione c'è la regola d'oro del 3.5%. Se un'opinione o
 
 Se qualcuno facesse il [cherry-picking](#cherry-picking) delle nostre affermazioni, estratte dal contesto in cui sono state dette, penso che ognuno di noi potrebbe essere considerato malvagio o santo a seconda di chi fa questa selezione. Questo è un altro punto a vantaggio del modello comunicativo di Kirk che permetteva il dibattito.
 
----
+----
 
 ### Il format di comunicazione e dibattito
 
@@ -55,7 +59,7 @@ La peculiarità di questo video, in cui l'opposizione è ideologica, è che non 
 
 In effetti, questo NON è un dibattito ma "standing tall" tenere occupato uno slot senza apportare nessun contributo a parte farsi allontanare dalla security per gli applausi. Considerando che il bimbo-show avrà $100K-$200K di debito universitario a fine studi, e dovrà trovare un lavoro necessariamente ben pagato una volta laureato, mi pare che manchi, più che di buon senso, di istinto di conservazione.
 
-----
+---
 
 ### Il format si adegua ai mass-media
 
@@ -119,7 +123,7 @@ Questo per alcuni appare assurdo eppure è il motivo per il quale era amato. Per
 
 Per capirlo dobbiamo fare un passo indietro, alla seconda metà del secolo precedente, e tornare a ragionare secondi i termini della cosiddetta "vecchia scuola".
 
-----
+---
 
 ### Who, what, when, where, why<br>Just old school journalism
 
@@ -152,7 +156,7 @@ Perché oggettivamente essendo una questione di fede, diamo tante, anzi troppe, 
 
 Di quest'uomo abbiamo soltanto percepito la superficie, non l'opera.
 
-----
+---
 
 ### RIP Charlie Kirk, who did a great<br>job in debunking woke ideology
 
@@ -219,7 +223,7 @@ Confusion does not lead to crimes or offences to God -- which it would like we, 
 
 **Spoiler**: a [mess](334-raccolta-di-post-sulla-crisi-di-gaza.md#?target=_blank), clearly.
 
-+++++
++
 
 ## Charlie Kirk and his relationship with Israel
 
@@ -417,7 +421,7 @@ You are B. and you can choose:
 <br>
 Unfortunately, **A.** was not a company&hairsp;/&hairsp;boss but a country&hairsp;/&hairsp;president. Those who pushed forward the DEI agenda were a bunch of retarded felons whatever they are or imagine to be or whatever else they identify themselves with.
 
-+++++
++
 
 ## Share alike
 
