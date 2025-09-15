@@ -461,14 +461,12 @@ He said that, **but** in a sarcastic tone as part of broader provocative debatin
 "**Death penalties should be public, should be quick, it should be televised**. I think at a certain age, its an initiation...What age should you start to see public executions?" Kirk asked. -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073?utm_source=chatgpt.com#:~:text=Death%20penalties%20should%20be%20public)
 [/INFO]
 
-In my opinion, this is a typical Kirk's provocation, similar can be seen in his talks: strong claim + setting question. In fact, after collected answers, he continued with:
+In my opinion, this is a typical Kirk's provocation, similar can be seen in his talks: strong claim + setting question. In fact, after collected the answers and a brief debate, he continued with:
 
 [!INFO]
-In addition, Kirk asked whether crime would go up or down if children were to watch public executions, "Here's a question for anyone that might be not persuaded. Would crime go up or down?" -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073?utm_source=chatgpt.com#:~:text=In%20addition%2C%20Kirk%20asked)
+Kirk asked whether crime would go up or down if children were to watch public executions, "Here's a question for anyone that might be not persuaded. Would crime go up or down?" -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073?utm_source=chatgpt.com#:~:text=In%20addition%2C%20Kirk%20asked)
 [/INFO]
-
-- None for up, is among the answers.
-
+<br>
 It is worth noting that he was speaking at the ThoughCrime show. Thus, he was also playing a kind of marketing. Fostering the idea that executions could have been televised by ThoughCrime itself and the following questions were explorative. In televising the death row, asking that such acts should be quick is necessary and also absurd.
 
 He was aware such procedures require a relatively long time, too much to be televised in the ThoughCrime show framework which like every US show is pressing those watching it with its quick progress. Moreover, looking at such crude acts, many might have changed their minds about death row acceptability.
@@ -483,7 +481,7 @@ Certainly, not as such an epic act as some people imagine, just sad and sorrowfu
 
 - This intervention in the ThoughCrime show tells more about American culture rather than Kirk himself.
 
-However, I accept that it is a delicate case to interpret and highly subjective in conclusions, expecially because I did not see the show thus I missed the tone of voice, face expressions and non-verbal communication. Despite this, I think many people in Europe can agree with the above final conclusion.
+However, I accept that it is a delicate case to interpret and highly subjective about the conclusion, especially because I did not see the show and thus missed the tone of voice, facial expressions, and non-verbal communication. Despite this, I think many people in Europe can agree with the above final conclusion.
 
 +
 
