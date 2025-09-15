@@ -236,7 +236,7 @@ Several Israeli government ministers, politicians and political activists mourne
 [/INFO]
    - Wikipedia about Charlie Kirk on [Israel and Palestine](https://en.wikipedia.org/wiki/Charlie_Kirk?utm_source=chatgpt.com#Israel_and_Palestine)
 
-Unsurprisingly the All Israel News' staff is aware that "Jesus **and** the Bible" are two related but **way** different concepts:
+Unsurprisingly, the All Israel News' staff is aware that "Jesus **and** the Bible" are two related but **way** different concepts:
 
 - September 11, 2025 -- Lion-hearted friend of Israel Charlie Kirk's support for Israel was motivated by his love for Jesus **and** the Bible -- [All Israel News](https://allisraelnews.com/a-lion-hearted-friend-of-israel-charlie-kirks-support-for-israel-was-motivated-by-his-love-for-jesus-and-the-bible)
 
@@ -275,13 +275,60 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 +
 
+## Charlie Kirk in 13 Tweet e 4 video
+
+- talk con la ragazza riguardo aborto come Shoah: &nbsp;[video #6](https://youtube.com/shorts/Kz5oRIJFYes)
+
+...
+
+1. È solo confuso sulla definizione di cosa sia un essere umano e lo è perché come molti americani non ha ricevuto un'istruzione adeguata. Comunque nel caso l'avesse ricevuta, è confuso a livello religioso. L'embrione non ha tratti umani se non dopo N settimane, l'anima è immortale.
+
+2. Comunque la questione NON è quello che lui crede, ma se lascia il diritto alle donne di scegliere la maternità. Perché quelli che lo criticano per la sua posizione in termini di fede, magari domani per altre ragioni, vorrebbero che la loro compagna non/abortisse, ma decide lei.
+
+3. Per quanto possa sembrare strano, non è il giudizio morale sull'aborto che deve interessare ad una società civile ma piuttosto educare le persone "religiose" che a prescindere da quello che loro credono, gli altri sono liberi e **devono** essere liberi di fare quello che gli pare.
+
+4. Se notate Krik non si oppone all'aborto perché contrario alla volontà di dio ma perché è una violazione fondamentale di diritti umani: togliere la vita. Il problema è che non aveva chiaro, in termini medici/scientifici, quali siano i limiti dell'essere umano. Per esempio la morte cerebrale.
+
+5. L'eutanasia e l'aborto non creano un problema morale di per se, ma trasferiscono il giudizio della decisione alla scienza/medicina quindi al sapere umano rispetto all'astratto principio morale divino. D'altronde se rimpiazziamo dio\karma e morale\etica, cosa rimane ai fedeli? Riti e superstizioni.
+
+6. Non creano un problema morale, perché la libertà di scegliere il peccato è fondamentale altrimenti non esisterebbe nemmeno la santità. Invece, il problema è quando ci scassano la minchia nel tentare di redimerci. Ecco, è qui cit. Popper, che volano mazzate: paradosso della tolleranza.
+
+7. Come si risolve in modo civile la questione? Kirk non era correttamente informato perché parlava di diritti umani: educare. Quelli che è "questione di dio", devono stare alla larga (come attivisti) dai centri per l'interruzione della gravidanza e relativi consultori: daspo 2km.
+
+8. Noi, che siamo geni, abbiamo inventato l'obiezione di coscienza. Però a corrente alternata: nel pubblico hanno una coscienza sensibile, nel privato no. Se è questione di soldi, sui soldi si deve agire. Mentre i pochi duri-e-puri si gestiscono facilmente con l'allocazione e turnazione.
+
+9. Tornando a Kirk: la sua eventuale beatificazione così come il giudizio morale su di lui, non sono di mia competenza. Ma se teniamo presente cos'è l'area {politica, intellettuale, culturale} di provenienza di Kirk. Beh quest'uomo era una perla, davvero. La moglie farà danni seri.
+
+...
+
+- talk con lo studente gay conservatore: &nbsp;[video#6](https://youtube.com/shorts/0E75N7D7GHQ)
+
+...
+
+10. Perché era una perla? Video del giovane gay conservatore: 1. sei felice? bene; 2. quello che fai a letto, non mi riguarda; 3. da cristiano dico che non va bene; 4. mi spiace che tu sia convinto che tutta la tua vita ruoti intorno alle tue preferenze sessuali. Cristiano razionale.
+
+11. Cristiano razionale. Per giunta favorevole al dialogo nel quale gli andava suggerito che aborto e eutanasia non riguardano l'essere umano ma il prima e il dopo del corpo di un essere umano. Non era pro-vita ma pro diritti umani e infatti con Palestina post 10/7: corto circuito.
+
+13. Con la Palestina post 10/7 è andato in corto circuito, su molte questioni sulle quali non aveva fatto ancora ordine/chiarezza. Ha cominciato e ha trovato la morte prima di terminare questo suo personale e nuovo percorso di ricerca della verità: game-over da combo Israele&hairsp;+&hairsp;Epstein.
+
+...
+
+- Kirk su supportare Israele ma criticare il suo governo: &nbsp;[video #4](https://youtube.com/shorts/SCYMlAfUzpI)
+- Kirk su Epstein come agente terzo funzionale al Mossad: &nbsp;[video #7](https://youtu.be/g_uEqTH2xiA)
+
+...
+
+- La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`
+
++
+
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
 
 Questa due risposte da parte di x/Grok4 riguarda il post su LinkedIn. Sono interessante perché si basa sulle molte discussioni che sono presenti su X che riguardano Kirk e la sua attività di influencer. Quindi, seppur filtrata ed equilibrata, riporta la *vox populi*, almeno in termini generali.
 
-- Le [risposte di Grok](https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R) sul post che ho pubblicato su LinkedIn.
-
+- Le [risposte di Grok](https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R) relative al post che ho pubblicato su LinkedIn.
+<br>
 Il post che hai condiviso è un'analisi interessante e articolata su Charlie Kirk, che cerca di contestualizzare l'odio verso di lui in modo più sfumato, enfatizzando il ruolo del dibattito pubblico e criticando il cherry-picking delle opinioni. Apprezzo lo sforzo di andare oltre le polarizzazioni superficiali, e in parte concordo con alcuni punti, ma credo che trascuri aspetti cruciali del suo approccio e del contesto più ampio. Ti spiego il mio pensiero passo per passo, basandomi su quanto emerso da discussioni recenti e fatti noti.
 
 Prima di tutto, sul cherry-picking: hai ragione, è una tattica comune in politica, specialmente sui social media, dove frasi decontestualizzate possono dipingere chiunque come un mostro o un eroe. Kirk stesso ne è stato vittima, ma anche artefice – i suoi detrattori spesso citano clip isolate dove appare aggressivo o estremo, come quando ha attaccato Martin Luther King Jr. o i diritti civili, o espresso posizioni anti-LGBTQ+ e anti-immigrazione in termini duri. Tuttavia, molte di queste opinioni non erano solo "controverse", ma radicate in una visione ideologica che ha alienato ampi segmenti della società, inclusi molti conservatori moderati. 
@@ -329,7 +376,6 @@ In fondo, il tuo post cattura bene il paradosso: Kirk voleva dibattito asimmetri
 **Scott Alin B., asked**
 
 - **#1.** -- If I see a black pilot, I’m gonna be like boy I sure hope he’s qualified.
-
 - **#2.** -- Black women do not have the brain processing power to otherwise be taken seriously.
 
 Which one of these "truths" (by Charlie Kirk) resonated with you most?
@@ -368,7 +414,7 @@ You are B. and you can choose:
 2. obey and collapse the company;
 3. disobey and later get fired;
 4. start looking for a new job.
-
+<br>
 Unfortunately, **A.** was not a company&hairsp;/&hairsp;boss but a country&hairsp;/&hairsp;president. Those who pushed forward the DEI agenda were a bunch of retarded felons whatever they are or imagine to be or whatever else they identify themselves with.
 
 +++++
