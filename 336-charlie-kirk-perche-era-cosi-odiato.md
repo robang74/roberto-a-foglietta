@@ -485,7 +485,7 @@ However, I accept that it is a delicate case to interpret and highly subjective 
 
 ---
 
-### Kirk's murder is a quick public execution
+### Kirk's murder fits in a schema
 
 The timeline of event suggest that Kirk's murder is a quick public execution televised with kids participation.
 
@@ -497,7 +497,7 @@ To recognise this dark and ill scenario, the timeline of events is the first hel
 The viral spread of the video of the murder has raised concerns about kids' exposure to graphic content online, with experts expressing fears of possible psychological trauma. The tragedy of his violent death has given new meaning to his words, transforming a niche debate into a matter of national concern. -- Kimi K2
 [/INFO]
 
-His assasination fits in a schema, which is a relevant characteristic of a political mandate to kill, but also be the best despitage to cover the mandate. Why? The idea of a single mad killer that achieves with poor means and impreparation what a gov top-level security should prevent, is old and weak. In fact, just the assassin with his family's full pro-Trump background does not fit in this schema, not smart enough for planning such despitage.
+His murder fits in a schema, which is a relevant characteristic of a political mandate to kill, but also be the best despitage to cover the mandate. Why? The idea of a single mad killer that achieves with poor means and impreparation what a gov top-level security should prevent, is old and weak. In fact, just the assassin with his family's full pro-Trump background does not fit in this schema, not smart enough for planning such despitage.
 
 +++++
 
