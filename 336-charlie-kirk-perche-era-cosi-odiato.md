@@ -458,13 +458,13 @@ He said that, **but** in a sarcastic tone as part of broader provocative debatin
 ### A delicate case to interpreter
 
 [!INFO]
-"**Death penalties should be public, should be quick, it should be televised**. I think at a certain age, its an initiation...What age should you start to see public executions?" Kirk asked. -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073?utm_source=chatgpt.com#:~:text=Death%20penalties%20should%20be%20public)
+"**Death penalties should be public, should be quick, it should be televised**. I think at a certain age, its an initiation...What age should you start to see public executions?" Kirk asked. -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073#:~:text=Death%20penalties%20should%20be%20public)
 [/INFO]
 
 In my opinion, this is a typical Kirk's provocation, similar can be seen in his talks: strong claim + setting question. In fact, after collected the answers and a brief debate, he continued with:
 
 [!INFO]
-Kirk asked whether crime would go up or down if children were to watch public executions, "Here's a question for anyone that might be not persuaded. Would crime go up or down?" -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073?utm_source=chatgpt.com#:~:text=In%20addition%2C%20Kirk%20asked)
+Kirk asked whether crime would go up or down if children were to watch public executions, "Here's a question for anyone that might be not persuaded. Would crime go up or down?" -- [NewsWeek](https://www.newsweek.com/charlie-kirk-death-penalty-public-executions-1873073#:~:text=In%20addition%2C%20Kirk%20asked)
 [/INFO]
 <br>
 It is worth noting that he was speaking at the ThoughCrime show. Thus, he was also playing a kind of marketing. Fostering the idea that executions could have been televised by ThoughCrime itself and the following questions were explorative. In televising the death row, asking that such acts should be quick is necessary and also absurd.
@@ -483,7 +483,23 @@ Certainly, not as such an epic act as some people imagine, just sad and sorrowfu
 
 However, I accept that it is a delicate case to interpret and highly subjective about the conclusion, especially because I did not see the show and thus missed the tone of voice, facial expressions, and non-verbal communication. Despite this, I think many people in Europe can agree with the above final conclusion.
 
-+
+---
+
+### Kirk's murder is a quick public execution
+
+The timeline of event suggest that Kirk's murder is a quick public execution televised with kids participation.
+
+To recognise this dark and ill scenario, the timeline of events is the first helpful information to consider:
+
+- **Timeline**: declarations: Feb. 2024 --> limited debate: Q2-Q3 2024 --> murder: 2025-09-10 --> **Controversy**
+
+[!INFO]
+The viral spread of the video of the murder has raised concerns about kids' exposure to graphic content online, with experts expressing fears of possible psychological trauma. The tragedy of his violent death has given new meaning to his words, transforming a niche debate into a matter of national concern. -- Kimi K2
+[/INFO]
+
+His assasination fits in a schema, which is a relevant characteristic of a political mandate to kill, but also be the best despitage to cover the mandate. Why? The idea of a single mad killer that achieves with poor means and impreparation what a gov top-level security should prevent, is old and weak. In fact, just the assassin with his family's full pro-Trump background does not fit in this schema, not smart enough for planning such despitage.
+
++++++
 
 ## Share alike
 
