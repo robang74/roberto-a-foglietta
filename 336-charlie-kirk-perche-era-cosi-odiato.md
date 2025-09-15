@@ -285,21 +285,21 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 ...
 
-1. È solo confuso sulla definizione di cosa sia un essere umano e lo è perché come molti americani non ha ricevuto un'istruzione adeguata. Comunque nel caso l'avesse ricevuta, è confuso a livello religioso. L'embrione non ha tratti umani se non dopo N settimane, l'anima è immortale.
+1. Era solo confuso sulla definizione di cosa sia un essere umano e lo era perché come molti americani non ha ricevuto un'istruzione adeguata. Comunque nel caso l'avesse ricevuta, era ancora confuso a livello religioso. L'embrione non ha tratti umani se non dopo N settimane, l'anima è immortale.
 
-2. Comunque la questione NON è quello che lui crede, ma se lascia il diritto alle donne di scegliere la maternità. Perché quelli che lo criticano per la sua posizione in termini di fede, magari domani per altre ragioni, vorrebbero che la loro compagna non/abortisse, ma decide lei.
+2. Comunque la questione **non** è quello in cui si crede, ma se lasciare il diritto alle donne di scegliere la maternità. Perché quelli che lo criticano per la sua posizione in termini di fede, magari domani per altre ragioni, vorrebbero che la loro compagna non/abortisse, ma decide lei.
 
 3. Per quanto possa sembrare strano, non è il giudizio morale sull'aborto che deve interessare ad una società civile ma piuttosto educare le persone "religiose" che a prescindere da quello che loro credono, gli altri sono liberi e **devono** essere liberi di fare quello che gli pare.
 
-4. Se notate Krik non si oppone all'aborto perché contrario alla volontà di dio ma perché è una violazione fondamentale di diritti umani: togliere la vita. Il problema è che non aveva chiaro, in termini medici/scientifici, quali siano i limiti dell'essere umano. Per esempio la morte cerebrale.
+4. Se notate Krik non si oppone all'aborto perché contrario alla volontà di dio ma perché è una violazione fondamentale di diritti umani: togliere la vita. Il problema è che non aveva chiaro, in termini medici/scientifici, quali siano i limiti dell'essere umano. Per esempio, la morte cerebrale.
 
-5. L'eutanasia e l'aborto non creano un problema morale di per se, ma trasferiscono il giudizio della decisione alla scienza/medicina quindi al sapere umano rispetto all'astratto principio morale divino. D'altronde se rimpiazziamo dio\karma e morale\etica, cosa rimane ai fedeli? Riti e superstizioni.
+5. L'eutanasia e l'aborto non creano un problema morale di per se, ma trasferiscono il giudizio della decisione alla scienza/medicina quindi al sapere umano rispetto all'astratto principio morale di origine divina. D'altronde se rimpiazziamo dio\karma e morale\etica, cosa rimane da propinare ai fedeli? Riti e superstizioni.
 
 6. Non creano un problema morale, perché la libertà di scegliere il peccato è fondamentale altrimenti non esisterebbe nemmeno la santità. Invece, il problema è quando ci scassano la minchia nel tentare di redimerci. Ecco, è qui cit. Popper, che volano mazzate: paradosso della tolleranza.
 
 7. Come si risolve in modo civile la questione? Kirk non era correttamente informato perché parlava di diritti umani: educare. Quelli che è "questione di dio", devono stare alla larga (come attivisti) dai centri per l'interruzione della gravidanza e relativi consultori: daspo 2km.
 
-8. Noi, che siamo geni, abbiamo inventato l'obiezione di coscienza. Però a corrente alternata: nel pubblico hanno una coscienza sensibile, nel privato no. Se è questione di soldi, sui soldi si deve agire. Mentre i pochi duri-e-puri si gestiscono facilmente con l'allocazione e turnazione.
+8. Noi italici, che siamo geni, abbiamo inventato l'obiezione di coscienza. Però a corrente alternata: nel pubblico hanno una coscienza sensibile, nel privato no. Se è questione di soldi, sui soldi si deve agire. Mentre i pochi duri-e-puri si gestiscono facilmente con l'allocazione e turnazione.
 
 9. Tornando a Kirk: la sua eventuale beatificazione così come il giudizio morale su di lui, non sono di mia competenza. Ma se teniamo presente cos'è l'area {politica, intellettuale, culturale} di provenienza di Kirk. Beh quest'uomo era una perla, davvero. La moglie farà danni seri.
 
@@ -311,7 +311,7 @@ In this scenario, the life of Charlie Kirk's life was hanging by a thin thread, 
 
 10. Perché era una perla? Video del giovane gay conservatore: 1. sei felice? bene; 2. quello che fai a letto, non mi riguarda; 3. da cristiano dico che non va bene; 4. mi spiace che tu sia convinto che tutta la tua vita ruoti intorno alle tue preferenze sessuali. Cristiano razionale.
 
-11. Cristiano razionale. Per giunta favorevole al dialogo nel quale gli andava suggerito che aborto e eutanasia non riguardano l'essere umano ma il prima e il dopo del corpo di un essere umano. Non era pro-vita ma pro diritti umani e infatti con Palestina post 10/7: corto circuito.
+11. Cristiano razionale. Per giunta favorevole al dialogo, nel quale gli andava suggerito che aborto e eutanasia non riguardano l'essere umano ma il prima e il dopo del corpo di un essere umano. A parole, non era pro-vita ma pro diritti umani e infatti con Palestina post 10/7: corto circuito.
 
 13. Con la Palestina post 10/7 è andato in corto circuito, su molte questioni sulle quali non aveva fatto ancora ordine/chiarezza. Ha cominciato e ha trovato la morte prima di terminare questo suo personale e nuovo percorso di ricerca della verità: game-over da combo Israele&hairsp;+&hairsp;Epstein.
 
