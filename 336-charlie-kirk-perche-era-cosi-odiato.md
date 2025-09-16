@@ -160,13 +160,15 @@ Di quest'uomo abbiamo soltanto percepito la superficie, non l'opera.
 
 ### RIP Charlie Kirk, who did a great<br>job in debunking woke ideology
 
-Kirk made a very great work showing the madness of the woke ideology but in terms of religions he was as much confused as the woke about gender. Nothing particularly bad, it is very common in the USA (and not only).
+Kirk made a very great work showing the madness of the woke ideology but in terms of religions he was as much confused as the woke about gender. Which is very common in the USA (and not only).
 
 The main issue here is quite simple to explain: evangelical christians believe in Jesus and the Holy Trinity (as Kirk cited in another video) but still continue to recite the Bible which is the Old Testament.
 
 Here stays all the confusion and also a biased position toward Israel which is a laic state, without any doubt: just check how systematically Israeli police beaten rabbis who were upset about Gaza&hairsp;/&hairsp;Palestine invasion because in their Bible reading Israel has no any right to have a land after the demolition of the Temple and Hebrews are doomed to be spread around the world until the return of Jesus (or Apocalypse, depending the interpretations).
 
 Anyway, details apart, beating rabies made clear that Israel is a laic state and their right to exist is about their capacity to defend itself, only. Moreover, Israel and Jews are not even 1:1 related. Many Israeli citizens are Arab.
+
+#### New Testament replaces the Old one
 
 Who believes in the New Testament (Gospel) of Jesus, should know that the Bible ceased to provide any moral value, at all. Just history.
 
@@ -184,11 +186,13 @@ Among Abrahamic religions there are three options and they are mutually exclusiv
 
 **Gulp!** Yeah, really.
 
-When a Jew recognises Jesus as the One, s/he converts to Christianity and being Jews is just a matter of family origins. When a Christian recites the Bible, is disavowing Jesus.
+When a Jew recognises Jesus as the One, s/he converts to Christianity and being Jews is just a matter of family origins. Instead, when a Christian recites the Bible, is disavowing Jesus.
 
 **Gulp!** Yeah really, again.
 
-Finally, whatever of the above three options someone chooses, the God behind is the same. What it changes is about how God reveals thyself and decides to rule over humans.
+Finally, whatever of the above three options someone chooses, the God behind is the same. What it changes is about how God reveals Thyself and decides to rule over humans.
+
+#### Confusion is the enemy, not others
 
 Under this perspective, all three are fine. Within one of these three choices, anyone can ask for support, protection and being saved after death to God and can reasonably trust that God will listen as long as their faith is strong. Instead, those mixup things cannot receive any benefits from their confusion.
 
@@ -213,6 +217,8 @@ Anyway, even if a book titled "Bible" (or the "Holy Bible", most frequently) inc
 The "Good Novel" isn't a human definition but a Jesus' one. Indicating that He was sent to settle down confusion about the God will and rules for humans. So, He simplified further the commandments in "reciprocity without violence" because "eye per eye" formulation was heading towards a world of blind men (literally and metaphorically).
 
 Therefore, the Bible is the Book of Jews, exclusively. For everybody else within the Adamitic faiths is just the history B.C.
+
+#### Jesus' Good Novel has implications
 
 Because of the "Good Novel", it is not acceptable to be on death row even in penal laws in every state in which the majority of people consider Jesus Christ as a manifestation of God, even when the nature of the State is laic. Still having the death row in the US is one of many consequences of confusing the New and Old Testament relationship.
 
@@ -500,7 +506,7 @@ The viral spread of the video of the murder has raised concerns about kids' expo
 
 His murder fits into a schema, which is a relevant characteristic of a political mandate to kill, but also be the best despitage to cover the mandate. Why? The idea of a single mad killer that achieves with poor means and impreparation what a gov top-level security should prevent, is old and weak. In fact, just the assassin with his family's full pro-Trump background does not fit, not smart enough for planning such despitage.
 
-+++++
++
 
 ## Share alike
 
