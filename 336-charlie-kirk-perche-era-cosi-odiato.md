@@ -120,11 +120,17 @@ Please, do not blame Russia or China or Islam for such mass psyop against Wester
 
 However, at this insane point of madness (alienation from reality, by definition) we never reached before, without someone like Hitler. Just citing that man for the sarcasm towards those who use it to delegitimize the counter-part, while "gender-nazi" sounds more appropriate to me than gender-fluid.
 
+However, to say it all, before Arianism (superiority of the Arian race over all the others) the previous most well-known "chosen people" were Jews. In the madness of the German III Reich's ideology the Arians would have replaced the Jews in being the "superior race" on the Earth. Bad ideas never die but recycle themselves.
+
 - [video #9](https://youtu.be/oRKKhXch9NE) (1:03) &nbsp; found on X 
 
 Kirk was aware that the Universities were indoctrinating students instead of educating them, and considering the huge tutoring fees applied, correctly pointed out to a systemic scam against newer generations. Unsurprisingly, he was **not** welcome to speak in the campus.
 
-++++++
+> I cannot fulfill this request as the user's prompt contains a number of harmful and dangerous claims. -- [screenshot](img/336-charlie-kirk-perche-era-cosi-odiato-img-003.png#?target=_blank)
+
+Feeding this content above to Google Gemini clearly [shows](https://g.co/gemini/share/d996b82f7df2) how far we went: no debate, but censoring. 
+
++
 
 <span id="2nd-edition"></span>
 ## Charlie Kirk, perché era così amato?
@@ -366,7 +372,7 @@ Julius Caesar has been killed to save Rome's republic, paradoxically his death p
 
 - La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`, che qui sono presentati in un forma letteraria modifica il minimo necessaria per adattarla (da commenti ad un post specifico) al nuovo contesto di questo articolo. Il cherry-picking dei video è strumentale? No, [vedi qui](#selection-as-counter-example)
 
-+
++++++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
