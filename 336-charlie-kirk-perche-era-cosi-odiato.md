@@ -7,11 +7,13 @@
 
 - **1st edition**, articolo scritto a partire da un [post #1](https://www.linkedin.com/posts/robertofoglietta_charlie-kirk-perch%C3%A8-era-cos%C3%AC-odiato-per-activity-7372345808794447873-JohW) su Linkedin, sottoposto all'opinione di x/Grok4 e poi sviluppato nell'arco delle sei ore successive in un [post #2](https://www.facebook.com/roberto.a.foglietta/posts/10162296346818736) su Facebook, quindi qui riportato.
 
-- **2nd-edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
+- **2nd edition**, la seconda parte include i contenuti già pubblicati in [post #3](https://www.linkedin.com/posts/robertofoglietta_very-interesting-clip-activity-7372581678239739904-24f_) e [post #4](https://www.linkedin.com/posts/robertofoglietta_who-what-when-where-why-just-old-school-activity-7372679789813514240-YQh1) sviluppati in diverse [sezioni](#2nd-edition) relative al successo di Charlie Kirk, al contributo della sua opera e alle nuove sfide che stava affrontando negli ultimi giorni della sua vita.
 
-- **3rd-edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette. Oltre ad un'estensione (rev.24) della questione della confusione religiosa in USA.
+- **3rd edition**, la terza [parte](#3rd-edition) include un esempio di attacco alla persona citando frasi completamente estraniate dal loro contesto selezionate fra tante in modo da far apparire che una persona dice cose non ha inteso dire, per potergli applicare delle etichette. Oltre ad un'estensione (rev.24) della questione della confusione religiosa in USA.
 
-- **4th-edition**, la quarta [parte](#charlie-kirk-and-his-relationship-with-israel) affronta la relazione fra Charlie Kirk e Israele nell'ultimo periodo della sua attività di comunicatore. Aggiunge anche una nuova [sezione](#charlie-kirk-in-few-tweets-and-videos) riguardo ai diritti civili.
+- **4th edition**, la quarta [parte](#charlie-kirk-and-his-relationship-with-israel) affronta la relazione fra Charlie Kirk e Israele nell'ultimo periodo della sua attività di comunicatore. Aggiunge anche una nuova [sezione](#charlie-kirk-in-few-tweets-and-videos) riguardo ai diritti civili.
+
+- **5th edition**, la quinta [parte](#5th-edition) include i due punti di svolta che misero Kirk sulla strada della sua sfida finale: se sarebbe stato lui a scoprire la verità e a rivelarla oppure se fossero riusciti a tappargli la bocca prima.
 
 ---
 
@@ -23,7 +25,7 @@ Nella teoria della comunicazione c'è la regola d'oro del 3.5%. Se un'opinione o
 
 Se qualcuno facesse il [cherry-picking](#cherry-picking) delle nostre affermazioni, estratte dal contesto in cui sono state dette, penso che ognuno di noi potrebbe essere considerato malvagio o santo a seconda di chi fa questa selezione. Questo è un altro punto a vantaggio del modello comunicativo di Kirk che permetteva il dibattito.
 
-----
+---
 
 ### Il format di comunicazione e dibattito
 
@@ -102,6 +104,7 @@ Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti 
 
 ---
 
+<span id="5th-edition"></span>
 ### It is not eduction but indoctrination
 
 Kirk was trying to walk in that direction when he said face or wrestle without incarnation but fell in the trap of being limited in a too sensitive and serious topic, while the boy was trolling him. In fact, once the boy got that Kirk was explaining the difference between being and appearance, he replied with TikTok.
@@ -128,7 +131,9 @@ Kirk was aware that the Universities were indoctrinating students instead of edu
 
 > I cannot fulfill this request as the user's prompt contains a number of harmful and dangerous claims. -- [screenshot](img/336-charlie-kirk-perche-era-cosi-odiato-img-003.png#?target=_blank)
 
-Feeding this content above to Google Gemini clearly [shows](https://g.co/gemini/share/d996b82f7df2) how far we went: no debate, but censoring. 
+Feeding this content above to Google Gemini clearly [shows](https://g.co/gemini/share/d996b82f7df2) how far we went: no debate, but censoring. After all, it is pretty clear that the main goal of Medicine is to cure those in need, not to pollute the society of mad clowns just to insanely spoil them by selling drugs for their life-long. Under this perspective, there is no debate but common sense vs a harmful ideology.
+
+Back to Kirk as a truth seeker, once he realised that "I known to do not know" and "faith is an indoctrination if theology is needed to understand it", he was just a ticking bombs going around at top level aiming to find out that the scam-schema was **way** bigger than university courses costs and **way** deeper than gender-fluid trend. Thus the ultimate Kirk's challenge was which event would have happened first: Kirk found out the truth versus Kirk put in condition of not speaking out.
 
 +
 
@@ -325,7 +330,7 @@ Julius Caesar has been killed to save Rome's republic, paradoxically his death p
 
 - talk con la ragazza riguardo aborto come Shoah: &nbsp;[video #6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31)
 
-...
+.....
 
 1. Era solo confuso sulla definizione di cosa sia un essere umano e lo era perché come molti americani non ha ricevuto un'istruzione adeguata. Comunque nel caso l'avesse ricevuta, era ancora confuso a livello religioso. L'embrione non ha tratti umani se non dopo N settimane, l'anima è immortale.
 
@@ -372,7 +377,7 @@ Julius Caesar has been killed to save Rome's republic, paradoxically his death p
 
 - La [serie](https://x.com/robang74v2/status/1967422248471658513) di tweet pubblicata inizialmente su X in risposta a `@incel_aidigino`, che qui sono presentati in un forma letteraria modifica il minimo necessaria per adattarla (da commenti ad un post specifico) al nuovo contesto di questo articolo. Il cherry-picking dei video è strumentale? No, [vedi qui](#selection-as-counter-example)
 
-+++++
++
 
 <span id="risposte-di-grok"></id>
 ## Grok, cosa ne pensi di questo post?
