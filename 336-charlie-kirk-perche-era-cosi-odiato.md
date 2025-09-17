@@ -1,7 +1,7 @@
 <div id="firstdiv" created="2025-09-12:IT:" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/336-charlie-kirk-perche-era-cosi-odiato-img-001.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/336-charlie-kirk-perche-era-cosi-odiato-img-001.jpg" width="800"><br/></div>
 
 ## Charlie Kirk, perché era così odiato?
 
@@ -25,7 +25,7 @@ Nella teoria della comunicazione c'è la regola d'oro del 3.5%. Se un'opinione o
 
 Se qualcuno facesse il [cherry-picking](#cherry-picking) delle nostre affermazioni, estratte dal contesto in cui sono state dette, penso che ognuno di noi potrebbe essere considerato malvagio o santo a seconda di chi fa questa selezione. Questo è un altro punto a vantaggio del modello comunicativo di Kirk che permetteva il dibattito.
 
----
+----
 
 ### Il format di comunicazione e dibattito
 
@@ -133,11 +133,14 @@ Kirk was aware that the Universities were indoctrinating students instead of edu
 
 Feeding this content above to Google Gemini clearly [shows](https://g.co/gemini/share/d996b82f7df2) how far we went: no debate, but censoring. After all, it is pretty clear that the main goal of Medicine is to cure those in need, not to pollute the society of mad clowns just to insanely spoil them by selling drugs for their life-long. Under this perspective, there is no debate but common sense vs a harmful ideology.
 
+It is worth noting that all of this has nothing to do with sex preference, or dressing habits. Not even with people who are really in need of those treatments because of congenital anomalies or physical acquired dysfunctions. It is about enforcing deontology on those "doctors" who are doing or supporting practices because they are selling drugs as they were drugs dealers which bring harmful consequences to individuals and society. Ippocrate docet.
+
 Back to Kirk as a truth seeker, once he realised that "I known to do not know" and "faith is an indoctrination if theology is needed to understand it", he was just a ticking bombs going around at top level aiming to find out that the scam-schema was **way** bigger than university courses costs and **way** deeper than gender-fluid trend. Thus the ultimate Kirk's challenge was which event would have happened first: Kirk found out the truth versus Kirk put in condition of not speaking out.
 
 +
 
 <span id="2nd-edition"></span>
+<div class="printonly"><p><br></p></div>
 ## Charlie Kirk, perché era così amato?
 
 Molti dei detrattori di Kirk affermano che le sue opinioni erano "divisive" e questo fa in modo che alcuni lo odiassero e altri lo amassero? In effetti, no. Per comprenderlo basta notare un paio di fatti.
@@ -269,6 +272,7 @@ Confusion does not lead to crimes or offences to God -- which it would like we, 
 
 +
 
+<div class="printonly"><p><br></p><p><br></p><p><br></p><p><br></p></div>
 ## Charlie Kirk and his relationship with Israel
 
 Also his relationship with Israel seems affected by a kind of confusion which he was trying to clear. In hindsight, given his death, we can say that it was a desperate undertaking, even considering the confusion surrounding the relationship between Christianity and the Old Testament.
@@ -288,7 +292,7 @@ Unsurprisingly, the All Israel News' staff is aware that "Jesus **and** the Bibl
 
 - September 11, 2025 -- Lion-hearted friend of Israel Charlie Kirk's support for Israel was motivated by his love for Jesus **and** the Bible -- [All Israel News](https://allisraelnews.com/a-lion-hearted-friend-of-israel-charlie-kirks-support-for-israel-was-motivated-by-his-love-for-jesus-and-the-bible)
 
-<div align="center"><img class="bwsketch" src="img/336-charlie-kirk-perche-era-cosi-odiato-img-002.jpg"><br/></div>
+<div align="center"><img class="bwsketch" src="img/336-charlie-kirk-perche-era-cosi-odiato-img-002.jpg" width="720"><br/></div>
 
 Once acquired these new information, I decided to add for consultation the current evaluation of an additional potential source of information which could be a turning key (possibly a Kremlin assist to solve the Kirk death, and also pushing Trump in an embarrassing position) but also a Troy horse aiming to prehmply re-orient the public opinion towards a wrong direction.
 
