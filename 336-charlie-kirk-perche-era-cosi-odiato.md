@@ -98,6 +98,10 @@ In the "**prove me wrong**", there are three challenges: 1. proving facts, 2. th
 
 The human bias for refusing the sunk cost, brings those lost the most because of it, to fight harder for it. This splits society, polarizes debates, spreads hate, destroys the natural order of the biological fact (aka biological riot), and hopelessly fights reality.
 
+Please, do not blame Russia or China or Islam for such mass psyop against Western civilisation. We did it for ourselves, because taking advantage of other humans has been our ultimate goal since when our civilization was "developed" enough to allow and even prize this attitude, predating our peers rather than animals.
+
+However, at this insane point of madness (alienation from reality, by definition) we never reached before, without someone like Hitler. Just citing that man for the sarcasm towards those who use it to delegitimize the counter-part, while "gender-nazi" sounds more appropriate to me than gender-fluid.
+
 ...
 
 Il "problema" in questo video è che Kirk chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
