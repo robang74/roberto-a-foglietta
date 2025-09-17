@@ -86,6 +86,24 @@ In questo altro video si crea l'illusione che il fortino -- le convinzioni di Ki
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is it a hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on human experience and perception: in a common simple world the two match. A mystic experience is perception only.
 
+...
+
+Il "problema" in questo video è che Kirk chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
+
+Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, né gerarchie).
+
+Un gioco interessante perché un individuo super-pares (sopra ai pari fra loro), non aspetterebbe la domanda di Kirk, ma entrerebbe in scena, si siederebbe sulla sedia e chiederebbe: XX oppure XY, ma come ci relazioniamo con gli individui che non rientrano in questo schema duale? Un'azione che non è solo un ingresso fisico ma di ruolo: "proviamo a parti invertite".
+
+Comunque l'illusione di essere vincibili, che si dissolve con l'esperienza dell'oratore, è un motivo scatenante della delusione di confrontarsi con l'invincibile magari perché ormai assurto a "potere" istituzionale quindi eterno (e qui si infiltra l'idea della morte come via di uscita da un cul-de-sac cognitivo).
+
+Un meccanismo perverso della mente perché si può ignorare il predicatore stravagante con il cartello "prove me wrong" quindi il non-confronto come via di fuga ma quando egli assurge alla destra di Trump, ignorarlo diventa impossibile e il confronto inevitabile.
+
+Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti problemi sarebbero già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
+
+---
+
+### It is not eduction but indoctrination
+
 Kirk was trying to walk in that direction when he said face or wrestle without incarnation but fell in the trap of being limited in a too sensitive and serious topic, while the boy was trolling him. In fact, once the boy got that Kirk was explaining the difference between being and appearance, he replied with TikTok.
 
 A strong make-up on a man dressed like a woman does the trick, a fact that ancient Greeks already knew and abundantly used in their theatrical representations. However, despite appearance, two XX individuals cannot give birth, not two TikTok accounts. Moreover, in men pinus is not necessary but gonades.
@@ -102,21 +120,11 @@ Please, do not blame Russia or China or Islam for such mass psyop against Wester
 
 However, at this insane point of madness (alienation from reality, by definition) we never reached before, without someone like Hitler. Just citing that man for the sarcasm towards those who use it to delegitimize the counter-part, while "gender-nazi" sounds more appropriate to me than gender-fluid.
 
-...
+- [video #9](https://youtu.be/oRKKhXch9NE) (1:03) &nbsp; found on X 
 
-Il "problema" in questo video è che Kirk chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
+Kirk was aware that the Universities were indoctrinating students instead of educating them, and considering the huge tutoring fees applied, correctly pointed out to a systemic scam against newer generations. Unsurprisingly, he was **not** welcome to speak in the campus.
 
-Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, né gerarchie).
-
-Un gioco interessante perché un individuo super-pares (sopra ai pari fra loro), non aspetterebbe la domanda di Kirk, ma entrerebbe in scena, si siederebbe sulla sedia e chiederebbe: XX oppure XY, ma come ci relazioniamo con gli individui che non rientrano in questo schema duale? Un'azione che non è solo un ingresso fisico ma di ruolo: "proviamo a parti invertite".
-
-Comunque l'illusione di essere vincibili, che si dissolve con l'esperienza dell'oratore, è un motivo scatenante della delusione di confrontarsi con l'invincibile magari perché ormai assurto a "potere" istituzionale quindi eterno (e qui si infiltra l'idea della morte come via di uscita da un cul-de-sac cognitivo).
-
-Un meccanismo perverso della mente perché si può ignorare il predicatore stravagante con il cartello "prove me wrong" quindi il non-confronto come via di fuga ma quando egli assurge alla destra di Trump, ignorarlo diventa impossibile e il confronto inevitabile.
-
-Curioso perché se la stessa logica fosse applicata alla realtà, molti e molti problemi sarebbero già risolti in partenza e molti dibattiti non sarebbero nemmeno mai iniziati. Si può ignorare la realtà XX/XY ma non si può ignorare Kirk alla destra di Trump. Sembra una commedia ma invece è una tragedia.
-
-+
+++++++
 
 <span id="2nd-edition"></span>
 ## Charlie Kirk, perché era così amato?
@@ -465,9 +473,9 @@ The difference might seem thin, but it is essential. Selection means collecting 
 
 Moreover, a new video that contradicts (or it seems contradicting) something just assessed, is acquired as a precious piece of information to integrate among the others. It is like composing a puzzle by connections without the presentation of the final picture, to see it as-is in reality.
 
-Thus, in **selection** the context matters, the connections among ideas should match, and the aim is to provide a few nodes of a network that cover as much as possible all the informative space. It is hard and precious work because in less than 12 minutes of video everyone gets the essentials.
+Thus, in **selection** the context matters, the connections among ideas should match, and the aim is to provide a few nodes of a network that cover as much as possible all the informative space. It is hard and precious work because in less than 13 minutes of video everyone gets the essentials.
 
-- videos: [#1](https://youtube.com/shorts/Z0sPCeH2KXw) (2:19) -- [#2](https://youtu.be/sxDFRhkxddI) (0:13) -- [#3](https://x.com/HazelAppleyard_/status/1966514045810282985) (2:51) -- [#4](https://youtube.com/shorts/SCYMlAfUzpI) (0:57) -- [#5](https://youtube.com/shorts/0E75N7D7GHQ) (0:49) -- [#6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31) -- [#7](https://youtu.be/g_uEqTH2xiA) (1:50) -- [#8](https://youtube.com/shorts/OUAwHmjdGQU) (2:08)
+- videos: [#1](https://youtube.com/shorts/Z0sPCeH2KXw) (2:19), [#2](https://youtu.be/sxDFRhkxddI) (0:13), [#3](https://x.com/HazelAppleyard_/status/1966514045810282985) (2:51), [#4](https://youtube.com/shorts/SCYMlAfUzpI) (0:57), [#5](https://youtube.com/shorts/0E75N7D7GHQ) (0:49), [#6](https://youtube.com/shorts/Kz5oRIJFYes) (0:31), [#7](https://youtu.be/g_uEqTH2xiA) (1:50), [#8](https://youtube.com/shorts/OUAwHmjdGQU) (2:08), [#9](https://youtu.be/oRKKhXch9NE) (1:03)
 
 By contrast **cherry-picking** is extracting from:
 
