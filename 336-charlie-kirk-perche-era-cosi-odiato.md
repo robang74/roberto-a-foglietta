@@ -545,6 +545,32 @@ His murder fits into a schema, which is a relevant characteristic of a political
 
 +
 
+## Related articles
+
+- [Chatbot adoption rates and brain rotting](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-07-10)
+
+- [I medici del futuro sapranno fare diagnosi?](325-i-medici-del-futuro-sapranno-fare-diagnosi.md#?target=_blank) &nbsp; (2025-06-14)
+
+- [AI driven fact-check can systematically fail](323-ai-driven-fact-check-can-systematically-fail.md#?target=_blank) &nbsp; (2025-06-13)
+
+- [Who paid for that study: science & business](318-who-paid-for-that-study-science-and-business.md#?target=_blank) &nbsp; (2025-06-07)
+
+- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md#?target=_blank) &nbsp; (2025-07-03)
+
+- [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
+
+- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
+
+- [Opinions, data and method](016-opinions-data-and-method.md#?target=_blank) &nbsp; (2016-09-03)
+
+- [Gemini context retraining for human rights](https://robang74.github.io/chatbots-for-fun/html/gemini-context-retraining-for-human-rights.html) &nbsp; (2025-08-02)
+
+- [Human knowledge and opinions challenge](file:///home/roberto/robang74/chatbots-for-fun/html/the-human-knowledge-opinions-katia-module.html) &nbsp; (2025-07-28)
+
+- [Neutrality vs biases for chatbots](https://robang74.github.io/chatbots-for-fun/html/neutrality-vs-biases-for-chatbots.html) &nbsp; (2025-01-04)
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
