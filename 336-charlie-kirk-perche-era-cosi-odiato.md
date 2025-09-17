@@ -86,7 +86,21 @@ In questo altro video si crea l'illusione che il fortino -- le convinzioni di Ki
 
 Kirk lost the debate, apparently. But the point was taken on a non-sense ground. Is it a hologram of a man, a man? An hologram has no chromosomes at all. Our language is based on human experience and perception: in a common simple world the two match. A mystic experience is perception only.
 
-Il "problema" in questo video è che Kirk nel passarsi la mano sulla faccia, perché chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
+Kirk was trying to walk in that direction when he said face or wrestle without incarnation but fell in the trap of being limited in a too sensitive and serious topic, while the boy was trolling him. In fact, once the boy got that Kirk was explaining the difference between being and appearance, he replied with TikTok.
+
+A strong make-up on a man dressed like a woman does the trick, a fact that ancient Greeks already knew and abundantly used in their theatrical representations. However, despite appearance, two XX individuals cannot give birth, not two TikTok accounts. Moreover, in men pinus is not necessary but gonades.
+
+The problem on the boy's side, is not his arrogance which in a young man can also be a positive overconfidence to compensate for his lack of wisdom rather than battling against reality instead of comprehending it and debating for win not to understand or negotiate. 
+
+In the "**prove me wrong**", there are three challenges: 1. proving facts, 2. the show as their ego trap, 3. what's functional vs dysfunctional? The last one is not about gender confusion, only. It is a pillar of our civilisation, of technical artisanry and of science as Popper defined: falsifiable.
+
+- Because gender ideology destroys the pillars of our civilisation, is a mass psyop against us.
+
+The human bias for refusing the sunk cost, brings those lost the most because of it, to fight harder for it. This splits society, polarizes debates, spreads hate, destroys the natural order of the biological fact (aka biological riot), and hopelessly fights reality.
+
+...
+
+Il "problema" in questo video è che Kirk chiaramente si è fatto portare fuori strada e non riesce ad uscirne, fornisce nei primi tempi l'illusione che il fortino possa essere preso ma lui non ha intenzione di cambiare idea. La sua è una missione evangelica anche se in senso laico.
 
 Interessante il gioco di prendere la sedia. Per diversi motivi: interloquisce con un numero più limitato di persone, in un ambiente insolito per un dibattito come la palestra, e solo quelli che pensano di essere preparati concorrono. Poiché la sfida fisica è solo nello slancio, questo è fortemente correlato alla convinzione della persona di essere adatto per quel ruolo (in un ambito competitivo fra pari, quindi un gruppo senza outsider, emarginati, né gerarchie).
 
