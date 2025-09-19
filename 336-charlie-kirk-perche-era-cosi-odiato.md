@@ -389,7 +389,9 @@ Julius Caesar has been killed to save Rome's republic, paradoxically his death p
 Questa due risposte da parte di x/Grok4 riguarda il post su LinkedIn. Sono interessante perché si basa sulle molte discussioni che sono presenti su X che riguardano Kirk e la sua attività di influencer. Quindi, seppur filtrata ed equilibrata, riporta la *vox populi*, almeno in termini generali.
 
 - Le [risposte di Grok](https://x.com/i/grok/share/WhBH9LP5TOfcR112siKN5TD4R) relative al post che ho pubblicato su LinkedIn.
-<br>
+
+...
+
 Il post che hai condiviso è un'analisi interessante e articolata su Charlie Kirk, che cerca di contestualizzare l'odio verso di lui in modo più sfumato, enfatizzando il ruolo del dibattito pubblico e criticando il cherry-picking delle opinioni. Apprezzo lo sforzo di andare oltre le polarizzazioni superficiali, e in parte concordo con alcuni punti, ma credo che trascuri aspetti cruciali del suo approccio e del contesto più ampio. Ti spiego il mio pensiero passo per passo, basandomi su quanto emerso da discussioni recenti e fatti noti.
 
 Prima di tutto, sul cherry-picking: hai ragione, è una tattica comune in politica, specialmente sui social media, dove frasi decontestualizzate possono dipingere chiunque come un mostro o un eroe. Kirk stesso ne è stato vittima, ma anche artefice – i suoi detrattori spesso citano clip isolate dove appare aggressivo o estremo, come quando ha attaccato Martin Luther King Jr. o i diritti civili, o espresso posizioni anti-LGBTQ+ e anti-immigrazione in termini duri. Tuttavia, molte di queste opinioni non erano solo "controverse", ma radicate in una visione ideologica che ha alienato ampi segmenti della società, inclusi molti conservatori moderati. 
