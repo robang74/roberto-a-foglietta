@@ -7,6 +7,13 @@
 
 - 19 Sept. 2025 -- video interview: [youtu.be/sJ-pWvv--FM](https://youtu.be/sJ-pWvv--FM)
 
+- https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k
+- https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1
+- https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux
+- https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736
+
+---
+
 Former Head of the German Armed Forces and Chairman of NATO’s Military Committee exposes the West's sabotage of the Minsk peace agreement and the Istanbul negotiations. 
 
 General Harald Kujat is a former head of the German Armed Forces (Bundeswehr) and the former Chairman of NATO's Military Committee. Having held the top military position in both Germany and NATO, General Kujat offers his expertise on how the West and Russia ended up fighting a proxy war in Ukraine.
