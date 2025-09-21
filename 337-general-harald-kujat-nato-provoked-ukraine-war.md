@@ -104,6 +104,30 @@ Thus in 2018, these nations reached a level of development that compared with ou
 
 The Android ban which culminated in the Harmony OS sucessfully deployment like the US dependency by Rosatom clearly made Chine and Russia aware of their geopolitical influence over US and thus EU. The achieved awareness is a single-way momentum, there is not a way back. Thus the Western Empire is over.
 
+---
+
+AS PLANNED IN LATE AUGUST,
+TRUMP LEFT THE EU BY ITSELF
+IN "FIGHTING" AGAINST RUSSIA
+
+The day after the General Harald Kujat interview Reuters publish the Trump's position about NATO coverage on those European countries which share a border with Russia which was anticipated to their ambassodors in the late August, thus one month before.
+
+- [After diplomatic blitz on Ukraine and Gaza, Trump moves to passenger seat](https://www.reuters.com/world/europe/after-diplomatic-blitz-ukraine-gaza-trump-moves-passenger-seat-2025-09-20/)
+
+This summary below has been entirely written by Perplexity AI queried about the news above linked.
+
+[!INFO]
+20 Sept. 2025 -- According to Reuters, the Pentagon informed European diplomats in late August 2025 that the United States plans to partially halt certain military assistance to the Baltic countries (Estonia, Latvia, Lithuania) and NATO member states bordering Russia.
+
+Pentagon official David Baker conveyed that Europe should be less reliant on the U.S. for security, as the U.S. military under President Donald Trump is shifting priorities to focus more on homeland defense.
+
+This decision includes cutting funding for the Baltic Security Initiative, which has supported these countries with security assistance since 2020. Some European diplomats expressed concern that this move could embolden Russia.
+
+The Pentagon and the White House emphasized that many European allies are capable of funding their own defense programs, urging them to take more responsibility for their security.
+
+Recent provocations by Russian military aircraft near Baltic and NATO airspace have heightened tensions amid this shift in U.S. military aid policy.
+[INFO]
+
 +
 
 ## Share alike
