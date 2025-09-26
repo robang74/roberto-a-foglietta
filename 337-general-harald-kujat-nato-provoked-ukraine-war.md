@@ -6,7 +6,7 @@
 ## General Harald Kujat: NATO Provoked Ukraine War.
 
 **1st edition**, started from contents previously published in the following posts of mine:
-- [post #1](https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k) - [post #2](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1) - [post #3](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux) - [post #4](https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736)
+- [post #1](https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k) &nbsp;-&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1) &nbsp;-&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux) &nbsp;-&nbsp; [post #4](https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736)
 
 ---
 
@@ -34,10 +34,10 @@ Toppling of President Yanukovych `[07:43]`: He mentions the coup against the dem
 
 Confirming and extending what Merkel said in her interview published by Zeit in Q4/2022 soon after the Nord Stream I and II sabotage.
 
-- 2025-03-19 -- https://lnkd.in/dztWFjm9
-- 2025-05-16 -- https://lnkd.in/dJXFzWmw
-- 2025-06-30 -- https://lnkd.in/dNBG4EMz
-- 2024-06-26 -- https://lnkd.in/d9HQXv9N
+- 2025-03-19 -- [Il punto della situazione con la Russia](https://robang74.github.io/roberto-a-foglietta/html/306-il-punto-della-situazione-con-la-russia.html#:~:text=Come%20la%20Merkel%20ammise%20nel%20tardo%202022)
+- 2025-05-16 -- [Non c'è il 2° podio negli schemi Ponzi](https://robang74.github.io/roberto-a-foglietta/html/315-non-c-e-secondo-podio-negli-schemi-ponzi.html#:~:text=La%20Merkel%20fece%20un%27intervista)
+- 2025-06-30 -- [The real reason why Putin is so hated](https://lnkd.in/dNBG4EMz https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#:~:text=la%20Merkel%20dopo%20che%20il%20sabotaggio)
+- 2025-06-26 -- [Anthony Fauci, un utile capro espiatorio](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
 
 ...
 
@@ -45,9 +45,9 @@ Confirming and extending what Merkel said in her interview published by Zeit in 
 
 The legitimacy of Russia (or every other country) for an act of war, on the behalf of the international law is a political mystification for the people. Considering the video interview, we can say that the general is aware that in military terms and in particular in war time, there is no law binding. In fact, he avoided precisely entering this topic. From a military strategic PoV there are just two extreme options (which define a range) about an act of war: 
 
-- 1. it starts in a totally unprovoked scenario thus is a deliberate aggression; 
+- it starts in a totally unprovoked scenario thus is a deliberate aggression; 
 
-- 2. it started after a long time in which the other party was provoking (aka diplomacy systematic failure in settling down issues but used as a cover to build up a situation of potential threat aka war preparation).
+- it started after a long time in which the other party was provoking (aka diplomacy systematic failure in settling down issues but used as a cover to build up a situation of potential threat aka war preparation).
 
 Finally, Machiavelli's use of diplomacy can work effectively as long as the highest ground is firmly kept and thus a single-side benefit "law" can be enforced over other parties. Which is the reason for Russia's default and geopolitical isolation attempts.
 Below, there is a check by Gemini about the video interview in English, because I am Italian mother tongue, it is obvious asking for a check about a foreign language speech understanding (aka always double-check critical information principle).
