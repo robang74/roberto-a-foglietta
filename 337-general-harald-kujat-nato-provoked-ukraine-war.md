@@ -5,8 +5,8 @@
 
 ## General Harald Kujat: NATO Provoked Ukraine War.
 
-**1st edition**, started from contents previously published in the following posts of mine:
-- [post #1](https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k) &nbsp;-&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1) &nbsp;-&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux) &nbsp;-&nbsp; [post #4](https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736)
+- **1st edition**, started from contents previously published in the following posts of mine:
+    - [post #1](https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k) &nbsp;-&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1) &nbsp;-&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux) &nbsp;-&nbsp; [post #4](https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736)
 
 ---
 
@@ -56,7 +56,7 @@ Below, there is a check by Gemini about the video interview in English, because 
 
 ### Gemini check about the interview
 
-- Gemini [check](https://g.co/gemini/share/9ccadd65adbe) about the interview
+- Gemini [check](https://g.co/gemini/share/9ccadd65adbe) and its [transcription](data/337-general-harald-kujat-video-interview-gemini.txt#?target=_blank) about the interview
 
 Your analysis accurately reflects the tension between the strict legal framework of international law and the practical strategic viewpoint often considered in military and geopolitical contexts.
 
@@ -78,7 +78,7 @@ The general in the video interview said that Bucharest 2008 was the turning poin
 
 So, everything started with Bucharest 2008 could have been reversed while the red lines set by Putin in 2007 were not: Ukraine and Georgia never joined NATO. In fact, we might consider that Putin is the keyman in keeping these red-lines firm but it would be a huge mistake. Russian military top hierarchies are those considering that red-lines unbreakable and they would replace or overcome Putin on those decisions if Putin would not agree with them.
 
-- [the power structure in Russia](lnkd.in/dPCt79bS)
+- 2025-06-30 -- [the power structure in Russia](https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#la-struttura-del-potere-in-russia)
 
 The main idea was **not** winning Russia in a direct war confrontation and in fact Ukraine vs Russia is a proxy-war but to win Russia by leveraging geopolitical USA supremacy which did not exist anymore in 2022 compared to 2008. So why did the US/NATO not recognise that conditions which were in place in 2008 were not anymore in 2022 and carried on? Overconfidence in international consensus manipulation.
 
@@ -105,7 +105,7 @@ As planned in late August, the U.S. president Trump left the EU by itself in "fi
 This summary below has been entirely written by Perplexity AI queried about the news above linked.
 
 [!INFO]
-20 Sept. 2025 -- According to Reuters, the Pentagon informed European diplomats in late August 2025 that the United States plans to partially halt certain military assistance to the Baltic countries (Estonia, Latvia, Lithuania) and NATO member states bordering Russia.
+**20 Sept. 2025** -- According to Reuters, the Pentagon informed European diplomats in late August 2025 that the United States plans to partially halt certain military assistance to the Baltic countries (Estonia, Latvia, Lithuania) and NATO member states bordering Russia.
 
 Pentagon official David Baker conveyed that Europe should be less reliant on the U.S. for security, as the U.S. military under President Donald Trump is shifting priorities to focus more on homeland defense. This decision includes cutting funding for the Baltic Security Initiative, which has supported these countries with security assistance since 2020. Some European diplomats expressed concern that this move could embolden Russia.
 
