@@ -34,9 +34,9 @@ Toppling of President Yanukovych `[07:43]`: He mentions the coup against the dem
 
 Confirming and extending what Merkel said in her interview published by Zeit in Q4/2022 soon after the Nord Stream I and II sabotage.
 
-- 2025-03-19 -- [Il punto della situazione con la Russia](https://robang74.github.io/roberto-a-foglietta/html/306-il-punto-della-situazione-con-la-russia.html#:~:text=Come%20la%20Merkel%20ammise%20nel%20tardo%202022)
-- 2025-05-16 -- [Non c'è il 2° podio negli schemi Ponzi](https://robang74.github.io/roberto-a-foglietta/html/315-non-c-e-secondo-podio-negli-schemi-ponzi.html#:~:text=La%20Merkel%20fece%20un%27intervista)
-- 2025-06-30 -- [The real reason why Putin is so hated](https://lnkd.in/dNBG4EMz https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#:~:text=la%20Merkel%20dopo%20che%20il%20sabotaggio)
+- 2025-03-19 -- [Il punto della situazione con la Russia](306-il-punto-della-situazione-con-la-russia.html#:~:text=Come%20la%20Merkel%20ammise%20nel%20tardo%202022?target=_blank)
+- 2025-05-16 -- [Non c'è il 2° podio negli schemi Ponzi](315-non-c-e-secondo-podio-negli-schemi-ponzi.html#:~:text=La%20Merkel%20fece%20un%27intervista?target=_blank)
+- 2025-06-30 -- [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.html#:~:text=la%20Merkel%20dopo%20che%20il%20sabotaggio?target=_blank)
 - 2025-06-26 -- [Anthony Fauci, un utile capro espiatorio](https://www.linkedin.com/pulse/anthony-fauci-un-utile-capro-espiatorio-roberto-a-foglietta-aqqnf)
 
 ...
@@ -78,7 +78,7 @@ The general in the video interview said that Bucharest 2008 was the turning poin
 
 So, everything started with Bucharest 2008 could have been reversed while the red lines set by Putin in 2007 were not: Ukraine and Georgia never joined NATO. In fact, we might consider that Putin is the keyman in keeping these red-lines firm but it would be a huge mistake. Russian military top hierarchies are those considering that red-lines unbreakable and they would replace or overcome Putin on those decisions if Putin would not agree with them.
 
-- 2025-06-30 -- [the power structure in Russia](https://robang74.github.io/roberto-a-foglietta/html/329-the-real-reason-why-putin-is-so-hated.html#la-struttura-del-potere-in-russia)
+- 2025-06-30 -- [the power structure in Russia](329-the-real-reason-why-putin-is-so-hated.html#la-struttura-del-potere-in-russia#?target=_blank)
 
 The main idea was **not** winning Russia in a direct war confrontation and in fact Ukraine vs Russia is a proxy-war but to win Russia by leveraging geopolitical USA supremacy which did not exist anymore in 2022 compared to 2008. So why did the US/NATO not recognise that conditions which were in place in 2008 were not anymore in 2022 and carried on? Overconfidence in international consensus manipulation.
 
