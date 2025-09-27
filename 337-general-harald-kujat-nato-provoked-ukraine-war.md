@@ -100,7 +100,7 @@ The Android ban which culminated in the successful deployment of Harmony OS, lik
 
 As planned in late August, the U.S. president Trump left the EU by itself in "fighting" against Russia. The day after the General Harald Kujat interview, Reuters published Trump's position about NATO coverage on those European countries which share a border with Russia which was anticipated to their ambassadors in late August, thus one month before.
 
-- [After diplomatic blitz on Ukraine and Gaza, Trump moves to passenger seat](https://www.reuters.com/world/europe/after-diplomatic-blitz-ukraine-gaza-trump-moves-passenger-seat-2025-09-20/)
+- [After diplomatic blitz on Ukraine and Gaza, Trump moves to passenger seat](https://www.reuters.com/world/europe/after-diplomatic-blitz-ukraine-gaza-trump-moves-passenger-seat-2025-09-20/) &nbsp; by Reuters
 
 This summary below has been entirely written by Perplexity AI queried about the news above linked.
 
