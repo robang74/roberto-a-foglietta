@@ -284,6 +284,10 @@ D'altronde l'inverno demografico ha distrutto il patto sociale generazionale e i
 
 Però, certamente l'INPS è fallita quindi in principio questa transizione è corretta, in teoria. Anche in pratica se i fondi privati agiranno correttamente. Ma guardando agli "investimenti" effettuati negli ultimi 15 anni dalla cassa forense, il "sentimento" è che anche quei fondi saranno usati per scopi "politici" piuttosto che per gli scopi preposti.
 
+[!INFO]
+2025-09-30 -- Nel 2024 la sola spesa pensionistica si è elevata a 320 mld, 40 in più del 2023. Le entrate si sono fermate a 284 mld e lo Stato ha dovuto staccare per il welfare 180 mld. -- [L'Espresso](https://lespresso.it/c/economia/2025/9/30/spesa-pensioni-2024-2025-crisi-conti-inps/57090)
+[/INFO]
+
 Siamo un paese fallito, perché siamo un paese di furbi (o meglio, di gente che si credono tali).
 
 ---
@@ -308,11 +312,9 @@ Siamo andati così avanti nel futuro che siamo tornati alla prestoria.
 
 Pensateci tutto il tempo che vi serve, ma non troppo.
 
-+
++++++
 
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 </div>
-
