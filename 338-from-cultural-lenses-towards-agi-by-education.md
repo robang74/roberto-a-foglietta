@@ -23,7 +23,7 @@ It is not about fashion or bags, read it again.
 
 The Kimi K2 despite providing a wrong interpretation of this post (below reshared) -- and sticking to it despite evidence that can be read in two different ways, at least -- is interesting because it allowed me to perceive the different cultural lenses embedded in different chatbots. Which is not bad, it is a fact: different chatbots are made for different goals and markets. Thus, listening to a few different opinions (chatbots) is more valuable than listening to many omologated opinions (yes-men).
 
-- The [chat](https://www.kimi.com/share/d3ed0hpsfuv6jqeht83g) with Kimi K2 and its [transcription](#TODO)
+- The [chat](https://www.kimi.com/share/d3ed0hpsfuv6jqeht83g) with Kimi K2 and its [transcription](data/338-from-cultural-lenses-towards-agi-by-education-kimik2.txt#?target=_blank)
 
 Focusing on cultural lens rather than post, I think that:
 
