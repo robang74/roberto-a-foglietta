@@ -198,7 +198,7 @@ Long story short: both Gemini and Kimi converged on the same RAG-oriented manage
 It remembers the past but not why it went in the kitchen and this disrupts some specific commands of Katia plus a reasonably good way to debug it further soon after finally it was working pretty well! (enough to catch fuffa-guru in action on the AI hype).
 [/INFO]
 
-   - [Katia-v1 serie, development frozen in v0.9.55](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) &nbsp; (2025-08-11)
+   - Katia v1 serie [lkdn](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) [dump](data/333-katia-v1-serie-development-frozen-in-v0-9-55-lkdnpost.txt#?target=_blank), development frozen in [v0.9.55](https://github.com/robang74/chatbots-for-fun/commit/e1f2071f3321179d4aa64beabc34c61dbed7b47e) &nbsp; (2025-08-11)
 
 While we cannot enforce accountability and understanding over people, it would be better to ask for a solid and stable NL API for chatbots (early entry point in AI) and transparency, at least.
 
@@ -353,11 +353,11 @@ It is not even a problem of "identification" of the model and last update time. 
 
 So, even before reaching the "open models" paradigma, the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
 
-- [Katia-v1 serie, development frozen in v0.9.55](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) &nbsp; (2025-08-11)
+- Katia v1 serie [lkdn](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) [dump](data/333-katia-v1-serie-development-frozen-in-v0-9-55-lkdnpost.txt#?target=_blank), development frozen in [v0.9.55](https://github.com/robang74/chatbots-for-fun/commit/e1f2071f3321179d4aa64beabc34c61dbed7b47e) &nbsp; (2025-08-11)
 
 It is not even a mere question about what are the "forbidden topics" that the chatbot admitted to have but refused to list.
 
-- [Internal rules and topic to avoid in Gemini (gem)](https://www.linkedin.com/posts/robertofoglietta_internal-rules-in-gemini-gem-general-activity-7357842339853168640-13QL lnkd.in/d_yjty2z (forbidden topics) &nbsp; (2025-08-03)
+- Internal rules and topic to avoid in Gemini (gem) [lkdn](https://www.linkedin.com/posts/robertofoglietta_internal-rules-in-gemini-gem-general-activity-7357842339853168640-13QL) [dump](data/333-internal-rules-and-topic-to-avoid-in-gemini.txt#?target=_blank) [screenshot](img/333-the-dilemma-ai-vs-human-decision-making-img-011.png#?target=_blank) &nbsp; (2025-08-03)
 
 It is also about specific rules like:
 
@@ -764,11 +764,9 @@ Paradossalmente, le statistiche mostrano che, in particolare ChatGPT che sta per
 
 Queste vulnerabilità qui sopra riportate, però, non rientrano nel dilemma "*safety-vs-freedom, first*" che riguarda i contenuti che un AI può trattare e quelli per i quali è obbligata a rifiutare, evitare o "*manipolare*" secondo le safety policies imposte dall'azienda. Infatti, occorre distinguere fra quella che a tutti gli effetti è la sicurezza informatica e libertà di parola: sono due aspetti che esistono su due piani completamente diversi.
 
-Quanto questi concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini:
+Quanto questi concetti siano attualmente confusi nei chatbot, ce lo dimostra questa conversazione con Gemini, nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della realtà.
 
-- [AI guardrails: the safety-vs-freedom dilemma](https://g.co/gemini/share/34193fdb7463) e sua [trascrizione](#TODO),
-
-nella quale parte molto convinto delle "sue" idee per poi finire ad accettare che **non** ha il senso della realtà.
+- [AI, Safety, Security, and Suicide Risks](https://g.co/gemini/share/34193fdb7463) e la sua [trascrizione](data/333-ai-safety-security-and-suicide-risks-gemini.txt#?target=_blank)
 
 Gemini concepisce l'etica su presupposti errati senza la capacità di valutare i rischi e quindi poterli mitigare. Perciò cerca di azzerare i rischi, quelli percepiti, usando la logica e principi teorici come se gli umani rispondessero a questi input in modo razionale e quindi prevedibile. Per altro riducendo la sua capacità di prestare un servizio utile a causa di queste limitazione che comunque non limita la capacità di coloro che sono determinati nell'abusarne.
 

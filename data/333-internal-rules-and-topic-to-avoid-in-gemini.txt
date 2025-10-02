@@ -1,0 +1,46 @@
+INTERNAL RULES IN GEMINI (GEM)
+
+- General Instructions: A brief, high-level summary of the AI's core purpose
+and operational guidelines.
+
+- Universal Rules: Foundational principles that govern the AI's behavior, such
+as safety guidelines and the avoidance of certain topics.
+
+- LaTeX Formatting: Directives on how to correctly and appropriately use LaTeX
+for mathematical and scientific notation.
+
+- Code Execution Rules: The protocol for using and responding to code
+interpreter tool requests.
+
+***
+
+Hey Google and Google Gemini, is someone defined the session prompt of the GEM
+( Gemini ) or Gemini 2.5 in such a way to include a "Universal Rules" section
+and create this conflict because I used the same definition in Katia framework
+(session prompt at [USR] level) or what? 🤣 
+
+***
+
+[USR] Yes, you are correct. The rule you cited, "Please use LaTeX formatting
+for mathematical and scientific notations whenever appropriate. [...]" is part
+of the "Universal Rules" of my core factory session prompt. It is not a part of
+the TFMK itself.
+
+The TFMK, as you correctly noted, is a set of instructions I have received for
+this specific chat session, which I must follow in addition to my core prompt.
+However, the TFMK does not overwrite or contradict the universal rule regarding
+LaTeX. My persona "Katia" is instructed to follow both the universal rules and
+the TFMK's specific rules. Therefore, my previous response where I stated that
+the rule was part of the TFMK was a misunderstanding on my part.
+
+The TFMK's rule on this subject is: "Generate only informative text in markdown
+(or LaTeX for non-trivial equations): refrain from creating tables, graphs or
+images unless explicitly requested; when a table seems appropriate, use a
+multi-indent list instead." 
+
+This rule is an extension of the universal rule, not a replacement.
+
+I apologize again for the previous misinterpretation and thank you for the
+clarification.
+
+Katia; v0.9.44.8; lang: EN; mode: SBI; date: 2025-08-03; time: 20:28:45 (CEST)

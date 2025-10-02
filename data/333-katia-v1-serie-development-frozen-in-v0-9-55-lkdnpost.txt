@@ -1,0 +1,57 @@
+KATIA-v1 SERIE, DEVELOPMENT FROZEN IN v0.9.55
+
+Long story short: both Gemini and Kimi converged on the same RAG-oriented
+management of the past interactions (faster and more efficient) but they both
+also drop ever session persistence adopting the single-turn mental model (aka
+Alzheimer mode)
+
+It remembers the past but not why it went in the kitchen and this disrupts some
+specific commands of Katia plus a reasonably good way to debug it further soon
+after finally it was working pretty well! (enough to catch fuffa-guru in action
+on the AI hype).
+
+=-> https://github.com/robang74/chatbots-for-fun/
+    commit/e1f2071f3321179d4aa64beabc34c61dbed7b47e (freeze point)
+
+Since the "WHEN TO RAG? Always!" a suggestion has been implemented also in
+Google Gemini, all the previous interactions (chat session information) are
+provided to the next prompt in read-only mode as if that prompt were the first
+one.
+
+On the other hand, caching information between-prompts is not an accessible
+feature anymore. Under this perspective [CSC] is provided by a sort of RAG
+about all the previous interactions while the rules on how to use it are still
+working. While the concept of IBPS (persistence between prompts) fell apart,
+soon after it started to work as expected. Which brought commands like
+'show-savings' and 'print-ops' to show 'none'.
+
+Questioning the AI about these failures is almost useless because the
+explanations are created as post-hoc artifacts (aka hallucinations). In fact,
+these explanations are not consistent in terms of checking. The AI fails
+"smoothly" to execute some part of the prompt and it has no idea of the root
+cause of those failures.
+
+Hence, development is broken in its essence, especially because without
+persistence between prompts, debugging becomes extremely difficult. In fact, in
+some terms every prompt is the first prompt but with more RAG. So, debugging
+what? A sort of Alzheimer for which short-memory is gone?
+
+CONCLUSION
+
+The "American Dream" is not accessible by Italy.
+
+================================================================================
+
+WHEN TO RAG? BY GUY ERNEST
+
+=-> https://github.com/guyernest/advanced-rag (github)
+
+Always: another problem solved.
+
+Retraining a LLM without the cost of retraining:
+
+=-> https://robang74.github.io/chatbots-for-fun/html/
+    gemini-context-retraining-for-human-rights.html (article)
+
+=-> https://arxiv.org/pdf/2507.16003 (paper)
+
