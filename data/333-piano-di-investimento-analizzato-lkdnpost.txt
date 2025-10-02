@@ -1,0 +1,65 @@
+IL CONSULENTE FINANZIARIO, UN ALTRO LAVORO A SPARIRE
+
+Piano di investimento, suggerito da anonimo su social, esercizio teorico:
+
+- 100 mila su conto deposito (svalutano ma cash is king)
+- 200 mila su immobili per affitti brevi (se conosci il mercato e vuoi fare B&B)
+- 200 mila su ETF su S&P500 (perché S&P500? Medio rischio?)
+- 100 mila su Bitcoin. (se conosci cosa sono e come gestirli)
+
+Valutazione: va bene, se sai come gestire ogni singolo investimento nella
+lista. Se sai farlo, quello che ancora manca è un'allocazione più ponderata, ma
+nel complesso la ricetta potrebbe andare bene.
+
+***
+
+VALUTAZIONE DI CHATGPT
+
+Il piano di investimento suggerito ha una logica di base che può funzionare, ma
+è importante esaminarlo punto per punto con un occhio critico. La valutazione
+finale è corretta: funziona solo se sai quello che stai facendo. Ecco una breve
+analisi.
+
+Riassunto dell'analisi: l'allocazione delle cifre è l'unico elemento oggettivo
+della risposta (numeri), gli altri sono soggetti a valutazione rispetto al
+profilo dell'investitore. Anche l'allocazione è soggettiva al profilo di
+rischio ma in generale è possibile determinare un'allocazione di equilibrio
+composito fra rendimenti alti-bassi, medio-lungo, volatilità, etc. - infatti il
+chatbot indica un orizzonte di 10 anni, come fondo-pensione ed eventuali
+cedolari integrative dall'attività sul capitale operativo (non lo esprime in
+questi termini ma si desume dalle caratteristiche della risposta che ha usato
+un modello di quel tipo).
+
+=-> https://chatgpt.com/share/68526fc4-259c-8012-ba72-bf692ab5faad
+
+***
+
+PRO & CONS DI CHATGPT vs UMANO
+
+Potrà uno strumento privo di capacità di ragionamento come un LLM sostituire i
+consulenti finanziari?
+
+Il contro lo abbiamo già detto: è un bot, quindi non fa ragionamenti, ma
+nonostante questo può battere il 98% su attività molto schematiche o di
+routine. Tutto ciò che è ben documentato, è attaccabile dall'AI, il resto
+rimane esclusiva di ALCUNI umani. 
+
+Vantaggi del consulente finanziario virtuale:
+
+- capitale iniziale, potenzialmente prossimo allo zero
+- zero commissioni, risparmio marginale ma immediato
+- analogamente al consulente non partecipa alle perdite
+- e a buona parte dei consulenti non partecipa ai guadagni
+- può avere pregiudizi ma anche gli umani li hanno, e più marcati
+- non pone il rischio di essere truffati
+
+Secondo me, anche questo mestiere uscirà di scena, molto presto. Rimarranno sul
+mercato pochi professionisti molto esperti impegnati a gestire patrimoni molto
+articolati, in cui l'elemento distintivo sarà proprio la capacità di management
+degli asset produttivi e delle attività più che la gestione di un portafoglio
+secondo un modello/profilo.
+
+I primi due punti offrono un importante vantaggio competitivo: il bot c'era
+prima che il capitale da gestire diventasse importante da gestire. Con un bot
+si può partire subito con $1.000 d'investimento iniziale, che se anche
+andassero perduti, sarebbero esperienza acquisita.

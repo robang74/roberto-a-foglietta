@@ -44,7 +44,7 @@ In a world in which humans are not anymore accountable, nor trustworthy, machine
 
 And such a way, did not happen for a chance but for marketing thus it is also part of the plot. Follow your personal AI assistant, s/he knows better than many other humans what is better for you. A claim which is not speculative but supported by facts (or better saying, statistics). The 87% of the world's smartest investors can't beat a robot that knows nothing.
 
-- Il consulente finanziario, un altro lavoro a sparire &nbsp; [post](https://www.linkedin.com/posts/robertofoglietta_il-consulente-finanziario-un-altro-lavoro-activity-7341015581757714432-23D5) &nbsp; [chat](https://chatgpt.com/share/68526fc4-259c-8012-ba72-bf692ab5faad) &nbsp; [dump](data/333-piano-di-investimento-analizzato-chatgpt.txt#?target=_blank) &nbsp; (Jul 2025)
+- Il consulente finanziario, un altro lavoro a sparire: &nbsp; [chat](https://chatgpt.com/share/68526fc4-259c-8012-ba72-bf692ab5faad) &nbsp; [dump](data/333-piano-di-investimento-analizzato-chatgpt.txt#?target=_blank) &nbsp;-->&nbsp; [post](https://www.linkedin.com/posts/robertofoglietta_il-consulente-finanziario-un-altro-lavoro-activity-7341015581757714432-23D5) &nbsp; [dump](data/333-piano-di-investimento-analizzato-lkdnpost.txt#?target=_blank) &nbsp; (Jul 2025)
 
 The agentic AI is going to commoditize a lot of processes so that even when they are not routines, they can be packed inside the "bureaucracy" category. The best is that all our processes would be bureaucratic-free. Unfortunately, many forms of bureaucracy are still a business for many people. Hence, before stripping bureaucracy, we need to commoditise it.
 
