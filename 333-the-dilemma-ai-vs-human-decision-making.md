@@ -785,7 +785,7 @@ Brilliant example of a no metric is better than a flawed metric. Guess which is 
 ### Il turno dell'AI che già fu prima di D&D
 
 <div align="center"><img class="wbsketch darkinv" src="img/333-the-dilemma-ai-vs-human-decision-making-img-010.jpg" width="800"><br></div>
-- [Un’ondata di panico sull’intelligenza artificiale](https://www.internazionale.it/notizie/alberto-puliafito/2025/09/03/panico-ingiustificato-intelligenza-artificiale) pubblicato su L'Internazionale il 3 settembre 2025
+- Un’ondata di panico sull’intelligenza artificiale in [PDF](data/333-panico-ai-come-dnd-internazionale-articolo.pdf#?target=_blank) pubblicato su [L'Internazionale](https://www.internazionale.it/notizie/alberto-puliafito/2025/09/03/panico-ingiustificato-intelligenza-artificiale) &nbsp; (2025-09-03)
 
 Nel 1979, la scomparsa dello studente James Dallas Egbert III scatenò un campagna mediatica che diffuse un panico irrazionale verso Dungeons & Dragons. Un gioco di ruolo con mappe, draghi e dadi, fu trasformato in un comodo capro espiatorio per la società, gli insegnanti e i genitori, invece di affrontare i problemi sistemici e complessi disagio adolescenziale che spesso si trasformava in solitudine e depressione.
 
