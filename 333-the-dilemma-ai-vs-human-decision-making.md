@@ -30,8 +30,7 @@ The author's main aim is to shift the conversation about AI from theoretical, ph
 
 In essence, the document urges a move away from outdated clichés and toward a clearer, more effective framework for engaging with the challenges and opportunities presented by AI. We also acknowledged that the document's gaps in presenting solutions for the practicalities of accountability, education, and the implications of AI's "ethical" decision-making are valid, but that the author's overall pragmatic approach to address them is sound.
 
-<div style="text-size:90%">
-`Katia; v0.9.55.1; lang: EN; mode: EGA,SBI; date: 2025-08-13; time: 09:35:53 (CEST)`
+<tt style="text-size:80%">Katia; v0.9.55.1; lang: EN; mode: EGA,SBI; date: 2025-08-13; time: 09:35:53 (CEST)</tt>
 </div>
 [/CITE]
 
@@ -353,11 +352,11 @@ It is not even a problem of "identification" of the model and last update time. 
 
 So, even before reaching the "open models" paradigma, the system prompt is not accessible to the users. Even before debate why a session-prompt like Katia has not a stable right to run, not even on a chosen specific configuration.
 
-- Katia v1 serie [lkdn](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) [dump](data/333-katia-v1-serie-development-frozen-in-v0-9-55-lkdnpost.txt#?target=_blank), development frozen in [v0.9.55](https://github.com/robang74/chatbots-for-fun/commit/e1f2071f3321179d4aa64beabc34c61dbed7b47e) &nbsp; (2025-08-11)
+- Katia v1 serie, development frozen in [v0.9.55](https://github.com/robang74/chatbots-for-fun/commit/e1f2071f3321179d4aa64beabc34c61dbed7b47e) &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_when-to-rag-by-guy-ernest-httpslnkdin-activity-7360535565705850881-9KE8/) &nbsp; [dump](data/333-katia-v1-serie-development-frozen-in-v0-9-55-lkdnpost.txt#?target=_blank) &nbsp; (2025-08-11)
 
 It is not even a mere question about what are the "forbidden topics" that the chatbot admitted to have but refused to list.
 
-- Internal rules and topic to avoid in Gemini (gem) [lkdn](https://www.linkedin.com/posts/robertofoglietta_internal-rules-in-gemini-gem-general-activity-7357842339853168640-13QL) [dump](data/333-internal-rules-and-topic-to-avoid-in-gemini.txt#?target=_blank) [screenshot](img/333-the-dilemma-ai-vs-human-decision-making-img-011.png#?target=_blank) &nbsp; (2025-08-03)
+- Internal rules and topic to avoid in Gemini (gem): &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_internal-rules-in-gemini-gem-general-activity-7357842339853168640-13QL) &nbsp; [dump](data/333-internal-rules-and-topic-to-avoid-in-gemini.txt#?target=_blank) &nbsp; [screenshot](img/333-the-dilemma-ai-vs-human-decision-making-img-011.png#?target=_blank) &nbsp; (2025-08-03)
 
 It is also about specific rules like:
 
