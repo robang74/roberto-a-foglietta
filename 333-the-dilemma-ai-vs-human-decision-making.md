@@ -609,7 +609,7 @@ Despite the fact that "artificial intelligence" is not the kind of intelligence 
 ### Is Meta acting like Sparta? Nope, but a bit
 
 [!INFO]
-While there is no direct public statement from Meta or its leadership explicitly saying "we are ignoring HUDERIA," the alleged actions described in the user's prompt—and corroborated by news reports—are directly contrary to the principles and steps outlined in the HUDERIA framework. -- Gemini
+While there is no direct public statement from Meta or its leadership explicitly saying "we are ignoring HUDERIA," the alleged actions described in the user's prompt—and corroborated by news reports—are directly contrary to the principles and steps outlined in the HUDERIA framework. -- **Gemini**
 [/INFO]
 
 There is a good chance that they opted-in for another framework which can be very effectively summarised in this brief question below:
@@ -728,7 +728,7 @@ So, unless rhetorical debating is the ONLY activity, philosophy alone can provid
 
 Surprised? Not convinced? Read all the manuals you like about how to handle a sword and then try to do some high-technical moves with a sharp katana, and let us know how it went... 😁
 
-Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3e6f) with Gemini, or its [transcription](#TODO).
+Continue the reading here, in [conversation](https://g.co/gemini/share/481de2ca3e6f) with Gemini, or its [transcription](data/333-human-vs-ai-philosophy-study-critique-gemini.txt#?target=_blank).
 
 +
 
@@ -752,7 +752,7 @@ Sto preparando la terza edizione del mio articolo: How to leverage chatbots for 
 
 In questa terza parte si confrontano alcuni fra i più noti chatbots rispetto ad uno specifico task. Lo studio dei loro fallimenti non  è importante solo all'interno di quel contesto ma fa trasparire delle problematiche legate ANCHE alla sicurezza e alla privacy.
 
-Che per altro erano già state affrontate in altri due articoli, sia riguardo alle immagini, sia riguardo al concetto che "bad data" forniti in input (injection) o in training alle agli LLM (unsanitized, unreliable, etc.) comportino "bad decisions" sia da parte dell'AI e sia da parte degli umani che si affidano ad esso, quindi con potenzialmente gravi conseguenze. [TODO](#TODO)
+Che per altro erano già state affrontate in altri due articoli, sia riguardo alle immagini, sia riguardo al concetto che "bad data" forniti in input (injection) o in training alle agli LLM (unsanitized, unreliable, etc.) comportino "bad decisions" sia da parte dell'AI e sia da parte degli umani che si affidano ad esso, quindi con potenzialmente gravi conseguenze.
 
 Sia chiaro, l'intelligenza artificiale NON ha creato il problema, ma sta solo facendo emergere il problema, nei suoi vari aspetti, su come gli esseri umani gestiscono l'informazione e il processo decisionale. Infatti, in un altro articolo in cui si presentano casi particolari (e talvolta estremi) realmente avvenuti, il principio "human in the loop" è l'anello debole del processo decisionale.
 

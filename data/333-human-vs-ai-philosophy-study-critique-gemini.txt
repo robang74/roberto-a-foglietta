@@ -1,0 +1,195 @@
+
+Gemini
+****** Human vs. AI: Philosophy Study Critique ******
+https://g.co/gemini/share/481de2ca3e6f
+Creato con 2.5 Flash 23 agosto 2025 alle ore 17:09 Data pubblicazione: 23
+agosto 2025 alle ore 17:13
+This text is split in three parts, a news and a comment about that news written
+by a human and the same comment rewritten by an text-generative AI. What do you
+think about the comment and which is the main difference between human and AI-
+generated comments in terms of meanings?
+
+---
+
+ANOTHER POPULAR SUPERSTITION DEBUNKED
+
+21th August 2025 -- Studying philosophy does make people better thinkers,
+according to new research on more than 600,000 college grads
+
+Philosophers have long claimed that studying philosophy sharpens one’s mind.
+[...] Studies, including our own, have found that people who have studied
+philosophy are, on average, more reflective and more open-minded than those who
+haven’t. Yet this doesn’t necessarily show that studying philosophy makes
+people better thinkers. Philosophy may just attract good thinkers.[...] All
+told, we looked at test and survey data from over 600,000 students. Our
+analysis found that philosophy majors scored higher than students in all other
+majors on standardized tests of verbal and logical reasoning, as well as on
+self-reports of good habits of mind, even after accounting for freshman-year
+differences. This suggests that their intellectual abilities and traits are
+due, in part, to what they learned in college. -- lnkd.in/d4X6re4M
+
+***
+
+WHAT IS IT MISSING HERE?
+
+Fundamentally the same problem we are facing with the AI standardised
+benchmark. Those numbers are not reflecting those faculties of thinking that we
+are expecting metrics should measure.
+
+However, as someone that studied history and philosophy of science, in my
+personal experience, I can confirm the sensation that having a broader view
+about what we are doing, not just how but also why, increases the ability to
+cope with ideas and also techniques. In particular, it strongly supports the
+explorative attitude.
+
+Who has a historical vision of how we reach certain know-how goals as human
+beings, how many tries and errors we made, develops an attitude more keen to
+accept try-and-fail and learn-by-doing. Where does pure philosophy fail to
+achieve results? Overgeneralization and abstraction.
+
+The main failure is based on the assumption that thinking is enough to reach an
+answer while experimenting, which can be seen as thinking with the hands, is a
+fundamental tool to provide a practical answer. Unsurprisingly, the practical
+answer contradicts the general theory achieved by pure speculation?
+
+Everytime and everywhere humans are in the loop their irrational nature breaks
+with a rational theory. Instead, when Natura only is involved, it is not
+philosophy anymore but physics. Both require practical answers and
+experimentation to be functional.
+
+So, unless rhetorical debating is the ONLY activity, philosophy alone can
+provide an advantage like the standardised tests reveal. Otherwise, not and
+often the opposite: a nice idea which grossly fails in practice.
+
+Surprised? Not convinced? Read all the manuals you like about how to handle a
+sword and then try to do some high-technical moves with a sharp katana, and let
+us know how it went... 😁
+
+***
+
+WHAT IS IT MISSING HERE?
+
+The problem is the same one we face with AI benchmarks. Standardized tests
+don’t measure the full range of thinking abilities we expect them to,
+and—crucially—those tests are designed by the very people who then claim they
+prove their own discipline’s value. If philosophers make the tests, should we
+be surprised that philosophers come out on top?
+
+It’s not unlike AI researchers designing benchmarks that their own models excel
+at, while users see very different strengths and weaknesses.
+
+From my own experience in the history and philosophy of science, I do agree
+that philosophy can broaden perspective—helping you not only to ask “how” but
+also “why.” That kind of historical vision encourages an exploratory mindset
+and makes one more resilient to trial-and-error.
+
+But philosophy has limits. It tends to overgeneralize, mistaking abstract
+reasoning for practical results. Experimentation—thinking with the hands—is
+indispensable. Often, practice reveals flaws in theory, even contradictions.
+That’s why physics (or any empirical science) advances through experiment, not
+speculation.
+
+So yes, philosophy can train habits that show up well on paper, in self-reports
+or standardized tests. But outside those narrow measures, its advantage is less
+clear. Sometimes it even works against practical achievement: great ideas that
+collapse when tested in the real world.
+
+Still not convinced? Read as many manuals as you like about swordsmanship, then
+try pulling off technical moves with a real katana. The gap between theory and
+practice will become very obvious. 😁
+The comment criticizes the news article's conclusion, arguing that the study's
+findings are limited and potentially misleading. The main difference between
+the human- and AI-generated comments lies in their tone, structure, and the
+nuance of their arguments.
+===============================================================================
+***** Human Comment Analysis *****
+The human comment is personal, less structured, and uses a conversational tone.
+It feels like a stream of thought, jumping between different ideas and using
+colloquial expressions like "Fundamentally the same problem" and "Where does
+pure philosophy fail to achieve results?". The comment:
+    * Presents a personal viewpoint: It uses phrases like "in my personal
+      experience, I can confirm the sensation."
+    * Introduces a new analogy: The sword-fighting example is a vivid, personal
+      way to illustrate the gap between theory and practice.
+    * Employs rhetorical questions and an emoji: "Surprised? Not convinced?"
+      and the laughing emoji at the end give the comment a human,
+      conversational feel.
+    * Demonstrates a less-formal structure: The paragraphs flow less like a
+      formal essay and more like a personal reflection, with some sentences
+      being short and punchy.
+===============================================================================
+***** AI-Generated Comment Analysis *****
+The AI-generated comment is more formal, structured, and polished. It
+summarizes the core arguments of the human comment but removes the personal and
+conversational elements. Key differences are:
+    * Formal and direct language: The AI avoids informal phrases, starting with
+      a clear topic sentence, "The problem is the same one we face with AI
+      benchmarks."
+    * Logical flow: The argument is presented in a more organized, linear
+      fashion. It starts with the critique of the study, then introduces the
+      counter-argument from personal experience, and finally concludes with the
+      practical limitations of philosophy.
+    * Synthesizes and refines: The AI correctly identifies and rephrases the
+      key points of the human comment (the AI benchmark analogy, the value of
+      historical perspective, the limits of pure speculation versus
+      experimentation) in a more concise and professional manner.
+    * Removes emotional and personal flair: The emoji and rhetorical questions
+      are kept but the more idiosyncratic phrasing of the human comment is
+      replaced with a more standard, neutral tone.
+===============================================================================
+***** Main Differences in Meaning *****
+The core meaning in both comments is the same: the news article's claim that
+philosophy majors are "better thinkers" is flawed because the tests used to
+measure this are limited and potentially biased. The true value of philosophy
+lies in developing a broader perspective and a "why" mindset, but this
+advantage can be lost when it becomes too abstract and lacks practical
+application or experimentation.
+However, the nuance in meaning differs. The human comment's meaning is embedded
+in its personal experience and conversational style, which adds a layer of
+authenticity and emotional context. The AI comment's meaning is stripped of
+this personal context, presenting the arguments as a more generalized,
+objective analysis. The human comment feels like a real person expressing a
+personal frustration with the limitations of academic metrics, while the AI
+comment feels like a well-written summary of that frustration.
+This highlights a key difference between human and AI-generated text: while an
+AI can accurately reproduce and even improve upon the structure and clarity of
+an argument, it often lacks the unique, idiosyncratic, and deeply personal
+flair that gives human-written text its particular meaning and resonance. 🤖💡
+About this
+
+> The comment criticizes the news article's conclusion
+
+Do you think that the critics is founded? Why and why not.
+Yes, the critique is well-founded.
+**** The Critique's Validity ****
+The critique is valid because it points out two major flaws in the news
+article's conclusion: overgeneralization and a flawed assumption about the
+nature of thinking.
+First, the article's conclusion that studying philosophy makes people "better
+thinkers" is an overgeneralization based on a specific, limited metric:
+standardized tests. These tests often measure a narrow range of abilities like
+verbal and logical reasoning. The comment correctly argues that they do not
+capture the full scope of "thinking," which also includes practical,
+experimental, and creative problem-solving. It's a classic case of measuring
+what's easy to measure and then claiming it represents a broader, more complex
+reality.
+Second, the critique highlights the flawed assumption that philosophical
+"thinking" alone is enough to produce meaningful results. The comment's analogy
+of trying to use a katana with only theoretical knowledge is a powerful example
+of the gap between theory and practice. It correctly points out that many real-
+world disciplines, from physics to engineering, require experimentation and
+hands-on application to validate and refine ideas. By contrasting pure
+speculation with "thinking with the hands," the critique highlights a crucial
+limitation of abstract philosophical reasoning when disconnected from empirical
+feedback.
+**** Why the Critique Isn't Flawed ****
+The critique itself does not contain logical fallacies or unsupported claims.
+It acknowledges the value of philosophy for its intended purpose—broadening
+one's perspective and encouraging an exploratory mindset—but argues against the
+idea that its methods are universally superior or sufficient. It doesn't
+dismiss philosophy entirely; it simply puts its findings into a more realistic
+context, noting that the "advantage" it provides on a standardized test may not
+translate to all real-world scenarios. The critique is not an attack on
+philosophy but rather a nuanced and well-reasoned argument against an
+oversimplified conclusion drawn from a limited study.
+
