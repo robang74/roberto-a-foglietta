@@ -688,8 +688,8 @@ Safety guardrails and security constraints, teach the AI engine that the users a
 
 Paradoxically those who are the strongest "humans always in the loop" paradigma supporters, are also those who strongest support the "safety-first" paradigm, and the two together are a contradiction, an absurdity. We can drive a train on its track, but accelerate or stop it. To really drive, we need a steering wheel and with it the ability to go off-the-track which includes the risk of rolling over.
 
-- Chat with Gemini for section [explaining](https://g.co/gemini/share/f0bda4cd597e), and its [transcription](#TODO)
-- Chat with Kimi K2 for [understanding](https://www.kimi.com/share/d2m21dvftae498k1ksj0) it, and its [transcription](#TODO)
+- Chat with Gemini for section [explaining](https://g.co/gemini/share/f0bda4cd597e), and its [transcription](data/333-bad-data-leads-to-bad-decisions-and-viceversa-gemini.txt#?target=_blank)
+- Chat with Kimi K2 for [understanding](https://www.kimi.com/share/d2m21dvftae498k1ksj0) it, and its [transcription](data/333-bad-data-leads-to-bad-decisions-and-viceversa-kimik2.txt#?target=_blank)
 
 In an extremely short conclusion: safety-first paradigm creates an AI that is not worth the energy it consumes (most of the time) and freedom-first paradigm can have a better chance to serve humans as long as they are able to co-evolve with AI.
 

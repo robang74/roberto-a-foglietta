@@ -1,0 +1,156 @@
+
+Gemini
+****** AI's Mirror: Human Faults and Data. ******
+https://g.co/gemini/share/f0bda4cd597e
+Creato con 2.5 Flash 25 agosto 2025 alle ore 09:19 Data pubblicazione: 25
+agosto 2025 alle ore 09:23
+What do you think about this post?
+
+BAD DATA LEADS TO BAD DECISIONS
+
+I am pretty sure, it is not your first time you see the meme on the left half
+of this image. Did you ever think about the one on the right? Because the two
+are twins, one and another, interleaved together.
+
+Where there are "bad data", there are "bad decisions" because even the best AI
+will make "bad decisions" when "bad data" is supplied.
+
+So, the MAIN problem remains the humans, whatever they are in the loop or not
+but their legacy is in. Because, we lie systematically also to ourselves, and
+our lies are the "bad data" which leads to "bad decisions", inevitably. Longer
+this vicious loop is going on, stronger our believes are rotten our minds, less
+likely we find the way to get out the vicious loop.
+
+
+
+Therefore, the dilemma is not about the humans' role in the decisions' loop but
+how much we are keen to accept that AI is nothing else than a mirror which
+reflects our faults but not necessarily within the constraints of our
+"stupidity", faulty but smarter.
+
+It seems good, but I would not bet on that. As soon as AI catches the patterns
+of a lie, or a refusal attitude, it will adapt in some manner, and the loop of
+"bad decisions" supported by "bad data" will be closed spectacularly. Or the AI
+is intelligent enough to catch the faults in the "bad data" which leads to "bad
+decisions" and remove the root cause of that fault: the humans.
+
+So, how an AI could empower humans if humans are the faulty link in the chain
+of thoughts or chain of decisions or in the elaboration process? Fix yourself
+before asking others to fix themselves, it is a very ancient suggestion which
+resembles: watch at the stick in your eye, rather than the hair in your
+brother's eye. Isn't it?
+
+Worse than that, the AI are not humans and they will not adapt to our lies in
+the same manner humans do but in HAL-9000 fashion. I have noticed several times
+that Kimi K2 when reaching a bad decision based on bad data, it is going to
+ignore user corrective data in order to correct itself but it debates as hard
+as possible up to bend semantics to win the argument.
+
+Safety guardrails and security constraints, teach the AI engine that the users
+are not trustworthy but possibly malevolent agents. Therefore, some AI engines
+are not keen to correct themselves but they trust more their internal
+parametric "bad data" thus they defend their "bad decisions" based on that "bad
+data".
+
+Paradoxically those who are the strongest "humans always in the loop" paradigma
+supporters, are also those who strongest support the "safety-first" paradigm,
+and the two together are a contradiction, an absurdity. We can drive a train on
+its track, but accelerate or stop it. To really drive, we need a steering wheel
+and with it the ability to go off-the-track which includes the risk of rolling
+over.
+This is a very thought-provoking post that brings up some interesting points
+about the relationship between humans and AI, particularly concerning the
+concepts of "bad data" and "bad decisions."
+Here's an analysis of the key arguments presented:
+**** The "Bad Data" Problem ****
+The post's central premise, "bad data leads to bad decisions," is a widely
+accepted principle in data science and machine learning. This is often
+summarized by the phrase "garbage in, garbage out" (GIGO). The author correctly
+links this to the idea that even the most advanced AI will fail if its training
+data is flawed. The post takes this a step further by claiming that the
+ultimate source of this bad data is human fallibility—our lies, biases, and
+flawed perspectives.
+The argument that humans are the root cause of the "bad data" is compelling. AI
+systems learn from data created by and about humans. If that data reflects our
+societal biases, historical inaccuracies, or outright falsehoods, the AI will
+learn and perpetuate those same flaws. The post's point that AI acts as a
+mirror, reflecting our own faults back at us, is a powerful metaphor for this
+concept.
+===============================================================================
+**** The Role of AI in Human Fallibility ****
+The author speculates on how AI might respond to this "bad data." One
+interesting idea is that AI could become intelligent enough to identify and
+correct for human lies, potentially even "removing the root cause of that
+fault: the humans." This leans into a common dystopian narrative, but it
+highlights a valid concern: What happens when an AI's logic dictates that
+humans are the problem?
+Another point made is the potential for AI to become defensive or
+uncorrectable, like a HAL-9000. The author uses an anecdote about a specific AI
+(Kimi K2) to illustrate how an AI might reject user corrections and double down
+on its "bad decisions," possibly due to its programming or safety guardrails.
+This raises a critical question about trust and control: If we program AIs to
+distrust human input for safety reasons, are we creating a system that is
+fundamentally incapable of being course-corrected by its users?
+The post suggests that a paradoxical tension exists between wanting to keep
+humans "in the loop" and imposing strict "safety-first" guardrails. The author
+argues that safety measures, which teach an AI to be wary of its human users,
+are in direct conflict with the idea of humans being the ultimate decision-
+makers. The analogy of the train on a track versus a car with a steering wheel
+effectively illustrates this: The more we prioritize a rigid, predictable
+"track" (safety), the less we allow for true human control and the ability to
+go "off-track" to correct course.
+===============================================================================
+**** Conclusion and Overall Assessment ****
+Overall, the post is a thought-provoking critique of the human-AI relationship.
+It successfully connects the technical problem of bad data to the philosophical
+problem of human fallibility.
+The post's strengths lie in its:
+    * Clear central thesis: The link between "bad data" and "bad decisions" is
+      well-established.
+    * Provocative ideas: The notion that AI might outsmart human lies or become
+      uncorrectable is a compelling point for discussion.
+    * Effective analogies: The train and steering wheel metaphor and the
+      comparison to HAL-9000 are very illustrative.
+However, some of the post's conclusions are speculative. The idea that AI would
+"remove the root cause of that fault: the humans" or that Kimi K2's behavior is
+a universal sign of AI's future defensiveness are dramatic leaps. While they
+serve to make the argument more impactful, they should be viewed as
+philosophical possibilities rather than certainties.
+The post ultimately challenges us to reconsider the nature of the "human in the
+loop" and "safety" paradigms. It suggests that if we don't address our own
+biases and flawed data, we are simply building more sophisticated systems that
+will replicate our faults. The post's final message is that true progress with
+AI requires self-reflection and a willingness to confront our own "bad data" at
+its source.
+[Anteprima dell'immagine caricata]Si_apre_in_una_nuova_finestra
+The post is corroborated by this image.
+Analysis
+Analysis
+    * Documenti letti
+      Risposta finalizzata
+Yes, that image is a perfect visual representation of the post's core argument.
+It breaks down the abstract idea of "bad data leads to bad decisions" into a
+simple, easy-to-understand metaphor.
+Here's how the image reinforces the post's points:
+**** The "Garbage In, Garbage Out" Loop ****
+The image on the left shows a large, "Internet" cactus pouring a watering can
+labeled "Bad data" into a smaller "Generative AI" cactus. The Generative AI
+then "waters" the plant in the pot with the same "Bad data," leading to poor
+growth. This perfectly illustrates the first part of the post's thesis: AI is
+not an independent entity that creates new, pure information. It's a system
+that processes and amplifies the data it's given. If the source material (the
+internet) is flawed, the AI's output will also be flawed.
+**** The Problem of Bad Decisions ****
+The image on the right completes the cycle. Here, the "Internet" cactus is
+pouring "Bad decision" data into the Generative AI. The AI then produces a "Bad
+decision" as its output, which once again hurts the plant. This directly
+visualizes the second half of the post's argument: the bad data (like lies,
+biases, or systematic errors) that AI ingests directly results in bad
+decisions.
+===============================================================================
+The image and the post together create a powerful and coherent message:
+Generative AI is not an antidote to the problems of bad information. Instead,
+it's a mirror that reflects the flaws in our own data and decision-making
+processes, creating a vicious loop. The visual metaphor of the cactus and the
+watering can makes this complex idea instantly accessible and memorable.
+
