@@ -18,7 +18,9 @@
 
 ### Introduzione
 
-Questo meme, per altro condivisibile in generale, è stati diffuso per sostenere la necessità di mantenere intatto il secondo emendamento della Costituzione degli Stati Uniti d'America (4 March 1789) che garantisce il diritto dei cittadini di detenere e portare armi.
+- scritta a partire dal [post #1](https://www.linkedin.com/posts/robertofoglietta_dostoevsky-would-have-agreed-with-spock-activity-7376032747376586752-pmfY) pubblicato su LinkedIn una settimana prima, circa.
+
+Questo meme, per altro condivisibile in generale, è stato diffuso per sostenere la necessità di mantenere intatto il secondo emendamento della Costituzione degli Stati Uniti d'America (4 March 1789) che garantisce il diritto dei cittadini di detenere e portare armi.
 
 - I reject the belief that I must to be **defenseless** in order for you to feel **safe**.
 - Rigetto la convinzione che io debba essere **indifeso** per farti sentire al **sicuro**.
@@ -55,7 +57,7 @@ Infatti i criminali, quelli veri, quando temono di essere identificati e quindi 
 
 Anche questo aspetto dell'anonimato su Internet rientra nell'ambito della politica e quindi della propaganda. Il motivo specifico sarà spiegato nel proseguo di questo articolo, e ci sarà una link che riporta qui. In sintesi, l'anonimato su Internet in Italia è una questione politica almeno dal 2008, perché se critichi un ministro e lo fai con molta cognizione di causa, non è reato. Però il ministro potrebbe convincere il CEO della tua azienda a licenziarti.
 
-Perciò si afferma che l'anonimato su Internet è indispensabile per il dibattito democratico e da parte opposta si afferma che proteggerebbe i pedofili (cfr. [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7)). Ma i criminali per finalizzare il loro intento devono necessariamente esporsi: incontrare la vittima, incassare il denaro, etc.
+Perciò si afferma che l'anonimato su Internet è indispensabile per il dibattito democratico e da parte opposta si afferma che proteggerebbe i pedofili (cfr. [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) o suo [dump](data/339-introduzione-alla-politica-concetti-di-base-lkdnpost-n2.txt#?target=_blank)). Ma i criminali per finalizzare il loro intento devono necessariamente esporsi: incontrare la vittima, incassare il denaro, etc.
 
 Non potrebbero mai nascondersi all'ombra di un personaggio fantomatico come Kattivik oppure dietro un'AI super-intelligente. Anzi, quello è il modo in cui il "sistema" riesce a fare ghosting delle persone scomode, quando non riesce a distruggere la loro reputazione e la loro carriera.
 
