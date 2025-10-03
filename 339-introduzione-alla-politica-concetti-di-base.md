@@ -150,7 +150,7 @@ Perciò Gaza è solo un pretesto per scatenare la violenza, sempre assurda e irr
 
 ### Lo scandalo delle statiche manipolate
 
-- sezione scritta a partire dal [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t) pubblicato su LinkedIn lo stesso giorno. Fa riferimento al discorso registrato in questo [video](https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F806567755662149%2F&show_text=false&width=382&t=0) in cui una parlamentare del M5S accusa il governo Meloni di truffa sulle statistiche manipolate relative alle liste d'attesa dei CUP.
+- sezione scritta a partire dal [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t) pubblicato su LinkedIn lo stesso giorno. Fa riferimento al discorso registrato in questo [video](https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F806567755662149%2F&show_text=false&width=382&t=0) in cui una parlamentare del M5S accusa il governo Meloni di truffa sulle statistiche manipolate relative alle liste d'attesa dei CUP. <!--// Video salvato su youtube https://youtube.com/shorts/aeKRIgLvqS8 //-->
 
 Il discorso è ben presentato, ben documentato e supportato. Fantastico, peccato a un certo punto confonde la mediana (indicatore statistico "robusto", termine tecnico, non aggettivo a dizionario) con la media. Perché chi confonde questi due concetti **npn** è in grado di comprendere quello che sta spiegando. Nulla di sbagliato, qualcuno ha fatto un ottimo lavoro di analisi e di trasferimento di nozioni.
 
@@ -184,7 +184,7 @@ Già lo diceva già Asimov, con altre  parole che possiamo assumere in: la democ
 
 Gli eventi e le personalità coinvolte nello scandalo delle statistiche alterate riguardo alle liste di attesa dei servizi sanitari erogati tramite strutture pubbliche e private sono presentati da questa ricerca fatta da Perplexity AI sulla stampa mainstream.
 
-- La [press review](https://www.perplexity.ai/search/statistiche-sanitarie-cinque-s-As4Z9pIsTbWFBclMRIKtWw#3) a cura di Perplexity AI e relativa [trascrizione](#TODO)
+- La [press review](https://www.perplexity.ai/search/statistiche-sanitarie-cinque-s-As4Z9pIsTbWFBclMRIKtWw#0) a cura di Perplexity AI e relativa [trascrizione](data/339-statistiche-sanitarie-manipolate-press-review-perplexity.txt#?target=_blank)
 
 Quanto possa essere affidabile Perplexity AI e la stampa mainstream non è un dettaglio trascurabile anche considerando che ormai le notizie online vengono confezionate sapendo che saranno oggetto di elaborazione da parte dell'intelligenza artificiale. In questo specifico caso, le regioni sono state richiamate dal ministro però le statistiche sono nazionali e quindi c'è qualcosa che non quadra.
 
@@ -255,7 +255,7 @@ L'ignoranza della gente da una parte e la politica di raccattare voti con slogan
 
 ### La complessità del mondo moderno richiede perparazione
 
-- chat di [valutazione](https://chatgpt.com/share/68d55e4e-127c-8012-a13f-21eb24cf1522) del [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) con ChatGPT e sua [trascrizione](#TODO)
+- chat di [valutazione](https://chatgpt.com/share/68d55e4e-127c-8012-a13f-21eb24cf1522) del [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) con ChatGPT e sua [trascrizione](data/339-polizia-postale-uso-ai-contrasto-pedofilia-online-chatgpt.txt#?target=_blank)
 
 Sicché, la vera guerra alla pedofilia intesa come abuso di minori si fa a con l'educazione sessuale ed emotiva a scuola come materia obbligatoria. In maniera
 che fin da piccoli bambini/e imparino quali sono i comportamenti abusivi e come/a chi possano segnalarli. In questo contesto, la politica crea solo ostacoli perché da una parte sparge confusione su cosa sia educare a rapportarsi correttamente con gli altri, travisandola come se si trattasse di studiare il kamasutra alle elementari.
