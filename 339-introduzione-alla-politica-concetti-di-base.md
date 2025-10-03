@@ -15,6 +15,7 @@
     [post #6](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379912578736660481-kzl1) &nbsp; 
 </li>
 
+
 ---
 
 ### Introduzione
@@ -114,9 +115,9 @@ L'alternanza nei ruoli, ottima cosa per imparare a relazionarsi con diversi aspe
 
 Questo modello di autoarchia, tipico delle prime fasi di sviluppo delle civiltà, si differenzia dal diritto di nascita (e.g. sono intelligente quindi goveno, sono il re quindi governo) perché l'insegnamento e la condivisione delle capacità abilitante era offerto a tutti, ma nonostante questo non tutti entravano a far parte dell'elitè che di fatto governava il gruppo.
 
-Lo schema di governo era analogo a quello degli scout al campo, dove non esiste il capo che comanda ma piuttosto il capo che guida e spiega che le pentole sono sporche, che a lavarle ci vanno gli scout perché lui lo ha fatto a suo tempo e ora tocca a loro, che potrebbero anche non farlo ma gli scarti di cibo diventano rancidi e domani la razione farà più schifo di oggi, se già fosse stato possibile. Quindi il capo organizza l'attività e gli scout la eseguono.
+Lo schema di governo era analogo a quello degli scout al campo, dove non esiste il capo che comanda ma piuttosto il capo che guida e spiega che le pentole sono sporche, che a lavarle ci vanno gli scout perché lui lo ha fatto a suo tempo e ora tocca a loro, che potrebbero anche non farlo ma gli scarti di cibo diventano rancidi e domani la razione di rancio farà più schifo di oggi, se già fosse stato possibile. Quindi il capo organizza l'attività e gli scout la eseguono.
 
-Nulla di trascendentale, insomma. Però per quelli *nati e cresciuti nell'urbe* non era ovvio.
+Nulla di trascendentale, insomma. Però per quelli *nati e cresciuti nell'urbe* non era/é ovvio.
 
 ---
 
@@ -178,11 +179,39 @@ Già lo diceva già Asimov, con altre  parole che possiamo assumere in: la democ
 
 Gli eventi e le personalità coinvolte nello scandalo delle statistiche alterate riguardo alle liste di attesa dei servizi sanitari erogati tramite strutture pubbliche e private sono presentati da questa ricerca fatta da Perplexity AI sulla stampa mainstream.
 
-=-> https://lnkd.in/dQZPQStc (press review)
+- La [press review](https://www.perplexity.ai/search/statistiche-sanitarie-cinque-s-As4Z9pIsTbWFBclMRIKtWw#3) a cura di Perplexity AI e relativa [trascrizione](#TODO)
 
 Quanto possa essere affidabile Perplexity AI e la stampa mainstream non è un dettaglio trascurabile anche considerando che ormai le notizie online vengono confezionate sapendo che saranno oggetto di elaborazione da parte dell'intelligenza artificiale. In questo specifico caso, le regioni sono state richiamate dal ministro però le statistiche sono nazionali e quindi c'è qualcosa che non quadra.
 
 Infatti, secondo il Ministro della Salute, sarebbero le regioni ad essere sotto accusa per questa manipolazione dei dati ma le statistiche sono nazionali, il che ci porta a concludere che tutte le regioni hanno adottato contemporaneamente lo stesso "peculiare" standard di comunicazione dei dati oppure il problema è da ricercarsi invece nell'amministrazione centrale.
+
+---
+
+### La crisi di bilancio di AMT Genova
+
+- sezione scritta a partire dal [post #3](https://www.linkedin.com/posts/robertofoglietta_2025-10-02-crisi-amt-salis-ecco-a-quanto-activity-7379572560696524800-_Afs) pubblicato su LinkedIn lo stesso giorno.
+
+[!INFO]
+2025-10-02 -- Crisi AMT, Salis: ecco a quanto ammonta il buco di bilancio. Quella che è stata rilevata "è la perdita maggiore della storia di Amt" così la sindaca di Genova Silvia Salis ha aperto la conferenza stampa indetta per fare il punto sulla situazione dell'azienda di trasporto pubblico locale dell'area metropolitana di Genova. Una perdita netta che per al 31 agosto 2025 si aggira intorno ai 25 milioni, cifra che si somma a quella già registrata per il 2024 che, spiega Salis, è compresa tra i 46 e 74 milioni di euro. -- [Primo Canale](https://www.primocanale.it/attualit%C3%A0/58801-amt-genova-salis-crisi-aziendale-tariffe-isee.html)
+[/INFO]
+
+Che AMT fosse in perdita si sapeva. Può essere tanto, certamente non è poco. Però €25 milioni sono meno di €42 a testa. Perchè Genova serve anche l'area metropolitana che conta 820K abitanti (ma il servizio non a copertura completa quindi sarebbe fuori luogo usare quel numero).
+
+Il costo di un abbonamento mensile di AMT è di €48. Quindi si tratta di un buco che si può coprire riducendo l'abbonamento mensile a 4 settimane e quindi si avrebbero 13 "mensilità". Una tecnica di up-selling che usavano anche le compagnie telefoniche con le prepagate mobili.
+
+La parte invece MOLTO grave è il buco al 2024. Anche in questo caso, la gravità non strettamente legata al volume del deficit ma alla sua incertezza. Perché fra €46 milioni e €74 milioni, c'è un fattore 1.6x e per fare un paragone è come andare dal salumerie chiedere 5 etti scarsi e ritrovarsi sulla bilancia 7 etti abbondanti: che faccio lascio?
+
+Con la differenza sostanziale che non parliamo di etti di prosciutto ma di decine milioni che "vorticano" nell'incertezza all'interno di un bilancio di un ente pubblico che già per sua natura dovrebbe essere un esempio di trasparenza e sapiente gestione.
+
+Perché non è tanto per il denaro, ma per il messaggio e con AMT siamo di fronte chiaramente ad un messaggio inquietante: non hanno la più pallida idea di cosa sia un bilancio e che fine facciano decine di milioni. Ma in effetti perché se ne dovrebbero preoccupare?
+
+Fanno un buco, boh di TOT oppure di 1.6x TOT ma alla fine "qualcuno" pagherà, no? Mica si può rimanere senza mezzi pubblici. Ecco, questo concetto di "qualcuno" pagherà va avanti da decenni, in tutte le pubbliche amministrazione, centrali e locali. Le privatizzazione NON hanna funzionato e basta citare il Ponte Morandi, dopo il cui crollo ci siamo ricomprati a prezzi di "mercato" un'azienda ceduta al "ribasso" che ha fatto utili risparmiando sulla manutenzione.
+
+Allora, bene hanno fatto quei due milioni di giovani che nel 2021-22 si sono dimessi e avranno fatto fagotto per trasferirsi all'estero. Perché appare chiaro che la Salis è l'ultima arrivata ma non sarà certo lei a cambiare le cose. Evidentemente quindi NON è rilevante chi si pavoneggia sul palco, ma il sistema dietro le quinte che è mandato avanti da pirati fatti e finiti.
+
+- [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
+
+Inutile che vi spieghi cosa facevano i genovesi ai pirati, lo abbiamo dimenticato o forse non siamo più "quei" genovesi di una volta ai quali si rivolsero anche gli inglesi che pure avevano una potente flotta in mare e anche Milano per la difesa della città, infatti la bandiera di San Giorgio sventola ancora su Londra come su Milano.
 
 +
 
