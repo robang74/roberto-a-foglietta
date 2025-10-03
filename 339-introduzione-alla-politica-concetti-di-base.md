@@ -6,15 +6,14 @@
 
 ## Introduzione alla politica, concetti di base
 
-**1st edition**, articolo scritto a partire da una serie di miei post su LinkedIn:<br><li>
-    [post #1](https://www.linkedin.com/posts/robertofoglietta_dostoevsky-would-have-agreed-with-spock-activity-7376032747376586752-pmfY) &nbsp; 
-    [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) &nbsp; 
-    [post #3](https://www.linkedin.com/posts/robertofoglietta_2025-10-02-crisi-amt-salis-ecco-a-quanto-activity-7379572560696524800-_Afs) &nbsp; 
-    [post #4](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379779374302183424-DyaR) &nbsp; 
-    [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t) &nbsp; 
-    [post #6](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379912578736660481-kzl1) &nbsp; 
-</li>
-
+- **1st edition**, articolo scritto a partire da una serie di miei post su LinkedIn:<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    [post #1](https://www.linkedin.com/posts/robertofoglietta_dostoevsky-would-have-agreed-with-spock-activity-7376032747376586752-pmfY)&nbsp; -- &nbsp;
+    [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7)&nbsp; -- &nbsp;
+    [post #3](https://www.linkedin.com/posts/robertofoglietta_2025-10-02-crisi-amt-salis-ecco-a-quanto-activity-7379572560696524800-_Afs)&nbsp; -- &nbsp;
+    [post #4](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379779374302183424-DyaR)&nbsp; -- &nbsp;
+    [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t)&nbsp; -- &nbsp;
+    [post #6](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379912578736660481-kzl1)
 
 ---
 
@@ -107,7 +106,7 @@ Il dibattito fra i soci era se a "governare" (ma potremmo sostituire a questo ve
 
 Considerando che si trattava di un'associazione i cui i numeri non hanno mai superato quello di un piccolo villaggio di pescatori o di selvaggi nella Jungla, considerato che usare Linux non era affatto facile, come non lo sarebbero stato pescare o andare a caccia di antilopi, considerato che la democrazia si esprime mediante il voto ma se la base votante è minuscola, il voto si indirizza facilmente, e alla fine ha sempre prevalso il concetto di democrazia dell'antica Grecia:
 
-- chi fa, decide. Ovvero [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
+- **Chi fa, decide**. Ovvero [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
 
 Anticipare il fare al decidere, premia necessariamente il merito perché chi fa schifo non ha alcuna chance così come chi non fa nulla, e di conseguenza le elezioni premiano costantemente un relativamente piccolo numero di soci (la c.d. elitè) che di fatto costituisce il potere in quanto {capaci, preparati, intelligenti} semplicemente perché queste caratteristiche sono abilitanti per il fare, e senza il fare non c'e decidere.
 
@@ -118,6 +117,12 @@ Questo modello di autoarchia, tipico delle prime fasi di sviluppo delle civiltà
 Lo schema di governo era analogo a quello degli scout al campo, dove non esiste il capo che comanda ma piuttosto il capo che guida e spiega che le pentole sono sporche, che a lavarle ci vanno gli scout perché lui lo ha fatto a suo tempo e ora tocca a loro, che potrebbero anche non farlo ma gli scarti di cibo diventano rancidi e domani la razione di rancio farà più schifo di oggi, se già fosse stato possibile. Quindi il capo organizza l'attività e gli scout la eseguono.
 
 Nulla di trascendentale, insomma. Però per quelli *nati e cresciuti nell'urbe* non era/é ovvio.
+
+> [!WARNING]
+> 
+> Giusto per completezza, gli scout veri sono quelli vestiti di verde che si rifanno ai principi dello scoutismo di Banden Powell, quelli AGESCI che sono vestiti in blu e più diffusi in Italia grazie al supporto delle parrocchie sono un'abberrazione ideologica rispetto all'originale, sebbene alcuni elementi siano in comune ad entrambi.
+> 
+> Ciò andava detto, casomai a qualcuno saltasse in mente che il cerchio magico di Renzi & Co. avesse mai potuto avere una qualche chance di buon governo. Perché è inutile girarci attorno, per coloro ai quali manca una solida base del pensiero scientifico, la realtà rimane un aspetto ingestibile e la realtà **non** è qualcosa che si possa ignorare tout-court.
 
 ---
 
@@ -192,7 +197,8 @@ Infatti, secondo il Ministro della Salute, sarebbero le regioni ad essere sotto 
 - sezione scritta a partire dal [post #3](https://www.linkedin.com/posts/robertofoglietta_2025-10-02-crisi-amt-salis-ecco-a-quanto-activity-7379572560696524800-_Afs) pubblicato su LinkedIn lo stesso giorno.
 
 [!INFO]
-2025-10-02 -- Crisi AMT, Salis: ecco a quanto ammonta il buco di bilancio. Quella che è stata rilevata "è la perdita maggiore della storia di Amt" così la sindaca di Genova Silvia Salis ha aperto la conferenza stampa indetta per fare il punto sulla situazione dell'azienda di trasporto pubblico locale dell'area metropolitana di Genova. Una perdita netta che per al 31 agosto 2025 si aggira intorno ai 25 milioni, cifra che si somma a quella già registrata per il 2024 che, spiega Salis, è compresa tra i 46 e 74 milioni di euro. -- [Primo Canale](https://www.primocanale.it/attualit%C3%A0/58801-amt-genova-salis-crisi-aziendale-tariffe-isee.html)
+2025-10-02 -- Crisi AMT, Silvia Salis: "ecco a quanto ammonta il buco di bilancio". Quella che è stata rilevata "è la perdita maggiore della storia di AMT" così la sindaca di Genova ha aperto la conferenza stampa indetta per fare il punto sulla situazione dell'azienda di trasporto pubblico locale dell'area metropolitana di Genova. Una perdita netta che per al 31 agosto 2025 si aggira intorno ai 25 milioni, cifra che si somma a quella già registrata per il 2024 che, spiega Salis, è compresa tra i 46 e 74 milioni.
+ -- [Primo Canale](https://www.primocanale.it/attualit%C3%A0/58801-amt-genova-salis-crisi-aziendale-tariffe-isee.html)
 [/INFO]
 
 Che AMT fosse in perdita si sapeva. Può essere tanto, certamente non è poco. Però €25 milioni sono meno di €42 a testa. Perchè Genova serve anche l'area metropolitana che conta 820K abitanti (ma il servizio non a copertura completa quindi sarebbe fuori luogo usare quel numero).
@@ -200,6 +206,10 @@ Che AMT fosse in perdita si sapeva. Può essere tanto, certamente non è poco. P
 Il costo di un abbonamento mensile di AMT è di €48. Quindi si tratta di un buco che si può coprire riducendo l'abbonamento mensile a 4 settimane e quindi si avrebbero 13 "mensilità". Una tecnica di up-selling che usavano anche le compagnie telefoniche con le prepagate mobili.
 
 La parte invece MOLTO grave è il buco al 2024. Anche in questo caso, la gravità non strettamente legata al volume del deficit ma alla sua incertezza. Perché fra €46 milioni e €74 milioni, c'è un fattore 1.6x e per fare un paragone è come andare dal salumerie chiedere 5 etti scarsi e ritrovarsi sulla bilancia 7 etti abbondanti: che faccio lascio?
+
+---
+
+### Se manca la guida, i giovani fuggono
 
 Con la differenza sostanziale che non parliamo di etti di prosciutto ma di decine milioni che "vorticano" nell'incertezza all'interno di un bilancio di un ente pubblico che già per sua natura dovrebbe essere un esempio di trasparenza e sapiente gestione.
 
@@ -212,10 +222,6 @@ Allora, bene hanno fatto quei due milioni di giovani che nel 2021-22 si sono dim
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
 
 Inutile che vi spieghi cosa facevano i genovesi ai pirati, lo abbiamo dimenticato o forse non siamo più "quei" genovesi di una volta ai quali si rivolsero anche gli inglesi che pure avevano una potente flotta in mare e anche Milano per la difesa della città, infatti la bandiera di San Giorgio sventola ancora su Londra come su Milano.
-
-+
-
-<hr><center>**WORKING IN PROGRESS, BE PATIENT**</center><hr>
 
 +
 
