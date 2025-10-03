@@ -148,7 +148,7 @@ Perciò Gaza è solo un pretesto per scatenare la violenza, sempre assurda e irr
 
 ---
 
-### Lo scandalo delle statiche manipolate
+### Lo scandalo delle statistiche manipolate
 
 - sezione scritta a partire dal [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t) pubblicato su LinkedIn lo stesso giorno. Fa riferimento al discorso registrato in questo [video](https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F806567755662149%2F&show_text=false&width=382&t=0) in cui una parlamentare del M5S accusa il governo Meloni di truffa sulle statistiche manipolate relative alle liste d'attesa dei CUP. <!--// Video salvato su youtube https://youtube.com/shorts/aeKRIgLvqS8 //-->
 
@@ -275,7 +275,7 @@ Nel progredire in questo articolo sono stati considerati diversi casi, molto div
 
 Abbiamo abdicato all'intelligenza e abbiamo fatto guerra alla realtà. Questo fino al 2019, poi se andiamo ad includere anche il collasso della ragione dalla pandemia di Covid-19 in poi, arriviamo alla conclusione che abbiamo fatto guerra all'intelligenza in uno stato di completa alienazione dalla realtà. Evidentemente ci siamo crogiolati nella nostra ignoranza bigotta e fiera per poi essere vittime di un devastante attacco psicologico di massa.
 
-Purtroppo, ricordandoci di Cambridge Analytica, è assolutamente fondato dover prendere in cosiderazione che è un insider-job, qualcosa di estremamente masochista e terribilmente stupido che ci siamo fatti noi a noi stessi. In questo assurdo delirio che fonda le sue radici nel 2001, abbiamo perso una generazione intera e ovviamente questa perdita ci ha messo in condizioni di estrema debolezza rispetto alla Cina, all'India e alla Russia.
+Purtroppo, ricordandoci di Cambridge Analytica, è assolutamente fondato dover prendere in considerazione che è un inside-job, qualcosa di estremamente masochista e terribilmente stupido che ci siamo fatti noi a noi stessi. In questo assurdo delirio che fonda le sue radici nel 2001, abbiamo perso una generazione intera e ovviamente questa perdita ci ha messo in condizioni di estrema debolezza rispetto alla Cina, all'India e alla Russia.
 
 L'idea quindi di finire a dover celebrare un secondo processo in stile Norimberga, non è bizzarra, anzi tutt'altro. Nella migliore delle ipotesi la sostanziale differenza rispetto alla fine della seconda guerra mondiale sarà che avremo la possibilità di giudicare, anche per alto tradimento, i capi degli stati europei che hanno permesso tutto questo. Nicolas Sarkozy, in galera ci è finito [2025-09-25](https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial), per esempio. Il tabù si è già spezzato.
 
