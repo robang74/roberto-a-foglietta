@@ -28,7 +28,7 @@ Questo meme, per altro condivisibile in generale, è stato diffuso per sostenere
 
 A prescindere che siate d'accordo o meno con quel principio espresso da una costituzione scritta più di due secoli fa, è importante osservare come attraverso la diffusione di meme si possa radicare o sradicare delle convinzioni generali per ottenere un risultato specifico.
 
-Si tratta di una cosa interessante sopratutto perché chi gioca a questo gioco NON ha la più pallida idea delle conseguenze generali di un simile inquinamento della cultura (o delle credenze) della gente. In questo caso, però sono quasi tutte positive le diverse declinazioni.
+Si tratta di una cosa interessante soprattutto perché chi gioca a questo gioco NON ha la più pallida idea delle conseguenze generali di un simile inquinamento della cultura (o delle credenze) della gente. In questo caso, però, sono quasi tutte positive le diverse declinazioni.
 
 - Rigetto la convinzione che io debba essere **povero** per farti sentire **ricco**.
 - Rigetto la convinzione che io debba essere **stupido** per farti sentire **furbo**.
@@ -36,7 +36,7 @@ Si tratta di una cosa interessante sopratutto perché chi gioca a questo gioco N
 
 Mentre la prima è una questione che si potrebbe dibattere all'infinito perché in effetti in Svizzera ci sono più armi, anche fucili automatici, pro-capite di quanto non ve ne siano in USA ma il tasso di omicidi e quello delle sparatorie è prossimo allo zero quasi assoluto.
 
-Dagli altri casi però possiamo trarre delle lezioni molto importanti, sopratutto per quanto riguarda la percezione della società e di come vorremmo che fosse. Perché in tutti questi casi, anche nel primo con le dovute distinzioni, è sempre lo stesso: chi non riesce a migliorare la sua condizione in termini assoluti cerca di peggiorare quella degli altri in maniera che il miglioramento sia relativo.
+Dagli altri casi però possiamo trarre delle lezioni molto importanti, soprattutto per quanto riguarda la percezione della società e di come vorremmo che fosse. Perché in tutti questi casi, anche nel primo con le dovute distinzioni, è sempre lo stesso: chi non riesce a migliorare la sua condizione in termini assoluti cerca di peggiorare quella degli altri in maniera che il miglioramento sia relativo.
 
 Proseguendo su questa strada, si scopre il motivo principale per cui la nostra società sembra così distopica e la nostra civiltà stia collassando. Tuttavia, il significato generale era già stato spiegato molto prima: *la tolleranza raggiungerà un livello tale che alle persone intelligenti sarà vietato pensare per non offendere gli imbecilli*.
 
@@ -46,7 +46,7 @@ Una citazione solitamente attribuita a Dostoevskij, ma più probabilmente è di 
 
 ### L'anonimato su Internet
 
-Perché l'animato su Internet è un altro di quei concetti che si vorebbero eliminare, non solo da Internet, ma dalla testa delle persone: 
+Perché l'anonimato su Internet è un altro di quei concetti che si vorrebbero eliminare, non solo da Internet, ma dalla testa delle persone: 
 
 - Se ti nascondi nell'anonimato, è perché sei un criminale.
 
@@ -54,17 +54,17 @@ Un'affermazione tanto vera quanto l'alternativa:
 
 - L'anonimato non è nascondersi, ma evitare i tanti pirla.
 
-Infatti i criminali, quelli veri, quando temono di essere identificati e quindi arrestati, usano documenti o identità false. Proprio perché l'anonimato **non** nascondersi e per nascondersi occorre porre qualcosa fra il sè e chi cerca.
+Infatti i criminali, quelli veri, quando temono di essere identificati e quindi arrestati, usano documenti o identità false. Proprio perché l'anonimato **non** nascondersi e per nascondersi occorre porre qualcosa fra il sé e chi cerca.
 
-Anche questo aspetto dell'anonimato su Internet rientra nell'ambito della politica e quindi della propaganda. Il motivo specifico sarà spiegato nel proseguo di questo articolo, e ci sarà una link che riporta qui. In sintesi, l'anonimato su Internet in Italia è una questione politica almeno dal 2008, perché se critichi un ministro e lo fai con molta cognizione di causa, non è reato. Però il ministro potrebbe convincere il CEO della tua azienda a licenziarti.
+Anche questo aspetto dell'anonimato su Internet rientra nell'ambito della politica e quindi della propaganda. Il motivo specifico sarà spiegato nel prosieguo di questo articolo, e ci sarà una link che riporta qui. In sintesi, l'anonimato su Internet in Italia è una questione politica almeno dal 2008, perché se critichi un ministro e lo fai con molta cognizione di causa, non è reato. Però il ministro potrebbe convincere il CEO della tua azienda a licenziarti.
 
 Perciò si afferma che l'anonimato su Internet è indispensabile per il dibattito democratico e da parte opposta si afferma che proteggerebbe i pedofili (cfr. [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) o suo [dump](data/339-introduzione-alla-politica-concetti-di-base-lkdnpost-n2.txt#?target=_blank)). Ma i criminali per finalizzare il loro intento devono necessariamente esporsi: incontrare la vittima, incassare il denaro, etc.
 
-Non potrebbero mai nascondersi all'ombra di un personaggio fantomatico come Kattivik oppure dietro un'AI super-intelligente. Anzi, quello è il modo in cui il "sistema" riesce a fare ghosting delle persone scomode, quando non riesce a distruggere la loro reputazione e la loro carriera.
+Non potrebbero mai nascondersi all'ombra di un personaggio fantomatico come Cattivik oppure dietro un'AI super-intelligente. Anzi, quello è il modo in cui il "sistema" riesce a fare ghosting delle persone scomode, quando non riesce a distruggere la loro reputazione e la loro carriera.
 
-Sicché, il "sistema" (inteso coma la colletività di tutti coloro che, non solo godono dei vantaggi dello status-quo, ma che li determinano anche, o per lo meno ci provano o vorrebbero farlo, incluso quello che gli americani chiamano deepstate) **non** vuole l'anonimato su Internet ma lo impone per ghostare gli indesiderati più determinati e capaci.
+Sicché, il "sistema" (inteso coma la collettività di tutti coloro che, non solo godono dei vantaggi dello status-quo, ma che li determinano anche, o per lo meno ci provano o vorrebbero farlo, incluso quello che gli americani chiamano deepstate) **non** vuole l'anonimato su Internet ma lo impone per ghostare gli indesiderati più determinati e capaci.
 
-Paradossalmente dando loro un potere ancora più radicale dell'anonimato per mancanza di identificazione, l'anonimato di Stato. In pratica, si diventa agenti segreti! Ovvero, il "sistema" si rifiuta di ammettere l'esistenza stessa (o la causalità fra azioni ed eventi) di agenti c.d. non allineati. Il faraone **non** deve sapere che gli scribi sanno calcolare le eclissi ma non generale, e **non** deve sapere che qualcuno sa far volare acquiloni.
+Paradossalmente dando loro un potere ancora più radicale dell'anonimato per mancanza di identificazione, l'anonimato di Stato. In pratica, si diventa agenti segreti! Ovvero, il "sistema" si rifiuta di ammettere l'esistenza stessa (o la causalità fra azioni ed eventi) di agenti c.d. non allineati. Il faraone **non** deve sapere che gli scribi sanno calcolare le eclissi ma non generale, e **non** deve sapere che qualcuno sa far volare aquiloni.
 
 Altrimenti l'illusione del controllo diventa evidente, come un trucco di prestigio che viene svelato.
 
@@ -98,21 +98,21 @@ Risultato finale? La più alta concentrazione di skill tecnici in ambito Linux E
 
 ### L'origine dell'autorità del potere
 
-Ho citato questo caso perché è uno di quelli che più di altri ho avuto modo di osservare dall'interno, essendo stato il primo fondatore di quel gruppo (tessare sociale #1), anche se non fui il primo presidente per decisione del primo consiglio dell'associazione e in fondo quella tradizione di alternarsi ai vertici ha proseguito per l'intera esistenza del gruppo. Sicché, a posterirori, sarebbe arduo affermare che la fondazione fosse stato un evento insolito rispetto alla vita associativa.
+Ho citato questo caso perché è uno di quelli che più di altri ho avuto modo di osservare dall'interno, essendo stato il primo fondatore di quel gruppo (tessera sociale #1), anche se non fui il primo presidente per decisione del primo consiglio dell'associazione e in fondo quella tradizione di alternarsi ai vertici ha proseguito per l'intera esistenza del gruppo. Sicché, a posteriori, sarebbe arduo affermare che la fondazione fosse stato un evento insolito rispetto alla vita associativa.
 
-Nell'arco del tempo il dibattito, come in tutti i dibattitici di natura politica, è sempre stato incentrato su chi detenesse il potere e da quale autorità traesse questo potere. Questo **non** era ovvio all'inizio ma con il crescere dell'associazione, delle sue attività e quindi della notorietà è emerso. Più a causa degli ultimi arrivati che dei soci storici, però questo dibattito sebbene in forme embrionali esisteva anche dal principio della fondazione.
+Nell'arco del tempo il dibattito, come in tutti i dibattiti di natura politica, è sempre stato incentrato su chi detenesse il potere e da quale autorità traesse questo potere. Questo **non** era ovvio all'inizio ma con il crescere dell'associazione, delle sue attività e quindi della notorietà è emerso. Più a causa degli ultimi arrivati che dei soci storici, però questo dibattito sebbene in forme embrionali esisteva anche dal principio della fondazione.
 
-Il dibattito fra i soci era se a "governare" (ma potremmo sostituire a questo verbo una qualsiasi azione o ruolo o titolo) dovessero essere quelli "intelligenti" (ma potremmo sostituire a questo aggettivo un altro qualsisi relativo al merito, come "capaci" o "preparati") oppure se, invece, fosse la democrazia a dover determinare la struttura di governo. La democrazia, che avrebbe garantito alternanza (che invece c'era comunque) ed evitato l'arroganza di quelli "superiori".
+Il dibattito fra i soci era se a "governare" (ma potremmo sostituire a questo verbo una qualsiasi azione o ruolo o titolo) dovessero essere quelli "intelligenti" (ma potremmo sostituire a questo aggettivo un altro qualsiasi relativo al merito, come "capaci" o "preparati") oppure se, invece, fosse la democrazia a dover determinare la struttura di governo. La democrazia, che avrebbe garantito alternanza (che invece c'era comunque) ed evitato l'arroganza di quelli "superiori".
 
-Considerando che si trattava di un'associazione i cui i numeri non hanno mai superato quello di un piccolo villaggio di pescatori o di selvaggi nella Jungla, considerato che usare Linux non era affatto facile, come non lo sarebbero stato pescare o andare a caccia di antilopi, considerato che la democrazia si esprime mediante il voto ma se la base votante è minuscola, il voto si indirizza facilmente, e alla fine ha sempre prevalso il concetto di democrazia dell'antica Grecia:
+Considerando che si trattava di un'associazione i cui i numeri non hanno mai superato quello di un piccolo villaggio di pescatori o di selvaggi nella Giungla, considerato che usare Linux non era affatto facile, come non lo sarebbero stato pescare o andare a caccia di antilopi, considerato che la democrazia si esprime mediante il voto ma se la base votante è minuscola, il voto si indirizza facilmente, e alla fine ha sempre prevalso il concetto di democrazia nell'antica Grecia:
 
 - **Chi fa, decide**. Ovvero [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
 
-Anticipare il fare al decidere, premia necessariamente il merito perché chi fa schifo non ha alcuna chance così come chi non fa nulla, e di conseguenza le elezioni premiano costantemente un relativamente piccolo numero di soci (la c.d. elitè) che di fatto costituisce il potere in quanto {capaci, preparati, intelligenti} semplicemente perché queste caratteristiche sono abilitanti per il fare, e senza il fare non c'e decidere.
+Anticipare il fare al decidere, premia necessariamente il merito perché chi fa schifo non ha alcuna chance così come chi non fa nulla, e di conseguenza le elezioni premiano costantemente un relativamente piccolo numero di soci (la c.d. elitè) che di fatto costituisce il potere in quanto {capaci, preparati, intelligenti} semplicemente perché queste caratteristiche sono abilitanti per il fare, e senza il fare non c'è decidere.
 
 L'alternanza nei ruoli, ottima cosa per imparare a relazionarsi con diversi aspetti dell'organizzazione dell'associazione e per formare la classe dirigente, apparentemente nascondeva all'esterno il principio fondante alla base di quel gruppo: l'autorità deriva dalla capacità di fare.
 
-Questo modello di autoarchia, tipico delle prime fasi di sviluppo delle civiltà, si differenzia dal diritto di nascita (e.g. sono intelligente quindi goveno, sono il re quindi governo) perché l'insegnamento e la condivisione delle capacità abilitante era offerto a tutti, ma nonostante questo non tutti entravano a far parte dell'elitè che di fatto governava il gruppo.
+Questo modello di autarchia, tipico delle prime fasi di sviluppo delle civiltà, si differenzia dal diritto di nascita (e.g. sono intelligente quindi governo, sono il re quindi governo) perché l'insegnamento e la condivisione delle capacità abilitante era offerto a tutti, ma nonostante questo non tutti entravano a far parte dell'elite che di fatto governava il gruppo.
 
 Lo schema di governo era analogo a quello degli scout al campo, dove non esiste il capo che comanda ma piuttosto il capo che guida e spiega che le pentole sono sporche, che a lavarle ci vanno gli scout perché lui lo ha fatto a suo tempo e ora tocca a loro, che potrebbero anche non farlo ma gli scarti di cibo diventano rancidi e domani la razione di rancio farà più schifo di oggi, se già fosse stato possibile. Quindi il capo organizza l'attività e gli scout la eseguono.
 
@@ -120,7 +120,7 @@ Nulla di trascendentale, insomma. Però per quelli *nati e cresciuti nell'urbe* 
 
 > [!WARNING]
 > 
-> Giusto per completezza, gli scout veri sono quelli vestiti di verde che si rifanno ai principi dello scoutismo di Banden Powell, quelli AGESCI che sono vestiti in blu e più diffusi in Italia grazie al supporto delle parrocchie sono un'abberrazione ideologica rispetto all'originale, sebbene alcuni elementi siano in comune ad entrambi.
+> Giusto per completezza, gli scout veri sono quelli vestiti di verde che si rifanno ai principi dello scoutismo di Baden Powell, quelli AGESCI che sono vestiti in blu e più diffusi in Italia grazie al supporto delle parrocchie sono un'aberrazione ideologica rispetto all'originale, sebbene alcuni elementi siano in comune ad entrambi.
 > 
 > Ciò andava detto, casomai a qualcuno saltasse in mente che il cerchio magico di Renzi & Co. avesse mai potuto avere una qualche chance di buon governo. Perché è inutile girarci attorno, per coloro ai quali manca una solida base del pensiero scientifico, la realtà rimane un aspetto ingestibile e la realtà **non** è qualcosa che si possa ignorare tout-court.
 
@@ -130,7 +130,7 @@ Nulla di trascendentale, insomma. Però per quelli *nati e cresciuti nell'urbe* 
 
 Del senno di poi, sono piene le buche, si sul dire. Però è anche importante riflettere sugli eventi del passato perché questo ci permette di osservarli attraverso un'esperienza e cognizioni che non erano altrettanto sviluppate e/o consolidate. Insomma, il "senno di po" non serve per "piangere sul latte versato" o per coltivare la nostalgia (o peggio il rancore) ma per evitare di ripetere gli stessi errori e quindi avere l'opportunità di farne di nuovi.
 
-Sembra scontato ma non lo è affatto perché, senza sorpresa e come sopra sottolineato, la gente ha una seria difficoltà a riconoscere negli eventi del presente il ripetersi di schemi tipici che dovrebbero essere noti già dal passato remoto. Ma cosa s'intende per *la gente fa o dice cose*? In due parole è quello che nell'atichità veniva definito come *Vox Populi* che oggi siamo più propensi a chiamre *consenso* ma il concetto rimane tanto vago quanto attinente al termine antico.
+Sembra scontato ma non lo è affatto perché, senza sorpresa e come sopra sottolineato, la gente ha una seria difficoltà a riconoscere negli eventi del presente il ripetersi di schemi tipici che dovrebbero essere noti già dal passato remoto. Ma cosa s'intende per *la gente fa o dice cose*? In due parole è quello che nell'antichità veniva definito come *Vox Populi* che oggi siamo più propensi a chiamare *consenso* ma il concetto rimane tanto vago quanto attinente al termine antico.
 
 Sottolineare che si tratta di concetti vaghi, tanto il consenso quanto la Vox Populi, è fondamentale e per verificarlo è sufficiente parlare separatamente con le singole persone, meglio ancora quando stanno manifestando per o contro qualcosa, per chiedergli perché si sentono parte di quel "consenso" e cosa sia l'oggetto sottostante a questo "consenso".
 
@@ -140,7 +140,7 @@ Il fu Charlie Kirk meglio di molti Youtuber, ha dimostrato che "boh" (non so, no
 
 ### Accadde oggi, sta succedendo qui
 
-Per coloro che si stupiscono per le violenze o i dannaggiamenti o gli scioperi di questi giorni, quanto sopra vale la pena ribadirlo anche per questi eventi di questi giorni e probabilmente dei prossimi.
+Per coloro che si stupiscono per le violenze o i danneggiamenti o gli scioperi di questi giorni, quanto sopra vale la pena ribadirlo anche per questi eventi di questi giorni e probabilmente dei prossimi.
 
 Gaza è solo un pretesto per molte altre cose che ribollono dietro le quinte almeno dal G8 di Genova del 2001. Il problema è che alla gente hanno tolto diritti e benessere (con la promessa non mantenuta della sicurezza, dando però la colpa agli immigrati così per poter chiedere più sicurezza) e in cambio gli hanno rifilato burocrazia soffocante (curata con la depenalizzazione dell'abuso d'ufficio) e l'analfabetismo funzionale come stile di vita e di cui andare fieri (parla come mangia e quindi rutti a go-go). 
 
@@ -152,13 +152,13 @@ Perciò Gaza è solo un pretesto per scatenare la violenza, sempre assurda e irr
 
 - sezione scritta a partire dal [post #5](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379881971449061376-_l5t) pubblicato su LinkedIn lo stesso giorno. Fa riferimento al discorso registrato in questo [video](https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F806567755662149%2F&show_text=false&width=382&t=0) in cui una parlamentare del M5S accusa il governo Meloni di truffa sulle statistiche manipolate relative alle liste d'attesa dei CUP. <!--// Video salvato su youtube https://youtube.com/shorts/aeKRIgLvqS8 //-->
 
-Il discorso è ben presentato, ben documentato e supportato. Fantastico, peccato a un certo punto confonde la mediana (indicatore statistico "robusto", termine tecnico, non aggettivo a dizionario) con la media. Perché chi confonde questi due concetti **npn** è in grado di comprendere quello che sta spiegando. Nulla di sbagliato, qualcuno ha fatto un ottimo lavoro di analisi e di trasferimento di nozioni.
+Il discorso è ben presentato, ben documentato e supportato. Fantastico, peccato che a un certo punto confonde la mediana (indicatore statistico "robusto", termine tecnico, non aggettivo a dizionario) con la media. Perché chi confonde questi due concetti **npn** è in grado di comprendere quello che sta spiegando. Nulla di sbagliato, qualcuno ha fatto un ottimo lavoro di analisi e di trasferimento di nozioni.
 
 Giusto per ricordare, ancora una volta, la differenza sostanziale fra nozioni (sapere, ripetere un discorso) e capire (collegare le idee in modo funzionale). Perché questa differenza è sottile ma determinante, altrimenti non si potrebbe reggere il confronto con qualcuno che comprende la sostanza di ciò che dice.
 
-Irrilevante, potreste dire, tanto **non** si confrontano con quelli che comprendono e la gente **non** vota in base a questa discriminante. Eppure è l'unica discriminante che fa la differenza fra un buone governo (o una buona direzione aziendale) e un cattivo governo (anche qualora supportato da buone intenzioni).
+Irrilevante, potreste dire, tanto **non** si confrontano con quelli che comprendono e la gente **non** vota in base a questa discriminante. Eppure è l'unica discriminante che fa la differenza fra un buon governo (o una buona direzione aziendale) e un cattivo governo (anche qualora supportato da buone intenzioni).
 
-La buona notizia (o cattiva notizia, a secondo dei punti di vista) è che questo discorso porta alla ribalta la manipolazione delle statistiche. Ma fa differenza? Ora che sono stati scoperti, si dimetteranno? Manco per niente, quindi è solo una caccia ai voti, non una competizione per il desideri di dare/avere un migliore governo.
+La buona notizia (o cattiva notizia, a secondo dei punti di vista) è che questo discorso porta alla ribalta la manipolazione delle statistiche. Ma fa differenza? Ora che sono stati scoperti, si dimetteranno? Manco per niente, quindi è solo una caccia ai voti, non una competizione per il desiderio di dare/avere un migliore governo.
 
 ---
 
@@ -178,7 +178,7 @@ Già lo diceva già Asimov, con altre  parole che possiamo assumere in: la democ
 
 ---
 
-### La disinformazione è omnipresente
+### La disinformazione è onnipresente
 
 - sezione scritta a partire dal [post #6](https://www.linkedin.com/posts/robertofoglietta_introduzione-alla-politica-lezione-di-base-activity-7379912578736660481-kzl1) pubblicato su LinkedIn lo stesso giorno.
 
@@ -205,7 +205,7 @@ Che AMT fosse in perdita si sapeva. Può essere tanto, certamente non è poco. P
 
 Il costo di un abbonamento mensile di AMT è di €48. Quindi si tratta di un buco che si può coprire riducendo l'abbonamento mensile a 4 settimane e quindi si avrebbero 13 "mensilità". Una tecnica di up-selling che usavano anche le compagnie telefoniche con le prepagate mobili.
 
-La parte invece MOLTO grave è il buco al 2024. Anche in questo caso, la gravità non strettamente legata al volume del deficit ma alla sua incertezza. Perché fra €46 milioni e €74 milioni, c'è un fattore 1.6x e per fare un paragone è come andare dal salumerie chiedere 5 etti scarsi e ritrovarsi sulla bilancia 7 etti abbondanti: che faccio lascio?
+La parte invece MOLTO grave è il buco al 2024. Anche in questo caso, la gravità non strettamente legata al volume del deficit ma alla sua incertezza. Perché fra €46 milioni e €74 milioni, c'è un fattore 1.6x e per fare un paragone è come andare dal salumiere, chiedere 5 etti scarsi e ritrovarsi sulla bilancia 7 etti abbondanti: che faccio lascio?
 
 ---
 
@@ -215,7 +215,7 @@ Con la differenza sostanziale che non parliamo di etti di prosciutto ma di decin
 
 Perché non è tanto per il denaro, ma per il messaggio e con AMT siamo di fronte chiaramente ad un messaggio inquietante: non hanno la più pallida idea di cosa sia un bilancio e che fine facciano decine di milioni. Ma in effetti perché se ne dovrebbero preoccupare?
 
-Fanno un buco, boh di TOT oppure di 1.6x TOT ma alla fine "qualcuno" pagherà, no? Mica si può rimanere senza mezzi pubblici. Ecco, questo concetto di "qualcuno" pagherà va avanti da decenni, in tutte le pubbliche amministrazione, centrali e locali. Le privatizzazione NON hanna funzionato e basta citare il Ponte Morandi, dopo il cui crollo ci siamo ricomprati a prezzi di "mercato" un'azienda ceduta al "ribasso" che ha fatto utili risparmiando sulla manutenzione.
+Fanno un buco, boh di TOT oppure di 1.6x TOT ma alla fine "qualcuno" pagherà, no? Mica si può rimanere senza mezzi pubblici. Ecco, questo concetto di "qualcuno" pagherà va avanti da decenni, in tutte le pubbliche amministrazione, centrali e locali. Le privatizzazione NON hanno funzionato e basta citare il Ponte Morandi, dopo il cui crollo ci siamo ricomprati a prezzi di "mercato" un'azienda ceduta al "ribasso" che ha fatto utili risparmiando sulla manutenzione.
 
 Allora, bene hanno fatto quei due milioni di giovani che nel 2021-22 si sono dimessi e avranno fatto fagotto per trasferirsi all'estero. Perché appare chiaro che la Salis è l'ultima arrivata ma non sarà certo lei a cambiare le cose. Evidentemente quindi NON è rilevante chi si pavoneggia sul palco, ma il sistema dietro le quinte che è mandato avanti da pirati fatti e finiti.
 
@@ -231,11 +231,11 @@ Se pensate che l'avvento dell'intelligenza artificiale possa compensare l'ignora
 
 > Ricordate prima di Internet, quando si pensava che la causa della stupidità fosse la mancanza di accesso alle informazioni? Beh, non era così.
 
-Oggi, l'informazione è una commodity. La disinformazione è ubiqua. Sicchè capire non è un optional, ma indispensabile. Diversamente si cade in quelle trappole sceniche in cui il vertice dell'amministrazione centrale bacchetta gli enti regionali quando invece è evidente che il problema ha necessariamente una dimensione nazionale e coordinata. Non è plausibile che 20 regioni d'improvviso si sveglino una mattina e decidano indipendentemente lo stesso protocollo di presentazione dei dati che quindi va ad alterare le statistiche.
+Oggi, l'informazione è una commodity. La disinformazione è onnipresente. Sicché capire non è un optional, ma indispensabile. Diversamente si cade in quelle trappole sceniche in cui il vertice dell'amministrazione centrale bacchetta gli enti regionali quando invece è evidente che il problema ha necessariamente una dimensione nazionale e coordinata. Non è plausibile che 20 regioni d'improvviso si sveglino una mattina e decidano indipendentemente lo stesso protocollo di presentazione dei dati che quindi va ad alterare le statistiche.
 
-Anche la notizia del tracollo finanziario dell'azienda municipalizzati trasporti di Genova, se non si capisce che il problema non è deficit ma la gestione di bilancio non è pensabile che si possa riempire un secchio sfondato. A prescindere che vi sia o meno il flusso per riempirlo, dovrebbe essere evidente che se l'incertezza sul deficit è quasi la metà del deficit stesso allora il problema è nell'amministrazione e non di risorse, non di abbonamenti o di piano industriale.
+Anche la notizia del tracollo finanziario dell'azienda municipalizzata trasporti di Genova, se non si capisce che il problema non è deficit ma la gestione di bilancio non è pensabile che si possa riempire un secchio sfondato. A prescindere che vi sia o meno il flusso per riempirlo, dovrebbe essere evidente che se l'incertezza sul deficit è quasi la metà del deficit stesso allora il problema è nell'amministrazione e non di risorse, non di abbonamenti o di piano industriale.
 
-Penso sia fondamentale ribadirlo, ma date le premesse e stante il mondo moderno nel quale viviamo che in parte abbiamo contribuito a creare e che non possiamo rifiutare, salvo pochi che decidan di rifugiarsi in una baita di montagna e tornare a vivere allevando capre, per coloro ai quali manca una solida base del pensiero scientifico, la realtà rimane un aspetto ingestibile e la realtà **non** è qualcosa che si possa ignorare tout-court.
+Penso sia fondamentale ribadirlo, ma date le premesse e stante il mondo moderno nel quale viviamo che in parte abbiamo contribuito a creare e che non possiamo rifiutare, salvo pochi che decidano di rifugiarsi in una baita di montagna e tornare a vivere allevando capre, per coloro ai quali manca una solida base del pensiero scientifico, la realtà rimane un aspetto ingestibile e la realtà **non** è qualcosa che si possa ignorare tout-court.
 
 ---
 
@@ -253,7 +253,7 @@ L'ignoranza della gente da una parte e la politica di raccattare voti con slogan
 
 ----
 
-### La complessità del mondo moderno richiede perparazione
+### La complessità del mondo moderno richiede preparazione
 
 - chat di [valutazione](https://chatgpt.com/share/68d55e4e-127c-8012-a13f-21eb24cf1522) del [post #2](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) con ChatGPT e sua [trascrizione](data/339-polizia-postale-uso-ai-contrasto-pedofilia-online-chatgpt.txt#?target=_blank)
 
@@ -271,7 +271,7 @@ anche collassare o divergere a livello sistemico. L'educazione a scuola è l'uni
 
 ### Conclusione
 
-Nel progredire in questo articolo sono stati considerati diversi casi, molto diversi fra loro, anneddoti che risalgono fino al 2001. Si è cercato di offrire un'ampia panoramica per non limitarsi ad azzuffarsi su una questione di breve respiro e di circoscritto impatto. Questa ricerca di un filo conduttore, di elementi ricorrenti, alla fine termina nel modo più banale ma anche triste.
+Nel progredire in questo articolo sono stati considerati diversi casi, molto diversi fra loro, aneddoti che risalgono fino al 2001. Si è cercato di offrire un'ampia panoramica per non limitarsi ad azzuffarsi su una questione di breve respiro e di circoscritto impatto. Questa ricerca di un filo conduttore, di elementi ricorrenti, alla fine termina nel modo più banale ma anche triste.
 
 Abbiamo abdicato all'intelligenza e abbiamo fatto guerra alla realtà. Questo fino al 2019, poi se andiamo ad includere anche il collasso della ragione dalla pandemia di Covid-19 in poi, arriviamo alla conclusione che abbiamo fatto guerra all'intelligenza in uno stato di completa alienazione dalla realtà. Evidentemente ci siamo crogiolati nella nostra ignoranza bigotta e fiera per poi essere vittime di un devastante attacco psicologico di massa.
 
