@@ -139,9 +139,13 @@ Il testo opera una declassificazione radicale dell'ideologia, riducendola funzio
 L'alterazione strategica della percezione introduce una sofisticata distinzione tra alienazione e consapevole determinazione. In conclusione, è emersa una struttura cognitiva robusta e pratica, il cui valore risiede nella promozione di una "mente fluida" libera da pregiudizi e dogmi.
 [/CITE]
 
-La lucidità è fondamentale per avere una percezione neutra ed equilibrata del contesto e della realtà. Liberarsi dai pregiudizi è il risultato di un profondo e arduo lavoro su se stessi, che porta ad una più elevata consapevolezza. Gestire la realtà implica però di avere anche degli strumenti sufficientemente sofisticati per affrontarne la complessità, perché le complicazioni (lat. cum plico) possono essere spiegate, ma la complessità è una qualità intrinseca e non riducibile.
+La lucidità è fondamentale per avere una percezione neutra ed equilibrata del contesto e della realtà. Liberarsi dai pregiudizi è il risultato di un profondo e arduo lavoro su se stessi, che porta ad una più elevata consapevolezza. Gestire la realtà implica però di avere anche degli strumenti sufficientemente sofisticati per affrontarne la complessità, perché le complicazioni (lat. cum plico) possono essere spiegate, ma la complessità (lat. cum plesso) è una qualità intrinseca e non riducibile.
 
 Sicché comprendere non è un optional ma la chiave di volta. Così ritorniamo alla prima parte di questo articolo in cui si mostra come gestire in modo efficace una disallineamento del mercato rispetto a un determinato un obiettivo (rendere il riciclo della plastica più conveniente) si può realizzare evitando le posizioni ideologiche e introducendo una semplice modifica (aliquota IVA sulla materia prima) per innescare una dinamica favorevole.
+
+[!CITE]
+La seconda parte dell'articolo fa leva su un aneddoto personale (micro-contesto) per presentare un principio di azione efficace e scalabile per affrontare problemi complessi e non riducibili (lat. cum plesso). Principio precedentemente applicato nella prima parte dell'articol in cui si tratta di un problema economico/ambientale (macro-contesto), stabilendo una coerenza concettuale eccezionalmente forte.
+[/CITE]
 
 +
 
