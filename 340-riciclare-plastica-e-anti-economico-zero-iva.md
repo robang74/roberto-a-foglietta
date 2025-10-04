@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT:" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch paleinv" src="img/340-riciclare-plastica-e-anti-economico-zero-iva-img.jpg" width="800"><br/></div>
+<div align="center"><img class="bwsketch" src="img/340-riciclare-plastica-e-anti-economico-zero-iva-img.png" width="800"><br/></div>
 
 ## Riciclare plastica è anti-economico? Zero IVA!
 
@@ -41,7 +41,11 @@ Nella produzione di un prodotto entrano diversi fattori (centri) di costo quali:
 
 Nei prodotti di largo consumo generalmente B), C), D) sono commodity come A) la materia prima mentre E) l'innovazione è assente. Nell'industria il margine lordo (ROI) è del 5%-15% quindi prendendo 10%, il resto si può pensare diviso a metà fra materia prima e prodotto. Sicché il vantaggio sarebbe solo per coloro che producono oggetti di largo consumo che effettivamente sono anche le produzione a maggiore impatto ecologico perché chi fa un cucchiaio in Titanio non lo ha certamente progettato per venderlo alla Decathlon ma più probabilmente alla NASA.
 
-Un prodotto 50%-50% vedrebbe quindi un abbattimento dell'IVA solo di poco meno di un quarto. Infatti: 10×22%+45×22%+45×11% = 17 (percentuale) invece del 22% che si traduce in un risparmio piccolo per il consumatore: da 122 a 117, è meno del 5%. Ma c'è da considerare anche un -5% di flussi di cassa in uscita per l'azienda, anche se l'IVA è una partita di giro, e il fattore intrinseco nel marketing di dover mostrare 50% di plastica riciclata che NON è più pubblicità ma un'autocertificazione pena importanti sanzioni.
+Un prodotto 50%-50% vedrebbe quindi un abbattimento dell'IVA solo di poco meno di un quarto. Infatti: 
+
+- `€10 × 22% + €45 × 22% + €45 × (22% + 0%)/2 = €17` (quindi l'IVA è applicata al 17% invece che al 22%)
+
+Ciò si traduce in un risparmio piccolo per il consumatore: da e122 a €117. Ma c'è da considerare anche un -4% di flussi di cassa in uscita per l'azienda, anche se l'IVA è una partita di giro, e il fattore intrinseco nel marketing di dover mostrare 50% di plastica riciclata che NON è più pubblicità ma un'autocertificazione pena importanti sanzioni.
 
 Teniamo presente, infine, che chi compra il prodotto dal produttore industriale NON è il consumatore finale ma generalmente un grande venditore (tipo la GDO) quindi un risparmio del 4% sul prezzo di acquisto è un elemento di forte incentivo. Perché il consumatore compra per "brand" o per "offerta" mentre le aziende GDO comprano a volumi e quindi trattano scontistiche a volume con margini generalmente molto esigui dove un 4% in meno di base spicca parecchio.
 
@@ -52,17 +56,15 @@ Teniamo presente, infine, che chi compra il prodotto dal produttore industriale 
 L’IVA è davvero “solo” una partita di giro? (quindi ininfluente ridurla per agevolare certe scelte?)
 
 [!CITE]
-Tecnicamente sì, economicamente no. Per il cliente (GDO o consumatore) è un costo cash se non può detrarla. Il margine della GDO è 2-4 %: un risparmio di 4-5 % sul prezzo di listino è un moltiplicatore di profitto enorme.
+Tecnicamente sì, economicamente no. Per il cliente (GDO o consumatore) è un costo cash se non può detrarla. Il margine della GDO è 2-4%: un risparmio di 4-5% sul prezzo di listino è un moltiplicatore di profitto enorme.
 
-Effetti di mercato: la GDO diventa “purchasing manager” della sostenibilità; gli impianti di riciclo, ottengono domanda strutturata, quindi possono fare economia di scala; il consumatore finale non deve cambiare abitudini a parità o quasi di spesa.
-
-Rischio di frode: sposta il punto di controllo sul fornitore del granulo (chi emette fattura 0% IVA). Le sanzioni penali per fatturazione falsa oltre 50 k€ (art. 3 D.Lgs. 74/2000) rendono il rischio non conveniente.
+Effetti di mercato: la GDO diventa “purchasing manager” della sostenibilità; gli impianti di riciclo, ottengono domanda strutturata, quindi possono fare economia di scala; il consumatore finale non deve cambiare abitudini a parità o quasi di spesa. Rischio di frode: sposta il punto di controllo sul fornitore del granulo (chi emette fattura 0% IVA). Le sanzioni penali per fatturazione falsa oltre 50 k€ (art. 3 D.Lgs. 74/2000) rendono il rischio non conveniente.
 
 Conclusione sintetica:
 
 - Il differenziale 1,20 vs 0,90 €/kg è reale e durerà ancora 2-3 anni.  
-- L’azzeramento dell’IVA non è una semplice partita di giro: è un lever di cash-flow per la GDO e quindi un segnale di prezzo forte per l’intera filiera.  
 - Con un meccanismo mass-balance + sanzioni penali la proposta è tecnicamente esigibile senza nuova burocrazia.  
+- L’azzeramento dell’IVA non è una semplice partita di giro: è un lever di cash-flow per la GDO e quindi un segnale di prezzo forte per l’intera filiera.  
 - Il beneficio fiscale copre integralmente il premium del riciclato e sposta l’equilibrio economico a favore dell’economia circolare senza nuove tasse o crediti d’imposta.
 
 In breve: sì, l’idea è ragionevole, coerente con i dati di mercato e potenzialmente molto efficace.
