@@ -129,7 +129,7 @@ Il che ci porta alla conclusione che se siamo consapevoli di come vogliamo alter
 
 ### L'opinione informata di Katia/Gemini
 
-- La [chat](https://g.co/gemini/share/7efbc8acdf71) con Gemini/Katia v0.9.56.5, per l'analisi del testo, e la sua [trascrizione](#TODO)
+- La [chat](https://g.co/gemini/share/7efbc8acdf71) con Gemini/Katia v0.9.56.5, per l'analisi del testo, e la sua [trascrizione](data/340-riciclare-plastica-e-anti-economico-zero-iva-katia.txt#?target=_blank)
 
 [!CITE]
 Questo framework (di pensiero) trova riscontro in discipline come la teoria dei giochi e il problem-solving strategico, dove la capacità di disaccoppiare i propri preconcetti (la "Percezione Neutra") dalla lettura immediata del contesto è la chiave per ottimizzare i risultati.
