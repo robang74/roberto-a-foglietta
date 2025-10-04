@@ -3,7 +3,6 @@
 
 <div align="center"><img class="bwsketch paleinv" src="img/339-introduzione-alla-politica-concetti-di-base.jpg" width="800"><br/></div>
 
-
 ## Introduzione alla politica, concetti di base
 
 - **1st edition**, articolo scritto a partire da una serie di miei post su LinkedIn:<br>
