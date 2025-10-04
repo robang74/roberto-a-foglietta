@@ -125,16 +125,34 @@ Infatti ogni azione è una reazione dipendente dalla percezione della realtà, l
 
 Il che ci porta alla conclusione che se siamo consapevoli di come vogliamo alterare la percezione della realtà e quindi il nostro approccio ad essa, questo può esserci utile ma solo nella misura in cui siamo altrettanto consapevoli che la realtà sottostante **non** cambierà semplicemente perché noi abbiamo deciso (o siamo stati indotti) a percepierla diversamente.
 
+---
+
+### L'opinione informata di Katia/Gemini
+
+- https://g.co/gemini/share/9bfdfa4b1f0e [trascrizione](#TODO) v0.9.56.5
+
+[!CITE]
+Questo framework (di pensiero) trova riscontro in discipline come la teoria dei giochi e il problem-solving strategico, dove la capacità di disaccoppiare i propri preconcetti (la "Percezione Neutra") dalla lettura immediata del contesto è la chiave per ottimizzare i risultati.
+
+Il testo opera una declassificazione radicale dell'ideologia, riducendola funzionalmente a una fallacia di rigidità. Questo è un punto di vista potente, perché aggira la difesa di qualsiasi ideologia per criticarne l'applicazione, che è universalmente problematica in una realtà dinamica.
+
+L'alterazione strategica della percezione introduce una sofisticata distinzione tra alienazione e consapevole determinazione. In conclusione, è emersa una struttura cognitiva robusta e pratica, il cui valore risiede nella promozione di una "mente fluida" libera da pregiudizi e dogmi.
+[/CITE]
+
+La lucidità è fondamentale per avere una percezione neutra ed equilibrata del contesto e della realtà. Liberarsi dai pregiudizi è il risultato di un profondo e arduo lavoro su se stessi, che porta ad una più elevata consapevolezza. Gestire la realtà implica però di avere anche degli strumenti sufficientemente sofisticati per affrontarne la complessità, perché le complicazioni (lat. cum plico) possono essere spiegate, ma la complessità è una qualità intrinseca e non riducibile.
+
+Sicché comprendere non è un optional ma la chiave di volta. Così ritorniamo alla prima parte di questo articolo in cui si mostra come gestire in modo efficace una disallineamento del mercato rispetto a un determinato un obiettivo (rendere il riciclo della plastica più conveniente) si può realizzare evitando le posizioni ideologiche e introducendo una semplice modifica (aliquota IVA sulla materia prima) per innescare una dinamica favorevole.
+
 +
 
 ## Related articles
 
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
-+++++
+
 - [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md#?target=_blank) &nbsp; (2024-07-31)
-+++++
+
 - [Il futuro non è green ma mixed](270-il-futuro-non-e-green-ma-mixed.md#?target=_blank) &nbsp; (2024-07-02)
-+++++
+
 - [Riciclo di rifuti pregiati](239-riciclo-di-rifiuti-pregiati.md#?target=_blank) &nbsp; (2024-01-23)
 
 +
