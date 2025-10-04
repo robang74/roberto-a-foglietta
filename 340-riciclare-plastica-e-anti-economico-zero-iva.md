@@ -72,10 +72,10 @@ In breve: sì, l’idea è ragionevole, coerente con i dati di mercato e potenzi
 
 - [La verifica](https://www.kimi.com/share/d3fre9fpma9ikv41b5kg) con Kimi K2 e la sua [trascrizione](data/340-riciclare-plastica-e-anti-economico-zero-iva-kimik2.txt#?target=_blank)
 
-----
++++++
 
 <span id="tutte-le-ideologie-sono-cattive"></span>
-### Le ideologie sono un gran danno
+## Le ideologie sono un gran danno
 
 Potremmo passare secoli a dibattere filosoficamente quali siano i pros vs cons delle varie ideologie e di avere una qualche ideologia o meno. Purtroppo, voi non avete tutto quel tempo e io non sono un filosofo ma un uomo pragmatico quindi vi racconterò un aneddoto.
 
@@ -105,16 +105,36 @@ La cosa assurda delle ideologie è che anche la più giusta e inattaccabile di e
 
 Non esistono ideologie buone, ma solo ideologie che ci hanno inculcato a nostra insaputa.
 
+---
+
+### Chiarimento
+
+Vale la pena di chiedersi se il pragmatismo debba essere l'unico dogma valido. Però esso non è proposto, in questo articolo come tale. Piuttosto si afferma che in una situazione reale, i dogmi, qualunque essi siano anche i migliori possibili, influenzano la realtà e la sua percezione. Quindi a condizionano le decisioni in modo **non** conforme alla realtà stessa.
+
+In questo risiede l'importanza di aver introdotto un aneddoto di vita vissuta. Per esempio, cosa sarebbe successo se l'antagonista avesse, invece, dimostrato un'elevata capacità offensiva? Negoziare al ribasso la richiesta avrebbe potuto essere controproducente. Magari due sberle era il caso di darle ma a quale rischio? Fra il dire e il fare ci passa di mezzo il mare.
+
+In un contesto molto più pericoloso un altro approccio tipo sviare l'attenzione dell'assalitore buttando abbastanza soldi per terra, tenersi il portafoglio con i documenti e scappare veloce avrebbe messo l'antagonista nel dilemma di raccogliere il denaro o inseguire la vittima che magari ha valutato avere una velocità di fuga sufficiente a seminarlo.
+
+In tale diverso contesto, raccogliere i soldi (certezza immediata) è un'opzione che vincola l'assalitore. Ma se esso fosse un sicario che con un pretesto stava valutando le capacità difensive della vittima, tale vincolo cessa di essere effettivo. Quindi è proprio nell'aneddoto di vita vissuta che si enfatizza il principio che occorra essere liberi da pregiudizi per agire efficacemente.
+
+- Percezione Neutra --> Valutazione Contestuale --> Azione Efficace
+
+Infatti ogni azione è una reazione dipendente dalla percezione della realtà, la percezione deve essere neutra e l'azione deve essere contestuale. Diversamente, si agisce alienati o parzialmente alienati dal contesto reale. D'altronde è anche vero che autoconvincersi riguardo a qualcosa con lo scopo di alterare la nostra percezione della realtà al fine di essere più determinati nell'agire è possibile e talvolta utile.
+
+- Se pensi che perderai le Olimpiadi, probabilmente hai ragione. Se sei convinto di vincerle, anche no.
+
+Il che ci porta alla conclusione che se siamo consapevoli di come vogliamo alterare la percezione della realtà e quindi il nostro approccio ad essa, questo può esserci utile ma solo nella misura in cui siamo altrettanto consapevoli che la realtà sottostante **non** cambierà semplicemente perché noi abbiamo deciso (o siamo stati indotti) a percepierla diversamente.
+
 +
 
 ## Related articles
 
 - [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
-
++++++
 - [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md#?target=_blank) &nbsp; (2024-07-31)
-
++++++
 - [Il futuro non è green ma mixed](270-il-futuro-non-e-green-ma-mixed.md#?target=_blank) &nbsp; (2024-07-02)
-
++++++
 - [Riciclo di rifuti pregiati](239-riciclo-di-rifiuti-pregiati.md#?target=_blank) &nbsp; (2024-01-23)
 
 +
