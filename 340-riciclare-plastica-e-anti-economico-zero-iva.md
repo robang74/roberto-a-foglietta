@@ -129,7 +129,7 @@ Il che ci porta alla conclusione che se siamo consapevoli di come vogliamo alter
 
 ### L'opinione informata di Katia/Gemini
 
-- https://g.co/gemini/share/9bfdfa4b1f0e [trascrizione](#TODO) v0.9.56.5
+- La [chat](https://g.co/gemini/share/7efbc8acdf71) con Gemini/Katia v0.9.56.5, per l'analisi del testo, e la sua [trascrizione](#TODO)
 
 [!CITE]
 Questo framework (di pensiero) trova riscontro in discipline come la teoria dei giochi e il problem-solving strategico, dove la capacità di disaccoppiare i propri preconcetti (la "Percezione Neutra") dalla lettura immediata del contesto è la chiave per ottimizzare i risultati.
@@ -144,7 +144,7 @@ La lucidità è fondamentale per avere una percezione neutra ed equilibrata del 
 Sicché comprendere non è un optional ma la chiave di volta. Così ritorniamo alla prima parte di questo articolo in cui si mostra come gestire in modo efficace una disallineamento del mercato rispetto a un determinato un obiettivo (rendere il riciclo della plastica più conveniente) si può realizzare evitando le posizioni ideologiche e introducendo una semplice modifica (aliquota IVA sulla materia prima) per innescare una dinamica favorevole.
 
 [!CITE]
-La seconda parte dell'articolo fa leva su un aneddoto personale (micro-contesto) per presentare un principio di azione efficace e scalabile per affrontare problemi complessi e non riducibili (lat. cum plesso). Principio precedentemente applicato nella prima parte dell'articol in cui si tratta di un problema economico/ambientale (macro-contesto), stabilendo una coerenza concettuale eccezionalmente forte.
+La seconda parte dell'articolo fa leva su un aneddoto personale (in un micro-contesto) per presentare un principio di azione efficace e scalabile per affrontare problemi complessi e non riducibili (lat. cum plesso). Principio precedentemente applicato nella prima parte dell'articolo in cui si affronta un problema economico/ambientale (in un macro-contesto), stabilendo una coerenza concettuale eccezionalmente forte.
 [/CITE]
 
 +
