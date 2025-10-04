@@ -45,7 +45,7 @@ Un prodotto 50%-50% vedrebbe quindi un abbattimento dell'IVA solo di poco meno d
 
 - `€10 × 22% + €45 × 22% + €45 × (22% + 0%)/2 = €17` (quindi l'IVA è applicata al 17% invece che al 22%)
 
-Ciò si traduce in un risparmio piccolo per il consumatore: da e122 a €117. Ma c'è da considerare anche un -4% di flussi di cassa in uscita per l'azienda, anche se l'IVA è una partita di giro, e il fattore intrinseco nel marketing di dover mostrare 50% di plastica riciclata che NON è più pubblicità ma un'autocertificazione pena importanti sanzioni.
+Ciò si traduce in un risparmio piccolo per il consumatore: da €122 a €117. Ma c'è da considerare anche un -4% di flussi di cassa in uscita per l'azienda, anche se l'IVA è una partita di giro, e il fattore intrinseco nel marketing di dover mostrare 50% di plastica riciclata che NON è più pubblicità ma un'autocertificazione pena importanti sanzioni.
 
 Teniamo presente, infine, che chi compra il prodotto dal produttore industriale NON è il consumatore finale ma generalmente un grande venditore (tipo la GDO) quindi un risparmio del 4% sul prezzo di acquisto è un elemento di forte incentivo. Perché il consumatore compra per "brand" o per "offerta" mentre le aziende GDO comprano a volumi e quindi trattano scontistiche a volume con margini generalmente molto esigui dove un 4% in meno di base spicca parecchio.
 
@@ -83,11 +83,11 @@ Quando avevo circa 16 anni, e ne ho sempre dimostrato molto meno della mia età 
 
 Visto che ero sceso senza una precisa ragione rimasi sulla banchina giusto il tempo per decidere cosa fare. Quel tizio mi notò, torno indietro su quei due passi che aveva già fatto per andare per la sua strada, si mise una mano nel giubbetto e disse: ho un coltello dammi tutti i tuoi soldi. Fossi stato un liceale, ma invece studiavo all'ITIS e in quell'ambiente se non era la merenda, era per il 10 in fisica, una qualche scusa per fare rissa non mancava mai.
 
-Sicché gli risposi: se hai un coltello, mostramelo. Con quella calma disarmante di chi o è tutto scemo oppure è avezzo alle risse come Terence Hill. Considerato che anticipò a quella minaccia: sono drogato, mi servono i soldi. Anche se più ragionevolmente era un tipo da canne, gli risposi: se vai al Celesia, il metadone te lo danno gratis. Se ti do' tutti i miei soldi non posso comprarmi nemmeno un gelato fino alla fine del mese. Ti dò cinquemila lire.
+Sicché gli risposi: se hai un coltello, mostramelo. Con quella calma disarmante di chi o è tutto scemo oppure è avvezzo alle risse come Terence Hill. Considerato che anticipò a quella minaccia: sono drogato, mi servono i soldi. Anche se più ragionevolmente era un tipo da canne, gli risposi: se vai al Celesia, il metadone te lo danno gratis. Se ti do' tutti i miei soldi non posso comprarmi nemmeno un gelato fino alla fine del mese. Ti dò cinquemila lire.
 
 A questo punto il suo atteggiamento cambiò radicalmente portandolo persino a restituirmi la banconota. Gli risposi che non era un problema per me se lui l'avesse tenuta. Ora però dobbiamo chiederci se io avessi fatto la morale a quel tizio, mi fossi pure tenuto la banconota, e lo avessi mandato per la sua strada dopo avergli fatto la morale e convinto di essere uno schifo di persona a derubare ragazzini indifesi, cosa avrei vinto, ego a parte?
 
-Avrei vinto un mondo in cui qualcuno là fuori avrebbe circolato pensano di essere una brutta persona e probabilmente lo sarebbe anche diventato. Invece, con cimquemila lire, mi sono comprato un mondo dove qualcuno là fuori pensa di poter diventare una persona migliore e che al mondo ci sono persone che meritano la sua stima, anche quando sbaglia, anche se si droga. Pensate che l'abbia fatto perché ho un'ideologia? Esattamente l'opposto.
+Avrei vinto un mondo in cui qualcuno là fuori avrebbe circolato pensano di essere una brutta persona e probabilmente lo sarebbe anche diventato. Invece, con cinquemila lire, mi sono comprato un mondo dove qualcuno là fuori pensa di poter diventare una persona migliore e che al mondo ci sono persone che meritano la sua stima, anche quando sbaglia, anche se si droga. Pensate che l'abbia fatto perché ho un'ideologia? Esattamente l'opposto.
 
 Proprio l'assenza di una morale o di un'ideologia che mi imponga di giudicare qualcuno mi ha permesso di valutare cosa, fra le tante opzioni, volevo che fosse il mondo là fuori. Il problema delle ideologie è la loro rigidità, una caratteristica che preclude tantissime opportunità, non solo a coloro che le hanno fatte proprie ma anche a tutti quelli che frequentano una persona ideologicamente convinta, quindi un bigotto/a.
 
@@ -99,7 +99,7 @@ Può anche essere necessario in casi estremi, ma in generale la gente addotta id
 
 - Io sono contro la violenza, senza se e senza ma. Due sberle ogni tanto, non si negano a nessuno.
 
-La cosa assurda delle ideologie è che anche la più giusta e inattaccabile di essa, tipo il rifiuto della violenza, in pratica hanno lo stesso deleterio effetto di altre che, invece ci appaiono chiramente distopiche. Questo, in buona sostanza, è il paradosso della tolleranza di Karl Popper, generalizzato. C'è e ci deve essere un limite alla tolleranza, e quindi alla pazienza, oltre il quale due sberle è giusto darle, anche tre.
+La cosa assurda delle ideologie è che anche la più giusta e inattaccabile di essa, tipo il rifiuto della violenza, in pratica hanno lo stesso deleterio effetto di altre che, invece ci appaiono chiaramente distopiche. Questo, in buona sostanza, è il paradosso della tolleranza di Karl Popper, generalizzato. C'è e ci deve essere un limite alla tolleranza, e quindi alla pazienza, oltre il quale due sberle è giusto darle, anche tre.
 
 #### Conclusione
 
