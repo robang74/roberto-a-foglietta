@@ -1,0 +1,123 @@
+<div id="firstdiv" created=":IT:" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+
+<div align="center"><img class="bwsketch paleinv" src="img/339-introduzione-alla-politica-concetti-di-base.jpg" width="800"><br/></div>
+
+## Riciclare plastica è anti-economico? Zero IVA!
+
+- **1st edition**, questo articolo è stato scritto a partire da un mio [post](https://www.linkedin.com/posts/robertofoglietta_il-motivo-principale-per-cui-il-riciclaggio-activity-7379809999579058176-66rs) pubblicato su LinkedIn il giorno prima.
+
+---
+
+### Introduzione
+
+Queste elencate qui sotto non soluzioni ma ideologia:
+
+- Tagliare i sussidi ai combustibili fossili, fissare un prezzo per il carbonio.
+- Rendere obbligatorio l'uso di contenuti riciclati nei prodotti. 
+- Modulare ecologicamente per sovvenzionare la riciclabilità.
+
+Sono ideologia perché impongono principi astratti e arbitrari al libero mercato invece di far leva sulle dinamiche naturalmente presenti in esso per dare il giusto valore ai vari aspetti, incluso la sostenibilità ecologica.
+
+Ma non agiamo così, dare valore a certe cose che altrimenti sarebbero ignorate, perché ci piacciano i Panda. Lo facciamo perché **non** farlo, e continuare a non farlo, sul lungo periodo e su grandi volumi compromette la qualità della nostra vita e in estrema conclusione ci conduce all'estinzione.
+
+L'idea di tagliare una foresta pluviale e distruggere la relativa biodiversità per farne carta igienica, perché la carta igienica ha un prezzo mentre alla biodiversità, che pure ci è indispensabile, non abbiamo dato alcun valore è tanto assurda quanto pensare di imporre vincoli ideologici. Questo aspetto intendo affrontarlo in [fondo](#tutte-le-ideologie-sono-cattive) a questo articolo.
+
+---
+
+### La soluzione è azzerare l'IVA
+
+La soluzione più semplice da realizzare, è azzerare l'IVA sulla plastica riciclata e applicarla in misura del 22% sulla porzione eventualmente di plastica vergine nel prodotto semilavorato che è materia prima per fare/stampare prodotti da vendere.
+
+Quindi, per esempio, un sacco di pellet di plastica vergine costa 90 + IVA = 110, mentre un sacco di plastica 100% riciclata costa 120 e il divario rimane, perché c'è un vantaggio di 10 su 110 (9%) in favore della plastica vergine.
+
+Però generalmente i prodotti per i consumatori finali non sono creati 100% con plastica riciclata per motivi relativi agli standard qualitativi e di durabilità (eccetto per la plastica usa e getta). Quindi un prodotto 50% e 50%, sarebbe offerto al consumatore a metà dell'IVA (sulla materia prima). Poca cosa, ma che sposta l'attitudine di acquisto del consumatore e impone di menzionare la quota di riciclo (pena l'evasione dell'IVA).
+
+Una modifica normativa semplice, che però ha una serie di conseguenze molto interessanti. Sicuramente, degne di una valutazione più approfondita. Cosa che ho fatto utilizzando Gemini per un confronto preliminare:
+
+- https://g.co/gemini/share/16eab652157c (chat)
+
+Nella produzione di un prodotto entrano diversi fattori (centri) di costo quali: A) la materia prima, B) la produzione sia come costo corrente che ammortamento dell'impianto e relativa manutenzione, C) la filiera di vendita e consegna che include anche branding e marketing, D) l'organizzazione aziendale e la gestione finanziaria, E) l'innovazione sia in termini di design che di tecnologie produttive.
+
+Nei prodotti di largo consumo generalmente B), C), D) sono commodity come A) la materia prima mentre E) l'innovazione è assente. Nell'industria il margine lordo (ROI) è del 5%-15% quindi prendendo 10%, il resto si può pensare diviso a metà fra materia prima e prodotto. Sicché il vantaggio sarebbe solo per coloro che producono oggetti di largo consumo che effettivamente sono anche le produzione a maggiore impatto ecologico perché chi fa un cucchiaio in Titanio non lo ha certamente progettato per venderlo alla Decathlon ma più probabilmente alla NASA.
+
+Un prodotto 50%-50% vedrebbe quindi un abbattimento dell'IVA solo di poco meno di un quarto. Infatti: 10×22%+45×22%+45×11% = 17 (percentuale) invece del 22% che si traduce in un risparmio piccolo per il consumatore: da 122 a 117, è meno del 5%. Ma c'è da considerare anche un -5% di flussi di cassa in uscita per l'azienda, anche se l'IVA è una partita di giro, e il fattore intrinseco nel marketing di dover mostrare 50% di plastica riciclata che NON è più pubblicità ma un'autocertificazione pena importanti sanzioni.
+
+Teniamo presente, infine, che chi compra il prodotto dal produttore industriale NON è il consumatore finale ma generalmente un grande venditore (tipo la GDO) quindi un risparmio del 4% sul prezzo di acquisto è un elemento di forte incentivo. Perché il consumatore compra per "brand" o per "offerta" mentre le aziende GDO comprano a volumi e quindi trattano scontistiche a volume con margini generalmente molto esigui dove un 4% in meno di base spicca parecchio.
+
+---
+
+### Contro-verifica con Kimi K2
+
+L’IVA è davvero “solo” una partita di giro? (quindi ininfluente ridurla per agevolare certe scelte?)
+
+[!CITE]
+Tecnicamente sì, economicamente no. Per il cliente (GDO o consumatore) è un costo cash se non può detrarla. Il margine della GDO è 2-4 %: un risparmio di 4-5 % sul prezzo di listino è un moltiplicatore di profitto enorme.
+
+Effetti di mercato: la GDO diventa “purchasing manager” della sostenibilità; gli impianti di riciclo, ottengono domanda strutturata, quindi possono fare economia di scala; il consumatore finale non deve cambiare abitudini a parità o quasi di spesa.
+
+Rischio di frode: sposta il punto di controllo sul fornitore del granulo (chi emette fattura 0% IVA). Le sanzioni penali per fatturazione falsa oltre 50 k€ (art. 3 D.Lgs. 74/2000) rendono il rischio non conveniente.
+
+Conclusione sintetica:
+
+- Il differenziale 1,20 vs 0,90 €/kg è reale e durerà ancora 2-3 anni.  
+- L’azzeramento dell’IVA non è una semplice partita di giro: è un lever di cash-flow per la GDO e quindi un segnale di prezzo forte per l’intera filiera.  
+- Con un meccanismo mass-balance + sanzioni penali la proposta è tecnicamente esigibile senza nuova burocrazia.  
+- Il beneficio fiscale copre integralmente il premium del riciclato e sposta l’equilibrio economico a favore dell’economia circolare senza nuove tasse o crediti d’imposta.
+
+In breve: sì, l’idea è ragionevole, coerente con i dati di mercato e potenzialmente molto efficace.
+[/CITE]
+
+- https://www.kimi.com/share/d3fre9fpma9ikv41b5kg (check)
+
+---
+
+<span id="tutte-le-ideologie-sono-cattive"></span>
+### Le ideologie sono un gran danno
+
+Potremmo passare secoli a dibattere filosoficamente quali siano i pros vs cons delle varie ideologie e di avere una qualche ideologia o meno. Purtroppo, voi non avete tutto quel tempo e io non sono un filosofo ma un uomo pragmatico quindi vi racconterò un aneddoto.
+
+Quando avevo circa 16 anni, e ne ho sempre dimostrato molto meno della mia età e infatti quando presi la patente per i primi due anni i carabinieri mi fermavano in continuazione per la mia faccia da bambino oppure per la mia abitudine di accompagnarmi alle hostess di terra di Costa Crociere, scesi dall'autobus ad una fermata inusuale rispetto alla tratta che facevo su quella linea e un tipo un po' losco scese con me.
+
+Visto che ero sceso senza una precisa ragione rimasi sulla banchina giusto il tempo per decidere cosa fare. Quel tizio mi notò, torno indietro su quei due passi che aveva già fatto per andare per la sua strada, si mise una mano nel giubbetto e disse: ho un coltello dammi tutti i tuoi soldi. Fossi stato un liceale, ma invece studiavo all'ITIS e in quell'ambiente se non era la merenda, era per il 10 in fisica, una qualche scusa per fare rissa non mancava mai.
+
+Sicché gli risposi: se hai un coltello, mostramelo. Con quella calma disarmante di chi o è tutto scemo oppure è avezzo alle risse come Terence Hill. Considerato che anticipò a quella minaccia: sono drogato, mi servono i soldi. Anche se più ragionevolmente era un tipo da canne, gli risposi: se vai al Celesia, il metadone te lo danno gratis. Se ti do' tutti i miei soldi non posso comprarmi nemmeno un gelato fino alla fine del mese. Ti dò cinquemila lire.
+
+A questo punto il suo atteggiamento cambiò radicalmente portandolo persino a restituirmi la banconota. Gli risposi che non era un problema per me se lui l'avesse tenuta. Ora però dobbiamo chiederci se io avessi fatto la morale a quel tizio, mi fossi pure tenuto la banconota, e lo avessi mandato per la sua strada dopo avergli fatto la morale e convinto di essere uno schifo di persona a derubare ragazzini indifesi, cosa avrei vinto, ego a parte?
+
+Avrei vinto un mondo in cui qualcuno là fuori avrebbe circolato pensano di essere una brutta persona e probabilmente lo sarebbe anche diventato. Invece, con cimquemila lire, mi sono comprato un mondo dove qualcuno là fuori pensa di poter diventare una persona migliore e che al mondo ci sono persone che meritano la sua stima, anche quando sbaglia, anche se si droga. Pensate che l'abbia fatto perché ho un'ideologia? Esattamente l'opposto.
+
+Proprio l'assenza di una morale o di un'ideologia che mi imponga di giudicare qualcuno mi ha permesso di valutare cosa, fra le tante opzioni, volevo che fosse il mondo là fuori. Il problema delle ideologie è la loro rigidità, una caratteristica che preclude tantissime opportunità, non solo a coloro che le hanno fatte proprie ma anche a tutti quelli che frequentano una persona ideologicamente convinta, quindi un bigotto/a.
+
+Se avessi avuto un manganello e avessi picchiato quel tipo sonoramente, non avrei comunque ottenuto un mondo migliore ma un mondo in cui qualcuno avrebbe covato rancore e magari, il giorno che avesse superato la paura di essere stato legnato, avendone l'occasione una coltellata alle spalle me l'avrebbe girata. Perché a quel punto, in giro con il coltello ci sarebbe andato davvero per difendersi da quelli con il manganello.
+
+- Adottare un'ideologia significa diventare bigotti. Imporre un'ideologia significa usare il manganello.
+
+Può anche essere necessario in casi estremi, ma in generale la gente addotta ideologie come adotterebbe la violenza se gli fosse permesso di comportarsi da villani ignoranti, bifolchi e bigotti. Il che ci porta ad affermare con certezza che fra i ruoli più difficili, dannatamente difficili, spiccano fare i genitori e fare gli insegnanti. Perché se usano il manganello hanno fallito la loro missione, se non lo usano è davvero difficile farsi ascoltare.
+
+- Io sono contro la violenza, senza se e senza ma. Due sberle ogni tanto, non si negano a nessuno.
+
+La cosa assurda delle ideologie è che anche la più giusta e inattaccabile di essa, tipo il rifiuto della violenza, in pratica hanno lo stesso deleterio effetto di altre che, invece ci appaiono chiramente distopiche. Questo, in buona sostanza, è il paradosso della tolleranza di Karl Popper, generalizzato. C'è e ci deve essere un limite alla tolleranza, e quindi alla pazienza, oltre il quale due sberle è giusto darle, anche tre.
+
+#### Conclusione
+
+Non esistono ideologie buone, ma solo ideologie che ci hanno inculcato a nostra insaputa.
+
++
+
+## Related articles
+
+- [Il cambiamento climatico questo sconosciuto](295-il-cambiamento-climatico-questo-sconosciuto.md#?target=_blank) &nbsp; (2024-12-14)
+
+- [Plastica vegetale: scarti vs canapa](279-plastica-vegetale-scarti-vs-canapa.md#?target=_blank) &nbsp; (2024-07-31)
+
+- [Il futuro non è green ma mixed](270-il-futuro-non-e-green-ma-mixed.md#?target=_blank) &nbsp; (2024-07-02)
+
+- [Riciclo di rifuti pregiati](239-riciclo-di-rifiuti-pregiati.md#?target=_blank) &nbsp; (2024-01-23)
+
++
+
+## Share alike
+
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+</div>
