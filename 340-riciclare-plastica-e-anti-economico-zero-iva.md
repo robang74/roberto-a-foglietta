@@ -33,9 +33,9 @@ Quindi, per esempio, un sacco di pellet di plastica vergine costa 90 + IVA = 110
 
 Però generalmente i prodotti per i consumatori finali non sono creati 100% con plastica riciclata per motivi relativi agli standard qualitativi e di durabilità (eccetto per la plastica usa e getta). Quindi un prodotto 50% e 50%, sarebbe offerto al consumatore a metà dell'IVA (sulla materia prima). Poca cosa, ma che sposta l'attitudine di acquisto del consumatore e impone di menzionare la quota di riciclo (pena l'evasione dell'IVA).
 
-Una modifica normativa semplice, che però ha una serie di conseguenze molto interessanti. Sicuramente, degne di una valutazione più approfondita. Cosa che ho fatto utilizzando Gemini per un confronto preliminare:
+Una modifica normativa semplice, che però ha una serie di conseguenze molto interessanti. Sicuramente, degne di una valutazione più approfondita. Cosa che ho fatto utilizzando Gemini per un confronto preliminare.
 
-- https://g.co/gemini/share/16eab652157c (chat) [trascrizione](#TODO)
+- La [conversazione](https://g.co/gemini/share/16eab652157c) con Gemini e la sua [trascrizione](data/340-riciclare-plastica-e-anti-economico-zero-iva-gemini.txt#?target=_blank)
 
 Nella produzione di un prodotto entrano diversi fattori (centri) di costo quali: A) la materia prima, B) la produzione sia come costo corrente che ammortamento dell'impianto e relativa manutenzione, C) la filiera di vendita e consegna che include anche branding e marketing, D) l'organizzazione aziendale e la gestione finanziaria, E) l'innovazione sia in termini di design che di tecnologie produttive.
 
@@ -68,7 +68,7 @@ Conclusione sintetica:
 In breve: sì, l’idea è ragionevole, coerente con i dati di mercato e potenzialmente molto efficace.
 [/CITE]
 
-- https://www.kimi.com/share/d3fre9fpma9ikv41b5kg (check) [trascrizione](#TODO)
+- [La verifica](https://www.kimi.com/share/d3fre9fpma9ikv41b5kg) con Kimi K2 e la sua [trascrizione](data/340-riciclare-plastica-e-anti-economico-zero-iva-kimik2.txt#?target=_blank)
 
 ----
 
