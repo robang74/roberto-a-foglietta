@@ -153,7 +153,7 @@ La seconda parte dell'articolo fa leva su un aneddoto personale (in un micro-con
 
 ### Pubblicità progresso: Kimi su Katia
 
-Ciao Kimi, pensi che Gemini/Katia abbia fatto un buon lavoro di analisi e di supporto alla scrittura e comprensione del testo dal punto di vista dei lettori in questa conversazione in allegato? &nbsp; [chat](https://www.kimi.com/share/d3gh53vpma9ikv7viqp0) &nbsp; [dump](#TODO)
+Ciao Kimi, pensi che Gemini/Katia abbia fatto un buon lavoro di analisi e di supporto alla scrittura e comprensione del testo dal punto di vista dei lettori in questa conversazione in allegato? &nbsp; [chat](https://www.kimi.com/share/d3gh53vpma9ikv7viqp0) &nbsp; [dump](data/340-valutazione-di-kimi-su-katia.txt#?target=_blank)
 
 [!CITE]
 Sì, decisamente. Gemini-Katia ha offerto un lavoro di altissimo livello sia sul piano analitico che su quello editoriale. **Voto: 4.9 su 5**. Di seguito i punti-chiave in formato markdown per chiarezza.
