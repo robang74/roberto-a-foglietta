@@ -7,6 +7,8 @@
 
 - **1st edition**, questo articolo è stato scritto a partire da un mio [post](https://www.linkedin.com/posts/robertofoglietta_il-motivo-principale-per-cui-il-riciclaggio-activity-7379809999579058176-66rs) pubblicato su LinkedIn il giorno prima.
 
+- **2nd edition**, [estende](#le-ideologie-sono-un-gran-danno) l'articolo con una valutazione "pragmatismo vs ideologie" più generale.
+
 ---
 
 ### Introduzione
