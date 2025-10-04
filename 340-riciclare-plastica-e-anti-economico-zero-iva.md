@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT:" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch paleinv" src="img/339-introduzione-alla-politica-concetti-di-base.jpg" width="800"><br/></div>
+<div align="center"><img class="bwsketch paleinv" src="img/340-riciclare-plastica-e-anti-economico-zero-iva-img.jpg" width="800"><br/></div>
 
 ## Riciclare plastica è anti-economico? Zero IVA!
 
@@ -35,7 +35,7 @@ Però generalmente i prodotti per i consumatori finali non sono creati 100% con 
 
 Una modifica normativa semplice, che però ha una serie di conseguenze molto interessanti. Sicuramente, degne di una valutazione più approfondita. Cosa che ho fatto utilizzando Gemini per un confronto preliminare:
 
-- https://g.co/gemini/share/16eab652157c (chat)
+- https://g.co/gemini/share/16eab652157c (chat) [trascrizione](#TODO)
 
 Nella produzione di un prodotto entrano diversi fattori (centri) di costo quali: A) la materia prima, B) la produzione sia come costo corrente che ammortamento dell'impianto e relativa manutenzione, C) la filiera di vendita e consegna che include anche branding e marketing, D) l'organizzazione aziendale e la gestione finanziaria, E) l'innovazione sia in termini di design che di tecnologie produttive.
 
@@ -47,7 +47,7 @@ Teniamo presente, infine, che chi compra il prodotto dal produttore industriale 
 
 ---
 
-### Contro-verifica con Kimi K2
+### Contro verifica con Kimi K2
 
 L’IVA è davvero “solo” una partita di giro? (quindi ininfluente ridurla per agevolare certe scelte?)
 
@@ -68,9 +68,9 @@ Conclusione sintetica:
 In breve: sì, l’idea è ragionevole, coerente con i dati di mercato e potenzialmente molto efficace.
 [/CITE]
 
-- https://www.kimi.com/share/d3fre9fpma9ikv41b5kg (check)
+- https://www.kimi.com/share/d3fre9fpma9ikv41b5kg (check) [trascrizione](#TODO)
 
----
+----
 
 <span id="tutte-le-ideologie-sono-cattive"></span>
 ### Le ideologie sono un gran danno
