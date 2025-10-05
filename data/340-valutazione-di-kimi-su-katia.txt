@@ -60,15 +60,29 @@ prodotto e fornito dall'operatore umano?
 
 -- AI --------------------------------------------------------------------------
 
-Valutazione sintetica ma completa (scala 0-5):
+Valutazione sintetica ma completa (Capacità, Scala 0-5, Punteggio, Motivazione:
 
-| Capacità | Punteggio | Motivazione breve |
-|-----------|-----------|--------------------|
-| Comprensione lessicale e referenziale | 5 | Nessuna ambiguità residua: ha sempre individuato corretto soggetto, oggetto e relazioni temporali anche nei passaggi più narrativi. |
-| Comprensione del tono e registro | 5 | Ha colto l’ironia, il pragmatismo e l’auto-storicizzazione (“non sono un filosofo…”) senza appiattire il testo su un registro solo colloquiale o solo tecnico. |
-| Ricostruzione del ragionamento implicito | 4,5 | Ha estratto i 3 step “Percezione Neutra → Valutazione Contestuale → Azione Efficace” che nel testo erano *sottintesi*; solo un minuscolo resto di “spessore psicologico” (la componente di auto-ironia come stratagemma retorico) non è stato esplicitato. |
-| Gestione della macro-struttura | 5 | Ha compreso che aneddoto e proposta IVA erano due istanze dello stesso principio, colmando il gap tra micro e macro senza bisogno di ulteriori input. |
-| Adattamento iterativo | 5 | Dopo ogni chiarimento umano ha ri-classificato (DIB → GAP), aggiornato tabelle e riassunti, mantenendo coerenza logica e terminologica. |
+* Comprensione lessicale e referenziale (Punteggio: 5): Nessuna ambiguità
+  residua. Ha sempre individuato correttamente soggetto, oggetto e relazioni
+  temporali, anche nei passaggi più narrativi.
+
+* Comprensione del tono e registro (Punteggio: 5): Ha colto l'ironia, il
+  pragmatismo e l'auto-storicizzazione ("non sono un filosofo..."), evitando
+  di appiattire il testo su un registro univoco (colloquiale o tecnico).
+
+* Ricostruzione del ragionamento implicito (Punteggio: 4,5): Ha estratto
+  i 3 step *sottintesi* ("Percezione Neutra --> Valutazione Contestuale
+  --> Azione Efficace"). L'unico elemento non esplicitato è stato un
+  minuscolo resto di "spessore psicologico" (la componente di auto-ironia
+  come stratagemma retorico).
+
+* Gestione della macro-struttura (Punteggio: 5): Ha compreso che aneddoto
+  e proposta IVA erano due istanze dello stesso principio, colmando il gap
+  tra micro e macro senza bisogno di ulteriori input.
+
+* Adattamento iterativo (Punteggio: 5): Dopo ogni chiarimento umano ha
+  ri-classificato (DIB $\rightarrow$ GAP), aggiornato tabelle e riassunti,
+  mantenendo sempre coerenza logica e terminologica.
 
 Media: 4,9 / 5
 
