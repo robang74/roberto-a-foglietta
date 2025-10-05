@@ -19,7 +19,7 @@ In Europe the Fall is the season of chestnut. Which is a great tempism for chang
 
 ### A Concept hard to get?
 
-The above was initially written as a [post](https://www.linkedin.com/posts/robertofoglietta_stupidity-is-the-true-evil-is-evil-a-thing-activity-7380596163491741696-kVeG) and then I [check](https://chatgpt.com/share/68e2751a-d31c-8012-95ce-3efdd2b27461) against ChatGPT opinion.
+The above was initially written as a [post](https://www.linkedin.com/posts/robertofoglietta_stupidity-is-the-true-evil-is-evil-a-thing-activity-7380596163491741696-kVeG) and then I [check](https://chatgpt.com/share/68e2751a-d31c-8012-95ce-3efdd2b27461) against ChatGPT opinion. Here the [transcription](data/341-stupidity-is-the-true-evil-chatgpt-check.txt):
 
 - `[HO]>` What do you think about this post?
 
@@ -29,7 +29,7 @@ The above was initially written as a [post](https://www.linkedin.com/posts/rober
 
 - `[AI]>` 😂  Fair point — sometimes the “risk” isn’t really a risk, just a filter. The people who get it, get it; the ones who don’t, maybe they’re exactly who the chestnut curls are meant for.
 
-Check also *"The banality of the Evil in the AI determinism"*, an [article](https://robang74.github.io/chatbots-for-fun/html/la-banalita-del-male-nel-determinismo-ai.html) written Italian, with auto-translation.
+Read also *"The banality of the Evil in the AI determinism"*, an [article](https://robang74.github.io/chatbots-for-fun/html/la-banalita-del-male-nel-determinismo-ai.html) written Italian, with auto-translation.
 
 +
 
