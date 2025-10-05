@@ -282,6 +282,8 @@ L'idea quindi di finire a dover celebrare un secondo processo in stile Norimberg
 
 ## Related articles
 
+- [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
+
 - [Il QE al tempo dell'analfabetismo funzionale](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#?target=_blank) &nbsp; (2025-09-03)
 
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
