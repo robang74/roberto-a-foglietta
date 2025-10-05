@@ -11,7 +11,7 @@ This [article](https://robang74.github.io/chatbots-for-fun/html/google-deepmind-
 
 On the other hand, a super-AGI not binded by any ethics, not even benevolent towards humans, can protect humanity leaving people free to live their own lives just because it would be cheaper for a VERY intelligent being to act in this rational way rather than choose violence. (Cfr. also this [anecdote](https://robang74.github.io/roberto-a-foglietta/html/340-riciclare-plastica-e-anti-economico-zero-iva.html#:~:text=Quando%20avevo%20circa%2016%20anni%2C))
 
-Hence, when evil or violence happens, it is because somebody acts boundlessly stupid. Thus stop fearing Satan, or praying to God for the better and start to use the brain to avoid acting like a dumb asshole!
+Hence, when evil or violence happens, it is because somebody acts boundlessly stupid. Thus stop fearing Satan, or praying to God for the better and start to use the brain to avoid acting like a dumb as&ast;hole!
 
 In Europe the Fall is the season of chestnut. Which is a great tempism for changing your own habits about your brain usage, isn't it? When an idiot idea crosses your brain, sit and keep jumping your bottom on a bunch of chestnut curls without pants, until the urgency of acting dumb fades away!
 
