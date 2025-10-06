@@ -241,7 +241,7 @@ The manifestation in favour of Palestine hits their maximum adhesion on the begi
 
 Do you remember the G8 in Genoa in 2001? Black Bloks destroyed banks and shops which were reimbursed but Police beat those people who were supporting democracy with non-violent protests. Violence in Spain is a clear indicator that such violence is added-up just to dismantle the credibility of those who were protesting in a civil manner. It is always the same old story.
 
-~> lnkd.in/dikVVkxA (video)
+- Crozza show su [youtube](https://youtu.be/ru3p1rxcTFg?si=1H1tVXKJD2U-ECZf&t=197) o [post #12](https://www.linkedin.com/posts/robertofoglietta_da-chi-%C3%A8-finanziata-hamas-activity-7380962111046205440-Q58f), information collection about Bibi financing Hammas &nbsp; (2025-10-03)
 
 At the same time we are "discovering" that Hamas has been financed by Bibi for jeopardising the power of a more legitimate Palestinian Authority. Also in this case adding-up violence creates the condition for supporting the idea that all the people who were living in the Gaza strips were terrorists, because Hamas was among them (or better said, Palestinians were hostages of Hamas).
 
@@ -255,9 +255,9 @@ The EU chat surveillance act fits in this plot, as well. The aim is good (protec
 
 The use of AI does not mitigate the issue because it is well-known that AI systems can be poisoned by artifacts injected into images. Therefore, some real positives can be unseen (masqueraded) and negative can raise a false positive. On a large scale of false positives, due to obbligatorie of the penal prosecution the entire investigation system would collapse into a juridical DDOS.
 
-- [How to leverage chatbots for investigations](https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html) &nbsp; (2025-08-2)
+- [How to leverage chatbots for investigations](https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html) &nbsp; (2025-08-28)
 
-There is no doubt that AI can be used to support investigations. That's **not** the point. What we are seeing here is a completely different story: mass surveillance systems experimented in a war zone against civilians, adopted in Europe for preventing some specific crimes. Crimes for which education in schools can contrast that crimes much better and apport valuable maturity.
+There is no doubt that AI can be used to support investigations. That's **not** the point. What we are seeing here is a completely different story: mass surveillance systems experimented in a war zone against civilians, adopted in Europe for preventing some specific crimes. Crimes for which education in schools [post #8](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7) can contrast that crimes much better and apport valuable maturity.
 
 Curiously, when education is the solution, politics prefer repression and in particular mass surveillance which is a serious threat for for real democracy and in case of war can be exploited by the enemy in a way which is hard to prevent, causing systemic failures into society with disruptive outcomings. This has nothing to do with right or left wing perspectives. In Italy the right is the majority and governs, in Europe the center-left has the majority and governs.
 
@@ -265,9 +265,9 @@ Curiously, when education is the solution, politics prefer repression and in par
 
 ### Under this perspective, it is a bipolarism of thinking
 
-In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create as much as USA in Obama-Biden era).
+In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses [post #11](https://www.linkedin.com/posts/robertofoglietta_i-confronti-sono-sempre-relativi-nel-2020-activity-7378087231581941760-eQJw) indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create [post #9](https://www.linkedin.com/posts/robertofoglietta_europe-the-lost-generation-https-activity-7377369583654973441-DjRf) as much as USA in Obama-Biden era).
 
-- #TODO: aggiungere le dichiarazioni del generale a riguardo
+- [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=blank) &nbsp; (2025-09-21)
 
 On the other hand, mass surveillance exposes the Europeans to be targeted by political enemies' hacker teams (adding on top of that the complete digitalisation of the currency and identity cards, a good chance to put down the entire society just by remote). Thus, our future enemies could defeat us even before military forces can confront each other.
 

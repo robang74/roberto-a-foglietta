@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch darkinv" src="img/337-general-harald-kujat-nato-provoked-ukraine-war.jpg" width="800"><br/></div>
 
-## General Harald Kujat: NATO Provoked Ukraine War.
+## General Harald Kujat: NATO Provoked Ukraine War
 
 - **1st edition**, started from contents previously published in the following posts of mine:
     - [post #1](https://www.linkedin.com/posts/robertofoglietta_as-planned-in-late-august-trump-left-the-activity-7375532053360005120-lc4k) &nbsp;-&nbsp; [post #2](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375425707277012992-5-S1) &nbsp;-&nbsp; [post #3](https://www.linkedin.com/posts/robertofoglietta_19-sept-2025-general-harald-kujat-nato-activity-7375136214657597440-w9ux) &nbsp;-&nbsp; [post #4](https://www.facebook.com/roberto.a.foglietta/posts/10162325959328736)
