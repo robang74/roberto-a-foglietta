@@ -5,7 +5,7 @@
 
 ## Raccolta di post sulla crisi di Gaza
 
-Questo articolo è la composizione di una raccolta di post sulla crisi di Gaza cominciata il 7 ottobre 2023, che esplora il confronto con la crisi in Ucraina iniziata il 24 febbraio 2022. Perché nonostante le molte differenze, alcuni schemi si ripetono e gli indizi portano sempre allo stesso gruppo di personalità.
+**1st edition**, questo articolo è la composizione di una raccolta di post sulla crisi di Gaza cominciata il 7 ottobre 2023, che esplora il confronto con la crisi in Ucraina iniziata il 24 febbraio 2022. Perché nonostante le molte differenze, alcuni schemi si ripetono e gli indizi portano sempre allo stesso gruppo di personalità.
 
 - [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ)&nbsp;(2024) - [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-)&nbsp;(2024-07-06) - [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB)&nbsp;(2025-11-14) - [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE)&nbsp;(2025-07-07) - [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)&nbsp;(2025-08-27)
 
@@ -228,6 +228,60 @@ This closes the loop: the Biden's preemptive pardons supported by a Constitution
 Guess what? Once **manent** cease to exist, law principles cease to exist and the use of arbitrary and butal force only remains: what we cannot write by law, because we know that scripta manent not anymore, then we are writing with the blood of our enemies. Or them with our blood. Thus war, on an extreme scale WW3.
 
 The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, it implies to give a value to each piece of data that is worth to be written in stone, again.
+
++
+
+## Update 2025-10-06
+
+The manifestation in favour of Palestine hits their maximum adhesion on the beginning of October, up to now. In some countries like Spain, those manifestations have been accompanied by street violence. Those who were violently destroying local assets and shops were black dressed. People easily forget the lessons from the past and thus it is worth recalling where black-blocks violence has been seen before.
+
+Do you remember the G8 in Genoa in 2001? Black Bloks destroyed banks and shops which were reimbursed but Police beat those people who were supporting democracy with non-violent protests. Violence in Spain is a clear indicator that such violence is added-up just to dismantle the credibility of those who were protesting in a civil manner. It is always the same old story.
+
+~> lnkd.in/dikVVkxA (video)
+
+At the same time we are "discovering" that Hamas has been financed by Bibi for jeopardising the power of a more legitimate Palestinian Authority. Also in this case adding-up violence creates the condition for supporting the idea that all the people who were living in the Gaza strips were terrorists, because Hamas was among them (or better said, Palestinians were hostages of Hamas).
+
+Everytime someone wishes to do violence against people, s/he add-up violence in the streets and after s/he act upon the "security first" principle, not in a selective manner, but against the people. Recently Microsoft stopped providing cloud service to the IDF because they were spying and collecting information about all Palestinian.
+
+---
+
+### Mass surveillance systems
+
+The EU chat surveillance act fits in this plot, as well. The aim is good (protecting minors from online child predators and pornography) but the approach is totally wrong (illibertarian) because it enforces a mass surveillance. There are some criminals, thus everyone is under surveillance. Curiously, everyone is innocent until proven otherwise but at the same time everyone is a suspect.
+
+The use of AI does not mitigate the issue because it is well-known that AI systems can be poisoned by artifacts injected into images. Therefore, some real positives can be unseen (masqueraded) and negative can raise a false positive. On a large scale of false positives, due to obbligatorie of the penal prosecution the entire investigation system would collapse into a juridical DDOS.
+
+- [How to leverage chatbots for investigations](https://robang74.github.io/chatbots-for-fun/html/how-to-leverage-chatbots-for-investigations.html) &nbsp; (2025-08-2)
+
+There is no doubt that AI can be used to support investigations. That's **not** the point. What we are seeing here is a completely different story: mass surveillance systems experimented in a war zone against civilians, adopted in Europe for preventing some specific crimes. Crimes for which education in schools can contrast that crimes much better and apport valuable maturity.
+
+Curiously, when education is the solution, politics prefer repression and in particular mass surveillance which is a serious threat for for real democracy and in case of war can be exploited by the enemy in a way which is hard to prevent, causing systemic failures into society with disruptive outcomings. This has nothing to do with right or left wing perspectives. In Italy the right is the majority and governs, in Europe the center-left has the majority and governs.
+
+---
+
+### Under this perspective, it is a bipolarism of thinking.
+
+In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create as much as USA in Obama-Biden era).
+
+- #TODO: aggiungere le dichiarazioni del generale a riguardo
+
+On the other hand, mass surveillance exposes the Europeans to be targeted by political enemies' hacker teams (adding on top of that the complete digitalisation of the currency and identity cards, a good chance to put down the entire society just by remote). Thus, our future enemies could defeat us even before military forces can confront each other.
+
+People's ignorance about technology and propaganda by digital media created the conditions for a boundless stupidity and a bandwagon of corruption in politics that spread almost all around Europe. Something like destroying crops to install solar panels, to save the world from climate change and depending on imports for the food while the variability does not fit into our power needs and creates complexity that is a systemic fragility in time of war.
+
+Hard to negate that all of this isn't a criminal plot, at that top level of governance, a capital threason.
+
+---
+
+### All ideologies are bad for humans
+
+All ideologies are bad for humans, even the most reputable one can harm. For example: people in Gaza deserve human rights respect. Who would say anything against this positive idea as general principle? Why people in Gaza, and not somewhere else? etc.
+
+In that "etc." can be put a LOT of debates, even if the endless debates will reach a conclusion, priority of intervention would be necessary to fit limited resources in action, effectively. Four years ago we have been called to fight Covid-19, two years ago to fight with Ukraine, now to fight for Palestinians.
+
+All these troubles have been created by our tax money. For sure, no doubt about us. Especially when "tax money" means every part of our value production that deliberately, directly and indirectly we are keen, will or enforced to alienate from our own needs.
+
+So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop in giving away almost all their production value? Wouldn't this stop much better injustice? When politics have to spend their own money for fueling wars?
 
 +
 
