@@ -237,13 +237,19 @@ The obvious solution to this fundamental problem of global digitalisation is Bit
 
 ## Update 2025-10-06
 
+[!INFO]
+2024-11-21 - The International Criminal Court issued arrest warrants, for war crimes and crimes against humanity, for Israeli Prime Minister Benjamin Netanyahu and former Defense Minister Yoav Gallant.
+
+2025-09-16 - The United Nations, through an independent commission of inquiry, concluded that Israel has committed genocide in Gaza. This conclusion was included in a report by the UN Human Rights Council commission, following the Francesca Albanese's detailed report dated March 26, 2024.
+[/INFO]
+
 The manifestation in favour of Palestine hits their maximum adhesion on the beginning of October, up to now. In some countries like Spain, those manifestations have been accompanied by street violence. Those who were violently destroying local assets and shops were black dressed. People easily forget the lessons from the past and thus it is worth recalling where black-blocks violence has been seen before.
 
 Do you remember the G8 in Genoa in 2001? Black Bloks destroyed banks and shops which were reimbursed but Police beat those people who were supporting democracy with non-violent protests. Violence in Spain is a clear indicator that such violence is added-up just to dismantle the credibility of those who were protesting in a civil manner. It is always the same old story.
 
-- Crozza show su [youtube](https://youtu.be/ru3p1rxcTFg?si=1H1tVXKJD2U-ECZf&t=197) o [post #12](https://www.linkedin.com/posts/robertofoglietta_da-chi-%C3%A8-finanziata-hamas-activity-7380962111046205440-Q58f), information collection about Bibi financing Hammas &nbsp; (2025-10-03)
+- Crozza show su [youtube](https://youtu.be/ru3p1rxcTFg?si=1H1tVXKJD2U-ECZf&t=197) o [post #12](https://www.linkedin.com/posts/robertofoglietta_da-chi-%C3%A8-finanziata-hamas-activity-7380962111046205440-Q58f), information collection about financing Hammas &nbsp; (2025-10-03)
 
-At the same time we are "discovering" that Hamas has been financed by Bibi for jeopardising the power of a more legitimate Palestinian Authority. Also in this case adding-up violence creates the condition for supporting the idea that all the people who were living in the Gaza strips were terrorists, because Hamas was among them (or better said, Palestinians were hostages of Hamas).
+At the same time we are "discovering" that Hamas has been financed by Netanyahu for jeopardising the power of a more legitimate Palestinian Authority. Also in this case adding-up violence creates the condition for supporting the idea that all the people who were living in the Gaza strips were terrorists, because Hamas was among them (or better said, Palestinians were hostages of Hamas).
 
 Everytime someone wishes to do violence against people, s/he add-up violence in the streets and after s/he act upon the "security first" principle, not in a selective manner, but against the people. Recently Microsoft stopped providing cloud service to the IDF because they were spying and collecting information about all Palestinian.
 
@@ -261,13 +267,11 @@ There is no doubt that AI can be used to support investigations. That's **not** 
 
 Curiously, when education is the solution, politics prefer repression and in particular mass surveillance which is a serious threat for for real democracy and in case of war can be exploited by the enemy in a way which is hard to prevent, causing systemic failures into society with disruptive outcomings. This has nothing to do with right or left wing perspectives. In Italy the right is the majority and governs, in Europe the center-left has the majority and governs.
 
-----
+---
 
 ### Under this perspective, it is a bipolarism of thinking
 
 In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses [post #11](https://www.linkedin.com/posts/robertofoglietta_i-confronti-sono-sempre-relativi-nel-2020-activity-7378087231581941760-eQJw) indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create [post #9](https://www.linkedin.com/posts/robertofoglietta_europe-the-lost-generation-https-activity-7377369583654973441-DjRf) as much as USA in Obama-Biden era).
-
-- [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=_blank) &nbsp; (2025-09-21)
 
 On the other hand, mass surveillance exposes the Europeans to be targeted by political enemies' hacker teams (adding on top of that the complete digitalisation of the currency and identity cards, a good chance to put down the entire society just by remote). Thus, our future enemies could defeat us even before military forces can confront each other.
 
@@ -287,13 +291,11 @@ All these troubles have been created by our tax money. For sure, no doubt about 
 
 So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop in giving away almost all their production value? Wouldn't this stop much better injustice? When politics have to spend their own money for fueling wars?
 
-+
++++++
 
 ## Related articles
 
-- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
-+++++
-- [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
+- [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=_blank) &nbsp; (2025-09-21)
 +++++
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
 +++++
@@ -304,5 +306,4 @@ So, let me embrace a less ideological idea and more pragmatic one. What about if
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 </div>
