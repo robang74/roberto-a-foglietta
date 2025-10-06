@@ -267,7 +267,7 @@ Curiously, when education is the solution, politics prefer repression and in par
 
 In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses [post #11](https://www.linkedin.com/posts/robertofoglietta_i-confronti-sono-sempre-relativi-nel-2020-activity-7378087231581941760-eQJw) indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create [post #9](https://www.linkedin.com/posts/robertofoglietta_europe-the-lost-generation-https-activity-7377369583654973441-DjRf) as much as USA in Obama-Biden era).
 
-- [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=blank) &nbsp; (2025-09-21)
+- [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=_blank) &nbsp; (2025-09-21)
 
 On the other hand, mass surveillance exposes the Europeans to be targeted by political enemies' hacker teams (adding on top of that the complete digitalisation of the currency and identity cards, a good chance to put down the entire society just by remote). Thus, our future enemies could defeat us even before military forces can confront each other.
 
