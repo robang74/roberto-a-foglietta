@@ -9,6 +9,10 @@
 
 - [post #1](https://www.linkedin.com/posts/robertofoglietta_il-punto-di-giulietto-chiesa-13-06-2014-activity-7210768584367628290-0ROZ)&nbsp;(2024) - [post #2](https://www.linkedin.com/posts/robertofoglietta_6-luglio-2024-accordo-italia-algeria-che-activity-7215665081005576195-5jR-)&nbsp;(2024-07-06) - [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB)&nbsp;(2025-11-14) - [post #4](https://www.linkedin.com/posts/robertofoglietta_tajani-il-blu-madonna-e-le-12-trib%C3%B9-questo-activity-7347881838142488576-mHiE)&nbsp;(2025-07-07) - [post #5](https://www.linkedin.com/posts/robertofoglietta_la-situazione-nella-striscia-di-gaza-quante-activity-7366464964401729536-TuRe)&nbsp;(2025-08-27)
 
+**2nd edition**, include un [aggiornamento](#update-2025-10-06) riguardo a come la crisi di Gaza abbia coinvolto l'Europa e quali interconnessioni vi siano fra gli scenari di guerra attualmente aperti e il retaggio politico delle precedenti amministrazioni americane nell'aver creato la situazione odierna. Anche questa seconda parte emergono degli schemi si ripetono ed alcuni addirittura sono quasi un copia e incolla del passato.
+
+- [post #6](https://www.linkedin.com/posts/robertofoglietta_la-semplicit%C3%A0-delle-direttive-in-caso-di-activity-7376639057692344321--mc5)&nbsp; - [post #7](https://www.linkedin.com/posts/robertofoglietta_la-trama-fenicia-colpo-di-scena-lei-activity-7376914389938999296-T_Yr)&nbsp; - [post #8](https://www.linkedin.com/posts/robertofoglietta_lotta-online-poliziapostale-activity-7376995963195785216-t8V7)&nbsp; - [post #9](https://www.linkedin.com/posts/robertofoglietta_europe-the-lost-generation-https-activity-7377369583654973441-DjRf)&nbsp; - [post #10](https://www.linkedin.com/posts/robertofoglietta_ha-fatto-tutto-netanyahu-avigdor-lieberman-activity-7377390292590686208-HUEZ)&nbsp; - [post #11](https://www.linkedin.com/posts/robertofoglietta_i-confronti-sono-sempre-relativi-nel-2020-activity-7378087231581941760-eQJw)&nbsp; - [post #12](https://www.linkedin.com/posts/robertofoglietta_da-chi-%C3%A8-finanziata-hamas-activity-7380962111046205440-Q58f)&nbsp; - [post #13](https://www.linkedin.com/posts/robertofoglietta_this-footage-is-from-the-protests-in-activity-7381002650508574722-XgOr)
+
 ---
 
 ### Lo schema È sempre quello, che si ripete
@@ -63,20 +67,19 @@ Si noti, inoltre, che 36 mila ettari corrispondono a 360 km² esattamente quanto
 
 Bonifiche Ferraresi è anche la società di cui al [post #3](https://www.linkedin.com/posts/robertofoglietta_bonifiche-ferraresi-spa-410-questo-activity-7130540885561290753-YjGB) del 14 novembre 2023 quando il titolo si era impennato improvvisamente con un +410% ma visibile solo su Google Finance e oggi non più disponibile su quella piattaforma. Il post e il commento di aggiornamento contiene gli screenshot dell'epoca. Infatti, il valore del titolo è poi tornato al suo valore precedente (€0.0054) due giorni dopo il picco massimo (€0.03).
 
----
+----
 
 ### Bonifiche Ferraresi S.p.A. +410%
 
 Questo titolo oggi (2024-11-15) sta facendo sognare... 😍 
 
 Dal verbale societario (CdA) di ottobre 2023 depositato dal notaio risultava un aumento di capitale da 300 milioni di euro. Purtropp il [documento](https://www.borsaitaliana.it/varie/documenti-comunicati-sdir.htm) non è più disponibile su Borsa Italiana (al momento della pubblicazione di questo articolo).
-++++
+
 #### Qual'è la storia di Bonifiche Ferraresi?
 
 [!INFO]
 Bonifiche Ferraresi, sede principale Jolanda di Savoia (FE), è una società per azioni che è stata quotata all'MTA della Borsa Valori di Milano dal 1947 al 2017, quando è stata revocata in seguito al successo dell'OPAS lanciata da B.F. S.p.A. (già B.F. Holding S.p.A.) che dal 23 giugno 2017 è quotata alla Borsa Italiana. Bonifiche Ferraresi venne costituita in Inghilterra nel 1871 col nome di Ferrarese Land Reclamation Company Limited e aveva come oggetto sociale la "bonifica di laghi, nell'acquisto di paludi e terreni nelle vicinanze di Ferrara e in altre località del Regno d'Italia e nella costruzione o la compera di canali, corsi d'acqua, lavori d'irrigazione, moli, scali, ferrovie, strade, fabbricati e macchine locomotive". -- [Wikipedia](https://it.wikipedia.org/wiki/Bonifiche_Ferraresi)
 [/INFO]
-
 
 #### Chi sono i proprietari delle Bonifiche Ferraresi?
 
@@ -100,7 +103,7 @@ FOS S.p.A. con sede legale a Milano, controllata dalla BP Holding S.r.l. (64%) c
 Informazioni estratte dal bilancio separato al 31.12.2020 - 2022 su [Borsa Italiana](https://www.borsaitaliana.it/media/borsa/db/pdf/new/1028705.pdf)
 [/INFO]
 
----
+----
 
 #### Tajani, il blu madonna e le 12 tribù
 
@@ -126,8 +129,6 @@ La scoperta del giacimento "Aphrodite 2" (annunciata a giugno 2023, al largo di 
 
 ### La situazione nella striscia di Gaza
 
-<div align="center"><img class="bwsketch darkinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
-
 Quante sono, in totale, le vittime, morti e feriti, fra i palestinesi a Gaza dalla crisi del 7 ottobre 2023?
 
 - Risposte da [ChatGPT](https://chatgpt.com/share/68aee1b8-3c90-8012-a2e8-2b718af127fd), da [Perplexity](https://www.perplexity.ai/search/quante-sono-in-totale-le-vitti-Qn_aa3ghQDq5XB_lW2Y9nw) e [Gemini](https://g.co/gemini/share/db9322a1f5fe)
@@ -139,6 +140,8 @@ La stampa mente come faceva con il Covid? Forse. Però anche le stime più miti 
 - Infatti: (dal campo) `45K + 155K = 170K` --> `62K + 110K = 172K` (dopo la degenza)
 
 Da Gemini, si evince che il divario più rilevante NON riguarda i conteggi, ma quanti di essi fossero civili: per Netanyahu il 53%, per altre fonti fra l'80% e il 90%.
+
+<div align="center"><img class="bwsketch darkinv" src="img/334-raccolta-di-post-sulla-crisi-di-gaza-img-002.png"><br/></div>
 
 La tabella demografica delle vittime indica che donne, bambini e anziani sono almeno il 60%, quindi da considerarsi civili. Evidentemente Netanyahu considera "combattenti" anche gli anziani (maschi). Se invece si stima che solo metà dei maschi abili alle armi fossero combattenti, allora 80-85%. Quindi il dato di The Guardian (83%) è probabilmente il più preciso.
 
@@ -223,13 +226,14 @@ At this point of human history there is a very tiny difference between money and
 
 This closes the loop: the Biden's preemptive pardons supported by a Constitution (the supreme source of law) written centuries before Internet and digital data existed, destroy the law in principle not just in justice. In fact, injustice happens but principles remain. Not anymore!
 
-> The "loss of writing" as the rupture of the fundamental link between language and reality. -- Kimi K2
+> The "loss of writing" as the rupture of the fundamental link between language and reality. -- **Kimi K2**
 
 Guess what? Once **manent** cease to exist, law principles cease to exist and the use of arbitrary and butal force only remains: what we cannot write by law, because we know that scripta manent not anymore, then we are writing with the blood of our enemies. Or them with our blood. Thus war, on an extreme scale WW3.
 
 The obvious solution to this fundamental problem of global digitalisation is Bitcoin. Why not blockchain? Everyone can ave their own blockchain. While bitcoin integrates value and can be used to store data as well. Or better, it implies to give a value to each piece of data that is worth to be written in stone, again.
 
 +
+++++
 
 ## Update 2025-10-06
 
@@ -257,9 +261,9 @@ There is no doubt that AI can be used to support investigations. That's **not** 
 
 Curiously, when education is the solution, politics prefer repression and in particular mass surveillance which is a serious threat for for real democracy and in case of war can be exploited by the enemy in a way which is hard to prevent, causing systemic failures into society with disruptive outcomings. This has nothing to do with right or left wing perspectives. In Italy the right is the majority and governs, in Europe the center-left has the majority and governs.
 
----
+----
 
-### Under this perspective, it is a bipolarism of thinking.
+### Under this perspective, it is a bipolarism of thinking
 
 In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war because of "*si vis pacem, para bellum*" latin motto (but data about EU vs Russia military expenses indicates that there were not such a problem before Ukraine proxy-war and such a crisis is something that Europe contributed to create as much as USA in Obama-Biden era).
 
