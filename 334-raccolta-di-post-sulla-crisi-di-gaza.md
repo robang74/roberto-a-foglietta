@@ -289,7 +289,7 @@ In that "etc." can be put a LOT of debates, even if the endless debates will rea
 
 All these troubles have been created by our tax money. For sure, no doubt about us. Especially when "tax money" means every part of our value production that deliberately, directly and indirectly we are keen, will or enforced to alienate from our own needs.
 
-So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop in giving away almost all their production value? Wouldn't this stop much better injustice? When politics have to spend their own money for fueling wars?
+So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop giving away almost all their production value? Wouldn't this much better stop injustice? When would politicians ever spend their own money for fueling wars?
 
 +++++
 
