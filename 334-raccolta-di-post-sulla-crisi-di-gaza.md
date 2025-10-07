@@ -275,6 +275,12 @@ In one hand, the re-Arm Europe plan is supposing to prepare Europe for a war bec
 
 On the other hand, mass surveillance exposes the Europeans to be targeted by political enemies' hacker teams (adding on top of that the complete digitalisation of the currency and identity cards, a good chance to put down the entire society just by remote). Thus, our future enemies could defeat us even before military forces can confront each other.
 
+[!INFO]
+2025-09-30 -- A fire at South Korea's National Information Resources Service (NIRS) data center caused a major national security crisis by shutting down 647 government digital services, including identity verification, emergency response, postal logistics, and financial platforms. -- [The Guardian](https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears)
+
+2025-10-06 -- Up to 858TB of government data may be lost for good after the South Korea data center fire.  Data which was stored into the government’s G-Drive, used by around 750,000 officials, with no offsite backups available. -- [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/858tb-of-government-data-may-be-lost-for-good-after-south-korea-data-center-fire/)
+[/INFO]
+
 People's ignorance about technology and propaganda by digital media created the conditions for a boundless stupidity and a bandwagon of corruption in politics that spread almost all around Europe. Something like destroying crops to install solar panels, to save the world from climate change and depending on imports for the food while the variability does not fit into our power needs and creates complexity that is a systemic fragility in time of war.
 
 Hard to negate that all of this isn't a criminal plot, at that top level of governance, a capital threason.
@@ -291,17 +297,17 @@ All these troubles have been created by our tax money. For sure, no doubt about 
 
 So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop giving away almost all their production value? Wouldn't this much better stop injustice? When would politicians ever spend their own money for fueling wars?
 
-+++++
++
 
 ## Related articles
 
 - [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=_blank) &nbsp; (2025-09-21)
-+++++
++
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
-+++++
++
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
 
-+++++
++
 
 ## Share alike
 
