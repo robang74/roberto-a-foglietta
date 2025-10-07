@@ -287,7 +287,7 @@ All ideologies are bad for humans, even the most reputable one can harm. For exa
 
 In that "etc." can be put a LOT of debates, even if the endless debates will reach a conclusion, priority of intervention would be necessary to fit limited resources in action, effectively. Four years ago we have been called to fight Covid-19, two years ago to fight with Ukraine, now to fight for Palestinians.
 
-All these troubles have been created by our tax money. For sure, no doubt about us. Especially when "tax money" means every part of our value production that deliberately, directly and indirectly we are keen, will or enforced to alienate from our own needs.
+All these troubles have been created by our tax money. For sure, no doubt about it. Especially when "tax money" means every part of our value production that deliberately, directly and indirectly we are keen, will or enforced to alienate from our own needs.
 
 So, let me embrace a less ideological idea and more pragmatic one. What about if people will fight for their own right and stop giving away almost all their production value? Wouldn't this much better stop injustice? When would politicians ever spend their own money for fueling wars?
 
