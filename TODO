@@ -30,6 +30,7 @@
 + link color in print.css -> onpapers.css @media print
 + md2html.sh: a single row with *** is a line
 + md2html.sh: [A-Za-z0-9]/[A-Za-z0-9] -> &hairsp;/&hairsp;
++ md2html.sh: double quotes to remove in id/section titles
 
 # DONE
 
