@@ -302,9 +302,9 @@ So, let me embrace a less ideological idea and more pragmatic one. What about if
 ## Related articles
 
 - [General Harald Kujat: NATO Provoked Ukraine War](337-general-harald-kujat-nato-provoked-ukraine-war.md#?target=_blank) &nbsp; (2025-09-21)
-+
+
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
-+
+
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
 
 +
