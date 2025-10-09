@@ -5,7 +5,15 @@
 
 ## Noi siamo i palestinesi del futuro
 
-Con la scusa del constrasto alla pedofilia, la UE vuole spiare la corrispondenza di tutti. Vogliono adottare in Europa lo stesso approccio che l'IDF ha usato con i palestinesi a Gaza. Ma il futuro appare ancora più fosco perché pressoché in contemporanea (2026, dati consultabili da luglio 2027) è prevista l'introduzione della DAC/9 la direttiva con cui la UE intende raccogliere tutti i dati su redditi, proprietà, partecipazione e fiscalità di tutti i cittadini degli stati dell'Unione Europea. Considerando che l'IVA è una materia fiscale esclusiva della UE su cui i singoli stati dell'unione non possono intervenire e che l'evasione IVA per un eccesso totale di €50mila euro comporta azioni penali d'ufficio, abbiamo un quadro decisamente allarmante.
+- **1st edition**, scritto a partire da tre miei post publicati su LinkedIn: [post #1](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381941438411870208-S1Hm), [post #2](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381940011098877952-__37) e [post #3](https://www.linkedin.com/posts/robertofoglietta_il-prossimo-14-ottobre-%C3%A8-una-data-cruciale-activity-7381721306729267200-AmcE)
+
+---
+
+### Introduzione
+
+Con la scusa del constrasto alla pedofilia, la UE vuole spiare la corrispondenza di tutti. Vogliono adottare in Europa lo stesso approccio che l'IDF ha usato con i palestinesi a Gaza. Ma il futuro appare ancora più fosco perché pressoché in contemporanea (2026, dati consultabili da luglio 2027) è prevista l'introduzione della DAC/9 la direttiva con cui la UE intende raccogliere tutti i dati su redditi, proprietà, partecipazione e fiscalità di tutti i cittadini degli stati dell'Unione Europea.
+
+Considerando che l'IVA è una materia fiscale esclusiva della UE su cui i singoli stati dell'unione non possono intervenire e che l'evasione IVA per un eccesso totale di €50mila euro comporta azioni penali d'ufficio, abbiamo un quadro decisamente allarmante.
 
 Prima di tutto cominciamo con il fare ordine in maniera che il ragionamento sia chiaro e lineare. 
 
