@@ -1,4 +1,4 @@
-<div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="wbsketch darkinv" src="img/342-noi-siamo-i-palestinesi-del-futuro-img.jpg"><br/></div>
@@ -11,7 +11,51 @@
 
 ### Introduzione
 
-Con la scusa del constrasto alla pedofilia, la UE vuole spiare la corrispondenza di tutti. Vogliono adottare in Europa lo stesso approccio che l'IDF ha usato con i palestinesi a Gaza. Ma il futuro appare ancora più fosco perché pressoché in contemporanea (2026, dati consultabili da luglio 2027) è prevista l'introduzione della DAC/9 la direttiva con cui la UE intende raccogliere tutti i dati su redditi, proprietà, partecipazione e fiscalità di tutti i cittadini degli stati dell'Unione Europea.
+Recentemente due notizie hanno fatto capolino sui media nel marasma generato dall'attenzione mediatica di eventi geopolitici più o meno distanti come la crisi a Gaza o la guerra in Ucraina.
+
+Sono due notizie apparentemente distinte che riguardano questioni indipendenti, apparentemente. Invece hanno importanti aspetti in comune e fondamentalmente lo stesso obiettivo, e sono fra loro complementari a questo obiettivo.
+
+---
+
+### Il contrasto alla pedofilia online
+
+Il 14 ottobre il Consiglio dell’Unione Europea voterà la proposta di regolamento Csar (Child Sexual Abuse Regulation), nota anche come “Chat Control”. Questa norma obbligherebbe i fornitori di servizi digitali, anche quelli con crittografia end-to-end, a eseguire una scansione preventiva (client-side scanning) di tutte le comunicazioni e file degli utenti per rilevare materiale di abuso sessuale su minori. 
+
+L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti pedopornografici, è però fortemente criticata da organizzazioni come la Electronic Frontier Foundation (EFF) per i gravi rischi che comporta alla privacy digitale, alla sicurezza delle comunicazioni e alla libertà di espressione, poiché introduce una forma di sorveglianza invasiva sui dispositivi personali degli utenti.
+
+- [Chat Control: con la scusa della pedofilia, l’Ue si prepara a spiare la corrispondenza di tutti](https://it.insideover.com/media-e-potere/chat-control-con-la-scusa-della-pedofilia-lue-si-prepara-a-spiare-la-corrispondenza-di-tutti.html) &nbsp; (2025-10-07)
+
+- [Fermate Chat Control! Il grido d'allarme di attivisti ed esperti di privacy](https://www.wired.it/article/chat-control-grido-allarme-attivisti-privacy/) &nbsp; (2025-10-02)
+
+- [Oltre lo slogan della scansione istantanea](https://www.geopolitica.info/scansione-istantanea-chat-control-normativa-ue/) &nbsp; (2025-10-01)
+
+----
+
+### La cooperazione fiscale in Europa
+
+L'Unione Europea intende dal 2026 implementare un sistema centralizzato per la condivisione e consultazione tra gli Stati membri di informazioni fiscali, tra cui redditi, proprietà e dati fiscali.
+
+Questo progetto rientra nelle iniziative contenute nella Direttiva sulla cooperazione amministrativa in materia fiscale (DAC) che si aggiorna con la proposta DAC9, emessa per facilitare lo scambio automatico e standardizzato di dati fiscali tra i Paesi UE.
+
+DAC9 mira a semplificare gli obblighi di dichiarazione fiscale per le imprese multinazionali, permettendo un'unica dichiarazione centralizzata e lo scambio di informazioni attraverso uno schema IT comune sviluppato a livello europeo e basato sugli standard OCSE, con primo scambio previsto non prima di dicembre 2026. 
+
+Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027.
+
+Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
+
+- [Dutch legislation to implement DAC9](https://www.pwc.nl/en/insights-and-publications/tax-news/pwc-special-budget-day/dac9-tax-plan-2026.html) &nbsp; (2025-09-16)
+
+- [Council of the EU adopts DAC9 pillar two simplification directive](https://www.internationaltaxreview.com/article/2eobkddqgqvmqog4bery8/direct-tax/council-of-the-eu-adopts-dac9-pillar-two-simplification-directive) &nbsp; (2025-04-15)
+
+- [European Single Access Point (ESAP), Updates](https://www.european-financial-data-space.com/European_Single_Access_Point_%28ESAP%29.html) &nbsp; (2024-10-24)
+
+---
+
+### Controllo di massa spacciato per sicurezza
+
+Con la scusa del constrasto alla pedofilia, la UE vuole spiare la corrispondenza di tutti. Vogliono adottare in Europa lo stesso approccio che l'IDF ha usato con i palestinesi a Gaza.
+
+Ma il futuro appare ancora più fosco perché pressoché in contemporanea (2026, dati consultabili da luglio 2027) è prevista l'introduzione della DAC/9 la direttiva con cui la UE intende raccogliere tutti i dati su redditi, proprietà, partecipazione e fiscalità di tutti i cittadini degli stati dell'Unione Europea.
 
 Considerando che l'IVA è una materia fiscale esclusiva della UE su cui i singoli stati dell'unione non possono intervenire e che l'evasione IVA per un eccesso totale di €50mila euro comporta azioni penali d'ufficio, abbiamo un quadro decisamente allarmante.
 
@@ -25,23 +69,33 @@ Prima di tutto cominciamo con il fare ordine in maniera che il ragionamento sia 
 
 Infine, assodato che l'idea di raccogliere dati, quindi fare profilazione dei cittadini, e sorveglianza di massa, utilizzando sistemi automatici, è una scelta **sbagliata** sotto molti punti di vista, non solo un'idea malsana per la democrazia (ammesso che far votare ignoranti sia democrazia) e non solo una vaga paura irrazionale verso un futuro distopico che potrebbe essere etichettato come anti-scientismo o paura dell'ignoto (tecnologia), occorre offrire delle alternative.
 
-Perché la civiltà richiede che la società abbia delle regole di riferimento, che abbia delle autorità che possano prendere delle decisioni e ovviamente anche una contribuzione equa seppur forzosa alla fine di sostenere lo sviluppo della civiltà e il benessere della società, stante che non tutti gli obiettivi socialmente utili sono anche attività imprenditoriali e qualora lo diventassero perderebbero la loro funziona sociale che invece è essenziale.
+Perché la civiltà richiede che la società abbia delle regole di riferimento, che abbia delle autorità che possano prendere delle decisioni e ovviamente anche una contribuzione equa seppur forzosa alla fine di sostenere lo sviluppo della civiltà e il benessere della società. Stante che non tutti gli obiettivi socialmente utili sono anche attività imprenditoriali e qualora lo diventassero perderebbero la loro funziona sociale che invece è essenziale.
 
-In sintensi, è indispensabile porsi delle domande (e porsi le domande giuste è già metà del lavoro), è importante darsi delle risposte ma è anche essenziale saper individuare delle alternative perché altrimenti ci si ritroverebbe in un dilemma `SI`/`NO` ma senza una terza via che indica in un `COME`, l'alternativa possibile e anche migliorativa. Risulta quindi fondamentale uscire dal bipolarismo mentale che ci ha soggiogati, ha diviso la società, infiammato il dibattiti e portati alla paradossale, per non dire catastrofica, situazione attuale.
+In sintensi, è indispensabile porsi delle domande (e porsi le domande giuste è già metà del lavoro), è importante darsi delle risposte ma è anche essenziale saper individuare delle alternative perché altrimenti ci si ritroverebbe in un dilemma `SI`/`NO`.
 
-DEFENCE BUT UNDER THIS PoV,
-IS A BIPOLARISM OF THINKING
+Ma senza una terza via che indica in un `COME`, l'alternativa possibile e anche migliorativa. Risulta quindi fondamentale uscire dal bipolarismo mentale che ci ha soggiogati, ha diviso la società, infiammato il dibattiti e portati alla paradossale, per non dire catastrofica, situazione attuale.
+
+---
+
+### A digital authority is weak, too weak!
+
+Recently the European politics strongly turned in favour towards military defence but a digital authority, whatever it is from money to identity cards or documentation management, is a stregic weakness in time of war. Unless defence is just a buzzword to support an autonomous military capacity to invade or occupy or enforce over near-by under-developed countries. However, even a nowadays under-developed country has enough technological knowledge to seriously harm a digital society. 
 
 People's ignorance about technology and propaganda by digital media created the conditions for a boundless stupidity and a bandwagon of corruption in politics that spread almost all around Europe. Something like destroying crops to install solar panels, to save the world from climate change and depending on imports for the food while the variability does not fit into our power needs and creates complexity that is a systemic fragility in time of war. -- lnkd.in/dEhJ7nUc
 
-CONTROLLO DELLE COMUNICAZIONI,
-DEI REDDITI E DEI PATRIMONI (FISCO)
+---
 
-Forse non passerà ma la tentazione è tanta. Però lo sono anche gli ostacoli: molti commercianti di lunga data finiranno arrestati perché sono evasori storici e in quanti tali hanno sicuramente superato i 50K di evasione IVA che è una "cosa" europea su cui gli stati NON possono intervenire.
+### Chat mass surveilance and fiscality
 
-Quindi l'idea non è solo pericolosa è anche bizzarra. Ma la gente NON comprende e pensa che l'evasione sia un fenomeno da combattere quando di fatto la fiscalità è invece controllo politico e racket. Infatti, quando si parla di un prelievo complessivo oltre il 10% (la decima) che è il valore massimo applicato nell'intera storia pre-moderna, è racket. Perchè?
+Forse non riuscirà a passare il voto di approvazione l'idea di una sorveglianza di massa delle comunicazioni digitale (chat surveillance) ma la tentazione è tanta e non è la sola perché, su un binario apparentemente separato e indipendente, l'Unione Europea sta pianificando di centralizzare anche il controllo fiscale ed anche quello sarà un controllo di massa, costante e sistematico.
 
-LA FISCALITÀ ATTUALE È RACKET
+Però lo sono anche gli ostacoli: molti commercianti di lunga data finiranno arrestati perché sono evasori storici e in quanti tali hanno sicuramente superato i €50mila di evasione IVA che è una normativa europea su cui gli stati dell'unione come l'Italia **non** possono intervenire.
+
+Quindi l'idea non è solo pericolosa è anche bizzarra. Ma la gente **non** comprende e pensa che l'evasione sia un fenomeno da combattere quando di fatto la fiscalità è invece controllo politico e racket. Infatti, quando si parla di un prelievo complessivo oltre il 10% (la decima) che è il valore massimo applicato nell'intera storia pre-moderna, è racket. Perchè?
+
+---
+
+### Fiscalità giusta o racket organizzato?
 
 L'impero romano che portava alle sue provincie appena conquistate la civiltà (ponti, acquedotti, etc. vedere Monty Python che è divertente quando i rivoluzionari chiedono cosa abbiano portato i romani in Palestina in cambio della decima, praticamente dei benefattori). Oggi che è ancora meno impegnativo realizzare quelle opere perché abbiamo macchine (ruspe, gru, etc.) e sistemi allora impensabili.
 
@@ -49,30 +103,15 @@ Quindi eccedere il 10% significa fare racket. Si tratta indubbiamente di racket 
 
 Noi non abbiamo costruito una civiltà migliore di quella antica, estendo i benefici grazie al surplus di scienza e tecnologia, abbiamo concesso il voto agli ignoranti perché grazie a quello fosse possibile organizzare il più massiccio e ignobile sistema di racket nella storia dell'umanità.
 
-Il 14 ottobre il Consiglio dell’Unione Europea voterà la proposta di regolamento Csar (Child Sexual Abuse Regulation), nota anche come “Chat Control”. Questa norma obbligherebbe i fornitori di servizi digitali, anche quelli con crittografia end-to-end, a eseguire una scansione preventiva (client-side scanning) di tutte le comunicazioni e file degli utenti per rilevare materiale di abuso sessuale su minori. 
-
-L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti pedopornografici, è però fortemente criticata da organizzazioni come la Electronic Frontier Foundation (EFF) per i gravi rischi che comporta alla privacy digitale, alla sicurezza delle comunicazioni e alla libertà di espressione, poiché introduce una forma di sorveglianza invasiva sui dispositivi personali degli utenti.
-
-- https://it.insideover.com/media-e-potere/chat-control-con-la-scusa-della-pedofilia-lue-si-prepara-a-spiare-la-corrispondenza-di-tutti.html)
-
-- https://www.wired.it/article/chat-control-grido-allarme-attivisti-privacy/
-
-- https://www.geopolitica.info/scansione-istantanea-chat-control-normativa-ue/
-
-DAC9: LA NUOVA DIRETTIVA UE 
-SULLA COOPERAZIONE FISCALE
-
-L'Unione Europea intende dal 2026 implementare un sistema centralizzato per la condivisione e consultazione tra gli Stati membri di informazioni fiscali, tra cui redditi, proprietà e dati fiscali. Questo progetto rientra nelle iniziative contenute nella Direttiva sulla cooperazione amministrativa in materia fiscale (DAC) che si aggiorna con la proposta DAC9, emessa per facilitare lo scambio automatico e standardizzato di dati fiscali tra i Paesi UE.
-
-DAC9 mira a semplificare gli obblighi di dichiarazione fiscale per le imprese multinazionali, permettendo un'unica dichiarazione centralizzata e lo scambio di informazioni attraverso uno schema IT comune sviluppato a livello europeo e basato sugli standard OCSE, con primo scambio previsto non prima di dicembre 2026. Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027.
-
-Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
-
-Articoli: lnkd.in/dR-iq6Km, lnkd.in/dPuUv9nj e lnkd.in/dNnWQmyw
++
 
 ## Related articles
 
+- [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
+
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
+
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 
 +
 
