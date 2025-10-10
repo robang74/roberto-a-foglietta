@@ -11,9 +11,7 @@
 
 ### Introduzione
 
-Recentemente due notizie hanno fatto capolino sui media nel marasma generato dall'attenzione mediatica di eventi geopolitici più o meno distanti come la crisi a Gaza o la guerra in Ucraina.
-
-Sono due notizie apparentemente distinte che riguardano questioni indipendenti, apparentemente. Invece hanno importanti aspetti in comune e fondamentalmente lo stesso obiettivo, e sono fra loro complementari a questo obiettivo.
+Recentemente due notizie hanno fatto capolino sui media nel marasma generato dall'attenzione mediatica di eventi geopolitici più o meno distanti come la crisi a Gaza o la guerra in Ucraina. Sono due notizie apparentemente distinte che riguardano questioni indipendenti, apparentemente. Invece hanno importanti aspetti in comune e fondamentalmente lo stesso obiettivo, e sono fra loro complementari a questo obiettivo.
 
 ---
 
@@ -26,31 +24,23 @@ L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti
 [/INFO]
 
 - [Chat Control: con la scusa della pedofilia, l’Ue si prepara a spiare la corrispondenza di tutti](https://it.insideover.com/media-e-potere/chat-control-con-la-scusa-della-pedofilia-lue-si-prepara-a-spiare-la-corrispondenza-di-tutti.html) &nbsp; (2025-10-07)
-
 - [Fermate Chat Control! Il grido d'allarme di attivisti ed esperti di privacy](https://www.wired.it/article/chat-control-grido-allarme-attivisti-privacy/) &nbsp; (2025-10-02)
-
 - [Oltre lo slogan della scansione istantanea](https://www.geopolitica.info/scansione-istantanea-chat-control-normativa-ue/) &nbsp; (2025-10-01)
 
-----
+---
 
 ### La cooperazione fiscale in Europa
 
 [!INFO]
 L'Unione Europea intende dal 2026 implementare un sistema centralizzato per la condivisione e consultazione tra gli Stati membri di informazioni fiscali, tra cui redditi, proprietà e dati fiscali.
 
-Questo progetto rientra nelle iniziative contenute nella Direttiva sulla cooperazione amministrativa in materia fiscale (DAC) che si aggiorna con la proposta DAC9, emessa per facilitare lo scambio automatico e standardizzato di dati fiscali tra i Paesi UE.
+Questo progetto rientra nelle iniziative contenute nella Direttiva sulla cooperazione amministrativa in materia fiscale (DAC) che si aggiorna con la proposta DAC9, emessa per facilitare lo scambio automatico e standardizzato di dati fiscali tra i Paesi UE. DAC9 mira a semplificare gli obblighi di dichiarazione fiscale per le imprese multinazionali, permettendo un'unica dichiarazione centralizzata e lo scambio di informazioni attraverso uno schema IT comune sviluppato a livello europeo e basato sugli standard OCSE, con primo scambio previsto non prima di dicembre 2026. 
 
-DAC9 mira a semplificare gli obblighi di dichiarazione fiscale per le imprese multinazionali, permettendo un'unica dichiarazione centralizzata e lo scambio di informazioni attraverso uno schema IT comune sviluppato a livello europeo e basato sugli standard OCSE, con primo scambio previsto non prima di dicembre 2026. 
-
-Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027.
-
-Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
+Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027. Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
 [/INFO]
 
 - [Dutch legislation to implement DAC9](https://www.pwc.nl/en/insights-and-publications/tax-news/pwc-special-budget-day/dac9-tax-plan-2026.html) &nbsp; (2025-09-16)
-
 - [Council of the EU adopts DAC9 pillar two simplification directive](https://www.internationaltaxreview.com/article/2eobkddqgqvmqog4bery8/direct-tax/council-of-the-eu-adopts-dac9-pillar-two-simplification-directive) &nbsp; (2025-04-15)
-
 - [European Single Access Point (ESAP), Updates](https://www.european-financial-data-space.com/European_Single_Access_Point_%28ESAP%29.html) &nbsp; (2024-10-24)
 
 ---
@@ -66,9 +56,7 @@ Considerando che l'IVA è una materia fiscale esclusiva della UE su cui i singol
 Prima di tutto cominciamo con il fare ordine in maniera che il ragionamento sia chiaro e lineare. 
 
 - Perché quella del contrasto alla pedofilia è una scusa? [link #1](339-introduzione-alla-politica-concetti-di-base.md#lanonimato-su-internet?target=_blank)
-
 - Perché il controllo di massa è contrario alla difesa? [link #2](334-raccolta-di-post-sulla-crisi-di-gaza.md#under-this-perspective-it-is-a-bipolarism-of-thinking?target=_blank)
-
 - Perché queste due direttive sono l'inizio della fine? [link #3](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#ritorno-alla-preistoria?target=_blank)
 
 Infine, assodato che l'idea di raccogliere dati, quindi fare profilazione dei cittadini, e sorveglianza di massa, utilizzando sistemi automatici, è una scelta **sbagliata** sotto molti punti di vista, non solo un'idea malsana per la democrazia (ammesso che far votare ignoranti sia democrazia) e non solo una vaga paura irrazionale verso un futuro distopico che potrebbe essere etichettato come anti-scientismo o paura dell'ignoto (tecnologia), occorre offrire delle alternative.
@@ -99,7 +87,7 @@ Quindi l'idea non è solo pericolosa è anche bizzarra. Ma la gente **non** comp
 
 ---
 
-### Fiscalità giusta o racket organizzato?
+### Fiscalità iniqua o racket organizzato?
 
 L'impero romano che portava alle sue provincie appena conquistate la civiltà (ponti, acquedotti, etc. vedere Monty Python che è divertente quando i rivoluzionari chiedono cosa abbiano portato i romani in Palestina in cambio della decima, praticamente dei benefattori). Oggi che è ancora meno impegnativo realizzare quelle opere perché abbiamo macchine (ruspe, gru, etc.) e sistemi allora impensabili.
 
@@ -107,17 +95,19 @@ Quindi eccedere il 10% significa fare racket. Si tratta indubbiamente di racket 
 
 Noi non abbiamo costruito una civiltà migliore di quella antica, estendo i benefici grazie al surplus di scienza e tecnologia, abbiamo concesso il voto agli ignoranti perché grazie a quello fosse possibile organizzare il più massiccio e ignobile sistema di racket nella storia dell'umanità.
 
----
+----
 
 ### Riflessione conclusiva
 
 Per l'Europa Unita del futuro hanno addottato il modello di sorveglianza di massa sperimentato dall'IDF sui Palestinesi, unito alla fiscalità centralizzata che si basa su un sistema in cui la moneta corrente è priva di qualsiasi collaterale nel mondo reale quindi è fiat-currency pura, che si fantastica possa diventare totalmente digitale, quindi integralmente un social-score che di fatto funziona come un comunismo finanziario.
 
-Ma, giacché tutto ciò era **solo** distopia hanno pensato bene di mantenere il modello otto-novecentesco, quindi quello emerso dalla Rivoluzione Industriale e due guerre mondiali, con tutta l'insana burocrazia stratificata ora anche a livello europeo, e di "svecchiarlo" con il digitale. Nel mentre che viviamo un contrasto sotterraneo fra EUR vs USD come valuta di riserva e di scambio internazionale, infilarsi nel deja-vù della guerra alla Russia.
+Ma giacché tutto ciò era **solo** distopia, hanno pensato bene di mantenere e consolidare il modello otto-novecentesco. Quello emerso dalla Rivoluzione Industriale e due guerre mondiali, con tutta l'insana burocrazia stratificata ora anche a livello europeo, e di "svecchiarlo" con il digitale. Ma ancora non bastava, così nel mentre che viviamo un guerra mai dichiarata ma reale fra EUR vs USD come valuta di riserva e di scambio internazionale, affrontiamo la fine del globalismo come ordine geopolitico, hanno pensato bene di infilarsi nel vetusto deja-vù della guerra alla Russia.
 
-Guerra alla Russia, che già di suo è un'idea cretina giacché i russi si stavano occidentalizzando molto più velocemente di quanto non facessore i paesi dell'est che erano parte dell'Unione Sovietica, e per dirlo basta verificare le abitudini di consumo e la penetrazione dello stile americano nelle grandi città della Russia prima del 2022, e partner indispensabile per le forniture energetiche. Qualora non fossero bastati Napoleone e Hitler per imparare la lezione.
+Guerra alla Russia, che già di suo è un'idea cretina giacché la Russia era un partner indispensabile per le forniture energetiche a basso costo, pena la deindustrializzazione come stiamo osservando in Germania e di riflesso l'azzeramento dell'industria automotive in Italia che da quella tedesca dipendeva direttamente o indirettamente. 
 
-Ci si trova di fronte ad una governace europea che nel suo complesso si stenta a credere sia frutto della sola stupidità tanto il disegno è malvagio e criminale da far apparire un racket organizzato come una banale organizzazione criminale delle tante che cercano l'impunità tramite l'acquisto di coperture politiche di bassa lega pagando con la gesione di atività discutibili portate avanti ai margini di una società civile.
+Guerra alla Russia, che già di suo è un'idea cretina, qualora non fossero bastate le imprese di Napoleone e Hitler per imparare la lezione, perché i russi si stavano occidentalizzando molto più velocemente di quanto non facessero i paesi dell'est che erano parte dell'Unione Sovietica. Per comprenderlo basta osservare il nazionalismo tradizionalista della Polonia e confrontarlo con le abitudini di consumo e lo stile americano in Russia prima del 2022.
+
+Insomma, ci si trova di fronte ad una governace europea che nel suo complesso si stenta a credere sia frutto della sola stupidità tanto il disegno è malvagio e criminale da far apparire un racket organizzato come una banale organizzazione criminale delle tante che cercano l'impunità tramite l'acquisto di coperture politiche di bassa lega pagando con la gesione di atività discutibili portate avanti ai margini di una società civile.
 
 Viviamo in un tempo in cui i criminali appaiono persone "ragionevoli" di fronte a cotanta follia.
 
@@ -134,6 +124,8 @@ Il tempo delle parole è giunto al termine ma già prima era venuto meno il diri
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
 +++++
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
++++++
+- [The real reason why Putin is so hated](329-the-real-reason-why-putin-is-so-hated.md#?target=_blank) &nbsp; (2025-06-30)
 +++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 +++++
