@@ -19,9 +19,11 @@ Sono due notizie apparentemente distinte che riguardano questioni indipendenti, 
 
 ### Il contrasto alla pedofilia online
 
+[!INFO]
 Il 14 ottobre il Consiglio dell’Unione Europea voterà la proposta di regolamento Csar (Child Sexual Abuse Regulation), nota anche come “Chat Control”. Questa norma obbligherebbe i fornitori di servizi digitali, anche quelli con crittografia end-to-end, a eseguire una scansione preventiva (client-side scanning) di tutte le comunicazioni e file degli utenti per rilevare materiale di abuso sessuale su minori. 
 
 L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti pedopornografici, è però fortemente criticata da organizzazioni come la Electronic Frontier Foundation (EFF) per i gravi rischi che comporta alla privacy digitale, alla sicurezza delle comunicazioni e alla libertà di espressione, poiché introduce una forma di sorveglianza invasiva sui dispositivi personali degli utenti.
+[/INFO]
 
 - [Chat Control: con la scusa della pedofilia, l’Ue si prepara a spiare la corrispondenza di tutti](https://it.insideover.com/media-e-potere/chat-control-con-la-scusa-della-pedofilia-lue-si-prepara-a-spiare-la-corrispondenza-di-tutti.html) &nbsp; (2025-10-07)
 
@@ -33,6 +35,7 @@ L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti
 
 ### La cooperazione fiscale in Europa
 
+[!INFO]
 L'Unione Europea intende dal 2026 implementare un sistema centralizzato per la condivisione e consultazione tra gli Stati membri di informazioni fiscali, tra cui redditi, proprietà e dati fiscali.
 
 Questo progetto rientra nelle iniziative contenute nella Direttiva sulla cooperazione amministrativa in materia fiscale (DAC) che si aggiorna con la proposta DAC9, emessa per facilitare lo scambio automatico e standardizzato di dati fiscali tra i Paesi UE.
@@ -42,6 +45,7 @@ DAC9 mira a semplificare gli obblighi di dichiarazione fiscale per le imprese mu
 Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027.
 
 Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
+[/INFO]
 
 - [Dutch legislation to implement DAC9](https://www.pwc.nl/en/insights-and-publications/tax-news/pwc-special-budget-day/dac9-tax-plan-2026.html) &nbsp; (2025-09-16)
 
@@ -61,11 +65,11 @@ Considerando che l'IVA è una materia fiscale esclusiva della UE su cui i singol
 
 Prima di tutto cominciamo con il fare ordine in maniera che il ragionamento sia chiaro e lineare. 
 
-- Perché quella del contrasto alla pedofilia è una scusa? (#TODO mettere link)
+- Perché quella del contrasto alla pedofilia è una scusa? [link #1](339-introduzione-alla-politica-concetti-di-base.md#lanonimato-su-internet?target=_blank)
 
-- Perché il controllo di massa è contrario alla difesa? (#TODO mettere link)
+- Perché il controllo di massa è contrario alla difesa? [link #2](334-raccolta-di-post-sulla-crisi-di-gaza.md#under-this-perspective-it-is-a-bipolarism-of-thinking?target=_blank)
 
-- Perché queste due direttive sono l'inizio della fine?
+- Perché queste due direttive sono l'inizio della fine? [link #3](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#ritorno-alla-preistoria?target=_blank)
 
 Infine, assodato che l'idea di raccogliere dati, quindi fare profilazione dei cittadini, e sorveglianza di massa, utilizzando sistemi automatici, è una scelta **sbagliata** sotto molti punti di vista, non solo un'idea malsana per la democrazia (ammesso che far votare ignoranti sia democrazia) e non solo una vaga paura irrazionale verso un futuro distopico che potrebbe essere etichettato come anti-scientismo o paura dell'ignoto (tecnologia), occorre offrire delle alternative.
 
@@ -103,15 +107,39 @@ Quindi eccedere il 10% significa fare racket. Si tratta indubbiamente di racket 
 
 Noi non abbiamo costruito una civiltà migliore di quella antica, estendo i benefici grazie al surplus di scienza e tecnologia, abbiamo concesso il voto agli ignoranti perché grazie a quello fosse possibile organizzare il più massiccio e ignobile sistema di racket nella storia dell'umanità.
 
+---
+
+### Riflessione conclusiva
+
+Per l'Europa Unita del futuro hanno addottato il modello di sorveglianza di massa sperimentato dall'IDF sui Palestinesi, unito alla fiscalità centralizzata che si basa su un sistema in cui la moneta corrente è priva di qualsiasi collaterale nel mondo reale quindi è fiat-currency pura, che si fantastica possa diventare totalmente digitale, quindi integralmente un social-score che di fatto funziona come un comunismo finanziario.
+
+Ma, giacché tutto ciò era **solo** distopia hanno pensato bene di mantenere il modello otto-novecentesco, quindi quello emerso dalla Rivoluzione Industriale e due guerre mondiali, con tutta l'insana burocrazia stratificata ora anche a livello europeo, e di "svecchiarlo" con il digitale. Nel mentre che viviamo un contrasto sotterraneo fra EUR vs USD come valuta di riserva e di scambio internazionale, infilarsi nel deja-vù della guerra alla Russia.
+
+Guerra alla Russia, che già di suo è un'idea cretina giacché i russi si stavano occidentalizzando molto più velocemente di quanto non facessore i paesi dell'est che erano parte dell'Unione Sovietica, e per dirlo basta verificare le abitudini di consumo e la penetrazione dello stile americano nelle grandi città della Russia prima del 2022, e partner indispensabile per le forniture energetiche. Qualora non fossero bastati Napoleone e Hitler per imparare la lezione.
+
+Ci si trova di fronte ad una governace europea che nel suo complesso si stenta a credere sia frutto della sola stupidità tanto il disegno è malvagio e criminale da far apparire un racket organizzato come una banale organizzazione criminale delle tante che cercano l'impunità tramite l'acquisto di coperture politiche di bassa lega pagando con la gesione di atività discutibili portate avanti ai margini di una società civile.
+
+Viviamo in un tempo in cui i criminali appaiono persone "ragionevoli" di fronte a cotanta follia.
+
+Il tempo delle parole è giunto al termine ma già prima era venuto meno il diritto.
+
 +
 
 ## Related articles
 
 - [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
-
++++++
+- [Raccolta di post sulla crisi di Gaza](334-raccolta-di-post-sulla-crisi-di-gaza.md#under-this-perspective-it-is-a-bipolarism-of-thinking?target=_blank) &nbsp; (2025-09-01)
++++++
 - [Tajani, il blu madonna e le 12 tribù](331-tajani-il-blu-madonna-e-le-dodici-tribu.md#?target=_blank) &nbsp; (2025-07-07)
-
++++++
+- [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
++++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
++++++
+- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-05-18)
++++++
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
 +
 
