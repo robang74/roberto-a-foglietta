@@ -4,19 +4,18 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
 Chatbot: Gemini 2.5 Flash
 Created: 20 settembre 2025
-Published 21 settembre 2025
+Published: 21 settembre 2025
 Attachment: none
 URL: g.co/gemini/share/9ccadd65adbe
 
 ================================================================================
 -- HO --------------------------------------------------------------------------
 
-Considering the youtube video url, can you confirm the written information
-below?
+Considering the youtube video url, 
 
-https://youtu.be/sJ-pWvv--FM?si=vF_WQSYF61lyiRyD
+- https://youtu.be/sJ-pWvv--FM?si=vF_WQSYF61lyiRyD
 
----
+can you confirm the written information below?
 
 19 Sept 2025 -- General Harald Kujat: NATO Provoked Ukraine War
 
