@@ -131,7 +131,7 @@ Il modello HR attuale rientra come parte di una mancata trasizione generazionale
 
 Portati avanti, il tempo necessario per esaurire l'ammortamento delle immobilizzazioni e poi trasferirsi all'estero. Nulla di eclatante, succede in natura e si legge in letteratura MBA. Coloro che a posteriori del G8 di Genova, dopo il 9/11 e con l'ingresso della Cina nel WTO hanno compreso che il "business" si sarebbe spostato in Asia, hanno fatto fondamentalmente due cose: 1. scelto di abbandonare l'Italia senza investimenti di propria tasca, quindi senza rischiare in proprio, e approcciare HR e IT come fosse industria che era l'unico paradigma che conoscevano bene e quindi potevano gestire in proprio; 2. mandato i figli a studiare e/o formarsi in Asia.
 
-I più cogli*ni invece ha costretto i figli alla schivitù del lavoro in time material.
+I più cogli&ast;ni invece ha costretto i figli alla schivitù del lavoro in time material.
 
 +
 
