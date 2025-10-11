@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<!--// div align="center"><img class="wbsketch darkinv" src="img/342-noi-siamo-i-palestinesi-del-futuro-img.jpg"><br/></div //-->
+<div align="center"><img class="bwsketch darkinv" src="img/343-modello-risorse-umane-e-estinzione-impresa-italiana.jpg"><br/></div>
 
 ## Il modello HR e l'estinzione impresa italiana
 
@@ -62,7 +62,7 @@ Su quattro iterazioni, partendo da una base SI/NO con frequenza testa-croce, il 
 
 Quindi è vero che l'HR è femmina. No? 😉 
 
-----
+---
 
 ### Quali svantaggi implica l'HR al femminile?
 
@@ -109,7 +109,11 @@ Quando ci si confronta con altri mercati, specialmente nel segmento IT, queste l
 
 Se un'azienda, quale che ne sia la dimensione, in Italia ma anche altrove in Europa, pensa di potersi posizionare nel mercato dell'informatica con un modello organizzativo di stampo industriale-metalmeccanico -- quindi con un modello di gestione del personale di tipo HR e per giunta al femminile, basato sui presupposti sopra presentati che però sono quelli più diffusi -- possiamo dire si tratti di masochismo-idiozia-follia.
 
-Infatti, in Italia, le aziende che hanno avuto relativamente un buon successo rispetto alle altre sono state quelle di consulenza. Perché fondamentalmente vendono a time material, quindi è un business quasi industriale: si raccolgono "disperati" fra neolaureati di famiglia operaia o senior in cassa-integrazione, li si confeziona come fossero delle ananas e li si vende a peso a delle aziende i cui reparti IT o R&D sono affossati dal loro dipartimento HR.
+---
+
+### Le aziende di consulenza
+
+In Italia, le aziende che hanno avuto relativamente un buon successo rispetto alle altre sono state quelle di consulenza. Perché fondamentalmente vendono a time material, quindi è un business quasi industriale: si raccolgono "disperati" fra neolaureati di famiglia operaia o senior in cassa-integrazione, li si confeziona come fossero delle ananas e li si vende a peso a delle aziende i cui reparti IT o R&D sono affossati dal loro dipartimento HR.
 
 Non penso serva un genio per comprendere queste dinamiche. Però se questo modo di fare ce lo trasciniamo dallo scoppio delle dot-com, evidentemente si tratta di un modello che esercita un certo fascino nella cultura dei decision makers italici. Infatti è proprio così, si tratta di un modus-operandi che al tempo 2000/1 venne supportato dall'idea che gli informatici fossero gli operai del futuro.
 
@@ -117,7 +121,11 @@ Inutile dire che se si usa il cervello come si farebbe con uno strumento per gir
 
 Perché altrimenti, tanto l'industria quanto l'artigianato appena hanno esaurito gli ammortamenti delle immobilizzazioni e in genere ci vuole dai 10 ai 30 anni, traslocano in paesi in cui le opportunità o le quote di vendita sono più importanti. Ovviamente, tutto questo non è colpa del modello HR né tantomeno di coloro che vi lavorano, ma di scelte che furono prese già allora con l'idea di trasferire la produzione all'estero.
 
-La logica alla base di quelle scelte fu banale e codarda: non vogliamo mettere in discussione lo status-quo, non ci azzardiamo a farlo, impostiamo il nostro business in modo di poter completare l'ammortamento delle immobilizzazioni, quindi investiamo il meno possibile e se lo facciamo solo tramite incentivi a fondo perduto, e poi appena ne abbiamo l'occasione traslochiamo all'estero.
+---
+
+### La scelta fu banale e codarda
+
+La logica alla base di quelle scelte fu banale e codarda. Non volevano mettere in discussione lo status-quo, nemmeno azzardarsi a farlo. Quindi impostarono il nostro business model in modo di poter completare l'ammortamento delle immobilizzazioni, investendo il meno possibile, eventualmente solo tramite incentivi a fondo perduto, e poi appena l'occasione sarebbe stata propizia traslocare all'estero.
 
 Una logica chiara e palese, già nelle sue premesse, che nell'impossibilità di cambiare e nella volontà di sfuggire, io stessa come persona e come professionista ho cercato di svicolare cercando di spostare le mie vendite all'estero con l'idea di traslocare. Ma non l'ho fatto solo, chi meno chi più, lo abbiamo fatto tutti coloro che avevano un valore intrinseco, una professionalità spendibile.
 
@@ -139,7 +147,7 @@ Non è che i Gen.X siano più intelligenti dei Boomer, è solo che i Gen.X sono 
 
 - Dicesi suicidio, di massa quando commesso da tanti, estinzione quando è trans-generazionale.
 
----
+----
 
 ### In estrema sintesi
 
