@@ -145,9 +145,13 @@ Perché la selezione naturale è una teoria dei gruppi, **non** si può applicar
 
 Non è che i Gen.X siano più intelligenti dei Boomer, è solo che i Gen.X sono la generazione per il tempo dell'informatica, mentre i Bommer per il tempo dell'industria. Perché ogni generazione nasce, cresce e impara per essere "fit" (adatta) al mondo e al tempo che le appartiene. Però se il passaggio generazionale non avviene, quale che sia la ragione, lo scollamento fra adatti vs realtà diverge.
 
+[!INFO]
+11 ottobre 2025 -- Marelli, Iveco, Italdesign: il riassetto dell’auto coinvolge migliaia di lavoratori. Realtà storiche del settore accanto a imprese più piccole sono al centro, in Italia, di processi di cessione e riassetto societario. In Italia sono almeno 23mila i lavoratori coinvolti in totale, da Marelli fino al dossier Lear. Più della metà nella sola provincia di Torino. -- [Il Sole 24 Ore](https://www.ilsole24ore.com/art/marelli-iveco-italdesign-riassetto-dell-auto-coinvolge-migliaia-lavoratori-AHOlZr6C)
+[/INFO]
+
 - Dicesi suicidio, di massa quando commesso da tanti, estinzione quando è trans-generazionale.
 
-----
+---
 
 ### In estrema sintesi
 
