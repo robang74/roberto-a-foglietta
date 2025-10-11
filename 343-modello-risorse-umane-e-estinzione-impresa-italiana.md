@@ -3,43 +3,53 @@
 
 <!--// div align="center"><img class="wbsketch darkinv" src="img/342-noi-siamo-i-palestinesi-del-futuro-img.jpg"><br/></div //-->
 
-### IL CONCETTO DI HR È MAL POSTO 
+## Il modello HR e l'estinzione impresa italiana
 
-Il concetto di HR è mal posto e anche eticamente sbagliato.
+- **1st edition**, articolo inizialmente ricavato da una serie di miei commenti su LinkedIn.
 
-Premesso che il concetto HR (risorse umane) sia tossico di suo, già nel nome stesso. Un tale modello è assolutamente inadatto, anche saltando a piè pari la questione etica, all'ambito delle professioni intellettuali. Poi il fatto che etica e utilità spesso coincidano (sui grandi numeri, statisticamente intento, quindi inutile citare il caso particolare) dipende dal fatto che la morale è una questione culturale mentre l'etica è "innata" nel senso che ormai si sta arrivando alla validazione scientifica che essa è il prodotto della nostra evoluzione come mammiferi sociali. Giusto per capire che NON ci sono ideologie a sostenere la mia opinione ma una valutazione approfondita di dinamiche sistemiche (statisticamente rilevanti, non casi personali).
+---
+
+## Introduzione
+
+Premesso che ritengo il concetto HR  sia tossico di suo, già nel nome stesso (human resources: risorse umane), poi un tale modello è assolutamente inadatto, anche saltando a piè pari la questione etica, all'ambito delle professioni intellettuali.
+
+Poi il fatto che etica e utilità spesso coincidano (sui grandi numeri, statisticamente intento, quindi inutile citare il caso particolare) dipende dal fatto che la morale è una questione culturale mentre l'etica è "innata" nel senso che ormai si sta arrivando alla validazione scientifica che essa è il prodotto della nostra evoluzione come mammiferi sociali. Giusto per capire che NON ci sono ideologie a sostenere la mia opinione ma una valutazione approfondita di dinamiche sistemiche (statisticamente rilevanti, non casi personali).
 
 L'altro bias dello HR è che "le donne hanno il sesto senso per la selezione" che è una tragedia di proporzioni culturali che ha anticipato la follia dell'ideologia woke e quindi poi da HR a DEI, e sappiamo come è finita: Los Angeles e Hollywood in fiamme perché imporre DEI significa scartare la quasi totalità di coloro che sono preparati e la natura selvaggia (incendi) non perdonano l'impreparazione.
 
-Anche su questo pregiudizio, lasciamo da parte le ideologie e andiamo a ponderare i fatti, a confrontarci con la realtà.
+Dimentichiamoci le ideologie e andiamo a ponderare i fatti, a confrontarci con la realtà.
 
 - **Pregiudizio**: le donne hanno il sesto senso per la selezione
 
 Se fosse vero avremmo un numero di divorzi e di madri single minimo, in statistica si parla di "valori fisiologici" o "minini irriducibili". Tipo una vedova di un incidente stradale del compagno diventa automaticamente una madre single. Ci sono quindi delle situazioni che statisticamente si presentano anche se si facesse tutto bene e tutto perfetto, sempre.
 
-La realtà ci garantisce che quel pregiudizio è falso. La selezione naturale ci conferma che la femmina di una specie sociale preferisce il maschio tossico perché offre, paradossalmente, maggiori probabilità di sopravvivenza alla prole anche se una qualità della vita famigliare nettamente inferiore.
+La realtà ci garantisce che quel pregiudizio è falso. La selezione naturale ci conferma che la femmina di una specie sociale preferisce il maschio tossico perché offre -- in quanto molto aggressivo anche verso i suoi simili e quindi "competitivo" in un ambiente selvaggio -- maggiori probabilità di sopravvivenza alla prole anche se una qualità della vita famigliare nettamente inferiore.
 
 Oggi, la qualità della vita famigliare è l'elemento fondamentale, quello di sopravvivere in termini selvaggi, non esiste più ma è stato determinato per milioni di anni nella selezione naturale di determinate specie di mammiferi. Quindi l'istinto è disallineato con le condizioni di vita degli ultimi secoli e invertito rispetto a quelle degli ultimi decenni.
 
-La premessa quindi indica chiaramente che NON esiste una mia personale volontà di imporre una visione ma di far riflettere le persone su ciò che siamo in funzione di ciò che eravamo e che oggi non siamo più ma in parte ancora sì.
+---
 
-Che poi è il motivo per cui la Chiesa si ostina a considerare certe pratiche offensive della morale cattolica, come il divorzio. Perché sono "novità" che mal si conciliano con la "natura" di ciò che eravamo.
+### La consapevolezza è l'inizio del cambiamento
+
+Magari sarebbe utile che le persone riflettessero su ciò che siamo in funzione di ciò che eravamo e che oggi non siamo più ma in parte ancora sì. Che poi è il motivo per cui la Chiesa si ostina a considerare certe pratiche offensive della morale cattolica, come il divorzio. Perché sono "novità" che mal si conciliano con la "natura" di ciò che eravamo.
 
 Però, giustamente, la società evolve e noi VOGLIAMO andare verso un modello più aperto in cui il divorzio esiste come compensazione delle scelte sbagliate che siamo "abituati" a fare perché evolutivamente convenienti ma attualmente sub-ottimali.
 
 Tanta roba e NON abbiamo ancora affrontato la questione della selezione del personale attraverso la lente del bias che le femmine siano migliori in tale compito, perché "naturalmente" portate ad esso. Però già a questo punto, c'è gente che "sclera" perché l'accettazione della realtà scombina tutta quell'accozzaglia di idee che non si sono mai curate di verificare ma che hanno appresso in modo acritico.
 
-I candidati "sclerano", strano se accadesse diversamente. Chiunque costretto ad una relazione tossica, divorzierebbe potendo. No?
+I candidati "sclerano", strano se accadesse diversamente. Chiunque costretto ad una relazione tossica, divorzierebbe potendo. No? Così arriviamo al punto della questione, quella della selezione del personale che invece potrebbe essere un'attività in cui a prescindere da quanto detto prima, effettivamente, è più congeniale al femminile che al maschile.
 
-Così arriviamo al punto della questione, quella della selezione del personale che invece potrebbe essere un'attività in cui a prescindere da quanto detto prima, effettivamente, è più congeniale al femminile che al maschile.
-
-No, si parta dal presupposto che le femmine finiscono in HR perché è più facile rimpiazzarle in quei ruoli (maternità) perché vengono pagate poco e comunque, generalmente meno degli uomini, perché soffrono più dei maschi dell'invidia (altro pregiudizio ma si può verificare o confutare con una statistica e quindi in termini di grandi numeri è una dinamica non un giudizio morale) e quindi tendono a negoziare al ribasso le retribuzioni quindi sull'insieme degli assunti a minimizzare il costo del personale.
+Si parta dal presupposto che le femmine finiscono in HR perché è più facile rimpiazzarle (maternità) in quei ruoli e perché vengono pagate poco e comunque, generalmente meno degli uomini, perché soffrono più dei maschi dell'invidia (altro pregiudizio ma si può verificare o confutare con una statistica e quindi in termini di grandi numeri è una dinamica non un giudizio morale) e quindi tendono a negoziare al ribasso le retribuzioni quindi sull'insieme degli assunti a minimizzare il costo del personale.
 
 Se minimizzare il costo del personale in termini assoluti sia utile, è già di suo una questiona MOLTO discutibile, nelle professioni ad alto valore intellettuale, decisamente controproducente MA sul lungo periodo. Quindi nei bilanci trimestrali o annuali, si vede solo il vantaggio e non gli effetti collaterali. Tanto basta al management, obiettivo a breve termine raggiunto, bonus vinto.
 
 Sicché in qualunque azienda in cui il management ha obiettivi a breve termine, l'HR al femminile è un cliché.
 
-Fin qui ci siamo arrivati senza nemmeno puntare il dito contro un qualsiasi modello di femminilità o mascolinità. Ci siamo arrivati semplicemente tenendo in considerazione statistiche e dinamiche dei grandi numeri.
+---
+
+### Quali vantaggi offre l'HR al femminile?
+
+Fin qui ci siamo arrivati senza nemmeno puntare il dito contro un qualsiasi modello di femminilità o mascolinità. Ci siamo arrivati semplicemente tenendo in considerazione statistiche e dinamiche dei grandi numeri. Perché anche un moderato pregiudizio polarizza la cultura abbastanza da notare la differenza.
 
 Poi possiamo entrare più nello specifico. Il maschio tende ad avere un approccio accondiscendente con una femmina. Possiamo tirare fuori statistiche a riguardo ma penso sia offensivo negare questa realtà. Questo rende un processo tossico (HR) e intrusivo (selezione) come più accettabile.
 
@@ -48,9 +58,13 @@ Se io da maschio dovessi chiedere a uno sconosciuto sulla fermata del bus che la
 - `M-M x4: 50% *  50% * 50% *50% = 6%`
 - `F-M x4: 60% * 60 * 60% * 60% = 13%`
 
-Su quattro iterazioni, partendo da una base SI/NO con frequenza testa-croce, il vantaggio del 10% sul singolo esito raddoppia. Questo dovrebbe farci capire che piccole differenze, come quelle introdotte da un moderato pregiudizio, producono risultati MOLTO differenti sui grandi numeri.
+Su quattro iterazioni, partendo da una base SI/NO con frequenza testa-croce, il vantaggio del 10% sul singolo esito raddoppia. Questo dovrebbe farci capire che piccole differenze, come quelle introdotte da un moderato pregiudizio, producono risultati MOLTO differenti sui grandi numeri. 
 
 Quindi è vero che l'HR è femmina. No? 😉 
+
+----
+
+### Quali svantaggi implica l'HR al femminile?
 
 Il problema, non è essere "femmina" piuttosto che "maschio" ma il concetto stesso di HR, specialmente nei settori in cui il lavoro intellettuale è la primaria fonte di produzione di valore.
 
@@ -63,37 +77,27 @@ Altre dinamiche statisticamente rilevabili come conseguenze dello HR al femminil
 
 Ci sono altri aspetti di selezione inversa rispetto al ruolo del tecnico informatico propriamente detto. Perché per essere adatti come profilo a gestire computer otto ore al giorno, già sei "sfigato" come maschio e ancora peggio se sei femmina perché manco "scienziata" ma programmatrice. 
 
-Conclusione: quando nell'IT si vuole fare qualcosa di serio, la prima cosa che si fa è togliere di mezzo HR e femmine. L'IT è come la marina militare, ma senza i calendari poster di bellezze ignude tipiche dell'officina meccanica.
+Conclusione: quando nell'IT si vuole fare qualcosa di serio, la prima cosa che si fa è togliere di mezzo HR e femmine. L'IT è come la marina militare, ma senza i calendari poster di bellezze ignude tipiche dell'officina meccanica. Quindi, riguardo all'informatica:
 
-Quindi, riguardo all'informatica: se è timido, è candidabile; se è sgarbato, è candidato! Non yes-man, ma coders. 😊 
+- se è timido, è candidabile; 
+- se è sgarbato, è candidato!
+- Non yes-man, ma coders. 😊
 
-#### POST SCRIPTUM
+Sia chiaro, questa sintesi riguarda uno specifico contesto, quello dell'informatica perché già Ricerca & Sviluppo (R&D) quando sono veramente tali, è un dipartimento a parte, indipendente, e con altre dinamiche. Non troppo diverso, giacché ormai è tutta informatica, ma l'obiettivi e tempistiche sono diverse, quindi anche la pianificazione e di conseguenza la selezione dei candidati.
 
-Roberto, alla NASA le migliori programmatrici e ingegneri del calcolo erano donne (e.g. missione Apollo). Vero, erano gli anni '60-'70 e comunque la NASA non si sognaVA lontanamente di applicare il processo HR. (*)
+Fantascienza per l'Italia, altrove potrebbe sembrare banale o culturalmente irrilevante.
+
+> Roberto, alla NASA le migliori programmatrici e ingegneri del calcolo erano donne (e.g. missione Apollo). Vero, erano gli anni '60-'70 e comunque la NASA non si sognaVANO lontanamente di applicare il processo HR. (*)
+
+(*) **errata corrige**: non si sognaVANO lontanamente
+
+Infatti SpaceX gli ha preso parecchio di quello che era il loro budget per lo spazio. Alla NASA sono diventati "fiorellini" e in SpaceX si licenziano pure i manager perché l'ambiente è tossico! 🤣
 
 Quindi, la ricetta "togliere di mezzo HR e femmine per fare IT serio" presuppone che lo HR ci sia. Se non c'è, il problema NON si pone. Questa, per esempio, è una differenza fra logica "programmatore" (se bla-bla allora bla-bla) e il reparto HR in cui "team working, my dear!": la congiunzione e = AND è spesso una logica binaria, non solo una congiunzione.
 
-#### ERRATA CORRIGE
-
-(*) non si sognaVA lontanamente!
-
-Infatti SpaceX gli ha preso parecchio di quello che era il loro budget per lo spazio. Alla NASA sono diventati "fiorellini" e in SpaceX si licenziano pure i manager perché l'ambiente è tossico! 🤣
-
-#### POST SCRIPTUM
-
-Roberto, alla NASA le migliori programmatrici e ingegneri del calcolo erano donne (e.g. missione Apollo). Vero, erano gli anni '60-'70 e comuqnue la NASA non si sognaVA lontanamente di applicare il processo HR. (*)
-
-Quindi, la ricetta "togliere di mezzo HR e femmine per fare IT serio" presuppone che lo HR ci sia. Se non c'è, il problema NON si pone. Questa, per esempio, è una differenza fra logica "programmatore" (se bla-bla allora bla-bla) e il repato HR in cui "team working, my dear!": la congiunzione e = AND è spesso una logica binaria, non solo una congiunzione.
-
-#### ERRATA CORRIGE
-
-(*) non si sognaVA lontanamente!
-
-Infatti SpaceX gli ha preso parecchio di quello che era il loro budget per lo spazio. Alla NASA sono diventati "fiorellini" e in SpaceX si licenziano pure i manager perché l'ambiente è tossico! 🤣
-
 ---
 
-### RIFLESSIONE GENERALE
+### Riflessione generale
 
 Detto ciò, se dovessi fare selezione per il dipartimento marketing & sale, punterei su una giuria di selezione tutta al femminile fra cui giovani e belle, vecchie e arcigne, se il candidato riesce a conquistarle tutte, ha certamente di fronte a sé una carriera di bonus a go-go scroscianti. Certo, è indiscutibile, in questo modo di approcciare la selezione del personale vi siano dei forti bias. Vero, bisogna allineare i bias della società con lo scopo e il ruolo.
 
@@ -123,7 +127,7 @@ Perché la prima via di fuga è trovarsi un reddito aggiuntivo sfruttando Intern
 
 ---
 
-### CONCLUSIONE
+### Conclusione
 
 Quindi siamo partiti dal modello HR, abbiamo visto come i pregiudizi di genere insiti nella nostra cultura creino delle dinamiche aziendali, come queste dinamiche siano allineate con quelle che sono le dinamiche sociali e imprenditoriali, quali siano gli effetti e in particolare i deficit funzionali, per arrivare alla conclusione che lo status-quo è il prodotto di una scelta precisa e deliberata.
 
@@ -141,9 +145,11 @@ Non è che i Gen.X siano più intelligenti dei Boomer, è solo che i Gen.X sono 
 
 Il modello HR attuale rientra come parte di una mancata transizione generazionale fra Boomer (gli industriali) e la Gen.X (gli informatici). Perché ogni generazione nasce, cresce e si prepara per essere adatta al suo tempo ma quando il passaggio generazionale non avviene e l'ascensore sociale è bloccato, allora sono i vecchi modelli ad essere portati avanti.
 
-Portati avanti, il tempo necessario per esaurire l'ammortamento delle immobilizzazioni e poi trasferirsi all'estero. Nulla di eclatante, succede in natura e si legge in letteratura MBA. Coloro che a posteriori del G8 di Genova, dopo il 9/11 e con l'ingresso della Cina nel WTO hanno compreso che il "business" si sarebbe spostato in Asia, hanno fatto fondamentalmente due cose: 1. scelto di abbandonare l'Italia senza investimenti di propria tasca, quindi senza rischiare in proprio, e approcciare HR e IT come fosse industria che era l'unico paradigma che conoscevano bene e quindi potevano gestire in proprio; 2. mandato i figli a studiare e/o formarsi in Asia.
+Portati avanti, il tempo necessario per esaurire l'ammortamento delle immobilizzazioni e poi trasferirsi all'estero. Nulla di eclatante, succede in natura e si legge in letteratura MBA, anzi per accedere a tali pubblicazioni non serve neanche un MBA, già bastano dei corsi universitari c.d. di supporto (o integrativi) al piano di studi. Come nel mio caso, per esempio.
 
-I più cogli&ast;ni invece hanno costretto i figli alla schiavitù del lavoro in *time-material* (9-18, 40h/w).
+Coloro che a posteriori del G8 di Genova, dopo il 9/11 e con l'ingresso della Cina nel WTO hanno compreso che il "business" si sarebbe spostato in Asia, hanno fatto fondamentalmente due cose: 1. scelto di abbandonare l'Italia senza investimenti di propria tasca, quindi senza rischiare in proprio, e approcciare HR e IT come fosse industria che era l'unico paradigma che conoscevano bene e quindi potevano gestire in proprio; 2. mandato i figli a studiare e/o formarsi in Asia.
+
+I più cogli&ast;ni invece hanno costretto i figli alla schiavitù del lavoro in time-material (9-18, 40h/w).
 
 +
 
