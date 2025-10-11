@@ -123,7 +123,9 @@ Non è che i Gen.X siano più intelligenti dei Boomer, è solo che i Gen.X sono 
 
 - Dicesi suicidio, di massa quando commesso da tanti, estinzione quando è trans-generazionale.
 
-#### In estrema sintesi
+---
+
+### In estrema sintesi
 
 Il modello HR attuale rientra come parte di una mancata trasizione generazionale fra Boomer (gli industriali) e la Gen.X (gli informatici). Perché ogni generazione nasce, cresce e si prepara per essere adatta al suo tempo ma quando il passaggio generazione non avviene e l'ascensore sociale è bloccato, allora sono i vecchi modelli ad essere portati avanti.
 
