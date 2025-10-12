@@ -324,3 +324,21 @@ a.toplink {
         visibility: collapse;
 }
 
+.softimg {
+  display: block;
+
+  /* maschera rettangolare con fade inset di 16 px */
+  mask-image:
+    linear-gradient(to top,    transparent 0%, black 16px),
+    linear-gradient(to bottom, transparent 0%, black 16px),
+    linear-gradient(to left,   transparent 0%, black 16px),
+    linear-gradient(to right,  transparent 0%, black 16px);
+  mask-composite: intersect;          /* sovrappone i 4 gradienti */
+  -webkit-mask-composite: source-in;  /* per WebKit */
+
+  /* ripetizione e dimensioni */
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  -webkit-mask-repeat: no-repeat;
+}
