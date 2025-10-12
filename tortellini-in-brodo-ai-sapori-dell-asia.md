@@ -111,6 +111,11 @@ Magro da sugo o Salsiccia suino 1Kg, al banco a €6.90 da Dalf
 </td></tr>
 <tr    style="border: none;">
 <td    style="border: none;" colspan="3">
+Post pubblicati sui social: 
+[lnkd #1](https://www.linkedin.com/posts/robertofoglietta_carrefour-ekom-italia-vendere-con-le-ricette-activity-7382913733389438976-BU2L) &bull;
+[lnkd #2](https://www.linkedin.com/posts/robertofoglietta_f00-fff-activity-7383135882129735680-Pge1) &bull; 
+[fcbk #1](https://www.facebook.com/roberto.a.foglietta/posts/10162431715903736) &bull;
+[fcbk #2](https://www.facebook.com/roberto.a.foglietta/posts/10162434290898736)
 <hr>
 Share alike: &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 </td></tr>
