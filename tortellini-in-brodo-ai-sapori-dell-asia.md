@@ -8,7 +8,11 @@
 <tr    style="border: none;">
 <td    style="border: none;" colspan="3">
 <div align="center" style="background:red;">
-<img class="softimg" src="img/four-delicius-street-food-logo.png" width="320px"></div>
+<a style="text-decoration:none!important;color:inherit!important;outline:none!important;" 
+   href="../img/four-delicius-street-food-logo.svg" target="_blank" download>
+<img class="softimg" src="img/four-delicius-street-food-logo.png" width="320px">
+</a>
+</div>
 +
 <b style="font-size: 125%;">TORTELLINI IN BRODO AI SAPORI DELL'ASIA</b>
 
