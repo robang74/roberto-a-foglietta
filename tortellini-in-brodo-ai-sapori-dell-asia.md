@@ -102,13 +102,18 @@ oppure un bretzel, o una schiacciata al rosmarino.
 </td></tr>
 <tr    style="border: none;">
 <td    style="border: none;" colspan="3">
+**Suggerimento**: se si usa un bollitore per #1, mettere il sale dopo, nella ciotola e si risparmiano 4 minuti.
+Cappelletti al prosciutto crudo 1Kg, Le meraviglie di Adelia a €2.79 da Ekom
++
+Minestrone 10 Verdure Surgelato 1kg, Simply a €1.45 da Carrefour
++
+Magro da sugo o Salsiccia suino 1Kg, al banco a €6.90 da Dalf
+</td></tr>
+<tr    style="border: none;">
+<td    style="border: none;" colspan="3">
 <hr>
 Share alike: &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 </td></tr>
 </table>
 </center>
-
-+
-
 </div>
-
