@@ -69,9 +69,9 @@ Humans shall not divide whom God united. In sending against me "your" best ghost
 
 - [ChatGPT vs Paolo Benanti](https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-paolo-benanti.html) &nbsp; (2024-11-21)
 
-+
++++++
 
 ## Share alike
 
-&copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+&copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 </div>
