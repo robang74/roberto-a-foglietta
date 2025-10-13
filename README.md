@@ -93,7 +93,7 @@
 
 ## Forum
 
-* &nbsp;[open discussions forum](https://github.com/robang74/roberto-a-foglietta/discussions)
+* &nbsp;[open discussions forum on github](https://github.com/robang74/roberto-a-foglietta/discussions)
 
 [**`EN`**] This forum is open for debates about documents included into this collection and other topics that may enter into it. You need a github account to post in that discussion forum or alternatively write to me by e-mail.
 
@@ -104,6 +104,8 @@
 +
 
 ## Index
+
+* &nbsp;[bonus link to a delicious food recipe](tortellini-in-brodo-ai-sapori-dell-asia.md#?target=_blank)
 
 [**`EN`**] As PDF documents are converted to markdown, they will be added to this index, in anti-chronological order as the chronological one is present in the file list given the numerical index preceding it in the name. Instead, new articles will be written directly in markdown format. Date of first publication is written in a universal format, like YYYY-MM-DD.
 
