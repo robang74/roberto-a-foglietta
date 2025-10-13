@@ -67,7 +67,7 @@ Humans shall not divide whom God united. In sending against me "your" best ghost
 
 ## Related articles
 
-- [ChatGPT vs Paolo Benanti](https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-paolo-benanti.html) &nbsp; (2024-11-21)
+- **ChatGPT vs Paolo Benanti** del 2024-11-21, aggiornato con [la conclusione](https://robang74.github.io/chatbots-for-fun/html/chatgpt-vs-paolo-benanti.html#conclusione) &nbsp; (2025-10-13) 
 
 +++++
 
