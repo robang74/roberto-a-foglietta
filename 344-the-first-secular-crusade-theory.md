@@ -3,7 +3,7 @@
 
 <div align="center"><img class="wbsketch paleinv" src="img/344-the-first-secular-crusade-theory.jpg" alt="Mr. Spock" width="800"><br></div>
 
-## The first 'Secular Crusade' theory
+## The first Secular Crusade theory
 
 - **1st edition**, article writen starting from these post of mines: &nbsp; [part #0](https://www.linkedin.com/posts/robertofoglietta_is-the-resentment-against-church-spreading-activity-7383577726642806785-V_3w) &nbsp; [part #1](https://www.linkedin.com/posts/robertofoglietta_12-ottobre-2025-lecco-a-fuoco-lo-storico-activity-7383562752730157057-id9W) &nbsp; [part #2](https://www.linkedin.com/posts/robertofoglietta_12-ottobre-2025-lecco-a-fuoco-lo-storico-activity-7383590772052398080-8I-1)
 
