@@ -63,6 +63,16 @@ Usually, the younger adult of the rangers closes the end of the track intercepti
 
 Humans shall not divide whom God united. In sending against me "your" best ghosts, you silly men have reunited my legion around me! 😁 
 
+---
+
+### Why it took so long?
+
+- When we see the iceberg, it is too late.
+
+Put in this scenario that being socially emarginate just means being young from a poor family (working class), being fragile implies being sensitive, which implies a high-level of emotional IQ which in normal condition (no abusing condition) leads to high-rate learning (curiosity for others, including what others did, which includes science, art and literature) which leads to high IQ passing test because such a test is a mix of knowledge and social fit not bare brain power.
+
+Therefore the most exposed to being abuse are the leaders of tomorrow raised from the peripheral of the society (social elevator, paradigms fluidity, innovation, etc.) and despite relatively few are abused, the abusing attitude and the sense of injustice corroborated by the sense of impotence, is spread among others that develops the "not to me" attitude which brings to the idea that it is better to be the abuser rather than its victim. The 1971 fake Stanford Prison experiment, docet.
+
 +
 
 ## Related articles
