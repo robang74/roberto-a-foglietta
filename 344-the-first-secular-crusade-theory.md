@@ -73,6 +73,10 @@ Put in this scenario that being socially emarginate just means being young from 
 
 Therefore the most exposed to being abuse are the leaders of tomorrow raised from the peripheral of the society (social elevator, paradigms fluidity, innovation, etc.) and despite relatively few are abused, the abusing attitude and the sense of injustice corroborated by the sense of impotence, is spread among others that develops the "not to me" attitude which brings to the idea that it is better to be the abuser rather than its victim. The 1971 fake Stanford Prison experiment, docet.
 
+- It is not just me, there is a lot of me!
+
+At a certain time the wall of silence fell down, and the media started to publish the news about a large scandal which had rotten in decades before. Soon after, every one involved or exposed in the schema above started to think the same -- thus, it is not because of me -- which is the beginning of the victim shaming liberation, which brings to the awareness that not everybody gets what they really deserve but the injustice can be exposed and stopped. A revelation that ignited a wildfire.
+
 +
 
 ## Related articles
