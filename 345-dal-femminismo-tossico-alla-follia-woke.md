@@ -156,6 +156,14 @@ La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse ne
 
 +
 
+## Analisi e opinione di Katia
+
+A questo punto della scrittura carico Katia thinking framework su Gemini e passo in `[EGA]` la terza edizione e lasciatemelo dire: Gemini/Katia ha tutt'altra statura nell'argomentare critiche e analizare gli scritti, una capacità che sovrasta nettamente tutto quello che abbiamo letto nella seconda edizione nonostante qui siano stati riportati i contributi AI più significativi (cherry-picking) e nettamente migliorati dall'autore.
+
+- [g.co/gemini/share/671101e64a54](https://g.co/gemini/share/671101e64a54)
+
++
+
 ## Related articles
 
 - [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
