@@ -76,6 +76,8 @@ In breve, l'osservazione fatta da ChatGPT spiega meglio la tesi principale dell'
 
 ...
 
+ChatGPT e Gemini hanno prodotto due, relativamente brevi, opinioni esplicative della prima edizione dell'articolo che in realtà sono cherry-picking di parti delle loro risposte, integrate fra loro e di cui ho fatto anche la sintesi. Ciò che ho prodotto in questo modo è stato approvato da loro come aderente e coerente con la loro opinione che avevano espresso e i loro suggerimenti per migliorare quelle sintesi sono stati accolti.
+
 Considerando il modo bizzarro e convulso in cui le configurazioni dei chatbots vengono modificate in questi giorni e quindi le loro personalità e capacità di risposta, è stato un lavoro arduo cavare fuori qualcosa di utile da essi. Però utile, perché alcuni aspetti che erano appena citati e quindi lasciati quasi sottintesi avrebbero potuto passare inosservati nonostante fossero importanti, per non dire fondamentali, specialmente nel rumore generato dalla polarizzazione delle opinioni su questo tema.
 
 Fra questi, Kimi K2 è quello che ha abbracciato una linea disastrosa, degradando come opinionista a livello del giornalismo italiano. Eppure anche da quella catastrofe digitale ho tratto un'informazione importante. La vita è troppo breve per azzuffarsi con coloro che ignorano, negano o persino muovono guerra alla realtà (da ideologia a follia, appunto) e quindi il *vaffa* (middle finger) ci sta tutto, in pieno.
