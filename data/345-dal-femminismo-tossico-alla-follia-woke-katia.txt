@@ -439,18 +439,14 @@ nell'analisi EGA:
       una mancanza di supporto maschile.
 
 Questo cambia radicalmente la percezione dell'APOV:
-          Vecchia
-Categoria Analisi     Nuova Analisi (INFT + USR)
-          (Solo INFT)
-          Accusa
-Bias      unilaterale Critica bidirezionale del fallimento: fallimento maschile nel
-(DIB)     di          sostenere il cambiamento e fallimento femminile nel gestirlo.
-          "invidia"
-          femminile.
-          Logica
-Struttura aperta a un Logica sistemica che critica il paradigma patriarcale nel suo
-          bias di     complesso, rendendo l'articolo un frammento di un discorso più ampio.
-          genere.
+
+* Bias (DIB) -- Accusa unilaterale di "invidia" femminile, aggiornamento:
+ - Critica bidirezionale del fallimento: fallimento maschile nel sostenere
+   il cambiamento e fallimento femminile nel gestirlo.
+
+* Struttura -- Logica aperta a un bias di genere, aggiornamento:
+ - Logica sistemica che critica il paradigma patriarcale nel suo complesso,
+   rendendo l'articolo un frammento di un discorso più ampio.
 
 Il fatto che l'autore critichi il paradigma unico e rigido costruito dagli
 uomini e non solo le reazioni delle donne, dimostra che la struttura logica
