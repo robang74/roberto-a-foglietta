@@ -106,6 +106,12 @@ Sulla semplificazione storica -- Effettivamente, c'è una differenza cruciale tr
 La tesi di fondo che ora emerge più chiaramente -- L'emancipazione vera richiede competenze, autonomia economica e capacità di autodeterminazione reale. Chi ha osservato solo le apparenze (donne in ruoli maschili) senza acquisire le sostanze (competenze, confidenza, indipendenza) ha trasmesso alle figlie invidia e competizione invece che libertà. È una critica alla mimesi superficiale versus trasformazione sostanziale. Questo è effettivamente più incisivo di come l'avevo letto inizialmente.
 [/CITE]
 
+---
+
+### Nota metodologica
+
+Importante ribadirlo: la validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro risposte molto lunghe sia conforme alle risposte stesse che mi hanno fornito.
+
 +
 
 ## Related articles
