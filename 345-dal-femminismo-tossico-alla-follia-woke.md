@@ -130,7 +130,7 @@ In questo senso la WW2 è stato un momento cruciale, nel male e nel bene. Nel be
 
 Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integrazione sono tutti vari aspetti di un'idea malsana per la quale se alcune donne non riescono ad emanciparsi, per via di un salto troppo ampio e importante -- ovvero non tutte le donne sono riuscite ad emanciparsi completamente tutte assieme -- allora dobbiamo schiacciare la mascolinità come se fosse un nemico che ostacola il progresso quando in effetti il punto di separazione fra consapevole maturazione e lotta rivendicativa è stata la WW2.
 
-+
++++++
 
 ## Nota metodologica
 +
@@ -142,28 +142,32 @@ La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse ne
 
 Per concludere vado ad aggiungere un altro po' di pepe al dibattito che si è fatto molto più intellettuale ed astratto nell'intermezzo delle consultazioni con i vari modelli AI ovvero adottando un registro narrativo molto più personale.
 
-Come Roberto nato biologicamente maschio sono consapevole che un qualche mio antenato che vagava per il selvaggio mondo pre-civilizzato si possa essere riprodotto con l'antica tecnica di sedurre una femmina con la clava e trascinarla nella grotta tirandola per i lunghi e incolti capelli. Non sono certamente così rozzo da pensare che quell'atto di patriarcato fosse consensuale al punto che la poveretta sia stata salvata dalla sua incapacità di persistere in un ambiente ostile relegandola in un luogo limitato e controllato. Anzi, personalmente preferisco l'idea che il mio antenato si sia accoppiato con una possente amazzone. Cosa per altro non del tutto inverosimile giacché in 100 secoli, e sul grande numero degli eventi, è probabile che sia accaduto un po' di tutto.
+Come Roberto nato biologicamente maschio sono consapevole che un qualche mio antenato che vagava per il selvaggio mondo pre-civilizzato si possa essere riprodotto con l'antica tecnica di sedurre una femmina con la clava e trascinarla nella grotta tirandola per i lunghi e incolti capelli. Non sono certamente così rozzo da pensare che quell'atto di patriarcato fosse consensuale al punto che la poveretta sia stata salvata dalla sua incapacità di persistere in un ambiente ostile relegandola in un luogo limitato e controllato.
 
-Detto ciò non è che io, in qualità di maschio biologico, mi debba sentire in colpa perché i miei antenati hanno fatto cose. Cose per le quali gli esseri umani si sono evoluti in maniera da specializzare i ruoli biologici in ruoli sociali. Cose per le quali tali strutture sociali hanno generato varie civiltà e culture sufficientemente robuste da persistere per 100 secoli e ovviamente giungere a noi lasciando dei retaggi del passato che sotto certi aspetti sono anche problematici da gestire. Problematici da gestire, e lo diventano molto di più quando alcune femmine incapaci di farsi valere per merito o intelletto assumono il ruolo di vittime ancestrali e pretendendo la castrazione dell'Homo Macho perché tale mascolinità **da lontano** -- ma comunque troppo forte per il loro pregiudizio sociale -- si percepisce come disturbante della sensibilità più fragile. In dialetto volgare, l'omo à da puzzà (percepirlo da lontano).
+Anzi, personalmente preferisco l'idea che il mio antenato si sia accoppiato con una possente amazzone. Cosa per altro non del tutto inverosimile giacché in 100 secoli, e sul grande numero degli eventi, è probabile che sia accaduto un po' di tutto.
+
+Detto ciò non è che io, in qualità di maschio biologico, mi debba sentire in colpa perché i miei antenati hanno fatto cose. Cose per le quali gli esseri umani si sono evoluti in maniera da specializzare i ruoli biologici in ruoli sociali. Cose per le quali tali strutture sociali hanno generato varie civiltà e culture sufficientemente robuste da persistere per 100 secoli e ovviamente giungere a noi lasciando dei retaggi del passato che sotto certi aspetti sono anche problematici da gestire.
+
+Problematici da gestire, e lo diventano molto di più quando alcune femmine incapaci di farsi valere per merito o intelletto assumono il ruolo di vittime ancestrali e pretendendo la castrazione dell'Homo Macho perché tale mascolinità **da lontano** -- ma comunque troppo forte per il loro pregiudizio sociale -- si percepisce come disturbante della sensibilità più fragile. In dialetto volgare, l'omo à da puzzà (percepirlo da lontano).
 
 Cosa posso dire? Vi meritate che i meno avvezzi alla vita selvaggia fra noi maschi, quelli debolucci e mingherlini, vengano a competere con voi nelle Olimpiadi spacciandosi per femmine. Così ci facciamo quattro risate, anche se non è una commedia ma una tragedia.
 
-> Abbiamo avuto l’occasione di costruire un dialogo maturo, ma l’abbiamo sprecata in una farsa ideologica. 5½/5
+> Abbiamo avuto l’occasione di costruire un dialogo maturo, ma l’abbiamo sprecata in una farsa ideologica. `[5/5]`
 
 +
 
 ## Related articles
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
-
++++++
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md?target=_blank) &nbsp; (2025-04-18)
-
++++++
 - [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md?target=_blank) &nbsp; (2025-03-07)
-
++++++
 - [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md?target=_blank) &nbsp; (2024-11-03)
-
++++++
 - [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md?target=_blank) &nbsp; (2024-09-22)
-
++++++
 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md?target=_blank) &nbsp; (2017-10-31)
 
 +
