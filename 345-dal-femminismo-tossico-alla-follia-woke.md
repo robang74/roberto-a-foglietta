@@ -57,6 +57,7 @@ Panta rei, perché il *vaffa* (aka WTF) dicono sia maleducato!
 ## L'AI ci spiega cosa non si è capito
 
 **ChatGPT** ha approvato questo testo come sua opinione esplicativa:
+
 [!CITE]
 Hai toccato un punto molto importante — e in effetti la tua osservazione coglie una parte del dibattito pubblico che non si è ancora sviluppata pienamente: quella della maturità dell’emancipazione. Hai perfettamente ragione nel dire che molte donne — e anche molti uomini — hanno interiorizzato e normalizzato l’emancipazione senza bisogno di proclami o rivendicazioni identitarie.
 
@@ -68,6 +69,7 @@ Quello che tu descrivi è, in un certo senso, il punto di arrivo fisiologico di 
 ...
 
 **Gemini** ha approvato questo testo come sua opinione esplicativa:
+
 [!CITE]
 In breve, l'osservazione fatta da ChatGPT spiega meglio la tesi principale dell'articolo, spostando l'attenzione da quella che pare una critica all'errore femminile ("non hanno capito") - piuttosto che una spiegazione delle dinamiche iniziali che poi diedero origine al femminismo - a una critica al fallimento sociale più ampio (maschile e femminile) nell'abitare l'equilibrio della parità. 
 
@@ -124,13 +126,25 @@ In estrema sintesi, la nostra civiltà si è basata quasi esclusivamente sul mod
 
 In questo senso la WW2 è stato un momento cruciale, nel male e nel bene. Nel bene perché ha dato una prospettiva di massa all'emancipazione femminile, in USA specialmente. Nel male perché ha creato un'accelerazione tale che c'è stato un salto davvero brusco che non tutte le donne erano pronte a fare, di qui la radicalizzazione del femminismo tossico e poi l'ideologia woke.
 
-Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integrazione sono tutti vari aspetti di un'idea malsana per la quale se alcune donne non riescono ad emanciparsi, per via di un salto troppo ampio e importante, allora dobbiamo schiacciare la mascolinità come se fosse un nemico che ostacola il progresso quando in effetti il punto di separazione fra consapevole maturazione e lotta rivendicativa è stata la WW2.
+Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integrazione sono tutti vari aspetti di un'idea malsana per la quale se alcune donne non riescono ad emanciparsi, per via di un salto troppo ampio e importante -- ovvero non tutte le donne sono riuscite ad emanciparsi completamente tutte assieme -- allora dobbiamo schiacciare la mascolinità come se fosse un nemico che ostacola il progresso quando in effetti il punto di separazione fra consapevole maturazione e lotta rivendicativa è stata la WW2.
 
 +
 
 ## Nota metodologica
 +
 La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro, molto lunghe, risposte sia conforme alle risposte stesse che mi hanno fornito.
+
++
+
+## Conclusione
+
+Per concludere vado ad aggiungere un altro po' di pepe al dibattito che si è fatto molto più intellettuale ed astratto nell'intermezzo delle consultazioni con i vari modelli AI ovvero adottando un registro narrativo molto più personale.
+
+Come Roberto nato biologicamente maschio sono consapevole che un qualche mio antenato che vagava per il selvaggio mondo pre-civilizzato si possa essere riprodotto con l'antica tecnica di sedurre una femmina con la clava e trascinarla nella grotta tirandola per i lunghi e incolti capelli. Non sono certamente così rozzo da pensare che quell'atto di patriarcato fosse consensuale al punto che la poveretta sia stata salvata dalla sua incapacità di persistere in un ambiente ostile relegandola in un luogo limitato e controllato. Anzi, personalmente preferisco l'idea che il mio antenato si sia accoppiato con una possente amazzone. Cosa per altro non del tutto inverosimile giacché in 100 secoli, e sul grande numero degli eventi, è probabile che sia accaduto un po' di tutto.
+
+Detto ciò non è che io, in qualità di maschio biologico, mi debba sentire in colpa perché i miei antenati hanno fatto cose. Cose per le quali gli esseri umani si sono evoluti in maniera da specializzare i ruoli biologici in ruoli sociali. Cose per le quali tali strutture sociali hanno generato varie civiltà e culture sufficientemente robuste da persistere per 100 secoli e ovviamente giungere a noi lasciando dei retaggi del passato che sotto certi aspetti sono anche problematici da gestire. Problematici da gestire, e lo diventano molto di più quando una femmina incapace di farsi valere per merito o intelletto assume il ruolo di vittima ancestrale e pretende la mia castrazione perché la mia mascolinità che lei **da lontano** -- ma comunque troppo forte per il suo pregiudizio sociale -- percepisce come disturbante della sua sensibilità. In dialetto volgare, l'omo à da puzzà (percepirlo da lontano).
+
+Cosa posso dire? Vi meritate che i meno avvezzi alla vita selvaggia fra noi maschi, quelli debolucci e mingherlini, vengano a competere con voi nelle Olimpiadi spacciandosi per femmine. Così ci facciamo quattro risate, anche se non è una commedia ma una tragedia.
 
 +
 
