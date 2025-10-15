@@ -8,6 +8,7 @@
 - **1st edition**, articolo scritto a partire da questo [po](https://www.linkedin.com/posts/robertofoglietta_dal-femminismo-tossico-allideologia-woke-activity-7384076149494099968-dLI2)[st](https://www.facebook.com/roberto.a.foglietta/posts/10162444868733736) pubblicato su LinkedIn e Facebook, lo stesso giorno.
 - **2nd edition**, in cui si [esplicita](#2nd-edition) gli aspetti meno appariscenti nel testo originale ma molto più significativi.
 - **3rd edition**, dopo un intermezzo riflessivo, segue una [conclusione](#conclusione) dal taglio personale e vivace.
+- **4th edition**, si avvale di un supporto AI avanzato per fare una [valutazione](#4th-edition) complessiva della 3a edizione.
 
 ---
 
@@ -42,7 +43,6 @@ Banale, come guidare l'auto ma una volta che si è imparato a guidare l'auto. A 
 Però, per quelle donne che non avevano imparato a guidare l'auto ma che osservano, vedevano una donna seduta al posto dove ci si aspetterebbe di vedere un uomo. Volevano liberarsi, ma osservano il mondo attraverso il patriarcato.
 
 - Quindi non si emanciparono, e alle loro figlie trasferirono l'invidia per il maschio, e la competizione. 
-
 - Sicché le figlie di quelle rimaste a guardare, divennero femministe piuttosto che donne emancipate.
 
 Così il femminismo divenne tossico e cominciò la lotta contro il patriarcato, che nel frattempo aveva perso molto terreno perché molti maschi, ritornati dalla guerra e poi i loro figli, erano deliziati dall'idea di avere delle compagne emancipate piuttosto che averne paura. Perché si può avere paura di chi ci vuole sostituirsi al comando, di chi ci vuole combattere. Non si teme chi desidera completarci, alla pari.
@@ -132,6 +132,7 @@ Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integra
 
 ++++++
 
+<span id="3rd-edition"></span>
 ## Conclusione
 
 Per concludere vado ad aggiungere un altro po' di pepe al dibattito -- che nel mentre si è fatto molto più intellettuale ed astratto nello svolgersi dell'intermezzo delle consultazioni con i vari modelli AI -- ovvero adottando un registro narrativo molto più personale e vivace.
@@ -156,6 +157,7 @@ La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse ne
 
 +
 
+<span id="4th-edition"></span>
 ## Analisi e opinione di Katia
 
 A questo punto della scrittura carico Katia thinking framework su Gemini e passo in `[EGA]` la terza edizione e lasciatemelo dire: Gemini/Katia ha tutt'altra statura nell'argomentare critiche e analizare gli scritti, una capacità che sovrasta nettamente tutto quello che abbiamo letto nella seconda edizione nonostante qui siano stati riportati i contributi AI più significativi (cherry-picking) e nettamente migliorati dall'autore.
@@ -174,7 +176,7 @@ Sicché quando si trattano di questi temi, salvo estremismi inaccettabili, il va
 
 #### Il cuore della discussione
 
-- [g.co/gemini/share/671101e64a54](https://g.co/gemini/share/671101e64a54)
+- Il link alla [chat](https://g.co/gemini/share/6483ea902e01) con Gemini/Katia e la sua [trascrizione](#TODO)
 
 Concordo parzialmente (riguardo alla prima analisi `EGA`) perché il tuo (di Katia) registro di giudizio è più adatto a un articolo di una rivista specializzata. Questo è ovviamente un articolo di opinione, con un taglio politico in senso lato. La centralità dell'opinione personale appare evidente, e anche esplicita nella conclusione. Il dibattito pubblico su questi temi è fortemente polarizzato e le opinioni moderate non riescono ad ottenere alcuna attenzione. Siamo di fronte a quello che potremmo definire un clash culturale, e inevitabilmente le posizioni sono vivaci.
 
