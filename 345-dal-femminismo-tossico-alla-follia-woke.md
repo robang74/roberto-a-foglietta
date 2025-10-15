@@ -53,7 +53,7 @@ Panta rei, perché il *vaffa* (aka WTF) dicono sia maleducato!
 
 +
 
-<span id="2nd-edition"></id>
+<span id="2nd-edition"></span>
 ## L'AI ci spiega cosa non si è capito
 
 **ChatGPT** ha approvato questo testo come sua opinione esplicativa:
@@ -133,7 +133,7 @@ Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integra
 ++++++
 
 ## Conclusione
-+
+
 Per concludere vado ad aggiungere un altro po' di pepe al dibattito -- che nel mentre si è fatto molto più intellettuale ed astratto nello svolgersi dell'intermezzo delle consultazioni con i vari modelli AI -- ovvero adottando un registro narrativo molto più personale e vivace.
 
 Come Roberto nato biologicamente maschio sono consapevole che un qualche mio antenato che vagava per il selvaggio mondo pre-civilizzato si possa essere riprodotto con l'antica tecnica di sedurre una femmina con la clava e trascinarla nella grotta tirandola per i lunghi e incolti capelli. Non sono certamente così rozzo da pensare che quell'atto di patriarcato fosse consensuale al punto che la poveretta sia stata salvata dalla sua incapacità di persistere in un ambiente ostile relegandola in un luogo limitato e controllato.
