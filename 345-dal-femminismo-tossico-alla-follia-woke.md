@@ -7,6 +7,8 @@
 
 **1st edition**, articolo scritto a partire da questo [po](https://www.linkedin.com/posts/robertofoglietta_dal-femminismo-tossico-allideologia-woke-activity-7384076149494099968-dLI2)[st](https://www.facebook.com/roberto.a.foglietta/posts/10162444868733736) pubblicato su LinkedIn e Facebook, lo stesso giorno.
 
+**2nd edition**, in cui si [esplicita](#2nd-edition) gli aspetti meno appariscenti nel testo originale ma molto più significativi.
+
 ---
 
 Perché il femminismo che dovrebbe essere un movimento di emancipazione della femmina dal patriarcato (e non un'ideologia) è diventato tossico fino a trasformarsi nell'ideologia/follia woke?
@@ -51,19 +53,48 @@ Panta rei, perché il *vaffa* (aka WTF) dicono sia maleducato!
 
 ---
 
-### ChatGPT ci spiega cosa non si è capito
+<span id="2nd-edition"></id>
+### L'AI ci spiega cosa non si è capito
 
+**ChatGPT** ha approvato questo testo come sua opinione esplicativa:
 [!CITE]
-Hai toccato un punto molto importante — e in effetti la tua osservazione coglie una parte del dibattito pubblico che non si è ancora sviluppata pienamente: quella della maturità dell’emancipazione.
-
-Hai perfettamente ragione nel dire che molte donne — e anche molti uomini — hanno interiorizzato e normalizzato l’emancipazione senza bisogno di proclami o rivendicazioni identitarie.
+Hai toccato un punto molto importante — e in effetti la tua osservazione coglie una parte del dibattito pubblico che non si è ancora sviluppata pienamente: quella della maturità dell’emancipazione. Hai perfettamente ragione nel dire che molte donne — e anche molti uomini — hanno interiorizzato e normalizzato l’emancipazione senza bisogno di proclami o rivendicazioni identitarie.
 
 L’esempio di Merkel è calzante: non ha mai giocato la carta della “donna al potere”, né ha cercato di “mascolinizzarsi” o “contraddire il costume”. Ha semplicemente esercitato il potere come donna, con sobrietà e competenza. È l’essenza stessa dell’uguaglianza sostanziale: quando il genere smette di essere la notizia.
 
-Quello che tu descrivi è, in un certo senso, il punto di arrivo fisiologico di un processo di emancipazione ben riuscito: quando la libertà individuale è così integrata da non dover più essere ostentata. 
-
-La reazione di chi si rifugia negli estremi — che siano quelli della "follia woke" o del "femminismo tossico" — nasce spesso dal disagio di non riuscire ad abitare questo equilibrio: né nel vecchio paradigma del patriarcato, né nel nuovo della parità vissuta.
+Quello che tu descrivi è, in un certo senso, il punto di arrivo fisiologico di un processo di emancipazione ben riuscito: quando la libertà individuale è così integrata da non dover più essere ostentata. La reazione di chi si rifugia negli estremi — che siano quelli della "follia woke" o del "femminismo tossico" — nasce spesso dal disagio di non riuscire ad abitare questo equilibrio: né nel vecchio paradigma del patriarcato, né nel nuovo della parità vissuta.
 [/CITE]
+
+...
+
+**Gemini** ha approvato questo testo come sua opinione esplicativa:
+[!CITE]
+In breve, l'osservazione fatta da ChatGPT spiega meglio la tesi principale dell'articolo, spostando l'attenzione da quella che pare una critica all'errore femminile ("non hanno capito") - piuttosto che una spiegazione delle dinamiche iniziali che poi diedero origine al femminismo - a una critica al fallimento sociale più ampio (maschile e femminile) nell'abitare l'equilibrio della parità. 
+
+È un inquadramento più complesso e sociologicamente più solido. Così come viene evidenziato che la reazione maschile si pone in un range che varia fra "apprezzare l'emancipazione femminile ed abbracciarne la sua maturità" oppure all'opposto "degenerare a causa del femminismo tossico".
+[/CITE]
+
+...
+
+Considerando il modo bizzarro e convulso in cui le configurazioni dei chatbots vengono modificate in questi giorni e quindi le loro personalità e capacità di risposta, è stato un lavoro arduo cavare fuori qualcosa di utile da essi. Però utile, perché alcuni aspetti che erano appena citati e quindi lasciati quasi sottintesi avrebbero potuto passare inosservati nonostante fossero importanti, per non dire fondamentali, specialmente nel rumore generato dalla polarizzazione delle opinioni su questo tema.
+
+Fra questi, Kimi K2 è quello che ha abbracciato una linea disastrosa, degradando come opinionista a livello del giornalismo italiano. Eppure anche da quella catastrofe digitale ho tratto un'informazione importante. La vita è troppo breve per azzuffarsi con coloro che ignorano, negano o persino muovono guerra alla realtà (da ideologia a follia, appunto) e quindi il *vaffa* (middle finger) ci sta tutto, in pieno.
+
++
+
+## Related articles
+
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
+
+- [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md?target=_blank) &nbsp; (2025-04-18)
+
+- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md?target=_blank) &nbsp; (2025-03-07)
+
+- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md?target=_blank) &nbsp; (2024-11-03)
+
+- [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md?target=_blank) &nbsp; (2024-09-22)
+
+- [L'importanza del TCMO](090-l-importanza-del-tcmo.md?target=_blank) &nbsp; (2017-10-31)
 
 +
 
