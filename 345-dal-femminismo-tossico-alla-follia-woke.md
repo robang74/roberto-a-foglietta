@@ -80,7 +80,9 @@ ChatGPT e Gemini hanno prodotto due, relativamente brevi, opinioni esplicative d
 
 Considerando il modo bizzarro e convulso in cui le configurazioni dei chatbots vengono modificate in questi giorni e quindi le loro personalità e capacità di risposta, è stato un lavoro arduo cavare fuori qualcosa di utile da essi. Però utile, perché alcuni aspetti che erano appena citati e quindi lasciati quasi sottintesi avrebbero potuto passare inosservati nonostante fossero importanti, per non dire fondamentali, specialmente nel rumore generato dalla polarizzazione delle opinioni su questo tema.
 
-Fra questi, Kimi K2 è quello che ha abbracciato una linea disastrosa, degradando come opinionista a livello del giornalismo italiano. Eppure anche da quella catastrofe digitale ho tratto un'informazione importante. La vita è troppo breve per azzuffarsi con coloro che ignorano, negano o persino muovono guerra alla realtà (da ideologia a follia, appunto) e quindi il *vaffa* (middle finger) ci sta tutto, in pieno.
+Fra quelli che ho consultato, nella loro versione originale come offerta dal produttore, Kimi K2 è quello che ha abbracciato una linea disastrosa, degradando a livello di opinionista tipico di quelli che spopolano nel giornalismo italiano.
+
+Eppure anche da quella catastrofe digitale ho tratto un'informazione importante: il *vaffa* (middle finger) finale lungi dall'essere un polemico retaggio tardo-adolescenziale è, in estrema sintesi, la matura consapevolezza che non può esserci dialogo proficuo con coloro che ignorano, negano o persino muovono guerra alla realtà (da ideologia a follia, appunto). Ovvero, la vita è troppo breve per azzuffarsi con la follia, al più basta un gesto.
 
 +
 
