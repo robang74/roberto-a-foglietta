@@ -162,15 +162,15 @@ La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse ne
 +++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 +++++
-- [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md?target=_blank) &nbsp; (2025-04-18)
+- [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
 +++++
-- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md?target=_blank) &nbsp; (2025-03-07)
+- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md#?target=_blank) &nbsp; (2025-03-07)
 +++++
-- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md?target=_blank) &nbsp; (2024-11-03)
+- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
 +++++
-- [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md?target=_blank) &nbsp; (2024-09-22)
+- [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md#?target=_blank) &nbsp; (2024-09-22)
 +++++
-- [L'importanza del TCMO](090-l-importanza-del-tcmo.md?target=_blank) &nbsp; (2017-10-31)
+- [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
 
 +
 
