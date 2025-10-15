@@ -15,7 +15,7 @@ Partiamo dall'inizio. Le donne hanno cominciato ad emanciparsi durante la WW2 qu
 
 Fra queste e in questa peculiare condizione di sistematica mancanza di uomini di "forte e robusta costituzione" perché mandati al fronte, quelle più di successo furono proprio quelle che riuscirono a fare bene lavori che davvero erano "al maschile" culturalmente, tipo il meccanico di spitfire per i militari (come fece la Regina Elisabetta, da cui il mito della protagonista del Titanic che ricorda le foto con l'aeroplano).
 
-Ma esattamente quando il femminismo divenne tossico? Le donne che si sono emancipate durante la WW2 avevano chiaro che l'elemento essenziale era la possibilità di avere un'educazione, un lavoro quindi un reddito e quindi la capacità effettiva di autodeterminarsi. In sintesi: l'opportunità.
+Ma esattamente quando il femminismo divenne tossico? Le donne che si sono emancipate durante la WW2 avevano chiaro che l'elemento essenziale era la possibilità di avere un'educazione, un lavoro quindi un reddito e quindi la capacità effettiva di autodeterminarsi. In sintesi: l'opportunità, alla pari ma non uguale.
 
 Sebbene la WW2 diede a molte donne l'opportunità di emanciparsi, e quelle avevano capito l'importanza degli aspetti fondamentali, molte altre rimasero ad osservare e ad invidiare quelle che ce l'avevano fatta. Queste, che non avevano capito l'emancipazione, crearono il femminismo insegnando alle figlie quale era il modello di donna da diventare.
 
