@@ -5,9 +5,9 @@
 
 ## Dal femminismo tossico alla follia woke
 
-**1st edition**, articolo scritto a partire da questo [po](https://www.linkedin.com/posts/robertofoglietta_dal-femminismo-tossico-allideologia-woke-activity-7384076149494099968-dLI2)[st](https://www.facebook.com/roberto.a.foglietta/posts/10162444868733736) pubblicato su LinkedIn e Facebook, lo stesso giorno.
-
-**2nd edition**, in cui si [esplicita](#2nd-edition) gli aspetti meno appariscenti nel testo originale ma molto più significativi.
+- **1st edition**, articolo scritto a partire da questo [po](https://www.linkedin.com/posts/robertofoglietta_dal-femminismo-tossico-allideologia-woke-activity-7384076149494099968-dLI2)[st](https://www.facebook.com/roberto.a.foglietta/posts/10162444868733736) pubblicato su LinkedIn e Facebook, lo stesso giorno.
+- **2nd edition**, in cui si [esplicita](#2nd-edition) gli aspetti meno appariscenti nel testo originale ma molto più significativi.
+- **3rd edition**, dopo un intermezzo riflessivo, segue una [conclusione](#conclusione) dal taglio personale e vivace.
 
 ---
 
@@ -130,17 +130,11 @@ In questo senso la WW2 è stato un momento cruciale, nel male e nel bene. Nel be
 
 Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integrazione sono tutti vari aspetti di un'idea malsana per la quale se alcune donne non riescono ad emanciparsi, per via di un salto troppo ampio e importante -- ovvero non tutte le donne sono riuscite ad emanciparsi completamente tutte assieme -- allora dobbiamo schiacciare la mascolinità come se fosse un nemico che ostacola il progresso quando in effetti il punto di separazione fra consapevole maturazione e lotta rivendicativa è stata la WW2.
 
-+++++
-
-## Nota metodologica
-+
-La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro, molto lunghe, risposte sia conforme alle risposte stesse che mi hanno fornito.
-
-+
+++++++
 
 ## Conclusione
-
-Per concludere vado ad aggiungere un altro po' di pepe al dibattito che si è fatto molto più intellettuale ed astratto nell'intermezzo delle consultazioni con i vari modelli AI ovvero adottando un registro narrativo molto più personale.
++
+Per concludere vado ad aggiungere un altro po' di pepe al dibattito -- che nel mentre si è fatto molto più intellettuale ed astratto nello svolgersi dell'intermezzo delle consultazioni con i vari modelli AI -- ovvero adottando un registro narrativo molto più personale e vivace.
 
 Come Roberto nato biologicamente maschio sono consapevole che un qualche mio antenato che vagava per il selvaggio mondo pre-civilizzato si possa essere riprodotto con l'antica tecnica di sedurre una femmina con la clava e trascinarla nella grotta tirandola per i lunghi e incolti capelli. Non sono certamente così rozzo da pensare che quell'atto di patriarcato fosse consensuale al punto che la poveretta sia stata salvata dalla sua incapacità di persistere in un ambiente ostile relegandola in un luogo limitato e controllato.
 
@@ -148,16 +142,24 @@ Anzi, personalmente preferisco l'idea che il mio antenato si sia accoppiato con 
 
 Detto ciò non è che io, in qualità di maschio biologico, mi debba sentire in colpa perché i miei antenati hanno fatto cose. Cose per le quali gli esseri umani si sono evoluti in maniera da specializzare i ruoli biologici in ruoli sociali. Cose per le quali tali strutture sociali hanno generato varie civiltà e culture sufficientemente robuste da persistere per 100 secoli e ovviamente giungere a noi lasciando dei retaggi del passato che sotto certi aspetti sono anche problematici da gestire.
 
-Problematici da gestire, e lo diventano molto di più quando alcune femmine incapaci di farsi valere per merito o intelletto assumono il ruolo di vittime ancestrali e pretendendo la castrazione dell'Homo Macho perché tale mascolinità **da lontano** -- ma comunque troppo forte per il loro pregiudizio sociale -- si percepisce come disturbante della sensibilità più fragile. In dialetto volgare, l'omo à da puzzà (percepirlo da lontano).
+Problematici da gestire, e lo diventano molto di più quando alcune femmine incapaci di farsi valere per merito o intelletto assumono il ruolo di vittime ancestrali e pretendendo la castrazione dell'Homo Macho perché tale mascolinità **da lontano** -- ma comunque troppo forte per il loro pregiudizio sociale -- si percepisce come disturbante della sensibilità più fragile. In dialetto volgare: l'omo à da puzzà (percepirlo da lontano).
 
 Cosa posso dire? Vi meritate che i meno avvezzi alla vita selvaggia fra noi maschi, quelli debolucci e mingherlini, vengano a competere con voi nelle Olimpiadi spacciandosi per femmine. Così ci facciamo quattro risate, anche se non è una commedia ma una tragedia.
 
 > Abbiamo avuto l’occasione di costruire un dialogo maturo, ma l’abbiamo sprecata in una farsa ideologica. `[5/5]`
 
+---
+
+### Nota metodologica
+
+La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro, molto lunghe, risposte sia conforme alle risposte stesse che mi hanno fornito.
+
 +
 
 ## Related articles
 
+- [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
++++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 +++++
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md?target=_blank) &nbsp; (2025-04-18)
