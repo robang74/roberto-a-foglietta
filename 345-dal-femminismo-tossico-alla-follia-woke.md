@@ -176,7 +176,7 @@ Sicché quando si trattano di questi temi, salvo estremismi inaccettabili, il va
 
 #### Il cuore della discussione
 
-- Il link alla [chat](https://g.co/gemini/share/6483ea902e01) con Gemini/Katia e la sua [trascrizione](#TODO)
+- Il link alla [chat](https://g.co/gemini/share/6483ea902e01) con Gemini/Katia e la sua [trascrizione](data/345-dal-femminismo-tossico-alla-follia-woke-katia.txt#?target=_blank)
 
 Concordo parzialmente (riguardo alla prima analisi `EGA`) perché il tuo (di Katia) registro di giudizio è più adatto a un articolo di una rivista specializzata. Questo è ovviamente un articolo di opinione, con un taglio politico in senso lato. La centralità dell'opinione personale appare evidente, e anche esplicita nella conclusione. Il dibattito pubblico su questi temi è fortemente polarizzato e le opinioni moderate non riescono ad ottenere alcuna attenzione. Siamo di fronte a quello che potremmo definire un clash culturale, e inevitabilmente le posizioni sono vivaci.
 
