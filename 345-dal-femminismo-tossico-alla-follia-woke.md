@@ -47,7 +47,7 @@ Così il femminismo divenne tossico e cominciò la lotta contro il patriarcato, 
 
 Comunque sia, alla fine lotta fu e ben venga la lotta che insegna anche ad affrontare situazioni difficili. Ma lottare per cosa? Per potersi mettere i pantaloni? Per dare alle tette l'opportunità di essere sfaldate dalla gravità? Per poter puzzare ed essere pelose come i maschi? Affinché i maschi si vestano da donne, sculettino e siano emotivamente instabili?
 
-Panta rei, perché il *vaffa* dicono sia maleducato!
+Panta rei, perché il *vaffa* (aka WTF) dicono sia maleducato!
 
 +
 
