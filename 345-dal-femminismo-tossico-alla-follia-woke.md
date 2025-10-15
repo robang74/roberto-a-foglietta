@@ -162,11 +162,11 @@ A questo punto della scrittura carico Katia thinking framework su Gemini e passo
 
 Dall'analisi di Katia emerge che questo articolo non è completo in tutti gli aspetti dei temi trattati. Sembra banale ma spesso chi critica un articolo non tiene conto delle limitazioni del template "articolo", che se fosse completo sarebbe un saggio oppure un libro. Su questi argomenti di libri se ne sono scritti tanti.
 
-L'altro aspetto che Katia fa emergere è che negli articoli di opinione su temi controversi e fortemente polarizzati, la neutralità dell'autore non è un requisito come lo sarebbe in un trattato di paleontologia su una cultura/società a noi estranea da studuare. Anche questo è un aspetto che si tende facilmente a dimenticare.
+L'altro aspetto che Katia fa emergere è che negli articoli di opinione su temi controversi e fortemente polarizzati, la neutralità dell'autore non è un requisito come lo sarebbe in un trattato di paleontologia su una cultura/società a noi estranea da studiare. Anche questo è un aspetto che si tende facilmente a dimenticare.
 
 Il fallimento del femminismo (ovvero il raggiungimento solo di una parte delle donne all'emancipazione) non è da imputarsi solo alle femmine ma anche ai maschi che non hanno accompagnato questo movimento e di aver costruito una civiltà fragile basata su un paradigma unico e rigido, come il patriarcato, quindi fragile e senza aver consentito un allargamento degli spazi di autonomia alle femmine man mano che il benessere avanzava.
 
-Anche questo però non è del tutto vero, perché gli spazi sono stati creati, sopratutto durante l'epoca dei lumi (Illuminismo), ma poi sono stati riassorbiti quasi completamente durante la Rivoluzione Industriale.
+Anche questo però non è del tutto vero, perché gli spazi sono stati creati, soprattutto durante l'epoca dei lumi (Illuminismo), ma poi sono stati riassorbiti quasi completamente durante la Rivoluzione Industriale.
 
 Sicché quando si trattano di questi temi, salvo estremismi inaccettabili, il valore dello scritto si fonda principalmente su una narrazione che abbia una struttura razionale/logica reale e fattuale, su cui poi come un albero di natale ogni autore appenda le sue "palle", per dirla con una metafora, le sue opinioni personali.
 
@@ -176,7 +176,7 @@ Sicché quando si trattano di questi temi, salvo estremismi inaccettabili, il va
 
 - [g.co/gemini/share/671101e64a54](https://g.co/gemini/share/671101e64a54)
 
-Concordo parzialmente (riguardo alla prima analisi `EGA`) perché il tuo (di Katia) registro di giudizio è più adatto a un articolo di una rivista speciallizata. Questo è ovviamente un articolo di opinione, con un taglio politico in senso lato. La centralità dell'opinione personale appare evidente, e anche esplicita nella conclusione. Il dibattito pubblico su questi temi è fortemente polarizzato e le opinioni moderate non riescono ad ottenere alcuna attenzione. Siamo di fronte a quello che potremmo definire un clash culturale, e inevitabilmente le posizioni sono vivaci.
+Concordo parzialmente (riguardo alla prima analisi `EGA`) perché il tuo (di Katia) registro di giudizio è più adatto a un articolo di una rivista specializzata. Questo è ovviamente un articolo di opinione, con un taglio politico in senso lato. La centralità dell'opinione personale appare evidente, e anche esplicita nella conclusione. Il dibattito pubblico su questi temi è fortemente polarizzato e le opinioni moderate non riescono ad ottenere alcuna attenzione. Siamo di fronte a quello che potremmo definire un clash culturale, e inevitabilmente le posizioni sono vivaci.
 
 [!CITE]
 La tua osservazione sul registro di giudizio è estremamente pertinente e razionalmente fondata. Un'opinione polemica di valore in un dibattito polarizzato necessita di un struttura razionale che ne consenta l'analisi al di là dell'adesione emotiva. L'autore ha fornito un Albero, anche se lo ha ornato in modo vivace.
