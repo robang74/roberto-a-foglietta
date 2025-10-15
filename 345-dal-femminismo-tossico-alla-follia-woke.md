@@ -126,11 +126,11 @@ In questo senso la WW2 è stato un momento cruciale, nel male e nel bene. Nel be
 
 Ideologia woke, cancel culture e politicamente corretto all'insegna dell'integrazione sono tutti vari aspetti di un'idea malsana per la quale se alcune donne non riescono ad emanciparsi, per via di un salto troppo ampio e importante, allora dobbiamo schiacciare la mascolinità come se fosse un nemico che ostacola il progresso quando in effetti il punto di separazione fra consapevole maturazione e lotta rivendicativa è stata la WW2.
 
----
++
 
-### Nota metodologica
-
-Importante ribadirlo: la validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro, molto lunghe, risposte sia conforme alle risposte stesse che mi hanno fornito.
+## Nota metodologica
++
+La validazione richiesta ai chatbot **non** riguarda le mie opinioni espresse nella prima parte dell'articolo di cui invece chiedo un opinione e valuto le critiche, ma se il mio riassunto delle loro, molto lunghe, risposte sia conforme alle risposte stesse che mi hanno fornito.
 
 +
 
