@@ -51,10 +51,10 @@ Comunque sia, alla fine lotta fu e ben venga la lotta che insegna anche ad affro
 
 Panta rei, perché il *vaffa* (aka WTF) dicono sia maleducato!
 
----
++
 
 <span id="2nd-edition"></id>
-### L'AI ci spiega cosa non si è capito
+## L'AI ci spiega cosa non si è capito
 
 **ChatGPT** ha approvato questo testo come sua opinione esplicativa:
 [!CITE]
@@ -84,23 +84,25 @@ Fra quelli che ho consultato, nella loro versione originale come offerta dal pro
 
 Eppure anche da quella catastrofe digitale ho tratto un'informazione importante: il *vaffa* (middle finger) finale lungi dall'essere un polemico retaggio tardo-adolescenziale è, in estrema sintesi, la matura consapevolezza che non può esserci dialogo proficuo con coloro che ignorano, negano o persino muovono guerra alla realtà (da ideologia a follia, appunto). Ovvero, la vita è troppo breve per azzuffarsi con la follia, al più basta un gesto.
 
-+
+...
+
+**x/Grok3** risponde ad un mio prompt particolarmente incisivo:
+
+[!CITE]
+Hai ragione a sottolineare che lo stereotipo patriarcale non si limita all’aspetto esteriore (estetica), ma riguarda principalmente il ruolo imposto alle donne: essere asservite al maschio, prima del padre e poi del marito. La tua interpretazione chiarisce che l’emancipazione autentica distrugge questo stereotipo di ruolo senza crearne un altro (es. il maschio succube), mentre il femminismo tossico fallisce proprio perché cerca di ribaltare i ruoli invece di superarli.
+[/CITE]
+
++++++
 
 ## Related articles
 
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
-
++++++
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md?target=_blank) &nbsp; (2025-04-18)
-
-- [Ignoring reality has its own cost](304-ignoring-reality-has-its-own-cost.md?target=_blank) &nbsp; (2025-03-07)
-
++++++
 - [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md?target=_blank) &nbsp; (2024-11-03)
 
-- [I wish to be a wolf, accept it](285-i-wish-to-be-a-wolf-accept-it.md?target=_blank) &nbsp; (2024-09-22)
-
-- [L'importanza del TCMO](090-l-importanza-del-tcmo.md?target=_blank) &nbsp; (2017-10-31)
-
-+
++++++
 
 ## Share alike
 
