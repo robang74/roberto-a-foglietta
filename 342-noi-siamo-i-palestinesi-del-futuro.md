@@ -147,17 +147,31 @@ L'altro inevitabile effetto sarà quello di sottrarsi al controllo tout-court e 
 
 Purtroppo il solo beneficio di vedere la rete TOR ridimensionata verso l'alto non costituisce un vantaggio collaterale che compensi tutti gli altri svantaggi incluso quello assolutamente spiacevolissimo di trovarsi dei contenuti pornografici con minori (o appena maggiorenni) sulle reti darkweb quando invece cercando materiale porno legittimo sul web in chiaro questi eventi sarebbero stati rari (a causa della censura operata dalla pubblica opinione).
 
+Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare invece di offrire trasparenza, i risultati sono complessivamente negativi e in generale si osserva una regressione della società, della maturità/consapevolezza dell'individuo, della sicurezza e infine dell'imbarbarimento della civiltà. Insomma, se si trattano i cittadini come bestie o come idioti, alla fine ci si ritrova a vivere fra bestie, idioti e nella barbarie.
+
+---
+
+### La barbarie nelle quali la politica sguazza
+
+Last but not least, l'[educazione](339-introduzione-alla-politica-concetti-di-base.md#il-debito-formativo-educazione-vs-istruzione?target=_blank) sentimentale e sessuale a scuola non significa studiare il kamasutra alle elementari, oppure portare confusione su cosa sia una donna o un uomo. Invece riguarda come imparare a relazionarsi con se stessi e con gli altri, in maniera da gestire correttamente, la comunicazione, le emozioni, gli impulsi e i comportamenti.
+
 [!INFO]
 2025-10-15 -- Oggi, in Commissione Cultura della Camera è stato approvato un emendamento al cosiddetto ddl Valditara, presentato dalla Lega, che vieta l'educazione sessuo-affettiva nelle scuole medie e già ne aveva impedito l'insegnamento nelle scuole dell'infanzia e primarie. Questo emendamento prevede che l'educazione sessuale e affettiva possa essere fatta solo nelle scuole superiori, e solo previo consenso informato dei genitori, che dovranno conoscere temi e materiali didattici. -- **Perplexity AI**
 [/INFO]
 
-Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare invece di offrire trasparenza, i risultati sono complessivamente negativi e in generale si osserva una regressione della società, della maturità/consapevolezza dell'individuo, della sicurezza e infine dell'imbarbarimento della civiltà. Insomma, se si trattano i cittadini come bestie o come idioti, alla fine ci si ritrova a vivere fra bestie, idioti e nella barbarie.
+Se questi aspetti non vengono correttamente indirizzati dalla famiglia, e nelle scuole non si insegnano il risultato che si ottiene è una cultura in cui gli abusi e le relazioni tossiche non vengono riconosciuti e gestiti prima che sfocino in qualcosa di peggio, generalmente disagi psicologici, traumi e violenza. 
+
+Allora perché gli italiani si ostinano a rifiutare che siano le scuole a fare questo tipo di educazione? Si ostinano nel senso che questa avversione all'insegnamento è precedente alla follia woke che per altro in Italia non ha mai raggiunto i livelli eclatanti degli USA. Perché è proprio nelle famiglie italiane che determinati comportamenti sono diffusi e quindi il bambino edotto saprebbe riconoscerli e denuciarli agli insegnanti: mamma e papà litigano sempre, etc.
+
+Questo in sostanza è il problema di fondo, un problema culturale, un ignoranza e un'ostinazione a rifiutare l'evoluzione sociale verso standard più elevati e sul quale la politica costruisce la sua narrativa tossica e dirotta i fondi dove può trarre vantaggi che poi, converte anche in voti.
 
 +
 
 ## Related articles
 
 - [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
++++++
+- [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
 +++++
 - [Raccolta di post sulla crisi di Gaza](334-raccolta-di-post-sulla-crisi-di-gaza.md#under-this-perspective-it-is-a-bipolarism-of-thinking?target=_blank) &nbsp; (2025-09-01)
 +++++
@@ -173,7 +187,7 @@ Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare
 +++++
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-+
++++++
 
 ## Share alike
 
