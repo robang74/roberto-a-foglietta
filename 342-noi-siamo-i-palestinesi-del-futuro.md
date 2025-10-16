@@ -115,6 +115,40 @@ Il tempo delle parole è giunto al termine ma già prima era venuto meno il diri
 
 +
 
+## La profilazione di massa
+
+[!INFO]
+2025-05-15 -- Dal 12 novembre 2025 scatterà in Italia l’obbligo di verifica dell’età per accedere ai siti con contenuti pornografici. La misura, introdotta dalla delibera Agcom pubblicata il 12 maggio, impone ai gestori delle piattaforme di implementare, entro sei mesi, sistemi efficaci per impedire l’accesso ai minori. L’obiettivo è chiaro: tutelare i più giovani da contenuti inadatti. La realizzazione di questi sistemi richiederà la collaborazione di soggetti terzi qualificati e approvati dall’Agenzia Italia Digitale.
+[/INFO]
+
+Alla fine a questa norma è stato dato il via libera. La norma sembra essere ragionevole e presenta un gran beneficio sociale. Però nella pratica sta riversando un sacco di risorse che invece avrebbero generato un mondo migliore educando le nuove generazioni alla gestione sentimentale, emotiva e sessuale a scuola. Anche qui, un errore fondamentale, si investe in tecnologia invece di investire in educazione.
+
+Ma c'è un "fallo" ancora peggiore in questo modo di agire che è letteralmente un'aberrazione del diritto in tutti i sensi. Il concetto di dover dimostrare la maggiore età quando si entra in un pub per bere birra e all'apparenza si appare più giovani di 21 o 25 anni (alcuni pub indicano chiaramente che lo staff usa tale metro per decidere chi debba giustificare la sua maggiore età, per esempio). La presenza fisica: il giovanotto imberbe che appare minorenne è tenuto a giustificare il suo diritto a bere alcoolici.
+
+Questo principio NON si applica nel digitale, perché diventa un'aberrazione: togliamo un diritto a TUTTI, e lo ripristiniamo a fronte di una qualche procedura in cui è obbligatoria l'identificazione (anche una sola volta) quindi si sta costruendo una lista di persone che sono interessate ad accedere ai servizi per adulti pur essendo adulti. Capite benissimo che si sta costruendo una forma di discriminazione basata sul perbenismo, su un concetto arbitrario di moralità, e nel complesso un profiling di massa. Ovviamente con la scusa di proteggere i minori.
+
+L'approccio corretto è che il minore, in quanto tale, riceve dai suoi tutori: insegnanti, genitori, etc. un accesso ad Internet limitato. Questo è possibile farlo con i cellulari Android che all'atto dell'attivazione permettono di fare parenting control. Sicuramente si potrà fare con gli smartphone Apple, anzi pare che questi addirittura pretendano una carta di credito per attivarsi. Si può fare con i personal computer.
+
+Insomma, al minore non viene dato l'accesso ad Internet in modo completo. Così come non viene dato al minore la possibilità di circolare la notte da solo perché i suoi tutori non gli permettono di uscire dopo cena. É vero che un adolescente può scappare di casa e più in generale tenta di scavalcare il controllo parentale. É una tensione naturale, ma proprio in quanto tale è qualcosa che i genitori devono affrontare, inevitabilmente. Quindi anche per loro l'educazione, fatta tramite le scuole che frequentano i figli, è l'anello di congiunzione fra l'homo inhabilis e l'homo digitalis.
+
+Anche in questo caso si tratta di formazione, che è un investimento c.d. Human Capital, cioè si investe sulle persone. Invece di investire sulla tecnologia al fine di profilare e controllare. Ma se uno stato non si fida dei suoi cittadini e li tratta come sospetti criminali, non sarà forse proprio quello stato ad essere criminale e a temere che i cittadini facciano giustizia di esso?
+
+---
+
+### Cosa succederà nella pratica?
+
+Social come TikTok vedrenna aumentare il c.d. soft-porn e il fatto che non siano esplicitamente visibili genitali e atti sessuali non riduce la misrappresentazione di comportamenti abusivi o di consumo dei contenuti con derive patologiche. Anzi, è invece vero l'opposto: meno è esplicito il contenuto quindi più la fantasia è costretta a lavorare più la deriva mentale è patologica. Basti pensare alle fantasie erotiche con le suore o agli Imam che dichiarano che gli uomini giovani senza barba suscitano pensieri impuri.
+
+Quindi il primo effetto sarà quello di spostare la curiosità degli adolescenti da contenuti che sono esplicitamente pornografici e quindi il minore percepisce immediatamente come "vietati" a contenuti anche più deleteri e che invece il minore **non** percepirà come vietati. Quindi il trend degli abusi e dei comportamenti patologici o fantasia malate avrà un'accelerazione. Oltre al fatto che a questo punto per procurarsi il porno "vero" saranno costretti a rivolgersi ai siti pirati con tutti i rischi relativi al malware 0-click.
+
+L'altro inevitabile effetto sarà quello di sottrarsi al controllo tout-court e quindi la maggior parte del traffico relativo al porno tornerà in una zona grigia molto più contigua al crimine e meno soggetta al controllo dell'opinione pubblica. In pratica, i grandi gestori dei siti porno si organizzeranno per essere raggiungibili tramite rete TOR mediante una rete di poxy come il "pezzotto" ma più in grande. Si ringraziano i legislatori per aver concesso questa immensa opportunità di business. In effetti, le reti TOR erano un pochino sottodimensionate ma finalmente ora riceveranno adeguati finanziamenti.
+
+Purtroppo il solo beneficio di vedere la rete TOR ridimensionata verso l'alto non costituisce un vantaggio collaterale che compensi tutti gli altri svantaggi incluso quello assolutamente spiacevolissimo di trovarsi dei contenuti pornografici con minori (o appena maggiorenni) sulle reti darkweb quando invece cercando materiale porno legittimo sul web in chiaro questi eventi sarebbero stati rari (a causa della censura operata dalla pubblica opinione).
+
+Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare invece di offrire trasparenza, i risultati sono complessivamente negativi e in generale si osserva una regressione della società, della maturità/consapevolezza dell'individuo, della sicurezza e infine dell'imbarbarimento della civiltà. Insomma, se si trattano i cittadini come bestie o come idioti, alla fine ci si ritrova a vivere fra bestie, idioti e nella barbarie.
+
++
+
 ## Related articles
 
 - [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
