@@ -14,6 +14,8 @@
 
 Recentemente due notizie hanno fatto capolino sui media nel marasma generato dall'attenzione mediatica di eventi geopolitici più o meno distanti come la crisi a Gaza o la guerra in Ucraina. Sono due notizie apparentemente distinte che riguardano questioni indipendenti, apparentemente. Invece hanno importanti aspetti in comune e fondamentalmente lo stesso obiettivo, e sono fra loro complementari a questo obiettivo.
 
+Nella seconda edizione si espone come anche l'Italia, seppure attualmente abbia un governo che in termini di promesse elettorali era molto distante dalle posizioni della Commissione Europea e prometteva una maggiore sovranità nazionale, in effetti si stia allineando alle direttive generali di sorveglianza e controllo di massa attraverso strumenti informatici e digitalizzazione della pubblica amministrazione.
+
 ---
 
 ### Il contrasto alla pedofilia online
@@ -24,11 +26,13 @@ Il 14 ottobre il Consiglio dell’Unione Europea voterà la proposta di regolame
 L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti pedopornografici, è però fortemente criticata da organizzazioni come la Electronic Frontier Foundation (EFF) per i gravi rischi che comporta alla privacy digitale, alla sicurezza delle comunicazioni e alla libertà di espressione, poiché introduce una forma di sorveglianza invasiva sui dispositivi personali degli utenti.
 [/INFO]
 
+#### Breve rassegna stampa:
+
 - [Chat Control: con la scusa della pedofilia, l’Ue si prepara a spiare la corrispondenza di tutti](https://it.insideover.com/media-e-potere/chat-control-con-la-scusa-della-pedofilia-lue-si-prepara-a-spiare-la-corrispondenza-di-tutti.html) &nbsp; (2025-10-07)
 - [Fermate Chat Control! Il grido d'allarme di attivisti ed esperti di privacy](https://www.wired.it/article/chat-control-grido-allarme-attivisti-privacy/) &nbsp; (2025-10-02)
 - [Oltre lo slogan della scansione istantanea](https://www.geopolitica.info/scansione-istantanea-chat-control-normativa-ue/) &nbsp; (2025-10-01)
 
----
+~~~~
 
 ### La cooperazione fiscale in Europa
 
@@ -39,6 +43,8 @@ Questo progetto rientra nelle iniziative contenute nella Direttiva sulla coopera
 
 Parallelamente, nell'ambito delle iniziative di dati finanziari, è in arrivo l'European Single Access Point (ESAP), un punto di accesso unico per informazioni finanziarie e non finanziarie che inizierà a raccogliere dati da luglio 2026 e li pubblicherà a partire da luglio 2027. Questi sistemi puntano a migliorare l'efficienza, la trasparenza e la cooperazione tra le autorità fiscali degli Stati membri, semplificando le procedure per contribuenti e autorità e favorendo la lotta all'evasione fiscale attraverso un database integrato e consultabile a livello europeo.
 [/INFO]
+
+#### Breve rassegna stampa:
 
 - [Dutch legislation to implement DAC9](https://www.pwc.nl/en/insights-and-publications/tax-news/pwc-special-budget-day/dac9-tax-plan-2026.html) &nbsp; (2025-09-16)
 - [Council of the EU adopts DAC9 pillar two simplification directive](https://www.internationaltaxreview.com/article/2eobkddqgqvmqog4bery8/direct-tax/council-of-the-eu-adopts-dac9-pillar-two-simplification-directive) &nbsp; (2025-04-15)
@@ -96,7 +102,7 @@ Quindi eccedere il 10% significa fare racket. Si tratta indubbiamente di racket 
 
 Noi non abbiamo costruito una civiltà migliore di quella antica, estendo i benefici grazie al surplus di scienza e tecnologia, abbiamo concesso il voto agli ignoranti perché grazie a quello fosse possibile organizzare il più massiccio e ignobile sistema di racket nella storia dell'umanità.
 
-----
+---
 
 ### Riflessione conclusiva
 
@@ -149,6 +155,8 @@ Purtroppo il solo beneficio di vedere la rete TOR ridimensionata verso l'alto no
 
 Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare invece di offrire trasparenza, i risultati sono complessivamente negativi e in generale si osserva una regressione della società, della maturità/consapevolezza dell'individuo, della sicurezza e infine dell'imbarbarimento della civiltà. Insomma, se si trattano i cittadini come bestie o come idioti, alla fine ci si ritrova a vivere fra bestie, idioti e nella barbarie.
 
+> Questo tipo di dinamiche si è già visto in altri Paesi (es. Francia e Regno Unito) dove simili norme hanno prodotto scarsi risultati di tutela e forti effetti di distorsione del mercato digitale.
+
 ---
 
 ### La barbarie nelle quali la politica sguazza
@@ -187,7 +195,7 @@ Questo in sostanza è il problema di fondo, un problema culturale, un ignoranza 
 +++++
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-+++++
++
 
 ## Share alike
 
