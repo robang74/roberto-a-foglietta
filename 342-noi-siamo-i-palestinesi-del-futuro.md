@@ -147,6 +147,10 @@ L'altro inevitabile effetto sarà quello di sottrarsi al controllo tout-court e 
 
 Purtroppo il solo beneficio di vedere la rete TOR ridimensionata verso l'alto non costituisce un vantaggio collaterale che compensi tutti gli altri svantaggi incluso quello assolutamente spiacevolissimo di trovarsi dei contenuti pornografici con minori (o appena maggiorenni) sulle reti darkweb quando invece cercando materiale porno legittimo sul web in chiaro questi eventi sarebbero stati rari (a causa della censura operata dalla pubblica opinione).
 
+[!INFO]
+2025-10-15 -- Oggi, in Commissione Cultura della Camera è stato approvato un emendamento al cosiddetto ddl Valditara, presentato dalla Lega, che vieta l'educazione sessuo-affettiva nelle scuole medie e già ne aveva impedito l'insegnamento nelle scuole dell'infanzia e primarie. Questo emendamento prevede che l'educazione sessuale e affettiva possa essere fatta solo nelle scuole superiori, e solo previo consenso informato dei genitori, che dovranno conoscere temi e materiali didattici. -- **Perplexity AI**
+[/INFO]
+
 Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare invece di offrire trasparenza, i risultati sono complessivamente negativi e in generale si osserva una regressione della società, della maturità/consapevolezza dell'individuo, della sicurezza e infine dell'imbarbarimento della civiltà. Insomma, se si trattano i cittadini come bestie o come idioti, alla fine ci si ritrova a vivere fra bestie, idioti e nella barbarie.
 
 +
