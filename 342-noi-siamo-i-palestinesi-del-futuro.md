@@ -6,6 +6,7 @@
 ## Noi siamo i palestinesi del futuro
 
 - **1st edition**, scritto a partire da tre miei post publicati su LinkedIn: [post #1](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381941438411870208-S1Hm), [post #2](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381940011098877952-__37) e [post #3](https://www.linkedin.com/posts/robertofoglietta_il-prossimo-14-ottobre-%C3%A8-una-data-cruciale-activity-7381721306729267200-AmcE)
+- **2nd edition**, la [profilazione di massa](#la-profilazione-di-massa) nell'ambito della regolamentazione della pornografia online.
 
 ---
 
@@ -118,7 +119,8 @@ Il tempo delle parole è giunto al termine ma già prima era venuto meno il diri
 ## La profilazione di massa
 
 [!INFO]
-2025-05-15 -- Dal 12 novembre 2025 scatterà in Italia l’obbligo di verifica dell’età per accedere ai siti con contenuti pornografici. La misura, introdotta dalla delibera Agcom pubblicata il 12 maggio, impone ai gestori delle piattaforme di implementare, entro sei mesi, sistemi efficaci per impedire l’accesso ai minori. L’obiettivo è chiaro: tutelare i più giovani da contenuti inadatti. La realizzazione di questi sistemi richiederà la collaborazione di soggetti terzi qualificati e approvati dall’Agenzia Italia Digitale.
+2025-05-15 -- Dal 12 novembre 2025 scatterà in Italia l’obbligo di verifica dell’età per accedere ai siti con contenuti pornografici. La misura, introdotta dalla delibera Agcom pubblicata il 12 maggio, impone ai gestori delle piattaforme di implementare, entro sei mesi, sistemi efficaci per impedire l’accesso ai minori. L’obiettivo è chiaro: tutelare i più giovani da contenuti inadatti. La realizzazione di questi sistemi richiederà la collaborazione di soggetti terzi qualificati e approvati dall’Agenzia Italia Digitale.<br>
+ -- [Orizzonte Scuola](https://www.orizzontescuola.it/dal-12-novembre-scatta-lobbligo-verifica-delleta-per-i-siti-porno-ecco-i-principi-fissati-da-agcom/)
 [/INFO]
 
 Alla fine a questa norma è stato dato il via libera. La norma sembra essere ragionevole e presenta un gran beneficio sociale. Però nella pratica sta riversando un sacco di risorse che invece avrebbero generato un mondo migliore educando le nuove generazioni alla gestione sentimentale, emotiva e sessuale a scuola. Anche qui, un errore fondamentale, si investe in tecnologia invece di investire in educazione.
