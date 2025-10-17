@@ -159,7 +159,8 @@ Purtroppo quando si preferisce criminalizzare piuttosto che educare, controllare
 
 ---
 
-### La barbarie nelle quali la politica sguazza
+<span id="la-barbarie-nelle-quali-la-politica-sguazza"></span>
+### La barbarie nella quale la politica sguazza
 
 Last but not least, l'[educazione](339-introduzione-alla-politica-concetti-di-base.md#il-debito-formativo-educazione-vs-istruzione?target=_blank) sentimentale e sessuale a scuola non significa studiare il kamasutra alle elementari, oppure portare confusione su cosa sia una donna o un uomo. Invece riguarda come imparare a relazionarsi con se stessi e con gli altri, in maniera da gestire correttamente, la comunicazione, le emozioni, gli impulsi e i comportamenti.
 
