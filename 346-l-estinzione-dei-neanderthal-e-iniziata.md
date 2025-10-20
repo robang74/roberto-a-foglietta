@@ -39,15 +39,17 @@ In questo scenario le due maggiori direttrici ideologiche sono quelle USA e quel
 
 In USA, si punta a bruciare denaro a ruota libera per ottenere il collasso della "terra di mezzo" perché lo scopo NON è vendere l'AI in SaaS e neppure l'hardware ma far galleggiare il PIL con gli investimenti nei data center e relative centrali nucleari, senza il quale il PIL USA sarebbe finito a -0.3% di crescita annua e dall'altra parte recuperare gli investimenti privati sfruttando l'annichilimento della classa media perché poi questo è la "terra di mezzo" in USA. 
 
-Il che porterà ad uno shift della classe media dall'impiegato ai lavoratori manuali altamente qualificati: idraulico, elettricista, etc. Il che spiega la politica di deportazione di Trump, serve a far spazio agli americani in quei mestieri oggi caposaldo degli immigrati.
+Il che porterà ad uno spostamento della classe media dall'impiegato ai lavoratori manuali altamente qualificati: idraulico, elettricista, etc. Il che spiega la politica di deportazione di Trump, serve a far spazio agli americani in quei mestieri oggi caposaldo degli immigrati.
 
-L'altro estremeismo ideologico è quello italiano (cattolico) della pantomima dell'etica che è solo fuffa utile a ritardare l'adozione pragmatica e sviluppi come Katia framework che cercano di portare valore anche nella "terra di mezzo" quindi in ultima analisi fare dell'Italia la "terra di mezzo" degli americani, as usual.
+L'altro estremismo ideologico è quello italiano (cattolico) della pantomima dell'etica che è solo fuffa utile a ritardare l'adozione pragmatica e sviluppi come Katia framework che cercano di portare valore anche nella "terra di mezzo" quindi in ultima analisi fare dell'Italia la "terra di mezzo" degli americani, as usual.
 
-Che poi anche in questa cosa che ho scritto, non c'è nessuna vera novità o segreto visto che queste informazioni sono di pubblico dominio. 
+---
 
-La questione è che con l'avvento di Internet si pensava che i big-data fossero il nuovo petrolio ma nella realtà, appare evidente che un'enorme massa di informazione non costitusce di per sè un valore se NON si è capaci di estrarre quelle informazioni che sono veramente significative ed intepretarle secondo il proprio caso.
+### Il nuovo petrolio dopo l'avvento di Internet
 
-Che poi questa è la definizione di "comprendere" un fenomeno che è strettamente collegato con il latino "inteleggere" da cui viene il termine "intelligenza" che a questo punto emerge come il fattore determinate Perché ormai le fonti OSINT sono tante e talmente accessibili che i big-data sono di fatto una commodity.
+La questione è che con l'avvento di Internet si pensava che i big-data fossero il nuovo petrolio ma nella realtà, appare evidente che un'enorme massa di informazione non costituisce di per sé un valore se NON si è capaci di estrarre quelle informazioni che sono veramente significative ed interpretarle secondo il proprio caso.
+
+Che poi questa è la definizione di "comprendere" un fenomeno che è strettamente collegato con il latino "intelligere" da cui viene il termine "intelligenza" che a questo punto emerge come il fattore determinate Perché ormai le fonti OSINT sono tante e talmente accessibili che i big-data sono di fatto una commodity.
 
 https://www.linkedin.com/posts/evolving-ai_ai-isnt-only-changing-office-jobs-nvidia-activity-7385946065012801536-IWnj
 
