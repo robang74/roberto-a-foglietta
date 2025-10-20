@@ -1,7 +1,7 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="wbsketch paleinv" src="img/344-the-first-secular-crusade-theory.jpg" alt="Mr. Spock" width="800"><br></div>
+<div align="center"><img class="wbsketch paleinv" src="img/344-the-first-secular-crusade-theory.jpg" width="800"><br></div>
 
 ## The first Secular Crusade theory
 
