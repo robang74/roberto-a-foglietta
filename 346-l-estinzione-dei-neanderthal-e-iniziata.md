@@ -21,7 +21,15 @@ Perciò, nonostante fosse stata inizialmente sperimentata l'esportazione, per co
 
 Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi con una classe media sufficientemente ricca e colta da desiderare una varietà di prodotti elaborati e non più banalmente funzionali ad uno scopo pratico, poi al consumismo.
 
-~> lnkd.in/dEyUt6Uh
+[!INFO]
+Il CEO di NVIDIA, Jensen Huang, afferma che la prossima generazione di milionari americani non proverrà dal settore tecnologico o finanziario, ma da mestieri qualificati come l'idraulica e l'elettricista. Commenti che evidenziano una tendenza delle dinamiche della ricchezza negli Stati Uniti, dove i mestieri manuali stanno emergendo come la nuova frontiera della libertà finanziaria.
+[/INFO]
+
+Intanto si noti come il concetto di "libertà finanziaria" sia entrato prepotentemente nell'immaginario collettivo che quindi percepisce i meccanismi della finanza in modo bipolare da un parte la povertà che diventa schiavitù e dall'altra parte la liberazione anche dal lavoro, tramite però il denaro che però attualmente è un prodotto della finanza senza un collaterale reale.
+
+Quindi parliamo di una pura invenzione, o meglio di un concetto sviluppato millenni fa per agevolare il commercio e le transazioni reali ma nell'ultimo secolo declinato sempre più in maniera astratta. Perché creare moneta dal nulla, crea inflazione che è una tassa invisibile, subdola ed estremamente iniqua perchè impoverisce tutti coloro che hanno ricevuto della valuta in cambio di una prestazione o di un lavoro.
+
+- [L'AI, una tragedia generazionale](https://robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html#lai-una-tragedia-generazionale?target=_blank) &nbsp; (2025-10-05)
 
 In questo scenario le due maggiori direttrici ideologiche sono quelle USA e quella Italiana. Perché nel mezzo ci sono approcci relativamente pragmatici all'AI.
 
@@ -101,9 +109,21 @@ La consapevolezza di essere una variante funzionale ha messo fine all'assimetria
 
 L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalità per il controllo della nicchia ecologica abitata dagli esseri umani su questo pianeta è fra **homo sapiens** e **homo scientius** ovvero tra il modello funzionale di quelli che credono di sapere qualcosa e quelli che qualcosa hanno capito.
 
+<!--//
+NVIDIA CEO Jensen Huang says the next generation of American millionaires won’t come from tech or finance, but from skilled trades like plumbing and electrical work. 
+
+He emphasised that demand for these jobs is skyrocketing as infrastructure and housing booms meet a severe labor shortage.
+
+With trade schools producing fewer graduates each year, skilled workers are commanding record wages some surpassing six figures annually without college debt.
+
+Huang’s comments highlight a broader trend of shifting wealth dynamics in the U.S., where hands-on trades are emerging as the new frontier for financial freedom.
+//-->
+
 +
 
 ## Related articles
+
+- [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md) &nbsp; (2024-11-27)
 
 +
 
