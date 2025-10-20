@@ -143,6 +143,8 @@ La consapevolezza di essere una variante funzionale ha messo fine all'assimetria
 
 L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalità per il controllo della nicchia ecologica abitata dagli esseri umani su questo pianeta è fra **homo sapiens** e **homo scientius** ovvero tra il modello funzionale di quelli che credono di sapere qualcosa e quelli che qualcosa hanno capito.
 
+- **Neanderthal moderni**: analfabeti funzionali con una forte propensione alla prepotenza, abusi e violenza.
+
 +
 
 ## Integrazioni informative
@@ -163,6 +165,22 @@ Gli investimenti in data center alimentati da energia nucleare stanno crescendo 
 
 - Note informative create a partire da una ricerca fatta con Perplexity AI.
 - Attinenza delle note, rispetto ai risultati trovati, verificata tramite Gemini.
+
++
+
+## L'etica delle leggi di natura
+
+Diversi e autorevoli studi scientifici e pubblicazioni evidenziano come comportamenti etici umani positivi, quali l'altruismo, abbiano riscontro in natura in termini di utilità evolutiva per la specie o del gruppo. Infatti purché sufficientemente numeroso in termini di individui per fare statistica è ragionevole pensare che rientri nella teoria dell'evoluzione delle specie in quanto teoria dei gruppi. In questa prospettiva, sarebbe il comportamento ad essere un tratto di selezione.
+
+Quindi ispirarsi alla natura per favorire dinamiche sociali è utile, e anche scientificamente ragionevole. Un concetto molto diverso invece dall'idea di imporre dei vincoli ai comportamenti umani perché essi debbano essere in linea con le c.d. "leggi di natura". Primo perché questo lede la libertà dell'individuo e ciò è ingiusto ogni volta che tale comportamento non rechi un danno **diretto** ad altri individui. Secondo perché non siamo animali.
+
+Non siamo animali nel senso che l'essere umano si caratterizza come specie per l'uso del cervello come strumento di ragionamento logico, razionale e poi scientifico. Dalla peculiarità delle mani che hanno un pollice opponibile e quindi permettono l'uso di strumenti e dello sviluppo della tecnologia. Dalla posizione eretta che permette di sfruttare i primi due vantaggi evoluzionistici.
+
+Sia chiaro, anche i primati superiori condividono con gli ultimi due tratti caratteristici ma si differenziano palesemente nella capacità intellettive e questo è un elemento determinante perché influenza pesantemente il comportamento dell'individuo e dei gruppi di individui. Quindi è una differenza che già da sola stabilisce un tratto essenziale.
+
+Sicché è ragionevole pensare agli individui che abbiamo un modello funzionale radicalmente diverso come appartenenti a due "specie", anche se tale comportamento è acquisto e non genetico. In termini biologici non è vero, ovviamente.
+
+In termini funzionali è corretto e anche in termini evolutivi, perché due gruppi funzionalmente distinti che competono per il controllo della stessa nicchia ecologica, a parità di altre caratteristiche, si differenziano per il comportamento sociale.
 
 +
 
