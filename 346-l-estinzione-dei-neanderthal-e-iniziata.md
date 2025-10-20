@@ -65,23 +65,31 @@ Queste cose si dovrebbero conoscere dalla fine della scuola dell'obbligo visto c
 
 ### L'intelligenza naturale latita
 
-Invece no, perché conoscere non basta, occorre capire. Ancora di più, capire non basta occorre il corraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è contro-producente. Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia, senza fiducia non c'è crescita.
+Invece no, perché conoscere non basta, occorre capire. Ancora di più, capire non basta occorre il coraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è controproducente. Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia, senza fiducia non c'è crescita.
 
 In buona sostanza il sistema NON perseguita la persona intelligente che si adegua, non perseguita la persona intelligente che si nasconde magari proprio fra le pieghe del sistema, perché costoro sono funzionalmente identici ai furbetti del quartierino, a parte avere un ROI positivo.
 
 Quando però si passa dal perbenismo bigotto come sistema culturale imposto dal singolo a quello organizzato in cui molte persone partecipano a questo modello di enforcement fino al punto di eleggere dei governi palesemente anti-democratici nella loro essenza, ecco che allora le cose cambiano.
 
-Perché a quel punto l'armata brancaleone composta da fanatici celebrolesi prima o poi giunge anche alla tana del bianconiglio.
+---
 
-Però la tana del bianconiglio NON è uno, che in qualche modo si possa circondare e ridurre a minini termini, è uno dei mille che hanno scelto un basso profilo, evitato sapientemente il conflitto con il sistema, e costruito una rete "alla pari" di persone che avevano un problema in comune e quindi hanno mutualizzato la soluzione.
+### Una metafora del cambiamento
 
-Una dinamica che è propria della natura umana, intrinseca, inevitabile, il fondamento della società, della cultura e della civiltà. Non così per direi ma proprio in termini di paleontologia, il principio della civiltà è la mutua assistenza fra simili. Quindi parliamo di dinamiche intrinseche, non aliene, alla natura umana.
+Perché a quel punto l'armata brancaleone composta da fanatici celebrolesi prima o poi giunge anche alla tana del bianconiglio, quello di Monthy Python però.
 
-Fintanto che Neanderthal e Sapiens avevano nicchie ecologiche pur contingue ma separate, l'intelligenza evita. Però a forza di evitare accade che la nicchia si restringe e oltre ad un certo punto, come ha dimostrato la Russia con l'accerchiamento di basi militari NATO, non è più provocazione ma minaccia esistenziale.
+Però la tana del bianconiglio NON è uno, che in qualche modo si possa circondare e ridurre ai minimi termini, è uno dei mille che hanno scelto un basso profilo, evitato sapientemente il conflitto con il sistema, e costruito una rete "alla pari" di persone che avevano un problema in comune e quindi hanno mutualizzato la soluzione.
 
-Da quel punto in poi è cominciata l'estinzione dei Neanderthal e quindi non parliamo di taralucci e vino, ma di azioni massive e sistemiche, di cui emergono solo gli effetti collaterali fra Neanderthal e Neanderthal.
+Una dinamica che è propria della natura umana, intrinseca, inevitabile, il fondamento della società, della cultura e della civiltà. Non così per dire ma proprio in termini di paleontologia, il principio della civiltà è la mutua assistenza fra simili. Quindi parliamo di dinamiche intrinseche, non aliene, alla natura umana.
 
-Ancora, non si è visto nulla, letteralmente. Anche perché guardare non implica vedere.
+Fintanto che Neanderthal e Sapiens avevano nicchie ecologiche pur contigue ma separate, l'intelligenza evita. Però a forza di evitare accade che la nicchia si restringe e oltre ad un certo punto, come ha dimostrato la Russia con l'accerchiamento di basi militari NATO, non è più provocazione ma minaccia esistenziale.
+
+Da quel punto in poi è cominciata l'estinzione dei Neanderthal e quindi non parliamo di tarallucci e vino, ma di azioni massive e sistemiche, di cui emergono solo gli effetti collaterali fra Neanderthal e Neanderthal.
+
+- Ancora, non si è visto nulla, letteralmente. Anche perché guardare non implica vedere.
+
+---
+
+### L'estinzione dei primitivi dell'inteletto
 
 Da un punto di vista della paleontologia si ritiene che le specie si evolvano a salti piuttosto netti e che il fattore dominante sia quello riproduttivo. Ma questa è una concezione che emerge dall'analisi dei fossili, cioè una minima e marginale parte di tutto ciò che era vivo. Sicché si osservano questi salti da una popolazione della specie A a quella B, quasi senza continuità.
 
