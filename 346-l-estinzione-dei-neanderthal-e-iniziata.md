@@ -93,7 +93,7 @@ Fintanto che Neanderthal e Sapiens avevano nicchie ecologiche pur contigue ma se
 
 Da quel punto in poi è cominciata l'estinzione dei Neanderthal e quindi non parliamo di tarallucci e vino, ma di azioni massive e sistemiche, di cui emergono solo gli effetti collaterali fra Neanderthal e Neanderthal.
 
-<div align="center"><img class="bwsketch darkinv" src="img/346-l-estinzione-dei-neanderthal-e-iniziata-img-002.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/346-l-estinzione-dei-neanderthal-e-iniziata-img-002.jpg" width="800"><br></div>
 
 - Ancora, non si è visto nulla, letteralmente. Anche perché guardare non implica vedere.
 
