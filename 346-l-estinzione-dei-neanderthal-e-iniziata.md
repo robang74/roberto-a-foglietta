@@ -7,19 +7,23 @@
 
 ---
 
-### L'AI ha cambiato le regole del gioco
+### Introduzione
 
 Quando cominciò la bolla di entusiasmo di chatgpt scrissi che al mondo, da quel momento, vi erano tre tipi di persone. Quelle più intelligenti del chatbot, quelle meno intelligenti e quelle che non lo sapevano ancora.
 
 Ecco, quando vediamo questi "fenomeni" all'opera, stiamo osservando la terza categoria perché le altre due essendo consapevoli della loro relazione con il chatbot se ne servono in maniera adeguata. Che poi, questa affermazione è stata tradotta in quella che oggi si chiama "teoria della mediocrità" ovvero la terra di mezzo in cui l'AI fa tabula rasa. Perché gli estremi invece ne traggono beneficio.
 
-Stiamo, quindi, assistendo a una rivoluzione tipo quella industriale ma con paradigmi totalmente diversi perché la Rivoluzione Industriale è stata il tripudio della mediocrità.
+Stiamo, quindi, assistendo a una rivoluzione che avrà un impatto sull'economia e sulla sociatà, tipo quella industriale, ma con paradigmi totalmente diversi perché la Rivoluzione Industriale è stata il tripudio della mediocrità.
 
 L'incapace rimaneva emarginato, l'artigiano finiva fuori mercato, la massa confluiva nell'industria: prima sfruttata e poi traendone beneficio da un produzione eccessiva che naturalmente richiedeva un mercato di massa capace di comprare e consumare quella produzione.
 
 Perciò, nonostante fosse stata inizialmente sperimentata l'esportazione, per compensare la sovrapproduzione quindi le minori vendite e la maggiore concorrenza, alla fine si è giunti a progressivamente innalzare gli stipendi oltre il minimo necessario alla sopravvivenza.
 
 Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi con una classe media sufficientemente ricca e colta da desiderare una varietà di prodotti elaborati e non più banalmente funzionali ad uno scopo pratico, poi al consumismo.
+
+---
+
+### L'AI ha cambiato le regole del gioco
 
 [!INFO]
 Il CEO di NVIDIA, Jensen Huang, afferma che la prossima generazione di milionari americani non proverrà dal settore tecnologico o finanziario, ma da mestieri qualificati come l'idraulica e l'elettricista. Commenti che evidenziano una tendenza delle dinamiche della ricchezza negli Stati Uniti, dove i mestieri manuali stanno emergendo come la nuova frontiera della libertà finanziaria.
