@@ -5,9 +5,15 @@
 
 ## L'estinzione dei Neanderthal è iniziata
 
+- **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
+
 ---
 
 ### Introduzione
+
+[!INFO]
+Un'email di phishing PagoPA per violazione del codice della strada, formalmente impeccabile, è stata smascherata da un errore surreale: il truffatore ha dimenticato di cancellare le istruzioni fornite dall'AI alla fine del messaggio, smascherando quella che altrimenti sarebbe stata una truffa perfetta. -- [lknd](https://www.linkedin.com/posts/redhotcyber_linguaggio-redhotcyber-hacking-activity-7385906211017273344-jdGt)
+[/INFO]
 
 Quando cominciò la bolla di entusiasmo di chatgpt scrissi che al mondo, da quel momento, vi erano tre tipi di persone. Quelle più intelligenti del chatbot, quelle meno intelligenti e quelle che non lo sapevano ancora.
 
@@ -21,7 +27,7 @@ Perciò, nonostante fosse stata inizialmente sperimentata l'esportazione, per co
 
 Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi con una classe media sufficientemente ricca e colta da desiderare una varietà di prodotti elaborati e non più banalmente funzionali ad uno scopo pratico, poi al consumismo.
 
----
+~~~~
 
 ### L'AI ha cambiato le regole del gioco
 
@@ -86,6 +92,8 @@ Una dinamica che è propria della natura umana, intrinseca, inevitabile, il fond
 Fintanto che Neanderthal e Sapiens avevano nicchie ecologiche pur contigue ma separate, l'intelligenza evita. Però a forza di evitare accade che la nicchia si restringe e oltre ad un certo punto, come ha dimostrato la Russia con l'accerchiamento di basi militari NATO, non è più provocazione ma minaccia esistenziale.
 
 Da quel punto in poi è cominciata l'estinzione dei Neanderthal e quindi non parliamo di tarallucci e vino, ma di azioni massive e sistemiche, di cui emergono solo gli effetti collaterali fra Neanderthal e Neanderthal.
+
+<div align="center"><img class="bwsketch darkinv" src="img/346-l-estinzione-dei-neanderthal-e-iniziata-img-002.jpg" width="800"><br></div>
 
 - Ancora, non si è visto nulla, letteralmente. Anche perché guardare non implica vedere.
 
