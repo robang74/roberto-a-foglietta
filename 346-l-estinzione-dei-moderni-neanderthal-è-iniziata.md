@@ -66,7 +66,7 @@ Se pensate che i Sapiens avranno rispetto delle superstizioni, credenze, cultura
 
 Tutto questo NON ha nulla a che fare con l'intelligenza artificiale che di suo è una tecnologia e in quanto tale neutra. Non ha nulla a che fare con la tecnologia digitale. Da questo punto di vista si tratta di fattori marginali anche se chiaramente contribuiscono. 
 
-Anzi, paradossalmente, un fattore determinante è stata l'immigrazione dall'Africa che ha portato un'imbarbarimento dei costumi ma anche permesso ai Sapiens di osservare altri Sapiens provenienti da altre culture e portari di tratti morfologici differenti (e.g. colore della pelle).
+Anzi, paradossalmente, un fattore determinante è stata l'immigrazione dall'Africa che ha portato ad un generale imbarbarimento dei costumi locali ma anche permesso ai Sapiens di osservare altri Sapiens provenienti da altre culture e portari di tratti morfologici differenti (e.g. colore della pelle).
 
 Paradossalmente, perché proprio in questo melting pot, è stato possibile osservare e quindi diventare consapevoli che ci sono "uguaglianze" molto più forti del colore della pelle e persino dei legami genetici. Da qui deriva la consapevolezza di specie, altrimenti sarebbe un arianesimo mascherato.
 
