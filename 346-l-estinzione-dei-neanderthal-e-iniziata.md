@@ -187,34 +187,40 @@ Se all'interno di un struttura socio-culturale persiste la necessità di occulta
 
 Indicare questa differenza per definire una variante **homo scientius** non è casuale, accidentale con l'introduzione dell'intelligenza artificiale e con il confronto con immigrati da altri paesi. Come risposta ad una domanda emergente: noi chi siamo per dire che gli altri sono diversi? Dotati d'intelletto e capaci di utilizzarlo in maniera funzionale. Si tratta quindi di una presa di coscienza collettiva.
 
+---
+
+### Approfondimento
+
+La prima edizione di questo articolo è stata sottoposta all'[analisi](https://gemini.google.com/share/9382090377bf) `EGA`, e relativa [trascrizione](#TODO) sfruttando il Katia thinking framework con Gemini per far emergere dubbi e lacune nella narrazione e nella comprensione del testo secondo il principio per il quale se può capirlo un chatbot allora è comprensibile e fruibile anche da quegli esseri umani che possono avere interesse a leggerlo.
+
 +
 
 ## Related articles
 
 - [Il modello HR e l'estinzione impresa italiana](343-modello-risorse-umane-e-estinzione-impresa-italiana.md#?target=_blank) &nbsp; (2025-10-11)
-
++++++
 - [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
-
++++++
 - [Il QE al tempo dell'analfabetismo funzionale](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#?target=_blank) &nbsp; (2025-09-03)
-
++++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
-
++++++
 - [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
-
++++++
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
-
++++++
 - [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) &nbsp; (2024-11-27)
-
++++++
 - [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
-
++++++
 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
-
++++++
 - [L'abominevole truffa dei bonus edilizi](263-l-abominevole-truffa-dei-bonus-edilizi.md#?target=_blank) &nbsp; (2024-05-22)
-
++++++
 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
-
++++++
 - [L'illusione del controllo](006-l-illusione-del-controllo.md#?target=_blank) &nbsp; (2016-04-17)
-
++++++
 - **La demografia nel carrello della spesa** &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_la-scomparsa-della-classe-media-il-pil-pro-capite-activity-6529293622372900864-xelq) &nbsp; [html](linkedin/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta.html#?target=_blank) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf)
 
 +
