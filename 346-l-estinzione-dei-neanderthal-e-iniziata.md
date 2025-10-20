@@ -32,7 +32,7 @@ Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi co
 ### L'AI ha cambiato le regole del gioco
 
 [!INFO]
-Il CEO di NVIDIA, Jensen Huang, afferma che la prossima generazione di milionari americani non proverrà dal settore tecnologico o finanziario, ma da mestieri qualificati come l'idraulica e l'elettricista. Commenti che evidenziano una tendenza delle dinamiche della ricchezza negli Stati Uniti, dove i mestieri manuali stanno emergendo come la nuova frontiera della libertà finanziaria.
+Il CEO di NVIDIA, Jensen Huang, afferma che la prossima generazione di milionari americani non proverrà dal settore tecnologico o finanziario, ma da mestieri qualificati come l'idraulica e l'elettricista. Commenti che evidenziano una tendenza delle dinamiche della ricchezza negli Stati Uniti, dove i mestieri manuali stanno emergendo come la nuova frontiera della libertà finanziaria.  -- **Perplexity AI**
 [/INFO]
 
 Intanto si noti come il concetto di "libertà finanziaria" sia entrato prepotentemente nell'immaginario collettivo che quindi percepisce i meccanismi della finanza in modo bipolare da un parte la povertà che diventa schiavitù e dall'altra parte la liberazione anche dal lavoro, tramite però il denaro che però attualmente è un prodotto della finanza senza un collaterale reale.
@@ -142,6 +142,27 @@ La consapevolezza di essere una variante funzionale ha messo fine all'assimetria
 ### Spoiler finale
 
 L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalità per il controllo della nicchia ecologica abitata dagli esseri umani su questo pianeta è fra **homo sapiens** e **homo scientius** ovvero tra il modello funzionale di quelli che credono di sapere qualcosa e quelli che qualcosa hanno capito.
+
++
+
+## Integrazioni informative
+
+[!INFO]
+Studi su oltre 300.000 aziende americane mostrano come l'introduzione dell'AI ha polarizzato l’impatto sul mercato del lavoro, favorendo soprattutto i profili più esperti e senior in ambiti come l’IT e la diagnostica medica, con aumenti di produttività e salario. Al contrario, i posti per i giovani junior sono drasticamente diminuiti, con un crollo di 3 volte nel rapporto junior/senior nel recruiting, soprattutto in compiti routinari e cognitivamente semplici che ora sono automatizzati da AI. -- **Perplexity AI**
+[/INFO]
+
+[!INFO]
+Le analisi più recenti sul PIL USA del 2025 evidenziano che il calo e la debolezza di fondo nella crescita non sono da attribuire a un solo fattore, ma la riduzione della spesa della classe media ha un ruolo centrale come causa strutturale. Molti studi indicano come il rallentamento dei consumi, specialmente nella fascia media e bassa, limiti la domanda interna, innescando un effetto a catena negativo sull’economia. -- **Perplexity AI**
+[/INFO]
+
+[!INFO]
+Gli investimenti in data center alimentati da energia nucleare stanno crescendo rapidamente negli USA, fungendo da leva fondamentale per mantenere la crescita economica su un terreno positivo in un contesto di rallentamento dei consumi tradizionali. Le dichiarazioni di figure come il CEO di Nvidia mettono in luce l’importanza strategica di tali investimenti perché essi includono proporzionalmente anche le relative produzioni industriali guidate dal trend dell'AI. Tuttavia considerando la complessità economica USA, non è possibile ricondurre tutto a questo singolo fattore. -- **Perplexity AI**
+[/INFO]
+
+#### Nota metodologica
+
+- Note informative create a partire da una ricerca fatta con Perplexity AI.
+- Attinenza delle note, rispetto ai risultati trovati, verificata tramite Gemini.
 
 +
 
