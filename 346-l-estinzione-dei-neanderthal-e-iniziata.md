@@ -6,7 +6,7 @@
 ## L'estinzione dei Neanderthal è iniziata
 
 - **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
-- **2nd edition**, aggiunge due [nuove](integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
+- **2nd edition**, aggiunge due [nuove](#integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
 
 ---
 
@@ -225,7 +225,7 @@ La prima edizione di questo articolo è stata sottoposta all'[analisi](https://g
 +++++
 - **La demografia nel carrello della spesa** &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_la-scomparsa-della-classe-media-il-pil-pro-capite-activity-6529293622372900864-xelq) &nbsp; [html](linkedin/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta.html#?target=_blank) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf)
 
-+
++++++
 
 ## Share alike
 
