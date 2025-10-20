@@ -6,6 +6,7 @@
 ## L'estinzione dei Neanderthal è iniziata
 
 - **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
+- **2nd edition**, aggiunge due nuove sezioni: integrazioni informative e l'etica delle leggi di natura.
 
 ---
 
@@ -27,7 +28,7 @@ Perciò, nonostante fosse stata inizialmente sperimentata l'esportazione, per co
 
 Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi con una classe media sufficientemente ricca e colta da desiderare una varietà di prodotti elaborati e non più banalmente funzionali ad uno scopo pratico, poi al consumismo.
 
-~~~~
+---
 
 ### L'AI ha cambiato le regole del gioco
 
@@ -146,7 +147,7 @@ L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalit
 - **Neanderthal moderni**: analfabeti funzionali con una forte propensione alla prepotenza, abusi e violenza.
 
 +
-
+++++
 ## Integrazioni informative
 
 [!INFO]
