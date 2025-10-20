@@ -7,6 +7,7 @@
 
 - **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
 - **2nd edition**, aggiunge due [nuove](#integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
+- **3rd edition**, gli [italiani](#le-tasse-un-esempio) e la responsabilità sociale, il calo demografico e reddito di cittadinanza.
 
 ---
 
@@ -147,7 +148,7 @@ L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalit
 - **Neanderthal moderni**: analfabeti funzionali con una forte propensione alla prepotenza, abusi e violenza.
 
 +
-++++
+
 ## Integrazioni informative
 
 [!INFO]
@@ -197,6 +198,42 @@ La prima edizione di questo articolo è stata sottoposta all'[analisi](https://g
 
 +
 
+## Le tasse, un esempio
+
+- Obbligare le persone all'altruismo è sbagliato e infatti non funziona affatto bene, per esempio le tasse.
+
+Entro certi limiti funziona bene quando il do-ut-des attiva economie di scala per cui il singolo tassato riceve in termini di servizi pubblici più di quello che lui da solo avrebbe potuto acquistare con quel denaro, incluso eventuali garanzie mutualistiche ma oltre una certa soglia non più.
+
+Infatti, l'evasione fiscale è una piaga ricorrente in alcune nazioni, in Italia addirittura i condoni o leggi per la pace fiscale chiaramente indicano che la fedeltà fiscale non è nemmeno un dilemma piuttosto **come** scansarle, che pure scansarle è un costo oltre che un rischio.
+
+- Analogamente sviluppare una cultura iper-competitiva porta a perdere il vantaggio della collaborazione.
+
+Se mettiamo insieme queste due tendenze otteniamo il paradosso che in Italia le tasse sono troppo alte perché non le pagano tutti e non le pagano tutti perché sono troppo alte. Però è notevole osservare che l'evasione fiscale in Italia era una prassi **molto** prima che le tasse diventassero troppo alte.
+
+- In Italia ci troviamo di fronte ad un caso particolare, che in natura è raro osservare in animali sociali.
+
+Ma questo non vale solo per le tasse, ma anche per la legge. In Italia non si legifera per normare ma per confondere. La legge in Italia non è solo un optional, ma un segno di demenza esserne ligi. Peggio, perché la demenza quasi si compatisce, un segno di vigliaccheria. Praticamente, Mr. Dandee a NY che sfodera la lama per difendersi dalla rapina è la norma.
+
+- Sicchè, in Italia, non stupisce affatto l'inverno demografico. Sarebbe contro-natura, l'opposto.
+
+Infatti, il calo delle nascite **non** è un fenomeno degli ultimi anni, ma storico. Il primo trend di declino è cominciato nel 1964 che all'inizio era tipico di un qualsiasi paese sviluppato in cui la natalità tende spontaneamente a raggiungere l'equilibrio della mortalità.
+
+Dal 2008 questa fase di declino è diventata strutturale: nel 2010 era 1.5 per donna, oggi siamo a 1.2 e non frena nemmeno con l'immigrazione ma anzi piomba a picco. Per non parlare degli albanesi arrivati negli anni '90, ormai italiani come i figli, che però tornano in Albania.
+
+- Le persone felici non si suicidano, quelle esistenzialmente infelici pare si estinguano.
+
+Se riusciamo a contagiare altri popoli con la nostra cultura della gioia e del buon vivere, potremmo salvare il mondo dal cambiamento climatico e dalla sovrappopolazione, in pratica l'agente Smith direbbe dell'italica gente che siamo un virus ma anche la cura. Tipo i doni della furbizia in Harry Potter.
+
+- Enzo Ferrari diceva che gli italiani perdonano tutto tranne il successo, *ed essere felici*.
+
+La seconda parte l'ho aggiunta io perché in una società in cui il successo personale è un peccato imperdonabile, il fallimento è la naturale conseguenza di ogni impresa, necessariamente. Raggiunto questo maestoso obiettivo, il passo successivo era ovviamente sconfiggere la felicità.
+
+Oppure elargire a tutti egualmente come il reddito di cittadinanza che dal 2019 al 2024 ha creato 39 miliardi di maggiore debito pubblico e alimentato l'inflazione, ma prodotto nulla. Fossimo cavie, produrremmo risultati sballati anche su un modello perfetto.
+
+Milioni di persone a cui è stato regalato cinque anni sabbatici per riorganizzarsi la vita o costruirsi una carriera, è andata spritz ad aspettare il salvatore della patria. Quando ho scritto che guardare non implica anche vedere, non è tanto per dire!
+
++
+
 ## Related articles
 
 - [Il modello HR e l'estinzione impresa italiana](343-modello-risorse-umane-e-estinzione-impresa-italiana.md#?target=_blank) &nbsp; (2025-10-11)
@@ -207,25 +244,23 @@ La prima edizione di questo articolo è stata sottoposta all'[analisi](https://g
 +++++
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
 +++++
-- [Il rapporto fra il lupo e l'essere umano semi-primitivo](322-il-ruolo-della-selezione-naturale-nella-societa.md#?target=_blank) &nbsp; (2025-06-13)
-+++++
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
 +++++
 - [Capire è la chiave di volta](294-capire-e-la-chiave-di-volta.md#?target=_blank) &nbsp; (2024-11-27)
-+++++
-- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
 +++++
 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
 +++++
 - [L'abominevole truffa dei bonus edilizi](263-l-abominevole-truffa-dei-bonus-edilizi.md#?target=_blank) &nbsp; (2024-05-22)
 +++++
+- **La demografia nel carrello della spesa** &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_la-scomparsa-della-classe-media-il-pil-pro-capite-activity-6529293622372900864-xelq) &nbsp; [html](linkedin/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta.html#?target=_blank) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf) &nbsp; (2019-05-01)
++++++
 - [L'importanza del TCMO](090-l-importanza-del-tcmo.md#?target=_blank) &nbsp; (2017-10-31)
 +++++
+- **Il vantaggio di essere furbi** &nbsp; [lkdn](https://www.linkedin.com/pulse/il-vantaggio-di-essere-furbi-roberto-a-foglietta) &nbsp; [html](https://robang74.github.io/roberto-a-foglietta/html/linkedin/il-vantaggio-di-essere-furbi-roberto-a-foglietta.html)  &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/069-Il_vantaggio_di_essere_furbi.pdf) &nbsp; (2017-04-07)
++++++
 - [L'illusione del controllo](006-l-illusione-del-controllo.md#?target=_blank) &nbsp; (2016-04-17)
-+++++
-- **La demografia nel carrello della spesa** &nbsp; [lkdn](https://www.linkedin.com/posts/robertofoglietta_la-scomparsa-della-classe-media-il-pil-pro-capite-activity-6529293622372900864-xelq) &nbsp; [html](linkedin/la-demografia-nel-carrello-della-spesa-roberto-a-foglietta.html#?target=_blank) &nbsp; [pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/213-La_demografia_nel_carrello_della_spesa.pdf)
 
-+++++
++
 
 ## Share alike
 
