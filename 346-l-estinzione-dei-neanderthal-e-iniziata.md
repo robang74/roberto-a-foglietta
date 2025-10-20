@@ -193,7 +193,7 @@ Indicare questa differenza per definire una variante **homo scientius** non è c
 
 ### Approfondimento
 
-La prima edizione di questo articolo è stata sottoposta all'[analisi](https://gemini.google.com/share/64d07d706397) `EGA`, e relativa [trascrizione](#TODO) sfruttando il Katia thinking framework con Gemini per far emergere dubbi e lacune nella narrazione e nella comprensione del testo secondo il principio per il quale se può capirlo un chatbot allora è comprensibile e fruibile anche da quegli esseri umani che possono avere interesse a leggerlo.
+La prima edizione di questo articolo è stata sottoposta all'[analisi](https://gemini.google.com/share/64d07d706397) `EGA`, e relativa [trascrizione](data/346-l-estinzione-dei-neanderthal-e-iniziata-katia.txt#?target=_blank) sfruttando il Katia thinking framework con Gemini per far emergere dubbi e lacune nella narrazione e nella comprensione del testo secondo il principio per il quale se può capirlo un chatbot allora è comprensibile e fruibile anche da quegli esseri umani che possono avere interesse a leggerlo.
 
 +
 
