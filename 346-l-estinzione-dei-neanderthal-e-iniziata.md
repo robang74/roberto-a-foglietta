@@ -178,9 +178,13 @@ Non siamo animali nel senso che l'essere umano si caratterizza come specie per l
 
 Sia chiaro, anche i primati superiori condividono con gli ultimi due tratti caratteristici ma si differenziano palesemente nella capacità intellettive e questo è un elemento determinante perché influenza pesantemente il comportamento dell'individuo e dei gruppi di individui. Quindi è una differenza che già da sola stabilisce un tratto essenziale.
 
-Sicché è ragionevole pensare agli individui che abbiamo un modello funzionale radicalmente diverso come appartenenti a due "specie", anche se tale comportamento è acquisto e non genetico. In termini biologici non è vero, ovviamente.
+### L'alba dell'homo scientius
 
-In termini funzionali è corretto e anche in termini evolutivi, perché due gruppi funzionalmente distinti che competono per il controllo della stessa nicchia ecologica, a parità di altre caratteristiche, si differenziano per il comportamento sociale.
+Sicché è ragionevole pensare agli individui che abbiamo un modello funzionale radicalmente diverso come appartenenti a due "specie", anche se tale comportamento è acquisto e non genetico. In termini biologici non è vero, ovviamente. In termini funzionali è corretto e anche in termini evolutivi, perché due gruppi funzionalmente distinti che competono per il controllo della stessa nicchia ecologica, a parità di altre caratteristiche, si differenziano per il comportamento sociale.
+
+Se all'interno di un struttura socio-culturale persiste la necessità di occultamento del talento, pena la punizione dell'individuo tramite abusi o privazioni, allora appare evidente che essa sia la ragione strutturale per cui il sistema non è competitivo. Se all'interno della stessa nicchia ecologica (nazione) esistono due modelli comportamentali differenti e caratteristici è equivalente al caso di due varianti di una stessa specie che competono per il controllo della stessa nicchia.
+
+Indicare questa differenza per definire una variante **homo scientius** non è casuale, accidentale con l'introduzione dell'intelligenza artificiale e con il confronto con immigrati da altri paesi. Come risposta ad una domanda emergente: noi chi siamo per dire che gli altri sono diversi? Dotati d'intelletto e capaci di utilizzarlo in maniera funzionale. Si tratta quindi di una presa di coscienza collettiva.
 
 +
 
