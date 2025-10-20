@@ -6,7 +6,7 @@
 ## L'estinzione dei Neanderthal è iniziata
 
 - **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
-- **2nd edition**, aggiunge due nuove sezioni: integrazioni informative e l'etica delle leggi di natura.
+- **2nd edition**, aggiunge due [nuove](integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
 
 ---
 
@@ -179,6 +179,8 @@ Non siamo animali nel senso che l'essere umano si caratterizza come specie per l
 
 Sia chiaro, anche i primati superiori condividono con gli ultimi due tratti caratteristici ma si differenziano palesemente nella capacità intellettive e questo è un elemento determinante perché influenza pesantemente il comportamento dell'individuo e dei gruppi di individui. Quindi è una differenza che già da sola stabilisce un tratto essenziale.
 
+---
+
 ### L'alba dell'homo scientius
 
 Sicché è ragionevole pensare agli individui che abbiamo un modello funzionale radicalmente diverso come appartenenti a due "specie", anche se tale comportamento è acquisto e non genetico. In termini biologici non è vero, ovviamente. In termini funzionali è corretto e anche in termini evolutivi, perché due gruppi funzionalmente distinti che competono per il controllo della stessa nicchia ecologica, a parità di altre caratteristiche, si differenziano per il comportamento sociale.
@@ -191,7 +193,7 @@ Indicare questa differenza per definire una variante **homo scientius** non è c
 
 ### Approfondimento
 
-La prima edizione di questo articolo è stata sottoposta all'[analisi](https://gemini.google.com/share/9382090377bf) `EGA`, e relativa [trascrizione](#TODO) sfruttando il Katia thinking framework con Gemini per far emergere dubbi e lacune nella narrazione e nella comprensione del testo secondo il principio per il quale se può capirlo un chatbot allora è comprensibile e fruibile anche da quegli esseri umani che possono avere interesse a leggerlo.
+La prima edizione di questo articolo è stata sottoposta all'[analisi](https://gemini.google.com/share/64d07d706397) `EGA`, e relativa [trascrizione](#TODO) sfruttando il Katia thinking framework con Gemini per far emergere dubbi e lacune nella narrazione e nella comprensione del testo secondo il principio per il quale se può capirlo un chatbot allora è comprensibile e fruibile anche da quegli esseri umani che possono avere interesse a leggerlo.
 
 +
 
