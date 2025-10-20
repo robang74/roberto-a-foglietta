@@ -65,11 +65,13 @@ Queste cose si dovrebbero conoscere dalla fine della scuola dell'obbligo visto c
 
 ### L'intelligenza naturale latita
 
-Invece no, perché conoscere non basta, occorre capire. Ancora di più, capire non basta occorre il coraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è controproducente. Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia, senza fiducia non c'è crescita.
+Invece no, perché conoscere non basta, occorre capire. Ancora di più, capire non basta occorre il coraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è controproducente.
 
-In buona sostanza il sistema NON perseguita la persona intelligente che si adegua, non perseguita la persona intelligente che si nasconde magari proprio fra le pieghe del sistema, perché costoro sono funzionalmente identici ai furbetti del quartierino, a parte avere un ROI positivo.
+Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia; senza fiducia non c'è crescita. Il che implica necessariamente una partnership estera, in un paese in cui è concesso privilegio dell'accesso al libero mercato e al fare libera impresa.
 
-Quando però si passa dal perbenismo bigotto come sistema culturale imposto dal singolo a quello organizzato in cui molte persone partecipano a questo modello di enforcement fino al punto di eleggere dei governi palesemente anti-democratici nella loro essenza, ecco che allora le cose cambiano.
+In buona sostanza il sistema NON perseguita la persona intelligente che si adegua, non perseguita la persona intelligente che si nasconde magari proprio fra le pieghe del sistema, perché costoro sono funzionalmente identici ai furbetti del quartierino, a parte avere un ritorno positivo e relative rimesse.
+
+Quando però si passa dal perbenismo bigotto come sistema culturale imposto dall'arbitraria iniziativa singolo che si erge a novello Marchese del Grillo a quello organizzato in cui molte persone partecipano a questo modello di enforcement fino al punto di eleggere dei governi palesemente anti-democratici nella loro essenza, ecco che allora le cose cambiano.
 
 ---
 
