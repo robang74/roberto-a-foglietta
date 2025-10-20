@@ -51,19 +51,21 @@ La questione è che con l'avvento di Internet si pensava che i big-data fossero 
 
 Che poi questa è la definizione di "comprendere" un fenomeno che è strettamente collegato con il latino "intelligere" da cui viene il termine "intelligenza" che a questo punto emerge come il fattore determinate Perché ormai le fonti OSINT sono tante e talmente accessibili che i big-data sono di fatto una commodity.
 
-https://www.linkedin.com/posts/evolving-ai_ai-isnt-only-changing-office-jobs-nvidia-activity-7385946065012801536-IWnj
-
 Qual'è il maggiore freno psicologico all'intelligenza, al suo utilizzo e sviluppo? La paura. Quella che insegnano a scuola, in chiesa, ovunque in Italia. La paura di osare, di uscire dalla processione, dal gregge e di farlo in modo "sapiente" non alla pene di un cane.
 
 Quindi in sostanza il perbenismo che diventa una forma di fascismo bigotto peggiore dello stesso fascismo ideologico (ammesso che i fascisti abbiano mai avuto un'ideologia piuttosto che essere dei delinquenti assetati di potere).
 
-Se quindi il perbenismo bigotto è un fascismo con l'arroganza di essere moralmente superiore, allora qual'è la sua dinamica? Affascinare gli ignoranti e gli idioti per mettere in silenzio e nell'impossibilità di agire, quindi di influenzare la società, le persone intelligenti.
+Se quindi il perbenismo bigotto è un fascismo con l'arroganza di essere moralmente superiore, allora qual'è la sua dinamica caratteristica? La medesima: affascinare gli ignoranti e gli idioti per mettere in silenzio e nell'impossibilità di agire, quindi di influenzare la società, le persone intelligenti.
 
 Analogamente a quello che da sempre serve la religione: affascinare con la superstizione, ignoranti e imbecilli per poter giustificare l'inquisizione e la persecuzione contro coloro che sono intelligenti ma non allineati. Come Giordano Bruno o anche Galileo Galilei, padre del metodo empirico alla base del metodo scientifico moderno.
 
 Queste cose si dovrebbero conoscere dalla fine della scuola dell'obbligo visto che sono nei programmi scolastici. No?
 
-Invece no, perché conoscere non pasta occorre capire e ancora capire non basta occorre il corraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è contro-producente. Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia, senza fiducia non c'è crescita.
+---
+
+### L'intelligenza naturale latita
+
+Invece no, perché conoscere non basta, occorre capire. Ancora di più, capire non basta occorre il corraggio di osare ma qualsiasi persona intelligente sa, per definizione di intelligenza, che osare in un paese di bigotti è contro-producente. Quindi se osa, lo fa quanto più possibile di nascosto ma la trasparenza è fondamentale per due ragioni: senza trasparenza non vi è fiducia, senza fiducia non c'è crescita.
 
 In buona sostanza il sistema NON perseguita la persona intelligente che si adegua, non perseguita la persona intelligente che si nasconde magari proprio fra le pieghe del sistema, perché costoro sono funzionalmente identici ai furbetti del quartierino, a parte avere un ROI positivo.
 
