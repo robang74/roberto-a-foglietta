@@ -111,6 +111,10 @@ Esattamente come è un "attimo" quel momento in cui determinati individui arriva
 
 Se pensate che i Sapiens avranno rispetto delle superstizioni, credenze, cultura o dei templi dei Neanderthal, ricordatevi dei cristianissimi spagnoli alla corte di Montezuma. Con la sostanziale differenza che se viene fatto con le armi e la violenza, è giusto parlare di genocidio. Se lo stesso identico risultato si ottiene attraverso dinamiche naturali, si parla giustamente di selezione naturale.
 
+---
+
+### Non tutto è questione di AI
+
 Tutto questo NON ha nulla a che fare con l'intelligenza artificiale che di suo è una tecnologia e in quanto tale neutra. Non ha nulla a che fare con la tecnologia digitale. Da questo punto di vista si tratta di fattori marginali anche se chiaramente contribuiscono. 
 
 Anzi, paradossalmente, un fattore determinante è stata l'immigrazione dall'Africa che ha portato ad un generale imbarbarimento dei costumi locali ma anche permesso ai Sapiens di osservare altri Sapiens provenienti da altre culture e portari di tratti morfologici differenti (e.g. colore della pelle).
