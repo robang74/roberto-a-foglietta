@@ -91,15 +91,19 @@ Da quel punto in poi è cominciata l'estinzione dei Neanderthal e quindi non par
 
 ---
 
-### L'estinzione dei primitivi dell'inteletto
+### L'estinzione dei primitivi dell'intelletto
 
 Da un punto di vista della paleontologia si ritiene che le specie si evolvano a salti piuttosto netti e che il fattore dominante sia quello riproduttivo. Ma questa è una concezione che emerge dall'analisi dei fossili, cioè una minima e marginale parte di tutto ciò che era vivo. Sicché si osservano questi salti da una popolazione della specie A a quella B, quasi senza continuità.
 
-In realtà, la continutià insiste nella temporanea co-esistenza che non si osserva nei fossili perché il fattore dominante NON è quello genetico-morfologico ma quello funzionale-comportamentale. La specie B rimpiazza la specie A nella nicchia ecologica comune per via di una migliore capacità gestionale di quella nicchia e tale capaictà gestionale NON diepnde dai singoli individui ma dalla diversa propensione a collaborare.
+In realtà, la continuità insiste nella temporanea co-esistenza che non si osserva nei fossili perché il fattore dominante NON è quello genetico-morfologico ma quello funzionale-comportamentale. La specie B rimpiazza la specie A nella nicchia ecologica comune per via di una migliore capacità gestionale di quella nicchia e tale capacità gestionale NON dipende dai singoli individui ma dalla diversa propensione a collaborare.
 
 La diversa e migliore propensione a collaborare NON è un fattore solamente genetico, in cui certamente la genetica può costituire un elemento abilitante o un vantaggio selettivo, ma comportamentale. L'estinzione dei Neanderthal non è cominciata quando i Sapiens sono apparsi ma quando i Sapiens hanno preso atto di essere una variante quindi una specie a parte, quindi hanno modificato il loro comportamento ovvero modello di collaborazione.
 
-Infatti nel DNA dei Sapiens ci sono ampie porzioni di Neanderthal, perché anche fra i Neanderthal non tutti gli individui erano "uguali". Alcuni Neanderthal erano meno affini al modello di collaborazione dei Sapiens, altri molto di più. Analogamente fra i Sapiens, vi erano individui più inclini alla tolleranza di modelli misti e altri meno, ma fondamentalmente l'intervallo di sovvraposizione era relativamente piccolo.
+Infatti nel DNA dei Sapiens ci sono ampie porzioni di Neanderthal, perché anche fra i Neanderthal non tutti gli individui erano "uguali". Alcuni Neanderthal erano meno affini al modello di collaborazione dei Sapiens, altri molto di più. Analogamente fra i Sapiens, vi erano individui più inclini alla tolleranza di modelli misti e altri meno, ma fondamentalmente l'intervallo di sovrapposizione era relativamente piccolo.
+
+---
+
+### A posteriori sarà stato un attimo
 
 Relativamente piccolo come il contributo genetico dei Neanderthal ai Sapiens. Quindi, il salto evolutivo che appare attraverso l'analisi della paleontologia appare assai meno ripido quando si studia il DNA e la sua evoluzione. Eppure, dal punto di vista dei tempi dell'evoluzione, che sono molto lunghi, è stato un attimo. 
 
@@ -126,16 +130,6 @@ La consapevolezza di essere una variante funzionale ha messo fine all'assimetria
 ### Spoiler finale
 
 L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalità per il controllo della nicchia ecologica abitata dagli esseri umani su questo pianeta è fra **homo sapiens** e **homo scientius** ovvero tra il modello funzionale di quelli che credono di sapere qualcosa e quelli che qualcosa hanno capito.
-
-<!--//
-NVIDIA CEO Jensen Huang says the next generation of American millionaires won’t come from tech or finance, but from skilled trades like plumbing and electrical work. 
-
-He emphasised that demand for these jobs is skyrocketing as infrastructure and housing booms meet a severe labor shortage.
-
-With trade schools producing fewer graduates each year, skilled workers are commanding record wages some surpassing six figures annually without college debt.
-
-Huang’s comments highlight a broader trend of shifting wealth dynamics in the U.S., where hands-on trades are emerging as the new frontier for financial freedom.
-//-->
 
 +
 
