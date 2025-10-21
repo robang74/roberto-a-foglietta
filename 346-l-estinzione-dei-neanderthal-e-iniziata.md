@@ -9,6 +9,7 @@
 - **2nd edition**, aggiunge due [nuove](#integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
 - **3rd edition**, gli [italiani](#le-tasse-un-esempio) e la responsabilità sociale, il calo demografico e reddito di cittadinanza.
 - **4th edition**, include l'introduzione qui sotto che presenta l'articolo e il concetto di metacognizione.
+- **5th edition**, include una [sezione](#perch-i-nazisti-diventarono-nazisti) che ritorna ad agganciarsi all'introduzione sulle derive ideologiche.
 
 ---
 
@@ -32,7 +33,7 @@ In generale, nell'ambito di un discorso che sia retorico o razionale, ci sono de
 
 Coloro che "giocano" con queste variabili chiave (per usare un termine informatico) di fatto cambiano la natura del modello, quindi ristrutturano il pensiero e nel fare questo cambiano il comportamento delle persone quando queste cercano di rimanere coerenti con ciò che credono.
 
-Qui sorge il primo problema: "credono" quindi NON valutano alternative, non cercano altri significati di quelle parole chiave, né pretendono una definizione precisa di quei concetti. Questo è un problema ancora prima di mettere in discussione il modello che già un approccio critico di più alto livello. Almeno però avere chiari e ben definiti i fondamentali.
+Qui sorge il primo problema: "&hairsp;*credono*&hairsp;" quindi **non** valutano alternative, non cercano altri significati di quelle parole chiave, né pretendono una definizione precisa di quei concetti. Questo è un problema ancora prima di mettere in discussione il modello che già un approccio critico di più alto livello. Almeno però avere chiari e ben definiti i fondamentali.
 
 Ecco, la domanda che l'articolo pone verso la sua conclusione è una domanda fondamentale perché in funzione di ciò che noi crediamo di essere ci rapportiamo con gli altri ma non è scontato che ciò che crediamo sia affatto vero. Anche quando sembra scontata che sia vera.
 
@@ -158,7 +159,7 @@ Se pensate che i Sapiens avranno rispetto delle superstizioni, credenze, cultura
 
 Tutto questo NON ha nulla a che fare con l'intelligenza artificiale che di suo è una tecnologia e in quanto tale neutra. Non ha nulla a che fare con la tecnologia digitale. Da questo punto di vista si tratta di fattori marginali anche se chiaramente contribuiscono. 
 
-Anzi, paradossalmente, un fattore determinante è stata l'immigrazione dall'Africa che ha portato ad un generale imbarbarimento dei costumi locali ma anche permesso ai Sapiens di osservare altri Sapiens provenienti da altre culture e portari di tratti morfologici differenti (e.g. colore della pelle).
+Anzi, paradossalmente, un fattore determinante è stata l'immigrazione dall'Africa che ha portato ad un generale imbarbarimento dei costumi locali (quanto questo dipenda dagli immigrati piuttosto che dalla politica che gestisce questo fenomeno non è immediatamente evidente) ma anche permesso ai Sapiens di osservare altri Sapiens provenienti da altre culture e portari di tratti morfologici differenti (e.g. colore della pelle).
 
 Paradossalmente, perché proprio in questo melting pot, è stato possibile osservare e quindi diventare consapevoli che ci sono "uguaglianze" molto più forti del colore della pelle e persino dei legami genetici. Da qui deriva la consapevolezza di specie, altrimenti sarebbe un arianesimo mascherato.
 
@@ -179,7 +180,7 @@ L'**homo neanderthalis** si estinse circa 40mila anni fa, quindi oggi la rivalit
 - **Neanderthal moderni**: analfabeti funzionali con una forte propensione alla prepotenza, abusi e violenza.
 
 +
-
+++++
 ## Integrazioni informative
 
 [!INFO]
@@ -262,6 +263,28 @@ La seconda parte l'ho aggiunta io perché in una società in cui il successo per
 Oppure elargire a tutti egualmente come il reddito di cittadinanza che dal 2019 al 2024 ha creato 39 miliardi di maggiore debito pubblico e alimentato l'inflazione, ma prodotto nulla. Fossimo cavie, produrremmo risultati sballati anche su un modello perfetto.
 
 Milioni di persone a cui è stato regalato cinque anni sabbatici per riorganizzarsi la vita o costruirsi una carriera, è andata spritz ad aspettare il salvatore della patria. Quando ho scritto che guardare non implica anche vedere, non è tanto per dire!
+
++
+
+## Perché i nazisti diventarono nazisti?
+
+Anni fa comprai un libro di cui non ricordo il titolo e non ricordo l'autore, e se oggi avessimo una lista nera dei libri quello ci sarebbe stato sicuramente e probabilmente è uno di quei libri che è in una lista "attenzionata", perché la casa editrice è specializzata in pubblicazioni filo-naziste.
+
+Non è un libro che si può comprare online o che si trova nelle edicole ma bisogna ordinarlo da una libreria, attendere che arrivi e andare a ritirarlo. Non mi ricordo se l'ho pagato in contanti o con un mezzo tracciabile, m'importa sega di essere "attenzionato", tanto già allora, più di così! 😉 
+
+Quel libro parla, e lo fa con cognizione di causa, di quello che era l'ideologia alla base di quello che poi sarebbe diventato il nazismo e della sua evoluzione nel tempo, con un taglio difensivo. Non mi ha convinto, ma fra le tante pubblicazioni di quella casa editrice è probabilmente l'unico libro che una persona adulta, matura, senziente e curiosa può apprezzare di leggere.
+
+Perché una mente elevata apprezza anche quello che NON condivide, quindi impara senza credere. Che poi non è nulla di eccezionale, imparare dagli errori altrui, se questi errori sono descritti in modo razionale e coerente. Quindi, cosa diceva quel libro che valeva la pena di leggere?
+
+Poco, ma faceva riflettere sul fatto che in principio le basi ideologiche del nazismo non erano così strane, per l'epoca, o malvagie. Se gli avessimo tolto l'etichetta data dai posteri, all'inizio sembrava accettabile e persino ragionevole. Come la prima edizione di questo articolo, quella che ora va da "La truffa perfetta dell'AI" a lo "Spoiler finale" ma senza quest'ultimo e le frasi in parentesi.
+
+Curiosamente si possono ottenere declinazioni opposte della 1a edizione del mio articolo a seconda di come ci si accorda su alcune definizioni, motivo per il quale ho anticipato già nella prima edizione lo spoiler e il testo fra parentesi, per porre subito dei limiti all'interpretazione. 
+
+Curiosamente i concetti che avrebbero permesso una declinazione umana delle basi ideologiche del nazismo sono stati formalizzati tutti dopo la WW2. Questo NON significa che difenda il nazismo, significa che sto sottolineando l'importanza dell'introduzione inserita nella 4a edizione.
+
+Questo risponde alla domanda implicita nel titolo: come hanno fatto milioni di persone, tutte quante insieme, ad incamminarsi in una deriva ideologica e quindi a scrivere una delle peggiori pagine della storia moderna e forse di tutta la storia occidentale. Forse, perché mica detto che l'Inquisizione Spagnola fosse meglio delle SS naziste piuttosto che fosse un'epoca meno civile, forse.
+
+Questo concetto di deriva di massa generato da idee che diventano ideologie che poi "macerano" invece di essere razionalizzate non è un fatto nuovo ma piuttosto si ripete in diverse epoche e in diversi contesti. Ma fondamentalmente è il prodotto dello stesso difetto cognitivo che perciò vale la pena di esplorare e capire.
 
 +
 
