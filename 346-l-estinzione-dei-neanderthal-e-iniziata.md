@@ -8,10 +8,41 @@
 - **1st edition**, articolo pubblicato a partire da una serie di commenti ad un post di RHC su LinkedIn.
 - **2nd edition**, aggiunge due [nuove](#integrazioni-informative) sezioni: integrazioni informative e l'etica delle leggi di natura.
 - **3rd edition**, gli [italiani](#le-tasse-un-esempio) e la responsabilità sociale, il calo demografico e reddito di cittadinanza.
+- **4th edition**, include l'introduzione qui sotto che presenta l'articolo e il concetto di metacognizione.
 
 ---
 
 ### Introduzione
+
+Questo articolo non è particolarmente lungo da leggere, ma è duro digerire perché fondamentalmente presenta una (possibile) risposta a una domanda molto attuale:
+
+- chi siamo noi, per giudicare gli altri diversi?
+
+Una domanda che dovrebbe porsi quando affrontiamo culture diverse come quelle di altri paesi e che alcuni osservano solo attraverso gli immigrati o i turisti perché non hanno mai viaggiato o vissuto all'estero.
+
+Una domanda che dovrebbe porsi quando veniamo in contatto con varie ideologie che alla fine sono solo funzionali alla politica ma che nonostante questo condizionano la vita di molte persone con le quali in qualche misura abbiamo la necessità di interagire e quindi confrontarci.
+
+Una domanda che dovrebbe porsi quando interagendo con i chatbot, e più in generale con l'intelligenza artificiale, osserviamo delle risposte da queste macchine che paiono umane o che noi percepiamo in questo modo, e se le percepiamo come umane allora hanno già superato il test di Turing.
+
+Però prima di dare una risposta, l'articolo si snoda attraverso dei punti nevralgici che toccano nervi scoperti. Mostra anche come le definizioni quando sono vaghe o sono lasciate al lettore, possono declinare lo stesso scritto in modi completamente diversi.
+
+Questo dovrebbe farci riflettere sull'importanza delle parole, in particolare delle definizione che diamo a certe parole, o per contro a farci dubitare che la definizione di quelle parole che noi pensiamo essere quella giusta ed unica, non è detto affatto che lo sia.
+
+In generale, nell'ambito di un discorso che sia retorico o razionale, ci sono delle parole chiave che rappresentano dei concetti fondamentali e in funzione di come questi vengono definiti si possono avere molte declinazioni della stessa teoria.
+
+Coloro che "giocano" con queste variabili chiave (per usare un termine informatico) di fatto cambiano la natura del modello, quindi ristrutturano il pensiero e nel fare questo cambiano il comportamento delle persone quando queste cercano di rimanere coerenti con ciò che credono.
+
+Qui sorge il primo problema: "credono" quindi NON valutano alternative, non cercano altri significati di quelle parole chiave, né pretendono una definizione precisa di quei concetti. Questo è un problema ancora prima di mettere in discussione il modello che già un approccio critico di più alto livello. Almeno però avere chiari e ben definiti i fondamentali.
+
+Ecco, la domanda che l'articolo pone verso la sua conclusione è una domanda fondamentale perché in funzione di ciò che noi crediamo di essere ci rapportiamo con gli altri ma non è scontato che ciò che crediamo sia affatto vero. Anche quando sembra scontata che sia vera.
+
+- noi siamo italiani.
+
+Certificato di nascita alla mano chi potrebbe negarlo? Già, ma esattamente cosa significa essere italiani, per esempio? Queste domande di cui la risposta solitamente diamo per scontate, ci introducono al concetto di [metacognizione](https://it.wikipedia.org/wiki/Metacognizione) ovvero la consapevolezza dei nostri ragionamenti e il significato dei nostri pensieri.
+
+---
+
+### La truffa perfetta dell'AI
 
 [!INFO]
 Un'email di phishing PagoPA per violazione del codice della strada, formalmente impeccabile, è stata smascherata da un errore surreale: il truffatore ha dimenticato di cancellare le istruzioni fornite dall'AI alla fine del messaggio, smascherando quella che altrimenti sarebbe stata una truffa perfetta. -- [lknd](https://www.linkedin.com/posts/redhotcyber_linguaggio-redhotcyber-hacking-activity-7385906211017273344-jdGt)
@@ -29,7 +60,7 @@ Perciò, nonostante fosse stata inizialmente sperimentata l'esportazione, per co
 
 Questo ha trasformato il modello economico da "sussistenza" a "maturo" quindi con una classe media sufficientemente ricca e colta da desiderare una varietà di prodotti elaborati e non più banalmente funzionali ad uno scopo pratico, poi al consumismo.
 
----
+----
 
 ### L'AI ha cambiato le regole del gioco
 
