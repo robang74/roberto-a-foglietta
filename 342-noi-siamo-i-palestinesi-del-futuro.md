@@ -195,7 +195,23 @@ Il che spiega perché il governo Meloni non supporta la difesa di Francesca Alba
 
 In questo scenario, Microsoft ha unilateralmente terminato il contratto di servizio di Cloud Azure perché veniva usato per sistematiche intercettazioni di massa delle chat dei palestinesi da parte dell'IDF tramite il gruppo specializzato 8200. Senza sorpresa, da quell'esperienza la Commissione Europea ha pensato di proporre il Chat Control Act, ovviamente sfruttando la più mammifera delle scuse: proteggere i bambini dai predatori. Quindi, i palestinesi del futuro siamo noi, non è un titolo scelto a caso.
 
-...
+---
+
+### Affari, denaro, potere e democrazia
+
+In estema sintesi, attraverso il circuito bancario internazionale e relazioni di affari fra vari gruppi di interesse la crisi del 7 ottobre a Gaza è fondamentalmente una spartizione fra entità che nella migliore delle ipotesi non hanno alcun interesse alla sicurezza della popolazione palestinese.
+
+Una guerra come tante altre, perché soldi significa influenza ma anche potere quando essi sono relativi ad asset reali e in particolare a risorse naturali strategiche come quelle legate all'energia, che se il nucleare avesse preso piede secondo razionalità e scienza dal 1953 in poi quando la prima centrale atomica è stata collegata alla rete elettrica degli USA sarebbe solamente una commodity, non marginale ma nemmeno strategica.
+
+Qual'è l'ambizione di coloro che ha acquisito ricchezza e potere attraverso la guerra quindi l'ingiusta spogliazione di altru ricchezza e in questo caso anche l'accusa di aver commesso un genocidio? Il potere di controllare il dissenso perché se questo cresce, magari potrebbero arrivare delle condanne da parte della Corte Penale Internazionale e come ha sperimentato ieri Sarkozy (2025-10-21) quando finiscono in prigione il potere e il denaro hanno una marginale utilità.
+
+L'altra sorgente del potere si chiama "democrazia" quella cosa per la quale milioni di analfabeti funzionali (che in Italia si dice siano almeno il 37% della popolazione adulta, quindi della base votante) delegano il voto, ma per la Costituzione Italiana non delegano il potere che rimane in capo al popolo che quindi è titolato a fare una rivoluzione, ma che se mantenuto nell'ignoranza e in cattiva salute (o drogato, o dipendente dalle cure ormonali perché confuso sul suo genere sessuale, o emarginato perché vittima di bullismo sociale) difficilmente farà qualcosa oltre a cercare di tirare a campare con espedienti e infine soccombere.
+
+In questo tipo di "democrazia" uno soggetto relativamente in buona salute e intelligente che scrive cose può dare molto fastidio. Quindi meglio che sia disoccupato, vittima di maldicenze, povero quindi con limitata possibilità di viaggiare e fare affari, di conoscere e incontrare persone, influenzare la loro opinione e in definitiva dare una qualche sostanza alla parola "democrazia".
+
+Perché appare chiaro che anche persone di buona volontà e raziocinio, se private delle informazioni essenziali non potranno prendere decisioni e fare scelte consapevoli. In sintesi: propaganda, censura, controllo e tutto quanto sia l'opposto della trasparenza. Poi magari anche una guerra, che faccia il reset. Casomai a qualcuno venisse in mente di rinvangare il passato oppure ancora più bizzarra idea, regolare i conti in virtù del principio di civiltà. Non sia mai che il diritto prevalga sullo status-quo, infatti è stata inventata la ghigliottina, mica per caso.
+
+---
 
 ### Nota #1
 
