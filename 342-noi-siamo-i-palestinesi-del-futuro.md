@@ -7,6 +7,7 @@
 
 - **1st edition**, scritto a partire da tre miei post publicati su LinkedIn: [post #1](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381941438411870208-S1Hm), [post #2](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381940011098877952-__37) e [post #3](https://www.linkedin.com/posts/robertofoglietta_il-prossimo-14-ottobre-%C3%A8-una-data-cruciale-activity-7381721306729267200-AmcE)
 - **2nd edition**, la [profilazione di massa](#la-profilazione-di-massa) nell'ambito della regolamentazione della pornografia online.
+- **3rd edition**, la guerra fa il giro e poi [torna](#la-guerra-fa-il-giro-e-poi-torna) ad influenzare le nostre vite di cittadini europei.
 
 ---
 
@@ -32,7 +33,7 @@ L’iniziativa, nata con l’obiettivo di contrastare la diffusione di contenuti
 - [Fermate Chat Control! Il grido d'allarme di attivisti ed esperti di privacy](https://www.wired.it/article/chat-control-grido-allarme-attivisti-privacy/) &nbsp; (2025-10-02)
 - [Oltre lo slogan della scansione istantanea](https://www.geopolitica.info/scansione-istantanea-chat-control-normativa-ue/) &nbsp; (2025-10-01)
 
-~~~~
+---
 
 ### La cooperazione fiscale in Europa
 
@@ -173,6 +174,26 @@ Se questi aspetti non vengono correttamente indirizzati dalla famiglia, e nelle 
 Allora perché gli italiani si ostinano a rifiutare che siano le scuole a fare questo tipo di educazione? Si ostinano nel senso che questa avversione all'insegnamento è precedente alla follia woke che per altro in Italia non ha mai raggiunto i livelli eclatanti degli USA. Perché è proprio nelle famiglie italiane che determinati comportamenti sono diffusi e quindi il bambino edotto saprebbe riconoscerli e denuciarli agli insegnanti: mamma e papà litigano sempre, etc.
 
 Questo in sostanza è il problema di fondo, un problema culturale, un ignoranza e un'ostinazione a rifiutare l'evoluzione sociale verso standard più elevati e sul quale la politica costruisce la sua narrativa tossica e dirotta i fondi dove può trarre vantaggi che poi, converte anche in voti.
+
++
+
+## La guerra fa il giro e poi torna
+
+[!INFO]
+L'accordo di cessate il fuoco a Gaza tra Israele e Hamas è stato siglato nella prima fase nella notte tra l'8 e il 9 ottobre 2025. Questo accordo prevede l'apertura immediata di cinque punti d'ingresso degli aiuti umanitari verso Gaza, il rapido ritorno a casa di tutti gli ostaggi in vita in cambio di prigionieri palestinesi, e un parziale ritiro delle forze armate israeliane dalla Striscia di Gaza. -- **Perplexity AI**
+[/INFO]
+
+Hanno violato la tregua 20 minuti dopo averla firmata. La "tregua" vale solo per Hamas, un po' come quella chiesta dall'Ucraina però la Russia non è Hamas. Hamas che è il braccio armato terroristico del governo Netanyahu come gli stessi parlamentari israeliani dell'opposizione hanno fatto pubblicamente emergere durante almeno una seduta del parlamento indicando documenti e attività specifiche. Cosa che non dovrebbe sorprendere visto che lo scopo di Hamas è stato quello di prendere in ostaggio i palestinesi, sfruttarli con metodi mafiosi e quindi distruggere ogni potere di governo dell'Autorità Palestinese.
+
+Giusto una domanda: in quale altro paese la criminalità organizzata è stata usata per far perdere il controllo territoriale al governo in carica? Spoiler: Italia 1943, accordo CIA-Mafia (e poi 'Ndrangheta e Camorra) per consentire e proteggere lo sbarco delle truppe USA in Sicilia e poi il loro avanzare verso nord. Cosa vi fa pensare che l'istituzione di Gladio la cui esistenza è provata, la sua dissoluzione ufficialmente firmata ma in effetti mai avvenuta fosse l'unico elemento extra-costituzionale a "difendere" l'Italia dalla deriva comunista? Ovviamente, gli accordi CIA-Mafia sono stati mantenuti e anche il Vaticano ha dovuto.
+
+Curiosamente, Francesca Albanese parla (con assoluta cognizione di causa) del genocidio dei palestinesi ma per quello che ne so io (e potrei sbagliarmi perché non la seguo costantemente e quindi mi è difficile dire in assoluto) non parla mai (o quasi) di questo aspetto agghiacciante. Non ne parla perché secondo alcuni, informazioni anche riportate sulla stampa che la critica, il marito attraverso la banca ha un interesse diretto nella questione dell'Autorità Palestinese ma non che essa governi, piuttosto acconsenta ai suoi supporter internazionali di occuparsi della ricostruzione di Gaza.
+
+Per quanto possibile togliendo quel business a Israele che invece si terrebbe interamente i diritti di sfruttamento del giacimento di gas naturale di fronte alla costa della striscia di Gaza, che per diritto internazionale, se la Palestina esistesse come stato riconosciuto apparterrebbe unicamente a loro. Quindi la crisi del 7 ottobre è nata per i diritti di estrazione di cui i proventi sono stati interamente assegnati ad Israele attraverso un accordo con ENI, che escludeva l'Autorità Palestinese (quindi le remesse alla popolazione, quindi al pizzo di Hamas) ed è proseguita per via dell'idea di Hunter Biden del business della ricostruzione.
+
+Il che spiega perché il governo Meloni non supporta la difesa di Francesca Albanese ma la posizione del ministro degli esteri Tajani perché la ENI è una società italiana di natura strategica, ma al contempo sono stati costretti a firmare un accordo da $110 miliardi per l'acquisto del costoso, difficile e pericoloso da gestire GNL americano (quindi che verrà consegnato ad altri paesi e fra questi il più attrezzato in termini di logistica e rigassificazione è la Cina, in cambio di forniture in gasdotti verso l'Italia potenzialmente dalla Russia per triangolazione) e un contratto che vincola ENI a comprare dagli USA per 20 anni.
+
+In questo scenario, Microsoft ha unilateralmente terminato il contratto di servizio di Cloud Azure perché veniva usato per sistematiche intercettazioni di massa delle chat dei palestinesi da parte dell'IDF tramite il gruppo specializzato 8200. Senza sorpresa, da quell'esperienza la Commissione Europea ha pensato di proporre il Chat Control Act, ovviamente sfruttando la più mammifera delle scuse: proteggere i bambini dai predatori. Quindi, i palestinesi del futuro siamo noi, non è un titolo scelto a caso.
 
 +
 
