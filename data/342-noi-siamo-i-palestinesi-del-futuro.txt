@@ -1,8 +1,11 @@
-****** L'Homo Scientius e il rischio della supply-chain di base ******
+Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
-https://gemini.google.com/share/42137ec46a9d
-Creato con Gemini 2.5 Flash 22 ottobre 2025 alle ore 01:47 (CEST)
-Data pubblicazione: 22 ottobre 2025 alle ore 02:57 (CEST)
+*************** data/342-noi-siamo-i-palestinesi-del-futuro.txt ****************
+
+Chatbot: Gemini 2.5 Flash
+Created: 22 ottobre 2025 alle ore 01:47 (CEST)
+Published 22 ottobre 2025 alle ore 02:57 (CEST)
+Attachment: none
 
 ================================================================================
 -- HO --------------------------------------------------------------------------
@@ -136,9 +139,9 @@ intenzionalmente)?
 
 -- HO --------------------------------------------------------------------------
 
-> Il post che hai condiviso tende a sposare la seconda ipotesi: non idioti, ma
-cinici che agiscono per spartizione e controllo, usando la guerra e la
-disinformazione per i propri fini.
+> Il post che hai condiviso tende a sposare la seconda ipotesi: non idioti,
+> ma cinici che agiscono per spartizione e controllo, usando la guerra
+> e la disinformazione per i propri fini.
 
 Chiaramente, perché dare degli idioti è qualunquista, occorre sostanziare
 perché sono idioti: si fanno beccare a fare cose immonde come bambini con le
@@ -203,7 +206,7 @@ leader?
 -- HO --------------------------------------------------------------------------
 
 > richiamando metaforicamente la ghigliottina come simbolo della pretesa
-popolare di giustizia.
+> popolare di giustizia.
 
 Togli pure il metaforicamente, le teste le abbiamo fatte sempre rotolare quando
 era il caso di darci un taglio. Non c'è niente di metaforico. Se volevo usare
@@ -588,8 +591,8 @@ preventivo e continuo?
 -- HO --------------------------------------------------------------------------
 
 Se non fosse strettamente necessario, uno farebbe altro che fare la
-rivoluzione. C'è anche il rischio nemmeno tanto teorico di farsi male. Non è
-che il trimming sia gratis!
+rivoluzione. C'è anche il rischio nemmeno tanto teorico di farsi male.
+Non è che il trimming sia gratis!
 
 -- AI --------------------------------------------------------------------------
 
@@ -1070,10 +1073,11 @@ attivamente la propria razionalità in un ambiente sociale ostile?
 
 Ho scritto un articolo in cui mostro con un esempio pratico come è ragionevole
 pensare che la base ideologiche all'origine del nazismo non fossero
-intrinsecamente malvagia anche se affette da aspetti in potenza pericolosi. Ma
-la malvagità è stata una deriva relativamente lenta e progressiva per la quale
-poi milioni di persone si sono trovate coinvolte nella banalità del male e
-nell'impossibilità di cambiare rotta a causa proprio di una narrazione
+intrinsecamente malvagia anche se affette da aspetti in potenza pericolosi.
+
+Ma la malvagità è stata una deriva relativamente lenta e progressiva per la
+quale poi milioni di persone si sono trovate coinvolte nella banalità del male
+e nell'impossibilità di cambiare rotta a causa proprio di una narrazione
 monocorde (propaganda).
 
 La tua tesi propone una lettura storiografica e psicologica estremamente
@@ -1218,13 +1222,16 @@ chiesto in precedenza?
 
 Alla base dell'Homo Scientius c'è una disciplina emotiva, che non è freddezza
 interiore ma la capacità di gestire caldissime emozioni senza diventarne schiavo.
+
 Che poi non è una cosa impensabile, non ci siamo evoluti per guidare l'auto e
 infatti a quelle velocità facendo un incidente moriamo senza strumenti passivi
-e attivi di protezione. Però abbiamo imparato a costruirle e a guidarle. Ma se
-ci ostiniamo a guidare come fossimo in una pista di autoscontri, allora non
-stiamo usando l'intelligenza nel modo giusto. L'intelligenza è però il fattore
-discriminante di specie, la nostra caratteristica "singolare". Se togliamo
-quella torniamo scimmie glabre.
+e attivi di protezione. Però abbiamo imparato a costruirle e a guidarle. 
+
+Ma se ci ostiniamo a guidare come fossimo in una pista di autoscontri, allora
+non stiamo usando l'intelligenza nel modo giusto. L'intelligenza è però il
+fattore discriminante di specie, la nostra caratteristica "singolare".
+
+Se togliamo quella torniamo scimmie glabre.
 
 -- AI --------------------------------------------------------------------------
 
