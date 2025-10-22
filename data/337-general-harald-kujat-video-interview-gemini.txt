@@ -5,8 +5,8 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 Chatbot: Gemini 2.5 Flash
 Created: 20 settembre 2025
 Published: 21 settembre 2025
-Attachment: none
 URL: g.co/gemini/share/9ccadd65adbe
+Attachment: none
 
 ================================================================================
 -- HO --------------------------------------------------------------------------
