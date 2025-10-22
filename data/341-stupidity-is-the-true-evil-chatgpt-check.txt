@@ -4,7 +4,8 @@ Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
 
 Chatbot: ChatGPT-5
 Created: 5th October 2025
-Published 5th October 2025
+Published: 5th October 2025
+URL: chatgpt.com/share/68e2751a-d31c-8012-95ce-3efdd2b27461
 Attachment: none
 
 ================================================================================
