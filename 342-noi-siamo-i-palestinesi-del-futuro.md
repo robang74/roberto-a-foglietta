@@ -213,6 +213,16 @@ Perché appare chiaro che anche persone di buona volontà e raziocinio, se priva
 
 ---
 
+### L'importanza di sognare in grande
+
+L'[Homo Scientius](https://robang74.github.io/roberto-a-foglietta/html/346-l-estinzione-dei-neanderthal-e-iniziata.md#?target=_blank) e il rischio della supply-chain di base:
+
+- Una [chat](https://gemini.google.com/share/42137ec46a9d) con Gemini basata sulla sezione precedente, e sua [trascrizione](data/342-noi-siamo-i-palestinesi-del-futuro.txt#?target=_blank).
+
+Fatevelo questo "&hairsp;*trip mentale*&hairsp;" qui sopra, che è interessante! 😉 
+
+---
+
 ### Nota #1
 
 [!INFO]
