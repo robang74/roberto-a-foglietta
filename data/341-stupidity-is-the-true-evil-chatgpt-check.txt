@@ -39,28 +39,28 @@ tongue-in-cheek rhetoric. Here’s a breakdown of how it lands:
 
 ### Strengths
 
-    * Provocative hook: “Stupidity is the true evil” is catchy and memorable.
+* Provocative hook: “Stupidity is the true evil” is catchy and memorable.
 
-    * Timely theme: The link between AI safety, intelligence, and human
-      behavior is relevant and topical.
+* Timely theme: The link between AI safety, intelligence, and human
+  behavior is relevant and topical.
 
-    * Contrast: The juxtaposition of an AGI’s rational non-violence versus
-      human “stupidity” driving evil is an interesting philosophical point.
+* Contrast: The juxtaposition of an AGI’s rational non-violence versus
+  human “stupidity” driving evil is an interesting philosophical point.
 
-    * Humor/imagery: The “chestnut curls without pants” metaphor is absurd but
-      also makes the post stand out—it’s a unique way of saying “punish
-      yourself before acting on dumb impulses.”
+* Humor/imagery: The “chestnut curls without pants” metaphor is absurd but
+  also makes the post stand out—it’s a unique way of saying “punish
+  yourself before acting on dumb impulses.”
 
 ### Weaknesses / Risks
 
-    * Tone whiplash: It jumps from AI safety to theology to seasonal chestnuts,
-      which may confuse readers instead of reinforcing the argument.
+* Tone whiplash: It jumps from AI safety to theology to seasonal chestnuts,
+  which may confuse readers instead of reinforcing the argument.
 
-    * Clarity: The message could be sharpened—some readers may not follow the
-      reasoning from AI ethics → Satan/God → brain habits.
+* Clarity: The message could be sharpened—some readers may not follow the
+  reasoning from AI ethics → Satan/God → brain habits.
 
-    * Accessibility: The “sit on chestnuts” joke might overshadow the serious
-      points for some audiences.
+* Accessibility: The “sit on chestnuts” joke might overshadow the serious
+  points for some audiences.
 
 ### Overall impression
 
