@@ -1,8 +1,11 @@
+Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
+
+************ data/344-the-first-secular-crusade-theory-gemini.txt **************
 
 Chatbot: Gemini 2.5 Flash
 Created: 13 October 2025
 Transcripted: same day
-Attachments: image map (jpg) + Perplexity AI reasearch (txt)
+Attachments: image map (jpg) + Perplexity AI research (txt)
 
 ================================================================================
 -- HO --------------------------------------------------------------------------
@@ -67,3 +70,4 @@ religious heritage in France. The data provided suggests that the explanation is
 multifaceted, driven mainly by vandalism and social resentment exacerbated by
 the institutional crisis of the Church, rather than by an organized and openly
 declared anti-Christian "crusade".
+
