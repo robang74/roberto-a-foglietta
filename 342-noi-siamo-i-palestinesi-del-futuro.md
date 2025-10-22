@@ -8,6 +8,7 @@
 - **1st edition**, scritto a partire da tre miei post publicati su LinkedIn: [post #1](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381941438411870208-S1Hm), [post #2](https://www.linkedin.com/posts/robertofoglietta_dac9-la-nuova-direttiva-ue-sulla-cooperazione-activity-7381940011098877952-__37) e [post #3](https://www.linkedin.com/posts/robertofoglietta_il-prossimo-14-ottobre-%C3%A8-una-data-cruciale-activity-7381721306729267200-AmcE)
 - **2nd edition**, la [profilazione di massa](#la-profilazione-di-massa) nell'ambito della regolamentazione della pornografia online.
 - **3rd edition**, la guerra fa il giro e poi [torna](#la-guerra-fa-il-giro-e-poi-torna) ad influenzare le nostre vite di cittadini europei.
+- **4th edition**, il modello italiano [conquista](#the-italian-way-is-fascinating-the-world) il mondo e l'Europa non fa eccezione ad esserne affascinata.
 
 ---
 
@@ -234,6 +235,22 @@ Dalle fonti disponibili, non risulta che Francesca Albanese abbia trattato in mo
 [!INFO]
 Il marito di Francesca Albanese è Massimiliano Calì, un economista senior che lavora per la Banca Mondiale, con incarico in Tunisia. In sintesi, Calì ha un interesse diretto nella questione economica e di sviluppo collegata all'Autorità Palestinese, non nel suo governo diretto, e ciò include il contesto della ricostruzione di Gaza con il coinvolgimento di attori internazionali. -- **Perplexity AI**
 [/INFO]
+
++
+
+## The Italian way is fascinating the world
+
+Let's suppose there is an organisation that carries out surveillance as a means of crime prevention. Let's suppose that this organisation needs to maintain stable links with politicians, and in particular with the government, in order to exist. Let's suppose we live in a state where protecting the status quo is more important than the law (otherwise preventive surveillance would not exist, in principle). Let's suppose that in this state, criminal infiltration has been a structural element since the 1943 agreement between CIA and Mafia for U.S. troops landing coverage.
+
+In practice, in 20 years, it may happen that the "malavita" becomes the government, the police forces become Manzoni's Bravi, and politics (and their lackeys) become the front end of the malavita. It is enough to marginalise alternatives, silence criticism (aka intelligent people) and fascinating idiots (for elections votes, and in Italy dysfunctional illiteracy is above 37% of the adult population) to achieve a fascist and criminal state. Because where the malavita rules, imbeciles govern.
+
+Considering that the first Berlusconi government dated back to Q2/1994, it is a little more than a 30 years long developing plot in a whole generation time frame. Therefore this scenario is a collection of old sayings, with no novelty apart from information technology which allows arbitrary and ubiquitous surveillance. It makes perfect sense. Doesn't it?
+
+Only one piece is missing from this puzzle: what is the Italian structure's name which performs preemptive surveillance as a service? Well, I can guess that one with just one attempt. Although it is not so obvious, so many coincidences are so embarrassingly evident that it is hard to ignore them pretending they are just coincidences.
+
+- The system isn't broken, it is functioning exactly as it is supposed to by design.
+
+Europe should have saved the Italians from themselves, but in the end the Italian way of "&hairsp;*doing politics*&hairsp;" fascinated the world and Europe doesn't make an exception. By the way, Machiavelli -- who is universally recognised as the father of "modern politics" -- was Italian. Not a coincidence either, right? Although hard to admit, the world has been copycatting Italians since 1534: time to reclaim the IP rights, yup!
 
 +
 
