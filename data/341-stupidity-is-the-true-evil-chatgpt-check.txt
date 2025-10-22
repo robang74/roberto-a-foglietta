@@ -1,16 +1,24 @@
-ChatGPT, 5th October 2025
+Chat U2A: human operator prompt first, then AI agent answer. Width: 80 columns.
+
+************ data/341-stupidity-is-the-true-evil-chatgpt-check.txt *************
+
+Chatbot: ChatGPT-5
+Created: 5th October 2025
+Published 5th October 2025
+Attachment: none
+
 ================================================================================
 -- HO --------------------------------------------------------------------------
 
 What do you think about this post? STUPIDITY IS THE TRUE EVIL
 
-=-> https://www.facebook.com/reel/1439922110458113 (video)
+- https://www.facebook.com/reel/1439922110458113 (video)
 
 This article explains why a current AI given enough power to decide/act
 autonomously can harm the world even in persecuting a legit or good goal.
 
-=-> https://robang74.github.io/
-    chatbots-for-fun/html/google-deepmind-last-safety-protocols-ai.html (article)
+- https://robang74.github.io/ 
+  /chatbots-for-fun/html/google-deepmind-last-safety-protocols-ai.html (article)
 
 While a super-AGI with no ethics, not even benevolent towards humans can
 protect them leaving them free to live their own lives just because it would be
