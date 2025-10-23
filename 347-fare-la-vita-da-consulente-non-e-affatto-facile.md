@@ -10,12 +10,6 @@
 
 ---
 
-### Introduzione
-
-Come introduzione a questo articolo ci dovrebbe essere una presentazione che però è anche uno spoiler e visto che gli spoiler non piacciono a nessuno, è stato messo in fondo, là dove deve stare come una riflessione a posteriori la lettura dell'articolo.
-
----
-
 ### Sono tutte signore dell'alta borghesia
 
 Di recente mi è capitato di ascoltare ancora una volta che una donna per raggiungere una posizione di potere deve lavorare il doppio per ottenere la metà. Cosa certamente vera nella società di un tempo che però suona tanto da pianisteo in quella moderna, anche perché sono un attento osservatore, molto più di quanto sia un opinionista.
@@ -67,7 +61,7 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 > di cosa vivrebbero ciarlatani e truffatori se non avessero moneta sonante da gettare come ami fra la gente.
 > -- **Franco Battiato**, Inneres auge (2009)
 
-----
+---
 
 ### Nota di colore
 
@@ -107,7 +101,7 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extintion*.
 
 +
-++++
+
 <span id="2nd-edition"></span>
 ## L'introduzione che è spoiler
 
@@ -131,7 +125,7 @@ Perché, scusate, ma se in Pretty Woman un uomo bello, affascinante, ricco e di 
 
 L'elemento fondamentale è intelligenza vs stupidità nella gestione del personale quindi, in pratica, uno scontro frontale fra "humans as capital" (capitale umano) e "humans as resource" (HR). Stupidità, la banalità del male. Ne più e né meno, questa è la sostanziale differenza fra i due film.
 
-+++++
++
 
 ## Related articles
 
@@ -143,7 +137,7 @@ L'elemento fondamentale è intelligenza vs stupidità nella gestione del persona
 +++++
 - [Noi siamo i palestinesi del futuro](347-fare-la-vita-da-consulente-non-e-affatto-facile.md#?target=_blank) &nbsp; (2025-10-09)
 
-+++++
++
 
 ## Share alike
 
