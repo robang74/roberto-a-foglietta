@@ -32,7 +32,7 @@ L'intelligenza, nella sua essenza, è questo:
 
 Già ma come? La padella per friggere la mettiamo sulla fiamma a gas che è stabile. Sicché pare logico metterla anche su un fuoco a legna, che però è irregolare peggio quando c'è vento, quindi è difficile mantenere constante la temperatura dell'olio appena sotto il punto di fumo quando però già diventa infiammabile e schizza in giro giusto per una goccia d'acqua o si rovescia la padella perché un pezzo di legna ha franato.
 
-Però la situazione si risolve quando la padella la mettiamo sulla brace, invece che esposta alla fiamma libera e irregolare. In pratica, facendo **un BBQ di padella per friggere**. Si tratta di un'idea decisamente bizzarra ma banale da realizzare, eppure manco se guardano capiscono l'integrazione di questi due concetti e infatti chiedono come hai fatto?
+Però la situazione si risolve quando la padella la mettiamo sulla brace, invece che esposta alla fiamma libera e irregolare. In pratica, facendo **un BBQ di padella per friggere**. Si tratta di un'idea decisamente bizzarra ma banale da realizzare, eppure manco se guardano capiscono l'integrazione di questi due concetti (metafora) e infatti chiedono come hai fatto?
 
 ----
 
