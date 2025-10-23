@@ -94,6 +94,11 @@ Però poi pretendono che gli stessi agenti razionali si comportino in modo irraz
 
 Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in crisi un sistema economico basato su scritti prodotto da filosofi ormai obsoleti da almeno due secoli, oppure più semplicemente si rifiuti di soddisfare direttive oscene.
 
+> Che roba contessa, all'industria di Aldo han fatto uno sciopero quei quattro ignoranti; volevano avere i salari aumentati, gridavano, pensi, di esser sfruttati. Quella gentaglia rinchiusa lì dentro di libero amore facea professione.
+> -- **Paolo Pietrangeli**, 1961 ma notevole quella cantata dei Modena City Ramblers, Combat Folk, 1993
+
+Tragici sono quei tempi nei quali anche le menti più raffinate i nobili (d'animo) citano il proletariato!
+
 +
 
 ## Share alike
