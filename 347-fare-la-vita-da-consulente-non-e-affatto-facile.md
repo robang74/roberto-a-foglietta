@@ -16,13 +16,27 @@ Di recente mi è capitato di ascoltare ancora una volta che una donna per raggiu
 
 Sicché, di solito passa molto tempo fra il momento in cui inizio a riflettere su un'idea ed osservare il mondo attraverso quella chiave di lettura. Ma alla fine sono giunto alla conclusione che una persona intelligente debba lavorare il doppio per ottenere metà della promozione.
 
-Questo perché l'intelligenza non è una qualità additiva ma intensiva. Per esempio, nell'ambito dei campi scout vi era il pregiudizio che fare le patate fritte sul fuoco a legna fosse un'idea controproducente, sia in termini di risultati, sia in termini di sicurezza. Per una serie di ragione le quali fondamentalmente risiedono nell'incapacità di integrare concetti già noti, in un contesto appena diverso.
+Questo perché l'intelligenza non è una qualità additiva ma intensiva. Per esempio, nell'ambito dei campi scout vi era il pregiudizio che fare le patate fritte sul fuoco a legna fosse un'idea controproducente, sia in termini di risultati, sia in termini di sicurezza.
 
-L'intelligenza è questo: tutti hanno il concetto A (barbeque) e quello B (friggere), entrembi i concetti sono noti e gestiti con confidenza ma nel contesto C (fuoco da campo) la quasi totalità delle persone non riesce a integrare A e B per risolvere in modo semplice C ma complica le cose, o peggio, fa cose a caso esponendosi a rischi gravi.
+Per una serie di ragioni, le quali fondamentalmente risiedono nell'incapacità di integrare concetti già noti, in un contesto appena diverso o peggio, fare cose a caso esponendosi a rischi gravi.
 
-La padella per friggere la mettiamo sulla fiamma a gas che è stabile. Sicché pare logico metterla anche su un fuoco a legna, che però è irregolare peggio quando c'è vento, quindi è difficile mantenere constante la temperatura dell'olio appena sotto il punto di fumo quando però già diventa infiammabile e schizza con una goccia d'acqua.
+---
 
-Però la situazione si risolve quando la padella la mettiamo sulla brace, quindi facciamo un BBQ di padella con olio per friggere delle patate. Si tratta di una cosa banale, eppure manco se la vedono capiscono l'integrazione di questi due concetti e infatti chiedono come hai fatto?
+### Idee bizzarre che funzionano alla grande
+
+L'intelligenza, nella sua essenza, è questo:
+
+- tutti hanno il concetto A (barbeque) e quello B (friggere),
+- entrambi i concetti sono noti e regolarmente gestiti con confidenza
+- nel contesto C (fuoco da campo) integrare A e B per risolvere C in modo semplice
+
+Già ma come? La padella per friggere la mettiamo sulla fiamma a gas che è stabile. Sicché pare logico metterla anche su un fuoco a legna, che però è irregolare peggio quando c'è vento, quindi è difficile mantenere constante la temperatura dell'olio appena sotto il punto di fumo quando però già diventa infiammabile e schizza in giro giusto per una goccia d'acqua o si rovescia la padella perché un pezzo di legna ha franato.
+
+Però la situazione si risolve quando la padella la mettiamo sulla brace, invece che esposta alla fiamma libera e irregolare. In pratica, facendo **un BBQ di padella per friggere**. Si tratta di un'idea decisamente bizzarra ma banale da realizzare, eppure manco se guardano capiscono l'integrazione di questi due concetti e infatti chiedono come hai fatto?
+
+----
+
+### La fatica di essere donna o intelligente
 
 Allora, torniamo un attimo indietro alla questione delle donne che aspirano ad una posizione di potere o comando e fanno fatica il doppio ad arrivarci degli uomini. Perché sono persone intelligenti e le persone intelligenti fanno fatica a relazionarsi con quelle meno intelligenti.
 
@@ -61,7 +75,7 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 > di cosa vivrebbero ciarlatani e truffatori se non avessero moneta sonante da gettare come ami fra la gente.
 > -- **Franco Battiato**, Inneres auge (2009)
 
----
+----
 
 ### Nota di colore
 
@@ -96,12 +110,12 @@ Però poi pretendono che gli stessi agenti razionali si comportino in modo irraz
 Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in crisi un sistema economico basato su scritti prodotto da filosofi ormai obsoleti da almeno due secoli, oppure più semplicemente si rifiuti di soddisfare direttive oscene.
 
 > Che roba contessa, all'industria di Aldo han fatto uno sciopero quei quattro ignoranti; volevano avere i salari aumentati, gridavano, pensi, di esser sfruttati. Quella gentaglia rinchiusa lì dentro di libero amore facea professione.
-> -- **Paolo Pietrangeli**, 1961 ma notevole quella cantata dei Modena City Ramblers, Combat Folk, 1993
+> -- **Paolo Pietrangeli**, 1961; resa popolare dall'interpretazione dei Modena City Ramblers, Combat Folk, 1993
 
 Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extintion*.
 
 +
-
+++++
 <span id="2nd-edition"></span>
 ## L'introduzione che è spoiler
 
@@ -125,7 +139,7 @@ Perché, scusate, ma se in Pretty Woman un uomo bello, affascinante, ricco e di 
 
 L'elemento fondamentale è intelligenza vs stupidità nella gestione del personale quindi, in pratica, uno scontro frontale fra "humans as capital" (capitale umano) e "humans as resource" (HR). Stupidità, la banalità del male. Ne più e né meno, questa è la sostanziale differenza fra i due film.
 
-+
++++++
 
 ## Related articles
 
@@ -137,7 +151,7 @@ L'elemento fondamentale è intelligenza vs stupidità nella gestione del persona
 +++++
 - [Noi siamo i palestinesi del futuro](347-fare-la-vita-da-consulente-non-e-affatto-facile.md#?target=_blank) &nbsp; (2025-10-09)
 
-+
++++++
 
 ## Share alike
 
