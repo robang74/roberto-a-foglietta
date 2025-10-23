@@ -6,6 +6,13 @@
 ## Fare la vita da consulente non è affatto facile
 
 - **1st edition**, trae origine da un mio post pubblicato su Linkedin e Facebook: [lkdn](https://www.linkedin.com/posts/robertofoglietta_sono-tutte-signore-dellalta-borghesia-di-activity-7386994085682819073-4zfD) e [fcbk](https://www.facebook.com/roberto.a.foglietta/posts/10162477756038736).
+- **2nd edition**, aggiunge la [presentazione](#2nd-edition) dell'articolo che ne diviene la riflessione conclusiva.
+
+---
+
+### Introduzione
+
+Come introduzione a questo articolo ci dovrebbe essere una presentazione che però è anche uno spoiler e visto che gli spoiler non piacciono a nessuno, è stato messo in fondo, là dove deve stare come una riflessione a posteriori la lettura dell'articolo.
 
 ---
 
@@ -60,7 +67,7 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 > di cosa vivrebbero ciarlatani e truffatori se non avessero moneta sonante da gettare come ami fra la gente.
 > -- **Franco Battiato**, Inneres auge (2009)
 
----
+----
 
 ### Nota di colore
 
@@ -100,6 +107,31 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extintion*.
 
 +
+++++
+<span id="2nd-edition"></span>
+## L'introduzione che è spoiler
+
+- Che differenza c'è fra Pretty Woman (1990) e The Devil's Advocate (1997)?
+
+Superficialmente si potrebbe pensare che la fondamentale differenza sia il genere femminile della protagonista del primo film e quello maschile del secondo film. Perché entrambi sono eccellenti consulenti professionisti che partono dal basso senza il sostegno di una famiglia (self-made wo/man).
+
+C'è in entrambi i film un tocco di follia, lui che porta lei nell'alta società pur sapendo le sue origini e poi la sposa anche. Mentre nel secondo, la follia della moglie che Satana ha fatto impazzire per avere l'attenzione del suo consulente tutta per sé e per il suo osceno piano.
+
+In entrambi i film la trama è un intreccio di amore e denaro, potere e conquista. Però i due film hanno una conclusione e uno sviluppo MOLTO diverso fra loro. Se fosse una storia di carriera, si direbbe che la femmina sia assai avvantaggiata anche nell'ambizione del lieto fine.
+
+Eppure la mia esperienza percepisce come differenza sostanziale la maturità del dominus (lat. padron) che in Pretty Woman sviluppa e investe nella persona riuscendo persino a trarne una moglie da quella che era una prostituta di strada mentre ne L'Avvocato del Diavolo, il dominus fa una scellerata gestione delle risorse umane, incluso il suo prediletto.
+
+Banale, direte: il diavolo per definizione è malvagio. Ma in effetti in quel film non è la malvagità ad essere fondamentale, ovviamente questa caratteristica è fortemente pronunciata ed evidenziata ma è più suggestiva che essenziale.
+
+Invece, il fattore essenziale che fa la differenza è la stupidità del dominus che lo porta a trascendere qualsiasi limite per ottenere quello che vuole quando molto probabilmente sarebbe stato banale ottenerlo in un ambiente sereno sfruttando l'accondiscendenza, e la debolezza dell'animo umano.
+
+Perché, scusate, ma se in Pretty Woman un uomo bello, affascinante, ricco e di buoni costumi finisce per sposare una prostituta perché non sa usare la frizione di una Ferrari mi vorreste far credere che non si sarebbe riuscito a far accoppiare un avvocato, per quanto fedele e innamorato della moglie, anche una volta soltanto con una splendida fanciulla? Dai...
+
+È impossibile non vedere quanto sia la stupidità ad essere il vero elemento di malvagità ne L'Avvocato del Diavolo che invece è assolutamente assente nel protagonista maschile di Pretty Woman, entrambi dominus e poco importa se la "risorsa umana" fosse maschio o femmina (per assurdo Pretty Woman potrebbe essere rivisitato in chiave omosessuale).
+
+L'elemento fondamentale è intelligenza vs stupidità nella gestione del personale quindi, in pratica, uno scontro frontale fra "humans as capital" (capitale umano) e "humans as resource" (HR). Stupidità, la banalità del male. Ne più e né meno, questa è la sostanziale differenza fra i due film.
+
++++++
 
 ## Related articles
 
@@ -111,7 +143,7 @@ Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'
 +++++
 - [Noi siamo i palestinesi del futuro](347-fare-la-vita-da-consulente-non-e-affatto-facile.md#?target=_blank) &nbsp; (2025-10-09)
 
-+
++++++
 
 ## Share alike
 
