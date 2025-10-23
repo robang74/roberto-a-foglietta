@@ -88,6 +88,10 @@ Questa lettura rafforza il suggerimento del post: l'individuo intelligente dovre
 
 Riguardo a "sono tutte signore" (cit. Caboni ne Il Secondo Tragico Fantozzi, 1976) e "andavo a Capri" (cit. aprocrifa generalmente attribuita all'avv. Giovanni Agnelli, 1921-2003). Che in sostanza si traduce in: cambiate il sistema se non vi piace come la gente si adatta al sistema.
 
+---
+
+### Conclusione
+
 Perché l'assurdo è che si pretende di controllare il mondo tramite l'economia basandosi sul principio di Adam Smith per il quale tutto gli agenti economici siano razionali e facciano i loro interessi e il mercato è la mano invisibile di dio che crea da quello che dovrebbe essere il caos un ordine benefico. 
 
 Però poi pretendono che gli stessi agenti razionali si comportino in modo irrazionale quando si tratta di farsi pagare il giusto e non farsi sfruttare. Curioso, no? O forse no, è logico: vogliono comprare quello di cui maggiormente difettano, l'intelligenza.
