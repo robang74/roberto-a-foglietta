@@ -97,7 +97,7 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 > Che roba contessa, all'industria di Aldo han fatto uno sciopero quei quattro ignoranti; volevano avere i salari aumentati, gridavano, pensi, di esser sfruttati. Quella gentaglia rinchiusa lì dentro di libero amore facea professione.
 > -- **Paolo Pietrangeli**, 1961 ma notevole quella cantata dei Modena City Ramblers, Combat Folk, 1993
 
-Tragici sono quei tempi nei quali anche le menti più raffinate i nobili (d'animo) citano il proletariato!
+Tragici sono quei tempi nei quali anche le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere.
 
 +
 
