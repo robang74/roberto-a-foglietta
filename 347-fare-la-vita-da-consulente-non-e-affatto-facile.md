@@ -64,11 +64,7 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 
 ### Nota di colore
 
-Quando si chiede a Gemini un'opinione su un testo:
-
-- [gemini.google.com/share/59b9644cc70e](https://gemini.google.com/share/59b9644cc70e)
-
-Risponde con un'analisi del testo con una struttura analoga ma meno specifica di quella che si avrebbe usando EGA di Katia framework.
+Quando si chiede a Gemini un'opinione su un testo, risponde con un'[analisi](https://gemini.google.com/share/59b9644cc70e) del testo dotata di una struttura analoga, anche se meno specifica, a quella che si avrebbe usando la modalità `[EGA]` di Katia framework.
 
 1. Brevissima introduzione (status)
 2. Affermazioni rilevanti (RSMC)
@@ -76,7 +72,7 @@ Risponde con un'analisi del testo con una struttura analoga ma meno specifica di
 4. Valutazioni (GAP, OFTB)
 5. Sintesi conclusiva (SBI)
 
-Sicché vale la pena inserire il link della sua presentazione:
+La trascrizione della conversazione è [disponibile](data/347-fare-la-vita-da-consulente-non-e-affatto-facile-gemini.txt#?target=_blank) anche in formato testo. Sicché vale la pena inserire il link della presentazione di Katia framework:
 
 - [Introducing Katia, text analysis framework](https://robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html) &nbsp; (2025-10-05)
 
@@ -109,11 +105,13 @@ Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'
 
 - [Il modello HR e l'estinzione impresa italiana](343-modello-risorse-umane-e-estinzione-impresa-italiana.md#?target=_blank) &nbsp; (2025-10-11)
 +++++
+- [Stupidity is the true Evil](341-stupidity-is-the-true-evil.md#?target=_blank) &nbsp; (2025-10-05)
++++++
 - [The first Secular Crusade theory](344-the-first-secular-crusade-theory.md#?target=_blank) &nbsp; (2025-10-13)
 +++++
 - [Noi siamo i palestinesi del futuro](347-fare-la-vita-da-consulente-non-e-affatto-facile.md#?target=_blank) &nbsp; (2025-10-09)
 
-+++++
++
 
 ## Share alike
 
