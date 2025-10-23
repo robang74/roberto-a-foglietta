@@ -12,7 +12,7 @@
 
 ### Sono tutte signore dell'alta borghesia
 
-Di recente mi è capitato di ascoltare ancora una volta che una donna per raggiungere una posizione di potere deve lavorare il doppio per ottenere la metà. Cosa certamente vera nella società di un tempo che però suona tanto da pianisteo in quella moderna, anche perché sono un attento osservatore, molto più di quanto sia un opinionista.
+Di recente mi è capitato di ascoltare ancora una volta che una donna per raggiungere una posizione di potere deve lavorare il doppio per ottenere la metà. Cosa certamente vera nella società di un tempo che però suona tanto da piagnisteo in quella moderna, anche perché sono un attento osservatore, molto più di quanto sia un opinionista.
 
 Sicché, di solito passa molto tempo fra il momento in cui inizio a riflettere su un'idea ed osservare il mondo attraverso quella chiave di lettura. Ma alla fine sono giunto alla conclusione che una persona intelligente debba lavorare il doppio per ottenere metà della promozione.
 
@@ -42,21 +42,21 @@ Allora, torniamo un attimo indietro alla questione delle donne che aspirano ad u
 
 Perché gli devi spiegare tutto altrimenti non danno la promozione. Una volta spiegato, danno la promozione ad un altro perché tanto ormai hanno "capito" e non c'era nulla di "nuovo", era banale.
 
-Certo! Era banale PRIMA di spiegarlo. Sicché, se fossi donna non perderei tempo a spiegarmi. Non sai usare la frizione? Sgancia la grana per farti accompagnare. Insomma, farei la put.. -aehm- il consulente, lascerei comandare l'asino e otterei il doppio con la metà del lavoro. Non farei carriera ma punterei a fare soldi.
+Certo! Era banale PRIMA di spiegarlo. Sicché, se fossi donna non perderei tempo a spiegarmi. Non sai usare la frizione? Sgancia la grana per farti accompagnare. Insomma, farei la put.. -aehm- il consulente, lascerei comandare l'asino e otterrei il doppio con la metà del lavoro. Non farei carriera ma punterei a fare soldi.
 
-Però, se poi agli asini viene la brillante idea di togliere anche i soldi, allora "vanno a puttane", in ogni senso in cui questa locozione può essere intesa.
+Però, se poi agli asini viene la brillante idea di togliere anche i soldi, allora "vanno a puttane", in ogni senso in cui questa locuzione può essere intesa.
 
 ---
 
 ### Fare il consulente, ovvero Pretty Woman
 
-Chiunque abbia fatto il consulente ad alto livello di professionalità e non solo come P.IVA speranzoso di farsi assumere a tempo inderterminato, comprende benissimo i due concetti qui sotto elencati.
+Chiunque abbia fatto il consulente ad alto livello di professionalità e non solo come P.IVA speranzoso di farsi assumere a tempo indeterminato, comprende benissimo i due concetti qui sotto elencati.
 
 1. Le cose oscene che chiedono i clienti quando sanno che sai fare cose molto speciali.
 
 2. Le cose ignobili che i clienti raccontano di te perché voglio abbassare il prezzo.
 
-L'altra categoria di professionale che li comprende al volo, sono le prostitute. Perché il "cliente" è sempre il "cliente": vuole pagare meno e fottere di più!
+L'altra categoria professionale che li comprende al volo sono le prostitute. Perché il "cliente" è sempre il "cliente": vuole pagare meno e fottere di più!
 
 Siamo consulenti, il disprezzo degli altri ci è dovuto in misura proporzionale al bisogno che la società ha di noi. Siamo qui a pretendere che tale "disprezzo" sia pagato in valuta pregiata e non a chiacchiere!
 
@@ -91,13 +91,13 @@ La trascrizione della conversazione è [disponibile](data/347-fare-la-vita-da-co
 
 - [Introducing Katia, text analysis framework](https://robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html) &nbsp; (2025-10-05)
 
-Occorre però riconoscere che anche Gemini, pure nella sua versione vanilla, pare ora essere in grando di fornire degli output interessanti:
+Occorre però riconoscere che anche Gemini, pure nella sua versione vanilla, pare ora essere in grado di fornire degli output interessanti:
 
 [!CITE]
 Questa lettura rafforza il suggerimento del post: l'individuo intelligente dovrebbe puntare solo al denaro, non perché è moralmente giusto, ma perché il sistema di potere è diventato così volgare e decadente che non vale più la pena di lottare per la carriera o la gloria formale. Meglio essere il "consulente necessario" (la "contessa-puttana") e farsi pagare profumatamente.
 [/CITE]
 
-Riguardo a "sono tutte signore" (cit. Caboni ne Il Secondo Tragico Fantozzi, 1976) e "andavo a Capri" (cit. aprocrifa generalmente attribuita all'avv. Giovanni Agnelli, 1921-2003). Che in sostanza si traduce in: cambiate il sistema se non vi piace come la gente si adatta al sistema.
+Riguardo a "sono tutte signore" (cit. Caboni ne Il Secondo Tragico Fantozzi, 1976) e "andavo a Capri" (cit. apocrifa generalmente attribuita all'avv. Giovanni Agnelli, 1921-2003). Che in sostanza si traduce in: cambiate il sistema se non vi piace come la gente si adatta al sistema.
 
 ---
 
@@ -112,7 +112,7 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 > Che roba contessa, all'industria di Aldo han fatto uno sciopero quei quattro ignoranti; volevano avere i salari aumentati, gridavano, pensi, di esser sfruttati. Quella gentaglia rinchiusa lì dentro di libero amore facea professione.
 > -- **Paolo Pietrangeli**, 1961; resa popolare dall'interpretazione dei Modena City Ramblers, Combat Folk, 1993
 
-Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extintion*.
+Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extinction*.
 
 +
 ++++
