@@ -101,9 +101,19 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 > Che roba contessa, all'industria di Aldo han fatto uno sciopero quei quattro ignoranti; volevano avere i salari aumentati, gridavano, pensi, di esser sfruttati. Quella gentaglia rinchiusa lì dentro di libero amore facea professione.
 > -- **Paolo Pietrangeli**, 1961 ma notevole quella cantata dei Modena City Ramblers, Combat Folk, 1993
 
-Tragici sono quei tempi nei quali anche le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere.
+Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extintion*.
 
 +
+
+## Related articles
+
+- [Il modello HR e l'estinzione impresa italiana](343-modello-risorse-umane-e-estinzione-impresa-italiana.md#?target=_blank) &nbsp; (2025-10-11)
++++++
+- [The first Secular Crusade theory](344-the-first-secular-crusade-theory.md#?target=_blank) &nbsp; (2025-10-13)
++++++
+- [Noi siamo i palestinesi del futuro](347-fare-la-vita-da-consulente-non-e-affatto-facile.md#?target=_blank) &nbsp; (2025-10-09)
+
++++++
 
 ## Share alike
 
