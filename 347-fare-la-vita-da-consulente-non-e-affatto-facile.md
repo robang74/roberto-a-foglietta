@@ -47,6 +47,17 @@ Non ci sono emoji qui, fateci caso.
 
 ---
 
+### Il rischio di generalizzazione
+
+Questo non è un limite di chi scrive ma del sistema di potere che sfrutta la violenza organizzata per la predazione alla fine di consolidare il potere nelle figure che sono per rango o nascita affini allo status-quo. I quattro maggiori modelli organizzativi di questa violenza di gruppo contro gli individui intelligenti, quindi produttivi e innovativi, sono: le divisioni Human Resources, i partiti politici, la finanza e la religione.
+
+Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al primo posto c'è proprio la violenza di gruppo organizzata. Su questo gli storici hanno ben poco da obbiettare e anche quelli del futuro, ugualmente, non avranno difficoltà ad identificare questi schemi anche nella società che per noi è contemporanea. In buona sostanza, non è una generalizzazione ma un evergreen che si ripete in diverse maniere ma con lo stesso fine.
+
+> di cosa vivrebbero ciarlatani e truffatori se non avessero moneta sonante da gettare come ami fra la gente.
+> -- **Franco Battiato**, Inneres auge (2009)
+
+---
+
 NOTA DI COLORE
 
 Quando si chiede a Gemini un'opinione su un testo:
