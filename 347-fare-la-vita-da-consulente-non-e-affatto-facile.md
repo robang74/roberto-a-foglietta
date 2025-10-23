@@ -5,9 +5,11 @@
 
 ## Fare la vita da consulente non è affatto facile
 
+- **1st edition**, trae origine da un mio post pubblicato su Linkedin e Facebook: [lkdn](https://www.linkedin.com/posts/robertofoglietta_sono-tutte-signore-dellalta-borghesia-di-activity-7386994085682819073-4zfD) e [fcbk](https://www.facebook.com/roberto.a.foglietta/posts/10162477756038736).
+
 ---
 
-SONO TUTTE SIGNORE DELL'ALTA BORGHESIA
+### Sono tutte signore dell'alta borghesia
 
 Di recente mi è capitato di ascoltare ancora una volta che una donna per raggiungere una posizione di potere deve lavorare il doppio per ottenere la metà. Cosa certamente vera nella società di un tempo che però suona tanto da pianisteo in quella moderna, anche perché sono un attento osservatore, molto più di quanto sia un opinionista.
 
@@ -31,7 +33,7 @@ Però, se poi agli asini viene la brillante idea di togliere anche i soldi, allo
 
 ---
 
-FARE IL CONSULENTE, OVVERO PRETTY WOMAN
+### Fare il consulente, ovvero Pretty Woman
 
 Chiunque abbia fatto il consulente ad alto livello di professionalità e non solo come P.IVA speranzoso di farsi assumere a tempo inderterminato, comprende benissimo i due concetti qui sotto elencati.
 
@@ -49,7 +51,9 @@ Non ci sono emoji qui, fateci caso.
 
 ### Il rischio di generalizzazione
 
-Questo non è un limite di chi scrive ma del sistema di potere che sfrutta la violenza organizzata per la predazione alla fine di consolidare il potere nelle figure che sono per rango o nascita affini allo status-quo. I quattro maggiori modelli organizzativi di questa violenza di gruppo contro gli individui intelligenti, quindi produttivi e innovativi, sono: le divisioni Human Resources, i partiti politici, la finanza e la religione.
+Questo non è un limite di chi scrive ma del sistema di potere che sfrutta la violenza organizzata per la predazione alla fine di consolidare il potere nelle figure che sono per rango o nascita affini allo status-quo. I quattro maggiori modelli organizzativi di questa violenza di gruppo contro gli individui intelligenti, quindi produttivi e innovativi, sono: le divisioni per la gestione delle "risorse umane" (HR), i partiti o movimenti politici, la finanza e la religione.
+
+- Osserviamo una sistematica ripetizione dei peggiori evergreen, non c'è progresso (cit. Jorge, di Eco)
 
 Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al primo posto c'è proprio la violenza di gruppo organizzata. Su questo gli storici hanno ben poco da obbiettare e anche quelli del futuro, ugualmente, non avranno difficoltà ad identificare questi schemi anche nella società che per noi è contemporanea. In buona sostanza, non è una generalizzazione ma un evergreen che si ripete in diverse maniere ma con lo stesso fine.
 
@@ -58,11 +62,11 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 
 ---
 
-NOTA DI COLORE
+### Nota di colore
 
 Quando si chiede a Gemini un'opinione su un testo:
 
-- gemini.google.com/share/59b9644cc70e
+- [gemini.google.com/share/59b9644cc70e](https://gemini.google.com/share/59b9644cc70e)
 
 Risponde con un'analisi del testo con una struttura analoga ma meno specifica di quella che si avrebbe usando EGA di Katia framework.
 
@@ -72,9 +76,17 @@ Risponde con un'analisi del testo con una struttura analoga ma meno specifica di
 4. Valutazioni (GAP, OFTB)
 5. Sintesi conclusiva (SBI)
 
-Introducing Katia, text analysis framework
+Sicché vale la pena inserire il link della sua presentazione:
 
-- robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html
+- [Introducing Katia, text analysis framework](https://robang74.github.io/chatbots-for-fun/html/introducing-katia-text-analysis-framework.html) &nbsp; (2025-10-05)
+
+Occorre però riconoscere che anche Gemini, pure nella sua versione vanilla, pare ora essere in grando di fornire degli output interessanti:
+
+[!CITE]
+Questa lettura rafforza il suggerimento del post: l'individuo intelligente dovrebbe puntare solo al denaro, non perché è moralmente giusto, ma perché il sistema di potere è diventato così volgare e decadente che non vale più la pena di lottare per la carriera o la gloria formale. Meglio essere il "consulente necessario" (la "contessa-puttana") e farsi pagare profumatamente.
+[/CITE]
+
+Riguardo a "sono tutte signore" (cit. Caboni ne Il Secondo Tragico Fantozzi, 1976) e "andavo a Capri" (cit. aprocrifa generalmente attribuita all'avv. Giovanni Agnelli, 1921-2003). Che in sostanza si traduce in: cambiate il sistema se non vi piace come la gente si adatta al sistema.
 
 +
 
