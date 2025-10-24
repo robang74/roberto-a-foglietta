@@ -24,7 +24,7 @@ Per una serie di ragioni, le quali fondamentalmente risiedono nell'incapacità d
 
 ### Idee bizzarre che funzionano alla grande
 
-L'intelligenza, nella sua essenza, è questo:
+L'intelligenza, nella sua essenza, è descritta in questa metafora:
 
 - tutti hanno il concetto A (barbeque) e quello B (friggere),
 - entrambi i concetti sono noti e regolarmente gestiti con confidenza
@@ -32,9 +32,13 @@ L'intelligenza, nella sua essenza, è questo:
 
 Già ma come? La padella per friggere la mettiamo sulla fiamma a gas che è stabile. Sicché pare logico metterla anche su un fuoco a legna, che però è irregolare peggio quando c'è vento, quindi è difficile mantenere constante la temperatura dell'olio appena sotto il punto di fumo quando però già diventa infiammabile e schizza in giro giusto per una goccia d'acqua o si rovescia la padella perché un pezzo di legna ha franato.
 
-Però la situazione si risolve quando la padella la mettiamo sulla brace, invece che esposta alla fiamma libera e irregolare. In pratica, facendo **un BBQ di padella per friggere**. Si tratta di un'idea decisamente bizzarra ma banale da realizzare, eppure manco se guardano capiscono l'integrazione di questi due concetti (metafora) e infatti chiedono come hai fatto?
+Però la situazione si risolve quando la padella la mettiamo sulla brace, invece che esposta alla fiamma libera e irregolare. In pratica, facendo **un BBQ di padella per friggere**. Si tratta di un'idea decisamente bizzarra ma banale da realizzare.
 
-----
+- Eppure manco se guardano capiscono l'integrazione di due concetti e infatti chiedono come hai fatto?
+
+L'ovvio non esiste. Esistono cose evidenti oppure non evidenti. Le cose evidenti sono quelle che noi evidenziamo (o siamo capaci di riconoscere quando guardiamo) e le altre di conseguenza. Questo sarebbe lo scopo della comunicazione: evidenziare quello che a noi è ovvio ma non lo è agli altri. L'ovvio è talmente relativo da essere soggettivo.
+
+---
 
 ### La fatica di essere donna o intelligente
 
@@ -75,7 +79,7 @@ Se c'è qualcosa in cui gli Occidentali sono sempre stati dei maestri d'arte, al
 > di cosa vivrebbero ciarlatani e truffatori se non avessero moneta sonante da gettare come ami fra la gente.
 > -- **Franco Battiato**, Inneres auge (2009)
 
-----
+---
 
 ### Nota di colore
 
@@ -114,8 +118,8 @@ Ma evidentemente temono che l'intelligenza dotata di mezzi finanziari metta in c
 
 Tragici sono quei tempi nei quali **anche** le menti più raffinate i nobili (d'animo) citano il proletariato. Perché coloro che non hanno saputo apprezzare l'arte del mestiere dovranno pagare chiunque faccia di qualunque cosa un mestiere. *Stupidity kills, in large groups leads to extinction*.
 
-+
-++++
++++++
+
 <span id="2nd-edition"></span>
 ## L'introduzione che è spoiler
 
