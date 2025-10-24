@@ -6,7 +6,7 @@ Chatbot: Gemini 2.5 Flash
 Created: 4 ottobre 2025 alle ore 11:32 (CEST)
 Published: 4 ottobre 2025 alle ore 13:36 (CEST)
 URL: g.co/gemini/share/7efbc8acdf71
-attachment: Katia v0.9.56.5 (#c27cc14)
+Attachment: Katia v0.9.56.5 (#c27cc14)
 
 ================================================================================
 -- HO --------------------------------------------------------------------------
