@@ -7,7 +7,7 @@
 
 - **1st edition**, trae origine da un mio post pubblicato su Linkedin e Facebook: [lkdn](https://www.linkedin.com/posts/robertofoglietta_sono-tutte-signore-dellalta-borghesia-di-activity-7386994085682819073-4zfD) e [fcbk](https://www.facebook.com/roberto.a.foglietta/posts/10162477756038736).
 - **2nd edition**, aggiunge la [presentazione](#2nd-edition) dell'articolo che ne diviene la riflessione conclusiva.
-- **3rd edition**, abbiamo fatto il giro tondo per ritrovarci peggio che in URSS ma senza la "fagiana" libera!
+- **3rd edition**, si è fatto il [girotondo](#siamo-il-manicomio-di-questa-galassia) per ritrovarci peggio che in URSS e senza l'emancipazione femminile.
 
 ---
 
