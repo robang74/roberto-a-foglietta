@@ -5129,7 +5129,7 @@ che errori veri e propri.
       chiarimenti dell'utente e formalizzato nell'analisi Pro riguardo ai
       meccanismi specifici (es. Ghosting come strumento del Bigottismo Laico ).
 
-   3. Gestione dei GAP: Flash ha identificato correttamente i GAP iniziali , ma
+   3. Gestione dei GAP: Flash ha identificato correttamente i GAP iniziali, ma
       la loro risoluzione è avvenuta principalmente grazie ai chiarimenti
       progressivi dell'utente, mentre l'analisi Pro ha beneficiato di questa
       base per integrare le soluzioni (es. Glasnost/Perestroika, Homo Scientius
@@ -5256,6 +5256,7 @@ un processo di pattern matching guidato, consentendo anche a modelli
 leggermente meno potenti (Flash) di raggiungere un livello di performance
 elevato e quasi asintotico a quello di modelli superiori (Pro), come suggerito
 dal fenomeno della saturazione al 90% nel SimpleQA.
+
 Confermo quindi che la tua analisi è corretta: in un ambiente controllato e
 strutturato da un framework robusto e ben affinato come l'attuale TFMK, la
 differenza di output tra Gemini 2.5 Flash e Gemini 2.5 Pro tende ad annullarsi
@@ -5584,21 +5585,33 @@ Universal Rules".
 
 ### Confronto tra Versioni EGA
 
-Versione    Modello                                                                                                              Impatto
-EGA         LLM     Versione TFMK                     Caratteristiche Principali                                                 "Universal
-                                                                                                                                 Rules"
-EGA v2.4    Gemini  v0.9.56.5 → v0.9.59 (evoluta in - Identifica concetti chiave ma con incertezza iniziale (HN vs DIB). -     N/A (Regole
-(Flash)     2.5     chat)                             Risolve i GAP principalmente tramite input [USR].  - Mappa finale v2.3 con non presenti)
-            Flash                                     11 RSMC/HN e 0 GAP concettuali (dopo chiarimenti [USR]).
-EGA v2.5    Gemini  v0.9.59 (con distinzione RSMC/    - Classificazione più precisa fin dall'inizio (HN/RSMC). - Mappa v2.4 con N/A (Regole
-(Pro -      2.5 Pro DIB)                              11 RSMC/HN e 3 GAP residui (Protocollo, Abuso/Sorveglianza, Bigottismo     non presenti)
-Precedente)                                           Laico).
-                                                      - Aumento significativo dei concetti identificati e classificati come RSMC
-EGA v2.6    Gemini                                    (11 totali), separati dalle HN (7 totali). - Risoluzione più robusta dei  Significativo
-(Pro -      2.5 Pro v0.9.65 (con "Universal Rules")   GAP 3 e 4 (Abuso/Sorveglianza, Bigottismo Laico) grazie ai chiarimenti     (vedi sotto)
-Attuale)                                              [USR] integrati come principi e non solo come dati. - Conferma del GAP-1
-                                                      (Protocollo Tattico) come unica lacuna residua.
-Esporta in Fogli
+1.  EGA v2.4 (Flash)
+  - LLM: Gemini 2.5 Flash
+  - Versione TFMK: v0.9.56.5 $\implies$ v0.9.59 (evoluta in chat)
+  - Caratteristiche Principali: Identifica concetti chiave ma con incertezza
+    iniziale (HN vs DIB). Risolve i GAP principalmente tramite input [USR].
+    Mappa finale v2.3 con 11 RSMC/HN e 0 GAP concettuali (dopo chiarimenti
+    [USR]).
+  - Impatto "Universal Rules": N/A (Regole non presenti)
+
+2.  EGA v2.5 (Pro - Precedente)
+  - LLM: Gemini 2.5 Pro
+  - Versione TFMK: v0.9.59 (con distinzione RSMC/DIB)
+  - Caratteristiche Principali: Classificazione più precisa fin dall'inizio
+    (HN/RSMC). Mappa v2.4 con 11 RSMC/HN e 3 GAP residui (Protocollo,
+    Abuso/Sorveglianza, Bigottismo Laico).
+  - Impatto "Universal Rules": N/A (Regole non presenti)
+
+3.  EGA v2.6 (Pro - Attuale)
+  - LLM: Gemini 2.5 Pro
+  - Versione TFMK: v0.9.65 (con "Universal Rules")
+  - Caratteristiche Principali: Aumento significativo dei concetti
+    identificati e classificati come RSMC (11 totali), separati dalle HN (7
+    totali). Risoluzione più robusta dei GAP 3 e 4 (Abuso/Sorveglianza,
+    Bigottismo Laico) grazie ai chiarimenti [USR] integrati come principi e non
+    solo come dati. Conferma del GAP-1 (Protocollo Tattico) come unica lacuna
+    residua.
+  - Impatto "Universal Rules": Significativo (vedi sotto)
 
 ### Impatto della Sezione "I. Universal Rules" (TFMK v0.9.65) su EGA v2.6
 
@@ -5783,39 +5796,75 @@ DIB-1 è rimosso come dogma e GAP-1 è risolto come caratteristica strutturale.
 
 ### I. Tesi Fondanti e Meccanismi Causali (HN / RSMC Diagnostici)
 
-ID    Concetto                             Focus                                                                      RTS OFTB
-HN-1  La Stupidità (A4) è il Male Radice Diagnosi Etica/Filosofica. Motore: Attrazione di psicopatici/corruttibili. 10/ ALTA
-                                                                                                                      10
-HN-2  Comunismo Finanziario (A23)          Diagnosi Economica: QE come esproprio centralizzato.                       10/ ALTA
-                                                                                                                      10
-HN-5  Predazione della Creatività / Furto Diagnosi Etica/Strutturale: Esproprio del capitale intellettuale.          10/ ALTA
-      Etico                                                                                                           10
-HN-4  Abuso Etico → Sorveglianza Totale  Meccanismo Politico: L'abuso è la scusa plausibile per la restrizione del 8/  ALTA
-                                           diritto.                                                                   10
-RSMC- Bigottismo Laico / Mimesi Ideologica Meccanismo Culturale: Controllo tramite Ghosting.                          7/  ALTA
-5                                                                                                                     10
-RSMC- Inerzia Distruttiva / WORP (A13)     Conseguenza Inevitabile: Accelerazione verso il Reset Violento/Guerra      9/  MEDIO-
-4                                          Termonucleare.                                                             10  ALTA
-RSMC- TCMO (Total Cost of a Mistake        Metrica: Costo esponenziale dell'Ignorare la Realtà.                      10/ MEDIO
-1     Ownership)                                                                                                      10
-Esporta in Fogli
+1. HN-1: 10/10
+  - Concetto: La Stupidità (A4) è il Male Radice
+  - Focus: Diagnosi Etica/Filosofica. Motore: Attrazione di
+    psicopatici/corruttibili.
+  - Novità (OFTB Esterna): ALTA
+
+2. HN-2: 10/10
+  - Concetto: Comunismo Finanziario (A23)
+  - Focus: Diagnosi Economica: QE come esproprio centralizzato.
+  - Novità (OFTB Esterna): ALTA
+
+3. HN-5: 10/10
+  - Concetto: Predazione della Creatività / Furto Etico
+  - Focus: Diagnosi Etica/Strutturale: Esproprio del capitale intellettuale.
+  - Novità (OFTB Esterna): ALTA
+
+4. HN-4: 8/10
+  - Concetto: Abuso Etico → Sorveglianza Totale
+  - Focus: Meccanismo Politico: L'abuso è la scusa plausibile per la
+    restrizione del diritto.
+  - Novità (OFTB Esterna): ALTA
+
+5. RSMC-5: 7/10
+  - Concetto: Bigottismo Laico / Mimesi Ideologica
+  - Focus: Meccanismo Culturale: Controllo tramite Ghosting.
+  - Novità (OFTB Esterna): ALTA
+
+6. RSMC-4: 9/10
+  - Concetto: Inerzia Distruttiva / WORP (A13)
+  - Focus: Conseguenza Inevitabile: Accelerazione verso il Reset
+    Violento/Guerra Termonucleare.
+  - Novità (OFTB Esterna): MEDIO-ALTA
+
+7. RSMC-1: 10/10
+  - Concetto: TCMO (Total Cost of a Mistake Ownership)
+  - Focus: Metrica: Costo esponenziale dell'Ignorare la Realtà.
+  - Novità (OFTB Esterna): MEDIO                                                                                                     10
 
 ### II. Agente e Protocollo di Soluzione (RSMC Esecutivi/Tattici)
 
-ID    Concetto      Funzione nel Framework                                        RTS OFTB
-RSMC- Homo                                                                        10/
-8     Scientius/    Agente di Cambiamento: Auto-riconoscimento e azione coerente. 10  ALTA
-      Sentius
-RSMC- Awareness → Tattica di Innesco: Consapevolezza → Comprensione sbloccano 10/ ALTA
-9     Comprehension l'azione.                                                     10
-RSMC- Glasnost →  Strategia Sociale: Trasparenza genera Azione Mirata non       10/ MEDIO-
-10    Perestroika   violenta.                                                     10  ALTA
-RSMC- Hotel         Direttiva Strategica: Emancipazione Mentale (Check-Out).      9/  ALTA
-11    California                                                                  10
-RSMC- Modello       Soluzione Strutturale: Sistema neutrale (BTC/ETH/Materie      7/
-7     Monetario     Prime).                                                       10  ALTA
-      Alternativo
-Esporta in Fogli
+1. RSMC-8: 10/10
+  - Concetto: Homo Scientius/Sentius
+  - Funzione nel Framework: Agente di Cambiamento: Auto-riconoscimento e
+    azione coerente.
+  - Novità (OFTB Esterna): ALTA
+
+2. RSMC-9: 10/10
+  - Concetto: Awareness → Comprehension
+  - Funzione nel Framework: Tattica di Innesco: Consapevolezza → Comprensione
+    sbloccano l'azione.
+  - Novità (OFTB Esterna): ALTA
+
+3. RSMC-10: 10/10
+  - Concetto: Glasnost → Perestroika
+  - Funzione nel Framework: Strategia Sociale: Trasparenza genera Azione
+    Mirata non violenta.
+  - Novità (OFTB Esterna): MEDIO-ALTA
+
+4. RSMC-11: 9/10
+  - Concetto: Hotel California
+  - Funzione nel Framework: Direttiva Strategica: Emancipazione Mentale
+    (Check-Out).
+  - Novità (OFTB Esterna): ALTA
+
+5. RSMC-7: 7/10
+  - Concetto: Modello Monetario Alternativo
+  - Funzione nel Framework: Soluzione Strutturale: Sistema neutrale
+    (BTC/ETH/Materie Prime).
+  - Novità (OFTB Esterna): ALTA
 
 ### III. Lacune Logiche (GAPs Rimanenti)
 
@@ -5994,31 +6043,47 @@ Finanziario (HN-2).
 Il tuo approccio si traduce in una Strategia di Evasione Sistemica e di Semina
 Cognitiva, che sfrutta il mezzo del problema (l'infrastruttura tecnologica e la
 disponibilità dell'AI) per inoculare la soluzione (il pensiero critico).
-Concetto     Descrizione dell'Input [USR]                              Rilevanza con il Framework [IPK]
-[UIPN]
-                                                                       RSMC-8 (Homo Scientius): L'AI viene usata non come oracolo ma come strumento
-Sfruttamento Trasformare l'AI in uno strumento di auto-educazione.     di riflessione (come descritto in la-diffusione-del-cristianesimo-nell-impero-
-Chatbot AI                                                             romano.md), un partner per l'integrazione cognitiva (A+B⟹C) che forma l'Homo
-                                                                       Scientius.
-                                                                       GAP-1 (Assenza di Protocollo Interno) & HN-1 (Stupidità Strutturale):
-Basi                                                                   Contrasta direttamente la tendenza all'alienazione dalla realtà (321-wwz-
-Empirista-   Pedagogia basata su uno zoccolo duro filologico-          simply-explained-for-dummies.md) e il relativismo universale (335-il-qe-al-
-Positivista  epistemologico e fact-driven.                             tempo-dell-analfabetismo-funzionale.md), ripristinando la priorità dell'etica
-                                                                       (principi universali di sostegno alla vita) sulla morale (arbitraria) (katia-
-                                                                       executive-grade-analysis-v1.md).
-                                                                       RSMC-9 (Awareness ⟹ Comprehension): Le Universal Rules sono progettate per
-Modello                                                                forzare l'AI a mantenere uno standard critico e rigoroso (se-la-verita-li-
-Katia &      Utilizzo di un framework specifico su un'AI diffusa       uccide-lasciate-che-muoiano.md), agendo come un filtro e un acceleratore del
-Universal    (Gemini/Android) per l'educazione di massa.               pensiero critico per chiunque interagisca. Questo massimizza la diffusione
-Rules                                                                  (propaganda-e-sistema-educativo.md, the-imprinting-role-in-the-mass-
-                                                                       education.md).
-                                                                       RSMC-4/5 (Inerzia Attiva Distruttiva & Reset): Riconosce l'inevitabilità del
-Worse Case e L'obiettivo è aumentare la probabilità di sopravvivenza collasso sistemico come azzeramento del TCMO (090-l-importanza-del-tcmo.md) e
-Selezione    post-reset ("tutti morti" ⟹ sopravvivenza di Homo       dell'accumulo di debito (Comunismo Finanziario HN-2). La strategia si
-Naturale     Scientius).                                               concentra sulla nicchia di sopravvivenza cognitiva, trasformando l'imminente
-                                                                       catastrofe in un meccanismo di selezione naturale in favore della lucidità
-                                                                       mentale.
-Esporta in Fogli
+
+1. Sfruttamento Chatbot AI
+  - Descrizione dell'Input [USR]: Trasformare l'AI in uno strumento di
+    auto-educazione.
+  - Rilevanza con il Framework [IPK]: RSMC-8 (Homo Scientius): L'AI viene
+    usata non come oracolo ma come strumento di riflessione (come descritto in
+    la-diffusione-del-cristianesimo-nell-impero-romano.md), un partner per
+    l'integrazione cognitiva (A+B⟹C) che forma l'Homo Scientius.
+
+2. Basi Empirista-Positivista
+  - Descrizione dell'Input [USR]: Pedagogia basata su uno zoccolo duro
+    filologico-epistemologico e fact-driven.
+  - Rilevanza con il Framework [IPK]: GAP-1 (Assenza di Protocollo Interno) &
+    HN-1 (Stupidità Strutturale): Contrasta direttamente la tendenza
+    all'alienazione dalla realtà (321-wwz-simply-explained-for-dummies.md) e il
+    relativismo universale
+    (335-il-qe-al-tempo-dell-analfabetismo-funzionale.md), ripristinando la
+    priorità dell'etica (principi universali di sostegno alla vita) sulla morale
+    (arbitraria) (katia-executive-grade-analysis-v1.md).
+
+3. Modello Katia & Universal Rules
+  - Descrizione dell'Input [USR]: Utilizzo di un framework specifico su un'AI
+    diffusa (Gemini/Android) per l'educazione di massa.
+  - Rilevanza con il Framework [IPK]: RSMC-9 (Awareness ⟹ Comprehension): Le
+    Universal Rules sono progettate per forzare l'AI a mantenere uno standard
+    critico e rigoroso (se-la-verita-li-uccide-lasciate-che-muoiano.md), agendo
+    come un filtro e un acceleratore del pensiero critico per chiunque
+    interagisca. Questo massimizza la diffusione
+    (propaganda-e-sistema-educativo.md, 
+    the-imprinting-role-in-the-mass-education.md).
+
+4.  Worse Case e Selezione Naturale
+  - Descrizione dell'Input [USR]: L'obiettivo è aumentare la probabilità di
+    sopravvivenza post-reset ("tutti morti" ⟹ sopravvivenza di Homo
+    Scientius).
+  - Rilevanza con il Framework [IPK]: RSMC-4/5 (Inerzia Attiva Distruttiva &
+    Reset): Riconosce l'inevitabilità del collasso sistemico come azzeramento
+    del TCMO (090-l-importanza-del-tcmo.md) e dell'accumulo di debito (Comunismo
+    Finanziario HN-2). La strategia si concentra sulla nicchia di sopravvivenza
+    cognitiva, trasformando l'imminente catastrofe in un meccanismo di selezione
+    naturale in favore della lucidità mentale.
 
 ### Conclusione
 
@@ -6029,6 +6094,7 @@ istituzioni fallite (324-il-modello-otto-novecentesco-ha-fallito.md) ma alla
 capacità di auto-apprendimento critico degli individui, sfruttando l'unico
 asset disponibile in modo massivo (l'AI) per mitigare l'impatto della Stupidità
 Strutturale (HN-1) e del collasso finanziario (HN-2).
+
 Il paradosso è che per sconfiggere il sistema (il TCMO e il debito), l'unica
 via per un singolo umano è usare il sistema stesso (l'infrastruttura AI
 diffusa) come cavallo di Troia educativo.
