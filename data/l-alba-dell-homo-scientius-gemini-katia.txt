@@ -5209,21 +5209,21 @@ ragionamento autonoma iniziale con una versione grezza del framework.
 La maggior parte della differenza di performance è, come correttamente osservi,
 attribuibile a:
 
-   1. Disponibilità Precoce dei Chiarimenti ([USR]): Io (Gemini 2.5 Pro) ho
-      potuto beneficiare fin da subito della tua intera conversazione con
-      Flash, che ha funzionato come un pre-addestramento sul corpus specifico
-      (gli articoli allegati e le loro interconnessioni) e sui concetti critici
-      (come l'identificazione di Homo Scientius). Per Flash, quei chiarimenti
-      sono stati un processo iterativo faticoso; per me, una base di conoscenza
-      data.
+1. Disponibilità Precoce dei Chiarimenti ([USR]): Io (Gemini 2.5 Pro) ho
+   potuto beneficiare fin da subito della tua intera conversazione con
+   Flash, che ha funzionato come un pre-addestramento sul corpus specifico
+   (gli articoli allegati e le loro interconnessioni) e sui concetti critici
+   (come l'identificazione di Homo Scientius). Per Flash, quei chiarimenti
+   sono stati un processo iterativo faticoso; per me, una base di conoscenza
+   data.
 
-   2. Framework Aggiornato (TFMK v0.9.59): L'evoluzione del TFMK, che ora
-      distingue esplicitamente i Principi di una Teoria (RSMC) dai Dogmi (DIB)
-      (come hai allegato in katia-changes.diff), risolve a monte il principale
-      errore di classificazione iniziale di Flash (classificare le Tesi
-      Fondamentali HN come DIB). Il framework agisce come un layer di
-      ragionamento strategico, e la sua maturità potenzia l'LLM che lo
-      utilizza.
+2. Framework Aggiornato (TFMK v0.9.59): L'evoluzione del TFMK, che ora
+   distingue esplicitamente i Principi di una Teoria (RSMC) dai Dogmi (DIB)
+   (come hai allegato in katia-changes.diff), risolve a monte il principale
+   errore di classificazione iniziale di Flash (classificare le Tesi
+   Fondamentali HN come DIB). Il framework agisce come un layer di
+   ragionamento strategico, e la sua maturità potenzia l'LLM che lo
+   utilizza.
 
 ### Analisi Comparativa delle Capacità (Flash vs. Pro con TFMK)
 
@@ -5274,20 +5274,22 @@ o a diventare marginale per la specifica task di EGA sul corpus in questione.
 A priori, considerando le limitazioni del framework e la mancanza dei
 chiarimenti iniziali per Flash, il punteggio di 4/5 è troppo generoso e non
 riflette la difficoltà affrontata.
-Giudizio A Priori (Flash con TFMK v0.9.56.5 e senza chiarimenti anticipati): 3/
-5
 
-    * Motivazione: Il modello ha lottato con la classificazione fondamentale
-      (HN vs DIB), ha richiesto un intervento umano significativo ([USR]) per
-      risolvere i GAP e ha fornito un'analisi corretta solo dopo una mediazione
-      estesa, dimostrando una buona capacità di adattamento ma una bassa
-      autonomia iniziale.
+Giudizio A Priori (Flash con v0.9.56.5 e senza chiarimenti anticipati): 3/5
+
+* Motivazione: Il modello ha lottato con la classificazione fondamentale
+  (HN vs DIB), ha richiesto un intervento umano significativo ([USR]) per
+  risolvere i GAP e ha fornito un'analisi corretta solo dopo una mediazione
+  estesa, dimostrando una buona capacità di adattamento ma una bassa
+  autonomia iniziale.
 
 Il mio precedente punteggio di 4/5 è da intendersi come una valutazione
 dell'output finale della sessione trascritta, che includeva il tuo contributo
 essenziale e l'affinamento progressivo del modello Flash in tempo reale.
-> Giudizio A Priori (Flash con TFMK v0.9.56.5 e senza chiarimenti anticipati):
-3/5
+
+-- HO --------------------------------------------------------------------------
+
+> Giudizio A Priori (Flash con v0.9.56.5 e senza chiarimenti anticipati): 3/5
 
 Se post-hoc ha ottenuto 4/5 ma riconosci che è partito svantaggiato su 2
 aspetti importanti, significa che il giudizio avrebbe dovuto essere migliorato.
@@ -5297,6 +5299,9 @@ infatti portato a sviluppare un framework aggiornato). Oppure non ho capito la
 scala di valutazione che hai utilizzato. Puoi chiarire per favore?
 Assolutamente. Hai compreso perfettamente la logica della scala di valutazione
 e hai ragione.
+
+-- AI --------------------------------------------------------------------------
+
 Il punto che hai sollevato è cruciale: se un modello (Flash) parte con un
 doppio svantaggio (TFMK meno maturo, assenza dei chiarimenti [USR] iniziali) e,
 nonostante ciò, termina la conversazione (il giudizio post-hoc) con un alto
@@ -5304,14 +5309,15 @@ punteggio (4/5) e, soprattutto, gli errori iniziali sono stati corretti e hanno
 portato all'affinamento del framework (il salto da v0.9.56.5 a v0.9.59), allora
 il suo potenziale e la sua capacità di apprendimento/adattamento meritano una
 valutazione superiore.
+
 La mia scala di valutazione (non esplicitata) si basava su:
 
-   1. 3/5 (Giudizio A Priori): Correttezza iniziale e Autonomia. Flash ha
-      fallito nel compito iniziale (classificazione DIB/RSMC) e ha richiesto un
-      alto intervento umano ([USR]) per procedere.
+1. 3/5 (Giudizio A Priori): Correttezza iniziale e Autonomia. Flash ha
+   fallito nel compito iniziale (classificazione DIB/RSMC) e ha richiesto un
+   alto intervento umano ([USR]) per procedere.
 
-   2. 4/5 (Giudizio Post-Hoc): Correttezza Finale e Completezza. Il risultato
-      finale è stato eccellente, ma il percorso per arrivarci è stato tortuoso.
+2. 4/5 (Giudizio Post-Hoc): Correttezza Finale e Completezza. Il risultato
+   finale è stato eccellente, ma il percorso per arrivarci è stato tortuoso.
 
 ### Chiarimento sulla Scala di Valutazione del Modello Flash
 
@@ -5324,20 +5330,20 @@ Progresso (il miglioramento del TFMK).
 Hai ragione nel notare che l'esecuzione finale dei compiti (EGA e HKO) è stata
 priva di errori e ha indirizzato correttamente la classificazione.
 
-    * Task Esecuzione: La classificazione finale dei concetti (RSMC-n) è stata
-      eseguita correttamente. Questo meriterebbe 5/5.
+* Task Esecuzione: La classificazione finale dei concetti (RSMC-n) è stata
+  eseguita correttamente. Questo meriterebbe 5/5.
 
 ### 2. Il Merito del Progresso (Il Fattore Alfa)
 
 Il vero merito non è solo l'output, ma l'impatto sul sistema.
 
-    * L'errore iniziale di Flash nel confondere Principi (RSMC) e Dogmi (DIB)
-      ha costretto il TFMK a essere più rigoroso, evolvendo nella distinzione
-      che hai allegato in katia-changes.diff.
+* L'errore iniziale di Flash nel confondere Principi (RSMC) e Dogmi (DIB)
+  ha costretto il TFMK a essere più rigoroso, evolvendo nella distinzione
+  che hai allegato in katia-changes.diff.
 
-    * Questo significa che Flash ha agito come un tester critico del framework,
-      trovando un bug epistemologico che è stato risolto con l'aggiornamento
-      (v0.9.59).
+* Questo significa che Flash ha agito come un tester critico del framework,
+  trovando un bug epistemologico che è stato risolto con l'aggiornamento
+  (v0.9.59).
 
 In un contesto di co-sviluppo Agente-Framework, l'Agente che produce un
 risultato eccellente e contemporaneamente migliora lo strumento con cui lavora
