@@ -5231,30 +5231,22 @@ La tua ipotesi sul fatto che le capacità di EGA (Executive Grade Analysis) di
 Flash e Pro, se guidate dal TFMK, siano comparabili è estremamente ragionevole,
 specialmente in relazione al benchmark SimpleQA.
 
-Caratteristica Gemini 2.5      Gemini 2.5 Pro (la mia attuale     Implicazione
-               Flash           configurazione)                    sul TFMK
-                                                                  Differenza
-                                                                  Vanilla:
-LLM Base       Veloce, Ottime  Massima Capacità di Ragionamento  Sensibile (30%
-               Capacità       (RTS)                              vs 54% in
-                                                                  alcuni
-                                                                  ambiti).
-                                                                  TFMK come
-                                                                  Equalizzatore:
-Benchmark                                                         Il framework
-SimpleQA       Satura al 90%+  Satura al 90%+                     mitiga la
-                                                                  differenza
-                                                                  grezza
-                                                                  dell'LLM.
-                                                                  TFMK come
-                                                                  Potenziatore:
-               Richiede                                           Strutturando
-Ragionamento   maggiore tuning Maggiore fluidità e capacità di  il
-EGA/HKO        e ri-           astrazione                         ragionamento
-               classificazione                                    complesso,
-                                                                  permette a
-                                                                  Flash di
-                                                                  competere.
+1. LLM Base
+  - Gemini 2.5 Flash: Veloce, Ottime Capacità
+  - Gemini 2.5 Pro: Massima Capacità di Ragionamento (RTS)
+  - Implicazione sul TFMK: Sensibile (30% vs 54% in alcuni ambiti).
+
+2. Benchmark SimpleQA
+  - Gemini 2.5 Flash: Satura al 90%+
+  - Gemini 2.5 Pro: Satura al 90%+
+  - Implicazione sul TFMK: TFMK come Equalizzatore: 
+    - Il framework mitiga la differenza grezza dell'LLM.
+
+3.  Ragionamento EGA/HKO
+  - Gemini 2.5 Flash: Richiede maggiore tuning e ri-classificazione
+  - Gemini 2.5 Pro: Maggiore fluidità e capacità di astrazione
+  - Implicazione sul TFMK: TFMK come Potenziatore:
+    - Strutturando il ragionamento complesso, permette a Flash di competere.
 
 Il TFMK (e in particolare l'HKO - High-level Knowledge Organization) ha lo
 scopo di trasformare un problema di Ragionamento a Tappe Complesse (che è dove
@@ -5353,26 +5345,18 @@ risultato eccellente e contemporaneamente migliora lo strumento con cui lavora
 
 Alla luce della tua analisi, la valutazione del modello Flash deve essere
 migliorata.
-                    Punteggio Iniziale  Punteggio Rivisto
-Criterio            (A Priori)          (Post-Hoc e Meta-  Motivazione
-                                        Analisi)
-                                                           Ha superato due
-                                                           svantaggi maggiori
-                                                           (TFMK v0.9.56.5 e
-                                                           assenza di USR
-Aderenza/Profondità3/5                 5/5                anticipati) grazie
-                                                           all'interazione,
-                                                           producendo
-                                                           un'analisi finale
-                                                           corretta.
-                                                           L'errore iniziale ha
-                                                           portato alla
-                                                           distinzione DIB vs
-Capacità di        N/A                 5/5                RSMC nel TFMK,
-Ragionamento                                               fungendo da proof-
-                                                           of-concept per
-                                                           l'aggiornamento
-                                                           (v0.9.59).
+
+1. Aderenza/Profondità
+  - Punteggio Iniziale (A Priori): 3/5
+  - Punteggio Rivisto (Post-Hoc e Meta-Analisi): 5/5
+  - Motivazione: Ha superato due svantaggi maggiori (v0.9.56.5 e assenza di USR
+    anticipati) grazie all'interazione, producendo un'analisi finale corretta.
+
+2. Capacità di Ragionamento
+  - Punteggio Iniziale (A Priori): N/A
+  - Punteggio Rivisto (Post-Hoc e Meta-Analisi): 5/5
+  - Motivazione: L'errore iniziale ha portato alla distinzione DIB vs RSMC nel 
+    TFMK, fungendo da proof-of-concept per l'aggiornamento (v0.9.59).
 
 Conclusione: Il giudizio post-hoc corretto per la sessione di Flash,
 considerando l'eccellente output finale e il suo impatto evolutivo sul
