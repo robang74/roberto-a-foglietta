@@ -172,7 +172,8 @@ function md2htmlfunc() {
 -e "s,{sht},${emoji_a}shh.png'>,g" -e "s,{:-#},${emoji_a}swear.png'>,g"     \
 -e "s,{hug},${emoji_a}hug.png'>,g" -e "s,{shk},${emoji_a}clown.png'>,g"     \
 -e "s,{wtf},${emoji_a}what.png'>,g" -e "s,{8\*)},${emoji_a}clown.png'>,g"   \
--e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"
+-e "s,{:-J},${emoji_a}smirk.png'>,g" -e "s,{boo},${emoji_a}ghost.png'>,g"   \
+-e "s,{luv},${emoji_a}inlove.png'>,g" -e "s,{3-)},${emoji_a}luveyes.png'>,g"
 
     sed -i $2 -e "s,^>$,> ," -e "s,@,\&commat;,g" \
 -e "s,(#\([0-9]\+\)),<sup>(\&#x202f;<a href='#nota-\\1'>\\1</a>\&#x202f;)</sup>,g" \
@@ -217,7 +218,7 @@ function md2htmlfunc() {
 -e "s,^|x|> *$,<div class='center'>," -e "s,^<|x| *$,</div>," \
 -e "s,^ *$,$p_line,"
 
-    eval title_tags_add "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2)
+    eval title_tags_add "$2" $(sed -ne 's,<H[1-3] id=.\([^>]*\).>.*,"\1",p' $2 | tr '`' '.')
 
     tf=$2.tmp
     cat $2 | tr '\n' '@' | sed -e "s,$p_line,<p class='topbar'></p>," >$tf
@@ -359,6 +360,8 @@ function main_md2html() {
 mkdir -p html
 #test -n "$1" || rm -f html/[0-9]*.html
 
+test "$1" == "" && exit 0
+test "$1" == "all" && set --
 flist=$(ls -1 ${@:-*.md})
 declare -i n=$(echo "$flist" | wc -l)
 echo
