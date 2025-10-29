@@ -58,29 +58,27 @@ which is fine in AC mode but it would be better to have "1" on battery to save p
 Which is not bad at all, but it requires a deeper investigation. Therefore, here below a bash script to check the average data transfer speed.
 
 [!CODE]
-&num; variables<br>
-f=/tmp/usbkey.tst<br>
-d=/dev/sda<br>
+&num; variables
+f=/tmp/usbkey.tst
+d=/dev/sda
 n=10
-
-&num; test 10 or 100 tries<br>
-umount $d&ast; 2>/dev/null; for i in $(seq $n); do<br>
-dd if=$d bs=1M count=256 skip=$[RANDOM%256] of=/dev/null 2>&1 |\<br>
- &nbsp; grep bytes; done | tee $f<br>
-
-&num; maths<br>
-str=$(cat $f | cut -d, -f4 | sort -n)<br>
-min=$(echo "$str" | head -n1); max=$(echo "$str" | tail -n1)<br>
-let sum=$(sed -ne "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n')0<br>
-if [ $sum -eq 0 ]; then<br>
-let sum=$(sed -ne "s/.&ast; s, \([0-9.,]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n',.)0<br>
-let n*=10; fi; avg=$[sum/n].$[sum%n]<br>
-
-&num; results<br>
-printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"<br>
+&nbsp;
+&num; test 10 or 100 tries
+umount $d&ast; 2>/dev/null; for i in $(seq $n); do
+dd if=$d bs=1M count=256 skip=$[RANDOM%256] of=/dev/null 2>&1 |\
+ &nbsp; grep bytes; done | tee $f
+&nbsp;
+&num; maths
+str=$(cat $f | cut -d, -f4 | sort -n)
+min=$(echo "$str" | head -n1); max=$(echo "$str" | tail -n1)
+let sum=$(sed -ne "s/.&ast; s, \([0-9]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n')0
+if [ $sum -eq 0 ]; then
+let sum=$(sed -ne "s/.&ast; s, \([0-9.,]&ast;\) .&ast;/\\1+/p" $f | tr -d '\n',.)0
+let n*=10; fi; avg=$[sum/n].$[sum%n]
+&nbsp;
+&num; results
+printf "\n min:%s, avg: %s MB/s, max:%s \n\n" "$min" $avg "$max"
 [/CODE]
-
-++++++
 
 #### Results print out & comments
 
@@ -106,11 +104,11 @@ All the changes presented here requires the `root` permission.
 In case you Linux kernel `dmeg` log reports a problem with `snapd` configuration you can apply this change:
 
 [!CODE]
-&num; with systemd v254+, skip going through failed state during restart<br>
-&num;RestartMode=direct<br>
-&num;Restart=always<br>
-Restart=on-failure<br>
-RestartSec=5s<br>
+&num; with systemd v254+, skip going through failed state during restart
+&num;RestartMode=direct
+&num;Restart=always
+Restart=on-failure
+RestartSec=5s
 [/CODE]
 
 
@@ -119,13 +117,13 @@ RestartSec=5s<br>
 This is optional and might create troubles, apply only if necessary:
 
 [!CODE]
-echo "<br>
-drm_kms_helper<br>
-drm_fb_helper<br>
-i915" >> /etc/initramfs-tools/modules<br>
-echo blacklist elan_i2c >> /etc/modprobe.d/blacklist.conf<br>
-echo blacklist thunderbolt >> /etc/modprobe.d/blacklist.conf<br>
-update-initramfs -u # -k all # only after giving a test<br>
+echo "
+drm_kms_helper
+drm_fb_helper
+i915" >> /etc/initramfs-tools/modules
+echo blacklist elan_i2c >> /etc/modprobe.d/blacklist.conf
+echo blacklist thunderbolt >> /etc/modprobe.d/blacklist.conf
+update-initramfs -u # -k all # only after giving a test
 [/CODE]
 
 Having a 2nd kernel for testing and boot the system when the 1st fails, it is a good habit.
@@ -133,18 +131,18 @@ Having a 2nd kernel for testing and boot the system when the 1st fails, it is a 
 #### 3. non-US keyboard mapping
 
 [!CODE]
-kbd.map=it # choose your keyboard layout<br>
+kbd.map=it # choose your keyboard layout
 update-grub
 [/CODE]
 
 #### 4. avoid logo shown at boot
 
 [!CODE]
-bgrt_disable=1<br>
+bgrt_disable=1
 update-grub
 [/CODE]
 
-++++++
++++++
 
 ## An useful USB-C hub
 

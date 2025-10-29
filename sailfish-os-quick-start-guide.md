@@ -13,8 +13,7 @@ This is the guide originally written for the SailFish OS community forum and rep
 
 If you want to use the URL links in this guide for configuring your `SailFish OS` smartphone, scan the `QR`-code below with the default native camera app:
 
-> <img src="img/quick-start-guide-qrcode.png" width="175px" height="175px"><br>
-> short url: https://t.ly/rD8LD
+> <center><img src="img/quick-start-guide-qrcode.png" width="175px" height="175px"><br>`short url: t.ly/rD8LD`</center>
 
 Then open the encoded URL with the default native browser and save it in your bookmark for future and faster access to this guide.
 
@@ -50,53 +49,53 @@ It is a script delivered by `Patch Manager` but it is for your laptop/`PC` not f
 
 The script will unbind all the `USB` devices connected to the `xhci_pci` kernel driver, set the communication standard to `USB` v2.0 with an always-on powering policy, and then bind all the devices back.
 
-<code>
-sudo ./fastboot-usb3fix.sh 2<br>
-sudo /bin/bash flash.sh #--force<br>
+[!CODE]
+sudo ./fastboot-usb3fix.sh 2
+sudo /bin/bash flash.sh #--force
 sudo ./fastboot-usb3fix.sh 3
-</code>
+[/CODE]
 
 The last command is `3` because you want to return to the `USB` v3.x communication standard due to its speed and performance improvements over `USB` v2.0.
 
-<sup>________</sup>
+...
 
 **fasboot usage**
 
 Here is a way to re-flash the vendor backup partition despite `USB` problems:
 
-<code>
-fastboot flash oem_b SW_binaries_&ast;_seine.img<br>
- #< waiting for any device ><br>
- #<br>
- # connect the powered off device keeping the volume-up<br>
- # key pressed until the notifications led become blue<br>
-
-fastboot reboot<br>
- # This line above makes your smartphone reboot.<br>
-</code>
+[!CODE]
+fastboot flash oem_b SW_binaries_&ast;_seine.img
+ #< waiting for any device >
+ #
+ # connect the powered off device keeping the volume-up
+ # key pressed until the notifications led become blue
+&nbsp;
+fastboot reboot
+ # This line above makes your smartphone reboot.
+[/CODE]
 
 It leverages the fact that `fastboot` has been executed before the smartphone is connected, and thus it sets the `USB` parameters before the smartphone is engaged. This trick will work for a single run of `fastboot`. Hence, it will not work with `flash.sh` unless the `USB` v2.0-only mode is set.
 
-<sup>________</sup>
+...
 
 **flash.sh tricks**
 
 However, the `flash.sh` procedure can also be done manually, partition per partition, and the list of actions to follow is listed here below:
 
-<code>
-$ head -11 flash-config.sh <br>
-VALID_PRODUCTS=("XQ-AU52")<br>
-
-FLASH_OPS=(<br>
-  "getvar_fail_if secure yes"<br>
-  "flash boot_a hybris-boot.img"<br>
-  "flash boot_b hybris-boot.img"<br>
-  "flash dtbo_a dtbo.img"<br>
-  "flash dtbo_b dtbo.img"<br>
-  "flash userdata sailfish.img001"<br>
-  "flash_blob oem_a &ast;_v12b_seine.img"<br>
+[!CODE]
+$ head -11 flash-config.sh 
+VALID_PRODUCTS=("XQ-AU52")
+&nbsp;
+FLASH_OPS=(
+  "getvar_fail_if secure yes"
+  "flash boot_a hybris-boot.img"
+  "flash boot_b hybris-boot.img"
+  "flash dtbo_a dtbo.img"
+  "flash dtbo_b dtbo.img"
+  "flash userdata sailfish.img001"
+  "flash_blob oem_a &ast;_v12b_seine.img"
 )
-</code>
+[/CODE]
 
 This is the header of `flash_config.sh` which shows you the list of actions. If you change this file, add an extra line like:
 
@@ -104,28 +103,28 @@ This is the header of `flash_config.sh` which shows you the list of actions. If 
 
 Then you have to call `flash.sh` with the `--force` option. Otherwise, it fails complaining about the  `md5sum` mismatch.
 
-<sup>________</sup>
+...
 
 **Android debug**
 
 This is useful for the Android debugger `ADB` mode, and it does not conflict with the `fastboot` mode:
 
-<code>
-eval $(lsusb | sed -ne "s/.&ast; \([a-f0-9]\{4\}\):\([a-f0-9]\{4\}\) "\<br>
-"Sony Ericsson Mobile .&ast;/idVendor=\\1 idProduct=\\2/p")<br>
-
-udev_file=/etc/udev/rules.d/51-android.rules<br>
-
-if [ -z "$idVendor" -o -z "idProduct" ]; then<br>
-  echo "connect the Sony Xperia smartphone to your USB port"<br>
-elif ! grep -q "grep-RAF-check" $udev_file; then<br>
-  echo 'SUBSYSTEM=="usb", ATTR{idVendor}=="$idVendor",'\<br>
-' ATTR{idProduct}=="$idProduct", MODE="0666", GROUP="plugdev",'\<br>
-' SYMLINK+="xperia%n" # grep-RAF-check' | sudo tee -a $udev_file<br>
-  sudo systemctl reload udev<br>
-  sudo systemctl restart udev<br>
+[!CODE]
+eval $(lsusb | sed -ne "s/.&ast; \([a-f0-9]\{4\}\):\([a-f0-9]\{4\}\) "\
+"Sony Ericsson Mobile .&ast;/idVendor=\\1 idProduct=\\2/p")
+&nbsp;
+udev_file=/etc/udev/rules.d/51-android.rules
+&nbsp;
+if [ -z "$idVendor" -o -z "idProduct" ]; then
+  echo "connect the Sony Xperia smartphone to your USB port"
+elif ! grep -q "grep-RAF-check" $udev_file; then
+  echo 'SUBSYSTEM=="usb", ATTR{idVendor}=="$idVendor",'\
+' ATTR{idProduct}=="$idProduct", MODE="0666", GROUP="plugdev",'\
+' SYMLINK+="xperia%n" # grep-RAF-check' | sudo tee -a $udev_file
+  sudo systemctl reload udev
+  sudo systemctl restart udev
 fi
-</code>
+[/CODE]
 
 The above settings should be done one single time, and you have to replace the `idVendor` and `idProduct` with those you will find using `lsusb` with your smartphone connected to the `USB` port of your `PC`/laptop. The script above should do it for you.
 
@@ -136,7 +135,7 @@ The above settings should be done one single time, and you have to replace the `
 Install the *Android Support* from the Jolla market, then the `F-Droid` market app.
 
 > :memo: @olf wrote:
->
+> 
 > Do not install `APToide` because  in the past it shown relevant security issues and moreover anyone can upload an app in such store thus is not secure.
 
 These choices can be made at the first boot of your newly flashed smartphone.
@@ -194,7 +193,7 @@ For future `SFOS` versions or other architectures, choose from here:
 
 Deactivate the *Allow untrusted software* option, not now but after having installed `StoreMan` and `UpToDown`, see below.
 
-----
+~~~~
 
 ### STOREMAN
 
@@ -232,7 +231,7 @@ Available in the `Chum` market as `Patch Manager` for `SailFishOS`, here:
 
 The `Patch Manager` is not an application without an icon but adds a voice in the `Settings` menu.
 
-~~~
+---
 
 ### APPS INSTALLATION
 
@@ -316,10 +315,10 @@ The SSHd service can be configured from
 
 Add these two lines at the end of your `.bashrc` or `.profile` for your laptop/`PC` user:
 
-<code>
-ufish() { ssh root@192.168.2.15 "$@"; }<br>
+[!CODE]
+ufish() { ssh root@192.168.2.15 "$@"; }
 wfish() { ssh root@172.28.172.1 "$@"; }
-</code>
+[/CODE]
 
 The next time you start a console, you will be able to use `ufish` or `wfish` to connect to or execute commands via `SSH` on your `SFOS` device.
 
@@ -337,13 +336,13 @@ After having activated the `SSH` service, especially if `SFOS` has been recently
 
 Suggested package to install, by root user:
 
-<code>
-pkcon -y remove busybox-symlinks-vi<br>
-pkcon -y install --allow-reinstall \<br>
-    rpm pigz xz patch htop vim-minimal harbour-gpsinfo zypper \<br>
-    zypper-aptitude mce-tools harbour-file-browser harbour-todolist \<br>
-    sailfish-filemanager sailfish-filemanager-l10n-all-translations<br>
-</code>
+[!CODE]
+pkcon -y remove busybox-symlinks-vi
+pkcon -y install --allow-reinstall \
+    rpm pigz xz patch htop vim-minimal harbour-gpsinfo zypper \
+    zypper-aptitude mce-tools harbour-file-browser harbour-todolist \
+    sailfish-filemanager sailfish-filemanager-l10n-all-translations
+[/CODE]
 
 ---
 
@@ -351,23 +350,23 @@ pkcon -y install --allow-reinstall \<br>
 
 The following script allows you to make the backup of every user's home folder by `USB` (`192.168.2.15`) or `WiFi` tethering (`172.28.172.1`):
 
-<code>
-#!/bin/bash<br>
-user=defaultuser<br>
-dst_ip=192.168.2.15<br>
-tar_opts="--numeric-owner -p"<br>
-date_time=$(date +%F-%H-%M-%S)<br>
-excl_list=".cache cache cache2 vungle_cache diskcache-v4 .mozilla/storage"\<br>
-" $user/Pictures/Default $user/Videos/Default $user/.ssh $user/.tmp"<br>
-for i in $excl_list; do tar_opts="$tar_opts --exclude '$i/&ast;'"; done<br>
-echo "Creating backup-${user}-${date_time}.tar.gz by SSH/cat..."<br>
-ssh $user@$dst_ip "time tar vc $tar_opts ~$user/"\<br>
-" | pigz -4Ric" > backup-${user}-${date_time}.tar.gz<br>
-echo "Syncing backup-${user}-${date_time}.tar.gz to storage..."<br>
-sync backup-${user}-${date_time}.tar.gz<br>
-echo "Checking backup-${user}-${date_time}.tar.gz for errors..."<br>
+[!CODE]
+#!/bin/bash
+user=defaultuser
+dst_ip=192.168.2.15
+tar_opts="--numeric-owner -p"
+date_time=$(date +%F-%H-%M-%S)
+excl_list=".cache cache cache2 vungle_cache diskcache-v4 .mozilla/storage"\
+" $user/Pictures/Default $user/Videos/Default $user/.ssh $user/.tmp"
+for i in $excl_list; do tar_opts="$tar_opts --exclude '$i/&ast;'"; done
+echo "Creating backup-${user}-${date_time}.tar.gz by SSH/cat..."
+ssh $user@$dst_ip "time tar vc $tar_opts ~$user/"\
+" | pigz -4Ric" > backup-${user}-${date_time}.tar.gz
+echo "Syncing backup-${user}-${date_time}.tar.gz to storage..."
+sync backup-${user}-${date_time}.tar.gz
+echo "Checking backup-${user}-${date_time}.tar.gz for errors..."
 tar tzf backup-${user}-${date_time}.tar.gz >/dev/null && echo "OK" || echo "KO"
-</code>
+[/CODE]
 
 The script above requires `pigz`, the much faster parallel version of `gzip`. Unless the **SYSTEM UPDATE** procedure has been completed, the `pigz` should be installed by the root user with this command:
 
@@ -375,18 +374,18 @@ The script above requires `pigz`, the much faster parallel version of `gzip`. Un
 
 or the script  edited for working with the much slower `gzip`.
 
-<sup>________</sup>
+....
 
 **backup restore**
 
 Once a backup is created in this way, it can be restored with this other script:
 
-<code>
-#!/bin/bash<br>
-user=defaultuser<br>
-dst_ip=192.168.2.15<br>
+[!CODE]
+#!/bin/bash
+user=defaultuser
+dst_ip=192.168.2.15
 last_backup=$(ls -r1 backup-${user}-&ast;.tar.gz | head -n1 )
-</code>
+[/CODE]
 
 or these lines instead when `pigz` is not yet available:
 
@@ -402,7 +401,7 @@ For `DNS` caching and proxying, you can install the [DNS Alternative](https://op
 
 However, if this solution does not fit your needs, there is a second choice: using `dnsmasq` directly and configuring it specifically for your needs.
 
-<sup>________</sup>
+...
 
 **dnsmasq**
 
@@ -428,19 +427,19 @@ About `DNS`, using those from your network provider (default) is not always the 
 
 The best choice is alternating two coherent DNS services together - for reliability - and using a caching system configured for leveraging a large DNS cache to gain speed, privacy, and safety, depending on the services you choose.
 
-<code>
-#IPv4 nameservers<br>
-nameserver  9.9.9.9<br>
-nameserver  94.140.14.14<br>
-nameserver  149.112.112.112<br>
-nameserver  94.140.15.15<br>
-
-#IPv6 nameservers<br>
-nameserver  2620:fe::fe<br>
-nameserver  2a10:50c0::ad1:ff<br>
-nameserver  2620:fe::9<br>
-nameserver  2a10:50c0::ad2:ff<br>
-</code>
+[!CODE]
+#IPv4 nameservers
+nameserver  9.9.9.9
+nameserver  94.140.14.14
+nameserver  149.112.112.112
+nameserver  94.140.15.15
+&nbsp;
+#IPv6 nameservers
+nameserver  2620:fe::fe
+nameserver  2a10:50c0::ad1:ff
+nameserver  2620:fe::9
+nameserver  2a10:50c0::ad2:ff
+[/CODE]
 
 This is an example of `/etc/resolv.conf` for every host connected with an `IPv4` + `IPv6` network that alternates *AdGuard* and *Quad9* ad-blocking and safe-filtered `DNS`.
 
@@ -462,7 +461,7 @@ About `VPN` services, there is a very [interesting post on `F-Droid` blog](https
 
 Therefore, the only viable way to go with ProtonVPN relying on an `IPv6`-only network operator is using [CLAT](https://forum.sailfishos.org/t/testing-clat-for-ipv6-only-mobile-networks/14520/1) which is still under testing.
 
-<sup>________</sup>
+...
 
 **Why using a VPN?**
 
@@ -502,7 +501,7 @@ Then open the `microG Settings` app, and in the Location menu, switch on all the
 
 Install the `GPSinfo` app from the `Chum` market because the one in the Jolla market can be outdated (cfr. update #1), switch on the `GPS` and test it outdoors.
 
-<sup>________</sup>
+...
 
 **freezing issue**
 
@@ -546,13 +545,13 @@ The `A-GPS` configuration here proposed is Google-free, it uses Qualcomm `SUPL` 
 
 Even if obsolete, it will remain for a while in order to be reworked as - advanced users section - to introduce the `SSH` / terminal / `qCommand` as universal tools to customize in depth on a SFOS smartphone. In the meantime, jump to the next section, which is **mobile data**.
 
-<sup>________</sup>
+...
 
 **manual editing or copy**
 
 > **@miau** wrote: This solution works with the Xperia 10 smartphone series and might work with other smartphones, but not with the XA2 which requires it, and for the XA2 the parameters are slightly different as. Therefore, XA2 users should ignore the following and follow the suplpatcher instructions.
 
-<sup>________</sup>
+...
 
 The solution consists of changing some values into `/etc/gps.conf` or in `/vendor/etc/gps.conf`. You can check the real path using the `File Manager` included by default in `SFOS`. If both exist, one should be a link to the other.
 
@@ -577,20 +576,20 @@ To make these changes can be used the [terminal app](https://openrepos.net/conte
 
 Another way to access the terminal is by using `qCommand` and asking him to run `devel-su /bin/ash` in interactive mode. In interactive mode, it will always ask for the password, even if you choose to run `/bin/ash` as `root` and you save the password.
 
-<sup>________</sup>
+...
 
 **ssh session**
 
 Activate the `SSH` session. This allows you to connect to your `SailFish OS` device with an `SSH` connection using the `USB` cable, the `WiFi` tethering, or the `WiFi` home network. The most secure way is to use the `USB` cable while the smartphone is off-line.
 
-<code>
-ssh defaultuser@192.168.2.15<br>
-remote]$ devel-su /bin/sh<br>
-Download]# update-ca-trust<br>
-remote]# vi /etc/gps.conf<br>
-remote]# exit<br>
-remote]$ exit<br>
-</code>
+[!CODE]
+ssh defaultuser@192.168.2.15
+remote]$ devel-su /bin/sh
+Download]# update-ca-trust
+remote]# vi /etc/gps.conf
+remote]# exit
+remote]$ exit
+[/CODE]
 
 Before changing those values, prepare yourself to use [vi the editor](https://web.mit.edu/merolish/Public/vi-ref.pdf) and make a backup copy of the original file. Or you can install `nano` and use it instead of `vi`, as kindly suggested by @miau following these instructions:
 
@@ -598,23 +597,23 @@ Before changing those values, prepare yourself to use [vi the editor](https://we
 
 Alternatively, you can download and copy the `gps.conf` as described in the next session and decide to modify it with your own hands. Instead of downloading the file, apply the `Patch Manager` patch cited above and then perform the changes you like.
 
-<sup>________</sup>
+...
 
 **terminal app**
 
 Visit this link for the [modified gps.conf](https://drive.google.com/file/d/1ZCheJadDhO38atpIFmRKMjBA42XYnUJT/view) and save it in `Downloads`. Then open the terminal and execute the following commands:
 
-<code>
-home]$ cd android_storage/Download<br>
-Download]$ devel-su /bin/sh<br>
-Download]# update-ca-trust<br>
-Download]# cp /vendor/etc/gps.conf gps.conf.bak<br>
-Download]# cat gps.conf >/vendor/etc/gps.conf<br>
-Download]# exit<br>
-Download]$ exit<br>
-</code>
+[!CODE]
+home]$ cd android_storage/Download
+Download]$ devel-su /bin/sh
+Download]# update-ca-trust
+Download]# cp /vendor/etc/gps.conf gps.conf.bak
+Download]# cat gps.conf >/vendor/etc/gps.conf
+Download]# exit
+Download]$ exit
+[/CODE]
 
-<sup>________</sup>
+...
 
 **after the changes**
 
@@ -624,13 +623,13 @@ After the changes, **disable** the developer mode and set the high precision mod
 
 At this point, you can switch on the network, the `GPS` and give it a try indoors.
 
-----
+~~~~
 
 ### MOBILE DATA
 
 The first step you should take after having inserted the `SIM` into your new `SFOS` smartphone is to ask your network operator to send their mobile data configuration back to your device. Usually, you can do that by sending a `SMS` to a specific number.
 
-<sup>________</sup>
+...
 
 **registration lag**
 
@@ -642,7 +641,7 @@ This will bring you to a new page on which - after a while - all the mobile netw
 
 Another solution that might work in your case is the following. Imagine that you have the `SIM1` that is slow in registering with the mobile network. You can try putting the slower `SIM` into slot #2 which means `SIM` exchange (1:faster, 2: slower), or you can skip the unlock `PIN` for the faster `SIM` and activate it after the slower one has completed the registration with the mobile network. Keep the faster SIM for 2nd to register and possibly use the auto-search for the mobile network because in this way `ofono` will preferably keep the current operator schema as long as possible, even better if the faster SIM is roaming.
 
-<sup>________</sup>
+...
 
 **data on IPv4 only**
 
@@ -671,20 +670,18 @@ The `Data` and `MMS` access points changed the protocol field from `dual` to `IP
 Section yet to be done; in the meantime, check out these posts below:
 
 * [Energy saving for Xperia 10 II and III](https://github.com/robang74/redfishos/tree/main/forum/todo/energy-saving-for-xperia-10-ii-and-iii.md)
-
 * [Power saving templates and policies](https://github.com/robang74/redfishos/tree/main/forum/todo/energy-saving-for-xperia-10-ii-and-iii.md#power-saving-templates)
-
 * [Bluetooth power drain issue](https://github.com/robang74/redfishos/tree/main/forum/todo/bluetooth-crazy-CPU-usage.md)
 
 Here are a few hints to keep your `SFOS` smartphone lasting longer.
 
-<sup>________</sup>
+...
 
 **display settings**
 
 First of all, set the brightness of the screen to the minimum in auto-brightness mode, then install and activate the [Pure Black Backgrounds ](https://coderus.openrepos.net/pm2/project/patch-i-see-a-red-door) patch with `Patch Manager`. This setting is expected to save energy with an `OLED` display, which is the case for the Xperia 10 II and III. The display should be set to sleep after 30 seconds.
 
-<sup>________</sup>
+...
 
 **energy saving mode**
 
@@ -698,7 +695,7 @@ Moreover, that tool should be installed before using it. This requires access to
 
 Because `mcetool`does not need `root` privileges to change the battery threshold for enabling the energy-saving mode, it is possible to use `qCommand` to execute it in a non-interactive, non-root, ignore-output task. The `qCommand` allows you to create an icon for this specific task⁴ and it is useful because the energy-saving mode can be changed or disabled by Settings:System --> System:Battery menu but not set to 100% back by it.
 
-<sup>________</sup>
+...
 
 **wireless settings**
 
@@ -718,13 +715,13 @@ After the `PM2` patch application executes the script with
 
 The default value is 1024, other reasonable values are 512 or 1536. For example, by passing 1536 the size of the `zRAM` swap will be increased to 1.5GB, as you can see:
 
-<tt>
-[root@sfos ~]# zramctl | tail -n1 | tr -s ' '; free<br>
-/dev/zram0 lz4 1.5G 222.9M 53.2M 66.7M 8 [SWAP]<br>
-              total        used        free      shared  buff/cache   available<br>
-Mem:        3643472     1571548     1243824       19744      828100     2078652<br>
-Swap:       1572860      230624     1342236<br>
-</tt>
+[!CODE]
+[root@sfos ~]# zramctl | tail -n1 | tr -s ' '; free
+/dev/zram0 lz4 1.5G 222.9M 53.2M 66.7M 8 [SWAP]
+              total        used        free      shared  buff/cache   available
+Mem:        3643472     1571548     1243824       19744      828100     2078652
+Swap:       1572860      230624     1342236
+[/CODE]
 
 but considering that the compressed ratio is about 3x or 4x times, this means that for the `1536` value, we can have:
 
@@ -734,7 +731,7 @@ The available `RAM`+swap will grow up to 7GB with an **important drawback**: run
 
 In my personal case, which includes the use of `Android Support`, the [statistics collected](https://coderus.openrepos.net/media/screenshots/zram-swap-resize-script-ram-and-swap-usage.png) by [System Monitor](https://openrepos.net/content/ade/system-monitor-fork) indicate that 1GB of `zRAM` swap is large value because its use rarely will go over 60% of its full capacity. Probably the best value for my use style is 768MB or even 512MB with a swappiness of 5% instead of 25% (default).
 
-<sup>________</sup>
+...
 
 **swap offloading**
 
@@ -778,14 +775,12 @@ Feel free to propose your best choices or alternatives. As far as possible, I wi
 
 This section is working in progress. Be patient. :blush:
 
-<code>
-pkcon install -y usb-moded-host-mode-jolla usb-moded-systemd-rescue-mode \<br>
+[!CODE]
+pkcon install -y usb-moded-host-mode-jolla usb-moded-systemd-rescue-mode \
     usb-moded-connection-sharing-android-config
-</code>
-
 or
-
-`                  usb-moded-connection-sharing-android-connman-config`
+                  usb-moded-connection-sharing-android-connman-config
+[/CODE]
 
 ---
 
@@ -822,7 +817,7 @@ Follow the instructions on the description of the link above. Before that, take 
 
 * Downloading and installing `APK`s from untrusted sources can seriously harm your privacy and security. In the best case, you will miss important future updates. Moreover, by default, this practice is not allowed unless you enable the option of *Allow to install from untrusted sources* but do not do that after this device post-installation customization.
 
-* it is suggested to restore the `/bin/bash` symlink to the real `bash` shell by executing `devel-su pkcon remove busybox-symlinks-bash`. This may influence the whole system, but you can revert back to the system by reinstalling that package using `install` instead of `remove`: easy to do and easy to undo.
+* it is suggested to restore the `/bin/bash` symlink to the real `bash` shell by executing `devel-su pkcon remove busybox-symlinks-bash`. This may influence the whole system, but you can revert back to the system by reinstalling that package using `install` instead of `remove`: easy to do and to undo.
 
 In conclusion, add to the top menu these two voices:
 

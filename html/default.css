@@ -94,7 +94,7 @@ blockquote {
 /*  font-size: 16px; */
     line-height: 1.5;
     text-align: justify;
-    font-family: "Times Roman", "Times New Roman", serif;
+    font-family: "Times Roman", "Times New Roman", serif; /*font-size: 110%;*/
 
     width: 760px;
 /*  background-color: #383838; */
@@ -104,7 +104,7 @@ blockquote {
     left: -40px;
 }
 
-.code { font-size: 80% }
+blockquote.code:first-line { font-size: 0px; }
 
 blockquote.dqt {
     width: 720px;
@@ -134,17 +134,21 @@ svg.warnicon, svg.infoicon {
 }
 
 
-tt {
-    font-weight: bold;
+tt, .mono, code, .code {
+/*  font-weight: bold;
+ */
     position: relative;
  /*\,-Remove this parenthesis to switch the font */
 /**)/
-    font-family: "Roboto Mono", monospace; font-size: 90%; top: -0.5px;
+    font-family: "Roboto Mono", monospace; top: -0.5px;
 /*/
-    font-family: "Ubuntu Mono", monospace;
+    white-space: pre;
+    font-family: "Ubuntu Mono", monospace; /*font-size: 80%;*/
+    font-variant-numeric: tabular-nums lining-nums;
 /**/
-    padding-left: 0.25em;
+/*  padding-left: 0.25em;
     padding-right: 0.25em;
+ */
 }
 
 #firstdiv { /* removed in md->html conversion */ }

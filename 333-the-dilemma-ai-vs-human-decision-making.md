@@ -529,26 +529,22 @@ It would be unfair to pretend that "nothing changes". Moreover, at this time, it
 
 Innovation breaks rules by its own essence. Resisting is futile, unless for shifting from blocking to shaping.
 
-[!INFO]
 **Revisited Katia's ideas-map**
-<code>
-
-Accountability<br>
-&nbsp; ├── Legal → Vendor liability already proven (e.g. Tesla case);<br>
-&nbsp; ├── Technical → Transparency ≠ open weights; API + logs suffice;<br>
-&nbsp; └── Educational → 2-20% can co-evolve; 80% need scaffolding.<br>
-
-Car Crash Case<br>
-&nbsp; ├── Human → Adrenaline-driven, biased, avoidant;<br>
-&nbsp; └── AI → Pattern recognition, balancing weights, needs rules.<br>
-
-Pragmatism<br>
-&nbsp; ├── SCRUM-like incremental knowledge and improvements;<br>
-&nbsp; ├── Transparency drives trust → market stability → value;<br>
-&nbsp; └── Vendor-insurer model internalises risk, quicker to settle.<br>
-
-</code>
-[/INFO]
+[!CODE]
+Accountability
+&nbsp; ├── Legal → Vendor liability already proven (e.g. Tesla case);
+&nbsp; ├── Technical → Transparency ≠ open weights; API + logs suffice;
+&nbsp; └── Educational → 2-20% can co-evolve; 80% need scaffolding.
+&nbsp;
+Car Crash Case
+&nbsp; ├── Human → Adrenaline-driven, biased, avoidant;
+&nbsp; └── AI → Pattern recognition, balancing weights, needs rules.
+&nbsp;
+Pragmatism
+&nbsp; ├── SCRUM-like incremental knowledge and improvements;
+&nbsp; ├── Transparency drives trust → market stability → value;
+&nbsp; └── Vendor-insurer model internalises risk, quicker to settle.
+[/CODE]
 
 <!--//
 THREE LINES CAN MAKE SUCH A DIFFERENCE!
