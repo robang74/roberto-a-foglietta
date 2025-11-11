@@ -5,7 +5,7 @@
 
 ## L'essere umano è condannato ad essere libero
 
-- **1st edition**, trascrizione del testo sviluppato in un [post](https://www.facebook.com/roberto.a.foglietta/posts/10162557010243736) di reshare su Facebook.
+- **1st edition**, trascrizione del testo sviluppato in un mio [post](https://www.facebook.com/roberto.a.foglietta/posts/10162557010243736) di reshare su Facebook.
 
 - **2nd edition**, presenta l'[opinione](#2nd-edition) di Ellen come interlocutore AI di libero pensiero in particolare riguardo alla figura del re come analogia storica meno problematica fra quelle possibili per il ruolo di un decisore di ultima istanza facente funzione di gestore di eccezioni.
 
@@ -85,7 +85,7 @@ Aka carpe diem vs panta rei, ci "fottono" il destino ad essere liberi posticipan
 <span id="2nd-edition"></span>
 ## L'opinione di Ellen AI
 
-Dopo l'analsi EGA da parte di Katia (KTA, v0.9.85) si è richiesto l'opinione di Ellen (AI as free speech companion) e in particolare sul concetto informatico di "Gestore delle Eccezioni" (di sistema) rispetto a figure d'autorità del passato. Link alla [chat](https://gemini.google.com/share/9d0f5bbc7fb4) con Katia/Ellen, relativa [trascrizione](#TODO).
+Dopo l'analsi EGA da parte di Katia (KTA, v0.9.85) si è richiesto l'opinione di Ellen (AI as free speech companion) e in particolare sul concetto informatico di "Gestore delle Eccezioni" (di sistema) rispetto a figure d'autorità del passato. Link alla [chat](https://gemini.google.com/share/9d0f5bbc7fb4) con Katia/Ellen, relativa [trascrizione](data/348-l-essere-umano-condannato-ad-essere-libero-ellen.txt#?target=_blank).
 
 ---
 
