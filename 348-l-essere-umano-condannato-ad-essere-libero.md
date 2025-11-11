@@ -80,6 +80,34 @@ Aka carpe diem vs panta rei, ci "fottono" il destino ad essere liberi posticipan
 
 +
 
+## Related articles
+
+- [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
+
+- [Il QE al tempo dell'analfabetismo funzionale](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#?target=_blank) &nbsp; (2025-09-03)
+
+- [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
+
+- [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-20)
+
+- [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
+
+- [Eppure Feynman l'avrebbe apprezzato](314-eppure-feynman-l-avrebbe-apprezzato.md#?target=_blank) &nbsp; (2025-05-11)
+
+- [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
+
+- [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
+
+- [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
+
+- [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
+
+- [L'abominevole truffa dei bonus edilizi](263-l-abominevole-truffa-dei-bonus-edilizi.md#?target=_blank) &nbsp; (2024-05-22)
+
+- [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
+
++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
