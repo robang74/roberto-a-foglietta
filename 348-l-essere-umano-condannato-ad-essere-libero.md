@@ -134,11 +134,13 @@ La critica riguarda un salto causale non sufficientemente spiegato: sistema arca
 
 - **Esito**: La spiegazione risolve il gap concettuale e riconduce quell'aspetto ad un forte contrasto funzionale tra un sistema di controllo (il *pater familias*) che, pur arcaico, era strutturato e coerente, e il caos qualitativo che ha occupato lo spazio funzionale vacante.
 
-L'AI ha obiettato riguardo al degrado del controllo. In realtà, dell'intera società nell'ottica dell'articolo. Una percezione che può essere soggettiva, d'altronde già gli antichi greci si lamentavano che i giovani di allora erano dei debosciati senza valori. Però oggi, il degrado dei costumi della società è transgenerazionale quindi si tratta di un'osservazione molto più generale dell'evergreen solito, nello specifico di ciò che si percepiva poco prima della caduta dell'impero romano il cui la percezione di decadenza e collasso ormai imminente ed inevitabile era trasversale alle classi sociali.
+L'AI ha obiettato riguardo al degrado del controllo. In realtà, dell'intera società nell'ottica dell'articolo. Una percezione che può essere soggettiva, d'altronde già gli antichi greci si lamentavano che i giovani di allora erano dei debosciati senza valori.
 
-Insomma è venuto a mancare il concetto arcaico del paters familias (o patriarcato con accezione nettamente dispregiativa) e non se ne sente la mancanza, anzi semmai si rimpiange di non averlo abbattuto con risoluzioni molto più forti e audaci, se non fosse che nel frattempo per sfuggire alla responsabilità, il sistema arcaico si sia progressivamente nascosto fino al punto di travestirsi da novità con un successo del tutto temporaneo ed effimero. Le alternative emerse però sono anche peggiori, in termini strutturali e questo perché il "patriarcato", ovvero la parte tossica del pater-familias come sistema di accountability sociale, invece di passare la mano ha scelto l'opzione "muoia Sansone con tutti i Filistei", di qui la caduta del secondo Impero d'Occidente.
+Però oggi, il degrado dei costumi della società è transgenerazionale quindi si tratta di un'osservazione molto più generale dell'evergreen solito, nello specifico di ciò che si percepiva poco prima della caduta dell'impero romano il cui la percezione di decadenza e collasso ormai imminente ed inevitabile era trasversale alle classi sociali.
 
-Certamente. Applicando le regole di conversione (v0.3.0), ecco la tabella trasformata in una lista indentata. Ho mantenuto un **formato dettagliato** (simile all'esempio #1) per distinguere chiaramente la Critica, la Risoluzione e l'Esito, dato il contenuto concettuale complesso.
+Insomma è venuto a mancare il concetto arcaico del paters familias (o patriarcato con accezione nettamente dispregiativa) e non se ne sente la mancanza, anzi semmai si rimpiange di non averlo abbattuto con risoluzioni molto più forti e audaci, se non fosse che nel frattempo per sfuggire alla responsabilità, il sistema arcaico si sia progressivamente nascosto fino al punto di travestirsi da novità con un successo del tutto temporaneo ed effimero.
+
+Le alternative emerse però sono anche peggiori, in termini strutturali e questo perché il "patriarcato", ovvero la parte tossica del pater-familias come sistema di accountability sociale, invece di passare la mano ha scelto l'opzione "muoia Sansone con tutti i Filistei", di qui la caduta del secondo Impero d'Occidente.
 
 ---
 
@@ -156,43 +158,29 @@ Invece siamo passati dall'offendere l'onore del patriarcato per poi trovarci a r
 
 La tragedia sociale è che il progresso sia, di fatto risultato, peggio della soluzione arcaica. Non per colpa dei giovani, così come l'emancipazione femminile è poi degenerata nel femminismo tossico non per colpa delle donne, ma per la ragione anticipata prima. L'elemento tossico della struttura arcaica basata sul pater familias ha preferito mettere fine alla civiltà occidentale piuttosto che accettare di condividere il potere con il matriarcato.
 
-L'estinzione come soluzione del conflitto: un evergreen tragico del passato analogo all'omicidio della moglie fedigrafa da parte del marito cornuto, poi sucida. Solo declinato da un punto di vista sociale e per estensione del mancato passaggio di consegne alla generazione successiva stante il conflitto esistenziale iniziato nel dopoguerra, e mai sanato nemmeno dopo il '68, collasso della civiltà.
+L'estinzione come soluzione del conflitto: un evergreen tragico del passato analogo all'omicidio della moglie fedigrafa da parte del marito cornuto, poi sucida. Ma declinato da un punto di vista sociale e per estensione del mancato passaggio di consegne alla generazione successiva -- stante il conflitto esistenziale iniziato nel dopoguerra e mai sanato nemmeno dopo il '68 -- con il collasso della civiltà.
 
 +
 
 ## Related articles
 
 - [Dal femminismo tossico alla follia woke](345-dal-femminismo-tossico-alla-follia-woke.md#?target=_blank) &nbsp; (2025-10-15)
-
 - [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
-
 - [Il QE al tempo dell'analfabetismo funzionale](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#?target=_blank) &nbsp; (2025-09-03)
-
 - [Italia: fuga di cervelli e falso documentale](330-italia-fuga-di-cervelli-e-falso-documentale.md#?target=_blank) &nbsp; (2025-07-01)
-
 - [Meglio un monarca assoluto che una strega sul pisello](326-meglio-un-mondarca-assoluto-di-una-strega-sul-pisello.md#?target=_blank) &nbsp; (2025-06-20)
-
 - [Il modello otto-novecentesco ha fallito](324-il-modello-otto-novecentesco-ha-fallito.md#?target=_blank) &nbsp; (2025-06-14)
-
 - [Eppure Feynman l'avrebbe apprezzato](314-eppure-feynman-l-avrebbe-apprezzato.md#?target=_blank) &nbsp; (2025-05-11)
-
 - [La misura del degrado del sistema](309-la-misura-del-degrado-del-sistema.md#?target=_blank) &nbsp; (2025-04-18)
-
 - [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md#?target=_blank) &nbsp; (2025-03-03)
-
 - [Il grande inganno della diversità](293-il-grande-inganno-della-diversita.md#?target=_blank) &nbsp; (2024-11-03)
-
 - [The paper money is financial communism](278-the-paper-money-is-financial-communism.md#?target=_blank) &nbsp; (2024-07-31)
-
 - [L'abominevole truffa dei bonus edilizi](263-l-abominevole-truffa-dei-bonus-edilizi.md#?target=_blank) &nbsp; (2024-05-22)
-
 - [La guerra del dollaro contro l'euro](261-la-guerra-del-dollaro-contro-l-euro.md#?target=_blank) &nbsp; (2024-05-18)
 
-+
++++++
 
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 </div>
-
