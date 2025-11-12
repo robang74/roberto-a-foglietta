@@ -162,6 +162,8 @@ L'estinzione come soluzione del conflitto: un evergreen tragico del passato anal
 
 ## Related articles
 
+- [Dal femminismo tossico alla follia woke](345-dal-femminismo-tossico-alla-follia-woke.md#?target=_blank) &nbsp; (2025-10-15)
+
 - [Introduzione alla politica, concetti di base](339-introduzione-alla-politica-concetti-di-base.md#?target=_blank) &nbsp; (2025-10-03)
 
 - [Il QE al tempo dell'analfabetismo funzionale](335-il-qe-al-tempo-dell-analfabetismo-funzionale.md#?target=_blank) &nbsp; (2025-09-03)
