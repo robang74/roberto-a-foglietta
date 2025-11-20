@@ -81,9 +81,11 @@ All'interno dell'élite, visto che l'elite era chiamata "Cittadini di Atene" qui
 
 > In conclusione, la tua (4-dummies) osservazione trasforma il Modello 2 (Ober) da un'efficace dinamica di governance interna a un sistema che, quando applicato nella politica estera, rivela un'ipocrisia strutturale che ne limita la validità storica e concettuale.
 
-In pratica Ober ha vinto un premio per aver mistificato il concetto di cittadinanza presso Atene e portato ad esempio uno dei tanti modi che avevano di decidere su determinate questioni (in questo caso il consenso) come quello "dominante" o "maggioritario" quando invece era del tutto specifico. Oltre a chiedersi come mai il modello di democrazia rappresentativa "moderno" non riesce ad imporsi ma deve essere imposto con la forza.
+In pratica Ober ha vinto un premio per aver mistificato il concetto di cittadinanza presso Atene e portato ad esempio uno dei tanti modi che avevano di decidere su determinate questioni (in questo caso il consenso) come quello "dominante" o "maggioritario" quando invece era del tutto specifico.
 
-Infine particolarmente curiosa domanda, come se Ober non fosse sufficientemente adulto e maturo da comprendere la differenza fra seduzione e stupro. Ovvio: gli fa schifo il nostro modello di "democrazia" perché hanno istintivamente disprezzo per governanti che siano così incapaci e impotenti da dover supplicare il voto del popolo, ecco perché!
+Oltre a chiedersi come mai il modello di democrazia rappresentativa "moderno" non riesca ad imporsi ma deve essere imposto con la forza.
+
+Spicca la domanda in quanto particolarmente curiosa, come se Ober non fosse sufficientemente adulto e maturo da comprendere la differenza fra seduzione e stupro. Ovvio: gli fa schifo il nostro modello di "democrazia" perché hanno istintivamente disprezzo per governanti che siano così incapaci e impotenti da dover supplicare il voto del popolo, ecco perché!
 
 +
 
