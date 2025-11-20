@@ -1,11 +1,12 @@
 <div id="firstdiv" created=":EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
-<style>#printlink { display: inline; } @page { size: a4; margin: 0.36in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img src="img/302-politics-and-democracy-for-dummies-img-001.jpg" width="800"><br></div>
 
 ## Politics and democracy for dummies
 
-- Initially published on the same day on [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161498958303736) and [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_good-time-to-explain-how-etymology-works-activity-7302261920118534144-yNrO).
+- **1st edition** -- Initially published on the same day on [Facebook](https://www.facebook.com/roberto.a.foglietta/posts/10161498958303736) and [LinkedIn](https://www.linkedin.com/posts/robertofoglietta_good-time-to-explain-how-etymology-works-activity-7302261920118534144-yNrO).
+- **2nd edition** -- Includes the "Le radici ateniesi della democrazia" by Ober [comparative](#2nd-edition) analysis with Katia.
 
 Seeing the picture above, a meme shared on Facebook, I decided it was a good time to explain how etymology works. So, let's start this journey!
 
@@ -21,7 +22,7 @@ Therefore, in order to understand the etymological meaning of the word "idiot", 
 
 - Politics: late Middle English: from Old French politique 'political', via Latin from Greek politikos, from **politēs** 'citizen', from polis 'city'.
 
-----
+---
 
 ### What was politics about?
 
@@ -49,7 +50,7 @@ Those who were voting for war were going to war. Others voting for cleaning the 
 
 Therefore, politics and democracy were about deciding WHO does WHAT, not about WHO should f*ck all of US in our names because a vast number of ignorant people voted by their guts (or traded their votes for a piece of bread), idiots!
 
-++++++
++
 
 ## ChatGPT/SoNia
 
@@ -64,6 +65,25 @@ Instead, immediately after questioned again about the general meaning, reasons b
 Which is exactly what is expected by SoNia and defines its added-value compared with AleX which is the academic-like peer-review dedicated prompt, essential but not for divulgation oriented not-so-much user-friendly for common people.
 
 - [Introducing SoNia' seamless chat experience](https://robang74.github.io/chatbots-for-fun/html/introducing-sonia-seamless-chat-experience.html) &nbsp; (2025-06-13)
+
++++++
+
+<span id="2nd-edition"></span>
+## Le radici ateniesi della democrazia
+
+* Gemini/katia [Chat](https://gemini.google.com/share/306b6fb6d8fd) e sua [trascrizione](../data/le-radici-ateniesi-della-democrazia-katia.txt#?target=_blank)
+
+Parla Josiah Ober, docente di teoria politica all’Università di Stanford. Lo studioso ha recentemente ricevuto il Premio Balzan «per le sue ricerche pionieristiche e influenti» sul tema. -- [Articolo](https://ilmanifesto.it/le-radici-ateniesi-della-democrazia) 
+
+> Se dovessimo analizzare il Modello 1 (4-dummies) solo come definizione operativa (chi è dentro/chi è fuori) e il Modello 2 (Ober) come dinamica di gestione (come si governa l'interno), entrambi sono storicamente accurati per descrivere aspetti diversi del sistema ateniese. Ho semplicemente scelto quello che descrive meglio il funzionamento di un modello di gestione della leadership.
+
+All'interno dell'elite, visto che l'elite era chiamata "Cittadini di Atene" quindi una sparuta minoranza che eleggeva i suoi leaders, gli altri non erano nemmeno considerati in termini politici).
+
+> In conclusione, la tua (4-dummies) osservazione trasforma il Modello 2 (Ober) da un'efficace dinamica di governance interna a un sistema che, quando applicato nella politica estera, rivela un'ipocrisia strutturale che ne limita la validità storica e concettuale. 
+
+In pratica Ober ha vinto un premio per aver mistificato il concetto di cittadinanza presso Atene e portato ad esempio uno dei tanti modi che avevano di decidere su determinate questioni (in questo caso il consenso) come quello "dominante" o "maggioritario" quando invece era del tutto specifico. Oltre a chiedersi come mai il modello di democrazia rappresentativa "moderno" non riesce ad imporsi ma deve essere imposto con la forza. 
+
+Infine particolarmente curiosa domanda, come se Ober non fosse sufficientemente adulto e maturo da comprendere la differenza fra seduzione e stupro. Ovvio: gli fa schifo il nostro modello di "democrazia" perché hanno istintivamente disprezzo per governanti che siano così incapaci e impotenti da dover supplicare il voto del popolo, ecco perche!
 
 +
 
