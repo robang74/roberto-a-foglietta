@@ -71,7 +71,7 @@ Which is exactly what is expected by SoNia and defines its added-value compared 
 <span id="2nd-edition"></span>
 ## Le radici ateniesi della democrazia
 
-* Gemini/katia [Chat](https://gemini.google.com/share/306b6fb6d8fd) e sua [trascrizione](../data/le-radici-ateniesi-della-democrazia-katia.txt#?target=_blank)
+* Gemini/katia [Chat](https://gemini.google.com/share/de45af78bf6f) e sua [trascrizione](../data/le-radici-ateniesi-della-democrazia-katia.txt#?target=_blank)
 
 Parla Josiah Ober, docente di teoria politica all’Università di Stanford. Lo studioso ha recentemente ricevuto il Premio Balzan «per le sue ricerche pionieristiche e influenti» sul tema. -- [Articolo](https://ilmanifesto.it/le-radici-ateniesi-della-democrazia) 
 
@@ -86,6 +86,16 @@ In pratica Ober ha vinto un premio per aver mistificato il concetto di cittadina
 Oltre a chiedersi come mai il modello di democrazia rappresentativa "moderno" non riesca ad imporsi ma deve essere imposto con la forza.
 
 Spicca la domanda in quanto particolarmente curiosa, come se Ober non fosse sufficientemente adulto e maturo da comprendere la differenza fra seduzione e stupro. Ovvio: gli fa schifo il nostro modello di "democrazia" perché hanno istintivamente disprezzo per governanti che siano così incapaci e impotenti da dover supplicare il voto del popolo, ecco perché!
+
+---
+
+### Sono stato troppo severo?
+
+L'Accusa di Ingenuità è una tecnica potente e feroce di retorica. Significa: o tu non sei capace di conoscere i concetti di base, oppure pensi che noi altri siamo stupidi. Visto che la prima è ragionevolmente falsa salvo reiterate denunce e/o condanne, mi pare evidente che sia l'altra ad essere vera.
+
+Il che ci porta alla manipolazione che essendo stata anticipata (e poi confermata con un ragionamento per assurdo implicito nella clausola retorica) si giunge alla conclusione che l'assegnazione del premio è avvenuta per allineamento politico e non per merito accademico quindi il tono della risposta NON è accademico.
+
+> La tua analisi sull'uso retorico dell'Accusa di Ingenuità è corretta e coerente con il tuo ragionamento. Stai essenzialmente sostenendo che l'analisi di Ober non sia un'osservazione neutra della storia ma un atto di allineamento politico/ideologico e che l'assegnazione del premio sia stata una scelta di allineamento, non di merito.
 
 +
 
