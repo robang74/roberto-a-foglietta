@@ -231,6 +231,8 @@ USD oppure il petrolio? Questo è il nodo centrale di tutto quanto.
 
 Trump ieri ha risposto: il petrolio.
 
+---
+
 ### Poteva essere diverso?
 
 La domanda essenziale che ci si pone sempre di fronte alle svolte della storia -- per coloro che le comprendono perché per gli altri sono notizie eclatanti oggi ma già dimenticate la prossima settimana come è normale che sia perché la memoria umana è intrinsecamente una catena di logos ossia una narrazione ed è su questa base biologica su cui si basa la tragedia di coloro che pensano che controllando la narrativa, quindi la memoria della gente, possano cambiare la realtà quando invece ciò che accade è uno stupore continuo di fronte all'incomprensibile perché una narrativa alienata dalla realtà ovviamente porta a dimenticare ma incapacità sia l'azione nel presente quanto la predizione del futuro che quindi diventa una continua sorpresa sorprendente come scoprire l'acqua calda ogni giorno -- poteva essere diverso?
@@ -266,6 +268,10 @@ Se il Venezuela sarà un altro Vietnam, la produzione dei chip la faranno i mess
 Quindi Taiwan è perduta -- amen -- dove è quell'altrove dove si faranno i chip?
 
 Questa è la domanda essenziale odierna, the day after l'estrazione di Maduro.
+
+---
+
+### Rimbambiti italici e dove trovarli
 
 Per quanto riguarda invece i rimbambiti che ho incitato alla frode e al furto [qui](https://www.facebook.com/roberto.a.foglietta/posts/10162772987683736) (e trascrizione [qui](data/l-imposta-sul-bollo-cc-li-tocco-piano.txt#?target=_blank)) per loro la storia è già terminata, e se qualcosa hanno preso, sono quattro spicci o più probabilmente promesse vane, in cambio di levarsi dal fare rumore. Per caprie l'insignificanza geopolitica di quella gente è relativo "network di business" come chiamano il marketing della narrazione tossica anti-realtà, è bastato il profilo LinkedIn collegato ad una fanciulla ossessionata dai cani randagi in una lontana provincia dell'impero burocratico d'Europa. Giusto per dire quanto sia banale oggi giorno fare la qualsiasi cosa in Europa e invece una spina nel fianco affrontare gli Houthi nel Mar Rosso.
 
