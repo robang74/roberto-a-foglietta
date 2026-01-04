@@ -267,6 +267,10 @@ Quindi Taiwan è perduta -- amen -- dove è quell'altrove dove si faranno i chip
 
 Questa è la domanda essenziale odierna, the day after l'estrazione di Maduro.
 
+Per quanto riguarda invece i rimbambiti che ho incitato alla frode e al furto [qui](https://www.facebook.com/roberto.a.foglietta/posts/10162772987683736) (e trascrizione [qui](data/l-imposta-sul-bollo-cc-li-tocco-piano.txt#?target=_blank)) per loro la storia è già terminata, e se qualcosa hanno preso, sono quattro spicci o più probabilmente promesse vane, in cambio di levarsi dal fare rumore. Per caprie l'insignificanza geopolitica di quella gente è relativo "network di business" come chiamano il marketing della narrazione tossica anti-realtà, è bastato il profilo LinkedIn collegato ad una fanciulla ossessionata dai cani randagi in una lontana provincia dell'impero burocratico d'Europa. Giusto per dire quanto sia banale oggi giorno fare la qualsiasi cosa in Europa e invece una spina nel fianco affrontare gli Houti nel Mar Rosso.
+
+Il che ci porta a pensare che probabilmente il dualismo energia-chip non è tutto.
+
 +
 
 ## Related articles
