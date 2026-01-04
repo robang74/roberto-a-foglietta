@@ -1,10 +1,12 @@
 <div id="firstdiv" created="2024-07-31:EN" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="bwsketch" src="img/278-the-paper-money-is-financial-communism-img-001.png"><br/></div>
 
 ## The paper money is financial communism
 
-* Published Jul 31, 2024 - origin [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) article
+* **1st edition** -- 2024-07-31, originated from one of my [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) article
+* **2nd edition** -- 2026-01-04, l'[estrazione](#2nd-edition) di Maduro e il riasetto geopolitico
 
 ---
 
@@ -64,7 +66,7 @@ It is like selling the same gold bar multiple times to multiple people. Everyone
 
 In the monetary-financial system, it does not even exist the gold bar to grant the paper money but the big-red-button. Do not dare to oppose to us because we can destroy the world with our nuclear bombs.
 
----
+----
 
 ### Notes about the terminology
 
@@ -102,7 +104,7 @@ Now there is a lot of money around and this kind of scam can grow bigger and fas
 
 Inflation is not production. The surplus value (added value) is just related to numbers which are unlimited not about real think that are naturally scarce like the gallons of milks that a cow can produce.
 
----
+----
 
 ### From capitalism to the financial communism
 
@@ -174,8 +176,8 @@ I chose Mistral AI because at that time, and it still is, it was the most advanc
 
 I think you may be impressed by the chatbot Q&A dialogue and its conclusion, like I was.
 
-<br/>
-
++
+++++
 ## The Fugio cent
 
 > The Fugio cent, also known as the Franklin cent, is the first official circulation coin of the United States. Consisting of 0.36 oz (10 g) of copper and minted dated 1787, by some accounts it was designed by Benjamin Franklin. - [Wikipedia](https://en.wikipedia.org/wiki/Fugio_cent)
@@ -204,31 +206,91 @@ However, "*we are one*" is not a concept exclusively European. The same concept 
 
 Lately, in the post U.S. civil war era, the symbolism clearly evolves towards a kind of mix made of Roman Empire signs and Free-Masonry mottoes or beliefs. Showing quite a contamination compared to the pragmatic and practical culture of those who were colonial people.
 
-<br/>
++
+
+<span id="2nd-edition"></span>
+## L'estrazione di Maduro e il petrolio
+
+Coloro che festeggiano la caduta del "dittatore" Maduro come "amico di Putin" non sanno che Maduro è caduto proprio perché Russia e Cina hanno tolto il loro supporto al Venezuela. Per capire perché lo abbiano fatto occorre fare un passo indietro.
+
+Durante il G7 in Puglia (Italia) nel 2024 avrebbe dovuto essere rinnovato dopo 50 anni l'accordo sul petroldollaro ma il firmatario ha mandato un telegramma di defezione all'ultimo minuto. Quindi il dollaro americano ha perso l'ultimo collaterale che ne garantiva la credibilità finanziaria, perché in quell'ambiente ormai è tutta una questione di carteggio e anche il carteggio è venuto meno.
+
+Così nel 2026, gli USA si trovano ad affrontare il muro degli interessi sul debito pubblico che ormai viaggia a quota $38T mentre la somma di quello pubblico e privato veleggia per i $110T, sono cifre mostruse se consideriamo che le ferrorive degli USA sono ancora al '900, quasi metà degli USA sono deserto e nonostante consumino più energia di quanto ne producano sono esportatori di GNL. L'energia infatti la producono tramite centrali nucleari con combustibile quasi esclusivamente russo della Rosatom.
+
+A questo punto appare chiaro che la Russia preferisce vendere alla Cina e per la Cina il GNL americano è troppo costoso. I rapporti fra Maduro e Putin erano quindi solo fra esportatori di greggio e a quel punto diventa inevitabile l'accordo: cade Maduro, gli USA mettono a collaterale del loro debito pubblico le riserve petrolifere del Venesuela, la Cina compra dalla Russia che non deve più mettere a rischio i trasporti di fronte all'Europa.
+
+Questo però significa che l'Ucraina non è più strateggica per gli USA e non lo è nemmeno la sorte del campo di gas naturale di fronte al mar di Gaza affidato alla Eni Italia che è la ragione della crisi del 7 ottobre 2023. Una crisi che avrebbe dovuto avantaggiare notevolmente la posizione di ENI in quella regione ma si è rivelata un boomerang.
+
+Ergo coloro che festeggiano non hanno compreso il riasetto geopolitico che è intervenuto a partire dal 2022, o meglio dal 2019 (covid), o dal 2013-2015 (Euromaidan, Minsk 1 e 2) o dal 2006-8 (subprime loan, Putin Monaco, NATO Budapest) o dal 2000-2001 (Euro, crisi dotcom, Cina WTO, G8 Genova, USA 9/11) o dal 1991-2 (scioglimento URSS) o dal 1973 (fine accordi Bretonwood) o dal 1963 (Assasinio JFK) e quindi da quando la finanziarizzazione del dollaro è cominciata.
+
+Il punto di svolta poteva essere la caduta del muro di Berlino (1989) ma già nel 1992 la dottrina Wolfowitz lasciava poche speranze e la fine di Mani Pulite nel 1994 alzò il sipario di quello che era un teatro di intrattenimento nel quale Gheddafi è stato deposto mentre Putin ha messo in discussione l'impianto geopolitico e quindi è diventato nemico della NATO l'anno dopo.
+
+Qual'è la valuta commerciale e di riserva di valore nel mondo?
+
+USD oppure il petrolio? Questo è il nodo centrale di tutto quanto.
+
+Trump ieri ha risposto: il petrolio.
+
+### Poteva essere diverso?
+
+La domanda essenziale che ci si pone sempre di fronte alle svolte della storia -- per coloro che le comprendono perché per gli altri sono notizie eclatanti oggi ma già dimenticate la prossima settimana come è normale che sia perché la memoria umana è intrisecamente una catena di logos ossia una narrazione ed è su questa base biologica su cui si basa la tragedia di coloro che pensano che controllando la narattiva, quindi la memoria della gente, possano cambiare la realtà quando invece ciò che accade è uno stupore continuo di fronte all'incomprensibile perché una narrativa alienata dalla realtà ovviamente porta a dimenticare ma incapacita sia l'azione nel presente quanto la predizione del futuro che quindi diventa una continua sorpresa sorprendente come scoprire l'acqua calda ogni giorno -- poteva essere diverso?
+
+Dipende da quando ci si pone questa domanda e non è banale, si poteva essero se l'assassinio di JFK fosse fallito come quello di Trump. In quel caso la reazione del presidente americano sarebbe stata molto dura e probabilmente avrebbe avuto successo perché a quel punto appariva ovvio che la determinazione degli antagonisti (america vs america) era assoluta e JFK da parte sua poteva solo riuscire o morire. Quindi si, poteva essere diverso come dimostra la presidenza Trump. Ma è andata diversamente quindi ora siamo nell'era Trump, anno secondo.
+
+Quindi la domanda oggi ha senso porsela nuovamente: poteva essere diverso? Poteva Trump scegliere un'altra strada? No, anzi è stato costretto ad accelerare sul Venesuela proprio per evitare ciò che accadde invece in Ucraina il 24 febbraio 2022 in cui l'operazione speciale che aveva lo scopo di prendere il controllo dell'areoporto di Kiev per aprire un ponte aereo con il quale prendere Kiev. Un'operazione speciale che fallì, perché le difese Ucraine avevano avuto l'addestramento, le armi, l'informative e tutto il supporto possibile dal 2014 in poi. Quindi erano determinati e pronti, nel 2022. 
+
+Dal canto suo la Russia non è fallita sotto lo shock finanziario che avrebbe dovuto drenare liquidità nelle commodity prezzate sul riferimento del prezzo del gas della piazza di Amsterdam che era soggetto ad uno stratagemma che ne faceva salire artificiosamente il prezzo. Come la bolla dei bulbi di Tulipani, all'inizio avrebbe concentrato capitali e poi come un buco nero li avrebbe cancellati. Questo shock di liquidità, insieme alle sanzioni, avrebbero dovuto mettere in ginocchio la Russia o per lo meno questo in estrema sintesi era il piano che invece è andato in mona perché il trucco è stato scoperto.
+
+Al fallimento di questo piano (late 2022), ha fatto seguito la crisi di Gaza (late 2023) ma anche quella è stata un disastro, quindi l'elezione di Trump (late 2024) e già al suo insediamento l'hype dell'AI aveva fatto quello avrebbe dovuto fare il trucco del prezzo del gas: concentrazione di enormi capitali in mano a poche persone: una manciata di CEO che alla fine si sono trovati tuti quanti seduti al tavolo da pranzo con Trump. Perché l'AI non esiste senza energia.
+
+Quindi la sequenza di eventi che ci porta all'insiediamento di Trump, già imponeva a Trump determinate scelte: 1. l'AI come driver dell'economia americana perché il boom della costruzione delle infrastrutture e riapertura delle centrali nucleari, il rapporto debito/PIL avrebbe distrutto l'America; 2. l'energia come commodity universale senza la quale nulla è possibile. Il dollaro si stampa, come fosse carta igienica, ma senza energia è zero.
+
+Trump ha capito benissimo la situazione e l'ha saputa gestire altrettanto bene. Infatti ha raccolto investimenti e contratti per $3.2T nel 2025 per l'AI dai paesi arabi quindi dagli sceicchi che sono (o meglio erano) anche i signori del petrolio. Nel Mediterraneo, sicuramente lo sono ancora, spercialmente dopo la crisi del Mar Rosso. Se l'energia è la commodity universale, la tecnologia è la chiave di volta e in particolare la produzione di chip che però è concentrata a Taiwan, un'isola nello spazio geopolitico cinese la cui sovranità è contestata dalla Cina.
+
+L'egemonia tecnologia e della produzione di Chip lo dimostra bene la curva inflazionistica del costo della memorie RAM che da quando OpenAI si è assicurata preventivamente il 40% della produzione mondiale, è salito del 628%. Cosa simile ha fatto Nvidia sviluppando hardware anche per le backbone dei data center sempre più fantascientifico e si è assicurato per tre anni l'esclusiva sulla produzione di chip per l'inferenza da parte di Groq. Ma è davvero necessario tutto questo hardware? No per l'AI ma lo è per ragioni geopolitiche che ci spiega bene il cambio di strategia di mercato/produzione di Crucial.
+
+Intanto occorre premettere che la divisione mobile di Samsung si è vista negare la fornitura di memoria da parte di Samsung electronics perché conviene vendere RAM per i data center piuttosto che per gli smartphone. Crucial, che ha una posizione di rilievo nel mercato consumer ed è un brand molto apprezzato dai modders, ha fatto una scelta simile: ha deciso di abbandonare il mercato consumer per servire esclusivamente quello datacenter.
+
+Quando questa bolla dell'AI sarà esplosa anche se l'AI come strumento non passerà di moda semplicemente passerà di moda il modello inflazionistico attuale. Succederanno diverse cose: 1. ci saranno centri di calcolo sotto utilizzati quindi cloud a basso costo ma in un mondo nel quale anche il paradigma dei dati come nuovo petrolio sarà superato; 2. ci saranno centrali nucleari sotto-utilizzate ma già pagate che però potranno andare a supplire la domanda dell'auto elettrica, specialmente in america perché in Europa ci meniamo il belino a turbine e pannelli solari (almeno a sentir parlare i media); 3. l'industria del chip collasserà.
+
+Il terzo punto è quello centrale. Il costo dei chip deve salire a dismisura per convincere le aziende a costruire fonderie altrove che a Taiwan. Perché piaccia o meno, Taiwan è persa come e anche più della marina americana nel Mar Rosso. Quindi l'estrazione di Maduro non è la conquista del Venezuela, ma la rimozione dalla carica di presidente di un paese devastato, con inflazione e povertà da terzo mondo, e con divisioni interne feroci. Maduro è stato estratto con più difficoltà di quanto Trump non ne abbia avuto a comprarsi l'elezione di questo Pontefice ma conquistare il Venezuela e quindi porre sotto il controllo americane le loro riserve petrolifere e con esse consolidare il debito pubblico americano è tutt'altra storia. Il Vietnam dovrebbe ricordare qualcosa agli americani a riguardo.
+
+Quindi la risposta di Trump è stata chiara: l'energia è la commodity universale ossia la moneta del mondo, il resto sono carteggi su CHI controlla l'energia. Dalla parte opposto c'è l'opposto della "commodity" che in economia si chiama "scarcity" che è la tecnologia, attualmente declinata come chip. Perché nell'economia solo ciò che é materiale quindi ha un elemento intrinsiche difinitezza è reale. Detto in altre parole se l'energia è il fondamentale abilitante, mentre il chip sono i mezzi di produzione del valore aggiunto che bisogna produrre altrove che a Taiwan e in questo contesto pare che Singapore in tandem con la Malesia sia in pole-position.
+
+Singapore perché da ex-colonia britannica è un paese in common-law e con un altissimo tenore di vita ma piccolo, pertanto come porebbe essere il Liechenstain è ottimo per la gestione dell'IP dei chip. Mentre la Malesia è la concorrente povera di Taiwan o meglio è la Taiwan prima dei chip: costi di impianto e manod'opera bassissimi. Perché oggi come agli inizi del '900 quello che muove tutto nell'industria è il differenziale fra costo di produzione e prezzo di vendita. Anche quando si tratta di produzione strategica, quello è il determinante. Non stupisce quindi che la finanziarizzazione sia una malattia mentale profondamente radicata negli occidentali.
+
+Quindi gli americani giocano una partita in cui l'Ucraina è persa, ma anche Taiwan è persa. Perciò Trump punta a mettere le riserve petrolifere del Venezuela a collaterale del dollaro. Ossia, in termini pratici a fare in modo che sia il Venezuela a pagare per gli americani. Però conquistare il Venezuela non sarà facile come lo è stato conquistare il Vaticano. Non sarà facile come è stato convincere gli Arabi ad investire nell'AI, salvo poi scoprire che gli ultimi 18 mesi di progressi negli LLM sono fuffa, per l'80-90%. Non sarà facile come mettere Netanyau e gli UK nella merda.
+
+Se il Venezuela sarà un altro Vietnam, la produzione dei chip la faranno i messicani dopo essersi presi la California, non ideologicamente come i democratici americani si sono presi l'Europa corrompendo l'elite a Bruxells. No, intendo proprio che la California ritornerà al Messico e i saranno i messicani a fare anche i chip quindi il futuro dell'informatica potrebbe paralre messicano, non più inglese. Oggi, uno scenario del genere sembra follia o fantascenza. Non è detto che accada, tante cose sono in ballo e troppe per essere certi di qualcosa in particolare. Ma è uno scenario concretamente possibile. Come si usa dire nella meccanica quantistica, è una canale aperto e non solo accessibile mediante effetto tunnel.
+
+Quindi Taiwan è perduta -- amen -- dove è quell'altrove dove si faranno i chip?
+
+Questa è la domanda essenziale odierna, the day after l'estrazione di Maduro.
+
++
 
 ## Related articles
 
 - Q&A - [Valutazione di un nuovo modello monetario](https://robang74.github.io/chatgpt-answered-prompts/html/valutazione-di-un-nuovo-modello-monetario.html) &nbsp; (2024-11-26)
-
++++++
 - Q&A - [Paper Money is financial communism](https://robang74.github.io/chatgpt-answered-prompts/html/paper-money-financial-communism-03.html) &nbsp; (2024-09-15)
-
++++++
 - 267 - **La libertà d'informazione è fondamentale** - download [[**`PDF`**](../pdf.todo/267-La_libertà_d_informazione_è_fondamentale.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/la-libert%C3%A0-dinformazione-%C3%A8-fondamentale-roberto-a-foglietta-qaj4f) &nbsp; (2024-06-26)
-
++++++
 - 261 - [La guerra del dollaro contro l'euro](https://robang74.github.io/roberto-a-foglietta/html/261-la-guerra-del-dollaro-contro-l-euro.html) &nbsp; (2024-05-18)
-
++++++
 - 254 - **Steve Jobs era un socialista** - download [[**`PDF`**](../pdf.todo/254-Steve_Jobs_era_un_socialista.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/steve-jobs-era-un-socialista-roberto-a-foglietta-hhrif) &nbsp; (2024-04-27)
-
++++++
 - 252 - **Proprietà Privata vs Social Score** - download [[**`PDF`**](../pdf.todo/252-Proprietà_Privata_vs_Social_Score.pdf?target=_blank)] origin [LinkedIn](https://it.linkedin.com/pulse/propriet%C3%A0-privata-vs-social-score-roberto-a-foglietta-uknuf) &nbsp; (2024-04-14)
-
++++++
 - 234 - [The Ubuntu society, pros vs cons](234-ubuntu-society-pros-vs-cons.md#?target=_blank) &nbsp; (2023-10-06)
-
++++++
 - 232 - **The great confusion about socialism** - download [[**`PDF`**](../pdf.todo/232-The_great_confusion_about_socialism.pdf?target=_blank)] origin [LinkedIn](https://www.linkedin.com/pulse/great-confusion-socialism-roberto-a-foglietta-1e) &nbsp; (2023-05-11)
 
-<br/>
++
 
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 </div>
-
