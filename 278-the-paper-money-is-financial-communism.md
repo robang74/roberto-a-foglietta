@@ -234,6 +234,34 @@ The first is about individual sovregnity and aligned with the fundamentals amend
 
 The strongest and most dangerous chains aren't made by steel but fear.
 
+---
+
+### Fake news or stupidity strikes hard?
+
+It is hard to believe for a simple reason: unrealised gains tax impacts much more the traditional finance rather than the Bitcoin. Let me explain, Tesla stock price rises, at the end of year is +33% and people can decide to keep or sell 12% to pay taxes, price drops by 12%.
+
+The price drops, the unrealised revenues drop. Hence the tax absolute figure drops, then sales drops, thus the price arises, and so on. At the end of this series, it is just a tax of 8.74% on property paid each year unless losses are accounted for but fiat-currency loses value.
+
+Every fiat currency is doomed to lose value in terms of real power of buying (commodities like iron ore or oil), everything including the stock prices raise, and this raises create taxation by 8.74%. The Netherlands are going to put a tax on the fiat-currency inflation caused by BCE monetary QE policy that inflates public debts.
+
+Finally the tax on unrealised gains means taxing productive companies because politics is unable to make the state machine working properly unless burning more money than they can collect by taxes despite rising taxes systematically directly or indirectly by norms.
+
+That would be insane, **GULP**!
+
+---
+
+### Idiocracy: the banality of the evil strikes back
+
+What is the problem that they are trying to address? A professional speculator gains +33% over a year, then before closing the balance sheet for the tax at the end of the year moves that +33% in bitcoin which short term fluctuation can be insuranced with options costing few %points.
+
+In this scenario, the present total earning is 0 and the cost of this tax evasion is a few %point in the worst case or a positive gain. That's real and it shows how much modern times requires modern solutions rather than norms that create a vicious loop of absurdities.
+
+Solution? Accept that pure financial speculation cannot be taxed unless: 1. by a Robin Tax in pure terms (not the domesticated one) which suck a micro % at each transaction like banks do with plastic payments (and they should not because taxing people is a state exclusivity) and 2. let consumers pay VAT (currently 22%) and accept that fiat-currency exists only when a real good or service creates a transaction, otherwise they are just numbers on some other servers.
+
+At that point, they would question why 1. BCE exists as a private body, 2. why QE is allowed, and reaching the conclusion that fiat-currency is financial communism, because it works the same but without a single political party but idiocracy aka many but useless, divisive and noisy.
+
+Grok criticised the Robin Tax: It doesn't cleanly solve the "pure speculation" problem without broader distortions. -- **FALSE**, that studies are wrong and the implementations have been even more wrong: the credit card fees on payments shown that it works when applied at systemic level as the banks do but they shouldn't do it because "at systemic level" means "taxation" and taxing people is a state exclusivity.
+
 +
 
 <span id="2nd-edition"></span>
