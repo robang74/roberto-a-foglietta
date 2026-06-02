@@ -7,6 +7,7 @@
 
 * **1st edition** -- 2024-07-31, originated from one of my [LinkedIn](https://www.linkedin.com/pulse/paper-money-financial-communism-roberto-a-foglietta-3ag5f) article
 * **2nd edition** -- 2026-01-04, Maduro's [removal](#2nd-edition) and the geopolitical realignment
+* **3rd edition** -- 2026-06-02, [Business Segregation is Apartheid](#3rd-edition), continues the 1st edition.
 
 ---
 
@@ -209,6 +210,29 @@ The Franklin original version is pure U.S. history while the changes are from Eu
 However, "*we are one*" is not a concept exclusively European. The same concept has been expressed in many other places, in many different ages and from different cultures. In particular the Sud-African tribes "*Ubuntu*" concept is quite similar in the meaning just. In particular because the cultural gap, sometimes, is so wide that it is difficult to grab all the nuances in the meaning.
 
 Lately, in the post U.S. civil war era, the symbolism clearly evolves towards a kind of mix made of Roman Empire signs and Free-Masonry mottoes or beliefs. Showing quite a contamination compared to the pragmatic and practical culture of those who were colonial people.
+
++
+
+<span id="3rd-edition"></span>
+## Business Segregation is Apartheid
+
+Il concetto di denaro "virtuale" stampato in quantità pressoché illimitata dalle banche centrali (QE, quantitative easying, allegerimento della moneta, ossia inflasione dei prezzi) ha delle consequenze molto più profonde che quelle implicite nella sua definizione.
+
+Una di queste è la finanziarizzazione dell'economia: chi controlla la produzione di denaro virtuale (aka denaro cartolare, o nuova emissione) controlla l'economia e l'economia è quella cosa che riguarda la produzione di beni e servizi come elemento di scarsità. Il nostro lavoro vale non perché è pregiato ma perché "pregiato" è "scarso".
+
+Scritto così pare un ossimoro perché o è pregiato o è scarso, ma non stiamo parlando del livello di qualità, stiamo parlando usando termini economici e quei termini significano: per fare un lavoro di alta precisione (pregiato) serve la precisione AND alta (non comune, quindi scarsa). Perché il termine "scarso" significa che non è banale da trovare. Ci vuole impegno e quell'impegno ha un costo: educazione, formazione, gestione, pianificazione, operatività, etc.
+
+Una volta che l'impresa economica è avviata e florida, perché produce "pregio" che è "scarso", la banca richiama i prestiti precedentemente erogati e "bam" di colpo l'azienda si ferma quindi fallisce e può essere comprata per un $1: questo è un furto legalizzato. Ma la cosa peggiore non è che l'impresa può NON aver MAI contratto un solo euro di debito, però magari un manager, magari il figlio tossicodipendente di un direttore, magari la moglie malata di cancro di ingegnere che ha un ruolo centrale oppure un fornitore o un cliente importante hanno quel tipo di problematica. Quindi anche un'azienda che appoggiasse su fondamenta di granito, picconate oggi e picconate domani, nel giro di 10 anni si distrugge.
+
+Il denaro virtuale, non conosce il concetto di tempo, tranne quando viene prestato ad interesse, allora lo conosce benissimo. Altrimenti no, perché in quanto virtuale se ieri serviva creare un $1 e oggi $2, si creano $2. Oltre a questo, c'è un pattern ricorrente che vedo ripetersi sempre più spesso e che in inglese ho espresso in questo modo:
+
+- "stay focused on your business", it means that we aren't allowed to do anything else.
+
+I am not surprised. Anyway, it is worth to notice that on the Fugio cent (the first coin made by US Constitution fathers) there was written: "mind your business" but it was to be intended in a completely different manner: "do what is matters for you" and not "you aren't allowed to do anything else than you are doing for living".
+
+The first is about individual sovregnity and aligned with the fundamentals amendments while the second has a specific name "segregation" , a term that refers to South Africa before Mandela. Business segregation is the same but more "politically correct". We are not black/white or fe/male or citizens/aliens anymore, we are "allowed" or not.
+
+The strongest and most dangerous chains aren't made by steel but fear.
 
 +
 
