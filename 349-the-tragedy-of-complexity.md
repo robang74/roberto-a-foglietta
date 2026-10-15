@@ -7,6 +7,8 @@
 
 - **1st edition**, transcription of my [LinkedIn post](https://lnkd.in/p/dH2iyTFN) published on 11th October 2026.
 
+- **2nd edition**, Three examples at higher scale based on three LinkedIn posts of mine.
+
 ---
 
 ### Premise
@@ -105,11 +107,11 @@ But your comment currently moves too quickly from documented economic risks to a
 
 ### The economic argument: what works, what doesn't
 
-1. The sovereign–bank nexus is real. A government losing the confidence of bond investors can weaken banks holding its debt. Conversely, a bank crisis can put pressure on public finances. The German Bundesbank has explicitly examined this interconnected risk in its September 2026 report. This is the strongest foundation for your comment because it explains how risk crosses national borders without requiring a conspiracy.
+1. **OK** -- The sovereign–bank nexus is real. A government losing the confidence of bond investors can weaken banks holding its debt. Conversely, a bank crisis can put pressure on public finances. The German Bundesbank has explicitly examined this interconnected risk in its September 2026 report. This is the strongest foundation for your comment because it explains how risk crosses national borders without requiring a conspiracy.
 
-2. France is a current example, not merely a hypothetical one. Eurostat's 2025 figures put France's government deficit at 5.1% of GDP and its debt at 115.6%. Italy's debt was 137.1%, Greece's 146.1% and Spain's 100.7%. These figures support your wider point about sovereign vulnerability, but they do not establish that all four countries have the same risk profile. Reuters also reported in October 2026 that the French–German 10-year bond spread had exceeded 150 basis points, its highest level since the eurozone debt crisis of 2011.
+2. **OK** -- France is a current example, not merely a hypothetical one. Eurostat's 2025 figures put France's government deficit at 5.1% of GDP and its debt at 115.6%. Italy's debt was 137.1%, Greece's 146.1% and Spain's 100.7%. These figures support your wider point about sovereign vulnerability, but they do not establish that all four countries have the same risk profile. Reuters also reported in October 2026 that the French–German 10-year bond spread had exceeded 150 basis points, its highest level since the eurozone debt crisis of 2011.
 
-3. “Germany is France's guarantor” is a metaphor, not the legal arrangement. Article 125 of the EU Treaty rejects the automatic assumption of another member state's public liabilities. That does not eliminate systemic exposure: political decisions, central-bank measures, rescue mechanisms and cross-border financial relationships can still transmit costs. But those mechanisms need to be identified rather than collapsed into a single presumed guarantee.
+3. **KO** -- "Germany is France's guarantor" is a metaphor, not the legal arrangement. Article 125 of the EU Treaty rejects the automatic assumption of another member state's public liabilities. That does not eliminate systemic exposure: political decisions, central-bank measures, rescue mechanisms and cross-border financial relationships can still transmit costs. But those mechanisms need to be identified rather than collapsed into a single presumed guarantee.
 
 Your broader criticism therefore has a defensible core: a monetary union can distribute the consequences of financial distress beyond the country that originated it, even without a formal guarantee of that country's debt. That's more precise, and ultimately more powerful, than saying Germany has simply handed France a credit card.
 
@@ -148,6 +150,99 @@ The tragedy of complexity is therefore not complexity itself. It is the erosion 
 We are not merely losing the ability to understand complex problems. We are losing awareness of the method required to understand them, while rewarding those who replace that method with allegiance.
 
 That is the deeper argument. It also explains why The Tragedy of Complexity works as the conclusion to your LinkedIn composition: it moves the reader from a dispute about European finance to a question about the epistemic condition of the society having that dispute.
+
++
+
+## Three examples at higher scale
+
+The Tragedy of Complexity isn't a bottom-up phenomenon, only. It is more like a pattern that emerges at every scale size. Which isn't surprising, when the same mindset is ruling at every scale.
+
+For example, the 3% of Public debt vs GDP ratio became an EU financial paradigm because a French village using that "formula" solved their local public debt. They created from nothing a rule of thumb to solve their specific problem, that accidentally worked out because they were seriously committed to solving that problem.
+
+Extracting that "magic" rule unrotted in anything apart from that specific case and raising it as the EU financial stability main criteria, contains two well-known biases: 1. overgeneralization mistake; 2. coincidence is not causation. The first is the inability to know the domain perimeter (a village vs a continent), while the second is about not understanding the cause-effect relationships (the commitment not the magic rule).
+
+After this brief introduction we can evaluate three examples at different scales.
+
+---
+
+### 1. Green Hoax: Australia vs Italy
+
+>  In Australia le batterie non sono più soltanto un supporto alle energie rinnovabili: stanno diventando protagoniste della rete elettrica. In appena due anni, il loro contributo nelle ore di maggiore domanda è cresciuto in modo impressionante, riducendo il ricorso alle centrali a gas utilizzate per coprire rapidamente i picchi di consumo.
+- [https://lnkd.in/p/dYTtqzvq](https://lnkd.in/p/dYTtqzvq)
+
+Piccolo dettaglio ma rilevante: 1. l'Australia è un continente non uno stato densamente abitato e quindi ha immensi spazi per poter installare solare e eolico; 2. il "non densamente abitato" implica la disponibilità di aree desolate distanti 100 km da qualsiasi abitato umano significa che fra produzione, stoccaggio e consumo c'è una barriera geografica importante.
+
+- Cosa significa questo? La tragedia del Vajont docet.
+
+Il problema non è che l'invaso abbia ceduto. Fintanto che la diga regge, si può -- paradossalmente -- accettare che l'invaso ceda più volte a cicli controllabili. La tragedia è che l'evento generato ha impattato in modo devastante un centro abitato. Se quella diga fosse stata 300km nel nulla, e su un corso distante dall'abitato, la tragedia era nulla.
+
+- Il solare + eolico + batterie di accumulo è conveniente? Dipende dai casi.
+
+- È ecologico (aka closed cycle)? A conti fatti su tutta la filiera non lo è. 
+
+La CO2 è davvero la causa oppure è solo un indicatore? Una causa di 2° ordine ma il principale indicatore quindi abbattere la CO2 non risolve il problema, lo maschera. Qualora  degli impianti di accumulazione a batterie prendessero fuoco, il fall-out coprirebbe 300km². In Italia è inaccettabile, in Australia sono la normale distanza fra un centro urbano e l'altro.
+
+Also in this case we have two perspectives and we can argue that none of them is 100% correct or complete. It is worth noting that even in extremely constrained domains like algebraic spaces, the correctness (absence of contradictions) and the completeness are mutually exclusive.
+
+The main problem is about the lack of confrontation. The critics might not be fully correct but underline that the geographic scale, population distribution, and the related risk management aren't comparable, therefore the "solution" cannot be imported as-is. In short, Australia's success isn't related to adding batteries, only.
+
+---
+
+### 2. Siberian plague vs Chernobyl incidents
+
+> Meet Darya Shipilova, 28yo, who worked at Irkutsk's Anti-Plague Institute as a lab technician. She died after smashing a vial of plague bacteria had "pneumonia of unknown aetiology".
+- [https://lnkd.in/p/djSjuzwN](https://lnkd.in/p/djSjuzwN)
+
+Please, consider that this kind of event can be easily fabricated especially in a region like Siberia that is geographically isolated also by intense cold climate. Why fabricate such an incident? They do not need nuclear weapons to attack highly populated European cities. They can achieve the same result with much less effort.
+
+*Pneumonic plague is treatable with prompt antibiotics if recognized early, is not as effortlessly weaponizable or deliverable at city scale as some imagine, and a noisy local incident with quarantines would be a poor way to conceal or enable such an operation.* Unless it is a common-antibiotic resistant pathogen which is the type of research she was involved in, and they might have the only antibiotic / drug that can stop it.
+
+Under these circumstances a single death toll and 200 people at risk could be a price to pay in a specific (safer or relatively easier to isolate) location to test out-the-vitro the new antibiotic effect against a common-antibiotic resistant strain. From a biological warfare perspective, having the pathological agent without a great confidence that they can use it because they also have the drug able to stop it, is the missing key from an abstract menace and a real threat.
+
+See, one died, many did not. From a statistical PoV, this could be a relevant uncommon case that conveys exactly the message reported above: we can use it, because we can manage it. Can you? And in the "can you?", the question isn't about having a drug (or developing it quickly) but also "how did the Covid-19 biological warfare mass excertitation go?", "how would you explain such mass excertitation, now without admit that everything was fabricated because an already decided future war?", "are they going to trust you, like during Covid-19 pandemia or learnt the lesson?".
+
+Primarily, it is a political threat before being something else: how many other scenarios did you forget to validate or consider? The questions are more impacting than the incident itself. And among the questions: if Russia collapses are you sure you can survive to that collapse as you did after the Soviet Union collapse (1991) or just blindly betting on that?
+
+Russian Roulette is a high-stakes gamble that risks the player’s own life or assets for a psychological effect. Serious states developing biological weapons historically avoided exactly that kind of uncontrolled public risk for three practical reasons: (bla bla) -- as long as the other parties are driven by rationale and the target is their apexes. Instead, when the threat target is the civil population, then it is a political gamble: russian roulette vs poker bluff = escalation in taking risks. Who dares gambling the most?
+
+The X-tweet opens with "Meet Darya Shipilova", and it says it all. 
+
+Translation: Are you ready to face the same fate?
+
+---
+
+### 3. Trump and the Russia diesel deal
+
+> L'accordo stipulato da Trump con Putin sull'importazione di gasolio dalla Russia suscita forti perplessità sul piano sia politico che economico, scontentando Europa e Ucraina e rivelandosi inefficace sul prezzo dei carburanti. I dati ne evidenziano l'impatto marginale sui consumi statunitensi (circa 3,7 milioni di barili al giorno). La fornitura iniziale (2,25 mln) copre appena 16 ore di fabbisogno degli Stati Uniti, quella complessiva (36 mln) meno di 10 giorni Quindi, l'intesa è considerata irrilevante ai fini di un calo dei prezzi alla pompa, sia negli USA sia in Europa.
+- [https://lnkd.in/p/dSt73ViF](https://lnkd.in/p/dSt73ViF)
+
+Gli Americani come prassi generale, comprano tempo.  In questo caso diesel, e il comprato anche se non consegnato non è opzionabile. Per gli USA sono 10 giorni di carburante. Per qualsiasi altra nazione europea sono in proporzione (Italia 60mln) due mesi di scorte. Quindi poniamo la questione in questo modo: se un intero paese si ferma per un giorno non succede nulla, lo abbiamo già visto nel 1973: niente auto nel week-end. 
+
+Se un paese si ferma per 2 mesi, è tutt'altra storia, e fa la differenza fra arrendersi o resistere. In una guerra, che attualmente è di reciproca dissoluzione, il tempo è il fattore determinante e chiunque abbia la capacità di comprarsi una settimana o un mese di tempo, sta comprando un vantaggio strateggico in tempo di crisi oppure allocando risorse per una materia prima comunque utile quindi solo il differenziale di prezzo o il gap di consegna sono un sovrapprezzo reale.
+
+Quindi ad un sovraprezzo relativamente basso stanno comprando tempo e come prassi generale, gli americani comprano tempo perché se c'è una cosa che il denaro non può comprare è il tempo dopo che è passato, quindi loro lo comprano sempre in termini di opzioni future. I fessi sono quelli che vendono tempo per denaro (oops).
+
+Se gli USA comprano il carburante, anche se non è consegnato, è opzionato quindi non vendibile all'Europa. Se domani l'Italia volesse comprare, si trova a comprare in un mercato in cui certe fornitore sono pre-assegnate e quindi non disponibili. In tempo di crisi è un vantaggio strateggico, in tempo di pace, è solo un'allocazione finanziaria.
+
+Se gli USA comprano e quindi opzionano, possono anche cedere l'opzione. L'Italia rimane paralizzata, gli USA cedono parte del loro opzionato al triplo del prezzo. L'Italia deve pagare perché il triplo del prezzo non dipende dal costo del gasolio sul mercato ma della garanzia di poterne disporne alla pompa e gli USA possono vendere quella garanzia con un sovraprezzo decisamente superiore a quello per il quale l'hanno opzionato.
+
+Qualcuno potrebbe obbiettare che QUEL contratto non preveda trasferibilità ma essa è Irrilevante in quanto una  commodity come il gasolio è transabile. USA compra da RU anche se non può trasferire quell'acquisto può scambiare la fornitura con un altro paese per il quale ha la trasferibilità. Il greggio non è tutto uguale ma il gasolio lo è sicuramente per definizione stessa di carburante.
+
+Quindi Trump non scommette sul prezzo del gasolio al rialzo, scommette sulla capacità di poterlo consegnare in tempo di guerra e/o ostilità. Quale che sia la ragione, la dissuazione / persuazione politica oppure la difesa da parte della marina militare o ambedue. Ovviamente, si assume il rischio di perdere tale scommessa e mostrare che gli USA sono più deboli di quanto si considerano. Ma questo è inevitabile nella scommessa stessa.
+
+---
+
+The last two examples fit into the confrontation scheme for widening the perspective. The underlying facts remain unchanged, both critics don't need to be totally right. In these two specific cases, there is not even the need for choosing A vs B, rather than B once proposed raises a fundamental question among others:
+
+- **how many aspects have we ignored about this fact?**
+- a total collapse of Russia, is this the best we can wish for?
+- how a marginal deal could be relevant in geopolitics?
+
+Many other questions can be proposed but the first is the fundamental one, not just because it is the mother of all others. That question underlying that having an opinion is not the relevant point but understanding the topic, and understanding a topic in a complex world isn't as cheap as having an opinion.
+
+Guess what? It wasn't discovered yesterday: "The opinion of 10,000 people is of no value if none of them know anything about the subject", Marcus Aurelius (121-180 a.C.). Unsurprisingly, when we remember that their opinions are worthless and understanding isn't cheap, they hate the messenger as much as the message cannot be easily dismissed.
+
+Shortcuts are cheap, the long-run way isn't.
 
 +
 
