@@ -17,6 +17,8 @@ Introducing a novelty by a general / theoretical approach is hard. Especially wh
 
 - The Tragedy of Complexity is not just the suppression of debate. It is the progressive narrowing of the space within which people believe debate, investigation and understanding are necessary.
 
+- The 1st edition showed that we skip the "versus" while the 2nd shows what the skipped versus contains (domains, scenarios, time horizons), where it comes from (scaled-up fallacies institutionalized), that it operates identically from the individual to the civilizational scale.
+
 This article starts to explain the novel concept precisely in that way: leveraging examples.
 
 ---
@@ -61,9 +63,9 @@ The following three examples taken from real-world cases underline how "The Trag
 
 >>>|
 **A** -- It is risky to pay a lot of money to a young professional
-
++
 **VS**
-
++
 **B** -- Results should be adequately compensated, whatever
 |<<<
 
@@ -71,9 +73,9 @@ The following three examples taken from real-world cases underline how "The Trag
 
 >>>|
 **A** -- it is immoral that a single person have a lot of money
-
++
 **VS**
-
++
 **B** -- our society already accept way more financial concentration
 |<<<
 
@@ -81,13 +83,13 @@ The following three examples taken from real-world cases underline how "The Trag
 
 >>>|
 **A** -- Italian small companies should do networking for being valuable
-
++
 **VS**
-
++
 **B** --  Merge and acquisition is the main road to reach the proper size
 |<<<
 
-=====
+====
 
 The tragedy isn't about choosing A over B, it is about always skipping the VS. Why is this a tragedy? Because including the "versus" implies hearing the other side, and for listening them, we should inform the other party, and in informing the other party we already know that a different antagonist PoV will be provided, and it will be provided in an even more convincing and rational way. Plus, sharing information destroys the asymmetry which sustains the lies that we are willing to buy to live in our own comfort zone.
 
