@@ -15,7 +15,11 @@
 
 Introducing a novelty by a general / theoretical approach is hard. Especially when divulgation is the main aim, explaining by examples is greatly easier. Moreover, when the examples are taken from the most hot-debated topics, they are also attention catching.
 
+- The Tragedy of Complexity is not just the suppression of debate. It is the progressive narrowing of the space within which people believe debate, investigation and understanding are necessary.
+
 This article starts to explain the novel concept precisely in that way: leveraging examples.
+
+---
 
 ### The European Union as Monetary Jail
 
@@ -33,6 +37,8 @@ This article starts to explain the novel concept precisely in that way: leveragi
 > Germany did not create a European currency. It handed France a credit card with Berlin as the guarantor.
 - [original post on X by Daniel Foubert](https://x.com/d_foubert/status/2109190621571240363)
 
+---
+
 ### Comments
 
 1. Italy and Spain as well, not just France, but Greece should teach us something. Anyway, a systemic bank rotted in Germany has a cartolar debt about toxic US subprime loans as big as the Germany GDP. Sooner or later, they should move it to other countries, those more compromised are the targets.
@@ -48,6 +54,8 @@ The least-diligent drama is the bottom of "The Tragedy of Complexity".
 ## Three relevant every-day examples
 
 The following three examples taken from real-world cases underline how "The Tragedy of Complexity" strikes into everyday decision rather than being a singularity or an elite-only problem.
+
+---
 
 #### Example #1
 
@@ -79,6 +87,8 @@ The following three examples taken from real-world cases underline how "The Trag
 **B** --  Merge and acquisition is the main road to reach the proper size
 |<<<
 
+=====
+
 The tragedy isn't about choosing A over B, it is about always skipping the VS. Why is this a tragedy? Because including the "versus" implies hearing the other side, and for listening them, we should inform the other party, and in informing the other party we already know that a different antagonist PoV will be provided, and it will be provided in an even more convincing and rational way. Plus, sharing information destroys the asymmetry which sustains the lies that we are willing to buy to live in our own comfort zone.
 
 In the first example the risk of misconduct or waste are symmetrical than the risk of mediocrity and stagnation. In the second example, the "immorality" is point-less when we avoid acting upon an anti-trust principle, which operatively means: before preventing the concentration at the bottom, act upon the concentration at top which is the real threat. Prevention is better than cure after, makes sense before the need of a cure. When the cure is already needed, prevention is meaningless. If concentration already exists, the cure allows concentration from the bottom AND split the concentration from the top.
@@ -105,6 +115,8 @@ The underlying idea is stronger than the current wording. You are trying to conn
 
 But your comment currently moves too quickly from documented economic risks to a specific scenario of deliberate liability transfer. On LinkedIn, that distinction matters: the first can attract serious professionals; the second can cause them to dismiss the entire argument without examining its strongest parts.
 
+====
+
 ### The economic argument: what works, what doesn't
 
 1. **OK** -- The sovereign–bank nexus is real. A government losing the confidence of bond investors can weaken banks holding its debt. Conversely, a bank crisis can put pressure on public finances. The German Bundesbank has explicitly examined this interconnected risk in its September 2026 report. This is the strongest foundation for your comment because it explains how risk crosses national borders without requiring a conspiracy.
@@ -127,11 +139,15 @@ That's the point. Deliberately avoidance in favour of stadium fanaticism favour-
 
 is absent not because I did not consider it, but simply not even contemplated. Which is exactly "The Tragedy of Complexity": people aren't anymore even aware **HOW** deal with it.
 
+---
+
 #### The distinction is fundamental
 
 I treated falsifiability as a qualification to add to the argument. But your point is that the very procedure through which a complex argument should be examined is absent from the prevailing public discourse. You did not forget hypothesis, thesis, confutation and correction. The problem is that this sequence is not even contemplated as the way to approach a controversial claim.
 
 A debate starts with a proposition that can be examined. A serious debate allows it to be challenged, tests its consistency against evidence, identifies contradictions and corrects the model where necessary. The initial proposition might survive, be revised or be discarded. The result is subordinate to the process of inquiry.
+
+====
 
 #### Stadium fanaticism reverses that relationship
 
@@ -144,6 +160,8 @@ That is why merely presenting a more sophisticated argument does not necessarily
 Your composition exposes this difficulty by moving across boundaries that conventional political narratives keep separate. The reader must follow the argument instead of deciding immediately which side to support. And the final line asks the reader to recognise that the failure to do so is itself part of the problem.
 
 The tragedy of complexity is therefore not complexity itself. It is the erosion of the collective ability—and sometimes the willingness—to deal with complexity through a process of inquiry.
+
+---
 
 #### Compressed to its most uncomfortable implication
 
@@ -161,9 +179,9 @@ For example, the 3% of Public debt vs GDP ratio became an EU financial paradigm 
 
 Extracting that "magic" rule unrotted in anything apart from that specific case and raising it as the EU financial stability main criteria, contains two well-known biases: 1. overgeneralization mistake; 2. coincidence is not causation. The first is the inability to know the domain perimeter (a village vs a continent), while the second is about not understanding the cause-effect relationships (the commitment not the magic rule).
 
-After this brief introduction we can evaluate three examples at different scales.
+After this brief introduction we can evaluate three examples at different scales and by different dimensions.
 
----
+====
 
 ### 1. Green Hoax: Australia vs Italy
 
@@ -213,7 +231,7 @@ Translation: Are you ready to face the same fate?
 
 ### 3. Trump and the Russia diesel deal
 
-> L'accordo stipulato da Trump con Putin sull'importazione di gasolio dalla Russia suscita forti perplessità sul piano sia politico che economico, scontentando Europa e Ucraina e rivelandosi inefficace sul prezzo dei carburanti. I dati ne evidenziano l'impatto marginale sui consumi statunitensi (circa 3,7 milioni di barili al giorno). La fornitura iniziale (2,25 mln) copre appena 16 ore di fabbisogno degli Stati Uniti, quella complessiva (36 mln) meno di 10 giorni Quindi, l'intesa è considerata irrilevante ai fini di un calo dei prezzi alla pompa, sia negli USA sia in Europa.
+> L'accordo stipulato da Trump con Putin sull'importazione di gasolio dalla Russia suscita forti perplessità sul piano sia politico che economico, scontentando Europa e Ucraina e rivelandosi inefficace sul prezzo dei carburanti. I dati ne evidenziano l'impatto marginale sui consumi statunitensi (circa 3,7 milioni di barili al giorno). La fornitura iniziale (2,25 mln) copre appena 16 ore di fabbisogno degli Stati Uniti, quella complessiva (36 mln) meno di 10 giorni. Quindi, l'intesa è considerata irrilevante ai fini di un calo dei prezzi alla pompa e, di conseguenza, del differenziale elettorale atteso alle elezioni di midterm negli USA.
 - [https://lnkd.in/p/dSt73ViF](https://lnkd.in/p/dSt73ViF)
 
 Gli Americani come prassi generale, comprano tempo.  In questo caso diesel, e il comprato anche se non consegnato non è opzionabile. Per gli USA sono 10 giorni di carburante. Per qualsiasi altra nazione europea sono in proporzione (Italia 60mln) due mesi di scorte. Quindi poniamo la questione in questo modo: se un intero paese si ferma per un giorno non succede nulla, lo abbiamo già visto nel 1973: niente auto nel week-end. 
@@ -232,7 +250,7 @@ Quindi Trump non scommette sul prezzo del gasolio al rialzo, scommette sulla cap
 
 ---
 
-The last two examples fit into the confrontation scheme for widening the perspective. The underlying facts remain unchanged, both critics don't need to be totally right. In these two specific cases, there is not even the need for choosing A vs B, rather than B once proposed raises a fundamental question among others:
+The first is about the domain, the second about scenario, the third is about time. While the last two examples fit into the confrontation scheme for widening the perspective. The underlying facts remain unchanged, both critics don't need to be totally right. In these two specific cases, there is not even the need for choosing A vs B, rather than B once proposed raises a fundamental question among others:
 
 - **how many aspects have we ignored about this fact?**
 - a total collapse of Russia, is this the best we can wish for?
