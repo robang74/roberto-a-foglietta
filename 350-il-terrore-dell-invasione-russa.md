@@ -1,13 +1,13 @@
 <div id="firstdiv" created=":IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
 <style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
-<div align="center"><img class="bwsketch" src="img/350-il-terrore-dell-invasione-russa.md.jpg" width="800"><br></div>
+<div align="center"><img class="bwsketch" src="img/350-il-terrore-dell-invasione-russa.jpg" width="800"><br></div>
 
-## IL TERRORE DELL'INVASIONE RUSSA
+## Il Terrore dell'invasione Russa
 
-- Spiegato secondo quanto già pubblicato nell'articolo [The Tragedy of Complexity](https://robang74.github.io/roberto-a-foglietta/html/349-the-tragedy-of-complexity.html)
+- Spiegato secondo quanto già pubblicato nell'articolo [The Tragedy of Complexity](https://robang74.github.io/roberto-a-foglietta/html/349-the-tragedy-of-complexity.html) &nbsp; (2026-10-11)
 
-- **1st edition**, transcription of my [LinkedIn post](https://lnkd.in/p/d3qBX77x) published on 16th October 2026 and its continuation in the comments.
+- **1st draft**, based on my [LinkedIn post](https://lnkd.in/p/d3qBX77x) published on 16th Oct 2026 and its continuation in the comments.
 
 ---
 
@@ -52,6 +52,8 @@ Il mercato EuroRusso non avrebbe avuto una popolazione comparabile con la Cina o
 Un incubo e come tale più percepito che reale, e di questa deficienza ne risente naturalmente anche la sua presentazione in termini di soldità. Perché l’amministrazione Trump, nonostante le promesse elettorali, non è riuscita a riportare l’ordine nel caos (il vaso di Pandora) che le precedenti amministrazioni statunitensi avevano progressivamente generato a partire dal 2001. 
 
 Una data che segna una svolta nella politica estera americana intesa a vendere "sicurezza" perimetrale, esportare "democrazia" ma anche ad assoggettare il mercato del lavoro relativo all'informatica con un modello di business di tipo estrattivo (HR: risorse umane da consumare, non capitalizzare) a favore di colossi multinazionali con sede legale e dirigenziale in USA, che però con il tempo hanno cominciato ad essere guidati da top manager stranieri, principalmente dall'India. In questo Elon Musk è una mosca bianca, perché il Sud Africa rimane in termini di ex-colonia inglese all'interno della cultura e della civiltà del Commonwealth.
+
+> 2026-10-15 -- Franc-maçonnerie : des centaines de documents internes et financiers du Grand Orient de France exposés dans une fuite de données -- [French Breaches](https://frenchbreaches.com/blog/franc-maconnerie-des-centaines-de-documents-internes-et-financiers-du-grand-orient-de-france-exposes-dans-une-fuite-de-donnees)
 
 L’errore principale da parte degli Stati Uniti è stato quello di sottovalutare l’infiltrazione  della nobiltà europea -- da secoli considerata irrilevante perché pressoché sempre sull'orlo della bancarotta -- che in un contesto di tensioni geopolitiche, di forti frizioni fra stati europei, e di una finanza mai prima d'ora così alienata dalla realtà economica / industriale ha saputo sfruttare la loro rete di fiduciari per trasformare la contesa geopolitica NATO vs Russia da un fenomeno quasi-teatrale di supporto all'industria bellica occidentale e al debito pubblico globale, in una vera guerra della NATO via proxy Ucraina contro l'accerrima e odiata Russia. Un invidia perniciosa dai tempi dei ricchissimi e potentissimi Zar, là dove il più potente sovrano d'Europa era uno straccione che dominava su un fazzoletto di terra.
 
