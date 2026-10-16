@@ -9,6 +9,8 @@
 
 - **1st draft**, based on my [LinkedIn post](https://lnkd.in/p/d3qBX77x) published on 16th Oct 2026 and its continuation in the comments.
 
+- **2nd draft**, based on other three previous posts of mines published on LinkedIn.
+
 ---
 
 ### L'incubo dell'Unione Europea
@@ -37,7 +39,7 @@ Quindi qualora la Russia decidesse -- a sorpresa -- di vincere in modo schiaccia
 
 > Monocausal chain. Kiev → Yandex datacenters → NATO meeting → missile plans → German components → markets green: each link is plausible, but ten plausible links composed together are not a mechanism — they're a Just-So story. This is precisely the fallacy the article itself names with the 3% anecdote: coincidence is not causation. Markets also turn green for boring reasons (rate expectations, earnings). Never naming the rival hypothesis is the milder form of the tragedy the article diagnoses.
 
-In realtà, questa non è una causa singola è una chain-of-causations basata sui colloqui trilaterali negli Emirati Arabi. Spoiler: durante i colloqui esfiltrano in modo naturale attese, intenzioni, interessi, desideri e tutto quanto c'è di umano e politico nel cercare accordi senza dare alla controparti notizia delle reali sottostanti intenzioni, apertamente.
+In realtà, questa non è una causa singola ma è una chain-of-causations basata sui colloqui trilaterali negli Emirati Arabi. Spoiler: durante i colloqui esfiltrano in modo naturale attese, intenzioni, interessi, desideri e tutto quanto c'è di umano e politico nel cercare accordi senza dare alla controparti notizia delle reali sottostanti intenzioni, apertamente.
 
 ---
 
@@ -58,6 +60,54 @@ Una data che segna una svolta nella politica estera americana intesa a vendere "
 L’errore principale da parte degli Stati Uniti è stato quello di sottovalutare l’infiltrazione  della nobiltà europea -- da secoli considerata irrilevante perché pressoché sempre sull'orlo della bancarotta -- che in un contesto di tensioni geopolitiche, di forti frizioni fra stati europei, e di una finanza mai prima d'ora così alienata dalla realtà economica / industriale ha saputo sfruttare la loro rete di fiduciari per trasformare la contesa geopolitica NATO vs Russia da un fenomeno quasi-teatrale di supporto all'industria bellica occidentale e al debito pubblico globale, in una vera guerra della NATO via proxy Ucraina contro l'accerrima e odiata Russia. Un invidia perniciosa dai tempi dei ricchissimi e potentissimi Zar, là dove il più potente sovrano d'Europa era uno straccione che dominava su un fazzoletto di terra.
 
 Il sonno della ragione genera mostri.
+
+---
+
+### Premesse all'attuale scenario
+
+Colloqui tecnici trilaterali USA-Russia-Ucraina (proposti per gli Emirati Arabi)
+
+25 settembre 2026 (venerdì): Gli Stati Uniti hanno proposto un incontro trilaterale a livello tecnico (delegazioni, non capi di Stato) tra USA, Ucraina e Russia. La sede indicata dagli USA sono gli Emirati Arabi Uniti.  
+
+26 settembre 2026 (sabato): Il portavoce del Cremlino, Dmitry Peskov, conferma che Putin e Trump, in una telefonata, hanno discusso la possibilità di un tale incontro “nel prossimo futuro”, ma senza piani specifici né data fissata.
+
+27-28 settembre 2026: Nessuna data ufficiale è stata ancora annunciata pubblicamente. Le agenzie riportano che la proposta esiste, la sede (UAE) è indicata, ma la tempistica rimane indefinita e dipendente da una nuova iniziativa USA.
+
+- Sources: https://lnkd.in/p/dXHPfbEG
+
+Incontro tra i ministri degli Esteri di Russia e Germania all’Assemblea ONU
+
+L’incontro si è tenuto a New York, a margine dell’81ª Assemblea Generale delle Nazioni Unite, la cui settimana di alto livello si svolge 22-28 settembre 2026.
+
+26 settembre 2026 (sabato): Il ministro degli Esteri russo Sergej Lavrov e il suo omologo tedesco Johann Wadephul si sono incontrati a New York, sul margine dell’Assemblea ONU. Il Ministero degli Esteri russo (tramite la portavoce Maria Zakharova) conferma l’incontro nella giornata di sabato 26 settembre. Reuters e altre agenzie lo descrivono come il primo incontro a livello di ministri degli Esteri tra Russia e Germania dal 2022. L’ultima riunione a questo livello risaliva al 18 gennaio 2022, quando Lavrov incontrò la allora ministra tedesca Annalena Baerbock. Da allora i contatti ad alto livello erano praticamente congelati.
+
+---
+
+#### They have the budget
+
+- Source: https://lnkd.in/p/d2yQDcBH
+
+The 22/09 agreement between USA and Denmark about Greenland is a great opportunity to push Europe in front of an open-field war scenario. Let me explain why. 
+
+Currently NATO is supporting Ukraine against Russia but officially NATO and Russia did not declare war on each other. The reality is that NATO strikes Russia using Ukraine as a proxy state and Russia limited the counter-offensive within Ukraine (warning: why and how it started, is irrelevant here).
+
+In the meantime the EU politicians are screaming about being ready for an open war and not intimidated by a direct confrontation against Russia. This scenario from a nuclear super-power geographically extending along 11 time zones is like facing a gang of kids trying to bully her behind a fence.
+
+Groelandia within the new threat that extends the 1951 agreement excludes Russia and China explicitly to any relevant activity, military before everything else. While China would be happy to reduce the US presence in the Pacific and thus financing and supporting Russia to seek a direct conflict in the Arctic Circle interfering with the US transfer operations.
+
+Attacking a densely populated European state is a bold move, hard to justify. A direct confrontation in the Arctic circle is not. And it will put the European politician in front of a raw crude reality: start a compulsory military recruitment campaign within their population.
+
+Screaming in a conference to be ready and bold to fight Russia, and effectively engage the Russian marine in the Arctic Circle just for 4 or 8 weeks before the winter comes, isn't the same, especially when it includes ordering civilians to prepare to fight and die.
+
+Up to now, Dragone spoke about the need for unity in society for the military campaign against Russia. But the "alignment" is just a political maneuver to protect the "investment" in necessary weapon expenses. It is like: we would not tolerate pacifism because we have a HUGE budget to spend.
+
+An open conflict in the Arctic could be ignored but at the price of zeroing the credibility in front of the whole world and the whole world will not align with "they have a HUGE budget, let them spend that money". A part of the world might react in a different way: you have the budget, we have nuclear submarines protecting Groenlandia from a US military invasion.
+
+1. Groenlandia agreement
+2. Open field war RU vs NATO
+3. EU politics theater collapses
+4. US exit strategy from UA
+5. Game Over, bye bye Mr. Z
 
 +
 
