@@ -37,7 +37,7 @@ Let me say something more about it. The MAIN issue with the Church in current ti
 
 Others, from the Christian PoVC, should be loved as themselves, they should offer the other chick to be beaten. They had to surrender to the power of their belief and pray for their salvation. Mormones behave in this way.
 
-Un/fortunately, the only Bible rooted religion that enforces the same inhumane unnatural religious laws ALSO against themselves is Islam. What **IF** by the laws of Nature coherent social systems would be more powerful than those based on hypocritical dual-standard attitudes?
+Unfortunately, the only Bible-rooted religion that enforces whatever inhumane unnatural religious law against themselves and not just to others only, is Islam. What **IF** by law of Nature coherent social systems would be more powerful than those based on hypocritical dual-standard attitudes?
 
 +
 
