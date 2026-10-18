@@ -21,11 +21,11 @@ Churchill himself -- even before WW2 was ended -- totally ruined the diplomatic 
 
 Karl Marx (DE-UK) and Friedrich Engels (DE-DE) were two physophers, actually the fathers of the Communism. That such ideology that inspired URSS and ignited the 1915-8 revolution, by which the Romanov family, ruling over Russia as Zar monarchy have benn killed.
 
-<div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots-01.jpg" width="67%"><br></div>
+<div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots-01.jpg" width="75%"><br></div>
 
-<div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots-02.jpg" width="67%"><br></div>
+<div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots-02.jpg" width="75%"><br></div>
 
-> Vermeer’s Girl vs Parisien Shoplady illustrates what happens when an idealized figure — accustomed to a world of curated peace, high concepts, and political/philosophical abstractions — is forced to step outside the frame and face unvarnished, unpredictable human behavior.
+> Vermeer’s Girl vs Parisien Shoplady illustrates what happens when an idealized figure -- accustomed to a world of curated peace, high concepts, and political/philosophical abstractions -- is forced to step outside the frame and face unvarnished, unpredictable human behavior. -- the [Tweet on X](https://x.com/robang74v2/status/2111666737028681791) and the [Post on LinkedIn](https://lnkd.in/p/de2sH4WF)
 
 +
 
