@@ -266,6 +266,14 @@ Shortcuts are cheap, the long-run way isn't.
 
 +
 
+## Related articles
+
+- [Il Terrore dell'invasione Russa](350-il-terrore-dell-invasione-russa.md) &nbsp; (2026-10-16)
++++++
+- [Do not forget the roots](351-do-not-forget-the-roots.md) &nbsp; (2026-10-18)
+
++++++
+
 ## Share alike
 
 &copy; 2025, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

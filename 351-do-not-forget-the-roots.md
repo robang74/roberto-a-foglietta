@@ -3,7 +3,7 @@
 
 <div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots.jpg" width="800"><br></div>
 
-### IT IS WORTH TO REMEBER
+### It is worth to remember
 
 This is a geo-political satiric map from 1871. At that time Russia was already depicted as a monster oppressing Poland. The hate for Russia has been fabricated before the Soviet Union (CCCP).
 
@@ -17,7 +17,7 @@ Churchill himself -- even before WW2 was ended -- totally ruined the diplomatic 
 
 +
 
-## DO NOT FORGET THE ROOTS
+## Do not forget the roots
 
 Karl Marx (DE-UK) and Friedrich Engels (DE-DE) were two physophers, actually the fathers of the Communism. That such ideology that inspired URSS and ignited the 1915-8 revolution, by which the Romanov family, ruling over Russia as Zar monarchy have benn killed.
 
@@ -29,7 +29,7 @@ Karl Marx (DE-UK) and Friedrich Engels (DE-DE) were two physophers, actually the
 
 +
 
-### I ALREADY SAW IT, BEFORE
+### I already saw it, before
 
 We can reasonably agree or disagree. Instead, there is a turn into past history that it is still hard to swallow. The way in which pope Luciani was "replaced" by Woityla and the realted Banco Ambrosiano / IOR scandal, including Calvi unprobable suicide below the "Black Friars" bridge in London.
 
@@ -38,6 +38,14 @@ Let me say something more about it. The MAIN issue with the Church in current ti
 Others, from the Christian PoVC, should be loved as themselves, they should offer the other chick to be beaten. They had to surrender to the power of their belief and pray for their salvation. Mormones behave in this way.
 
 Unfortunately, the only Bible-rooted religion that enforces whatever inhumane unnatural religious law against themselves and not just to others only, is Islam. What **IF** by law of Nature coherent social systems would be more powerful than those based on hypocritical dual-standard attitudes?
+
++
+
+## Related articles
+
+- [The Tragedy of Complexity](349-the-tragedy-of-complexity.md) &nbsp; (2026-10-11)
+
+- [Il Terrore dell'invasione Russa](350-il-terrore-dell-invasione-russa.md) &nbsp; (2026-10-16)
 
 +
 
