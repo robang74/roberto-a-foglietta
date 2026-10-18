@@ -86,6 +86,8 @@ L’incontro si è tenuto a New York, a margine dell’81ª Assemblea Generale d
 #### They have the budget
 
 - Source: https://lnkd.in/p/d2yQDcBH
+- Ignite: https://x.com/robang74v2/status/2101563609289457972
+- Events: https://x.com/Ahmad_Alyehri/status/2111506345069302127
 
 The 22/09 agreement between USA and Denmark about Greenland is a great opportunity to push Europe in front of an open-field war scenario. Let me explain why. 
 
