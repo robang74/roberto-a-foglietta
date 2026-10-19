@@ -19,7 +19,7 @@ Churchill himself -- even before WW2 was ended -- totally ruined the diplomatic 
 
 ## Do not forget the roots
 
-Karl Marx (DE-UK) and Friedrich Engels (DE-DE) were two physophers, actually the fathers of the Communism. That such ideology that inspired URSS and ignited the 1915-8 revolution, by which the Romanov family, ruling over Russia as Zar monarchy have benn killed.
+Karl Marx (DE-UK) and Friedrich Engels (DE-DE) were two philosophers, actually the fathers of Communism. That such ideology which inspired the URSS and ignited the 1915-8 revolution, by which the Romanov family, ruling over Russia as Zar monarchy has been killed.
 
 <div align="center"><img class="bwsketch" src="img/351-do-not-forget-the-roots-01.jpg" width="75%"><br></div>
 
