@@ -5,8 +5,8 @@
 
 ## Il problema da risolvere siete voi!
 
-- Source: [lnkd.in/p/djzxNbhQ](https://lnkd.in/p/dvcmP6vS) (cfr. comments) &nbsp;  
-- Image: [ugcPost-7517299682361069569-kSSz](https://www.linkedin.com/posts/robertofoglietta_dont-forget-karl-marx-de-uk-and-friedrich-ugcPost-7517299682361069569-kSSz)
+- Source: [lnkd.in/p/djzxNbhQ](https://lnkd.in/p/dvcmP6vS) + [lnkd.in/p/ddbx7RAn](https://lnkd.in/p/ddbx7RAn)
+- Image: [ugcPost-7517299682361069569-kSSz](https://media.licdn.com/dms/image/v2/D4D2CAQFLCkVRBV_a8w/comment-image-shrink_8192_1280/B4DaFT26CZJMAc-/0/1792408265381?e=1793217600&v=beta&t=1Txaw8PVUsToCGfnQgVnLHF2FBzMTtTM45YcnoSFuL4)
 
 ---
 
@@ -128,7 +128,11 @@ Spoiler: it works when others have been defrauded by their rights, otherwise not
 
 ## Guardando al futuro
 
-Proiettando questo scenario in avanti nelle prossime decadi, ammesso che sia possibile e a quali costi sociali, la Germania ha rinunciato al nucleare chiudendo le sue ultime tre centrali. La Francia ha dismesso gli impianti di auto-fertilizzazione (che sono anche quelli utili per mantenere gli armamenti nucleari) e l'Italia ha aperto, a dispetto dei due referendum, al nucleare civile.
+Proiettando questo scenario in avanti nelle prossime decadi, ammesso che sia possibile e a quali costi sociali, la Germania ha rinunciato al nucleare chiudendo le sue ultime tre centrali. La Francia ha dismesso gli impianti di auto-fertilizzazione (*) e l'Italia ha aperto, a dispetto dei due referendum, al nucleare civile.
+
+> [INFO]
+> 
+> Gli impianti di auto-fertilizzazione sono andanti in decommissioning fra 1998 e il 2009, di fatto determinando una strategia di non proliferazione degli armamenti nucleari da parte della Francia che nel frattempo ha optato per una dottrina di non-disclosure e può mantenere il suo arsenale sfruttando gli impianti di raffinazione del combustibile esausto degli impianti civili.
 
 Ora, da un punto di vista militare-strateggico, significa che le uniche potenze nucleari nell'Europa sono Inghilterra, che ormai come chiaramente rivelato lo scandalo delle grooming gang che andavano avanti indisturbate dal 2001, è politicamente compromessa su entrambi i fronti arabo e ucraino, ed entrambi sono in conflitto fra loro per via di israele e low-cost long-range weapons dall'Ucraina che permette a fazioni come gli Houti di colpire i paesi arabi avanzati.
 
@@ -171,6 +175,46 @@ Anche in questo contesto va in scena il più elementare degli schemi tradizional
 - Ormai chi spaccia "fumo" è più onesto di chi vende illusioni.
 
 Più fallito di così, un sistema, non saprei come definirlo.
+
++
+
+## Il danno della politica sul nucleare
+
+La ricerca è stata condotta su 85 fonti consultate di cui selezionate 35 come documentali per l'elaborazione e verifica. L'elaborazione e l'analisi documentale è stata assistita da intelligenza artificiale. In particolare una per la raccolta dei dati e una per la loro elaborazione.
+
+---
+
+### Sintesi
+
+Il nucleare, come fenomenologia non è complesso, ma quando si tratta di fornire su scala nazionale energia elettrica la tecnologia e la gestione della sua filiera diventa inevitabilmente complicata anche perché i rischi esistono anche se sono più emotivamente percepiti che reali paragonati ad altre tecnologie quando considerate in tutte le loro varie implicazioni. Implicazioni che a differenza del nucleare sono tenute a parte.
+
+Quindi la complicazione che l'energia nucleare è visibile perché è gestita e tracciata, accuratamente, in ogni sua fase della filiera da organismi di controllo internazionale che però raramente vengono consultati (e se vengono consultati non hanno un peso decisionale adeguato al valore in gioco e tanto meno un potere di veto) quando si tratta di fare compromessi o scelte politiche. Questo si traduce in danni e ritardi.
+
+Il nucleare ci ha costretto a sviluppare un modello di tracciamento e gestione di tutta una filiera relativa ad una specifica tecnologia. Paradossalmente questa capacità la usiamo solo per il nucleare, il classico doppio standard occidentale, e questo ovviamente ci porta a prendere delle decisioni che sono incoerenti e contrastanti.
+
+Quanto è costata una gestione sub-ottimale e ideologica-emotiva del nucleare? L'Italia ha pagato in emissioni, gas-dependence e decenni persi. La Germania paga in competitività industriale e sicurezza di fornitura, con la fattura scritta a rate. La Francia ha perso un ventennio di preparazione che ora le costa caro sui tempi.
+
+---
+
+### Italia: il dannno maggiore, non solo in bolletta
+
+Il danno italiano non si misura solo nei 11 miliardi di smantellamento ancora al 32% dopo 40 anni, ma in due voci che la storiografia economica sottovaluta:
+
+1. Intensità carbonica elettrica bloccata a livelli da due a sei volte quelli francesi per quattro decenni. L'Italia ha bruciato gas e carbone per sostituire 22% di potenziale produzione nucleare, con conseguenze climatiche e di salute pubblica molto superiori ai costi diretti di decommissioning.
+
+2. Dipendenza strutturale dal gas russo: l'uscita nucleare è stata compensata in gran parte con metano importato, e l'Italia è rimasta per trent'anni tra i paesi europei più esposti sul fronte sicurezza delle forniture — fino al 2022, quando ha dovuto ripartire da lì. Il "regalo" finale: il ritorno si fa nel 2026 con solo SMR, cioè la tecnologia più costosa al kWh e disponibile dopo il 2033, mentre le centrali grandi — quelle che avrebbero potuto scalare — restano escluse dalla legge.
+
+I due referendum furono anche voti di protesta (il 2011 raggiunse il quorum in parte come voto anti-Berlusconi, con la domanda nucleare usata come veicolo). Fu più politica emotiva che ignoranza tecnica: i tecnici del Cnen/ENEA sapevano; i decisori scelsero la strada più facile.
+
+### Germania: danno su struttura, marginalmente sul prezzo
+
+Il mercato ha assorbito le chiusure senza spike visibile (recessione + importazioni francesi + rinnovabili). Il conto sta arrivando ora, sulla competitività industriale: energivore in fuga (chimica in primis, con BASF che taglia Ludwigshafen e investe altrove), 50 centrali a gas previste per coprire il buco, e un sistema che resta esposto al prezzo del gas nonostante la componente rinnovabili cresciuta bene.
+
+Il danno tedesco è differito e composto: si vedrà nella capacità industriale del 2030, non nella bolletta del 2023. Nota a margine: la svolta chiave fu di Merkel, non dei Verdi — il phase-out è stato una convergenza tra centro-destra post-Fukushima e sinistra verde, non un prodotto solo verde.
+
+### Francia: danno mite ma non trascurabile, ritardo in R&D
+
+Oltre a Fessenheim (2%), il tributo ideologico francese ha una seconda componente: il segnale politico del 2015–2017 (tetto dei 63,2 GW, PPE con chiusure programmate, annuncio di ridurre al 50%) gelò per anni la filiera — perdita di personale, ordini e capacità costruttiva proprio negli anni in cui EPR2 avrebbe dovuto prepararsi. Quando ha invertito rotta nel 2022 ha trovato un'industria da rilanciare che ha fatto slittare l'EPR2 al 2038.
 
 +
 
