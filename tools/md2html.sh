@@ -183,6 +183,7 @@ function md2htmlfunc() {
 -e "s,>  *\[\!INFO\],> $note_A," \
 -e "s,>  *\[\!WARN\],> $warn_A," -e "s,>  *\[\!WARNING\],> $warn_A," \
 -e "s,>  *\[\!NOTE\],> $note_A," -e "s,>  *\[\!NOTICE\],> $note_A," \
+-e "s,^\[\!ASCI\],$asci_A," -e "s,^\[/ASCI\],$asci_B," \
 -e "s,^\[\!CITE\],$cite_A," -e "s,^\[/CITE\],$cite_B," \
 -e "s,^\[\!INFO\],$info_A," -e "s,^\[/INFO\],$info_B," \
 -e "s,^\[\!CODE\],$code_A," -e "s,^\[/CODE\],$code_B," \
@@ -203,8 +204,8 @@ function md2htmlfunc() {
 -e 's,^+\{5\} *$,<br class="pagebreak">,' \
 -e 's,^\.\{5\,\} *$,<hr class="post-it pagebreak">,' \
 -e 's,^+\{4\} *$,<div class="pagebreak"></div>,' \
--e 's,^\=\{5\,\} *$,<div class="ghosted"><br><hr><br></div>,' \
--e 's,^\=\{4\} *$,<div class="pagebreak"><br><hr><br></div>,' \
+-e 's,^\=\{5\,\} *$,<div class="ghosted"><hr></div>,' \
+-e 's,^\=\{4\} *$,<div class="pagebreak"><hr></div>,' \
 -e 's,^\.\{4\,\} *$,<div class="pagebreak"><hr class="post-it"></div>,' \
 -e 's,^\-\{4\,\} *$,<div class="pagebreak"><hr></div>,' \
 -e 's,^\~\{4\,\} *$,<hr class="pagebreak">,' \
