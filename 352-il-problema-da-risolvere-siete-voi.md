@@ -80,7 +80,7 @@ Quando il "vincitore etnico" si rende conto che la puerpera che ha partorito suo
 
 ---
 
-Quindi l'immigrazione l'hanno pagata i manovali, la re-immigrazione la pagano le puerpere femministe. Tutto molto bello, se non fosse un manicomio a cielo aperto!
+Quindi l'immigrazione l'hanno pagata i manovali e gli operai, la re-immigrazione la pagheranno le puerpere femministe. Tutto molto bello, se non fosse un manicomio a cielo aperto!
 
 Perché il problema NON è cosa i singoli individui facciano della loro vita. La libertà delle scelte individuali dovrebbe essere un fondamentalele delle democrazie mature, in cui possono emergere dei trend sociali che possono essere anche ragionevoli in funzione di determinati fattori strutturali.
 
