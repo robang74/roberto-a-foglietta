@@ -23,7 +23,7 @@ Quando non sappiamo inventiamo. I nostri perché li costruiamo post-hoc. L'inter
 
 Potremmo parlare di metacognizione e dei suoi risvolti positivi nel risolvere questo dilemma ma non è questo il contesto adatto. Basta comprendere che la menzogna è un atto di intimità quando costruita per vestire le nostre fragilità di essere umani, le nostre ciccatrici.
 
-- Che talvolta non si sappia chidere scusa, lo possiamo tollerare.
+- Che talvolta non si sappia chiedere scusa, lo possiamo tollerare.
 
 La menzogna è un atto inaccettabile quando offende l'intelligenza dell'interlocutore. Quando si presume che l'altra persona debba provare ad un possibile giudice, al mondo, o a dio, la malafede di chi afferma qualcosa di sfacciatamente falso. Ma non è così.
 
