@@ -169,7 +169,7 @@ La domanda conclusiva riguarda quindi la capacità delle istituzioni economiche 
 
 > Chiunque abbia tentato di creare uno Stato perfetto, un paradiso in terra, ha in realtà realizzato un inferno.<br> -- Karl Popper
 
-La cosa interessante è che tale articolo -- indirettamente -- supporta e spiega perché sistemi moderatamente autoritari possano produrre società e civiltà più funzionali (meno distopiche) perché c'è la consapevolezza collettiva che ad un certo punto potrebbe intervenire un'autorità in modo mirato e chirurgico per ricodare al banco da gioco che la realtà, in ultima istanza, è intransigente (prima che la realtà presenti il conto).
+La cosa interessante è che tale articolo -- indirettamente -- supporta e spiega perché sistemi moderatamente autoritari possano produrre società e civiltà più funzionali (meno distopiche) perché c'è la consapevolezza collettiva che ad un certo punto potrebbe intervenire un'autorità in modo mirato e chirurgico per ricordare al banco da gioco che la realtà, in ultima istanza, è intransigente (prima che la realtà presenti il conto).
 
 In questo contesto citerei un video del 2009 (spesso ricordato come il caso della città di Pikalevo) in cui Putin dovette intervenire per evitare la chiusura di due stabilimenti (alluminio e cemento) che per quella piccola cittadina erano fondamentali. 
 
@@ -185,7 +185,9 @@ Ergo, bisogna crescere e diventare adulti per accettare che la formula magica no
 
 La seconda non ha bisogno di credere che la propria forma istituzionale sia perfetta e quindi di imporla ad altri come fosse un dogma. Nemmeno la realtà è un dogma. Perché noi la conosciamo solo attraverso una sua qualche descrizione, non in termini assoluti. Questo permette, manipolando il modello della realtà, di perderne il senso e di mettere in discussione persino che la essa sia intransigente e presenti il conto.
 
-Insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta agli studenti divenuti cittadini permettere di ricordare che, sebbene sia vero che la piuma non cade come una biglia per via dell'areodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta.
+Insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta agli studenti divenuti cittadini permettere di ricordare che, sebbene sia vero che la piuma non cade come una biglia per via dell'aerodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta. Anche insegnare storia e filosofia alla luce della scienza e della tecnologia, sarebbe utile. 
+
+Infatti sarebbe bastato ricordare che fra il sogno di Icaro di volare (Metamorfosi di Ovidio, 8 d.C) e il primo volo di "successo" dei fratelli Wright (durato 12 secondi, 1903) sono passati 19 secoli. Poi dieci anni (1914) per il primo volo commerciale prototipale, altri 5 anni per la prima compagnia aerea (KLM, 1919). Ma sono serviti oltre 80 anni per il primo volo della prima compagnia low-cost (Ryanair, 1985). Questo avrebbe evitato il caso Theranos, o almeno ne avrebbe mitigato il danno.
 
 +
 
