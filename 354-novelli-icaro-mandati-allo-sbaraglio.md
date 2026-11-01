@@ -167,7 +167,7 @@ La domanda conclusiva riguarda quindi la capacità delle istituzioni economiche 
 
 ### Lo stato perfetto
 
-> Chiunque abbia tentato di creare uno stato perfetto, ha in realtà realizzato un inferno -- Karl Popper
+> Chiunque abbia tentato di creare uno Stato perfetto, un paradiso in terra, ha in realtà realizzato un inferno.<br> -- Karl Popper
 
 La cosa interessante è che tale articolo -- indirettamente -- supporta e spiega perché sistemi moderatamente autoritari possano produrre società e civiltà più funzionali (meno distopiche) perché c'è la consapevolezza collettiva che ad un certo punto potrebbe intervenire un'autorità in modo mirato e chirurgico per ricodare al banco da gioco che la realtà, in ultima istanza, è intransigente (prima che la realtà presenti il conto).
 
@@ -177,9 +177,9 @@ Tre stabilimenti in cui la cui direzione era contesa e che stava chiudendo per p
 
 In estrema sintesi è la risposta alla domanda sollevata da Popper riguardo al paradosso della libertà. L'intervento autoritario ha ripristinato un limite reale.
 
-Naturalmente il rischio è sempre lo stesso: che il “ricordo del limite” si trasformi nel tempo in arbitrarietà personale, e che l’istituzione venga svuotata fino a coincidere con l’uomo. La storia è piena di esempi in entrambe le direzioni. 
+Naturalmente il rischio è sempre lo stesso: che il "ricordo del limite" si trasformi nel tempo in arbitrarietà personale, e che l'istituzione venga svuotata fino a coincidere con l'uomo. La storia è piena di esempi in entrambe le direzioni. Però occorre anche ricordare che tutti i sistemi di potere, con il tempo, tendono a degenerare come gli esseri biologici che invecchiano e poi muoiono.
 
-Tutti i sistemi di potere, con il tempo tendono a degenerare come gli esseri biologici che invecchiano e poi muoiono. L'esempio serve a ricordare che NON esiste una parola magica tipo "democrazia" che risolve tutto. Se esiste potrebbe essere "partecipazione" ma partecipare ad un sistema in deriva non è positivo. Quindi NON esistono formule magiche nemmeno quelle che ci piacciono tanto per apparente buonismo. 
+L'esempio Pikalevo serve a ricordare che NON esiste una parola magica tipo "democrazia" che risolva tutto. Se esiste potrebbe essere "partecipazione", ma partecipare ad un sistema in deriva non è positivo. Quindi NON esistono formule magiche nemmeno quelle che ci piacciono tanto per apparente buonismo. 
 
 Ergo, bisogna crescere e diventare adulti per accettare che la formula magica non esiste e che Galileo Galilei ci ha insegnato molto di più che costruire telescopi. Una società immatura cerca il sistema che le garantisca di non sbagliare. Una società adulta cerca di conservare la capacità di riconoscere e correggere i propri errori.
 
@@ -194,6 +194,8 @@ La seconda non ha bisogno di credere che la propria forma istituzionale sia perf
 - [Il Terrore dell'invasione Russa](350-il-terrore-dell-invasione-russa.md) &nbsp; (2026-10-16)
 
 - [Do not forget the roots](351-do-not-forget-the-roots.md) &nbsp; (2026-10-18)
+
+- [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md) &nbsp; (2025-03-03)
 
 +
 
