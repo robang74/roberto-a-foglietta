@@ -195,6 +195,10 @@ Infatti sarebbe bastato ricordare che fra il sogno di Icaro di volare (Metamorfo
 
 Questo avrebbe evitato il caso Theranos, o almeno ne avrebbe mitigato il danno.
 
+[!INFO]
+The 2nd edition of this article (github `#7f263d0`) shows that the problem cannot be solved with a "book to help yourself" but by re-scholarising people. A dramatic solution similar to a defective product call back on a large scale especially for the expensive tuition fees American colleges! 😘
+[/INFO]
+
 +
 
 ## Related articles
