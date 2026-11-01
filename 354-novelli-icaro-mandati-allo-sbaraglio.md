@@ -179,11 +179,13 @@ In estrema sintesi è la risposta alla domanda sollevata da Popper riguardo al p
 
 Naturalmente il rischio è sempre lo stesso: che il "ricordo del limite" si trasformi nel tempo in arbitrarietà personale, e che l'istituzione venga svuotata fino a coincidere con l'uomo. La storia è piena di esempi in entrambe le direzioni. Però occorre anche ricordare che tutti i sistemi di potere, con il tempo, tendono a degenerare come gli esseri biologici che invecchiano e poi muoiono.
 
-L'esempio Pikalevo serve a ricordare che NON esiste una parola magica tipo "democrazia" che risolva tutto. Se esiste potrebbe essere "partecipazione", ma partecipare ad un sistema in deriva non è positivo. Quindi NON esistono formule magiche nemmeno quelle che ci piacciono tanto per apparente buonismo. 
+L'esempio Pikalevo serve a ricordare che NON esiste una parola magica tipo "democrazia" che risolva tutto. Se esistesse potrebbe essere "partecipazione", ma partecipare ad un sistema in deriva non è necessariamente positivo. Quindi NON esistono formule magiche nemmeno quelle che ci piacciono tanto per apparente buonismo. 
 
 Ergo, bisogna crescere e diventare adulti per accettare che la formula magica non esiste e che Galileo Galilei ci ha insegnato molto di più che costruire telescopi. Una società immatura cerca il sistema che le garantisca di non sbagliare. Una società adulta cerca di conservare la capacità di riconoscere e correggere i propri errori.
 
-La seconda non ha bisogno di credere che la propria forma istituzionale sia perfetta e quindi di imporla ad altri come fosse un dogma. Nemmeno la realtà è un dogma perché noi la conosciamo solo attraverso una sua qualche descrizione, non in termini assoluti. Questo permette, manipolando il modello della realtà, di perderne il senso e di mettere in discussione persino che la realtà sia intransigente e presenti il conto.
+La seconda non ha bisogno di credere che la propria forma istituzionale sia perfetta e quindi di imporla ad altri come fosse un dogma. Nemmeno la realtà è un dogma. Perché noi la conosciamo solo attraverso una sua qualche descrizione, non in termini assoluti. Questo permette, manipolando il modello della realtà, di perderne il senso e di mettere in discussione persino che la realtà sia intransigente e presenti il conto.
+
+Forse insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta far ricordare agli studenti divenuti cittadini che, sebbene sia vero che la piuma non cade come una biglia per via dell'areodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta.
 
 +
 
