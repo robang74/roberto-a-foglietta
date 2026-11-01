@@ -183,9 +183,9 @@ L'esempio Pikalevo serve a ricordare che NON esiste una parola magica tipo "demo
 
 Ergo, bisogna crescere e diventare adulti per accettare che la formula magica non esiste e che Galileo Galilei ci ha insegnato molto di più che costruire telescopi. Una società immatura cerca il sistema che le garantisca di non sbagliare. Una società adulta cerca di conservare la capacità di riconoscere e correggere i propri errori.
 
-La seconda non ha bisogno di credere che la propria forma istituzionale sia perfetta e quindi di imporla ad altri come fosse un dogma. Nemmeno la realtà è un dogma. Perché noi la conosciamo solo attraverso una sua qualche descrizione, non in termini assoluti. Questo permette, manipolando il modello della realtà, di perderne il senso e di mettere in discussione persino che la realtà sia intransigente e presenti il conto.
+La seconda non ha bisogno di credere che la propria forma istituzionale sia perfetta e quindi di imporla ad altri come fosse un dogma. Nemmeno la realtà è un dogma. Perché noi la conosciamo solo attraverso una sua qualche descrizione, non in termini assoluti. Questo permette, manipolando il modello della realtà, di perderne il senso e di mettere in discussione persino che la essa sia intransigente e presenti il conto.
 
-Forse insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta far ricordare agli studenti divenuti cittadini che, sebbene sia vero che la piuma non cade come una biglia per via dell'areodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta.
+Insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta agli studenti divenuti cittadini permettere di ricordare che, sebbene sia vero che la piuma non cade come una biglia per via dell'areodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta.
 
 +
 
