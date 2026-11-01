@@ -191,7 +191,9 @@ La seconda non ha bisogno di credere che la propria forma istituzionale sia perf
 
 Insegnare fisica sperimentale a scuola sarebbe importante per poi in età adulta agli studenti divenuti cittadini permettere di ricordare che, sebbene sia vero che la piuma non cade come una biglia per via dell'aerodinamica, la forza di gravità non si può negoziare. Aver capito i fondamentali, aiuta. Anche insegnare storia e filosofia alla luce della scienza e della tecnologia, sarebbe utile. 
 
-Infatti sarebbe bastato ricordare che fra il sogno di Icaro di volare (Metamorfosi di Ovidio, 8 d.C) e il primo volo di "successo" dei fratelli Wright (durato 12 secondi, 1903) sono passati 19 secoli. Poi dieci anni (1914) per il primo volo commerciale prototipale, altri 5 anni per la prima compagnia aerea (KLM, 1919). Ma sono serviti oltre 80 anni perché nascesse una compagnia aerea basata su un modello interamente low-cost ed economicamente sostenibile (Ryanair, 1985). Questo avrebbe evitato il caso Theranos, o almeno ne avrebbe mitigato il danno.
+Infatti sarebbe bastato ricordare che fra il sogno di Icaro di volare (Metamorfosi di Ovidio, 8 d.C) e il primo volo di "successo" dei fratelli Wright (durato 12 secondi, 1903) sono passati 19 secoli. Poi dieci anni (1914) per il primo volo commerciale prototipale, altri 5 anni per la prima compagnia aerea (KLM, 1919). Ma sono serviti oltre 80 anni perché nascesse una compagnia aerea basata su un modello interamente low-cost ed economicamente sostenibile (Ryanair, 1985).
+
+Questo avrebbe evitato il caso Theranos, o almeno ne avrebbe mitigato il danno.
 
 +
 
