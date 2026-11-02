@@ -114,9 +114,13 @@ Ergo, noi europei, e gli arabi affacciati sul Mediterraneo inclusi, sappiamo che
 
 - [Do not forget the roots](351-do-not-forget-the-roots.md) &nbsp; (2026-10-18)
 
+- [Il problema da risolvere siete voi!](352-il-problema-da-risolvere-siete-voi.md) &nbsp; (2026-10-20)
+
 - [Novelli Icaro mandati allo sbaraglio](354-novelli-icaro-mandati-allo-sbaraglio.md) &nbsp; (2026-10-31)
 
 - [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md) &nbsp; (2025-03-03)
+
+- [L'importanza del TCMO](090-l-importanza-del-tcmo.md) &nbsp; (2017-10-13)
 
 +
 
