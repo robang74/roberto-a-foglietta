@@ -116,6 +116,8 @@ Ergo, noi europei, e gli arabi affacciati sul Mediterraneo inclusi, sappiamo che
 
 - [Il problema da risolvere siete voi!](352-il-problema-da-risolvere-siete-voi.md) &nbsp; (2026-10-20)
 
+- [La spudorata menzogna merita l'ardito furore](353-la-spudorata-menzogna-merita-l-ardito-furore.md) &nbsp; (2026-10-23)
+
 - [Novelli Icaro mandati allo sbaraglio](354-novelli-icaro-mandati-allo-sbaraglio.md) &nbsp; (2026-10-31)
 
 - [Politics and democracy for dummies](302-politics-and-democracy-for-dummies.md) &nbsp; (2025-03-03)
