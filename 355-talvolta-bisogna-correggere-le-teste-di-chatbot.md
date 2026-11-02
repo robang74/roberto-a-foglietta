@@ -27,7 +27,7 @@ La ricostruzione più plausibile non viene da una trascrizione della telefonata,
 
 Il punto di partenza è la Rus' di Kyiv (Rus' kieviana). La conclusione politica di Putin è che Russia, Bielorussia e Ucraina siano sostanzialmente un unico popolo e che il legame fra i due Paesi sia naturale, storico e che la separazione politica contemporanea sia una frattura artificiale, in larga parte provocata da soggetti esterni. Ma questa conclusione non deriva automaticamente dai fatti medievali. Questa però è la questione politica, non storica.
 
-====
+---
 
 ### La storia medievale appare più una metafora!
 
