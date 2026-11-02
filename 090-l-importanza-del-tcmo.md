@@ -1,4 +1,5 @@
 <div id="firstdiv" created="2017-10-31:IT" style="max-width: 800px; margin: auto; white-space: pre-wrap; text-align: justify;">
+<style>#printlink { display: inline; } @page { size: legal; margin: 0.50in 13.88mm 0.50in 13.88mm; zoom: 100%; } @media print { html { zoom: 100%; } }</style>
 
 <div align="center"><img class="paleinv wbsketch" src="img/090-l-importanza-del-tcmo-img-001.jpg"><br/></div>
 
@@ -20,21 +21,17 @@ In questa revisione del testo originale mi sono fatto [aiutare](https://robang74
 
 * a cura di ChatGPT 4o
 
-...
+> Il concetto di TCMO (Total Cost of Mistake Ownership) è fondamentale per comprendere gli effetti cumulativi degli errori e la loro rilevanza su scala globale, soprattutto in un contesto di risorse finite e sistemi interconnessi. Affrontare gli errori in modo proattivo è essenziale per evitare che diventino insostenibili.
+> 
+> L'idea di trattare l'errore come un "debito composto" che cresce esponenzialmente rende il TCMO applicabile a molti ambiti, dalla gestione ambientale all’economia, fino alla sociologia e all’etica. Concetti antropologici ed evolutivi, come il pensiero lineare e la resistenza al cambiamento, offrono una base solida per spiegare le sfide umane nel gestire fenomeni cumulativi.
+> 
+> La persistenza nell’errore è anche un retaggio della nostra evoluzione. Gran parte delle attività umane primitive si basavano su azioni ripetitive. Il pensiero profondo e la capacità di azioni incisive sono fenomeni emergenti della modernità. Questa persistenza è un retaggio che spesso ci porta a "sbattere la testa" su un problema anziché risolverlo in modo strategico.*
+> 
+> Questo testo analizza il TCMO attraverso esempi concreti (inquinamento, globalizzazione) e concetti teorici (logaritmi, probabilità), fornendo una spiegazione dettagliata e accessibile. Nella sua seconda edizione, approfondisce l’analisi e ne amplia il campo di applicazione, collegandolo a temi cruciali come l’economia globale e la sostenibilità ambientale.
+> 
+> Il TCMO offre un framework potente per interpretare e affrontare le sfide del nostro tempo, fornendo strumenti per ottimizzare le scelte individuali e collettive in un mondo sempre più complesso.
 
-*Il concetto di TCMO (Total Cost of Mistake Ownership) è fondamentale per comprendere gli effetti cumulativi degli errori e la loro rilevanza su scala globale, soprattutto in un contesto di risorse finite e sistemi interconnessi. Affrontare gli errori in modo proattivo è essenziale per evitare che diventino insostenibili.*
-
-*L'idea di trattare l'errore come un "debito composto" che cresce esponenzialmente rende il TCMO applicabile a molti ambiti, dalla gestione ambientale all’economia, fino alla sociologia e all’etica. Concetti antropologici ed evolutivi, come il pensiero lineare e la resistenza al cambiamento, offrono una base solida per spiegare le sfide umane nel gestire fenomeni cumulativi.*
-
-*La persistenza nell’errore è anche un retaggio della nostra evoluzione. Gran parte delle attività umane primitive si basavano su azioni ripetitive. Il pensiero profondo e la capacità di azioni incisive sono fenomeni emergenti della modernità. Questa persistenza è un retaggio che spesso ci porta a "sbattere la testa" su un problema anziché risolverlo in modo strategico.*
-
-*Questo testo analizza il TCMO attraverso esempi concreti (inquinamento, globalizzazione) e concetti teorici (logaritmi, probabilità), fornendo una spiegazione dettagliata e accessibile. Nella sua seconda edizione, approfondisce l’analisi e ne amplia il campo di applicazione, collegandolo a temi cruciali come l’economia globale e la sostenibilità ambientale.*
-
-*Il TCMO offre un framework potente per interpretare e affrontare le sfide del nostro tempo, fornendo strumenti per ottimizzare le scelte individuali e collettive in un mondo sempre più complesso.*
-
-...
-
-<br/>
+---
 
 ### Definizione
 
@@ -68,9 +65,7 @@ La pianificazione come necessità contingente inizia abbastanza tardi nella nost
 
 Riguardo alla rielaborazione dei concetti oltre all'inerzia individuale dovuta al lavoro di pensiero, spesso si aggiunge anche l'inerzia sociale. In questo contesto, in particolare, ritengo assolutamente appropriata la citazione seguente:
 
-> Siamo animali sociali piuttosto che cercatori di verità.
-> 
-> &mdash; Jeff Besoz, fondatore di Amazon.
+> Siamo animali sociali piuttosto che cercatori di verità. -- Jeff Besoz, fondatore di Amazon.
 
 #### Pensiero lineare
 
@@ -194,7 +189,7 @@ Ecco come si ricava il TCMO, dal differenziale fra il modello decisionale e quel
 
 L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma essa è ben distante da poter fornire modelli previsionali di lungo termine, anzi esattamente l'opposto, propende proprio per la loro inutilità pratica. Un esempio calzante sono le previsioni del meteo: abbastanza accurate sul breve o brevissimo periodo, e poi progressivamente inattendibili fino a diventare completamente inutili.
 
-<br/>
++
 
 ## Related articles
 
@@ -214,11 +209,9 @@ L'unica teoria che riesce ad affrontare i sistemi aperti è quella del caos ma e
 
 * 006 - [L'illusione del controllo](006-l-illusione-del-controllo.md#?target=_blank) (2016-04-17)
 
-<br/>
++
 
 ## Share alike
 
 &copy; 2024, **Roberto A. Foglietta** &lt;roberto.foglietta<span>@</span>gmail.com&gt;, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 </div>
-
