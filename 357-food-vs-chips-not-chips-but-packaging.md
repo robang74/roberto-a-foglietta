@@ -5,7 +5,7 @@
 
 ## Food vs Chips, not chips, but packaging!
 
-- 1st edition: started on LinkedIn by this post [lnkd.in/p/dekNX2V2](https://lnkd.in/p/dekNX2V2) prosecuting in the pinned comment [lnkd.in/p/dHaDJDtr](https://lnkd.in/p/dHaDJDtr);
+- 1st edition: started on LinkedIn by this [post](https://lnkd.in/p/dekNX2V2) prosecuting in the pinned [comment](https://lnkd.in/p/dHaDJDtr).
 
 ---
 
