@@ -3,13 +3,13 @@
 
 <div align="center"><img class="bwsketch" src="img/357-food-vs-chips-not-chips-but-packaging-01.jpg" width="800"><br></div>
 
-## Food vs Chips, not chips, but packaging!
+## Food vs Chips, not chips but packaging!
 
 - 1st edition: started on LinkedIn by this [post](https://lnkd.in/p/dekNX2V2) prosecuting in the pinned [comment](https://lnkd.in/p/dHaDJDtr).
 
 ---
 
-### Not chips, but packaging!
+### Not chips but packaging!
 
 In pratica, in termini tecnici: altri fanno i chip e a Novara li integreranno in una lastra di silicio invece di doverli montare su una scheda PCB, così da evitare i limiti e i rallentamenti del montaggio separato su una scheda PCB tradizionale. Assemblaggio di schede elettroniche, ma con una tecnologia che dipende da una società a Singapore, dove è ragionevole che confluirà la maggiore frazione degli utili per via della bassa fiscalità.
 
@@ -43,7 +43,7 @@ Come se non sapessi cos'era FICO Eataly World a Bologna (è stato inaugurato per
 
 * [176-Quella_gran_patacca_di_FICO.pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/176-Quella_gran_patacca_di_FICO.pdf) &nbsp; (2018-03-15)
 > L'articolo tratta in chiave critica la vicenda FICO e, più in generale, il rapporto tra marketing urbano, istituzioni e cittadinanza. Attraverso una narrazione informale, sarcastica e volutamente accessibile, l'autore mette in discussione l'efficacia reale del progetto, i suoi costi e le sue ricadute sul territorio, invitando a leggere oltre l'immagine promozionale per coglierne le contraddizioni tra obiettivi dichiarati e risultati percepiti.
-
+++++
 * [178-L_insostenibile_leggerezza_di_FICO.pdf](https://raw.githubusercontent.com/robang74/roberto-a-foglietta/refs/heads/main/pdf.todo/178-L_insostenibile_leggerezza_di_FICO.pdf) &nbsp; (2018-03-24)
 > Questo secondo articolo riprende la critica all'operazione FICO (Fabbrica Italiana Contadina) già avviata in quello precedente, approfondendone però gli aspetti più strettamente economici e finanziari. L'autore analizza il modello imprenditoriale, i finanziamenti pubblici e privati e l'eccessivo tono celebrativo del progetto rispetto alla reale situazione dell'agroalimentare italiano, mettendo in dubbio la sostenibilità dell'iniziativa, la sua trasparenza e gli effettivi benefici per piccoli produttori e consumatori.
 
@@ -62,11 +62,11 @@ L'analogia con FICO ci permette di osservare un pattern ricorrente che converge 
 
 * [Assalto alle Poste, la grande rapina](https://robang74.github.io/roberto-a-foglietta/html/linkedin/assalto-alle-poste-la-grande-rapina-roberto-a-foglietta.html) anche su [LinkedIn](https://www.linkedin.com/pulse/assalto-alle-poste-la-grande-rapina-roberto-a-foglietta/) &nbsp; (2018-12-27)
 > L'articolo critica in chiave polemica l'ipotesi di impiegare Cassa Depositi e Prestiti e il circuito legato a Poste Italiane in operazioni di venture capital e sostegno a start-up innovative, ritenendo improprio mescolare il risparmio tradizionale con investimenti ad alto rischio. Richiamando anche vicende come il salvataggio di Alitalia e la concessione ad Amazon per le consegne, l'autore mette in guardia contro l'elevato tasso di fallimento delle start-up, il rischio di dispersione del valore e la perdita di tutela per i risparmiatori.
-
+++++
 * [Assalto alle Poste, la grande rapina, p.2](https://robang74.github.io/roberto-a-foglietta/html/linkedin/assalto-alle-poste-la-grande-rapina-p2-roberto-a-foglietta-nz7uf.html) anche su [LinkedIn](https://www.linkedin.com/pulse/assalto-alle-poste-la-grande-rapina-p2-roberto-a-foglietta-nz7uf/) &nbsp; (2024-01-26)
 > Questo secondo articolo riprende la critica sui rischi di snaturamento di Poste Italiane avviata nel testo precedente, spostando però il focus dall'impiego nel venture capital all'ipotesi di cessione di quote azionarie ai privati e al ruolo dell'azienda nel dibattito sull'identità digitale. L'autore denuncia il rischio di spingere l'ente verso logiche più commerciali e meno pubbliche, esaminando i rapporti tra politica, autonomia gestionale, centralizzazione dei dati personali e sicurezza informatica.
 
-~~~~
+---
 
 ### Liquidazione totale
 
@@ -92,7 +92,7 @@ Il "sistema italia" è una iattura che perseguita i cittadini anche quanto emigr
 * [The paper money is financial communism](https://robang74.github.io/roberto-a-foglietta/html/278-the-paper-money-is-financial-communism.html) &nbsp; (2024-07-31)
 > L'articolo — ampliato in più edizioni con digressioni storiche e aggiornamenti geopolitici — definisce «comunismo finanziario» l'espansione monetaria tramite valuta fiat, quantitative easing e cartolarizzazione, sostenendo che concentri il controllo delle risorse a scapito dell'economia reale e della scarsità materiale. Nelle edizioni successive l'autore collega questo impianto teorico alla tassazione delle plusvalenze non realizzate, al peso di energia e semiconduttori (tra Taiwan, Medio Oriente e filiere globali) e alle conseguenze geopolitiche della rimozione di Maduro in Venezuela sul debito e sull'assetto del dollaro.
 
-~~~~
+---
 
 ### Il modello italico
 
